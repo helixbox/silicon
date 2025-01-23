@@ -1,0 +1,89 @@
+{
+  "name": "CoinGecko",
+  "logoURI": "https://static.coingecko.com/s/thumbnail-007177f3eca19695592f0b8b0eabbdae282b54154e1be912285c9034ea6cbaf2.png",
+  "keywords": [
+    "defi"
+  ],
+  "timestamp": "2024-08-07T22:00:57.604+00:00",
+  "tokens": [
+    {
+      "chainId": 32520,
+      "address": "0xb999ea90607a826a3e6e6646b404c3c7d11fa39d",
+      "name": "IceCreamSwap",
+      "symbol": "ICE",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/26237/thumb/icecream.png?1696525321"
+    },
+    {
+      "chainId": 32520,
+      "address": "0xde14b85cf78f2add2e867fee40575437d5f10c06",
+      "name": "Bridged USDT",
+      "symbol": "USDT",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/35001/thumb/logo.png?1706959346"
+    },
+    {
+      "chainId": 32520,
+      "address": "0xcf2df9377a4e3c10e9ea29fdb8879d74c27fcde7",
+      "name": "Bridged USDC",
+      "symbol": "USDC",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/35218/thumb/USDC_Icon.png?1707908537"
+    },
+    {
+      "chainId": 32520,
+      "address": "0x3f3d3a2a698af53676cef6aca6bfe6a0ce913c0c",
+      "name": "Sphynx Labs",
+      "symbol": "SPHYNX",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/30142/thumb/photo_2023-05-03_21.44.17.jpeg?1696529063"
+    },
+    {
+      "chainId": 32520,
+      "address": "0xc3b730dd10a7e9a69204bdf6cb5a426e4f1f09e3",
+      "name": "LunaGens",
+      "symbol": "LUNG",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/26592/thumb/4-FAECD18-620-B-421-E-A27-E-70-D58-DDCE11-B.png?1696525667"
+    }
+  ],
+  "version": {
+    "message": {
+      "message": "Request failed with status code 429",
+      "name": "AxiosError",
+      "stack": "AxiosError: Request failed with status code 429\n    at settle (/var/task/node_modules/axios/dist/node/axios.cjs:1909:12)\n    at IncomingMessage.handleStreamEnd (/var/task/node_modules/axios/dist/node/axios.cjs:2989:11)\n    at IncomingMessage.emit (node:events:529:35)\n    at endReadableNT (node:internal/streams/readable:1400:12)\n    at process.processTicksAndRejections (node:internal/process/task_queues:82:21)",
+      "config": {
+        "transitional": {
+          "silentJSONParsing": true,
+          "forcedJSONParsing": true,
+          "clarifyTimeoutError": false
+        },
+        "adapter": [
+          "xhr",
+          "http"
+        ],
+        "transformRequest": [
+          null
+        ],
+        "transformResponse": [
+          null
+        ],
+        "timeout": 0,
+        "xsrfCookieName": "XSRF-TOKEN",
+        "xsrfHeaderName": "X-XSRF-TOKEN",
+        "maxContentLength": -1,
+        "maxBodyLength": -1,
+        "env": {},
+        "headers": {
+          "Accept": "application/json, text/plain, */*",
+          "User-Agent": "CoinGecko/TokenListChecker unknown",
+          "Accept-Encoding": "gzip, compress, deflate, br"
+        },
+        "method": "get",
+        "url": "https://tokens.coingecko.com/bitgert/all.json"
+      },
+      "code": "ERR_BAD_REQUEST",
+      "status": 429
+    }
+  }
+}
