@@ -106,9 +106,11 @@ class CoinGeckoTokenListGenerator {
     if (fs.existsSync(tokenPath)) {
       fs.rmSync(tokenPath, { recursive: true });
     }
+    if (fs.existsSync(manifestPath)) {
+      fs.rmSync(manifestPath);
+    }
     fs.mkdirSync(chainPath);
     fs.mkdirSync(tokenPath);
-    fs.rmSync(manifestPath);
     return {
       baseStorePath,
       chainPath,
