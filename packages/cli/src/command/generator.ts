@@ -45,7 +45,7 @@ class CoinGeckoTokenListGenerator {
       if (!tokenList) {
         continue;
       }
-      if (!tokenList.tokens.length) {
+      if (!tokenList.tokens || !tokenList.tokens.length) {
         console.log(`skipped ${platform.chain_identifier} (${platform.name}) because of no tokens`);
         continue;
       }
