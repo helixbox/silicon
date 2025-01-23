@@ -1,6 +1,6 @@
 import "reflect-metadata";
 
-import { Command, Option } from "commander";
+import { Command } from "commander";
 import { Container } from "typedi";
 import { SiliconGenerator } from "./command/generator";
 // import { SmartWalletAPIServer } from "@helixbox/smartwallet-component-apiserver";

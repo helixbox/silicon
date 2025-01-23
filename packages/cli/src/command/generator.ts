@@ -25,19 +25,20 @@ export class SiliconGenerator {
   }
 
   async generate(options: GenerateOptions) {
-    const tokenList = await this.coinGeckoTokenListGenerator.generate(options);
+    await this.coinGeckoTokenListGenerator.generate(options);
   }
 }
 
 class CoinGeckoTokenListGenerator {
-  async generate(options: GenerateOptions): Promise<TokenList[]> {
+  async generate(options: GenerateOptions) {
     const platforms = await this.platforms(options);
     const networks: number[] = [];
     const tokens: string[] = [];
     const networkToken: Record<number, string[]> = {};
     const { chainPath, tokenPath, manifestPath } = await this.ensureStorePath();
 
-    let ix = 0, count = platforms.length;
+    const count = platforms.length;
+    let ix = 0;
     for (const platform of platforms) {
       ix += 1;
       const tokenList = await this.tokenList(platform);
@@ -84,7 +85,6 @@ class CoinGeckoTokenListGenerator {
       ts: new Date().toISOString(),
     };
     fs.writeFileSync(manifestPath, JSON.stringify(manifest, null, 2));
-    return [];
   }
 
   private async ensureStorePath(): Promise<{
