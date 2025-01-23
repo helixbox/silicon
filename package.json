@@ -1,0 +1,19 @@
+{
+  "name": "@helixbox/silicon",
+  "version": "0.1.0",
+  "description": "helixbox silicon",
+  "private": true,
+  "scripts": {
+    "build:all": "lerna run build",
+    "test:all": "lerna run test",
+    "lint:all": "lerna run lint",
+    "clean": "lerna clean --yes && shx rm -rf node_modules"
+  },
+  "workspaces": [
+    "packages/*"
+  ],
+  "devDependencies": {
+    "lerna": "^8",
+    "shx": "^0.3"
+  }
+}
