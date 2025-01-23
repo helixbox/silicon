@@ -75,7 +75,7 @@ class CoinGeckoTokenListGenerator {
       console.log(
         `generated ${thisNetworkTokens.length} tokens for ${platform.chain_identifier} (${platform.id}) ${ix}/${count}`
       );
-      await setTimeout(1000);
+      await setTimeout(1000 * 5);
     }
     const manifest: SiliconMenifest = {
       version: 1,
