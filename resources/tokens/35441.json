@@ -1,0 +1,81 @@
+{
+  "name": "CoinGecko",
+  "logoURI": "https://static.coingecko.com/s/thumbnail-007177f3eca19695592f0b8b0eabbdae282b54154e1be912285c9034ea6cbaf2.png",
+  "keywords": [
+    "defi"
+  ],
+  "timestamp": "2024-12-29T22:00:14.069+00:00",
+  "tokens": [
+    {
+      "chainId": 35441,
+      "address": "0xd07178e3ecbc78de110df84fe1a979d5f349784a",
+      "name": "Wrapped Q",
+      "symbol": "WQ",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/39906/thumb/WQ.png?1724737434"
+    },
+    {
+      "chainId": 35441,
+      "address": "0xe31dd093a2a0adc80053bf2b929e56abfe1b1632",
+      "name": "QUSD",
+      "symbol": "QUSD",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/39907/thumb/QUSD.png?1724738797"
+    },
+    {
+      "chainId": 35441,
+      "address": "0x79cb92a2806bf4f82b614a84b6805963b8b1d8bb",
+      "name": "Q Bridged USDC  Q Mainnet ",
+      "symbol": "USDC",
+      "decimals": 6,
+      "logoURI": "https://assets.coingecko.com/coins/images/39908/thumb/USDC.jpg?1724742766"
+    },
+    {
+      "chainId": 35441,
+      "address": "0xeeeeeb57642040be42185f49c52f7e9b38f8eeee",
+      "name": "Elk Finance",
+      "symbol": "ELK",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/17813/thumb/elk.png?1696517333"
+    }
+  ],
+  "version": {
+    "message": {
+      "message": "write EPROTO C0CF661C8B7F0000:error:0A000410:SSL routines:ssl3_read_bytes:sslv3 alert handshake failure:ssl/record/rec_layer_s3.c:1590:SSL alert number 40\n",
+      "name": "Error",
+      "stack": "Error: write EPROTO C0CF661C8B7F0000:error:0A000410:SSL routines:ssl3_read_bytes:sslv3 alert handshake failure:ssl/record/rec_layer_s3.c:1590:SSL alert number 40\n\n    at AxiosError.from (/var/task/node_modules/axios/dist/node/axios.cjs:836:14)\n    at RedirectableRequest.handleRequestError (/var/task/node_modules/axios/dist/node/axios.cjs:3010:25)\n    at RedirectableRequest.emit (node:events:517:28)\n    at eventHandlers.<computed> (/var/task/node_modules/follow-redirects/index.js:14:24)\n    at ClientRequest.emit (node:events:517:28)\n    at TLSSocket.socketErrorListener (node:_http_client:501:9)\n    at TLSSocket.emit (node:events:517:28)\n    at emitErrorNT (node:internal/streams/destroy:151:8)\n    at emitErrorCloseNT (node:internal/streams/destroy:116:3)\n    at process.processTicksAndRejections (node:internal/process/task_queues:82:21)",
+      "config": {
+        "transitional": {
+          "silentJSONParsing": true,
+          "forcedJSONParsing": true,
+          "clarifyTimeoutError": false
+        },
+        "adapter": [
+          "xhr",
+          "http"
+        ],
+        "transformRequest": [
+          null
+        ],
+        "transformResponse": [
+          null
+        ],
+        "timeout": 0,
+        "xsrfCookieName": "XSRF-TOKEN",
+        "xsrfHeaderName": "X-XSRF-TOKEN",
+        "maxContentLength": -1,
+        "maxBodyLength": -1,
+        "env": {},
+        "headers": {
+          "Accept": "application/json, text/plain, */*",
+          "User-Agent": "CoinGecko/TokenListChecker unknown",
+          "Accept-Encoding": "gzip, compress, deflate, br"
+        },
+        "method": "get",
+        "url": "https://tokens.coingecko.com/q-mainnet/all.json"
+      },
+      "code": "EPROTO",
+      "status": null
+    }
+  }
+}
