@@ -1,5 +1,5 @@
 {
-  "name": "@helixbox/silicon-generator",
+  "name": "@helixbox/silicon-cli",
   "version": "0.1.0",
   "description": "helixbox silicon",
   "main": "build/index.js",
@@ -10,7 +10,11 @@
   },
   "dependencies": {
     "chalk": "^4",
-    "commander": "^12"
+    "commander": "^12",
+    "reflect-metadata": "^0.2",
+    "typedi": "^0.10",
+    "@uniswap/token-lists": "^1.0.0-beta.34",
+    "axios": "^1"
   },
   "devDependencies": {
     "@types/node": "^22",

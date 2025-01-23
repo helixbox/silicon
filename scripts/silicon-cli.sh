@@ -13,5 +13,5 @@ if [ "$SILICON_PROFILE" = "development" ]; then
   npm run build:all
 fi
 
-npx lerna run start --scope=@helixbox/silicon-generator -- $@
+npx lerna run start --scope=@helixbox/silicon-cli -- $@
 
