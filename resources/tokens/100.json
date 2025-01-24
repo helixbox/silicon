@@ -4,7 +4,7 @@
   "keywords": [
     "defi"
   ],
-  "timestamp": "2025-01-23T10:00:11.596+00:00",
+  "timestamp": "2025-01-24T13:00:10.648+00:00",
   "tokens": [
     {
       "chainId": 100,
@@ -40,19 +40,19 @@
     },
     {
       "chainId": 100,
-      "address": "0xaf204776c7245bf4147c2612bf6e5972ee483701",
-      "name": "Savings xDAI",
-      "symbol": "SDAI",
+      "address": "0xf490c80aae5f2616d3e3bda2483e30c4cb21d1a0",
+      "name": "StakeWise Staked GNO",
+      "symbol": "OSGNO",
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/32066/thumb/sDAI_Logo_%281%29.png?1696530863"
+      "logoURI": "https://assets.coingecko.com/coins/images/39458/thumb/stakewiseosgno_32.webp?1722390395"
     },
     {
       "chainId": 100,
-      "address": "0x6c76971f98945ae98dd7d4dfca8711ebea946ea6",
-      "name": "Bridged Wrapped stETH  Gnosis ",
-      "symbol": "WSTETH",
+      "address": "0x3a97704a1b25f08aa230ae53b352e2e72ef52843",
+      "name": "Agave",
+      "symbol": "AGVE",
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/33017/thumb/wStETH.png?1700190250"
+      "logoURI": "https://assets.coingecko.com/coins/images/14146/thumb/agve.png?1696513865"
     },
     {
       "chainId": 100,
@@ -64,27 +64,11 @@
     },
     {
       "chainId": 100,
-      "address": "0xb5d592f85ab2d955c25720ebe6ff8d4d1e1be300",
-      "name": "Particle",
-      "symbol": "PRTCLE",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/14395/thumb/unknown.png?1696514085"
-    },
-    {
-      "chainId": 100,
       "address": "0x44fa8e6f47987339850636f88629646662444217",
       "name": "OmniBridge Bridged DAI  Gnosis Chain ",
       "symbol": "DAI",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/39808/thumb/dai.png?1724126705"
-    },
-    {
-      "chainId": 100,
-      "address": "0x3a97704a1b25f08aa230ae53b352e2e72ef52843",
-      "name": "Agave",
-      "symbol": "AGVE",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/14146/thumb/agve.png?1696513865"
     },
     {
       "chainId": 100,
@@ -112,11 +96,19 @@
     },
     {
       "chainId": 100,
-      "address": "0xf490c80aae5f2616d3e3bda2483e30c4cb21d1a0",
-      "name": "StakeWise Staked GNO",
-      "symbol": "OSGNO",
+      "address": "0xb5d592f85ab2d955c25720ebe6ff8d4d1e1be300",
+      "name": "Particle",
+      "symbol": "PRTCLE",
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/39458/thumb/stakewiseosgno_32.webp?1722390395"
+      "logoURI": "https://assets.coingecko.com/coins/images/14395/thumb/unknown.png?1696514085"
+    },
+    {
+      "chainId": 100,
+      "address": "0x6c76971f98945ae98dd7d4dfca8711ebea946ea6",
+      "name": "Bridged Wrapped stETH  Gnosis ",
+      "symbol": "WSTETH",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/33017/thumb/wStETH.png?1700190250"
     },
     {
       "chainId": 100,
@@ -133,6 +125,14 @@
       "symbol": "WATER",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/26089/thumb/water_logo.png?1696525180"
+    },
+    {
+      "chainId": 100,
+      "address": "0xaf204776c7245bf4147c2612bf6e5972ee483701",
+      "name": "Savings xDAI",
+      "symbol": "SDAI",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/32066/thumb/sDAI_Logo_%281%29.png?1696530863"
     },
     {
       "chainId": 100,
@@ -564,7 +564,7 @@
       "name": "Tellor Tributes",
       "symbol": "TRB",
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/9644/thumb/Blk_icon_current.png?1696509713"
+      "logoURI": "https://assets.coingecko.com/coins/images/9644/thumb/TRB-New_Logo.png?1737722143"
     },
     {
       "chainId": 100,
@@ -801,6 +801,6 @@
   "version": {
     "major": 1,
     "minor": 3,
-    "patch": 1
+    "patch": 2
   }
 }

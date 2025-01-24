@@ -4,7 +4,7 @@
   "keywords": [
     "defi"
   ],
-  "timestamp": "2024-11-29T17:00:30.150+00:00",
+  "timestamp": "2025-01-24T13:00:09.564+00:00",
   "tokens": [
     {
       "chainId": 169,
@@ -13,6 +13,14 @@
       "symbol": "GULL",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/51373/thumb/gulllogo.png?1730938086"
+    },
+    {
+      "chainId": 169,
+      "address": "0x305e88d809c9dc03179554bfbf85ac05ce8f18d6",
+      "name": "Bridged Wrapped Bitcoin  Manta Pacific ",
+      "symbol": "WBTC",
+      "decimals": 8,
+      "logoURI": "https://assets.coingecko.com/coins/images/32217/thumb/wbtc_%281%29.png?1696832481"
     },
     {
       "chainId": 169,
@@ -32,14 +40,6 @@
     },
     {
       "chainId": 169,
-      "address": "0x95cef13441be50d20ca4558cc0a27b601ac544e5",
-      "name": "Manta Network",
-      "symbol": "MANTA",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/34289/thumb/manta.jpg?1704468717"
-    },
-    {
-      "chainId": 169,
       "address": "0x0dc808adce2099a9f62aa87d9670745aba741746",
       "name": "Bridged Wrapped Ether  Manta Pacific ",
       "symbol": "WETH",
@@ -48,19 +48,11 @@
     },
     {
       "chainId": 169,
-      "address": "0xb73603c5d87fa094b7314c74ace2e64d165016fb",
-      "name": "Bridged USD Coin  Manta Pacific ",
-      "symbol": "USDC",
-      "decimals": 6,
-      "logoURI": "https://assets.coingecko.com/coins/images/32215/thumb/usdc.png?1696832099"
-    },
-    {
-      "chainId": 169,
-      "address": "0x305e88d809c9dc03179554bfbf85ac05ce8f18d6",
-      "name": "Bridged Wrapped Bitcoin  Manta Pacific ",
-      "symbol": "WBTC",
-      "decimals": 8,
-      "logoURI": "https://assets.coingecko.com/coins/images/32217/thumb/wbtc_%281%29.png?1696832481"
+      "address": "0x95cef13441be50d20ca4558cc0a27b601ac544e5",
+      "name": "Manta Network",
+      "symbol": "MANTA",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/34289/thumb/manta.jpg?1704468717"
     },
     {
       "chainId": 169,
@@ -183,6 +175,14 @@
     },
     {
       "chainId": 169,
+      "address": "0xb73603c5d87fa094b7314c74ace2e64d165016fb",
+      "name": "Bridged USD Coin  Manta Pacific ",
+      "symbol": "USDC",
+      "decimals": 6,
+      "logoURI": "https://assets.coingecko.com/coins/images/32215/thumb/usdc.png?1696832099"
+    },
+    {
+      "chainId": 169,
       "address": "0xca24fdce9d4d9bd69c829689baea02e34d025f43",
       "name": "KUMA",
       "symbol": "KUMA",
@@ -267,7 +267,7 @@
       "name": "Tellor Tributes",
       "symbol": "TRB",
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/9644/thumb/Blk_icon_current.png?1696509713"
+      "logoURI": "https://assets.coingecko.com/coins/images/9644/thumb/TRB-New_Logo.png?1737722143"
     },
     {
       "chainId": 169,
@@ -297,6 +297,6 @@
   "version": {
     "major": 3,
     "minor": 1,
-    "patch": 0
+    "patch": 1
   }
 }
