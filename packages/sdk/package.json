@@ -1,0 +1,27 @@
+{
+  "name": "@helixbox/silicon-sdk",
+  "version": "0.1.0",
+  "description": "helixbox silicon",
+  "main": "build/index.js",
+  "scripts": {
+    "build": "tsc -b",
+    "lint": "eslint . --ext .ts --fix"
+  },
+  "dependencies": {
+    "@uniswap/token-lists": "^1.0.0-beta.34",
+    "axios": "^1",
+    "viem": "^2"
+  },
+  "devDependencies": {
+    "@types/node": "^22",
+    "ts-node": "^10",
+    "typescript": "^5",
+    "eslint": "^8",
+    "@typescript-eslint/eslint-plugin": "^5",
+    "@typescript-eslint/parser": "^5"
+  },
+  "files": [
+    "dist",
+    "build"
+  ]
+}
