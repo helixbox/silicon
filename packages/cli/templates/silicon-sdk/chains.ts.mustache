@@ -1,0 +1,78 @@
+
+export interface HbChain {
+  id: number;
+  name: string;
+  nativeCurrency: HbChainNativeCurrency;
+  rpcUrls: {
+    [key: string]: HbChainRpcUrls;
+    default: HbChainRpcUrls;
+  };
+  blockExplorers?:
+    | {
+        [key: string]: HbChainBlockExplorer;
+        default: HbChainBlockExplorer;
+      }
+    | undefined;
+}
+
+export interface HbChainNativeCurrency {
+  name: string;
+  symbol: string;
+  decimals: number;
+}
+
+export interface HbChainRpcUrls {
+  http: readonly string[];
+  webSocket?: readonly string[] | undefined;
+  ws?: readonly string[] | undefined;
+}
+
+export type HbChainBlockExplorer = {
+  name: string;
+  url: string;
+  apiUrl?: string | undefined;
+  blockExplorerApi?: string | undefined;
+};
+
+
+{{#chainInfos}}
+export const {{ _code | pascal_case }}: HbChain = {
+  id: {{ id }},
+  name: "{{ name }}",
+  nativeCurrency: {{{ nativeCurrency }}},
+  rpcUrls: {{{ rpcUrls }}},
+  {{#blockExplorers}}
+  blockExplorers: {{{blockExplorers}}}
+  {{/blockExplorers}}
+}
+
+{{/chainInfos}}
+
+
+export class HelixboxChain {
+  static chains(): HbChain[] {
+    return [
+      {{#chainNames}}
+      {{ . | pascal_case }},
+      {{/chainNames}}
+    ];
+  }
+
+  {{#chainNames}}
+  static {{ . }}: HbChain = {{ . | pascal_case }};
+  {{/chainNames}}
+
+  static get(chain: string): HbChain | undefined {
+    if (!chain) return undefined;
+
+    switch (chain) {
+    {{#chainNames}}
+      case "{{ . }}": return {{ . | pascal_case }};
+    {{/chainNames}}
+    }
+    const pickedChain = HelixboxChain.chains().find(
+      item => item.id.toString() === chain.toString()
+    );
+    return pickedChain;
+  }
+}

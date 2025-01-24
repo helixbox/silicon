@@ -22,7 +22,7 @@ interface ChainGuide {
 }
 
 @Service()
-export class SiliconGenerator {
+export class SiliconGeneratorTokens {
   private readonly coinGeckoTokenListGenerator: CoinGeckoTokenListGenerator;
 
   constructor() {
