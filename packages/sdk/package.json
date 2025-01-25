@@ -1,8 +1,9 @@
 {
   "name": "@helixbox/silicon-sdk",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "helixbox silicon",
-  "main": "build/index.js",
+  "main": "build/src/index.js",
+  "types": "build/src/index.d.ts",
   "scripts": {
     "build": "tsc -b",
     "test": "jest --verbose --coverage",
