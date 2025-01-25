@@ -89,8 +89,10 @@ class SyncTokenRuntime {
   private firstInitialized: boolean = false;
   private chainMap: Record<string, ChainRaw> = {};
   private tokenMap: Record<string, HbToken> = {};
+  private lastSyncTime: Date | undefined;
+  private syncInterval: number;
 
-  constructor() {
+  constructor(options?: {syncInterval?: number}) {
     this.watchLinks.push(
       ...[
         {
@@ -103,9 +105,17 @@ class SyncTokenRuntime {
         },
       ]
     );
+    this.syncInterval = options?.syncInterval ?? 1000 * 60 * 60 * 2; // default 2 hours
   }
 
-  private async loadRemote(wls?: WatchLink[]) {
+  private async loadRemote(wls?: WatchLink[], force?: boolean) {
+    const now = new Date();
+    if (this.lastSyncTime) {
+      const interval: number = (+now) - (+this.lastSyncTime);
+      if (interval <= this.syncInterval && !(force ?? false)) {
+        return;
+      }
+    }
     if (wls && wls.length) {
       for (const wl of wls) {
         if (this.watchLinks.findIndex((item) => item.link === wl.link) != -1) {
@@ -209,10 +219,9 @@ class SyncTokenRuntime {
 
     const inputChains = options.chains;
     const inputTokens = options.tokens;
-    if (!inputChains || !inputChains.length) {
-      chainIds = Object.keys(this.chainMap);
-    } else {
+    if (inputChains && inputChains.length) {
       for (const c of inputChains) {
+        if(!c) continue;
         const hc = HelixboxChain.get(c.toString());
         if (hc) {
           chainIds.push(hc.id.toString());
@@ -228,6 +237,9 @@ class SyncTokenRuntime {
           continue;
         }
       }
+    }
+    if (!chainIds.length) {
+      chainIds = Object.keys(this.chainMap);
     }
 
     const results: SiliconToken[] = [];
