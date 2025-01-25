@@ -4,15 +4,23 @@
   "keywords": [
     "defi"
   ],
-  "timestamp": "2025-01-23T09:00:34.496+00:00",
+  "timestamp": "2025-01-25T08:00:20.867+00:00",
   "tokens": [
     {
       "chainId": 81457,
-      "address": "0x010392305558d58e1cb0eec5529a65bf3545f82e",
-      "name": "MACHI",
-      "symbol": "MACHI",
+      "address": "0xd1fedd031b92f50a50c05e2c45af1adb4cea82f4",
+      "name": "BladeSwap",
+      "symbol": "BLADE",
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/50378/thumb/machi.png?1727403678"
+      "logoURI": "https://assets.coingecko.com/coins/images/37331/thumb/BLADE_CoinGecko.png?1714030403"
+    },
+    {
+      "chainId": 81457,
+      "address": "0xfd4d19f9fbb9f730c3c88a21755832bd2455144e",
+      "name": "Super Sushi Samurai",
+      "symbol": "SSS",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/36139/thumb/sss.jpeg?1710684220"
     },
     {
       "chainId": 81457,
@@ -21,6 +29,14 @@
       "symbol": "YIELD",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/36231/thumb/crypto-valleys.jpeg?1710906095"
+    },
+    {
+      "chainId": 81457,
+      "address": "0x5ffd9ebd27f2fcab044c0f0a26a45cb62fa29c06",
+      "name": "PacMoon",
+      "symbol": "PAC",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/36459/thumb/pacmoon.png?1711501114"
     },
     {
       "chainId": 81457,
@@ -40,30 +56,6 @@
     },
     {
       "chainId": 81457,
-      "address": "0xfd4d19f9fbb9f730c3c88a21755832bd2455144e",
-      "name": "Super Sushi Samurai",
-      "symbol": "SSS",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/36139/thumb/sss.jpeg?1710684220"
-    },
-    {
-      "chainId": 81457,
-      "address": "0xd1fedd031b92f50a50c05e2c45af1adb4cea82f4",
-      "name": "BladeSwap",
-      "symbol": "BLADE",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/37331/thumb/BLADE_CoinGecko.png?1714030403"
-    },
-    {
-      "chainId": 81457,
-      "address": "0x5ffd9ebd27f2fcab044c0f0a26a45cb62fa29c06",
-      "name": "PacMoon",
-      "symbol": "PAC",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/36459/thumb/pacmoon.png?1711501114"
-    },
-    {
-      "chainId": 81457,
       "address": "0x7217124c626f0b7077be91df939195c9a8184ecc",
       "name": "Finger Blast",
       "symbol": "FINGER",
@@ -72,11 +64,11 @@
     },
     {
       "chainId": 81457,
-      "address": "0xb1a5700fa2358173fe465e6ea4ff52e36e88e2ad",
-      "name": "Blast",
-      "symbol": "BLAST",
+      "address": "0x010392305558d58e1cb0eec5529a65bf3545f82e",
+      "name": "MACHI",
+      "symbol": "MACHI",
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/35494/thumb/Blast.jpg?1719385662"
+      "logoURI": "https://assets.coingecko.com/coins/images/50378/thumb/machi.png?1727403678"
     },
     {
       "chainId": 81457,
@@ -109,6 +101,14 @@
       "symbol": "USD+",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/39627/thumb/usd_plus.png?1723181444"
+    },
+    {
+      "chainId": 81457,
+      "address": "0xb1a5700fa2358173fe465e6ea4ff52e36e88e2ad",
+      "name": "Blast",
+      "symbol": "BLAST",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/35494/thumb/Blast.jpg?1719385662"
     },
     {
       "chainId": 81457,
@@ -400,11 +400,91 @@
     },
     {
       "chainId": 81457,
+      "address": "0x296c2186948712d66bef4778567c4d2f734bff3c",
+      "name": "Dinari ARKB",
+      "symbol": "ARKBD",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/53944/thumb/d-token-200.png?1737787573"
+    },
+    {
+      "chainId": 81457,
+      "address": "0x098dbfd917f59495fdfc30628c0a5dad4bda2b1e",
+      "name": "Dinari ETHE",
+      "symbol": "ETHED",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/53949/thumb/d-token-200.png?1737788495"
+    },
+    {
+      "chainId": 81457,
+      "address": "0x28215d9e6444116e194405e93ccf68afde544d5c",
+      "name": "Dinari IBIT",
+      "symbol": "IBITD",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/53950/thumb/d-token-200.png?1737788536"
+    },
+    {
+      "chainId": 81457,
+      "address": "0x9e23da6c963d9cfc929f3bda89e9e20984c008ef",
+      "name": "Dinari JNJ",
+      "symbol": "JNJD",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/53951/thumb/d-token-200.png?1737788564"
+    },
+    {
+      "chainId": 81457,
+      "address": "0xbfdaa788366593d3c7d15f9abc0b1cab2b1694ba",
+      "name": "Dinari BLK",
+      "symbol": "BLKD",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/53952/thumb/d-token-200.png?1737788600"
+    },
+    {
+      "chainId": 81457,
       "address": "0x578122317baca7a3c7bb5301460d2f4f96e9394a",
       "name": "Davos xyz USD",
       "symbol": "DUSD",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/28775/thumb/dusd_logo_200x200.png?1696527754"
+    },
+    {
+      "chainId": 81457,
+      "address": "0xfcbe84b53fd3ed33b5dfa82fb005603daa5204a7",
+      "name": "Dinari MCD",
+      "symbol": "MCDD",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/53954/thumb/d-token-200.png?1737789312"
+    },
+    {
+      "chainId": 81457,
+      "address": "0x87ec43715cd54b97e3da2bbebbeb919177aa2f6d",
+      "name": "Dinari QQQ",
+      "symbol": "QQQD",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/53957/thumb/d-token-200.png?1737790123"
+    },
+    {
+      "chainId": 81457,
+      "address": "0x0b96517fb729c6f6c00ab15abb3d72ae708d5960",
+      "name": "Dinari TQQQ",
+      "symbol": "TQQQD",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/53958/thumb/d-token-200.png?1737790158"
+    },
+    {
+      "chainId": 81457,
+      "address": "0x87084c981709878e3c806ad45fb01e3522e08123",
+      "name": "Dinari ARKK",
+      "symbol": "ARKKD",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/53945/thumb/d-token-200.png?1737787680"
+    },
+    {
+      "chainId": 81457,
+      "address": "0xdd6a4d44987fc974c4113ef403b941fe09d0068c",
+      "name": "Dinari AZN",
+      "symbol": "AZND",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/53946/thumb/d-token-200.png?1737787723"
     },
     {
       "chainId": 81457,
@@ -824,7 +904,7 @@
   ],
   "version": {
     "major": 12,
-    "minor": 3,
+    "minor": 4,
     "patch": 0
   }
 }
