@@ -163,6 +163,7 @@ class SyncTokenRuntime {
       this.firstInitialized = true;
       await this.loadChainTokens(DEFAULT_LOAD_CHAINS);
     }
+    this.lastSyncTime = new Date();
   }
 
   public async loadChainTokens(chains: string[] | number[]) {
