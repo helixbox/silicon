@@ -97,7 +97,8 @@ class CoinGeckoTokenListGenerator {
       networkToken: networkToken,
       ts: new Date().toISOString(),
     };
-    fs.writeFileSync(manifestPath, JSON.stringify(manifest, null, 2));
+    //# disabled, if required please open it
+    // fs.writeFileSync(manifestPath, JSON.stringify(manifest, null, 2));
     fs.writeFileSync(chainGuidePath, JSON.stringify(guides, null, 2));
 
     const coins = await this.coins();
