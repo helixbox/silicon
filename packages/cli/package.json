@@ -3,6 +3,7 @@
   "version": "0.1.0",
   "description": "helixbox silicon",
   "main": "build/index.js",
+  "private": true,
   "scripts": {
     "build": "tsc -b",
     "start": "node build/index.js",
