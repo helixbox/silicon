@@ -53,6 +53,9 @@ export class HelixboxToken {
         if (item.id.indexOf('bridged-usdc') != -1 && token.id.indexOf('bridged-usdc') != -1) {
           return true;
         }
+        if (item.id.indexOf('bridged-pink') != -1 && token.id.indexOf('bridged-pink') != -1) {
+          return true;
+        }
         return false;
       });
       if (mergedToken) {
@@ -63,6 +66,10 @@ export class HelixboxToken {
         if (mergedToken.id.indexOf('bridged-usdc') != -1) {
           mergedToken.id = 'bridged-usdc';
           mergedToken.name = 'Bridged USDC';
+        }
+        if (mergedToken.id.indexOf('bridged-pink') != -1) {
+          mergedToken.id = 'bridged-pink';
+          mergedToken.name = 'Bridged PINK';
         }
       }
       if (!mergedToken) {
@@ -129,7 +136,7 @@ export type HbToken = TokenList
 class SyncTokenRuntime {
   private watchLinks: WatchLink[] = [];
 
-  private loadedChains: number[] = [];
+  private loadedChains: string[] = [];
   private chainGuides: ChainGuide[] = [];
   private coinRaws: CoinRaw[] = [];
   private quickCoinRaw: Record<string, CoinRaw> = {};
@@ -171,7 +178,8 @@ class SyncTokenRuntime {
         this.watchLinks.push(wl);
       }
     }
-    for (const wl of this.watchLinks) {
+    const loadWatchLinks = wls ? wls : this.watchLinks;
+    for (const wl of loadWatchLinks) {
       try {
         const response = await axios.get(wl.link);
         const data = response.data;
@@ -232,7 +240,7 @@ class SyncTokenRuntime {
       "https://raw.githubusercontent.com/helixbox/silicon/refs/heads/main/resources";
     let chnged = false;
     for (const chainId of chainIds) {
-      if (this.loadedChains.findIndex((item) => item === chainId) != -1) {
+      if (this.loadedChains.findIndex((item) => item === chainId.toString()) != -1) {
         continue;
       }
       chnged = true;
@@ -246,7 +254,7 @@ class SyncTokenRuntime {
         link: `${baseLink}/tokens/${chainId}.json`,
         chainId: chainId,
       });
-      this.loadedChains.push(chainId);
+      this.loadedChains.push(chainId.toString());
     }
     if (chnged) {
       this.firstInitialized = true;
@@ -298,9 +306,23 @@ class SyncTokenRuntime {
     if (!chainIds.length) {
       chainIds = Object.keys(this.chainMap);
     }
+    const shouldLoadChainIds = [];
+    for (const chainId of chainIds) {
+      if (this.loadedChains.findIndex((item) => item === chainId) != -1) {
+        continue;
+      }
+      shouldLoadChainIds.push(chainId);
+    }
+    if (shouldLoadChainIds.length) {
+      await this.loadChainTokens(shouldLoadChainIds);
+    }
 
     const results: SiliconToken[] = [];
     for (const itkn of inputTokens) {
+      if (!itkn) {
+        console.warn(`you givend an empty token`);
+        continue;
+      }
       for (const sc of chainIds) {
         const chain = this.chainMap[sc];
         const token = this.tokenMap[sc];

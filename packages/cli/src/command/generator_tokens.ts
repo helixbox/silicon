@@ -76,14 +76,10 @@ class CoinGeckoTokenListGenerator {
         id: platform.id,
         chain_identifier: platform.chain_identifier,
       });
-      fs.writeFileSync(
-        `${chainPath}/${platform.chain_identifier}.json`,
-        JSON.stringify(platform, null, 2)
-      );
-      fs.writeFileSync(
-        `${tokenPath}/${platform.chain_identifier}.json`,
-        JSON.stringify(tokenList, null, 2)
-      );
+      const storedChainPath = `${chainPath}/${platform.chain_identifier}.json`;
+      const storedTokenPath = `${tokenPath}/${platform.chain_identifier}.json`;
+      fs.writeFileSync(storedChainPath, JSON.stringify(platform, null, 2));
+      fs.writeFileSync(storedTokenPath, JSON.stringify(tokenList, null, 2));
 
       console.log(
         `generated ${thisNetworkTokens.length} tokens for ${platform.chain_identifier} (${platform.id}) ${ix}/${count}`
@@ -103,17 +99,107 @@ class CoinGeckoTokenListGenerator {
 
     const coins = await this.coins();
     fs.writeFileSync(coinsPath, JSON.stringify(coins, null, 2));
+
+    await this.restructuringCustomData();
+  }
+
+  private async restructuringCustomData() {
+    const { definitionPath, chainPath, tokenPath } =
+      await this.ensureStorePath();
+    const restructMapings = [
+      { type: "chain", source: `${definitionPath}/chains`, target: chainPath },
+      { type: "token", source: `${definitionPath}/tokens`, target: tokenPath },
+    ];
+    for (const mps of restructMapings) {
+      const files = fs.readdirSync(mps.source);
+      if (!files || !files.length) {
+        continue;
+      }
+      for (const file of files) {
+        const sourcePath = `${mps.source}/${file}`;
+        const targetPath = `${mps.target}/${file}`;
+        const _sourceContent = fs.existsSync(sourcePath)
+          ? fs.readFileSync(sourcePath, "utf-8")
+          : "";
+        const _targetContent = fs.existsSync(targetPath)
+          ? fs.readFileSync(targetPath, "utf-8")
+          : "";
+        const sourceContent = _sourceContent ? JSON.parse(_sourceContent) : {};
+        const targetContent = _targetContent ? JSON.parse(_targetContent) : {};
+        switch (mps.type) {
+          case "chain": {
+            if (sourceContent.id) targetContent.id = sourceContent.id;
+            if (sourceContent.chain_identifier)
+              targetContent.chain_identifier = sourceContent.chain_identifier;
+            if (sourceContent.name) targetContent.name = sourceContent.name;
+            if (sourceContent.shortname)
+              targetContent.shortname = sourceContent.shortname;
+            if (sourceContent.native_coin_id)
+              targetContent.native_coin_id = sourceContent.native_coin_id;
+            if (sourceContent.image) targetContent.image = sourceContent.image;
+            console.log(`merged chain ${sourcePath} to ${targetPath}`);
+            break;
+          }
+          case "token": {
+            if (sourceContent.name) targetContent.name = sourceContent.name;
+            if (sourceContent.logoURI)
+              targetContent.logoURI = sourceContent.logoURI;
+            if (sourceContent.keywords)
+              targetContent.keywords = sourceContent.keywords;
+            if (sourceContent.tokens) {
+              const targetTokens = targetContent.tokens;
+              if (!targetTokens || !targetTokens.length) {
+                targetContent.tokens = [
+                  ...sourceContent.tokens
+                ];
+                break;
+              }
+              for (const sourceToken of sourceContent.tokens) {
+                let updated = false;
+                for (const targetToken of targetTokens) {
+                  if (
+                    sourceToken.address.toLowerCase() ===
+                    targetToken.address.toLowerCase()
+                  ) {
+                    targetToken.chainId = sourceToken.chainId;
+                    targetToken.address = sourceToken.address;
+                    targetToken.name = sourceToken.name;
+                    targetToken.symbol = sourceToken.symbol;
+                    targetToken.decimals = sourceToken.decimals;
+                    targetToken.logoURI = sourceToken.logoURI;
+                    updated = true;
+                    break;
+                  }
+                }
+                if (!updated) {
+                  targetTokens.push(sourceToken);
+                }
+              }
+            }
+            if (sourceContent.version)
+              targetContent.version = sourceContent.version;
+            console.log(`merged token ${sourcePath} to ${targetPath}`);
+            break;
+          }
+        }
+        fs.writeFileSync(targetPath, JSON.stringify(targetContent, null, 2));
+      }
+    }
   }
 
   private async ensureStorePath(): Promise<{
     baseStorePath: string;
+    definitionPath: string;
     chainPath: string;
     tokenPath: string;
     manifestPath: string;
     chainGuidePath: string;
     coinsPath: string;
   }> {
-    const baseStorePath = "../../resources";
+    const basePath = `${__dirname}/../../../../`;
+
+    const baseStorePath = `${basePath}/resources`;
+    const definitionPath = `${basePath}/definition`;
     const chainPath = `${baseStorePath}/chains`;
     const tokenPath = `${baseStorePath}/tokens`;
     const manifestPath = `${baseStorePath}/silicon-manifest.json`;
@@ -139,6 +225,7 @@ class CoinGeckoTokenListGenerator {
     }
     return {
       baseStorePath,
+      definitionPath,
       chainPath,
       tokenPath,
       manifestPath,
@@ -150,7 +237,7 @@ class CoinGeckoTokenListGenerator {
   private async coins(): Promise<CoinGeckoCoin[]> {
     try {
       const response = await axios.get(
-        'https://api.coingecko.com/api/v3/coins/list?include_platform=true'
+        "https://api.coingecko.com/api/v3/coins/list?include_platform=true"
       );
       return response.data;
     } catch (e) {
