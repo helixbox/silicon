@@ -326,6 +326,7 @@ class SyncTokenRuntime {
           blockExplorers: hc.blockExplorers,
           address: foundedToken.address,
           logoURI: chain.image?.large,
+          decimals: foundedToken.decimals,
         });
       }
     }
@@ -364,4 +365,5 @@ export interface SiliconToken {
 export interface SiliconTokenPlatform extends HbChain {
   logoURI?: string;
   address: string;
+  decimals: number;
 }
