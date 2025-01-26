@@ -12,7 +12,7 @@ const DEFAULT_LOAD_CHAINS = [
 ];
 
 interface GetTokenOptions {
-  chains?: string[];
+  chains?: string[] | number[];
   tokens: string[];
   enableFuzzyMatching?: boolean;
 }
