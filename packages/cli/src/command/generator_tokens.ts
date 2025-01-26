@@ -8,13 +8,13 @@ export interface GenerateOptions {
   platforms: string[];
 }
 
-interface SiliconMenifest {
-  version: number;
-  networks: number[];
-  tokens: string[];
-  networkToken: Record<number, string[]>;
-  ts: string;
-}
+// interface SiliconMenifest {
+//   version: number;
+//   networks: number[];
+//   tokens: string[];
+//   networkToken: Record<number, string[]>;
+//   ts: string;
+// }
 
 interface ChainGuide {
   id: string;
@@ -22,7 +22,7 @@ interface ChainGuide {
 }
 
 @Service()
-export class SiliconGenerator {
+export class SiliconGeneratorTokens {
   private readonly coinGeckoTokenListGenerator: CoinGeckoTokenListGenerator;
 
   constructor() {
@@ -40,7 +40,7 @@ class CoinGeckoTokenListGenerator {
     const networks: number[] = [];
     const tokens: string[] = [];
     const networkToken: Record<number, string[]> = {};
-    const { chainPath, tokenPath, manifestPath, chainGuidePath, coinsPath } =
+    const { chainPath, tokenPath, chainGuidePath, coinsPath } =
       await this.ensureStorePath();
 
     const count = platforms.length;
@@ -90,14 +90,15 @@ class CoinGeckoTokenListGenerator {
       );
       await setTimeout(1000 * 5);
     }
-    const manifest: SiliconMenifest = {
-      version: 1,
-      networks: networks,
-      tokens: tokens,
-      networkToken: networkToken,
-      ts: new Date().toISOString(),
-    };
-    fs.writeFileSync(manifestPath, JSON.stringify(manifest, null, 2));
+    // const manifest: SiliconMenifest = {
+    //   version: 1,
+    //   networks: networks,
+    //   tokens: tokens,
+    //   networkToken: networkToken,
+    //   ts: new Date().toISOString(),
+    // };
+    //# disabled, if required please open it
+    // fs.writeFileSync(manifestPath, JSON.stringify(manifest, null, 2));
     fs.writeFileSync(chainGuidePath, JSON.stringify(guides, null, 2));
 
     const coins = await this.coins();
@@ -121,11 +122,11 @@ class CoinGeckoTokenListGenerator {
     if (!fs.existsSync(baseStorePath)) {
       fs.mkdirSync(baseStorePath);
     }
-    if (fs.existsSync(chainPath)) {
-      fs.rmSync(chainPath, { recursive: true });
+    if (!fs.existsSync(chainPath)) {
+      fs.mkdirSync(chainPath);
     }
-    if (fs.existsSync(tokenPath)) {
-      fs.rmSync(tokenPath, { recursive: true });
+    if (!fs.existsSync(tokenPath)) {
+      fs.mkdirSync(tokenPath);
     }
     if (fs.existsSync(manifestPath)) {
       fs.rmSync(manifestPath);
@@ -136,8 +137,6 @@ class CoinGeckoTokenListGenerator {
     if (fs.existsSync(coinsPath)) {
       fs.rmSync(coinsPath);
     }
-    fs.mkdirSync(chainPath);
-    fs.mkdirSync(tokenPath);
     return {
       baseStorePath,
       chainPath,

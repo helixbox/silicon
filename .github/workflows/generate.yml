@@ -18,7 +18,7 @@ jobs:
       - name: Generate
         run: |
           export SILICON_PROFILE=development
-          ./scripts/silicon-cli.sh generate
+          ./scripts/silicon-cli.sh generate-tokens
 
       - name: Commit files
         run: |

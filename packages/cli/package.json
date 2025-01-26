@@ -1,11 +1,13 @@
 {
   "name": "@helixbox/silicon-cli",
-  "version": "0.1.0",
+  "version": "0.1.14",
   "description": "helixbox silicon",
   "main": "build/index.js",
+  "private": true,
   "scripts": {
     "build": "tsc -b",
     "start": "node build/index.js",
+    "test": "npm run build",
     "lint": "eslint . --ext .ts --fix"
   },
   "dependencies": {
@@ -14,7 +16,11 @@
     "reflect-metadata": "^0.2",
     "typedi": "^0.10",
     "@uniswap/token-lists": "^1.0.0-beta.34",
-    "axios": "^1"
+    "axios": "^1",
+    "viem": "^2",
+    "@jvitela/mustache-wax": "^1",
+    "mustache": "^4",
+    "change-case": "^5"
   },
   "devDependencies": {
     "@types/node": "^22",
