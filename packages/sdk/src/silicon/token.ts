@@ -38,7 +38,6 @@ export class HelixboxToken {
   static async chain(chain: string): Promise<HbChainPlus | undefined> {
     return await this.runtime().chain(chain);
   }
-
 }
 
 enum LinkType {
@@ -100,7 +99,7 @@ class SyncTokenRuntime {
   private lastSyncTime: Date | undefined;
   private syncInterval: number;
 
-  constructor(options?: {syncInterval?: number}) {
+  constructor(options?: { syncInterval?: number }) {
     this.watchLinks.push(
       ...[
         {
@@ -119,7 +118,7 @@ class SyncTokenRuntime {
   private async loadRemote(wls?: WatchLink[], force?: boolean) {
     const now = new Date();
     if (this.lastSyncTime) {
-      const interval: number = (+now) - (+this.lastSyncTime);
+      const interval: number = +now - +this.lastSyncTime;
       if (interval <= this.syncInterval && !(force ?? false)) {
         return;
       }
@@ -136,7 +135,11 @@ class SyncTokenRuntime {
       try {
         const response = await axios.get(wl.link);
         const data = response.data;
-        console.log(`loaded [${wl.type}] ${wl.link}${wl.chainId ? ' for chain ' + wl.chainId : ''}`);
+        console.log(
+          `loaded [${wl.type}] ${wl.link}${
+            wl.chainId ? " for chain " + wl.chainId : ""
+          }`
+        );
         switch (wl.type) {
           case LinkType.ChainGuide: {
             this.chainGuides = data;
@@ -234,7 +237,7 @@ class SyncTokenRuntime {
     }
     return {
       ...hc,
-      logoURI: c.image?.large
+      logoURI: c.image?.large,
     };
   }
 
@@ -246,7 +249,7 @@ class SyncTokenRuntime {
     const inputTokens = options.tokens;
     if (inputChains && inputChains.length) {
       for (const c of inputChains) {
-        if(!c) continue;
+        if (!c) continue;
         const hc = HelixboxChain.get(c.toString());
         if (hc) {
           chainIds.push(hc.id.toString());
@@ -276,69 +279,147 @@ class SyncTokenRuntime {
         if (!chain || !token) {
           continue;
         }
-        const tokens = token.tokens;
-        if (!tokens || !tokens.length) continue;
-        let foundedToken: TokenInfo | undefined = undefined;
-        foundedToken = tokens.find(item => item.address.toLowerCase() === itkn.toLowerCase());
-        if (!foundedToken) {
-          foundedToken = tokens.find(item => item.symbol.toUpperCase() === itkn.toUpperCase());
-        }
-        if (!foundedToken && (options.enableFuzzyMatching ?? false)) {
-          foundedToken = tokens.find(item => item.symbol.toUpperCase().indexOf(itkn.toUpperCase()) != -1);
-        }
-        if (!foundedToken && (options.enableFuzzyMatching ?? false)) {
-          foundedToken = tokens.find(item => item.name.toUpperCase().indexOf(itkn.toUpperCase()) != -1);
-        }
-        if (!foundedToken) {
-          continue;
-        }
-        const findCionOptions = {chainPlatformId: chain.id, address: foundedToken.address};
-        const coin = this.findCoin(findCionOptions);
-        if (!coin) {
-          console.warn(`can not found coin by ${foundedToken.address} from ${chain.id}`);
-          continue;
-        }
-        let siliconToken: SiliconToken | undefined = results.find(item => item.id == coin.id);
-        if (!siliconToken) {
-          siliconToken = {
-            logoURI: foundedToken.logoURI,
-            id: coin.id,
-            symbol: foundedToken.symbol.toUpperCase(),
-            name: foundedToken.name,
-            platforms: [],
-          };
-          results.push(siliconToken);
-        }
-        const platforms = siliconToken.platforms;
-        if (platforms.findIndex(item => item.id.toString() === chain.chain_identifier.toString()) != -1) {
-          continue;
-        }
         const hc = HelixboxChain.get(chain.chain_identifier.toString());
         if (!hc) {
           continue;
         }
+        const tokens = token.tokens;
+        if (!tokens || !tokens.length) continue;
+        let foundedTokens: TokenInfo[] = [];
 
-        platforms.push({
-          id: hc.id,
-          name: hc.name,
-          nativeCurrency: hc.nativeCurrency,
-          rpcUrls: hc.rpcUrls,
-          blockExplorers: hc.blockExplorers,
-          address: foundedToken.address,
-          logoURI: chain.image?.large,
-          decimals: foundedToken.decimals,
-        });
+        // native token
+        const nativeCurrencySymbol = hc.nativeCurrency.symbol.toUpperCase();
+        if (
+          nativeCurrencySymbol === itkn.toUpperCase() ||
+          itkn.toLowerCase() === "0x0000000000000000000000000000000000000000"
+        ) {
+          foundedTokens.push({
+            chainId: chain.chain_identifier,
+            address: "0x0000000000000000000000000000000000000000",
+            name: hc.nativeCurrency.name,
+            decimals: hc.nativeCurrency.decimals,
+            symbol: nativeCurrencySymbol,
+            logoURI: `https://raw.githubusercontent.com/darwinia-network/devops/refs/heads/main/assets/tokens/${nativeCurrencySymbol}.png`,
+          });
+        }
+
+        // check address
+        const foundedTokenByAddress = tokens.find(
+          (item) => item.address.toLowerCase() === itkn.toLowerCase()
+        );
+        if (foundedTokenByAddress) {
+          foundedTokens.push(foundedTokenByAddress);
+        }
+
+        const foundedTokenBySymbol = tokens.filter(
+          (item) => item.symbol.toUpperCase() === itkn.toUpperCase()
+        );
+        if (foundedTokenBySymbol && foundedTokenBySymbol.length) {
+          foundedTokens.push(...foundedTokenBySymbol);
+        }
+        if (options.enableFuzzyMatching ?? false) {
+          const fuzzyFoundedTokenBySymbol = tokens.filter(
+            (item) =>
+              item.symbol.toUpperCase().indexOf(itkn.toUpperCase()) != -1
+          );
+          const fuzzyFoundedTokenByName = tokens.filter(
+            (item) => item.name.toUpperCase().indexOf(itkn.toUpperCase()) != -1
+          );
+          const fuzzyList = [
+            ...fuzzyFoundedTokenBySymbol,
+            ...fuzzyFoundedTokenByName,
+          ];
+          for (const fl of fuzzyList) {
+            if (
+              foundedTokens.findIndex((item) => item.address === fl.address) !=
+              -1
+            ) {
+              continue;
+            }
+            foundedTokens.push(fl);
+          }
+        }
+
+        if (!foundedTokens.length) {
+          continue;
+        }
+
+        for (const foundedToken of foundedTokens) {
+          const coin = this.findCoin({
+            chainPlatformId: chain.id,
+            address: foundedToken.address,
+            symbol: foundedToken.symbol,
+          });
+          if (!coin) {
+            console.warn(
+              `can not found coin by ${foundedToken.address} from ${chain.id}`
+            );
+            continue;
+          }
+          let siliconToken: SiliconToken | undefined = results.find(
+            (item) => item.id == coin.id
+          );
+          if (!siliconToken) {
+            let logoURI = foundedToken.logoURI;
+            if (logoURI && logoURI.indexOf("coingecko.com") != -1) {
+              logoURI = logoURI.replace("/thumb/", "/large/");
+            }
+            siliconToken = {
+              logoURI,
+              id: coin.id,
+              symbol: foundedToken.symbol.toUpperCase(),
+              name: foundedToken.name,
+              platforms: [],
+            };
+            results.push(siliconToken);
+          }
+
+          const platforms = siliconToken.platforms;
+          if (
+            platforms.findIndex(
+              (item) => item.id.toString() === chain.chain_identifier.toString()
+            ) != -1
+          ) {
+            continue;
+          }
+
+          platforms.push({
+            id: hc.id,
+            name: hc.name,
+            nativeCurrency: hc.nativeCurrency,
+            rpcUrls: hc.rpcUrls,
+            blockExplorers: hc.blockExplorers,
+            address: foundedToken.address,
+            logoURI: chain.image?.large,
+            decimals: foundedToken.decimals,
+          });
+        }
       }
     }
     return results;
   }
 
-  private findCoin(options: {address: string, chainPlatformId: string}): CoinRaw | undefined {
+  private findCoin(options: {
+    address: string;
+    chainPlatformId: string;
+    symbol: string;
+  }): CoinRaw | undefined {
     const _address = options.address.toLowerCase();
     const quickCoinKey = `${options.chainPlatformId}__${_address}`;
     const qcr = this.quickCoinRaw[quickCoinKey];
     if (qcr) {
       return qcr;
+    }
+
+    if (_address === "0x0000000000000000000000000000000000000000") {
+      const nativeCoinRaw: CoinRaw = {
+        id: `native-${options.symbol.toLowerCase()}`,
+        symbol: options.symbol,
+        name: options.symbol,
+        platforms: JSON.parse(`{"${options.chainPlatformId}": "${_address}"}`),
+      };
+      this.quickCoinRaw[quickCoinKey] = nativeCoinRaw;
+      return nativeCoinRaw;
     }
     for (const cr of this.coinRaws) {
       const platformAddress = cr.platforms[options.chainPlatformId];
