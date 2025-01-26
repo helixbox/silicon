@@ -36,7 +36,7 @@ program
 program
   .command("generate-sdk")
   .description("silicon generate sdk")
-  .action(async (options) => {
+  .action(async (_options) => {
     const c = Container.get(SiliconGeneratorSDK);
     await c.generate({});
   });

@@ -124,7 +124,7 @@ export interface ChainImageRaw {
   large: string;
 }
 
-export interface HbToken extends TokenList {}
+export type HbToken = TokenList
 
 class SyncTokenRuntime {
   private watchLinks: WatchLink[] = [];
@@ -133,7 +133,7 @@ class SyncTokenRuntime {
   private chainGuides: ChainGuide[] = [];
   private coinRaws: CoinRaw[] = [];
   private quickCoinRaw: Record<string, CoinRaw> = {};
-  private firstInitialized: boolean = false;
+  private firstInitialized = false;
   private chainMap: Record<string, ChainRaw> = {};
   private tokenMap: Record<string, HbToken> = {};
   private lastSyncTime: Date | undefined;
@@ -314,7 +314,7 @@ class SyncTokenRuntime {
         }
         const tokens = token.tokens;
         if (!tokens || !tokens.length) continue;
-        let foundedTokens: TokenInfo[] = [];
+        const foundedTokens: TokenInfo[] = [];
 
         // native token
         const nativeCurrencySymbol = hc.nativeCurrency.symbol.toUpperCase();

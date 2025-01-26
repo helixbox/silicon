@@ -8,13 +8,13 @@ export interface GenerateOptions {
   platforms: string[];
 }
 
-interface SiliconMenifest {
-  version: number;
-  networks: number[];
-  tokens: string[];
-  networkToken: Record<number, string[]>;
-  ts: string;
-}
+// interface SiliconMenifest {
+//   version: number;
+//   networks: number[];
+//   tokens: string[];
+//   networkToken: Record<number, string[]>;
+//   ts: string;
+// }
 
 interface ChainGuide {
   id: string;
@@ -40,7 +40,7 @@ class CoinGeckoTokenListGenerator {
     const networks: number[] = [];
     const tokens: string[] = [];
     const networkToken: Record<number, string[]> = {};
-    const { chainPath, tokenPath, manifestPath, chainGuidePath, coinsPath } =
+    const { chainPath, tokenPath, chainGuidePath, coinsPath } =
       await this.ensureStorePath();
 
     const count = platforms.length;
@@ -90,13 +90,13 @@ class CoinGeckoTokenListGenerator {
       );
       await setTimeout(1000 * 5);
     }
-    const manifest: SiliconMenifest = {
-      version: 1,
-      networks: networks,
-      tokens: tokens,
-      networkToken: networkToken,
-      ts: new Date().toISOString(),
-    };
+    // const manifest: SiliconMenifest = {
+    //   version: 1,
+    //   networks: networks,
+    //   tokens: tokens,
+    //   networkToken: networkToken,
+    //   ts: new Date().toISOString(),
+    // };
     //# disabled, if required please open it
     // fs.writeFileSync(manifestPath, JSON.stringify(manifest, null, 2));
     fs.writeFileSync(chainGuidePath, JSON.stringify(guides, null, 2));

@@ -25,6 +25,7 @@ Mustache.Formatters = {
   lower_case: (text) => (text ? text.toLowerCase() : text), // two words
 };
 
+// eslint-disable-next-line @typescript-eslint/no-empty-interface
 export interface GenerateOptions {}
 
 interface InnerGenerateOptions extends GenerateOptions {
@@ -42,7 +43,6 @@ function _reorganizeObject(object: any) {
 
 @Service()
 export class SiliconGeneratorSDK {
-  constructor() {}
 
   async generate(options: GenerateOptions) {
     const tplBasePath = `${__dirname}/../../templates/silicon-sdk`;
