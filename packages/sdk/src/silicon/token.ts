@@ -312,9 +312,14 @@ class SyncTokenRuntime {
             (item) =>
               item.symbol.toUpperCase().indexOf(itkn.toUpperCase()) != -1
           );
-          const fuzzyFoundedTokenByName = tokens.filter(
-            (item) => item.name.toUpperCase().indexOf(itkn.toUpperCase()) != -1
-          );
+          const fuzzyFoundedTokenByName = tokens.filter((item) => {
+            const nameWords = item.name.split(" ");
+            return (
+              nameWords.findIndex(
+                (item) => item.toUpperCase() === itkn.toUpperCase()
+              ) != -1
+            );
+          });
           const fuzzyList = [
             ...fuzzyFoundedTokenBySymbol,
             ...fuzzyFoundedTokenByName,
@@ -347,7 +352,9 @@ class SyncTokenRuntime {
             console.warn(
               `can not found coin by ${foundedToken.address} from ${chain.id}`
             );
-            coinId = `${chain.id}-${foundedToken.symbol}-${foundedToken.name.replaceAll(' ', '_')}`;
+            coinId = `${chain.id}-${
+              foundedToken.symbol
+            }-${foundedToken.name.replaceAll(" ", "_")}`;
           }
           let siliconToken: SiliconToken | undefined = results.find(
             (item) => item.id == coinId
