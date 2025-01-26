@@ -40,7 +40,7 @@ class CoinGeckoTokenListGenerator {
     const networks: number[] = [];
     const tokens: string[] = [];
     const networkToken: Record<number, string[]> = {};
-    const { chainPath, tokenPath, chainGuidePath, coinsPath } =
+    const { definitionPath, chainPath, tokenPath, chainGuidePath, coinsPath } =
       await this.ensureStorePath();
 
     const count = platforms.length;
@@ -100,12 +100,19 @@ class CoinGeckoTokenListGenerator {
     const coins = await this.coins();
     fs.writeFileSync(coinsPath, JSON.stringify(coins, null, 2));
 
-    await this.restructuringCustomData();
+    await this.restructuringCustomData({
+      definitionPath,
+      chainPath,
+      tokenPath,
+    });
   }
 
-  private async restructuringCustomData() {
-    const { definitionPath, chainPath, tokenPath } =
-      await this.ensureStorePath();
+  private async restructuringCustomData(options: {
+    definitionPath: string;
+    chainPath: string;
+    tokenPath: string;
+  }) {
+    const { definitionPath, chainPath, tokenPath } = options;
     const restructMapings = [
       { type: "chain", source: `${definitionPath}/chains`, target: chainPath },
       { type: "token", source: `${definitionPath}/tokens`, target: tokenPath },
@@ -149,9 +156,7 @@ class CoinGeckoTokenListGenerator {
             if (sourceContent.tokens) {
               const targetTokens = targetContent.tokens;
               if (!targetTokens || !targetTokens.length) {
-                targetContent.tokens = [
-                  ...sourceContent.tokens
-                ];
+                targetContent.tokens = [...sourceContent.tokens];
                 break;
               }
               for (const sourceToken of sourceContent.tokens) {
