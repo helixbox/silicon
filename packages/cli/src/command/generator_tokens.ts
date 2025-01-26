@@ -219,15 +219,15 @@ class CoinGeckoTokenListGenerator {
     if (!fs.existsSync(tokenPath)) {
       fs.mkdirSync(tokenPath);
     }
-    if (fs.existsSync(manifestPath)) {
-      fs.rmSync(manifestPath);
-    }
-    if (fs.existsSync(chainGuidePath)) {
-      fs.rmSync(chainGuidePath);
-    }
-    if (fs.existsSync(coinsPath)) {
-      fs.rmSync(coinsPath);
-    }
+    // if (fs.existsSync(manifestPath)) {
+    //   fs.rmSync(manifestPath);
+    // }
+    // if (fs.existsSync(chainGuidePath)) {
+    //   fs.rmSync(chainGuidePath);
+    // }
+    // if (fs.existsSync(coinsPath)) {
+    //   fs.rmSync(coinsPath);
+    // }
     return {
       baseStorePath,
       definitionPath,
