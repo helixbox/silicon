@@ -50,10 +50,18 @@ export class HelixboxToken {
         if (item.id.indexOf('bridged-usdt') != -1 && token.id.indexOf('bridged-usdt') != -1) {
           return true;
         }
+        if (item.id.indexOf('bridged-usdc') != -1 && token.id.indexOf('bridged-usdc') != -1) {
+          return true;
+        }
         return false;
       });
-      if (mergedToken && mergedToken.id.indexOf('bridged-usdt') != -1) {
-        mergedToken.id = 'bridged-usdt';
+      if (mergedToken) {
+        if (mergedToken.id.indexOf('bridged-usdt') != -1) {
+          mergedToken.id = 'bridged-usdt';
+        }
+        if (mergedToken.id.indexOf('bridged-usdc') != -1) {
+          mergedToken.id = 'bridged-usdc';
+        }
       }
       if (!mergedToken) {
         results.push(token);
