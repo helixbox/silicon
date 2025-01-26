@@ -35,6 +35,10 @@ export class HelixboxToken {
     return await this.runtime().find(options);
   }
 
+  static async chain(chain: string): Promise<HbChainPlus | undefined> {
+    return await this.runtime().chain(chain);
+  }
+
 }
 
 enum LinkType {
@@ -69,6 +73,10 @@ interface ChainRaw {
   shortname: string;
   native_coin_id: string;
   image: ChainImageRaw;
+}
+
+export interface HbChainPlus extends HbChain {
+  logoURI?: string;
 }
 
 export interface ChainImageRaw {
@@ -212,6 +220,22 @@ class SyncTokenRuntime {
     if (chnged) {
       await this.loadRemote(remoteResources);
     }
+  }
+
+  public async chain(chain: string): Promise<HbChainPlus | undefined> {
+    await this.loadRemote();
+    const hc = HelixboxChain.get(chain);
+    if (!hc) {
+      return;
+    }
+    const c = this.chainMap[hc.id.toString()];
+    if (!c) {
+      return hc;
+    }
+    return {
+      ...hc,
+      logoURI: c.image?.large
+    };
   }
 
   public async find(options: GetTokenOptions): Promise<SiliconToken[]> {
