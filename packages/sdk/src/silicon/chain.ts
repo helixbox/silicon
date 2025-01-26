@@ -683,7 +683,7 @@ export const Astar: HbChain = {
 }
 }
 
-export const AstarZkEvm: HbChain = {
+export const AstarZkEVM: HbChain = {
   id: 3776,
   name: "Astar zkEVM",
   nativeCurrency: {
@@ -2437,7 +2437,7 @@ export const CronosTestnet: HbChain = {
 }
 }
 
-export const CronoszkEvm: HbChain = {
+export const CronoszkEVM: HbChain = {
   id: 388,
   name: "Cronos zkEVM Mainnet",
   nativeCurrency: {
@@ -2460,7 +2460,7 @@ export const CronoszkEvm: HbChain = {
 }
 }
 
-export const CronoszkEvmTestnet: HbChain = {
+export const CronoszkEVMTestnet: HbChain = {
   id: 282,
   name: "Cronos zkEVM Testnet",
   nativeCurrency: {
@@ -5110,7 +5110,7 @@ export const ImmutableZkEvmTestnet: HbChain = {
 }
 }
 
-export const InEvm: HbChain = {
+export const InEVM: HbChain = {
   id: 2525,
   name: "inEVM Mainnet",
   nativeCurrency: {
@@ -7559,7 +7559,7 @@ export const OortMainnetDev: HbChain = {
 }
 }
 
-export const OpBnb: HbChain = {
+export const OpBNB: HbChain = {
   id: 204,
   name: "opBNB",
   nativeCurrency: {
@@ -7583,7 +7583,7 @@ export const OpBnb: HbChain = {
 }
 }
 
-export const OpBnbTestnet: HbChain = {
+export const OpBNBTestnet: HbChain = {
   id: 5611,
   name: "opBNB Testnet",
   nativeCurrency: {
@@ -8920,7 +8920,7 @@ export const SapphireTestnet: HbChain = {
 }
 }
 
-export const SatoshiVm: HbChain = {
+export const SatoshiVM: HbChain = {
   id: 3109,
   name: "SatoshiVM Alpha Mainnet",
   nativeCurrency: {
@@ -8944,7 +8944,7 @@ export const SatoshiVm: HbChain = {
 }
 }
 
-export const SatoshiVmTestnet: HbChain = {
+export const SatoshiVMTestnet: HbChain = {
   id: 3110,
   name: "SatoshiVM Testnet",
   nativeCurrency: {
@@ -11335,7 +11335,7 @@ export const WanchainTestnet: HbChain = {
 }
 }
 
-export const WeaveVmAlphanet: HbChain = {
+export const WeaveVMAlphanet: HbChain = {
   id: 9496,
   name: "WeaveVM Alphanet",
   nativeCurrency: {
@@ -12464,7 +12464,7 @@ export class HelixboxChain {
       AssetChain,
       AssetChainTestnet,
       Astar,
-      AstarZkEvm,
+      AstarZkEVM,
       AstarZkyoto,
       AtletaOlympia,
       Aurora,
@@ -12537,8 +12537,8 @@ export class HelixboxChain {
       CreditCoin3Testnet,
       Cronos,
       CronosTestnet,
-      CronoszkEvm,
-      CronoszkEvmTestnet,
+      CronoszkEVM,
+      CronoszkEVMTestnet,
       Crossbell,
       Curtis,
       Cyber,
@@ -12649,7 +12649,7 @@ export class HelixboxChain {
       Idchain,
       ImmutableZkEvm,
       ImmutableZkEvmTestnet,
-      InEvm,
+      InEVM,
       InitVerse,
       InitVerseGenesis,
       Ink,
@@ -12750,8 +12750,8 @@ export class HelixboxChain {
       Omax,
       OneWorld,
       OortMainnetDev,
-      OpBnb,
-      OpBnbTestnet,
+      OpBNB,
+      OpBNBTestnet,
       Optimism,
       OptimismGoerli,
       OptimismSepolia,
@@ -12806,8 +12806,8 @@ export class HelixboxChain {
       Sanko,
       Sapphire,
       SapphireTestnet,
-      SatoshiVm,
-      SatoshiVmTestnet,
+      SatoshiVM,
+      SatoshiVMTestnet,
       ScrollSepolia,
       Sei,
       SeiDevnet,
@@ -12906,7 +12906,7 @@ export class HelixboxChain {
       VisionTestnet,
       Wanchain,
       WanchainTestnet,
-      WeaveVmAlphanet,
+      WeaveVMAlphanet,
       Wemix,
       WemixTestnet,
       Worldchain,
@@ -12981,7 +12981,7 @@ export class HelixboxChain {
   static assetChain: HbChain = AssetChain;
   static assetChainTestnet: HbChain = AssetChainTestnet;
   static astar: HbChain = Astar;
-  static astarZkEVM: HbChain = AstarZkEvm;
+  static astarZkEVM: HbChain = AstarZkEVM;
   static astarZkyoto: HbChain = AstarZkyoto;
   static atletaOlympia: HbChain = AtletaOlympia;
   static aurora: HbChain = Aurora;
@@ -13054,8 +13054,8 @@ export class HelixboxChain {
   static creditCoin3Testnet: HbChain = CreditCoin3Testnet;
   static cronos: HbChain = Cronos;
   static cronosTestnet: HbChain = CronosTestnet;
-  static cronoszkEVM: HbChain = CronoszkEvm;
-  static cronoszkEVMTestnet: HbChain = CronoszkEvmTestnet;
+  static cronoszkEVM: HbChain = CronoszkEVM;
+  static cronoszkEVMTestnet: HbChain = CronoszkEVMTestnet;
   static crossbell: HbChain = Crossbell;
   static curtis: HbChain = Curtis;
   static cyber: HbChain = Cyber;
@@ -13166,7 +13166,7 @@ export class HelixboxChain {
   static idchain: HbChain = Idchain;
   static immutableZkEvm: HbChain = ImmutableZkEvm;
   static immutableZkEvmTestnet: HbChain = ImmutableZkEvmTestnet;
-  static inEVM: HbChain = InEvm;
+  static inEVM: HbChain = InEVM;
   static initVerse: HbChain = InitVerse;
   static initVerseGenesis: HbChain = InitVerseGenesis;
   static ink: HbChain = Ink;
@@ -13267,8 +13267,8 @@ export class HelixboxChain {
   static omax: HbChain = Omax;
   static oneWorld: HbChain = OneWorld;
   static oortMainnetDev: HbChain = OortMainnetDev;
-  static opBNB: HbChain = OpBnb;
-  static opBNBTestnet: HbChain = OpBnbTestnet;
+  static opBNB: HbChain = OpBNB;
+  static opBNBTestnet: HbChain = OpBNBTestnet;
   static optimism: HbChain = Optimism;
   static optimismGoerli: HbChain = OptimismGoerli;
   static optimismSepolia: HbChain = OptimismSepolia;
@@ -13323,8 +13323,8 @@ export class HelixboxChain {
   static sanko: HbChain = Sanko;
   static sapphire: HbChain = Sapphire;
   static sapphireTestnet: HbChain = SapphireTestnet;
-  static satoshiVM: HbChain = SatoshiVm;
-  static satoshiVMTestnet: HbChain = SatoshiVmTestnet;
+  static satoshiVM: HbChain = SatoshiVM;
+  static satoshiVMTestnet: HbChain = SatoshiVMTestnet;
   static scrollSepolia: HbChain = ScrollSepolia;
   static sei: HbChain = Sei;
   static seiDevnet: HbChain = SeiDevnet;
@@ -13423,7 +13423,7 @@ export class HelixboxChain {
   static visionTestnet: HbChain = VisionTestnet;
   static wanchain: HbChain = Wanchain;
   static wanchainTestnet: HbChain = WanchainTestnet;
-  static weaveVMAlphanet: HbChain = WeaveVmAlphanet;
+  static weaveVMAlphanet: HbChain = WeaveVMAlphanet;
   static wemix: HbChain = Wemix;
   static wemixTestnet: HbChain = WemixTestnet;
   static worldchain: HbChain = Worldchain;
@@ -13500,7 +13500,7 @@ export class HelixboxChain {
       case "assetChain": return AssetChain;
       case "assetChainTestnet": return AssetChainTestnet;
       case "astar": return Astar;
-      case "astarZkEVM": return AstarZkEvm;
+      case "astarZkEVM": return AstarZkEVM;
       case "astarZkyoto": return AstarZkyoto;
       case "atletaOlympia": return AtletaOlympia;
       case "aurora": return Aurora;
@@ -13573,8 +13573,8 @@ export class HelixboxChain {
       case "creditCoin3Testnet": return CreditCoin3Testnet;
       case "cronos": return Cronos;
       case "cronosTestnet": return CronosTestnet;
-      case "cronoszkEVM": return CronoszkEvm;
-      case "cronoszkEVMTestnet": return CronoszkEvmTestnet;
+      case "cronoszkEVM": return CronoszkEVM;
+      case "cronoszkEVMTestnet": return CronoszkEVMTestnet;
       case "crossbell": return Crossbell;
       case "curtis": return Curtis;
       case "cyber": return Cyber;
@@ -13685,7 +13685,7 @@ export class HelixboxChain {
       case "idchain": return Idchain;
       case "immutableZkEvm": return ImmutableZkEvm;
       case "immutableZkEvmTestnet": return ImmutableZkEvmTestnet;
-      case "inEVM": return InEvm;
+      case "inEVM": return InEVM;
       case "initVerse": return InitVerse;
       case "initVerseGenesis": return InitVerseGenesis;
       case "ink": return Ink;
@@ -13786,8 +13786,8 @@ export class HelixboxChain {
       case "omax": return Omax;
       case "oneWorld": return OneWorld;
       case "oortMainnetDev": return OortMainnetDev;
-      case "opBNB": return OpBnb;
-      case "opBNBTestnet": return OpBnbTestnet;
+      case "opBNB": return OpBNB;
+      case "opBNBTestnet": return OpBNBTestnet;
       case "optimism": return Optimism;
       case "optimismGoerli": return OptimismGoerli;
       case "optimismSepolia": return OptimismSepolia;
@@ -13842,8 +13842,8 @@ export class HelixboxChain {
       case "sanko": return Sanko;
       case "sapphire": return Sapphire;
       case "sapphireTestnet": return SapphireTestnet;
-      case "satoshiVM": return SatoshiVm;
-      case "satoshiVMTestnet": return SatoshiVmTestnet;
+      case "satoshiVM": return SatoshiVM;
+      case "satoshiVMTestnet": return SatoshiVMTestnet;
       case "scrollSepolia": return ScrollSepolia;
       case "sei": return Sei;
       case "seiDevnet": return SeiDevnet;
@@ -13942,7 +13942,7 @@ export class HelixboxChain {
       case "visionTestnet": return VisionTestnet;
       case "wanchain": return Wanchain;
       case "wanchainTestnet": return WanchainTestnet;
-      case "weaveVMAlphanet": return WeaveVmAlphanet;
+      case "weaveVMAlphanet": return WeaveVMAlphanet;
       case "wemix": return Wemix;
       case "wemixTestnet": return WemixTestnet;
       case "worldchain": return Worldchain;
