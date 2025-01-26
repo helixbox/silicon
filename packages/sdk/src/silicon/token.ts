@@ -43,7 +43,18 @@ export class HelixboxToken {
   static merge(tokens: SiliconToken[]): SiliconToken[] {
     const results: SiliconToken[] = [];
     for (const token of tokens) {
-      const mergedToken = results.find(item => item.id === token.id);
+      const mergedToken = results.find(item => {
+        if (item.id === token.id) {
+          return true;
+        }
+        if (item.id.indexOf('bridged-usdt') != -1 && token.id.indexOf('bridged-usdt') != -1) {
+          return true;
+        }
+        return false;
+      });
+      if (mergedToken && mergedToken.id.indexOf('bridged-usdt') != -1) {
+        mergedToken.id = 'bridged-usdt';
+      }
       if (!mergedToken) {
         results.push(token);
         continue;
@@ -414,7 +425,7 @@ class SyncTokenRuntime {
         }
       }
     }
-    return results;
+    return HelixboxToken.merge(results);
   }
 
   private findCoin(options: {
