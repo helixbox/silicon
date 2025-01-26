@@ -58,9 +58,11 @@ export class HelixboxToken {
       if (mergedToken) {
         if (mergedToken.id.indexOf('bridged-usdt') != -1) {
           mergedToken.id = 'bridged-usdt';
+          mergedToken.name = 'Bridged USDT';
         }
         if (mergedToken.id.indexOf('bridged-usdc') != -1) {
           mergedToken.id = 'bridged-usdc';
+          mergedToken.name = 'Bridged USDC';
         }
       }
       if (!mergedToken) {
@@ -391,7 +393,7 @@ class SyncTokenRuntime {
             );
             coinId = `${chain.id}-${
               foundedToken.symbol
-            }-${foundedToken.name.replaceAll(" ", "_")}`;
+            }-${foundedToken.name.replaceAll(" ", "_")}`.toLowerCase();
           }
           let siliconToken: SiliconToken | undefined = results.find(
             (item) => item.id == coinId
