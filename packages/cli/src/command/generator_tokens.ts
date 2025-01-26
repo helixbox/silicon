@@ -122,11 +122,11 @@ class CoinGeckoTokenListGenerator {
     if (!fs.existsSync(baseStorePath)) {
       fs.mkdirSync(baseStorePath);
     }
-    if (fs.existsSync(chainPath)) {
-      fs.rmSync(chainPath, { recursive: true });
+    if (!fs.existsSync(chainPath)) {
+      fs.mkdirSync(chainPath);
     }
-    if (fs.existsSync(tokenPath)) {
-      fs.rmSync(tokenPath, { recursive: true });
+    if (!fs.existsSync(tokenPath)) {
+      fs.mkdirSync(tokenPath);
     }
     if (fs.existsSync(manifestPath)) {
       fs.rmSync(manifestPath);
@@ -137,8 +137,6 @@ class CoinGeckoTokenListGenerator {
     if (fs.existsSync(coinsPath)) {
       fs.rmSync(coinsPath);
     }
-    fs.mkdirSync(chainPath);
-    fs.mkdirSync(tokenPath);
     return {
       baseStorePath,
       chainPath,

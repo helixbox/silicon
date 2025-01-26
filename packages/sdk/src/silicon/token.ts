@@ -28,7 +28,8 @@ export class HelixboxToken {
   }
 
   static async load(chains: string[] | number[]) {
-    await this.runtime().loadChainTokens(chains);
+    const runtime = this.runtime();
+    await runtime.loadChainTokens(chains);
   }
 
   static async find(options: GetTokenOptions): Promise<SiliconToken[]> {
@@ -178,24 +179,12 @@ class SyncTokenRuntime {
   }
 
   public async loadChainTokens(chains: string[] | number[]) {
-    if (!this.chainGuides) {
-      await this.loadRemote();
-    }
     const chainIds = [];
     for (const c of chains) {
       if (!c) continue;
       const hc = HelixboxChain.get(c.toString());
       if (hc) {
         chainIds.push(hc.id);
-        continue;
-      }
-      const chainGuide = this.chainGuides.find(
-        (item) =>
-          item.id === c.toString() ||
-          item.chain_identifier.toString() === c.toString()
-      );
-      if (chainGuide) {
-        chainIds.push(chainGuide.chain_identifier);
         continue;
       }
     }
@@ -221,6 +210,7 @@ class SyncTokenRuntime {
       this.loadedChains.push(chainId);
     }
     if (chnged) {
+      this.firstInitialized = true;
       await this.loadRemote(remoteResources);
     }
   }
@@ -350,14 +340,17 @@ class SyncTokenRuntime {
             address: foundedToken.address,
             symbol: foundedToken.symbol,
           });
-          if (!coin) {
+          let coinId: string;
+          if (coin) {
+            coinId = coin.id;
+          } else {
             console.warn(
               `can not found coin by ${foundedToken.address} from ${chain.id}`
             );
-            continue;
+            coinId = `${chain.id}-${foundedToken.symbol}-${foundedToken.name.replaceAll(' ', '_')}`;
           }
           let siliconToken: SiliconToken | undefined = results.find(
-            (item) => item.id == coin.id
+            (item) => item.id == coinId
           );
           if (!siliconToken) {
             let logoURI = foundedToken.logoURI;
@@ -366,7 +359,7 @@ class SyncTokenRuntime {
             }
             siliconToken = {
               logoURI,
-              id: coin.id,
+              id: coinId,
               symbol: foundedToken.symbol.toUpperCase(),
               name: foundedToken.name,
               platforms: [],
