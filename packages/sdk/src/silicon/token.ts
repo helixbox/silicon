@@ -49,7 +49,7 @@ export class HelixboxToken {
         continue;
       }
       for (const platform of token.platforms) {
-        if (mergedToken.platforms.findIndex(item => item.id === platform.id) != 1) {
+        if (mergedToken.platforms.findIndex(item => item.id === platform.id) != -1) {
           continue;
         }
         mergedToken.platforms.push(platform);
