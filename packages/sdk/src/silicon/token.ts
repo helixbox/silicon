@@ -39,6 +39,24 @@ export class HelixboxToken {
   static async chain(chain: string): Promise<HbChainPlus | undefined> {
     return await this.runtime().chain(chain);
   }
+
+  static merge(tokens: SiliconToken[]): SiliconToken[] {
+    const results: SiliconToken[] = [];
+    for (const token of tokens) {
+      const mergedToken = results.find(item => item.id === token.id);
+      if (!mergedToken) {
+        results.push(token);
+        continue;
+      }
+      for (const platform of token.platforms) {
+        if (mergedToken.platforms.findIndex(item => item.id === platform.id) != 1) {
+          continue;
+        }
+        mergedToken.platforms.push(platform);
+      }
+    }
+    return results;
+  }
 }
 
 enum LinkType {
