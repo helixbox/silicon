@@ -1,7 +1,7 @@
 import { Service } from "typedi";
 import * as viemChain from "viem/chains";
-import * as changeCase from "change-case";
 import * as fs from "node:fs";
+import Case from 'case';
 
 const Mustache = require("mustache");
 const Wax = require("@jvitela/mustache-wax");
@@ -9,18 +9,11 @@ const Wax = require("@jvitela/mustache-wax");
 Wax(Mustache);
 Mustache.Formatters = {
   json_stringify: (object) => JSON.stringify(object, null, 2),
-  camel_case: (text) => changeCase.camelCase(text), // 	twoWords
-  capital_case: (text) => changeCase.capitalCase(text), // 	Two Words
-  constant_case: (text) => changeCase.constantCase(text), // 	TWO_WORDS
-  dot_case: (text) => changeCase.dotCase(text), // 	two.words
-  kebab_case: (text) => changeCase.kebabCase(text), // 	two-words
-  no_case: (text) => changeCase.noCase(text), // 	two words
-  pascal_case: (text) => changeCase.pascalCase(text), // 	TwoWords
-  pascal_snake_case: (text) => changeCase.pascalSnakeCase(text), // 	Two_Words
-  path_case: (text) => changeCase.pathCase(text), // 	two/words
-  sentence_case: (text) => changeCase.sentenceCase(text), // 	Two words
-  snake_case: (text) => changeCase.snakeCase(text), // 	two_words
-  train_case: (text) => changeCase.trainCase(text), // 	Two-Words
+  camel_case: (text) => Case.camel(text), // 	twoWords
+  kebab_case: (text) => Case.kebab(text), // 	two-words
+  pascal_case: (text) => Case.pascal(text), // 	TwoWords
+  sentence_case: (text) => Case.sentence(text), // 	Two words
+  snake_case: (text) => Case.snake(text), // 	two_words
   upper_case: (text) => (text ? text.toUpperCase() : text), // TWO WORDS
   lower_case: (text) => (text ? text.toLowerCase() : text), // two words
 };
