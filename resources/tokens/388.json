@@ -4,24 +4,8 @@
   "keywords": [
     "defi"
   ],
-  "timestamp": "2025-01-06T10:00:57.881+00:00",
+  "timestamp": "2025-01-27T02:00:37.093+00:00",
   "tokens": [
-    {
-      "chainId": 388,
-      "address": "0xaf02d78f39c0002d14b95a3be272da02379aff21",
-      "name": "Fortune Token",
-      "symbol": "FRTN",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/30768/thumb/fortune_token.png?1696529636"
-    },
-    {
-      "chainId": 388,
-      "address": "0x66b1e42b2d5bce3d701efa3c86cc334d80ceefab",
-      "name": "AMPLY",
-      "symbol": "AMPLY",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/51236/thumb/Token_%282%29.png?1730448040"
-    },
     {
       "chainId": 388,
       "address": "0x271602a97027ee1dd03b1e6e5db153eb659a80b1",
@@ -32,11 +16,19 @@
     },
     {
       "chainId": 388,
-      "address": "0x5b91e29ae5a71d9052620acb813d5ac25ec7a4a2",
-      "name": "Veno USD",
-      "symbol": "VUSD",
+      "address": "0xc1bf55ee54e16229d9b369a5502bfe5fc9f20b6d",
+      "name": "Wrapped zkCRO",
+      "symbol": "WZKCRO",
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/39775/thumb/Screenshot_2024-08-19_at_5.09.13%E2%80%AFPM.png?1724058679"
+      "logoURI": "https://assets.coingecko.com/coins/images/39773/thumb/Cronos_zkEVM_ZKCRO_Token_Logo_2.png?1724056918"
+    },
+    {
+      "chainId": 388,
+      "address": "0x18d40bd95e34d1a4fcaf9027db11f6988e5b860a",
+      "name": "AgentFun AI",
+      "symbol": "AGENTFUN",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/52133/thumb/AIFUN_%282%29.png?1732639482"
     },
     {
       "chainId": 388,
@@ -48,11 +40,19 @@
     },
     {
       "chainId": 388,
-      "address": "0xc1bf55ee54e16229d9b369a5502bfe5fc9f20b6d",
-      "name": "Wrapped zkCRO",
-      "symbol": "WZKCRO",
+      "address": "0x66b1e42b2d5bce3d701efa3c86cc334d80ceefab",
+      "name": "AMPLY",
+      "symbol": "AMPLY",
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/39773/thumb/Cronos_zkEVM_ZKCRO_Token_Logo_2.png?1724056918"
+      "logoURI": "https://assets.coingecko.com/coins/images/51236/thumb/Token_%282%29.png?1730448040"
+    },
+    {
+      "chainId": 388,
+      "address": "0x5b91e29ae5a71d9052620acb813d5ac25ec7a4a2",
+      "name": "Veno USD",
+      "symbol": "VUSD",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/39775/thumb/Screenshot_2024-08-19_at_5.09.13%E2%80%AFPM.png?1724058679"
     },
     {
       "chainId": 388,
@@ -77,14 +77,6 @@
       "symbol": "WOLF",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/50245/thumb/wolf.png?1726679703"
-    },
-    {
-      "chainId": 388,
-      "address": "0x18d40bd95e34d1a4fcaf9027db11f6988e5b860a",
-      "name": "AgentFun AI",
-      "symbol": "AGENTFUN",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/52133/thumb/AIFUN_%282%29.png?1732639482"
     },
     {
       "chainId": 388,
@@ -144,7 +136,7 @@
     }
   ],
   "version": {
-    "major": 3,
+    "major": 4,
     "minor": 0,
     "patch": 0
   }
