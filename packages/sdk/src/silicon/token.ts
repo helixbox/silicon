@@ -43,33 +43,42 @@ export class HelixboxToken {
   static merge(tokens: SiliconToken[]): SiliconToken[] {
     const results: SiliconToken[] = [];
     for (const token of tokens) {
-      const mergedToken = results.find(item => {
+      const mergedToken = results.find((item) => {
         if (item.id === token.id) {
           return true;
         }
-        if (item.id.indexOf('bridged-usdt') != -1 && token.id.indexOf('bridged-usdt') != -1) {
+        if (
+          item.id.indexOf("bridged-usdt") != -1 &&
+          token.id.indexOf("bridged-usdt") != -1
+        ) {
           return true;
         }
-        if (item.id.indexOf('bridged-usdc') != -1 && token.id.indexOf('bridged-usdc') != -1) {
+        if (
+          item.id.indexOf("bridged-usdc") != -1 &&
+          token.id.indexOf("bridged-usdc") != -1
+        ) {
           return true;
         }
-        if (item.id.indexOf('bridged-pink') != -1 && token.id.indexOf('bridged-pink') != -1) {
+        if (
+          item.id.indexOf("bridged-pink") != -1 &&
+          token.id.indexOf("bridged-pink") != -1
+        ) {
           return true;
         }
         return false;
       });
       if (mergedToken) {
-        if (mergedToken.id.indexOf('bridged-usdt') != -1) {
-          mergedToken.id = 'bridged-usdt';
-          mergedToken.name = 'Bridged USDT';
+        if (mergedToken.id.indexOf("bridged-usdt") != -1) {
+          mergedToken.id = "bridged-usdt";
+          mergedToken.name = "Bridged USDT";
         }
-        if (mergedToken.id.indexOf('bridged-usdc') != -1) {
-          mergedToken.id = 'bridged-usdc';
-          mergedToken.name = 'Bridged USDC';
+        if (mergedToken.id.indexOf("bridged-usdc") != -1) {
+          mergedToken.id = "bridged-usdc";
+          mergedToken.name = "Bridged USDC";
         }
-        if (mergedToken.id.indexOf('bridged-pink') != -1) {
-          mergedToken.id = 'bridged-pink';
-          mergedToken.name = 'Bridged PINK';
+        if (mergedToken.id.indexOf("bridged-pink") != -1) {
+          mergedToken.id = "bridged-pink";
+          mergedToken.name = "Bridged PINK";
         }
       }
       if (!mergedToken) {
@@ -77,7 +86,10 @@ export class HelixboxToken {
         continue;
       }
       for (const platform of token.platforms) {
-        if (mergedToken.platforms.findIndex(item => item.id === platform.id) != -1) {
+        if (
+          mergedToken.platforms.findIndex((item) => item.id === platform.id) !=
+          -1
+        ) {
           continue;
         }
         mergedToken.platforms.push(platform);
@@ -131,7 +143,7 @@ export interface ChainImageRaw {
   large: string;
 }
 
-export type HbToken = TokenList
+export type HbToken = TokenList;
 
 class SyncTokenRuntime {
   private watchLinks: WatchLink[] = [];
@@ -178,7 +190,11 @@ class SyncTokenRuntime {
         this.watchLinks.push(wl);
       }
     }
-    const loadWatchLinks = wls ? wls : this.watchLinks;
+    const loadWatchLinks = this.firstInitialized
+      ? wls
+        ? wls
+        : this.watchLinks
+      : this.watchLinks;
     for (const wl of loadWatchLinks) {
       try {
         const response = await axios.get(wl.link);
@@ -240,7 +256,9 @@ class SyncTokenRuntime {
       "https://raw.githubusercontent.com/helixbox/silicon/refs/heads/main/resources";
     let chnged = false;
     for (const chainId of chainIds) {
-      if (this.loadedChains.findIndex((item) => item === chainId.toString()) != -1) {
+      if (
+        this.loadedChains.findIndex((item) => item === chainId.toString()) != -1
+      ) {
         continue;
       }
       chnged = true;
@@ -263,7 +281,14 @@ class SyncTokenRuntime {
   }
 
   public async chain(chain: string): Promise<HbChainPlus | undefined> {
-    await this.loadRemote();
+    if (!this.firstInitialized) {
+      await this.loadRemote();
+    }
+    if (
+      this.loadedChains.findIndex((item) => item === chain.toString()) == -1
+    ) {
+      await this.loadChainTokens([chain]);
+    }
     const hc = HelixboxChain.get(chain);
     if (!hc) {
       return;
@@ -279,7 +304,9 @@ class SyncTokenRuntime {
   }
 
   public async find(options: GetTokenOptions): Promise<SiliconToken[]> {
-    await this.loadRemote();
+    if (!this.firstInitialized) {
+      await this.loadRemote();
+    }
     let chainIds = [];
 
     const inputChains = options.chains;
