@@ -4,7 +4,7 @@
   "keywords": [
     "defi"
   ],
-  "timestamp": "2025-01-25T10:00:20.229+00:00",
+  "timestamp": "2025-01-27T09:00:29.291+00:00",
   "tokens": [
     {
       "chainId": 10,
@@ -32,27 +32,11 @@
     },
     {
       "chainId": 10,
-      "address": "0x68f180fcce6836688e9084f035309e29bf0a2095",
-      "name": "Optimism Bridged WBTC  Optimism ",
-      "symbol": "WBTC",
-      "decimals": 8,
-      "logoURI": "https://assets.coingecko.com/coins/images/39553/thumb/wbtc.png?1722897341"
-    },
-    {
-      "chainId": 10,
-      "address": "0x9560e827af36c94d2ac33a39bce1fe78631088db",
-      "name": "Velodrome Finance",
-      "symbol": "VELO",
+      "address": "0x3ee6107d9c93955acbb3f39871d32b02f82b78ab",
+      "name": "Staked Ethos Reserve Note",
+      "symbol": "STERN",
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/25783/thumb/velo.png?1696524870"
-    },
-    {
-      "chainId": 10,
-      "address": "0x139052115f8b1773cf7dcba6a553f922a2e54f69",
-      "name": "Nekocoin",
-      "symbol": "",
-      "decimals": 6,
-      "logoURI": "https://assets.coingecko.com/coins/images/50449/thumb/Token-160px.png?1727772379"
+      "logoURI": "https://assets.coingecko.com/coins/images/31522/thumb/stERN.png?1696530332"
     },
     {
       "chainId": 10,
@@ -64,6 +48,22 @@
     },
     {
       "chainId": 10,
+      "address": "0x4200000000000000000000000000000000000042",
+      "name": "Optimism",
+      "symbol": "OP",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/25244/thumb/Optimism.png?1696524385"
+    },
+    {
+      "chainId": 10,
+      "address": "0x139052115f8b1773cf7dcba6a553f922a2e54f69",
+      "name": "Nekocoin",
+      "symbol": "",
+      "decimals": 6,
+      "logoURI": "https://assets.coingecko.com/coins/images/50449/thumb/Token-160px.png?1727772379"
+    },
+    {
+      "chainId": 10,
       "address": "0xd0cf4de352ac8dcce00bd6b93ee73d3cb272edc3",
       "name": "PCM",
       "symbol": "PCM",
@@ -72,11 +72,27 @@
     },
     {
       "chainId": 10,
-      "address": "0xe3b3a464ee575e8e25d2508918383b89c832f275",
-      "name": "PoolTogether Prize USD Coin",
-      "symbol": "PUSDCE",
-      "decimals": 6,
-      "logoURI": "https://assets.coingecko.com/coins/images/32455/thumb/prizeUSDCIcon_200.png?1698241065"
+      "address": "0x8c6f28f2f1a3c87f0f938b96d27520d9751ec8d9",
+      "name": "sUSD  Optimism ",
+      "symbol": "SUSD",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/37867/thumb/sus.png?1715815715"
+    },
+    {
+      "chainId": 10,
+      "address": "0x9560e827af36c94d2ac33a39bce1fe78631088db",
+      "name": "Velodrome Finance",
+      "symbol": "VELO",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/25783/thumb/velo.png?1696524870"
+    },
+    {
+      "chainId": 10,
+      "address": "0xf8e943f646816e4b51279b8934753821ed832dca",
+      "name": "Cthulhu Finance",
+      "symbol": "CTH",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/29487/thumb/logo200.png?1696528431"
     },
     {
       "chainId": 10,
@@ -96,6 +112,14 @@
     },
     {
       "chainId": 10,
+      "address": "0x3b08fcd15280e7b5a6e404c4abb87f7c774d1b2e",
+      "name": "Overnight Finance",
+      "symbol": "OVN",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/31970/thumb/OVN.png?1696959174"
+    },
+    {
+      "chainId": 10,
       "address": "0x970d50d09f3a656b43e11b0d45241a84e3a6e011",
       "name": "Overnight fi DAI ",
       "symbol": "DAI+",
@@ -104,11 +128,11 @@
     },
     {
       "chainId": 10,
-      "address": "0x3b08fcd15280e7b5a6e404c4abb87f7c774d1b2e",
-      "name": "Overnight Finance",
-      "symbol": "OVN",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/31970/thumb/OVN.png?1696959174"
+      "address": "0x7f5c764cbc14f9669b88837ca1490cca17c31607",
+      "name": "Standard Bridged USDC e  Optimism ",
+      "symbol": "USDCE",
+      "decimals": 6,
+      "logoURI": "https://assets.coingecko.com/coins/images/31580/thumb/USDC-icon.png?1696530397"
     },
     {
       "chainId": 10,
@@ -120,19 +144,27 @@
     },
     {
       "chainId": 10,
-      "address": "0x4200000000000000000000000000000000000042",
-      "name": "Optimism",
-      "symbol": "OP",
+      "address": "0xda10009cbd5d07dd0cecc66161fc93d7c9000da1",
+      "name": "MakerDAO Optimism Bridged DAI  Optimism",
+      "symbol": "DAI",
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/25244/thumb/Optimism.png?1696524385"
+      "logoURI": "https://assets.coingecko.com/coins/images/39818/thumb/dai.png?1724190656"
     },
     {
       "chainId": 10,
-      "address": "0x7f5c764cbc14f9669b88837ca1490cca17c31607",
-      "name": "Standard Bridged USDC e  Optimism ",
-      "symbol": "USDCE",
+      "address": "0xe3b3a464ee575e8e25d2508918383b89c832f275",
+      "name": "PoolTogether Prize USD Coin",
+      "symbol": "PUSDCE",
       "decimals": 6,
-      "logoURI": "https://assets.coingecko.com/coins/images/31580/thumb/USDC-icon.png?1696530397"
+      "logoURI": "https://assets.coingecko.com/coins/images/32455/thumb/prizeUSDCIcon_200.png?1698241065"
+    },
+    {
+      "chainId": 10,
+      "address": "0x68f180fcce6836688e9084f035309e29bf0a2095",
+      "name": "Optimism Bridged WBTC  Optimism ",
+      "symbol": "WBTC",
+      "decimals": 8,
+      "logoURI": "https://assets.coingecko.com/coins/images/39553/thumb/wbtc.png?1722897341"
     },
     {
       "chainId": 10,
@@ -157,38 +189,6 @@
       "symbol": "DTORO",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/33529/thumb/DTORO_Logo_New.png?1716971115"
-    },
-    {
-      "chainId": 10,
-      "address": "0xda10009cbd5d07dd0cecc66161fc93d7c9000da1",
-      "name": "MakerDAO Optimism Bridged DAI  Optimism",
-      "symbol": "DAI",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/39818/thumb/dai.png?1724190656"
-    },
-    {
-      "chainId": 10,
-      "address": "0x8c6f28f2f1a3c87f0f938b96d27520d9751ec8d9",
-      "name": "sUSD  Optimism ",
-      "symbol": "SUSD",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/37867/thumb/sus.png?1715815715"
-    },
-    {
-      "chainId": 10,
-      "address": "0x3ee6107d9c93955acbb3f39871d32b02f82b78ab",
-      "name": "Staked Ethos Reserve Note",
-      "symbol": "STERN",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/31522/thumb/stERN.png?1696530332"
-    },
-    {
-      "chainId": 10,
-      "address": "0x2513486f18eee1498d7b6281f668b955181dd0d9",
-      "name": "OpenXSwap Gov  Token",
-      "symbol": "XOPENX",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/28325/thumb/X_op_red_sm.png?1696527332"
     },
     {
       "chainId": 10,
@@ -269,14 +269,6 @@
       "symbol": "SIAS",
       "decimals": 0,
       "logoURI": "https://assets.coingecko.com/coins/images/33373/thumb/SIA.png?1701649606"
-    },
-    {
-      "chainId": 10,
-      "address": "0xf8e943f646816e4b51279b8934753821ed832dca",
-      "name": "Cthulhu Finance",
-      "symbol": "CTH",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/29487/thumb/logo200.png?1696528431"
     },
     {
       "chainId": 10,
@@ -2055,8 +2047,8 @@
     }
   ],
   "version": {
-    "major": 8,
-    "minor": 13,
+    "major": 9,
+    "minor": 0,
     "patch": 0
   }
 }
