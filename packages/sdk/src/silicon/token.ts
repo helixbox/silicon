@@ -275,7 +275,6 @@ class SyncTokenRuntime {
       this.loadedChains.push(chainId.toString());
     }
     if (chnged) {
-      this.firstInitialized = true;
       await this.loadRemote(remoteResources);
     }
   }
