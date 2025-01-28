@@ -66387,6 +66387,14 @@
     }
   },
   {
+    "id": "l2-standard-bridged-weth-abstract",
+    "symbol": "weth",
+    "name": "L2 Standard Bridged WETH (Abstract)",
+    "platforms": {
+      "abstract": "0x3439153eb7af838ad19d56e1571fbd09333c2809"
+    }
+  },
+  {
     "id": "l2-standard-bridged-weth-base",
     "symbol": "weth",
     "name": "L2 Standard Bridged WETH (Base)",
@@ -88064,6 +88072,14 @@
     }
   },
   {
+    "id": "orionpay",
+    "symbol": "orion",
+    "name": "OrionPay",
+    "platforms": {
+      "solana": "3aEMpHgz1U1Eupqt1Tc5KMTLmVW7k1cVY4DQinSepump"
+    }
+  },
+  {
     "id": "orion-protocol",
     "symbol": "orn",
     "name": "Orion",
@@ -92399,7 +92415,9 @@
     "id": "pineye",
     "symbol": "pineye",
     "name": "PinEye",
-    "platforms": {}
+    "platforms": {
+      "binance-smart-chain": "0x4b3a2187648902082db0a44e8235d57f3f23dd10"
+    }
   },
   {
     "id": "ping-dog",
@@ -112798,6 +112816,14 @@
     "name": "Stargate Bridged ASTR (Astar zkEVM)",
     "platforms": {
       "astar-zkevm": "0xdf41220c7e322bfef933d85d01821ad277f90172"
+    }
+  },
+  {
+    "id": "stargate-bridged-usdc-abstract",
+    "symbol": "usdc.e",
+    "name": "Stargate Bridged USDC (Abstract)",
+    "platforms": {
+      "abstract": "0x84a71ccd554cc1b02749b35d22f684cc8ec987e1"
     }
   },
   {
