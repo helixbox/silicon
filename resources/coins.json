@@ -36056,6 +36056,17 @@
     }
   },
   {
+    "id": "dinari-bac",
+    "symbol": "bac.d",
+    "name": "Dinari BAC",
+    "platforms": {
+      "arbitrum-one": "0x23f318840a200fa488627849a369a138f66b3577",
+      "ethereum": "0x6c1aa3dd4195522ffd963215a13416324eaf9216",
+      "blast": "0xc6561ff3100d8b3c33898dfbfeb6e695134e6957",
+      "base": "0x408e16d4e07812a963189dc15fa61806eb8a4e9d"
+    }
+  },
+  {
     "id": "dinari-bitb",
     "symbol": "bitb.d",
     "name": "Dinari BITB",
@@ -36096,12 +36107,56 @@
     }
   },
   {
+    "id": "dinari-btco",
+    "symbol": "btco.d",
+    "name": "Dinari BTCO",
+    "platforms": {
+      "arbitrum-one": "0x2824efe5cedb3bc8730e412981997dac7c7640c2",
+      "ethereum": "0x0c7ec64a7b3416bc3578e02d4b1e5763da756183",
+      "blast": "0xbf286a9c026f02dd4d2e3fc3887e77e425d15a11",
+      "base": "0x69bd04ab9290d2919f228b87f9dccf728e2675cd"
+    }
+  },
+  {
+    "id": "dinari-btcw",
+    "symbol": "btcw.d",
+    "name": "Dinari BTCW",
+    "platforms": {
+      "arbitrum-one": "0xc52915fe75dc8db9fb6306f43aaef1344e0837ab",
+      "ethereum": "0x18c278edc2ed4ed9d23a8a73a3a6ed014094b784",
+      "blast": "0xbe2019c75ebf9ead0ab3513fd3c1733f2eb490e7",
+      "base": "0xe1338b131647a4d6123b6af912f295954067a766"
+    }
+  },
+  {
+    "id": "dinari-cat",
+    "symbol": "cat.d",
+    "name": "Dinari CAT",
+    "platforms": {
+      "arbitrum-one": "0xe649980d1b911756f217e4b61de76a7d2a3b108a",
+      "ethereum": "0x4cfba646ca9c05ad653fea94d485d15cfc449b2d",
+      "blast": "0x8ce131c8c8b8d46ffe2a72aadc8ebb3d5686613a",
+      "base": "0x903ce8c6196a78e5b6df62897a864951e71b6b34"
+    }
+  },
+  {
     "id": "dinari-coin",
     "symbol": "coin.d",
     "name": "Dinari COIN",
     "platforms": {
       "arbitrum-one": "0x46b979440ac257151ee5a5bc9597b76386907fa1",
       "ethereum": "0xd71b200bf061509b85df50cc0d8cdee8818a4577"
+    }
+  },
+  {
+    "id": "dinari-defi",
+    "symbol": "defi.d",
+    "name": "Dinari DEFI",
+    "platforms": {
+      "arbitrum-one": "0xdd92f0723a7318e684a88532cac2421e3cc9968e",
+      "ethereum": "0x81b11d330d9af45599be0580b9bcba7f4e57bd35",
+      "blast": "0x64931990e69b55ff7acaf0f20416d29b20855be6",
+      "base": "0xac21cd6fe43240d90741d25858d0ff0940b11cc7"
     }
   },
   {
@@ -36162,6 +36217,28 @@
     "name": "Dinari GOOGL",
     "platforms": {
       "arbitrum-one": "0x8e50d11a54cff859b202b7fe5225353be0646410"
+    }
+  },
+  {
+    "id": "dinari-hodl",
+    "symbol": "hodl.d",
+    "name": "Dinari HODL",
+    "platforms": {
+      "arbitrum-one": "0x0c59f6b96d3cac58240429c7659ec107f8b1efa7",
+      "ethereum": "0xaedc5e1e05c2fb8840f6d6df4e8f63e983c32bd5",
+      "blast": "0x01e8bd212f5f319e7126b62aa020831b92e19cd9",
+      "base": "0x842d4a6d10e41eaae03b4df87e575be53b296fc6"
+    }
+  },
+  {
+    "id": "dinari-hood",
+    "symbol": "hood.d",
+    "name": "Dinari HOOD",
+    "platforms": {
+      "arbitrum-one": "0x0753d920a5e37b0bf2114a7b4a71d46f66ce4b30",
+      "ethereum": "0xcc195aa6859fbbe792b9e0b18c74c00a0e90c1f8",
+      "blast": "0xddcd99775b70bee3b1d06399b69e45465dea010c",
+      "base": "0x0c9b4fbff1971b5b1d7b50b1f3483cc5007c4621"
     }
   },
   {
@@ -75083,6 +75160,14 @@
     }
   },
   {
+    "id": "mentat",
+    "symbol": "spice",
+    "name": "Mentat",
+    "platforms": {
+      "solana": "4oz9DZabbYNeB7UGUA4HYZKYRb4Hwm3h2u2x4CrumbAr"
+    }
+  },
+  {
     "id": "mento",
     "symbol": "mento",
     "name": "MENTO",
@@ -88086,7 +88171,7 @@
   {
     "id": "origin-staked-s",
     "symbol": "os",
-    "name": "Origin Staked S",
+    "name": "Origin Sonic",
     "platforms": {
       "sonic": "0xb1e25689d55734fd3fffc939c4c3eb52dff8a794"
     }
@@ -99165,6 +99250,7 @@
     "name": "Realio Network Token",
     "platforms": {
       "ethereum": "0x94a8b4ee5cd64c79d0ee816f467ea73009f51aa0",
+      "solana": "HELn8rSM1rp8vAjNH4NYXzX6FvCbwWMGqLfaMgiBnZFV",
       "algorand": "2751733",
       "stellar": "RIO-GBNLJIYH34UWO5YZFA3A3HD3N76R6DOI33N4JONUOHEEYZYCAYTEJ5AK",
       "binance-smart-chain": "0x94a8b4ee5cd64c79d0ee816f467ea73009f51aa0"
@@ -106944,6 +107030,14 @@
     "name": "Shyft Network",
     "platforms": {
       "ethereum": "0xb17c88bda07d28b3838e0c1de6a30eafbcf52d85"
+    }
+  },
+  {
+    "id": "shytoshi-kusama",
+    "symbol": "shy",
+    "name": "Shytoshi Kusama",
+    "platforms": {
+      "solana": "7d1vpt5eri79nETcL74Punhp3mGkeBgUkMdPWep6pump"
     }
   },
   {
@@ -132992,7 +133086,7 @@
   {
     "id": "wrapped-sonic-origin",
     "symbol": "wos",
-    "name": "Wrapped Origin (Sonic)",
+    "name": "Wrapped Origin Sonic",
     "platforms": {
       "sonic": "0x9f0df7799f6fdad409300080cff680f5a23df4b1"
     }
