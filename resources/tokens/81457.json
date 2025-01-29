@@ -4,7 +4,7 @@
   "keywords": [
     "defi"
   ],
-  "timestamp": "2025-01-29T00:00:22.467+00:00",
+  "timestamp": "2025-01-29T20:00:22.492+00:00",
   "tokens": [
     {
       "chainId": 81457,
@@ -29,6 +29,14 @@
       "symbol": "YIELD",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/36231/thumb/crypto-valleys.jpeg?1710906095"
+    },
+    {
+      "chainId": 81457,
+      "address": "0xd1fedd031b92f50a50c05e2c45af1adb4cea82f4",
+      "name": "BladeSwap",
+      "symbol": "BLADE",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/37331/thumb/BLADE_CoinGecko.png?1714030403"
     },
     {
       "chainId": 81457,
@@ -64,35 +72,11 @@
     },
     {
       "chainId": 81457,
-      "address": "0x52f847356b38720b55ee18cb3e094ca11c85a192",
-      "name": "Fenix",
-      "symbol": "FNX",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/51406/thumb/Orange_logo.png?1731087837"
-    },
-    {
-      "chainId": 81457,
       "address": "0x5ffd9ebd27f2fcab044c0f0a26a45cb62fa29c06",
       "name": "PacMoon",
       "symbol": "PAC",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/36459/thumb/pacmoon.png?1711501114"
-    },
-    {
-      "chainId": 81457,
-      "address": "0xf77dd21c5ce38ac08786be35ef1d1dec1a6a15f3",
-      "name": "YOLO Games",
-      "symbol": "YOLO",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/38723/thumb/token-yolo.png?1718477580"
-    },
-    {
-      "chainId": 81457,
-      "address": "0xd1fedd031b92f50a50c05e2c45af1adb4cea82f4",
-      "name": "BladeSwap",
-      "symbol": "BLADE",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/37331/thumb/BLADE_CoinGecko.png?1714030403"
     },
     {
       "chainId": 81457,
@@ -104,11 +88,19 @@
     },
     {
       "chainId": 81457,
-      "address": "0xd55edfc79c0d14084260d16f38bda75e28abfb6a",
-      "name": "BlastOff",
-      "symbol": "OFF",
-      "decimals": 8,
-      "logoURI": "https://assets.coingecko.com/coins/images/37828/thumb/profile-3_1.png?1715669157"
+      "address": "0xf77dd21c5ce38ac08786be35ef1d1dec1a6a15f3",
+      "name": "YOLO Games",
+      "symbol": "YOLO",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/38723/thumb/token-yolo.png?1718477580"
+    },
+    {
+      "chainId": 81457,
+      "address": "0x52f847356b38720b55ee18cb3e094ca11c85a192",
+      "name": "Fenix",
+      "symbol": "FNX",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/51406/thumb/Orange_logo.png?1731087837"
     },
     {
       "chainId": 81457,
@@ -117,6 +109,14 @@
       "symbol": "BLAST",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/35494/thumb/Blast.jpg?1719385662"
+    },
+    {
+      "chainId": 81457,
+      "address": "0xd55edfc79c0d14084260d16f38bda75e28abfb6a",
+      "name": "BlastOff",
+      "symbol": "OFF",
+      "decimals": 8,
+      "logoURI": "https://assets.coingecko.com/coins/images/37828/thumb/profile-3_1.png?1715669157"
     },
     {
       "chainId": 81457,
@@ -568,6 +568,38 @@
     },
     {
       "chainId": 81457,
+      "address": "0x08a51d066c12f5b020c3b34817feb6f200aa3ed1",
+      "name": "Dinari HUT",
+      "symbol": "HUTD",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/54079/thumb/d-token-200.png?1738175759"
+    },
+    {
+      "chainId": 81457,
+      "address": "0xa5d7512c6a3b87ad7bf2f597b93845950f738fdd",
+      "name": "Dinari IAU",
+      "symbol": "IAUD",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/54080/thumb/d-token-200.png?1738175780"
+    },
+    {
+      "chainId": 81457,
+      "address": "0x1ea5625399565fa0c3c2499ebf960eb9d9224212",
+      "name": "Dinari V",
+      "symbol": "VD",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/54081/thumb/d-token-200.png?1738176162"
+    },
+    {
+      "chainId": 81457,
+      "address": "0x413e5687814841d65146c062c506c73992a57692",
+      "name": "Dinari VWO",
+      "symbol": "VWOD",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/54082/thumb/d-token-200.png?1738176178"
+    },
+    {
+      "chainId": 81457,
       "address": "0x129ed667bf8c065fe5f66c9b44b7cb0126d85cc3",
       "name": "AI Waifu",
       "symbol": "WAI",
@@ -984,7 +1016,7 @@
   ],
   "version": {
     "major": 12,
-    "minor": 6,
+    "minor": 7,
     "patch": 0
   }
 }
