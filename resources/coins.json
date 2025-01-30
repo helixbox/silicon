@@ -262,14 +262,6 @@
     }
   },
   {
-    "id": "16dao",
-    "symbol": "16dao",
-    "name": "16DAO",
-    "platforms": {
-      "polygon-pos": "0x4a5599a249fdc53bd4746e7d9078edb7543bd0a9"
-    }
-  },
-  {
     "id": "1900rugrat",
     "symbol": "rugrat",
     "name": "1900Rugrat",
@@ -12173,7 +12165,15 @@
     "symbol": "baln",
     "name": "Balanced",
     "platforms": {
-      "icon": "cxf61cd5a45dc9f91c15aa65831a30a90d59a09619"
+      "icon": "cxf61cd5a45dc9f91c15aa65831a30a90d59a09619",
+      "binance-smart-chain": "0x94cf269d63c4140ed481cb0b149dae03c4620cdf",
+      "solana": "BH4TZqN9TXnkjiLEQZ9xuXo85YaGoonM4PHpcjHEoTAx",
+      "sui": "0x3ae6be8e58c0e0715764971b750709e67c6de33e38bbecafe25b5f3dd5080a39",
+      "optimistic-ethereum": "0xd336c74b840f9962cf2c666f8666d6d61ec24440",
+      "avalanche": "0x542245f2b93b30994a4670121541b38226f1208c",
+      "injective": "inj10207z3hn49q2w59tl8e3ctwhet7wqg9neey0nj",
+      "arbitrum-one": "0xac7952d30850c9d214b0f44cbe213781b4dacf05",
+      "base": "0x76e118fa6839ddad531411b8cc7a9dcdfd7d4fb0"
     }
   },
   {
@@ -13812,14 +13812,6 @@
     }
   },
   {
-    "id": "bebe-2",
-    "symbol": "bebe",
-    "name": "BEBE",
-    "platforms": {
-      "binance-smart-chain": "0xf7f3ac6ae80cecd3fdf0a74019117aa69fb86120"
-    }
-  },
-  {
     "id": "bebe-dog",
     "symbol": "bebe",
     "name": "BEBE DOG",
@@ -14810,14 +14802,6 @@
     "name": "BIBI2.0",
     "platforms": {
       "binance-smart-chain": "0xf45ba24098deb4029d8179721972607c315d2590"
-    }
-  },
-  {
-    "id": "biblecoin",
-    "symbol": "bibl",
-    "name": "Biblecoin",
-    "platforms": {
-      "binance-smart-chain": "0xdd041e030ade3db3b2221ce681b65f9650f250d7"
     }
   },
   {
@@ -28326,14 +28310,6 @@
     "platforms": {
       "ordinals": "5b097c9ea9ba59dfa2ce549729a6b896519c3b7a06be942a577b5838bfc05174i0",
       "ethereum": "0xff9c1f21c621696c4f91cf781ec31bd913ee2c26"
-    }
-  },
-  {
-    "id": "companionbot",
-    "symbol": "cbot",
-    "name": "CompanionBot",
-    "platforms": {
-      "ethereum": "0xf49311af05a4ffb1dbf33d61e9b2d4f0a7d4a71c"
     }
   },
   {
@@ -46480,7 +46456,8 @@
     "symbol": "flay",
     "name": "Flayer",
     "platforms": {
-      "ethereum": "0xf1a7000000950c7ad8aff13118bb7ab561a448ee"
+      "ethereum": "0xf1a7000000950c7ad8aff13118bb7ab561a448ee",
+      "base": "0xf1a7000000950c7ad8aff13118bb7ab561a448ee"
     }
   },
   {
@@ -48250,7 +48227,8 @@
     "symbol": "freya",
     "name": "Freya by Virtuals",
     "platforms": {
-      "base": "0xf04d220b8136e2d3d4be08081dbb565c3c302ffd"
+      "base": "0xf04d220b8136e2d3d4be08081dbb565c3c302ffd",
+      "solana": "HivL1ZxFz1emBagyt2euh6ut4Xco8yWb8na9N1GQngnt"
     }
   },
   {
@@ -61046,6 +61024,14 @@
     }
   },
   {
+    "id": "isaac-x",
+    "symbol": "isaacx",
+    "name": "Isaac X",
+    "platforms": {
+      "solana": "C19Q2Mvr1icQVxQJWpDTVDJjLTzAcXbUt3bPmBsYpump"
+    }
+  },
+  {
     "id": "isengard-nft-marketplace",
     "symbol": "iset-84e55e",
     "name": "Isengard NFT Marketplace",
@@ -61121,6 +61107,7 @@
     "name": "ISLAND Token",
     "platforms": {
       "ethereum": "0x157a6df6b74f4e5e45af4e4615fde7b49225a662",
+      "solana": "HX6zNkjJ7zy653VoDWzbaYpSg7BrgLfq4i4RA7D5nkkz",
       "base": "0x157a6df6b74f4e5e45af4e4615fde7b49225a662"
     }
   },
@@ -62752,14 +62739,6 @@
     "name": "JUICY",
     "platforms": {
       "avalanche": "0xc654721fbf1f374fd9ffa3385bba2f4932a6af55"
-    }
-  },
-  {
-    "id": "juicybet",
-    "symbol": "jsp",
-    "name": "Juicybet",
-    "platforms": {
-      "base": "0x4b6f82a4ed0b9e3767f53309b87819a78d041a7f"
     }
   },
   {
@@ -77517,7 +77496,8 @@
     "symbol": "minds",
     "name": "Minds",
     "platforms": {
-      "ethereum": "0xb26631c6dda06ad89b93c71400d25692de89c068"
+      "ethereum": "0xb26631c6dda06ad89b93c71400d25692de89c068",
+      "base": "0x686015ebf044a1b8a4be750346be00293a996071"
     }
   },
   {
@@ -79207,6 +79187,14 @@
     "name": "MONKIE",
     "platforms": {
       "solana": "twxaKd7dcUbTYcnQftpAugoQJn3fLfxJqwBWhSZtExb"
+    }
+  },
+  {
+    "id": "monko",
+    "symbol": "$monko",
+    "name": "Monko",
+    "platforms": {
+      "algorand": "2494786278"
     }
   },
   {
@@ -86634,18 +86622,6 @@
     "name": "Omni",
     "platforms": {
       "solana": "A8vJzs6ygbZQyYLf9FKund8j3pDfUzxBeje8rJiypump"
-    }
-  },
-  {
-    "id": "omni404",
-    "symbol": "o404",
-    "name": "OMNI404",
-    "platforms": {
-      "ethereum": "0xd5c02bb3e40494d4674778306da43a56138a383e",
-      "optimistic-ethereum": "0xb5c457ddb4ce3312a6c5a2b056a1652bd542a208",
-      "avalanche": "0x5f52010d112bf2ecb95b930d32df24e3393a3f04",
-      "arbitrum-one": "0xb5c457ddb4ce3312a6c5a2b056a1652bd542a208",
-      "base": "0xb5c457ddb4ce3312a6c5a2b056a1652bd542a208"
     }
   },
   {
@@ -95822,6 +95798,7 @@
     "name": "Star",
     "platforms": {
       "arbitrum-one": "0xc19669a405067927865b40ea045a2baabbbe57f5",
+      "blast": "0xc19669a405067927865b40ea045a2baabbbe57f5",
       "polygon-pos": "0xc19669a405067927865b40ea045a2baabbbe57f5",
       "base": "0xc19669a405067927865b40ea045a2baabbbe57f5"
     }
@@ -95981,6 +95958,14 @@
       "xdc-network": "xdc0e11710aad67e7427cfbc12c353284c2e335f62c",
       "ethereum": "0x7cfea0dd176651e7b5a1ced9c4faf8ee295315fd",
       "binance-smart-chain": "0x9f402f44684574f3535ea6f1bb5cfbffef42ee28"
+    }
+  },
+  {
+    "id": "prime-staked-xdc",
+    "symbol": "pstxdc",
+    "name": "Prime Staked XDC",
+    "platforms": {
+      "xdc-network": "0x7f115f68a789f819047b94efa0114aa9829b83d8"
     }
   },
   {
@@ -97653,14 +97638,6 @@
     "platforms": {
       "ethereum": "0x1d96fd43ee07aa79f8fd003cbdf404fb5ce41ad2",
       "polygon-pos": "0x4fafad147c8cd0e52f83830484d164e960bdc6c3"
-    }
-  },
-  {
-    "id": "qbao",
-    "symbol": "qbt",
-    "name": "Qbao",
-    "platforms": {
-      "qtum": ""
     }
   },
   {
@@ -105616,14 +105593,6 @@
     }
   },
   {
-    "id": "sentinel-ai",
-    "symbol": "senai",
-    "name": "Sentinel AI",
-    "platforms": {
-      "ethereum": "0x8070dee687fc754b55101374e3ca6e4fd024a39e"
-    }
-  },
-  {
     "id": "sentinel-bot-ai",
     "symbol": "snt",
     "name": "Sentinel Bot Ai",
@@ -112466,6 +112435,14 @@
     }
   },
   {
+    "id": "squirrel-wallet",
+    "symbol": "nuts",
+    "name": "Squirrel Wallet",
+    "platforms": {
+      "ethereum": "0x195f5c217b96cd3dd75d39327161b8911a42e509"
+    }
+  },
+  {
     "id": "squirry",
     "symbol": "squirry",
     "name": "Squirry",
@@ -114052,14 +114029,6 @@
     "name": "Step Staked SOL",
     "platforms": {
       "solana": "StPsoHokZryePePFV8N7iXvfEmgUoJ87rivABX7gaW6"
-    }
-  },
-  {
-    "id": "steth-fuse",
-    "symbol": "steth",
-    "name": "stETH (Fuse)",
-    "platforms": {
-      "fuse": "0x587983b895db50ddabc0aac8adc592b29bb30d80"
     }
   },
   {
@@ -128461,14 +128430,6 @@
     }
   },
   {
-    "id": "wabbit-hole",
-    "symbol": "wabbit",
-    "name": "Wabbit Hole",
-    "platforms": {
-      "cronos": "0xc8aea3858738a90b36b3d6ea4174702cfa2329f9"
-    }
-  },
-  {
     "id": "waddle-waddle-pengu",
     "symbol": "🐧",
     "name": "WADDLE•WADDLE•PENGU",
@@ -136855,14 +136816,6 @@
     "symbol": "firo",
     "name": "Firo",
     "platforms": {}
-  },
-  {
-    "id": "zcore-2",
-    "symbol": "zcr",
-    "name": "ZCore",
-    "platforms": {
-      "binance-smart-chain": "0x0e8fe6eed5342ea9189d9268d088821f0532fb74"
-    }
   },
   {
     "id": "zcore-finance",
