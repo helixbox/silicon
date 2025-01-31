@@ -4,8 +4,16 @@
   "keywords": [
     "defi"
   ],
-  "timestamp": "2025-01-30T10:00:20.708+00:00",
+  "timestamp": "2025-01-31T10:00:21.043+00:00",
   "tokens": [
+    {
+      "chainId": 10,
+      "address": "0xd0cf4de352ac8dcce00bd6b93ee73d3cb272edc3",
+      "name": "PCM",
+      "symbol": "PCM",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/50402/thumb/pcmlabs_32.png?1727591862"
+    },
     {
       "chainId": 10,
       "address": "0x1f32b1c2345538c0c6f582fcb022739c4a194ebb",
@@ -13,6 +21,22 @@
       "symbol": "WSTETH",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/53104/thumb/superbridge-bridged-wsteth-optimism.webp?1735228418"
+    },
+    {
+      "chainId": 10,
+      "address": "0x4200000000000000000000000000000000000042",
+      "name": "Optimism",
+      "symbol": "OP",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/25244/thumb/Optimism.png?1696524385"
+    },
+    {
+      "chainId": 10,
+      "address": "0x8c6f28f2f1a3c87f0f938b96d27520d9751ec8d9",
+      "name": "sUSD  Optimism ",
+      "symbol": "SUSD",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/37867/thumb/sus.png?1715815715"
     },
     {
       "chainId": 10,
@@ -32,78 +56,6 @@
     },
     {
       "chainId": 10,
-      "address": "0x139052115f8b1773cf7dcba6a553f922a2e54f69",
-      "name": "Nekocoin",
-      "symbol": "",
-      "decimals": 6,
-      "logoURI": "https://assets.coingecko.com/coins/images/50449/thumb/Token-160px.png?1727772379"
-    },
-    {
-      "chainId": 10,
-      "address": "0x1cef2d62af4cd26673c7416957cc4ec619a696a7",
-      "name": "DexToro Pro",
-      "symbol": "DTORO",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/33529/thumb/DTORO_Logo_New.png?1716971115"
-    },
-    {
-      "chainId": 10,
-      "address": "0x9560e827af36c94d2ac33a39bce1fe78631088db",
-      "name": "Velodrome Finance",
-      "symbol": "VELO",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/25783/thumb/velo.png?1696524870"
-    },
-    {
-      "chainId": 10,
-      "address": "0x5df7abe3c51c01dcf6d1f1f9a0ab4dc3759869b9",
-      "name": "SoonChain",
-      "symbol": "SOONX",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/53140/thumb/Logo_Mark_White_on_Blue_Background_1.png?1735375710"
-    },
-    {
-      "chainId": 10,
-      "address": "0x3b08fcd15280e7b5a6e404c4abb87f7c774d1b2e",
-      "name": "Overnight Finance",
-      "symbol": "OVN",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/31970/thumb/OVN.png?1696959174"
-    },
-    {
-      "chainId": 10,
-      "address": "0x4200000000000000000000000000000000000042",
-      "name": "Optimism",
-      "symbol": "OP",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/25244/thumb/Optimism.png?1696524385"
-    },
-    {
-      "chainId": 10,
-      "address": "0xd0cf4de352ac8dcce00bd6b93ee73d3cb272edc3",
-      "name": "PCM",
-      "symbol": "PCM",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/50402/thumb/pcmlabs_32.png?1727591862"
-    },
-    {
-      "chainId": 10,
-      "address": "0x7f5c764cbc14f9669b88837ca1490cca17c31607",
-      "name": "Standard Bridged USDC e  Optimism ",
-      "symbol": "USDCE",
-      "decimals": 6,
-      "logoURI": "https://assets.coingecko.com/coins/images/31580/thumb/USDC-icon.png?1696530397"
-    },
-    {
-      "chainId": 10,
-      "address": "0xf467c7d5a4a9c4687ffc7986ac6ad5a4c81e1404",
-      "name": "Kite",
-      "symbol": "KITE",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/35343/thumb/_KITE.png?1708317581"
-    },
-    {
-      "chainId": 10,
       "address": "0x3ee6107d9c93955acbb3f39871d32b02f82b78ab",
       "name": "Staked Ethos Reserve Note",
       "symbol": "STERN",
@@ -120,11 +72,27 @@
     },
     {
       "chainId": 10,
+      "address": "0x3b08fcd15280e7b5a6e404c4abb87f7c774d1b2e",
+      "name": "Overnight Finance",
+      "symbol": "OVN",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/31970/thumb/OVN.png?1696959174"
+    },
+    {
+      "chainId": 10,
       "address": "0x970d50d09f3a656b43e11b0d45241a84e3a6e011",
       "name": "Overnight fi DAI ",
       "symbol": "DAI+",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/29634/thumb/DAI_.png?1696528571"
+    },
+    {
+      "chainId": 10,
+      "address": "0xf467c7d5a4a9c4687ffc7986ac6ad5a4c81e1404",
+      "name": "Kite",
+      "symbol": "KITE",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/35343/thumb/_KITE.png?1708317581"
     },
     {
       "chainId": 10,
@@ -136,11 +104,19 @@
     },
     {
       "chainId": 10,
-      "address": "0xda10009cbd5d07dd0cecc66161fc93d7c9000da1",
-      "name": "MakerDAO Optimism Bridged DAI  Optimism",
-      "symbol": "DAI",
+      "address": "0x9560e827af36c94d2ac33a39bce1fe78631088db",
+      "name": "Velodrome Finance",
+      "symbol": "VELO",
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/39818/thumb/dai.png?1724190656"
+      "logoURI": "https://assets.coingecko.com/coins/images/25783/thumb/velo.png?1696524870"
+    },
+    {
+      "chainId": 10,
+      "address": "0x139052115f8b1773cf7dcba6a553f922a2e54f69",
+      "name": "Nekocoin",
+      "symbol": "",
+      "decimals": 6,
+      "logoURI": "https://assets.coingecko.com/coins/images/50449/thumb/Token-160px.png?1727772379"
     },
     {
       "chainId": 10,
@@ -149,6 +125,14 @@
       "symbol": "USDPY",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/40153/thumb/usdpy.png?1726073418"
+    },
+    {
+      "chainId": 10,
+      "address": "0x5df7abe3c51c01dcf6d1f1f9a0ab4dc3759869b9",
+      "name": "SoonChain",
+      "symbol": "SOONX",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/53140/thumb/Logo_Mark_White_on_Blue_Background_1.png?1735375710"
     },
     {
       "chainId": 10,
@@ -168,11 +152,27 @@
     },
     {
       "chainId": 10,
-      "address": "0x8c6f28f2f1a3c87f0f938b96d27520d9751ec8d9",
-      "name": "sUSD  Optimism ",
-      "symbol": "SUSD",
+      "address": "0xda10009cbd5d07dd0cecc66161fc93d7c9000da1",
+      "name": "MakerDAO Optimism Bridged DAI  Optimism",
+      "symbol": "DAI",
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/37867/thumb/sus.png?1715815715"
+      "logoURI": "https://assets.coingecko.com/coins/images/39818/thumb/dai.png?1724190656"
+    },
+    {
+      "chainId": 10,
+      "address": "0x7f5c764cbc14f9669b88837ca1490cca17c31607",
+      "name": "Standard Bridged USDC e  Optimism ",
+      "symbol": "USDCE",
+      "decimals": 6,
+      "logoURI": "https://assets.coingecko.com/coins/images/31580/thumb/USDC-icon.png?1696530397"
+    },
+    {
+      "chainId": 10,
+      "address": "0x1cef2d62af4cd26673c7416957cc4ec619a696a7",
+      "name": "DexToro Pro",
+      "symbol": "DTORO",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/33529/thumb/DTORO_Logo_New.png?1716971115"
     },
     {
       "chainId": 10,
@@ -1012,14 +1012,6 @@
       "symbol": "XMT",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/22075/thumb/Logo_COIN_-_Gradiente.png?1696521419"
-    },
-    {
-      "chainId": 10,
-      "address": "0x6f0fecbc276de8fc69257065fe47c5a03d986394",
-      "name": "Popcorn",
-      "symbol": "POP",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/21438/thumb/pop-1_200_x_200.png?1696520801"
     },
     {
       "chainId": 10,
@@ -2047,7 +2039,7 @@
     }
   ],
   "version": {
-    "major": 10,
+    "major": 11,
     "minor": 0,
     "patch": 0
   }
