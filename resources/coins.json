@@ -106809,7 +106809,7 @@
     "symbol": "wing",
     "name": "Shiba Wing",
     "platforms": {
-      "ethereum": "0xc47db7535b063a494f3619317b7633041737c8e9"
+      "solana": "3UYS3XXYC9yWvNyBWFKqqb5w9YQfX65RQzoAKd8jEUCB"
     }
   },
   {
@@ -116900,6 +116900,14 @@
       "ethereum": "0xbe9f61555f50dd6167f2772e9cf7519790d96624",
       "sx-network": "0x3e96b0a25d51e3cc89c557f152797c33b839968f",
       "arbitrum-one": "0x8cf7e3aa6faf6ae180e5ec3f0fb95081c2086ebe"
+    }
+  },
+  {
+    "id": "sx-network-bridged-usdc-sx-network",
+    "symbol": "usdc",
+    "name": "SX Network Bridged USDC (SX Network)",
+    "platforms": {
+      "sx-network": "0xe2aa35c2039bd0ff196a6ef99523cc0d3972ae3e"
     }
   },
   {
@@ -133734,6 +133742,14 @@
     "name": "Wrapped Super OETH",
     "platforms": {
       "base": "0x7fcd174e80f264448ebee8c88a7c4476aaf58ea6"
+    }
+  },
+  {
+    "id": "wrapped-sx",
+    "symbol": "wsx",
+    "name": "Wrapped SX",
+    "platforms": {
+      "sx-network": "0xaa99be3356a11ee92c3f099bd7a038399633566f"
     }
   },
   {
