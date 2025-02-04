@@ -1043,6 +1043,7 @@
     "name": "Aave",
     "platforms": {
       "ethereum": "0x7fc66500c84a76ad7e9c93437bfc5ac33e2ddae9",
+      "base": "0x63706e401c06ac8513145b7687a14804d17f814b",
       "optimistic-ethereum": "0x76fb31fb4af56892a25e32cfc43de717950c9278",
       "near-protocol": "7fc66500c84a76ad7e9c93437bfc5ac33e2ddae9.factory.bridge.near",
       "huobi-token": "0x202b4936fe1a82a4965220860ae46d7d3939bb25",
@@ -27213,6 +27214,14 @@
     }
   },
   {
+    "id": "clay",
+    "symbol": "clay",
+    "name": "Clay",
+    "platforms": {
+      "polygon-pos": "0x2ab445c24c96db13383bb34678adae50c43b4baa"
+    }
+  },
+  {
     "id": "clay-nation",
     "symbol": "clay",
     "name": "Clay Nation",
@@ -36516,6 +36525,36 @@
     }
   },
   {
+    "id": "dinari-jpm",
+    "symbol": "jpm.d",
+    "name": "Dinari JPM",
+    "platforms": {
+      "arbitrum-one": "0xe15602ceeb794feb4163b049fe82a1f8432781b2",
+      "ethereum": "0x4026f916beda6ca2b347c44517a83f5efab3f569",
+      "blast": "0xfb3bcdc42d0f884b0f1e53f74ed152ff1cb77dc8",
+      "base": "0x687838649383f180024435b96fe014b351854a2d"
+    }
+  },
+  {
+    "id": "dinari-ko",
+    "symbol": "ko.d",
+    "name": "Dinari KO",
+    "platforms": {
+      "arbitrum-one": "0x42ba3ac0c2d9b611623e1e48f51757606a105d9e",
+      "ethereum": "0x05fed61f7a3eca96dc7f9a41b38fa7c5f0e62158",
+      "blast": "0x44ba66f8ad159f8f400c7d9e06f670c018bdd57c",
+      "base": "0x000804047791c8e0fbd04f1a9f4567114130b9a7"
+    }
+  },
+  {
+    "id": "dinari-lmt",
+    "symbol": "lmt.d",
+    "name": "Dinari LMT",
+    "platforms": {
+      "arbitrum-one": "0x893ff58cd1e34eac0c8ce4fa92b30adee4e14986"
+    }
+  },
+  {
     "id": "dinari-mara",
     "symbol": "mara.d",
     "name": "Dinari MARA",
@@ -36595,6 +36634,17 @@
     "name": "Dinari PFE",
     "platforms": {
       "arbitrum-one": "0xf1f18f765f118c3598cc54dcac1d0e12066263fe"
+    }
+  },
+  {
+    "id": "dinari-pho",
+    "symbol": "pho.d",
+    "name": "Dinari PHO",
+    "platforms": {
+      "arbitrum-one": "0xad6a646c1b262586ef3a8b6c6304e7c9218ecac4",
+      "ethereum": "0x251530c7f24d6904a31425b9afa24b0e1e5aafde",
+      "blast": "0x93a9f06576cfe91e8c408467cd684df42ca23c23",
+      "base": "0xcc69d36075d563d010d829db7a9caa50b3487bb0"
     }
   },
   {
@@ -36753,6 +36803,28 @@
       "blast": "0x42e4981de9bc8fd4726775f62066cabbe78deab8",
       "ethereum": "0xd2a64bb1776f02e6b2b5503fe6a8ca6bf1f46d07",
       "base": "0xb8ebc0fc2453a1be3ab48db2de6237ce56e00c48"
+    }
+  },
+  {
+    "id": "dinari-xom",
+    "symbol": "xom.d",
+    "name": "Dinari XOM",
+    "platforms": {
+      "arbitrum-one": "0x315a2dca4b1b633d3a707c71d96243534c02f7c4",
+      "ethereum": "0x52926f7f983d3d7ddcbe644a809d67bbe4a9e785",
+      "blast": "0xda5afff979a356af2cfa75bd0054c2c8c505234a",
+      "base": "0x78bb8ff6baa486c31ce0ef1a157798f7a606565c"
+    }
+  },
+  {
+    "id": "dinari-yum",
+    "symbol": "yum.d",
+    "name": "Dinari YUM",
+    "platforms": {
+      "arbitrum-one": "0xeb0d1360a14c3b162f2974daa5d218e0c1090146",
+      "ethereum": "0x0af5b873df94efeba34c0b0a9fa34a8c13e078cd",
+      "blast": "0xd951722f5309479cde8ed719fe3e13596290a324",
+      "base": "0x48a0ea70c2c7d025cc95672b9ebe6ad026129b44"
     }
   },
   {
