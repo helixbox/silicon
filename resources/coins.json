@@ -4548,7 +4548,7 @@
     "symbol": "akitax",
     "name": "Akitavax",
     "platforms": {
-      "avalanche": "0xe06fba763c2104db5027f57f6a5be0a0d86308af"
+      "avalanche": "0xf2536e4301a428af9686ed73e42b50c1f9aed517"
     }
   },
   {
@@ -59401,8 +59401,7 @@
     "symbol": "lime",
     "name": "iMe Lab",
     "platforms": {
-      "binance-smart-chain": "0x7bc75e291e656e8658d66be1cc8154a3769a35dd",
-      "polygon-pos": "0x7f67639ffc8c93dd558d452b8920b28815638c44"
+      "solana": "LimeYH1PCoDMoUqfY1bUnp8ZdZrPN5nFTW3iofkdzCU"
     }
   },
   {
@@ -63512,6 +63511,14 @@
     "symbol": "kaia",
     "name": "Kaia",
     "platforms": {}
+  },
+  {
+    "id": "kaia-bridged-usdt-kaia",
+    "symbol": "usdt",
+    "name": "Kaia Bridged USDT (Kaia)",
+    "platforms": {
+      "klay-token": "0x5c13e303a62fc5dedf5b52d66873f2e59fedadc2"
+    }
   },
   {
     "id": "kaidex",
@@ -86011,7 +86018,7 @@
     "symbol": "oasis",
     "name": "Oasis Metaverse",
     "platforms": {
-      "ethereum": "0xf0dc9fc0669f068e04ad79f7d70618d3f9aad439"
+      "solana": "G5oL8AR1pd4t4xxGheZjS1DBxTBLJYsT9ukjcrKc5vJH"
     }
   },
   {
@@ -108877,9 +108884,18 @@
   {
     "id": "smolcoin",
     "symbol": "smol",
-    "name": "Smolcoin",
+    "name": "Smolcoin [OLD]",
     "platforms": {
       "arbitrum-one": "0x9e64d3b9e8ec387a9a58ced80b71ed815f8d82b5"
+    }
+  },
+  {
+    "id": "smolcoin-2",
+    "symbol": "smol",
+    "name": "Smolcoin",
+    "platforms": {
+      "solana": "5KHQeeQvM4qBtmX3WnaCMGpM3Th7jYpqcHf3c6qzPodM",
+      "ethereum": "0x53cce6d10e43d1b3d11872ad22ec2acd8d2537b8"
     }
   },
   {
@@ -135723,7 +135739,8 @@
     "symbol": "xyro",
     "name": "XYRO",
     "platforms": {
-      "ethereum": "0x4eddb15a0abfa2c349e8065af9214e942d9a6d36"
+      "ethereum": "0x4eddb15a0abfa2c349e8065af9214e942d9a6d36",
+      "arbitrum-one": "0xaeac3b55c3522157ecda7ec8fcb86c832faa28af"
     }
   },
   {
