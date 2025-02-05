@@ -4,31 +4,23 @@
   "keywords": [
     "defi"
   ],
-  "timestamp": "2025-01-14T09:00:07.648+00:00",
+  "timestamp": "2025-02-05T10:00:05.214+00:00",
   "tokens": [
     {
       "chainId": 2222,
-      "address": "0x471f79616569343e8e84a66f342b7b433b958154",
-      "name": "Tiger Scrub Money",
-      "symbol": "TIGER",
+      "address": "0xe5274e38e91b615d8822e8512a29a16ff1b9c4af",
+      "name": "Pinjam Kava",
+      "symbol": "PINKAV",
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/28277/thumb/Tiger.png?1696527278"
+      "logoURI": "https://assets.coingecko.com/coins/images/30803/thumb/PINKAV_Logo_%28200x200%29.png?1696529661"
     },
     {
       "chainId": 2222,
-      "address": "0x818ec0a7fe18ff94269904fced6ae3dae6d6dc0b",
-      "name": "Multichain Bridged WBTC  Kava ",
-      "symbol": "WBTC",
-      "decimals": 8,
-      "logoURI": "https://assets.coingecko.com/coins/images/39528/thumb/kava_evm_multiwbtc.png?1722808260"
-    },
-    {
-      "chainId": 2222,
-      "address": "0xb51efaf2f7afb8a2f5be0b730281e414fb487636",
-      "name": "hKAVA",
-      "symbol": "HKAVA",
-      "decimals": 8,
-      "logoURI": "https://assets.coingecko.com/coins/images/36101/thumb/hover.jpeg?1710483234"
+      "address": "0x2d519b9308aeb0c57921030dd5de4e88c44cec7c",
+      "name": "Pozo Coin",
+      "symbol": "POZO",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/50663/thumb/ppn-ceum_400x400.jpg?1728666342"
     },
     {
       "chainId": 2222,
@@ -40,6 +32,14 @@
     },
     {
       "chainId": 2222,
+      "address": "0xe3f5a90f9cb311505cd691a46596599aa1a0ad7d",
+      "name": "Multichain Bridged WETH  Kava ",
+      "symbol": "WETH",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/39706/thumb/WETH.PNG?1723730046"
+    },
+    {
+      "chainId": 2222,
       "address": "0x765277eebeca2e31912c9946eae1021199b39c61",
       "name": "Multichain Bridged DAI  Kava ",
       "symbol": "DAI",
@@ -48,27 +48,11 @@
     },
     {
       "chainId": 2222,
-      "address": "0xe5274e38e91b615d8822e8512a29a16ff1b9c4af",
-      "name": "Pinjam Kava",
-      "symbol": "PINKAV",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/30803/thumb/PINKAV_Logo_%28200x200%29.png?1696529661"
-    },
-    {
-      "chainId": 2222,
-      "address": "0xd86c8d4279ccafbec840c782bcc50d201f277419",
-      "name": "Mare Finance",
-      "symbol": "MARE",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/29288/thumb/mare-icon.png?1696528240"
-    },
-    {
-      "chainId": 2222,
-      "address": "0xfa9343c3897324496a05fc75abed6bac29f8a40f",
-      "name": "Multichain Bridged USDC  Kava ",
-      "symbol": "USDC",
-      "decimals": 6,
-      "logoURI": "https://assets.coingecko.com/coins/images/35221/thumb/USDC.jpg?1707919585"
+      "address": "0xb51efaf2f7afb8a2f5be0b730281e414fb487636",
+      "name": "hKAVA",
+      "symbol": "HKAVA",
+      "decimals": 8,
+      "logoURI": "https://assets.coingecko.com/coins/images/36101/thumb/hover.jpeg?1710483234"
     },
     {
       "chainId": 2222,
@@ -80,6 +64,22 @@
     },
     {
       "chainId": 2222,
+      "address": "0x471f79616569343e8e84a66f342b7b433b958154",
+      "name": "Tiger Scrub Money",
+      "symbol": "TIGER",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/28277/thumb/Tiger.png?1696527278"
+    },
+    {
+      "chainId": 2222,
+      "address": "0xd86c8d4279ccafbec840c782bcc50d201f277419",
+      "name": "Mare Finance",
+      "symbol": "MARE",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/29288/thumb/mare-icon.png?1696528240"
+    },
+    {
+      "chainId": 2222,
       "address": "0x38481fdc1af61e6e72e0ff46f069315a59779c65",
       "name": "Bear Scrub Money",
       "symbol": "BEAR",
@@ -88,11 +88,11 @@
     },
     {
       "chainId": 2222,
-      "address": "0xe3f5a90f9cb311505cd691a46596599aa1a0ad7d",
-      "name": "Multichain Bridged WETH  Kava ",
-      "symbol": "WETH",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/39706/thumb/WETH.PNG?1723730046"
+      "address": "0xfa9343c3897324496a05fc75abed6bac29f8a40f",
+      "name": "Multichain Bridged USDC  Kava ",
+      "symbol": "USDC",
+      "decimals": 6,
+      "logoURI": "https://assets.coingecko.com/coins/images/35221/thumb/USDC.jpg?1707919585"
     },
     {
       "chainId": 2222,
@@ -101,14 +101,6 @@
       "symbol": "HOV",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/35187/thumb/HM-token-BG.png?1707815790"
-    },
-    {
-      "chainId": 2222,
-      "address": "0x2d519b9308aeb0c57921030dd5de4e88c44cec7c",
-      "name": "Pozo Coin",
-      "symbol": "POZO",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/50663/thumb/ppn-ceum_400x400.jpg?1728666342"
     },
     {
       "chainId": 2222,
@@ -264,7 +256,7 @@
     }
   ],
   "version": {
-    "major": 2,
+    "major": 3,
     "minor": 0,
     "patch": 0
   }
