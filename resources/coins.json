@@ -1,5 +1,13 @@
 [
   {
+    "id": "_",
+    "symbol": "gib",
+    "name": "༼ つ ◕_◕ ༽つ",
+    "platforms": {
+      "hedera-hashgraph": "0x00000000000000000000000000000000007872cb"
+    }
+  },
+  {
     "id": "01coin",
     "symbol": "zoc",
     "name": "01coin",
@@ -25045,7 +25053,10 @@
     "symbol": "cgeth.hashkey",
     "name": "cgETH Hashkey Cloud",
     "platforms": {
-      "base": "0xf587b7116879a529353cc71ee959cd69fd5cae48"
+      "base": "0xf587b7116879a529353cc71ee959cd69fd5cae48",
+      "arbitrum-one": "0x0ce45dd53affbb011884ef1866e0738f58ab7969",
+      "optimistic-ethereum": "0x0ce45dd53affbb011884ef1866e0738f58ab7969",
+      "ethereum": "0xc60a9145d9e9f1152218e7da6df634b7a74ae444"
     }
   },
   {
@@ -27237,7 +27248,10 @@
     "symbol": "clbtc",
     "name": "clBTC",
     "platforms": {
-      "base": "0x8d2757ea27aabf172da4cca4e5474c76016e3dc5"
+      "base": "0x8d2757ea27aabf172da4cca4e5474c76016e3dc5",
+      "arbitrum-one": "0x1792865d493fe4dfdd504010d3c0f6da11e8046d",
+      "optimistic-ethereum": "0x1792865d493fe4dfdd504010d3c0f6da11e8046d",
+      "ethereum": "0xe7ae30c03395d66f30a26c49c91edae151747911"
     }
   },
   {
@@ -96472,6 +96486,14 @@
     "platforms": {}
   },
   {
+    "id": "privix-2",
+    "symbol": "privix",
+    "name": "Privix",
+    "platforms": {
+      "ethereum": "0xafb942e2a12ac0861ad81b5c37682f588912c1d9"
+    }
+  },
+  {
     "id": "prizm",
     "symbol": "pzm",
     "name": "Prizm",
@@ -109710,7 +109732,8 @@
     "symbol": "soil",
     "name": "Soil",
     "platforms": {
-      "polygon-pos": "0x43c73b90e0c2a355784dcf0da12f477729b31e77"
+      "polygon-pos": "0x43c73b90e0c2a355784dcf0da12f477729b31e77",
+      "ethereum": "0x54991328ab43c7d5d31c19d1b9fa048e77b5cd16"
     }
   },
   {
