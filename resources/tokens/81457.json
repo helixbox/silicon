@@ -4,8 +4,16 @@
   "keywords": [
     "defi"
   ],
-  "timestamp": "2025-02-06T18:00:22.127+00:00",
+  "timestamp": "2025-02-07T10:00:24.617+00:00",
   "tokens": [
+    {
+      "chainId": 81457,
+      "address": "0x52f847356b38720b55ee18cb3e094ca11c85a192",
+      "name": "Fenix",
+      "symbol": "FNX",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/51406/thumb/Orange_logo.png?1731087837"
+    },
     {
       "chainId": 81457,
       "address": "0xd55edfc79c0d14084260d16f38bda75e28abfb6a",
@@ -13,6 +21,14 @@
       "symbol": "OFF",
       "decimals": 8,
       "logoURI": "https://assets.coingecko.com/coins/images/37828/thumb/profile-3_1.png?1715669157"
+    },
+    {
+      "chainId": 81457,
+      "address": "0xd1fedd031b92f50a50c05e2c45af1adb4cea82f4",
+      "name": "BladeSwap",
+      "symbol": "BLADE",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/37331/thumb/BLADE_CoinGecko.png?1714030403"
     },
     {
       "chainId": 81457,
@@ -40,6 +56,14 @@
     },
     {
       "chainId": 81457,
+      "address": "0xb1a5700fa2358173fe465e6ea4ff52e36e88e2ad",
+      "name": "Blast",
+      "symbol": "BLAST",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/35494/thumb/Blast.jpg?1719385662"
+    },
+    {
+      "chainId": 81457,
       "address": "0x4fee793d435c6d2c10c135983bb9d6d4fc7b9bbd",
       "name": "Overnight fi USD   Blast ",
       "symbol": "USD+",
@@ -56,14 +80,6 @@
     },
     {
       "chainId": 81457,
-      "address": "0xd1fedd031b92f50a50c05e2c45af1adb4cea82f4",
-      "name": "BladeSwap",
-      "symbol": "BLADE",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/37331/thumb/BLADE_CoinGecko.png?1714030403"
-    },
-    {
-      "chainId": 81457,
       "address": "0x010392305558d58e1cb0eec5529a65bf3545f82e",
       "name": "MACHI",
       "symbol": "MACHI",
@@ -72,35 +88,11 @@
     },
     {
       "chainId": 81457,
-      "address": "0x52f847356b38720b55ee18cb3e094ca11c85a192",
-      "name": "Fenix",
-      "symbol": "FNX",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/51406/thumb/Orange_logo.png?1731087837"
-    },
-    {
-      "chainId": 81457,
-      "address": "0x963eec23618bbc8e1766661d5f263f18094ae4d5",
-      "name": "CYBRO",
-      "symbol": "CYBRO",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/36941/thumb/3xhsAKWd_400x400.jpg?1712853902"
-    },
-    {
-      "chainId": 81457,
       "address": "0x4186bfc76e2e237523cbc30fd220fe055156b41f",
       "name": "KelpDAO Bridged rsETH  Blast ",
       "symbol": "RSETH",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/39544/thumb/rseth.png?1722849866"
-    },
-    {
-      "chainId": 81457,
-      "address": "0xb1a5700fa2358173fe465e6ea4ff52e36e88e2ad",
-      "name": "Blast",
-      "symbol": "BLAST",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/35494/thumb/Blast.jpg?1719385662"
     },
     {
       "chainId": 81457,
@@ -117,6 +109,14 @@
       "symbol": "BPEPE",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/38717/thumb/blastinpepes.png?1718474635"
+    },
+    {
+      "chainId": 81457,
+      "address": "0x963eec23618bbc8e1766661d5f263f18094ae4d5",
+      "name": "CYBRO",
+      "symbol": "CYBRO",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/36941/thumb/3xhsAKWd_400x400.jpg?1712853902"
     },
     {
       "chainId": 81457,
@@ -253,14 +253,6 @@
       "symbol": "MIM",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/37657/thumb/mim.png?1715162647"
-    },
-    {
-      "chainId": 81457,
-      "address": "0x837fe561e9c5dfa73f607fda679295dbc2be5e40",
-      "name": "MonoSwap USD",
-      "symbol": "MUSD",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/37086/thumb/cmc_musd.png?1713254329"
     },
     {
       "chainId": 81457,
@@ -1135,8 +1127,8 @@
     }
   ],
   "version": {
-    "major": 12,
-    "minor": 10,
+    "major": 13,
+    "minor": 0,
     "patch": 0
   }
 }
