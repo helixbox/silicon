@@ -4,8 +4,16 @@
   "keywords": [
     "defi"
   ],
-  "timestamp": "2024-12-26T22:00:03.591+00:00",
+  "timestamp": "2025-02-08T10:00:03.430+00:00",
   "tokens": [
+    {
+      "chainId": 40,
+      "address": "0x7c598c96d02398d89fbcb9d41eab3df0c16f227d",
+      "name": "Multichain Bridged WAVAX  Telos ",
+      "symbol": "WAVAX",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/53095/thumb/multichain-bridged-wavax-telos.png?1735221405"
+    },
     {
       "chainId": 40,
       "address": "0xfa9343c3897324496a05fc75abed6bac29f8a40f",
@@ -13,6 +21,14 @@
       "symbol": "WETH",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/39729/thumb/weth.png?1723758813"
+    },
+    {
+      "chainId": 40,
+      "address": "0xb4b01216a5bc8f1c8a33cd990a1239030e60c905",
+      "name": "Staked TLOS",
+      "symbol": "STLOS",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/31359/thumb/tlos_png.png?1722391377"
     },
     {
       "chainId": 40,
@@ -24,11 +40,11 @@
     },
     {
       "chainId": 40,
-      "address": "0xe65b77f52d8645ecad3edfdf4d3e5b1a9d31f988",
-      "name": "Telos Velocore",
-      "symbol": "TVC",
+      "address": "0x2c78f1b70ccf63cdee49f9233e9faa99d43aa07e",
+      "name": "Multichain Bridged WBNB  Telos ",
+      "symbol": "WBNB",
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/34363/thumb/TVC.png?1704712965"
+      "logoURI": "https://assets.coingecko.com/coins/images/53122/thumb/wbnb.png?1735250267"
     },
     {
       "chainId": 40,
@@ -45,30 +61,6 @@
       "symbol": "USDC",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/35298/thumb/USDC_Icon.png?1708083071"
-    },
-    {
-      "chainId": 40,
-      "address": "0x7c598c96d02398d89fbcb9d41eab3df0c16f227d",
-      "name": "Multichain Bridged WAVAX  Telos ",
-      "symbol": "WAVAX",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/53095/thumb/multichain-bridged-wavax-telos.png?1735221405"
-    },
-    {
-      "chainId": 40,
-      "address": "0xb4b01216a5bc8f1c8a33cd990a1239030e60c905",
-      "name": "Staked TLOS",
-      "symbol": "STLOS",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/31359/thumb/tlos_png.png?1722391377"
-    },
-    {
-      "chainId": 40,
-      "address": "0x2c78f1b70ccf63cdee49f9233e9faa99d43aa07e",
-      "name": "Multichain Bridged WBNB  Telos ",
-      "symbol": "WBNB",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/53122/thumb/wbnb.png?1735250267"
     },
     {
       "chainId": 40,
@@ -136,8 +128,8 @@
     }
   ],
   "version": {
-    "major": 5,
+    "major": 6,
     "minor": 0,
-    "patch": 2
+    "patch": 0
   }
 }
