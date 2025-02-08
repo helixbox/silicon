@@ -4,8 +4,24 @@
   "keywords": [
     "defi"
   ],
-  "timestamp": "2024-12-26T08:00:37.455+00:00",
+  "timestamp": "2025-02-04T12:00:24.026+00:00",
   "tokens": [
+    {
+      "chainId": 122,
+      "address": "0x2f6f07cdcf3588944bf4c42ac74ff24bf56e7590",
+      "name": "Stargate Bridged WETH  Fuse ",
+      "symbol": "WETH",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/53042/thumb/wETH_32.png?1735081743"
+    },
+    {
+      "chainId": 122,
+      "address": "0x68c9736781e9316ebf5c3d49fe0c1f45d2d104cd",
+      "name": "Bridged Tether  Fuse ",
+      "symbol": "USDT",
+      "decimals": 6,
+      "logoURI": "https://assets.coingecko.com/coins/images/32986/thumb/logo_%288%29.png?1700094172"
+    },
     {
       "chainId": 122,
       "address": "0x8bf40e191ac82bc09d946629655a6b8baf8f063e",
@@ -13,62 +29,6 @@
       "symbol": "EZETH",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/50573/thumb/logo_%289%29.png?1728403228"
-    },
-    {
-      "chainId": 122,
-      "address": "0xb10ed6e3810c95a380e4f3e448af1755fa3368cf",
-      "name": "Affine ultraETHs 2 0  Fuse ",
-      "symbol": "ULTRAETHS",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/50574/thumb/logo_%2810%29.png?1728403283"
-    },
-    {
-      "chainId": 122,
-      "address": "0xcc9d144a8a8a1e71d5ec66a13f301b9e0137e71c",
-      "name": "Allbridge Bridged ETH  Fuse ",
-      "symbol": "AEETH",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/39221/thumb/ethereum-ezgif.com-webp-to-jpg-converter.jpg?1721178325"
-    },
-    {
-      "chainId": 122,
-      "address": "0x2931b47c2cee4febad348ba3d322cb4a17662c34",
-      "name": "Bridged Wrapped stETH  Fuse ",
-      "symbol": "WSTETH",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/51545/thumb/logo_%2811%29.png?1731503581"
-    },
-    {
-      "chainId": 122,
-      "address": "0x303cc3f27034c4e3933dab8e601178ed3d2a1e3c",
-      "name": "MKR  Fuse ",
-      "symbol": "MKR",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/39448/thumb/Mark_Maker.png?1722311214"
-    },
-    {
-      "chainId": 122,
-      "address": "0xa722c13135930332eb3d749b2f0906559d2c5b99",
-      "name": "Bridged Wrapped Ether  Voltage Finance ",
-      "symbol": "WETH",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/33412/thumb/weth.jpg?1726731618"
-    },
-    {
-      "chainId": 122,
-      "address": "0xce86a1cf3cff48139598de6bf9b1df2e0f79f86f",
-      "name": "Fuse Dollar V3",
-      "symbol": "FUSD",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/24046/thumb/FUSD.png?1696523236"
-    },
-    {
-      "chainId": 122,
-      "address": "0x2502f488d481df4f5054330c71b95d93d41625c2",
-      "name": "Dai  Fuse ",
-      "symbol": "DAI",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/39446/thumb/Badge_Dai.png?1722311173"
     },
     {
       "chainId": 122,
@@ -80,19 +40,67 @@
     },
     {
       "chainId": 122,
-      "address": "0x3695dd1d1d43b794c0b13eb8be8419eb3ac22bf7",
-      "name": "Stargate Bridged USDT  Fuse ",
-      "symbol": "USDT",
-      "decimals": 6,
-      "logoURI": "https://assets.coingecko.com/coins/images/53043/thumb/usdt.png?1735081778"
+      "address": "0x2931b47c2cee4febad348ba3d322cb4a17662c34",
+      "name": "Bridged Wrapped stETH  Fuse ",
+      "symbol": "WSTETH",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/51545/thumb/logo_%2811%29.png?1731503581"
     },
     {
       "chainId": 122,
-      "address": "0x2f6f07cdcf3588944bf4c42ac74ff24bf56e7590",
-      "name": "Stargate Bridged WETH  Fuse ",
+      "address": "0x2502f488d481df4f5054330c71b95d93d41625c2",
+      "name": "Dai  Fuse ",
+      "symbol": "DAI",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/39446/thumb/Badge_Dai.png?1722311173"
+    },
+    {
+      "chainId": 122,
+      "address": "0x6acb34b1df86e254b544189ec32cf737e2482058",
+      "name": "Fuse Bridged WBNB  Fuse ",
+      "symbol": "WBNB",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/53071/thumb/wrapped_bnb.png?1735197840"
+    },
+    {
+      "chainId": 122,
+      "address": "0xce86a1cf3cff48139598de6bf9b1df2e0f79f86f",
+      "name": "Fuse Dollar V3",
+      "symbol": "FUSD",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/24046/thumb/FUSD.png?1696523236"
+    },
+    {
+      "chainId": 122,
+      "address": "0x117c0419352ddb6fe575a67faa70315bdc4a93f3",
+      "name": "Bridged BNB  Fuse ",
+      "symbol": "BNB",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/38764/thumb/BNBv2_logo.png?1718759024"
+    },
+    {
+      "chainId": 122,
+      "address": "0xcc9d144a8a8a1e71d5ec66a13f301b9e0137e71c",
+      "name": "Allbridge Bridged ETH  Fuse ",
+      "symbol": "AEETH",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/39221/thumb/ethereum-ezgif.com-webp-to-jpg-converter.jpg?1721178325"
+    },
+    {
+      "chainId": 122,
+      "address": "0x5cb5249d420639619ffd637c79f0aa5c0a9fcd4b",
+      "name": "Allbridge Bridged SOL  Fuse ",
+      "symbol": "ASSOL",
+      "decimals": 9,
+      "logoURI": "https://assets.coingecko.com/coins/images/39220/thumb/solana-ezgif.com-webp-to-jpg-converter.jpg?1721177978"
+    },
+    {
+      "chainId": 122,
+      "address": "0xa722c13135930332eb3d749b2f0906559d2c5b99",
+      "name": "Bridged Wrapped Ether  Voltage Finance ",
       "symbol": "WETH",
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/53042/thumb/wETH_32.png?1735081743"
+      "logoURI": "https://assets.coingecko.com/coins/images/33412/thumb/weth.jpg?1726731618"
     },
     {
       "chainId": 122,
@@ -101,6 +109,46 @@
       "symbol": "WBTC",
       "decimals": 8,
       "logoURI": "https://assets.coingecko.com/coins/images/39557/thumb/wbtc.png?1722898201"
+    },
+    {
+      "chainId": 122,
+      "address": "0x0be9e53fd7edac9f859882afdda116645287c629",
+      "name": "Wrapped FUSE",
+      "symbol": "WFUSE",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/33535/thumb/3WFUSE_token_logo_crl.png?1703026207"
+    },
+    {
+      "chainId": 122,
+      "address": "0xb10ed6e3810c95a380e4f3e448af1755fa3368cf",
+      "name": "Affine ultraETHs 2 0  Fuse ",
+      "symbol": "ULTRAETHS",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/50574/thumb/logo_%2810%29.png?1728403283"
+    },
+    {
+      "chainId": 122,
+      "address": "0x3695dd1d1d43b794c0b13eb8be8419eb3ac22bf7",
+      "name": "Stargate Bridged USDT  Fuse ",
+      "symbol": "USDT",
+      "decimals": 6,
+      "logoURI": "https://assets.coingecko.com/coins/images/53043/thumb/usdt.png?1735081778"
+    },
+    {
+      "chainId": 122,
+      "address": "0x861bf3d382593ed848972cadfacba9749adce101",
+      "name": "Bridged MATIC  Fuse ",
+      "symbol": "MATIC",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/38765/thumb/MATIC_logo.png?1718759063"
+    },
+    {
+      "chainId": 122,
+      "address": "0x830cfb18ae30b7d989f6950638be15816416ff5c",
+      "name": "Allbridge Bridged USDC  Fuse ",
+      "symbol": "ASUSDC",
+      "decimals": 6,
+      "logoURI": "https://assets.coingecko.com/coins/images/39253/thumb/usdc-ezgif.com-webp-to-jpg-converter.jpg?1721319995"
     },
     {
       "chainId": 122,
@@ -117,70 +165,6 @@
       "symbol": "SFUSE",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/38778/thumb/sFUSE_logo_%289%29.png?1718826966"
-    },
-    {
-      "chainId": 122,
-      "address": "0x6acb34b1df86e254b544189ec32cf737e2482058",
-      "name": "Fuse Bridged WBNB  Fuse ",
-      "symbol": "WBNB",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/53071/thumb/wrapped_bnb.png?1735197840"
-    },
-    {
-      "chainId": 122,
-      "address": "0x0be9e53fd7edac9f859882afdda116645287c629",
-      "name": "Wrapped FUSE",
-      "symbol": "WFUSE",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/33535/thumb/3WFUSE_token_logo_crl.png?1703026207"
-    },
-    {
-      "chainId": 122,
-      "address": "0x861bf3d382593ed848972cadfacba9749adce101",
-      "name": "Bridged MATIC  Fuse ",
-      "symbol": "MATIC",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/38765/thumb/MATIC_logo.png?1718759063"
-    },
-    {
-      "chainId": 122,
-      "address": "0x5cb5249d420639619ffd637c79f0aa5c0a9fcd4b",
-      "name": "Allbridge Bridged SOL  Fuse ",
-      "symbol": "ASSOL",
-      "decimals": 9,
-      "logoURI": "https://assets.coingecko.com/coins/images/39220/thumb/solana-ezgif.com-webp-to-jpg-converter.jpg?1721177978"
-    },
-    {
-      "chainId": 122,
-      "address": "0x830cfb18ae30b7d989f6950638be15816416ff5c",
-      "name": "Allbridge Bridged USDC  Fuse ",
-      "symbol": "ASUSDC",
-      "decimals": 6,
-      "logoURI": "https://assets.coingecko.com/coins/images/39253/thumb/usdc-ezgif.com-webp-to-jpg-converter.jpg?1721319995"
-    },
-    {
-      "chainId": 122,
-      "address": "0x587983b895db50ddabc0aac8adc592b29bb30d80",
-      "name": "stETH  Fuse ",
-      "symbol": "STETH",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/39447/thumb/8085.png?1722311193"
-    },
-    {
-      "chainId": 122,
-      "address": "0x117c0419352ddb6fe575a67faa70315bdc4a93f3",
-      "name": "Bridged BNB  Fuse ",
-      "symbol": "BNB",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/38764/thumb/BNBv2_logo.png?1718759024"
-    },
-    {
-      "chainId": 122,
-      "address": "0x68c9736781e9316ebf5c3d49fe0c1f45d2d104cd",
-      "name": "Bridged Tether  Fuse ",
-      "symbol": "USDT",
-      "decimals": 6,
-      "logoURI": "https://assets.coingecko.com/coins/images/32986/thumb/logo_%288%29.png?1700094172"
     },
     {
       "chainId": 122,
@@ -255,8 +239,8 @@
     }
   ],
   "version": {
-    "major": null,
-    "minor": 2,
-    "patch": 1
+    "major": 2,
+    "minor": 0,
+    "patch": 0
   }
 }

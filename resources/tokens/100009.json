@@ -4,8 +4,16 @@
   "keywords": [
     "defi"
   ],
-  "timestamp": "2024-11-30T09:01:17.430+00:00",
+  "timestamp": "2025-02-07T22:00:34.608+00:00",
   "tokens": [
+    {
+      "chainId": 100009,
+      "address": "0x5db3c8a942333f6468176a870db36eef120a34dc",
+      "name": "Safe Haven",
+      "symbol": "SHA",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/2584/thumb/safehaven.png?1696503388"
+    },
     {
       "chainId": 100009,
       "address": "0x5ef79995fe8a89e0812330e4378eb2660cede699",
@@ -24,22 +32,6 @@
     },
     {
       "chainId": 100009,
-      "address": "0x5db3c8a942333f6468176a870db36eef120a34dc",
-      "name": "Safe Haven",
-      "symbol": "SHA",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/2584/thumb/safehaven.png?1696503388"
-    },
-    {
-      "chainId": 100009,
-      "address": "0x8e57aadf0992afcc41f7843656c6c7129f738f7b",
-      "name": "Dohrnii",
-      "symbol": "DHN",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/24966/thumb/dhn.png?1696524119"
-    },
-    {
-      "chainId": 100009,
       "address": "0xacc280010b2ee0efc770bce34774376656d8ce14",
       "name": "Hacken",
       "symbol": "HAI",
@@ -48,8 +40,8 @@
     }
   ],
   "version": {
-    "major": null,
-    "minor": 1,
+    "major": 1,
+    "minor": 0,
     "patch": 0
   }
 }
