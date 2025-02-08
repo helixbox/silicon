@@ -451,6 +451,9 @@ class SyncTokenRuntime {
             if (logoURI && logoURI.indexOf("coingecko.com") != -1) {
               logoURI = logoURI.replace("/thumb/", "/large/");
             }
+            if (!logoURI) {
+              logoURI = 'https://raw.githubusercontent.com/darwinia-network/devops/refs/heads/main/assets/tokens/PLACEHOLDER.png';
+            }
             siliconToken = {
               logoURI,
               id: coinId,
