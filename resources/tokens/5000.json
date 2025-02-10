@@ -4,23 +4,47 @@
   "keywords": [
     "defi"
   ],
-  "timestamp": "2024-12-26T17:00:13.758+00:00",
+  "timestamp": "2025-02-10T19:00:13.544+00:00",
   "tokens": [
     {
       "chainId": 5000,
-      "address": "0x51cfe5b1e764dc253f4c8c1f19a081ff4c3517ed",
-      "name": "Mantle Inu",
-      "symbol": "MINU",
+      "address": "0xd2b4c9b0d70e3da1fbdd98f469bd02e77e12fc79",
+      "name": "Aurelius USD",
+      "symbol": "AUSD",
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/31014/thumb/mantle-inu.jpeg?1696529851"
+      "logoURI": "https://assets.coingecko.com/coins/images/37318/thumb/aUSD.png?1713975421"
     },
     {
       "chainId": 5000,
-      "address": "0x458ed78eb972a369799fb278c0243b25e5242a83",
-      "name": "Mantle Bridged wstETH  Mantle ",
-      "symbol": "WSTETH",
+      "address": "0x09bc4e0d864854c6afb6eb9a9cdf58ac190d0df9",
+      "name": "Mantle Bridged USDC  Mantle ",
+      "symbol": "USDC",
+      "decimals": 6,
+      "logoURI": "https://assets.coingecko.com/coins/images/35296/thumb/USDC_Icon.png?1708082083"
+    },
+    {
+      "chainId": 5000,
+      "address": "0xc1e0c8c30f251a07a894609616580ad2ceb547f2",
+      "name": "Cleopatra",
+      "symbol": "CLEO",
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/53101/thumb/mantle-bridged-wsteth-mantle.webp?1735227057"
+      "logoURI": "https://assets.coingecko.com/coins/images/34150/thumb/CLEO_token.png?1704190970"
+    },
+    {
+      "chainId": 5000,
+      "address": "0x6a3b0eb5b57c9a4f5772fc900dae427e65f8c1a5",
+      "name": "Cashtree Token",
+      "symbol": "CTT",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/31475/thumb/Coin-CTT%28Hi-Res%29.png?1696530287"
+    },
+    {
+      "chainId": 5000,
+      "address": "0x5a093a9c4f440c6b105f0af7f7c4f1fbe45567f9",
+      "name": "Stratum Exchange",
+      "symbol": "STRAT",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/33646/thumb/coin_strat.png?1702541330"
     },
     {
       "chainId": 5000,
@@ -40,58 +64,11 @@
     },
     {
       "chainId": 5000,
-      "address": "0xc1e0c8c30f251a07a894609616580ad2ceb547f2",
-      "name": "Cleopatra",
-      "symbol": "CLEO",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/34150/thumb/CLEO_token.png?1704190970"
-    },
-    {
-      "chainId": 5000,
-      "address": "0x5a093a9c4f440c6b105f0af7f7c4f1fbe45567f9",
-      "name": "Stratum Exchange",
-      "symbol": "STRAT",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/33646/thumb/coin_strat.png?1702541330"
-    },
-    {
-      "chainId": 5000,
-      "address": "0x25356aeca4210ef7553140edb9b8026089e49396",
-      "name": "Lendle",
-      "symbol": "LEND",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/31588/thumb/lendle_logo_200_200_cg.png?1696530405"
-    },
-    {
-      "chainId": 5000,
-      "address": "0x6a3b0eb5b57c9a4f5772fc900dae427e65f8c1a5",
-      "name": "Cashtree Token",
-      "symbol": "CTT",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/31475/thumb/Coin-CTT%28Hi-Res%29.png?1696530287"
-    },
-    {
-      "chainId": 5000,
-      "address": "0xab575258d37eaa5c8956efabe71f4ee8f6397cf3",
-      "name": "Mantle USD",
-      "symbol": "MUSD",
-      "decimals": 18
-    },
-    {
-      "chainId": 5000,
       "address": "0xcffbe0e73c750731edb38c14bc81a39dac91819d",
       "name": "abcCLEO",
       "symbol": "ABCCLEO",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/39759/thumb/svgviewer-png-output_%281%29.png?1723903292"
-    },
-    {
-      "chainId": 5000,
-      "address": "0xd2b4c9b0d70e3da1fbdd98f469bd02e77e12fc79",
-      "name": "Aurelius USD",
-      "symbol": "AUSD",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/37318/thumb/aUSD.png?1713975421"
     },
     {
       "chainId": 5000,
@@ -103,11 +80,18 @@
     },
     {
       "chainId": 5000,
-      "address": "0x09bc4e0d864854c6afb6eb9a9cdf58ac190d0df9",
-      "name": "Mantle Bridged USDC  Mantle ",
-      "symbol": "USDC",
-      "decimals": 6,
-      "logoURI": "https://assets.coingecko.com/coins/images/35296/thumb/USDC_Icon.png?1708082083"
+      "address": "0x25356aeca4210ef7553140edb9b8026089e49396",
+      "name": "Lendle",
+      "symbol": "LEND",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/31588/thumb/lendle_logo_200_200_cg.png?1696530405"
+    },
+    {
+      "chainId": 5000,
+      "address": "0xab575258d37eaa5c8956efabe71f4ee8f6397cf3",
+      "name": "Mantle USD",
+      "symbol": "MUSD",
+      "decimals": 18
     },
     {
       "chainId": 5000,
@@ -116,6 +100,22 @@
       "symbol": "USDT",
       "decimals": 6,
       "logoURI": "https://assets.coingecko.com/coins/images/35069/thumb/logo.png?1707291114"
+    },
+    {
+      "chainId": 5000,
+      "address": "0x51cfe5b1e764dc253f4c8c1f19a081ff4c3517ed",
+      "name": "Mantle Inu",
+      "symbol": "MINU",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/31014/thumb/mantle-inu.jpeg?1696529851"
+    },
+    {
+      "chainId": 5000,
+      "address": "0x458ed78eb972a369799fb278c0243b25e5242a83",
+      "name": "Mantle Bridged wstETH  Mantle ",
+      "symbol": "WSTETH",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/53101/thumb/mantle-bridged-wsteth-mantle.webp?1735227057"
     },
     {
       "chainId": 5000,
@@ -283,7 +283,7 @@
       "name": "Mantle",
       "symbol": "MNT",
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/30980/thumb/token-logo.png?1696529819"
+      "logoURI": "https://assets.coingecko.com/coins/images/30980/thumb/Mantle-Logo-mark.png?1739213200"
     },
     {
       "chainId": 5000,
@@ -417,6 +417,6 @@
   "version": {
     "major": 6,
     "minor": 13,
-    "patch": 2
+    "patch": 3
   }
 }
