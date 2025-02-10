@@ -70284,7 +70284,9 @@
     "id": "listapie",
     "symbol": "ltp",
     "name": "Listapie",
-    "platforms": {}
+    "platforms": {
+      "binance-smart-chain": "0x56fa5f7bf457454be33d8b978c86a5f5b9dd84c2"
+    }
   },
   {
     "id": "listen-rs",
@@ -79424,12 +79426,22 @@
   {
     "id": "monerium-eur-money",
     "symbol": "eure",
-    "name": "Monerium EUR emoney",
+    "name": "Monerium EUR emoney [OLD]",
     "platforms": {
       "ethereum": "0x3231cb76718cdef2155fc47b5286d82e6eda273f",
       "arbitrum-one": "0x0c06ccf38114ddfc35e07427b9424adcca9f44f8",
       "xdai": "0xcb444e90d8198415266c6a2724b7900fb12fc56e",
       "polygon-pos": "0x18ec0a6e18e5bc3784fdd3a3634b31245ab704f6"
+    }
+  },
+  {
+    "id": "monerium-eur-money-2",
+    "symbol": "eure",
+    "name": "Monerium EUR emoney",
+    "platforms": {
+      "ethereum": "0x39b8b6385416f4ca36a20319f70d28621895279d",
+      "polygon-pos": "0xe0aea583266584dafbb3f9c3211d5588c73fea8d",
+      "xdai": "0x420ca0f9b9b604ce0fd9c18ef134c705e5fa3430"
     }
   },
   {
@@ -114988,6 +115000,14 @@
     "name": "Stonks",
     "platforms": {
       "solana": "43VWkd99HjqkhFTZbWBpMpRhjG469nWa7x7uEsgSH7We"
+    }
+  },
+  {
+    "id": "stonks-5",
+    "symbol": "stonks",
+    "name": "STONKS",
+    "platforms": {
+      "solana": "6NcdiK8B5KK2DzKvzvCfqi8EHaEqu48fyEzC8Mm9pump"
     }
   },
   {
