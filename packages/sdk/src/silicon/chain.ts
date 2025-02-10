@@ -13,8 +13,6 @@ export interface HbChain {
         default: HbChainBlockExplorer;
       }
     | undefined;
-
-  logoURI?: string;
 }
 
 export interface HbChainNativeCurrency {
@@ -40,7 +38,6 @@ export type HbChainBlockExplorer = {
 export const Abey: HbChain = {
   id: 179,
   name: "ABEY Mainnet",
-  logoURI: "https://chainlist.org/unknown-logo.png",
   nativeCurrency: {
   name: "ABEY",
   symbol: "ABEY",
@@ -64,7 +61,6 @@ export const Abey: HbChain = {
 export const AbstractTestnet: HbChain = {
   id: 11124,
   name: "Abstract Testnet",
-  logoURI: "https://chainlist.org/unknown-logo.png",
   nativeCurrency: {
   decimals: 18,
   name: "ETH",
@@ -88,7 +84,6 @@ export const AbstractTestnet: HbChain = {
 export const Acala: HbChain = {
   id: 787,
   name: "Acala",
-  logoURI: "https://chainlist.org/unknown-logo.png",
   nativeCurrency: {
   name: "Acala",
   symbol: "ACA",
@@ -116,7 +111,6 @@ export const Acala: HbChain = {
 export const Acria: HbChain = {
   id: 47,
   name: "Acria IntelliChain",
-  logoURI: "https://chainlist.org/unknown-logo.png",
   nativeCurrency: {
   decimals: 18,
   name: "ACRIA",
@@ -140,7 +134,6 @@ export const Acria: HbChain = {
 export const Adf: HbChain = {
   id: 1215,
   name: "ADF Chain",
-  logoURI: "https://chainlist.org/unknown-logo.png",
   nativeCurrency: {
   name: "ADDFILL",
   symbol: "ADF",
@@ -164,7 +157,6 @@ export const Adf: HbChain = {
 export const Aioz: HbChain = {
   id: 168,
   name: "AIOZ Network",
-  logoURI: "https://chainlist.org/unknown-logo.png",
   nativeCurrency: {
   decimals: 18,
   name: "AIOZ",
@@ -188,7 +180,6 @@ export const Aioz: HbChain = {
 export const AlephZero: HbChain = {
   id: 41455,
   name: "Aleph Zero",
-  logoURI: "https://chainlist.org/unknown-logo.png",
   nativeCurrency: {
   name: "Aleph Zero",
   symbol: "AZERO",
@@ -213,7 +204,6 @@ export const AlephZero: HbChain = {
 export const AlephZeroTestnet: HbChain = {
   id: 2039,
   name: "Aleph Zero Testnet",
-  logoURI: "https://chainlist.org/unknown-logo.png",
   nativeCurrency: {
   name: "TZERO",
   symbol: "TZERO",
@@ -241,7 +231,6 @@ export const AlephZeroTestnet: HbChain = {
 export const Alienx: HbChain = {
   id: 10241024,
   name: "AlienX Mainnet",
-  logoURI: "https://chainlist.org/unknown-logo.png",
   nativeCurrency: {
   name: "Ether",
   symbol: "ETH",
@@ -265,7 +254,6 @@ export const Alienx: HbChain = {
 export const AlienxHalTestnet: HbChain = {
   id: 10241025,
   name: "ALIENX Hal Testnet",
-  logoURI: "https://chainlist.org/unknown-logo.png",
   nativeCurrency: {
   name: "Ether",
   symbol: "ETH",
@@ -289,7 +277,6 @@ export const AlienxHalTestnet: HbChain = {
 export const Ancient8: HbChain = {
   id: 888888888,
   name: "Ancient8",
-  logoURI: "https://chainlist.org/unknown-logo.png",
   nativeCurrency: {
   name: "Ether",
   symbol: "ETH",
@@ -314,7 +301,6 @@ export const Ancient8: HbChain = {
 export const Ancient8Sepolia: HbChain = {
   id: 28122024,
   name: "Ancient8 Testnet",
-  logoURI: "https://chainlist.org/unknown-logo.png",
   nativeCurrency: {
   name: "Ether",
   symbol: "ETH",
@@ -339,7 +325,6 @@ export const Ancient8Sepolia: HbChain = {
 export const Anvil: HbChain = {
   id: 31337,
   name: "Anvil",
-  logoURI: "https://chainlist.org/unknown-logo.png",
   nativeCurrency: {
   decimals: 18,
   name: "Ether",
@@ -360,7 +345,6 @@ export const Anvil: HbChain = {
 export const ApeChain: HbChain = {
   id: 33139,
   name: "Ape Chain",
-  logoURI: "https://icons.llamao.fi/icons/chains/rsz_apechain.jpg",
   nativeCurrency: {
   name: "ApeCoin",
   symbol: "APE",
@@ -388,7 +372,6 @@ export const ApeChain: HbChain = {
 export const ApexTestnet: HbChain = {
   id: 3993,
   name: "APEX Testnet",
-  logoURI: "https://chainlist.org/unknown-logo.png",
   nativeCurrency: {
   name: "Ether",
   symbol: "ETH",
@@ -413,7 +396,6 @@ export const ApexTestnet: HbChain = {
 export const Arbitrum: HbChain = {
   id: 42161,
   name: "Arbitrum One",
-  logoURI: "https://icons.llamao.fi/icons/chains/rsz_arbitrum.jpg",
   nativeCurrency: {
   name: "Ether",
   symbol: "ETH",
@@ -438,7 +420,6 @@ export const Arbitrum: HbChain = {
 export const ArbitrumGoerli: HbChain = {
   id: 421613,
   name: "Arbitrum Goerli",
-  logoURI: "https://chainlist.org/unknown-logo.png",
   nativeCurrency: {
   name: "Arbitrum Goerli Ether",
   symbol: "ETH",
@@ -462,7 +443,6 @@ export const ArbitrumGoerli: HbChain = {
 export const ArbitrumNova: HbChain = {
   id: 42170,
   name: "Arbitrum Nova",
-  logoURI: "https://icons.llamao.fi/icons/chains/rsz_arbitrum%20nova.jpg",
   nativeCurrency: {
   name: "Ether",
   symbol: "ETH",
@@ -487,7 +467,6 @@ export const ArbitrumNova: HbChain = {
 export const ArbitrumSepolia: HbChain = {
   id: 421614,
   name: "Arbitrum Sepolia",
-  logoURI: "https://chainlist.org/unknown-logo.png",
   nativeCurrency: {
   name: "Arbitrum Sepolia Ether",
   symbol: "ETH",
@@ -512,7 +491,6 @@ export const ArbitrumSepolia: HbChain = {
 export const AreonNetwork: HbChain = {
   id: 463,
   name: "Areon Network",
-  logoURI: "https://icons.llamao.fi/icons/chains/rsz_areon.jpg",
   nativeCurrency: {
   decimals: 18,
   name: "AREA",
@@ -539,7 +517,6 @@ export const AreonNetwork: HbChain = {
 export const AreonNetworkTestnet: HbChain = {
   id: 462,
   name: "Areon Network Testnet",
-  logoURI: "https://chainlist.org/unknown-logo.png",
   nativeCurrency: {
   decimals: 18,
   name: "TAREA",
@@ -566,7 +543,6 @@ export const AreonNetworkTestnet: HbChain = {
 export const ArtelaTestnet: HbChain = {
   id: 11822,
   name: "Artela Testnet",
-  logoURI: "https://chainlist.org/unknown-logo.png",
   nativeCurrency: {
   name: "ART",
   symbol: "ART",
@@ -591,7 +567,6 @@ export const ArtelaTestnet: HbChain = {
 export const Arthera: HbChain = {
   id: 10242,
   name: "Arthera",
-  logoURI: "https://chainlist.org/unknown-logo.png",
   nativeCurrency: {
   name: "Arthera",
   symbol: "AA",
@@ -616,7 +591,6 @@ export const Arthera: HbChain = {
 export const ArtheraTestnet: HbChain = {
   id: 10243,
   name: "Arthera Testnet",
-  logoURI: "https://chainlist.org/unknown-logo.png",
   nativeCurrency: {
   name: "Arthera",
   symbol: "AA",
@@ -641,7 +615,6 @@ export const ArtheraTestnet: HbChain = {
 export const AssetChain: HbChain = {
   id: 42420,
   name: "AssetChain Mainnet",
-  logoURI: "https://icons.llamao.fi/icons/chains/rsz_assetchain.jpg",
   nativeCurrency: {
   decimals: 18,
   name: "Real World Asset",
@@ -666,7 +639,6 @@ export const AssetChain: HbChain = {
 export const AssetChainTestnet: HbChain = {
   id: 42421,
   name: "AssetChain Testnet",
-  logoURI: "https://chainlist.org/unknown-logo.png",
   nativeCurrency: {
   decimals: 18,
   name: "Real World Asset",
@@ -691,7 +663,6 @@ export const AssetChainTestnet: HbChain = {
 export const Astar: HbChain = {
   id: 592,
   name: "Astar",
-  logoURI: "https://icons.llamao.fi/icons/chains/rsz_astar.jpg",
   nativeCurrency: {
   name: "Astar",
   symbol: "ASTR",
@@ -715,7 +686,6 @@ export const Astar: HbChain = {
 export const AstarZkEVM: HbChain = {
   id: 3776,
   name: "Astar zkEVM",
-  logoURI: "https://chainlist.org/unknown-logo.png",
   nativeCurrency: {
   name: "Ether",
   symbol: "ETH",
@@ -739,7 +709,6 @@ export const AstarZkEVM: HbChain = {
 export const AstarZkyoto: HbChain = {
   id: 6038361,
   name: "Astar zkEVM Testnet zKyoto",
-  logoURI: "https://chainlist.org/unknown-logo.png",
   nativeCurrency: {
   name: "Ether",
   symbol: "ETH",
@@ -763,7 +732,6 @@ export const AstarZkyoto: HbChain = {
 export const AtletaOlympia: HbChain = {
   id: 2340,
   name: "Atleta Olympia",
-  logoURI: "https://chainlist.org/unknown-logo.png",
   nativeCurrency: {
   decimals: 18,
   name: "Atla",
@@ -792,7 +760,6 @@ export const AtletaOlympia: HbChain = {
 export const Aurora: HbChain = {
   id: 1313161554,
   name: "Aurora",
-  logoURI: "https://icons.llamao.fi/icons/chains/rsz_aurora.jpg",
   nativeCurrency: {
   decimals: 18,
   name: "Ether",
@@ -817,7 +784,6 @@ export const Aurora: HbChain = {
 export const AuroraTestnet: HbChain = {
   id: 1313161555,
   name: "Aurora Testnet",
-  logoURI: "https://chainlist.org/unknown-logo.png",
   nativeCurrency: {
   decimals: 18,
   name: "Ether",
@@ -842,7 +808,6 @@ export const AuroraTestnet: HbChain = {
 export const Auroria: HbChain = {
   id: 205205,
   name: "Auroria Testnet",
-  logoURI: "https://chainlist.org/unknown-logo.png",
   nativeCurrency: {
   name: "Auroria Stratis",
   symbol: "tSTRAX",
@@ -866,7 +831,6 @@ export const Auroria: HbChain = {
 export const Avalanche: HbChain = {
   id: 43114,
   name: "Avalanche",
-  logoURI: "https://icons.llamao.fi/icons/chains/rsz_avalanche.jpg",
   nativeCurrency: {
   decimals: 18,
   name: "Avalanche",
@@ -891,7 +855,6 @@ export const Avalanche: HbChain = {
 export const AvalancheFuji: HbChain = {
   id: 43113,
   name: "Avalanche Fuji",
-  logoURI: "https://chainlist.org/unknown-logo.png",
   nativeCurrency: {
   decimals: 18,
   name: "Avalanche Fuji",
@@ -916,7 +879,6 @@ export const AvalancheFuji: HbChain = {
 export const B3: HbChain = {
   id: 8333,
   name: "B3",
-  logoURI: "https://chainlist.org/unknown-logo.png",
   nativeCurrency: {
   name: "Ether",
   symbol: "ETH",
@@ -940,7 +902,6 @@ export const B3: HbChain = {
 export const B3Sepolia: HbChain = {
   id: 1993,
   name: "B3 Sepolia",
-  logoURI: "https://chainlist.org/unknown-logo.png",
   nativeCurrency: {
   name: "Ether",
   symbol: "ETH",
@@ -964,7 +925,6 @@ export const B3Sepolia: HbChain = {
 export const Bahamut: HbChain = {
   id: 5165,
   name: "Bahamut",
-  logoURI: "https://chainlist.org/unknown-logo.png",
   nativeCurrency: {
   name: "Fasttoken",
   symbol: "FTN",
@@ -996,7 +956,6 @@ export const Bahamut: HbChain = {
 export const Base: HbChain = {
   id: 8453,
   name: "Base",
-  logoURI: "https://icons.llamao.fi/icons/chains/rsz_base.jpg",
   nativeCurrency: {
   name: "Ether",
   symbol: "ETH",
@@ -1021,7 +980,6 @@ export const Base: HbChain = {
 export const BaseGoerli: HbChain = {
   id: 84531,
   name: "Base Goerli",
-  logoURI: "https://chainlist.org/unknown-logo.png",
   nativeCurrency: {
   name: "Goerli Ether",
   symbol: "ETH",
@@ -1046,7 +1004,6 @@ export const BaseGoerli: HbChain = {
 export const BaseSepolia: HbChain = {
   id: 84532,
   name: "Base Sepolia",
-  logoURI: "https://chainlist.org/unknown-logo.png",
   nativeCurrency: {
   name: "Sepolia Ether",
   symbol: "ETH",
@@ -1071,7 +1028,6 @@ export const BaseSepolia: HbChain = {
 export const Beam: HbChain = {
   id: 4337,
   name: "Beam",
-  logoURI: "https://icons.llamao.fi/icons/chains/rsz_beam.jpg",
   nativeCurrency: {
   decimals: 18,
   name: "Beam",
@@ -1098,7 +1054,6 @@ export const Beam: HbChain = {
 export const BeamTestnet: HbChain = {
   id: 13337,
   name: "Beam Testnet",
-  logoURI: "https://chainlist.org/unknown-logo.png",
   nativeCurrency: {
   decimals: 18,
   name: "Beam",
@@ -1125,7 +1080,6 @@ export const BeamTestnet: HbChain = {
 export const BearNetworkChainMainnet: HbChain = {
   id: 641230,
   name: "Bear Network Chain Mainnet",
-  logoURI: "https://chainlist.org/unknown-logo.png",
   nativeCurrency: {
   decimals: 18,
   name: "BearNetworkChain",
@@ -1150,7 +1104,6 @@ export const BearNetworkChainMainnet: HbChain = {
 export const BearNetworkChainTestnet: HbChain = {
   id: 751230,
   name: "Bear Network Chain Testnet",
-  logoURI: "https://chainlist.org/unknown-logo.png",
   nativeCurrency: {
   decimals: 18,
   name: "tBRNKC",
@@ -1175,7 +1128,6 @@ export const BearNetworkChainTestnet: HbChain = {
 export const BerachainTestnet: HbChain = {
   id: 80085,
   name: "Berachain Artio",
-  logoURI: "https://chainlist.org/unknown-logo.png",
   nativeCurrency: {
   decimals: 18,
   name: "BERA Token",
@@ -1199,7 +1151,6 @@ export const BerachainTestnet: HbChain = {
 export const BerachainTestnetbArtio: HbChain = {
   id: 80084,
   name: "Berachain bArtio",
-  logoURI: "https://chainlist.org/unknown-logo.png",
   nativeCurrency: {
   decimals: 18,
   name: "BERA Token",
@@ -1223,7 +1174,6 @@ export const BerachainTestnetbArtio: HbChain = {
 export const BevmMainnet: HbChain = {
   id: 11501,
   name: "BEVM Mainnet",
-  logoURI: "https://chainlist.org/unknown-logo.png",
   nativeCurrency: {
   name: "Bitcoin",
   symbol: "BTC",
@@ -1248,7 +1198,6 @@ export const BevmMainnet: HbChain = {
 export const Bifrost: HbChain = {
   id: 3068,
   name: "Bifrost Mainnet",
-  logoURI: "https://chainlist.org/unknown-logo.png",
   nativeCurrency: {
   name: "BFC",
   symbol: "BFC",
@@ -1272,7 +1221,6 @@ export const Bifrost: HbChain = {
 export const Bitgert: HbChain = {
   id: 32520,
   name: "Bitgert Mainnet",
-  logoURI: "https://icons.llamao.fi/icons/chains/rsz_bitgert.jpg",
   nativeCurrency: {
   decimals: 18,
   name: "Brise",
@@ -1296,7 +1244,6 @@ export const Bitgert: HbChain = {
 export const Bitkub: HbChain = {
   id: 96,
   name: "Bitkub",
-  logoURI: "https://icons.llamao.fi/icons/chains/rsz_bitkub.jpg",
   nativeCurrency: {
   name: "Bitkub",
   symbol: "KUB",
@@ -1321,7 +1268,6 @@ export const Bitkub: HbChain = {
 export const BitkubTestnet: HbChain = {
   id: 25925,
   name: "Bitkub Testnet",
-  logoURI: "https://chainlist.org/unknown-logo.png",
   nativeCurrency: {
   name: "Bitkub Test",
   symbol: "tKUB",
@@ -1346,7 +1292,6 @@ export const BitkubTestnet: HbChain = {
 export const Bitlayer: HbChain = {
   id: 200901,
   name: "Bitlayer Mainnet",
-  logoURI: "https://icons.llamao.fi/icons/chains/rsz_bitlayer.jpg",
   nativeCurrency: {
   name: "BTC",
   symbol: "BTC",
@@ -1373,7 +1318,6 @@ export const Bitlayer: HbChain = {
 export const BitlayerTestnet: HbChain = {
   id: 200810,
   name: "Bitlayer Testnet",
-  logoURI: "https://chainlist.org/unknown-logo.png",
   nativeCurrency: {
   name: "BTC",
   symbol: "BTC",
@@ -1400,7 +1344,6 @@ export const BitlayerTestnet: HbChain = {
 export const Bitrock: HbChain = {
   id: 7171,
   name: "Bitrock Mainnet",
-  logoURI: "https://icons.llamao.fi/icons/chains/rsz_bitrock.jpg",
   nativeCurrency: {
   name: "BROCK",
   symbol: "BROCK",
@@ -1424,7 +1367,6 @@ export const Bitrock: HbChain = {
 export const BitTorrent: HbChain = {
   id: 199,
   name: "BitTorrent",
-  logoURI: "https://chainlist.org/unknown-logo.png",
   nativeCurrency: {
   name: "BitTorrent",
   symbol: "BTT",
@@ -1449,7 +1391,6 @@ export const BitTorrent: HbChain = {
 export const BitTorrentTestnet: HbChain = {
   id: 1028,
   name: "BitTorrent Chain Testnet",
-  logoURI: "https://chainlist.org/unknown-logo.png",
   nativeCurrency: {
   name: "BitTorrent",
   symbol: "BTT",
@@ -1474,7 +1415,6 @@ export const BitTorrentTestnet: HbChain = {
 export const Blast: HbChain = {
   id: 81457,
   name: "Blast",
-  logoURI: "https://icons.llamao.fi/icons/chains/rsz_blast.jpg",
   nativeCurrency: {
   decimals: 18,
   name: "Ether",
@@ -1499,7 +1439,6 @@ export const Blast: HbChain = {
 export const BlastSepolia: HbChain = {
   id: 168587773,
   name: "Blast Sepolia",
-  logoURI: "https://chainlist.org/unknown-logo.png",
   nativeCurrency: {
   name: "Ether",
   symbol: "ETH",
@@ -1524,7 +1463,6 @@ export const BlastSepolia: HbChain = {
 export const Bob: HbChain = {
   id: 60808,
   name: "BOB",
-  logoURI: "https://icons.llamao.fi/icons/chains/rsz_bob.jpg",
   nativeCurrency: {
   decimals: 18,
   name: "ETH",
@@ -1551,7 +1489,6 @@ export const Bob: HbChain = {
 export const Boba: HbChain = {
   id: 288,
   name: "Boba Network",
-  logoURI: "https://icons.llamao.fi/icons/chains/rsz_boba.jpg",
   nativeCurrency: {
   decimals: 18,
   name: "Ether",
@@ -1575,7 +1512,6 @@ export const Boba: HbChain = {
 export const BobaSepolia: HbChain = {
   id: 28882,
   name: "Boba Sepolia",
-  logoURI: "https://chainlist.org/unknown-logo.png",
   nativeCurrency: {
   name: "Ether",
   symbol: "ETH",
@@ -1599,7 +1535,6 @@ export const BobaSepolia: HbChain = {
 export const BobSepolia: HbChain = {
   id: 808813,
   name: "BOB Sepolia",
-  logoURI: "https://chainlist.org/unknown-logo.png",
   nativeCurrency: {
   decimals: 18,
   name: "ETH",
@@ -1626,7 +1561,6 @@ export const BobSepolia: HbChain = {
 export const BoolBetaMainnet: HbChain = {
   id: 11100,
   name: "Bool Beta Mainnet",
-  logoURI: "https://chainlist.org/unknown-logo.png",
   nativeCurrency: {
   decimals: 18,
   name: "BOL",
@@ -1650,7 +1584,6 @@ export const BoolBetaMainnet: HbChain = {
 export const BotanixTestnet: HbChain = {
   id: 3636,
   name: "Botanix Testnet",
-  logoURI: "https://chainlist.org/unknown-logo.png",
   nativeCurrency: {
   name: "Botanix",
   symbol: "BTC",
@@ -1675,7 +1608,6 @@ export const BotanixTestnet: HbChain = {
 export const BounceBit: HbChain = {
   id: 6001,
   name: "BounceBit Mainnet",
-  logoURI: "https://icons.llamao.fi/icons/chains/rsz_bouncebit.jpg",
   nativeCurrency: {
   name: "BounceBit",
   symbol: "BB",
@@ -1699,7 +1631,6 @@ export const BounceBit: HbChain = {
 export const BounceBitTestnet: HbChain = {
   id: 6000,
   name: "BounceBit Testnet",
-  logoURI: "https://chainlist.org/unknown-logo.png",
   nativeCurrency: {
   name: "BounceBit",
   symbol: "BB",
@@ -1723,7 +1654,6 @@ export const BounceBitTestnet: HbChain = {
 export const Bronos: HbChain = {
   id: 1039,
   name: "Bronos",
-  logoURI: "https://chainlist.org/unknown-logo.png",
   nativeCurrency: {
   decimals: 18,
   name: "BRO",
@@ -1747,7 +1677,6 @@ export const Bronos: HbChain = {
 export const BronosTestnet: HbChain = {
   id: 1038,
   name: "Bronos Testnet",
-  logoURI: "https://chainlist.org/unknown-logo.png",
   nativeCurrency: {
   decimals: 18,
   name: "Bronos Coin",
@@ -1771,7 +1700,6 @@ export const BronosTestnet: HbChain = {
 export const Bsc: HbChain = {
   id: 56,
   name: "BNB Smart Chain",
-  logoURI: "https://icons.llamao.fi/icons/chains/rsz_binance.jpg",
   nativeCurrency: {
   decimals: 18,
   name: "BNB",
@@ -1796,7 +1724,6 @@ export const Bsc: HbChain = {
 export const BscGreenfield: HbChain = {
   id: 1017,
   name: "BNB Greenfield Chain",
-  logoURI: "https://chainlist.org/unknown-logo.png",
   nativeCurrency: {
   decimals: 18,
   name: "BNB",
@@ -1820,7 +1747,6 @@ export const BscGreenfield: HbChain = {
 export const BscTestnet: HbChain = {
   id: 97,
   name: "Binance Smart Chain Testnet",
-  logoURI: "https://chainlist.org/unknown-logo.png",
   nativeCurrency: {
   decimals: 18,
   name: "BNB",
@@ -1845,7 +1771,6 @@ export const BscTestnet: HbChain = {
 export const Bsquared: HbChain = {
   id: 223,
   name: "B2",
-  logoURI: "https://chainlist.org/unknown-logo.png",
   nativeCurrency: {
   name: "Bitcoin",
   symbol: "BTC",
@@ -1869,7 +1794,6 @@ export const Bsquared: HbChain = {
 export const BsquaredTestnet: HbChain = {
   id: 1123,
   name: "B2 Testnet",
-  logoURI: "https://chainlist.org/unknown-logo.png",
   nativeCurrency: {
   name: "Bitcoin",
   symbol: "BTC",
@@ -1893,7 +1817,6 @@ export const BsquaredTestnet: HbChain = {
 export const Btr: HbChain = {
   id: 200901,
   name: "Bitlayer",
-  logoURI: "https://icons.llamao.fi/icons/chains/rsz_bitlayer.jpg",
   nativeCurrency: {
   name: "Bitcoin",
   symbol: "BTC",
@@ -1923,7 +1846,6 @@ export const Btr: HbChain = {
 export const BtrTestnet: HbChain = {
   id: 200810,
   name: "Bitlayer Testnet",
-  logoURI: "https://chainlist.org/unknown-logo.png",
   nativeCurrency: {
   name: "Bitcoin",
   symbol: "BTC",
@@ -1951,7 +1873,6 @@ export const BtrTestnet: HbChain = {
 export const Bxn: HbChain = {
   id: 4999,
   name: "BlackFort Exchange Network",
-  logoURI: "https://chainlist.org/unknown-logo.png",
   nativeCurrency: {
   name: "BlackFort Token",
   symbol: "BXN",
@@ -1976,7 +1897,6 @@ export const Bxn: HbChain = {
 export const BxnTestnet: HbChain = {
   id: 4777,
   name: "BlackFort Exchange Network Testnet",
-  logoURI: "https://chainlist.org/unknown-logo.png",
   nativeCurrency: {
   name: "BlackFort Testnet Token",
   symbol: "TBXN",
@@ -2001,7 +1921,6 @@ export const BxnTestnet: HbChain = {
 export const Cannon: HbChain = {
   id: 13370,
   name: "Cannon",
-  logoURI: "https://chainlist.org/unknown-logo.png",
   nativeCurrency: {
   decimals: 18,
   name: "Ether",
@@ -2019,7 +1938,6 @@ export const Cannon: HbChain = {
 export const Canto: HbChain = {
   id: 7700,
   name: "Canto",
-  logoURI: "https://icons.llamao.fi/icons/chains/rsz_canto.jpg",
   nativeCurrency: {
   decimals: 18,
   name: "Canto",
@@ -2043,7 +1961,6 @@ export const Canto: HbChain = {
 export const Celo: HbChain = {
   id: 42220,
   name: "Celo",
-  logoURI: "https://icons.llamao.fi/icons/chains/rsz_celo.jpg",
   nativeCurrency: {
   decimals: 18,
   name: "CELO",
@@ -2068,7 +1985,6 @@ export const Celo: HbChain = {
 export const CeloAlfajores: HbChain = {
   id: 44787,
   name: "Alfajores",
-  logoURI: "https://chainlist.org/unknown-logo.png",
   nativeCurrency: {
   decimals: 18,
   name: "CELO",
@@ -2093,7 +2009,6 @@ export const CeloAlfajores: HbChain = {
 export const Chang: HbChain = {
   id: 5858,
   name: "Chang Chain Foundation Mainnet",
-  logoURI: "https://chainlist.org/unknown-logo.png",
   nativeCurrency: {
   decimals: 18,
   name: "CTH",
@@ -2117,7 +2032,6 @@ export const Chang: HbChain = {
 export const Chiliz: HbChain = {
   id: 88888,
   name: "Chiliz Chain",
-  logoURI: "https://icons.llamao.fi/icons/chains/rsz_chiliz.jpg",
   nativeCurrency: {
   decimals: 18,
   name: "CHZ",
@@ -2143,7 +2057,6 @@ export const Chiliz: HbChain = {
 export const Chips: HbChain = {
   id: 2882,
   name: "Chips Network",
-  logoURI: "https://chainlist.org/unknown-logo.png",
   nativeCurrency: {
   decimals: 18,
   name: "IOTA",
@@ -2161,7 +2074,6 @@ export const Chips: HbChain = {
 export const CitreaTestnet: HbChain = {
   id: 5115,
   name: "Citrea Testnet",
-  logoURI: "https://chainlist.org/unknown-logo.png",
   nativeCurrency: {
   name: "cBTC",
   symbol: "cBTC",
@@ -2186,7 +2098,6 @@ export const CitreaTestnet: HbChain = {
 export const Classic: HbChain = {
   id: 61,
   name: "Ethereum Classic",
-  logoURI: "https://icons.llamao.fi/icons/chains/rsz_ethereumclassic.jpg",
   nativeCurrency: {
   decimals: 18,
   name: "ETC",
@@ -2210,7 +2121,6 @@ export const Classic: HbChain = {
 export const Coinbit: HbChain = {
   id: 112,
   name: "Coinbit Mainnet",
-  logoURI: "https://chainlist.org/unknown-logo.png",
   nativeCurrency: {
   name: "GIDR",
   symbol: "GIDR",
@@ -2234,7 +2144,6 @@ export const Coinbit: HbChain = {
 export const Coinex: HbChain = {
   id: 52,
   name: "CoinEx Mainnet",
-  logoURI: "https://icons.llamao.fi/icons/chains/rsz_csc.jpg",
   nativeCurrency: {
   name: "cet",
   symbol: "cet",
@@ -2258,7 +2167,6 @@ export const Coinex: HbChain = {
 export const ConfluxESpace: HbChain = {
   id: 1030,
   name: "Conflux eSpace",
-  logoURI: "https://icons.llamao.fi/icons/chains/rsz_conflux.jpg",
   nativeCurrency: {
   name: "Conflux",
   symbol: "CFX",
@@ -2285,7 +2193,6 @@ export const ConfluxESpace: HbChain = {
 export const ConfluxESpaceTestnet: HbChain = {
   id: 71,
   name: "Conflux eSpace Testnet",
-  logoURI: "https://chainlist.org/unknown-logo.png",
   nativeCurrency: {
   name: "Conflux",
   symbol: "CFX",
@@ -2312,7 +2219,6 @@ export const ConfluxESpaceTestnet: HbChain = {
 export const CoreDao: HbChain = {
   id: 1116,
   name: "Core Dao",
-  logoURI: "https://icons.llamao.fi/icons/chains/rsz_core.jpg",
   nativeCurrency: {
   decimals: 18,
   name: "Core",
@@ -2336,7 +2242,6 @@ export const CoreDao: HbChain = {
 export const Corn: HbChain = {
   id: 21000000,
   name: "Corn",
-  logoURI: "https://icons.llamao.fi/icons/chains/rsz_corn.jpg",
   nativeCurrency: {
   decimals: 18,
   name: "Bitcorn",
@@ -2361,7 +2266,6 @@ export const Corn: HbChain = {
 export const CornTestnet: HbChain = {
   id: 21000001,
   name: "Corn Testnet",
-  logoURI: "https://chainlist.org/unknown-logo.png",
   nativeCurrency: {
   decimals: 18,
   name: "Bitcorn",
@@ -2386,7 +2290,6 @@ export const CornTestnet: HbChain = {
 export const Crab: HbChain = {
   id: 44,
   name: "Crab Network",
-  logoURI: "https://icons.llamao.fi/icons/chains/rsz_crab.jpg",
   nativeCurrency: {
   decimals: 18,
   name: "Crab Network Native Token",
@@ -2413,7 +2316,6 @@ export const Crab: HbChain = {
 export const CreatorTestnet: HbChain = {
   id: 66665,
   name: "Creator",
-  logoURI: "https://chainlist.org/unknown-logo.png",
   nativeCurrency: {
   decimals: 18,
   name: "Ether",
@@ -2437,7 +2339,6 @@ export const CreatorTestnet: HbChain = {
 export const CreditCoin3Mainnet: HbChain = {
   id: 102030,
   name: "Creditcoin3 Mainnet",
-  logoURI: "https://chainlist.org/unknown-logo.png",
   nativeCurrency: {
   name: "Creditcoin3 Mainnet",
   symbol: "CTC",
@@ -2465,7 +2366,6 @@ export const CreditCoin3Mainnet: HbChain = {
 export const CreditCoin3Testnet: HbChain = {
   id: 102031,
   name: "Creditcoin3 Testnet",
-  logoURI: "https://chainlist.org/unknown-logo.png",
   nativeCurrency: {
   name: "Creditcoin3 Testnet",
   symbol: "TCTC",
@@ -2493,7 +2393,6 @@ export const CreditCoin3Testnet: HbChain = {
 export const Cronos: HbChain = {
   id: 25,
   name: "Cronos Mainnet",
-  logoURI: "https://icons.llamao.fi/icons/chains/rsz_cronos.jpg",
   nativeCurrency: {
   decimals: 18,
   name: "Cronos",
@@ -2518,7 +2417,6 @@ export const Cronos: HbChain = {
 export const CronosTestnet: HbChain = {
   id: 338,
   name: "Cronos Testnet",
-  logoURI: "https://chainlist.org/unknown-logo.png",
   nativeCurrency: {
   decimals: 18,
   name: "CRO",
@@ -2542,7 +2440,6 @@ export const CronosTestnet: HbChain = {
 export const CronoszkEVM: HbChain = {
   id: 388,
   name: "Cronos zkEVM Mainnet",
-  logoURI: "https://icons.llamao.fi/icons/chains/rsz_cronos%20zkevm.jpg",
   nativeCurrency: {
   decimals: 18,
   name: "Cronos zkEVM CRO",
@@ -2566,7 +2463,6 @@ export const CronoszkEVM: HbChain = {
 export const CronoszkEVMTestnet: HbChain = {
   id: 282,
   name: "Cronos zkEVM Testnet",
-  logoURI: "https://chainlist.org/unknown-logo.png",
   nativeCurrency: {
   decimals: 18,
   name: "Cronos zkEVM Test Coin",
@@ -2590,7 +2486,6 @@ export const CronoszkEVMTestnet: HbChain = {
 export const Crossbell: HbChain = {
   id: 3737,
   name: "Crossbell",
-  logoURI: "https://chainlist.org/unknown-logo.png",
   nativeCurrency: {
   decimals: 18,
   name: "CSB",
@@ -2615,7 +2510,6 @@ export const Crossbell: HbChain = {
 export const Curtis: HbChain = {
   id: 33111,
   name: "Curtis",
-  logoURI: "https://chainlist.org/unknown-logo.png",
   nativeCurrency: {
   name: "ApeCoin",
   symbol: "APE",
@@ -2639,7 +2533,6 @@ export const Curtis: HbChain = {
 export const Cyber: HbChain = {
   id: 7560,
   name: "Cyber",
-  logoURI: "https://icons.llamao.fi/icons/chains/rsz_cyeth.jpg",
   nativeCurrency: {
   name: "Ether",
   symbol: "ETH",
@@ -2664,7 +2557,6 @@ export const Cyber: HbChain = {
 export const CyberTestnet: HbChain = {
   id: 111557560,
   name: "Cyber Testnet",
-  logoURI: "https://chainlist.org/unknown-logo.png",
   nativeCurrency: {
   name: "Ether",
   symbol: "ETH",
@@ -2689,7 +2581,6 @@ export const CyberTestnet: HbChain = {
 export const DailyNetwork: HbChain = {
   id: 824,
   name: "Daily Network Mainnet",
-  logoURI: "https://chainlist.org/unknown-logo.png",
   nativeCurrency: {
   decimals: 18,
   name: "Daily",
@@ -2713,7 +2604,6 @@ export const DailyNetwork: HbChain = {
 export const DailyNetworkTestnet: HbChain = {
   id: 825,
   name: "Daily Network Testnet",
-  logoURI: "https://chainlist.org/unknown-logo.png",
   nativeCurrency: {
   decimals: 18,
   name: "Daily",
@@ -2737,7 +2627,6 @@ export const DailyNetworkTestnet: HbChain = {
 export const Darwinia: HbChain = {
   id: 46,
   name: "Darwinia Network",
-  logoURI: "https://chainlist.org/unknown-logo.png",
   nativeCurrency: {
   decimals: 18,
   name: "RING",
@@ -2764,7 +2653,6 @@ export const Darwinia: HbChain = {
 export const Dchain: HbChain = {
   id: 2716446429837000,
   name: "Dchain",
-  logoURI: "https://chainlist.org/unknown-logo.png",
   nativeCurrency: {
   name: "Ether",
   symbol: "ETH",
@@ -2789,7 +2677,6 @@ export const Dchain: HbChain = {
 export const DchainTestnet: HbChain = {
   id: 2713017997578000,
   name: "Dchain Testnet",
-  logoURI: "https://chainlist.org/unknown-logo.png",
   nativeCurrency: {
   name: "Ether",
   symbol: "ETH",
@@ -2814,7 +2701,6 @@ export const DchainTestnet: HbChain = {
 export const DefichainEvm: HbChain = {
   id: 1130,
   name: "DeFiChain EVM Mainnet",
-  logoURI: "https://chainlist.org/unknown-logo.png",
   nativeCurrency: {
   name: "DeFiChain",
   symbol: "DFI",
@@ -2838,7 +2724,6 @@ export const DefichainEvm: HbChain = {
 export const DefichainEvmTestnet: HbChain = {
   id: 1131,
   name: "DeFiChain EVM Testnet",
-  logoURI: "https://chainlist.org/unknown-logo.png",
   nativeCurrency: {
   name: "DeFiChain",
   symbol: "DFI",
@@ -2862,7 +2747,6 @@ export const DefichainEvmTestnet: HbChain = {
 export const Degen: HbChain = {
   id: 666666666,
   name: "Degen",
-  logoURI: "https://chainlist.org/unknown-logo.png",
   nativeCurrency: {
   decimals: 18,
   name: "Degen",
@@ -2890,7 +2774,6 @@ export const Degen: HbChain = {
 export const Dfk: HbChain = {
   id: 53935,
   name: "DFK Chain",
-  logoURI: "https://chainlist.org/unknown-logo.png",
   nativeCurrency: {
   decimals: 18,
   name: "Jewel",
@@ -2914,7 +2797,6 @@ export const Dfk: HbChain = {
 export const Diode: HbChain = {
   id: 15,
   name: "Diode Prenet",
-  logoURI: "https://chainlist.org/unknown-logo.png",
   nativeCurrency: {
   decimals: 18,
   name: "DIODE",
@@ -2941,7 +2823,6 @@ export const Diode: HbChain = {
 export const DisChain: HbChain = {
   id: 513100,
   name: "DisChain",
-  logoURI: "https://chainlist.org/unknown-logo.png",
   nativeCurrency: {
   decimals: 18,
   name: "DIS",
@@ -2965,7 +2846,6 @@ export const DisChain: HbChain = {
 export const DodochainTestnet: HbChain = {
   id: 53457,
   name: "DODOchain Testnet",
-  logoURI: "https://chainlist.org/unknown-logo.png",
   nativeCurrency: {
   decimals: 18,
   name: "DODO",
@@ -2992,7 +2872,6 @@ export const DodochainTestnet: HbChain = {
 export const Dogechain: HbChain = {
   id: 2000,
   name: "Dogechain",
-  logoURI: "https://icons.llamao.fi/icons/chains/rsz_dogechain.jpg",
   nativeCurrency: {
   decimals: 18,
   name: "Wrapped Dogecoin",
@@ -3017,7 +2896,6 @@ export const Dogechain: HbChain = {
 export const DosChain: HbChain = {
   id: 7979,
   name: "DOS Chain",
-  logoURI: "https://chainlist.org/unknown-logo.png",
   nativeCurrency: {
   decimals: 18,
   name: "DOS Chain",
@@ -3042,7 +2920,6 @@ export const DosChain: HbChain = {
 export const DosChainTestnet: HbChain = {
   id: 3939,
   name: "DOS Chain Testnet",
-  logoURI: "https://chainlist.org/unknown-logo.png",
   nativeCurrency: {
   decimals: 18,
   name: "DOS Chain Testnet",
@@ -3067,7 +2944,6 @@ export const DosChainTestnet: HbChain = {
 export const DreyerxMainnet: HbChain = {
   id: 23451,
   name: "DreyerX Mainnet",
-  logoURI: "https://chainlist.org/unknown-logo.png",
   nativeCurrency: {
   name: "DreyerX",
   symbol: "DRX",
@@ -3091,7 +2967,6 @@ export const DreyerxMainnet: HbChain = {
 export const DreyerxTestnet: HbChain = {
   id: 23452,
   name: "DreyerX Testnet",
-  logoURI: "https://chainlist.org/unknown-logo.png",
   nativeCurrency: {
   name: "DreyerX",
   symbol: "DRX",
@@ -3115,7 +2990,6 @@ export const DreyerxTestnet: HbChain = {
 export const DustboyIoT: HbChain = {
   id: 555888,
   name: "DustBoy IoT",
-  logoURI: "https://chainlist.org/unknown-logo.png",
   nativeCurrency: {
   name: "Ether",
   symbol: "DST",
@@ -3140,7 +3014,6 @@ export const DustboyIoT: HbChain = {
 export const Dymension: HbChain = {
   id: 1100,
   name: "Dymension",
-  logoURI: "https://icons.llamao.fi/icons/chains/rsz_dymension.jpg",
   nativeCurrency: {
   name: "DYM",
   symbol: "DYM",
@@ -3167,7 +3040,6 @@ export const Dymension: HbChain = {
 export const Edgeless: HbChain = {
   id: 2026,
   name: "Edgeless Network",
-  logoURI: "https://chainlist.org/unknown-logo.png",
   nativeCurrency: {
   name: "Edgeless Wrapped ETH",
   symbol: "EwETH",
@@ -3194,7 +3066,6 @@ export const Edgeless: HbChain = {
 export const EdgelessTestnet: HbChain = {
   id: 202,
   name: "Edgeless Testnet",
-  logoURI: "https://chainlist.org/unknown-logo.png",
   nativeCurrency: {
   name: "Edgeless Wrapped ETH",
   symbol: "EwETH",
@@ -3221,7 +3092,6 @@ export const EdgelessTestnet: HbChain = {
 export const Edgeware: HbChain = {
   id: 2021,
   name: "Edgeware EdgeEVM Mainnet",
-  logoURI: "https://chainlist.org/unknown-logo.png",
   nativeCurrency: {
   decimals: 18,
   name: "Edgeware",
@@ -3246,7 +3116,6 @@ export const Edgeware: HbChain = {
 export const EdgewareTestnet: HbChain = {
   id: 2022,
   name: "Beresheet BereEVM Testnet",
-  logoURI: "https://chainlist.org/unknown-logo.png",
   nativeCurrency: {
   decimals: 18,
   name: "Testnet EDG",
@@ -3271,7 +3140,6 @@ export const EdgewareTestnet: HbChain = {
 export const Ekta: HbChain = {
   id: 1994,
   name: "Ekta",
-  logoURI: "https://chainlist.org/unknown-logo.png",
   nativeCurrency: {
   decimals: 18,
   name: "EKTA",
@@ -3296,7 +3164,6 @@ export const Ekta: HbChain = {
 export const EktaTestnet: HbChain = {
   id: 1004,
   name: "Ekta Testnet",
-  logoURI: "https://chainlist.org/unknown-logo.png",
   nativeCurrency: {
   decimals: 18,
   name: "EKTA",
@@ -3321,7 +3188,6 @@ export const EktaTestnet: HbChain = {
 export const Elastos: HbChain = {
   id: 20,
   name: "Elastos Smart Chain",
-  logoURI: "https://icons.llamao.fi/icons/chains/rsz_elastos.jpg",
   nativeCurrency: {
   name: "ELA",
   symbol: "ELA",
@@ -3345,7 +3211,6 @@ export const Elastos: HbChain = {
 export const ElastosTestnet: HbChain = {
   id: 21,
   name: "Elastos Smart Chain Testnet",
-  logoURI: "https://chainlist.org/unknown-logo.png",
   nativeCurrency: {
   name: "tELA",
   symbol: "tELA",
@@ -3369,7 +3234,6 @@ export const ElastosTestnet: HbChain = {
 export const Electroneum: HbChain = {
   id: 52014,
   name: "Electroneum Mainnet",
-  logoURI: "https://icons.llamao.fi/icons/chains/rsz_etn.jpg",
   nativeCurrency: {
   name: "ETN",
   symbol: "ETN",
@@ -3393,7 +3257,6 @@ export const Electroneum: HbChain = {
 export const ElectroneumTestnet: HbChain = {
   id: 5201420,
   name: "Electroneum Testnet",
-  logoURI: "https://chainlist.org/unknown-logo.png",
   nativeCurrency: {
   name: "ETN",
   symbol: "ETN",
@@ -3417,7 +3280,6 @@ export const ElectroneumTestnet: HbChain = {
 export const ElysiumTestnet: HbChain = {
   id: 1338,
   name: "Elysium Testnet",
-  logoURI: "https://chainlist.org/unknown-logo.png",
   nativeCurrency: {
   decimals: 18,
   name: "LAVA",
@@ -3441,7 +3303,6 @@ export const ElysiumTestnet: HbChain = {
 export const Energy: HbChain = {
   id: 246,
   name: "Energy Mainnet",
-  logoURI: "https://icons.llamao.fi/icons/chains/rsz_energyweb.jpg",
   nativeCurrency: {
   name: "EWT",
   symbol: "EWT",
@@ -3465,7 +3326,6 @@ export const Energy: HbChain = {
 export const Enuls: HbChain = {
   id: 119,
   name: "ENULS Mainnet",
-  logoURI: "https://icons.llamao.fi/icons/chains/rsz_enuls.jpg",
   nativeCurrency: {
   decimals: 18,
   name: "NULS",
@@ -3489,7 +3349,6 @@ export const Enuls: HbChain = {
 export const Eon: HbChain = {
   id: 7332,
   name: "Horizen EON",
-  logoURI: "https://chainlist.org/unknown-logo.png",
   nativeCurrency: {
   decimals: 18,
   name: "ZEN",
@@ -3513,7 +3372,6 @@ export const Eon: HbChain = {
 export const Eos: HbChain = {
   id: 17777,
   name: "EOS EVM",
-  logoURI: "https://icons.llamao.fi/icons/chains/rsz_eos%20evm.jpg",
   nativeCurrency: {
   decimals: 18,
   name: "EOS",
@@ -3538,7 +3396,6 @@ export const Eos: HbChain = {
 export const EosTestnet: HbChain = {
   id: 15557,
   name: "EOS EVM Testnet",
-  logoURI: "https://chainlist.org/unknown-logo.png",
   nativeCurrency: {
   decimals: 18,
   name: "EOS",
@@ -3563,7 +3420,6 @@ export const EosTestnet: HbChain = {
 export const Etherlink: HbChain = {
   id: 42793,
   name: "Etherlink",
-  logoURI: "https://icons.llamao.fi/icons/chains/rsz_etherlink.jpg",
   nativeCurrency: {
   decimals: 18,
   name: "Tez",
@@ -3587,7 +3443,6 @@ export const Etherlink: HbChain = {
 export const EtherlinkTestnet: HbChain = {
   id: 128123,
   name: "Etherlink Testnet",
-  logoURI: "https://chainlist.org/unknown-logo.png",
   nativeCurrency: {
   decimals: 18,
   name: "Tez",
@@ -3611,7 +3466,6 @@ export const EtherlinkTestnet: HbChain = {
 export const Evmos: HbChain = {
   id: 9001,
   name: "Evmos",
-  logoURI: "https://icons.llamao.fi/icons/chains/rsz_evmos.jpg",
   nativeCurrency: {
   decimals: 18,
   name: "Evmos",
@@ -3635,7 +3489,6 @@ export const Evmos: HbChain = {
 export const EvmosTestnet: HbChain = {
   id: 9000,
   name: "Evmos Testnet",
-  logoURI: "https://chainlist.org/unknown-logo.png",
   nativeCurrency: {
   decimals: 18,
   name: "Evmos",
@@ -3659,7 +3512,6 @@ export const EvmosTestnet: HbChain = {
 export const ExcelonMainnet: HbChain = {
   id: 22052002,
   name: "Excelon Mainnet",
-  logoURI: "https://chainlist.org/unknown-logo.png",
   nativeCurrency: {
   decimals: 18,
   name: "Excelon",
@@ -3683,7 +3535,6 @@ export const ExcelonMainnet: HbChain = {
 export const Expanse: HbChain = {
   id: 2,
   name: "Expanse Network",
-  logoURI: "https://chainlist.org/unknown-logo.png",
   nativeCurrency: {
   decimals: 18,
   name: "EXP",
@@ -3707,7 +3558,6 @@ export const Expanse: HbChain = {
 export const Exsat: HbChain = {
   id: 7200,
   name: "exSat Network",
-  logoURI: "https://icons.llamao.fi/icons/chains/rsz_xsat.jpg",
   nativeCurrency: {
   decimals: 18,
   name: "BTC",
@@ -3732,7 +3582,6 @@ export const Exsat: HbChain = {
 export const ExsatTestnet: HbChain = {
   id: 839999,
   name: "exSat Testnet",
-  logoURI: "https://chainlist.org/unknown-logo.png",
   nativeCurrency: {
   decimals: 18,
   name: "BTC",
@@ -3757,7 +3606,6 @@ export const ExsatTestnet: HbChain = {
 export const Fantom: HbChain = {
   id: 250,
   name: "Fantom",
-  logoURI: "https://icons.llamao.fi/icons/chains/rsz_fantom.jpg",
   nativeCurrency: {
   decimals: 18,
   name: "Fantom",
@@ -3782,7 +3630,6 @@ export const Fantom: HbChain = {
 export const FantomSonicTestnet: HbChain = {
   id: 64240,
   name: "Fantom Sonic Open Testnet",
-  logoURI: "https://chainlist.org/unknown-logo.png",
   nativeCurrency: {
   decimals: 18,
   name: "Fantom",
@@ -3806,7 +3653,6 @@ export const FantomSonicTestnet: HbChain = {
 export const FantomTestnet: HbChain = {
   id: 4002,
   name: "Fantom Testnet",
-  logoURI: "https://chainlist.org/unknown-logo.png",
   nativeCurrency: {
   decimals: 18,
   name: "Fantom",
@@ -3831,7 +3677,6 @@ export const FantomTestnet: HbChain = {
 export const Fibo: HbChain = {
   id: 12306,
   name: "Fibo Chain",
-  logoURI: "https://chainlist.org/unknown-logo.png",
   nativeCurrency: {
   decimals: 18,
   name: "fibo",
@@ -3855,7 +3700,6 @@ export const Fibo: HbChain = {
 export const Filecoin: HbChain = {
   id: 314,
   name: "Filecoin Mainnet",
-  logoURI: "https://icons.llamao.fi/icons/chains/rsz_filecoin.jpg",
   nativeCurrency: {
   decimals: 18,
   name: "filecoin",
@@ -3879,7 +3723,6 @@ export const Filecoin: HbChain = {
 export const FilecoinCalibration: HbChain = {
   id: 314159,
   name: "Filecoin Calibration",
-  logoURI: "https://chainlist.org/unknown-logo.png",
   nativeCurrency: {
   decimals: 18,
   name: "testnet filecoin",
@@ -3903,7 +3746,6 @@ export const FilecoinCalibration: HbChain = {
 export const FilecoinHyperspace: HbChain = {
   id: 3141,
   name: "Filecoin Hyperspace",
-  logoURI: "https://chainlist.org/unknown-logo.png",
   nativeCurrency: {
   decimals: 18,
   name: "testnet filecoin",
@@ -3927,7 +3769,6 @@ export const FilecoinHyperspace: HbChain = {
 export const FireChain: HbChain = {
   id: 995,
   name: "5ireChain",
-  logoURI: "https://chainlist.org/unknown-logo.png",
   nativeCurrency: {
   name: "5ire Token",
   symbol: "5IRE",
@@ -3951,7 +3792,6 @@ export const FireChain: HbChain = {
 export const Flare: HbChain = {
   id: 14,
   name: "Flare Mainnet",
-  logoURI: "https://icons.llamao.fi/icons/chains/rsz_flare.jpg",
   nativeCurrency: {
   decimals: 18,
   name: "Flare",
@@ -3976,7 +3816,6 @@ export const Flare: HbChain = {
 export const FlareTestnet: HbChain = {
   id: 114,
   name: "Flare Testnet Coston2",
-  logoURI: "https://chainlist.org/unknown-logo.png",
   nativeCurrency: {
   decimals: 18,
   name: "Coston2 Flare",
@@ -4001,7 +3840,6 @@ export const FlareTestnet: HbChain = {
 export const FlowMainnet: HbChain = {
   id: 747,
   name: "Flow EVM Mainnet",
-  logoURI: "https://chainlist.org/unknown-logo.png",
   nativeCurrency: {
   decimals: 18,
   name: "Flow",
@@ -4025,7 +3863,6 @@ export const FlowMainnet: HbChain = {
 export const FlowPreviewnet: HbChain = {
   id: 646,
   name: "Flow EVM Previewnet",
-  logoURI: "https://chainlist.org/unknown-logo.png",
   nativeCurrency: {
   decimals: 18,
   name: "Flow",
@@ -4049,7 +3886,6 @@ export const FlowPreviewnet: HbChain = {
 export const FlowTestnet: HbChain = {
   id: 545,
   name: "Flow EVM Testnet",
-  logoURI: "https://chainlist.org/unknown-logo.png",
   nativeCurrency: {
   decimals: 18,
   name: "Flow",
@@ -4073,7 +3909,6 @@ export const FlowTestnet: HbChain = {
 export const Fluence: HbChain = {
   id: 9999999,
   name: "Fluence",
-  logoURI: "https://chainlist.org/unknown-logo.png",
   nativeCurrency: {
   name: "FLT",
   symbol: "FLT",
@@ -4101,7 +3936,6 @@ export const Fluence: HbChain = {
 export const FluenceStage: HbChain = {
   id: 123420000220,
   name: "Fluence Stage",
-  logoURI: "https://chainlist.org/unknown-logo.png",
   nativeCurrency: {
   name: "tFLT",
   symbol: "tFLT",
@@ -4129,7 +3963,6 @@ export const FluenceStage: HbChain = {
 export const FluenceTestnet: HbChain = {
   id: 52164803,
   name: "Fluence Testnet",
-  logoURI: "https://chainlist.org/unknown-logo.png",
   nativeCurrency: {
   name: "tFLT",
   symbol: "tFLT",
@@ -4157,7 +3990,6 @@ export const FluenceTestnet: HbChain = {
 export const Forma: HbChain = {
   id: 984122,
   name: "Forma",
-  logoURI: "https://chainlist.org/unknown-logo.png",
   nativeCurrency: {
   symbol: "TIA",
   name: "TIA",
@@ -4184,7 +4016,6 @@ export const Forma: HbChain = {
 export const Foundry: HbChain = {
   id: 31337,
   name: "Foundry",
-  logoURI: "https://chainlist.org/unknown-logo.png",
   nativeCurrency: {
   decimals: 18,
   name: "Ether",
@@ -4205,7 +4036,6 @@ export const Foundry: HbChain = {
 export const Fraxtal: HbChain = {
   id: 252,
   name: "Fraxtal",
-  logoURI: "https://icons.llamao.fi/icons/chains/rsz_fraxtal.jpg",
   nativeCurrency: {
   name: "Frax Ether",
   symbol: "frxETH",
@@ -4230,7 +4060,6 @@ export const Fraxtal: HbChain = {
 export const FraxtalTestnet: HbChain = {
   id: 2522,
   name: "Fraxtal Testnet",
-  logoURI: "https://chainlist.org/unknown-logo.png",
   nativeCurrency: {
   name: "Frax Ether",
   symbol: "frxETH",
@@ -4255,7 +4084,6 @@ export const FraxtalTestnet: HbChain = {
 export const FunkiMainnet: HbChain = {
   id: 33979,
   name: "Funki",
-  logoURI: "https://chainlist.org/unknown-logo.png",
   nativeCurrency: {
   name: "Ether",
   symbol: "ETH",
@@ -4279,7 +4107,6 @@ export const FunkiMainnet: HbChain = {
 export const FunkiSepolia: HbChain = {
   id: 3397901,
   name: "Funki Sepolia Sandbox",
-  logoURI: "https://chainlist.org/unknown-logo.png",
   nativeCurrency: {
   name: "Ether",
   symbol: "ETH",
@@ -4303,7 +4130,6 @@ export const FunkiSepolia: HbChain = {
 export const Fuse: HbChain = {
   id: 122,
   name: "Fuse",
-  logoURI: "https://icons.llamao.fi/icons/chains/rsz_fuse.jpg",
   nativeCurrency: {
   name: "Fuse",
   symbol: "FUSE",
@@ -4328,7 +4154,6 @@ export const Fuse: HbChain = {
 export const FuseSparknet: HbChain = {
   id: 123,
   name: "Fuse Sparknet",
-  logoURI: "https://chainlist.org/unknown-logo.png",
   nativeCurrency: {
   name: "Spark",
   symbol: "SPARK",
@@ -4353,7 +4178,6 @@ export const FuseSparknet: HbChain = {
 export const Fusion: HbChain = {
   id: 32659,
   name: "Fusion Mainnet",
-  logoURI: "https://icons.llamao.fi/icons/chains/rsz_fusion.jpg",
   nativeCurrency: {
   name: "Fusion",
   symbol: "FSN",
@@ -4380,7 +4204,6 @@ export const Fusion: HbChain = {
 export const FusionTestnet: HbChain = {
   id: 46688,
   name: "Fusion Testnet",
-  logoURI: "https://chainlist.org/unknown-logo.png",
   nativeCurrency: {
   name: "Fusion",
   symbol: "FSN",
@@ -4407,7 +4230,6 @@ export const FusionTestnet: HbChain = {
 export const Garnet: HbChain = {
   id: 17069,
   name: "Garnet Testnet",
-  logoURI: "https://chainlist.org/unknown-logo.png",
   nativeCurrency: {
   name: "Ether",
   symbol: "ETH",
@@ -4434,7 +4256,6 @@ export const Garnet: HbChain = {
 export const Geist: HbChain = {
   id: 63157,
   name: "Geist Mainnet",
-  logoURI: "https://chainlist.org/unknown-logo.png",
   nativeCurrency: {
   decimals: 18,
   name: "Aavegotchi GHST Token",
@@ -4458,7 +4279,6 @@ export const Geist: HbChain = {
 export const Genesys: HbChain = {
   id: 16507,
   name: "Genesys Mainnet",
-  logoURI: "https://icons.llamao.fi/icons/chains/rsz_genesys.jpg",
   nativeCurrency: {
   decimals: 18,
   name: "GSYS",
@@ -4482,7 +4302,6 @@ export const Genesys: HbChain = {
 export const GlideL1Protocol: HbChain = {
   id: 251,
   name: "Glide L1 Protocol XP",
-  logoURI: "https://chainlist.org/unknown-logo.png",
   nativeCurrency: {
   name: "GLXP",
   symbol: "GLXP",
@@ -4509,7 +4328,6 @@ export const GlideL1Protocol: HbChain = {
 export const GlideL2Protocol: HbChain = {
   id: 253,
   name: "Glide L2 Protocol XP",
-  logoURI: "https://chainlist.org/unknown-logo.png",
   nativeCurrency: {
   name: "GLXP",
   symbol: "GLXP",
@@ -4536,7 +4354,6 @@ export const GlideL2Protocol: HbChain = {
 export const Gnosis: HbChain = {
   id: 100,
   name: "Gnosis",
-  logoURI: "https://icons.llamao.fi/icons/chains/rsz_xdai.jpg",
   nativeCurrency: {
   decimals: 18,
   name: "xDAI",
@@ -4564,7 +4381,6 @@ export const Gnosis: HbChain = {
 export const GnosisChiado: HbChain = {
   id: 10200,
   name: "Gnosis Chiado",
-  logoURI: "https://chainlist.org/unknown-logo.png",
   nativeCurrency: {
   decimals: 18,
   name: "Gnosis",
@@ -4592,7 +4408,6 @@ export const GnosisChiado: HbChain = {
 export const Goat: HbChain = {
   id: 2345,
   name: "GOAT",
-  logoURI: "https://chainlist.org/unknown-logo.png",
   nativeCurrency: {
   decimals: 18,
   name: "Bitcoin",
@@ -4616,7 +4431,6 @@ export const Goat: HbChain = {
 export const Gobi: HbChain = {
   id: 1663,
   name: "Horizen Gobi Testnet",
-  logoURI: "https://chainlist.org/unknown-logo.png",
   nativeCurrency: {
   decimals: 18,
   name: "Test ZEN",
@@ -4640,7 +4454,6 @@ export const Gobi: HbChain = {
 export const GoChain: HbChain = {
   id: 60,
   name: "GoChain",
-  logoURI: "https://icons.llamao.fi/icons/chains/rsz_gochain.jpg",
   nativeCurrency: {
   decimals: 18,
   name: "GO",
@@ -4664,7 +4477,6 @@ export const GoChain: HbChain = {
 export const Godwoken: HbChain = {
   id: 71402,
   name: "Godwoken Mainnet",
-  logoURI: "https://icons.llamao.fi/icons/chains/rsz_godwoken.jpg",
   nativeCurrency: {
   decimals: 18,
   name: "pCKB",
@@ -4688,7 +4500,6 @@ export const Godwoken: HbChain = {
 export const Goerli: HbChain = {
   id: 5,
   name: "Goerli",
-  logoURI: "https://chainlist.org/unknown-logo.png",
   nativeCurrency: {
   name: "Goerli Ether",
   symbol: "ETH",
@@ -4713,7 +4524,6 @@ export const Goerli: HbChain = {
 export const Gravity: HbChain = {
   id: 1625,
   name: "Gravity Alpha Mainnet",
-  logoURI: "https://icons.llamao.fi/icons/chains/rsz_gravity.jpg",
   nativeCurrency: {
   name: "G",
   symbol: "G",
@@ -4738,7 +4548,6 @@ export const Gravity: HbChain = {
 export const GuruNetwork: HbChain = {
   id: 260,
   name: "Guru Network Mainnet",
-  logoURI: "https://chainlist.org/unknown-logo.png",
   nativeCurrency: {
   name: "GURU Token",
   symbol: "GURU",
@@ -4762,7 +4571,6 @@ export const GuruNetwork: HbChain = {
 export const GuruTestnet: HbChain = {
   id: 261,
   name: "Guru Network Testnet",
-  logoURI: "https://chainlist.org/unknown-logo.png",
   nativeCurrency: {
   name: "tGURU Token",
   symbol: "tGURU",
@@ -4786,7 +4594,6 @@ export const GuruTestnet: HbChain = {
 export const Ham: HbChain = {
   id: 5112,
   name: "Ham",
-  logoURI: "https://chainlist.org/unknown-logo.png",
   nativeCurrency: {
   decimals: 18,
   name: "Ham",
@@ -4814,7 +4621,6 @@ export const Ham: HbChain = {
 export const HaqqMainnet: HbChain = {
   id: 11235,
   name: "HAQQ Mainnet",
-  logoURI: "https://chainlist.org/unknown-logo.png",
   nativeCurrency: {
   decimals: 18,
   name: "Islamic Coin",
@@ -4839,7 +4645,6 @@ export const HaqqMainnet: HbChain = {
 export const HaqqTestedge2: HbChain = {
   id: 54211,
   name: "HAQQ Testedge 2",
-  logoURI: "https://chainlist.org/unknown-logo.png",
   nativeCurrency: {
   decimals: 18,
   name: "Islamic Coin",
@@ -4864,7 +4669,6 @@ export const HaqqTestedge2: HbChain = {
 export const Hardhat: HbChain = {
   id: 31337,
   name: "Hardhat",
-  logoURI: "https://chainlist.org/unknown-logo.png",
   nativeCurrency: {
   decimals: 18,
   name: "Ether",
@@ -4882,7 +4686,6 @@ export const Hardhat: HbChain = {
 export const HarmonyOne: HbChain = {
   id: 1666600000,
   name: "Harmony One",
-  logoURI: "https://icons.llamao.fi/icons/chains/rsz_harmony.jpg",
   nativeCurrency: {
   name: "Harmony",
   symbol: "ONE",
@@ -4906,7 +4709,6 @@ export const HarmonyOne: HbChain = {
 export const HashkeyTestnet: HbChain = {
   id: 133,
   name: "HashKey Chain Testnet",
-  logoURI: "https://chainlist.org/unknown-logo.png",
   nativeCurrency: {
   decimals: 18,
   name: "HashKey EcoPoints",
@@ -4930,7 +4732,6 @@ export const HashkeyTestnet: HbChain = {
 export const Hedera: HbChain = {
   id: 295,
   name: "Hedera Mainnet",
-  logoURI: "https://chainlist.org/unknown-logo.png",
   nativeCurrency: {
   symbol: "HBAR",
   name: "HBAR",
@@ -4954,7 +4755,6 @@ export const Hedera: HbChain = {
 export const HederaPreviewnet: HbChain = {
   id: 297,
   name: "Hedera Previewnet",
-  logoURI: "https://chainlist.org/unknown-logo.png",
   nativeCurrency: {
   symbol: "HBAR",
   name: "HBAR",
@@ -4978,7 +4778,6 @@ export const HederaPreviewnet: HbChain = {
 export const HederaTestnet: HbChain = {
   id: 296,
   name: "Hedera Testnet",
-  logoURI: "https://chainlist.org/unknown-logo.png",
   nativeCurrency: {
   symbol: "HBAR",
   name: "HBAR",
@@ -5002,7 +4801,6 @@ export const HederaTestnet: HbChain = {
 export const Hela: HbChain = {
   id: 8668,
   name: "Hela Mainnet",
-  logoURI: "https://icons.llamao.fi/icons/chains/rsz_hela.jpg",
   nativeCurrency: {
   name: "HLUSD",
   symbol: "HLUSD",
@@ -5026,7 +4824,6 @@ export const Hela: HbChain = {
 export const HemiSepolia: HbChain = {
   id: 743111,
   name: "Hemi Sepolia",
-  logoURI: "https://chainlist.org/unknown-logo.png",
   nativeCurrency: {
   name: "Ether",
   symbol: "ETH",
@@ -5050,7 +4847,6 @@ export const HemiSepolia: HbChain = {
 export const Holesky: HbChain = {
   id: 17000,
   name: "Holesky",
-  logoURI: "https://chainlist.org/unknown-logo.png",
   nativeCurrency: {
   name: "Holesky Ether",
   symbol: "ETH",
@@ -5075,7 +4871,6 @@ export const Holesky: HbChain = {
 export const Hpb: HbChain = {
   id: 269,
   name: "High Performance Blockchain",
-  logoURI: "https://icons.llamao.fi/icons/chains/rsz_hpb.jpg",
   nativeCurrency: {
   name: "HPB",
   symbol: "HPB",
@@ -5099,7 +4894,6 @@ export const Hpb: HbChain = {
 export const Huddle01Mainnet: HbChain = {
   id: 12323,
   name: "Huddle01 dRTC Chain",
-  logoURI: "https://chainlist.org/unknown-logo.png",
   nativeCurrency: {
   name: "Ethereum",
   symbol: "ETH",
@@ -5127,7 +4921,6 @@ export const Huddle01Mainnet: HbChain = {
 export const Huddle01Testnet: HbChain = {
   id: 2524852,
   name: "Huddle01 dRTC Chain Testnet",
-  logoURI: "https://chainlist.org/unknown-logo.png",
   nativeCurrency: {
   name: "Ethereum",
   symbol: "ETH",
@@ -5155,7 +4948,6 @@ export const Huddle01Testnet: HbChain = {
 export const Humanode: HbChain = {
   id: 5234,
   name: "Humanode",
-  logoURI: "https://chainlist.org/unknown-logo.png",
   nativeCurrency: {
   name: "HMND",
   symbol: "HMND",
@@ -5182,7 +4974,6 @@ export const Humanode: HbChain = {
 export const HumanodeTestnet5: HbChain = {
   id: 14853,
   name: "Humanode Testnet 5",
-  logoURI: "https://chainlist.org/unknown-logo.png",
   nativeCurrency: {
   name: "HMND",
   symbol: "HMND",
@@ -5203,7 +4994,6 @@ export const HumanodeTestnet5: HbChain = {
 export const Hychain: HbChain = {
   id: 2911,
   name: "HYCHAIN",
-  logoURI: "https://chainlist.org/unknown-logo.png",
   nativeCurrency: {
   name: "HYTOPIA",
   symbol: "TOPIA",
@@ -5227,7 +5017,6 @@ export const Hychain: HbChain = {
 export const HychainTestnet: HbChain = {
   id: 29112,
   name: "HYCHAIN Testnet",
-  logoURI: "https://chainlist.org/unknown-logo.png",
   nativeCurrency: {
   name: "HYTOPIA",
   symbol: "TOPIA",
@@ -5251,7 +5040,6 @@ export const HychainTestnet: HbChain = {
 export const Idchain: HbChain = {
   id: 74,
   name: "IDChain Mainnet",
-  logoURI: "https://chainlist.org/unknown-logo.png",
   nativeCurrency: {
   decimals: 18,
   name: "EIDI",
@@ -5278,7 +5066,6 @@ export const Idchain: HbChain = {
 export const ImmutableZkEvm: HbChain = {
   id: 13371,
   name: "Immutable zkEVM",
-  logoURI: "https://icons.llamao.fi/icons/chains/rsz_immutable%20zkevm.jpg",
   nativeCurrency: {
   decimals: 18,
   name: "Immutable Coin",
@@ -5303,7 +5090,6 @@ export const ImmutableZkEvm: HbChain = {
 export const ImmutableZkEvmTestnet: HbChain = {
   id: 13473,
   name: "Immutable zkEVM Testnet",
-  logoURI: "https://chainlist.org/unknown-logo.png",
   nativeCurrency: {
   decimals: 18,
   name: "Immutable Coin",
@@ -5327,7 +5113,6 @@ export const ImmutableZkEvmTestnet: HbChain = {
 export const InEVM: HbChain = {
   id: 2525,
   name: "inEVM Mainnet",
-  logoURI: "https://chainlist.org/unknown-logo.png",
   nativeCurrency: {
   decimals: 18,
   name: "Injective",
@@ -5352,7 +5137,6 @@ export const InEVM: HbChain = {
 export const InitVerse: HbChain = {
   id: 7233,
   name: "InitVerse Mainnet",
-  logoURI: "https://chainlist.org/unknown-logo.png",
   nativeCurrency: {
   decimals: 18,
   name: "InitVerse",
@@ -5377,7 +5161,6 @@ export const InitVerse: HbChain = {
 export const InitVerseGenesis: HbChain = {
   id: 7234,
   name: "InitVerse Genesis Testnet",
-  logoURI: "https://chainlist.org/unknown-logo.png",
   nativeCurrency: {
   decimals: 18,
   name: "InitVerse",
@@ -5402,7 +5185,6 @@ export const InitVerseGenesis: HbChain = {
 export const Ink: HbChain = {
   id: 57073,
   name: "Ink",
-  logoURI: "https://icons.llamao.fi/icons/chains/rsz_ink.jpg",
   nativeCurrency: {
   name: "Ether",
   symbol: "ETH",
@@ -5432,7 +5214,6 @@ export const Ink: HbChain = {
 export const InkSepolia: HbChain = {
   id: 763373,
   name: "Ink Sepolia",
-  logoURI: "https://chainlist.org/unknown-logo.png",
   nativeCurrency: {
   name: "Sepolia Ether",
   symbol: "ETH",
@@ -5457,7 +5238,6 @@ export const InkSepolia: HbChain = {
 export const Iota: HbChain = {
   id: 8822,
   name: "IOTA EVM",
-  logoURI: "https://icons.llamao.fi/icons/chains/rsz_iotaevm.jpg",
   nativeCurrency: {
   decimals: 18,
   name: "IOTA",
@@ -5485,7 +5265,6 @@ export const Iota: HbChain = {
 export const IotaTestnet: HbChain = {
   id: 1075,
   name: "IOTA EVM Testnet",
-  logoURI: "https://chainlist.org/unknown-logo.png",
   nativeCurrency: {
   decimals: 18,
   name: "IOTA",
@@ -5513,7 +5292,6 @@ export const IotaTestnet: HbChain = {
 export const Iotex: HbChain = {
   id: 4689,
   name: "IoTeX",
-  logoURI: "https://icons.llamao.fi/icons/chains/rsz_iotex.jpg",
   nativeCurrency: {
   decimals: 18,
   name: "IoTeX",
@@ -5540,7 +5318,6 @@ export const Iotex: HbChain = {
 export const IotexTestnet: HbChain = {
   id: 4690,
   name: "IoTeX Testnet",
-  logoURI: "https://chainlist.org/unknown-logo.png",
   nativeCurrency: {
   decimals: 18,
   name: "IoTeX",
@@ -5567,7 +5344,6 @@ export const IotexTestnet: HbChain = {
 export const ISunCoin: HbChain = {
   id: 8017,
   name: "iSunCoin Mainnet",
-  logoURI: "https://chainlist.org/unknown-logo.png",
   nativeCurrency: {
   decimals: 18,
   name: "ISC",
@@ -5591,7 +5367,6 @@ export const ISunCoin: HbChain = {
 export const Jbc: HbChain = {
   id: 8899,
   name: "JIBCHAIN L1",
-  logoURI: "https://icons.llamao.fi/icons/chains/rsz_jbc.jpg",
   nativeCurrency: {
   name: "JBC",
   symbol: "JBC",
@@ -5616,7 +5391,6 @@ export const Jbc: HbChain = {
 export const JbcTestnet: HbChain = {
   id: 88991,
   name: "Jibchain Testnet",
-  logoURI: "https://chainlist.org/unknown-logo.png",
   nativeCurrency: {
   name: "tJBC",
   symbol: "tJBC",
@@ -5641,7 +5415,6 @@ export const JbcTestnet: HbChain = {
 export const Karura: HbChain = {
   id: 686,
   name: "Karura",
-  logoURI: "https://chainlist.org/unknown-logo.png",
   nativeCurrency: {
   name: "Karura",
   symbol: "KAR",
@@ -5669,7 +5442,6 @@ export const Karura: HbChain = {
 export const KakarotSepolia: HbChain = {
   id: 1802203764,
   name: "Kakarot Sepolia",
-  logoURI: "https://chainlist.org/unknown-logo.png",
   nativeCurrency: {
   name: "Ether",
   symbol: "ETH",
@@ -5693,7 +5465,6 @@ export const KakarotSepolia: HbChain = {
 export const KakarotStarknetSepolia: HbChain = {
   id: 920637907288165,
   name: "Kakarot Starknet Sepolia",
-  logoURI: "https://chainlist.org/unknown-logo.png",
   nativeCurrency: {
   name: "Ether",
   symbol: "ETH",
@@ -5717,7 +5488,6 @@ export const KakarotStarknetSepolia: HbChain = {
 export const KardiaChain: HbChain = {
   id: 24,
   name: "KardiaChain Mainnet",
-  logoURI: "https://icons.llamao.fi/icons/chains/rsz_kardia.jpg",
   nativeCurrency: {
   name: "KAI",
   symbol: "KAI",
@@ -5741,7 +5511,6 @@ export const KardiaChain: HbChain = {
 export const Kava: HbChain = {
   id: 2222,
   name: "Kava EVM",
-  logoURI: "https://icons.llamao.fi/icons/chains/rsz_kava.jpg",
   nativeCurrency: {
   name: "Kava",
   symbol: "KAVA",
@@ -5766,7 +5535,6 @@ export const Kava: HbChain = {
 export const KavaTestnet: HbChain = {
   id: 2221,
   name: "Kava EVM Testnet",
-  logoURI: "https://chainlist.org/unknown-logo.png",
   nativeCurrency: {
   name: "Kava",
   symbol: "KAVA",
@@ -5791,7 +5559,6 @@ export const KavaTestnet: HbChain = {
 export const Kcc: HbChain = {
   id: 321,
   name: "KCC Mainnet",
-  logoURI: "https://icons.llamao.fi/icons/chains/rsz_kucoin.jpg",
   nativeCurrency: {
   decimals: 18,
   name: "KCS",
@@ -5815,7 +5582,6 @@ export const Kcc: HbChain = {
 export const Kinto: HbChain = {
   id: 7887,
   name: "Kinto Mainnet",
-  logoURI: "https://chainlist.org/unknown-logo.png",
   nativeCurrency: {
   name: "Ether",
   symbol: "ETH",
@@ -5839,7 +5605,6 @@ export const Kinto: HbChain = {
 export const Klaytn: HbChain = {
   id: 8217,
   name: "Klaytn",
-  logoURI: "https://icons.llamao.fi/icons/chains/rsz_klaytn.jpg",
   nativeCurrency: {
   decimals: 18,
   name: "Klaytn",
@@ -5863,7 +5628,6 @@ export const Klaytn: HbChain = {
 export const Kaia: HbChain = {
   id: 8217,
   name: "Kaia",
-  logoURI: "https://icons.llamao.fi/icons/chains/rsz_klaytn.jpg",
   nativeCurrency: {
   decimals: 18,
   name: "Kaia",
@@ -5888,7 +5652,6 @@ export const Kaia: HbChain = {
 export const Kairos: HbChain = {
   id: 1001,
   name: "Kairos Testnet",
-  logoURI: "https://chainlist.org/unknown-logo.png",
   nativeCurrency: {
   decimals: 18,
   name: "Kairos KAIA",
@@ -5912,7 +5675,6 @@ export const Kairos: HbChain = {
 export const KlaytnBaobab: HbChain = {
   id: 1001,
   name: "Klaytn Baobab Testnet",
-  logoURI: "https://chainlist.org/unknown-logo.png",
   nativeCurrency: {
   decimals: 18,
   name: "Baobab Klaytn",
@@ -5936,7 +5698,6 @@ export const KlaytnBaobab: HbChain = {
 export const Koi: HbChain = {
   id: 701,
   name: "Koi Network",
-  logoURI: "https://chainlist.org/unknown-logo.png",
   nativeCurrency: {
   decimals: 18,
   name: "Koi Network Native Token",
@@ -5963,7 +5724,6 @@ export const Koi: HbChain = {
 export const Kroma: HbChain = {
   id: 255,
   name: "Kroma",
-  logoURI: "https://chainlist.org/unknown-logo.png",
   nativeCurrency: {
   name: "ETH",
   symbol: "ETH",
@@ -5988,7 +5748,6 @@ export const Kroma: HbChain = {
 export const KromaSepolia: HbChain = {
   id: 2358,
   name: "Kroma Sepolia",
-  logoURI: "https://chainlist.org/unknown-logo.png",
   nativeCurrency: {
   name: "Sepolia Ether",
   symbol: "ETH",
@@ -6013,7 +5772,6 @@ export const KromaSepolia: HbChain = {
 export const L3x: HbChain = {
   id: 12324,
   name: "L3X Protocol",
-  logoURI: "https://chainlist.org/unknown-logo.png",
   nativeCurrency: {
   name: "Ether",
   symbol: "ETH",
@@ -6041,7 +5799,6 @@ export const L3x: HbChain = {
 export const L3xTestnet: HbChain = {
   id: 12325,
   name: "L3X Protocol Testnet",
-  logoURI: "https://chainlist.org/unknown-logo.png",
   nativeCurrency: {
   name: "Ether",
   symbol: "ETH",
@@ -6069,7 +5826,6 @@ export const L3xTestnet: HbChain = {
 export const Lavita: HbChain = {
   id: 360890,
   name: "LAVITA Mainnet",
-  logoURI: "https://chainlist.org/unknown-logo.png",
   nativeCurrency: {
   name: "vTFUEL",
   symbol: "vTFUEL",
@@ -6093,7 +5849,6 @@ export const Lavita: HbChain = {
 export const LensTestnet: HbChain = {
   id: 37111,
   name: "Lens Testnet",
-  logoURI: "https://chainlist.org/unknown-logo.png",
   nativeCurrency: {
   name: "GRASS",
   symbol: "GRASS",
@@ -6121,7 +5876,6 @@ export const LensTestnet: HbChain = {
 export const LightlinkPegasus: HbChain = {
   id: 1891,
   name: "LightLink Pegasus Testnet",
-  logoURI: "https://chainlist.org/unknown-logo.png",
   nativeCurrency: {
   decimals: 18,
   name: "Ether",
@@ -6145,7 +5899,6 @@ export const LightlinkPegasus: HbChain = {
 export const LightlinkPhoenix: HbChain = {
   id: 1890,
   name: "LightLink Phoenix Mainnet",
-  logoURI: "https://chainlist.org/unknown-logo.png",
   nativeCurrency: {
   decimals: 18,
   name: "Ether",
@@ -6169,7 +5922,6 @@ export const LightlinkPhoenix: HbChain = {
 export const Linea: HbChain = {
   id: 59144,
   name: "Linea Mainnet",
-  logoURI: "https://icons.llamao.fi/icons/chains/rsz_linea.jpg",
   nativeCurrency: {
   name: "Linea Ether",
   symbol: "ETH",
@@ -6197,7 +5949,6 @@ export const Linea: HbChain = {
 export const LineaGoerli: HbChain = {
   id: 59140,
   name: "Linea Goerli Testnet",
-  logoURI: "https://chainlist.org/unknown-logo.png",
   nativeCurrency: {
   name: "Linea Ether",
   symbol: "ETH",
@@ -6225,7 +5976,6 @@ export const LineaGoerli: HbChain = {
 export const LineaSepolia: HbChain = {
   id: 59141,
   name: "Linea Sepolia Testnet",
-  logoURI: "https://chainlist.org/unknown-logo.png",
   nativeCurrency: {
   name: "Linea Ether",
   symbol: "ETH",
@@ -6253,7 +6003,6 @@ export const LineaSepolia: HbChain = {
 export const LineaTestnet: HbChain = {
   id: 59140,
   name: "Linea Goerli Testnet",
-  logoURI: "https://chainlist.org/unknown-logo.png",
   nativeCurrency: {
   name: "Linea Ether",
   symbol: "ETH",
@@ -6281,7 +6030,6 @@ export const LineaTestnet: HbChain = {
 export const Lisk: HbChain = {
   id: 1135,
   name: "Lisk",
-  logoURI: "https://icons.llamao.fi/icons/chains/rsz_lisk.jpg",
   nativeCurrency: {
   decimals: 18,
   name: "Ether",
@@ -6306,7 +6054,6 @@ export const Lisk: HbChain = {
 export const LiskSepolia: HbChain = {
   id: 4202,
   name: "Lisk Sepolia",
-  logoURI: "https://chainlist.org/unknown-logo.png",
   nativeCurrency: {
   name: "Sepolia Ether",
   symbol: "ETH",
@@ -6331,7 +6078,6 @@ export const LiskSepolia: HbChain = {
 export const Localhost: HbChain = {
   id: 1337,
   name: "Localhost",
-  logoURI: "https://chainlist.org/unknown-logo.png",
   nativeCurrency: {
   decimals: 18,
   name: "Ether",
@@ -6349,7 +6095,6 @@ export const Localhost: HbChain = {
 export const Loop: HbChain = {
   id: 15551,
   name: "LoopNetwork Mainnet",
-  logoURI: "https://icons.llamao.fi/icons/chains/rsz_loop.jpg",
   nativeCurrency: {
   name: "LOOP",
   symbol: "LOOP",
@@ -6373,7 +6118,6 @@ export const Loop: HbChain = {
 export const Lukso: HbChain = {
   id: 42,
   name: "LUKSO",
-  logoURI: "https://icons.llamao.fi/icons/chains/rsz_lukso.jpg",
   nativeCurrency: {
   name: "LUKSO",
   symbol: "LYX",
@@ -6401,7 +6145,6 @@ export const Lukso: HbChain = {
 export const LuksoTestnet: HbChain = {
   id: 4201,
   name: "LUKSO Testnet",
-  logoURI: "https://chainlist.org/unknown-logo.png",
   nativeCurrency: {
   decimals: 18,
   name: "LUKSO Testnet",
@@ -6429,7 +6172,6 @@ export const LuksoTestnet: HbChain = {
 export const LumiaMainnet: HbChain = {
   id: 994873017,
   name: "Lumia Mainnet",
-  logoURI: "https://chainlist.org/unknown-logo.png",
   nativeCurrency: {
   name: "Lumia",
   symbol: "LUMIA",
@@ -6453,7 +6195,6 @@ export const LumiaMainnet: HbChain = {
 export const LumiaTestnet: HbChain = {
   id: 1952959480,
   name: "Lumia Testnet",
-  logoURI: "https://chainlist.org/unknown-logo.png",
   nativeCurrency: {
   name: "Lumia",
   symbol: "LUMIA",
@@ -6477,7 +6218,6 @@ export const LumiaTestnet: HbChain = {
 export const Lycan: HbChain = {
   id: 721,
   name: "Lycan",
-  logoURI: "https://chainlist.org/unknown-logo.png",
   nativeCurrency: {
   decimals: 18,
   name: "Lycan",
@@ -6514,7 +6254,6 @@ export const Lycan: HbChain = {
 export const Lyra: HbChain = {
   id: 957,
   name: "Lyra Chain",
-  logoURI: "https://icons.llamao.fi/icons/chains/rsz_lyra%20chain.jpg",
   nativeCurrency: {
   name: "Ether",
   symbol: "ETH",
@@ -6539,7 +6278,6 @@ export const Lyra: HbChain = {
 export const Mainnet: HbChain = {
   id: 1,
   name: "Ethereum",
-  logoURI: "https://icons.llamao.fi/icons/chains/rsz_ethereum.jpg",
   nativeCurrency: {
   name: "Ether",
   symbol: "ETH",
@@ -6564,7 +6302,6 @@ export const Mainnet: HbChain = {
 export const Mandala: HbChain = {
   id: 595,
   name: "Mandala TC9",
-  logoURI: "https://chainlist.org/unknown-logo.png",
   nativeCurrency: {
   name: "Mandala",
   symbol: "mACA",
@@ -6592,7 +6329,6 @@ export const Mandala: HbChain = {
 export const Manta: HbChain = {
   id: 169,
   name: "Manta Pacific Mainnet",
-  logoURI: "https://icons.llamao.fi/icons/chains/rsz_manta.jpg",
   nativeCurrency: {
   decimals: 18,
   name: "ETH",
@@ -6617,7 +6353,6 @@ export const Manta: HbChain = {
 export const MantaSepoliaTestnet: HbChain = {
   id: 3441006,
   name: "Manta Pacific Sepolia Testnet",
-  logoURI: "https://chainlist.org/unknown-logo.png",
   nativeCurrency: {
   decimals: 18,
   name: "ETH",
@@ -6642,7 +6377,6 @@ export const MantaSepoliaTestnet: HbChain = {
 export const MantaTestnet: HbChain = {
   id: 3441005,
   name: "Manta Pacific Testnet",
-  logoURI: "https://chainlist.org/unknown-logo.png",
   nativeCurrency: {
   decimals: 18,
   name: "ETH",
@@ -6667,7 +6401,6 @@ export const MantaTestnet: HbChain = {
 export const Mantle: HbChain = {
   id: 5000,
   name: "Mantle",
-  logoURI: "https://icons.llamao.fi/icons/chains/rsz_mantle.jpg",
   nativeCurrency: {
   decimals: 18,
   name: "MNT",
@@ -6692,7 +6425,6 @@ export const Mantle: HbChain = {
 export const MantleSepoliaTestnet: HbChain = {
   id: 5003,
   name: "Mantle Sepolia Testnet",
-  logoURI: "https://chainlist.org/unknown-logo.png",
   nativeCurrency: {
   decimals: 18,
   name: "MNT",
@@ -6717,7 +6449,6 @@ export const MantleSepoliaTestnet: HbChain = {
 export const MantleTestnet: HbChain = {
   id: 5001,
   name: "Mantle Testnet",
-  logoURI: "https://chainlist.org/unknown-logo.png",
   nativeCurrency: {
   decimals: 18,
   name: "MNT",
@@ -6742,7 +6473,6 @@ export const MantleTestnet: HbChain = {
 export const MapProtocol: HbChain = {
   id: 22776,
   name: "MAP Protocol",
-  logoURI: "https://icons.llamao.fi/icons/chains/rsz_map%20protocol.jpg",
   nativeCurrency: {
   decimals: 18,
   name: "MAPO",
@@ -6766,7 +6496,6 @@ export const MapProtocol: HbChain = {
 export const Matchain: HbChain = {
   id: 698,
   name: "Matchain",
-  logoURI: "https://icons.llamao.fi/icons/chains/rsz_matchain.jpg",
   nativeCurrency: {
   name: "BNB",
   symbol: "BNB",
@@ -6790,7 +6519,6 @@ export const Matchain: HbChain = {
 export const MatchainTestnet: HbChain = {
   id: 699,
   name: "Matchain Testnet",
-  logoURI: "https://chainlist.org/unknown-logo.png",
   nativeCurrency: {
   name: "BNB",
   symbol: "BNB",
@@ -6814,7 +6542,6 @@ export const MatchainTestnet: HbChain = {
 export const MchVerse: HbChain = {
   id: 29548,
   name: "MCH Verse",
-  logoURI: "https://chainlist.org/unknown-logo.png",
   nativeCurrency: {
   name: "Oasys",
   symbol: "OAS",
@@ -6839,7 +6566,6 @@ export const MchVerse: HbChain = {
 export const Mekong: HbChain = {
   id: 7078815900,
   name: "Mekong Pectra Devnet",
-  logoURI: "https://chainlist.org/unknown-logo.png",
   nativeCurrency: {
   name: "eth",
   symbol: "eth",
@@ -6863,7 +6589,6 @@ export const Mekong: HbChain = {
 export const Meld: HbChain = {
   id: 333000333,
   name: "Meld",
-  logoURI: "https://chainlist.org/unknown-logo.png",
   nativeCurrency: {
   decimals: 18,
   name: "Meld",
@@ -6887,7 +6612,6 @@ export const Meld: HbChain = {
 export const Merlin: HbChain = {
   id: 4200,
   name: "Merlin",
-  logoURI: "https://chainlist.org/unknown-logo.png",
   nativeCurrency: {
   name: "BTC",
   symbol: "BTC",
@@ -6912,7 +6636,6 @@ export const Merlin: HbChain = {
 export const Metachain: HbChain = {
   id: 571,
   name: "MetaChain Mainnet",
-  logoURI: "https://chainlist.org/unknown-logo.png",
   nativeCurrency: {
   name: "Metatime Coin",
   symbol: "MTC",
@@ -6936,7 +6659,6 @@ export const Metachain: HbChain = {
 export const MetachainIstanbul: HbChain = {
   id: 1453,
   name: "MetaChain Istanbul",
-  logoURI: "https://chainlist.org/unknown-logo.png",
   nativeCurrency: {
   name: "Metatime Coin",
   symbol: "MTC",
@@ -6960,7 +6682,6 @@ export const MetachainIstanbul: HbChain = {
 export const Metadium: HbChain = {
   id: 11,
   name: "Metadium Network",
-  logoURI: "https://chainlist.org/unknown-logo.png",
   nativeCurrency: {
   decimals: 18,
   name: "META",
@@ -6984,7 +6705,6 @@ export const Metadium: HbChain = {
 export const MetalL2: HbChain = {
   id: 1750,
   name: "Metal L2",
-  logoURI: "https://chainlist.org/unknown-logo.png",
   nativeCurrency: {
   decimals: 18,
   name: "Ether",
@@ -7012,7 +6732,6 @@ export const MetalL2: HbChain = {
 export const Meter: HbChain = {
   id: 82,
   name: "Meter",
-  logoURI: "https://icons.llamao.fi/icons/chains/rsz_meter.jpg",
   nativeCurrency: {
   decimals: 18,
   name: "MTR",
@@ -7036,7 +6755,6 @@ export const Meter: HbChain = {
 export const MeterTestnet: HbChain = {
   id: 83,
   name: "Meter Testnet",
-  logoURI: "https://chainlist.org/unknown-logo.png",
   nativeCurrency: {
   decimals: 18,
   name: "MTR",
@@ -7060,7 +6778,6 @@ export const MeterTestnet: HbChain = {
 export const Metis: HbChain = {
   id: 1088,
   name: "Metis",
-  logoURI: "https://icons.llamao.fi/icons/chains/rsz_metis.jpg",
   nativeCurrency: {
   decimals: 18,
   name: "Metis",
@@ -7085,7 +6802,6 @@ export const Metis: HbChain = {
 export const MetisGoerli: HbChain = {
   id: 599,
   name: "Metis Goerli",
-  logoURI: "https://chainlist.org/unknown-logo.png",
   nativeCurrency: {
   decimals: 18,
   name: "Metis Goerli",
@@ -7110,7 +6826,6 @@ export const MetisGoerli: HbChain = {
 export const Mev: HbChain = {
   id: 7518,
   name: "MEVerse Chain Mainnet",
-  logoURI: "https://chainlist.org/unknown-logo.png",
   nativeCurrency: {
   decimals: 18,
   name: "MEVerse",
@@ -7134,7 +6849,6 @@ export const Mev: HbChain = {
 export const MevTestnet: HbChain = {
   id: 4759,
   name: "MEVerse Chain Testnet",
-  logoURI: "https://chainlist.org/unknown-logo.png",
   nativeCurrency: {
   decimals: 18,
   name: "MEVerse",
@@ -7158,7 +6872,6 @@ export const MevTestnet: HbChain = {
 export const Mint: HbChain = {
   id: 185,
   name: "Mint Mainnet",
-  logoURI: "https://chainlist.org/unknown-logo.png",
   nativeCurrency: {
   name: "Ether",
   symbol: "ETH",
@@ -7182,7 +6895,6 @@ export const Mint: HbChain = {
 export const MintSepoliaTestnet: HbChain = {
   id: 1686,
   name: "Mint Sepolia Testnet",
-  logoURI: "https://chainlist.org/unknown-logo.png",
   nativeCurrency: {
   name: "Ether",
   symbol: "ETH",
@@ -7206,7 +6918,6 @@ export const MintSepoliaTestnet: HbChain = {
 export const MitosisTestnet: HbChain = {
   id: 124832,
   name: "Mitosis Testnet",
-  logoURI: "https://chainlist.org/unknown-logo.png",
   nativeCurrency: {
   name: "MITO",
   symbol: "MITO",
@@ -7230,7 +6941,6 @@ export const MitosisTestnet: HbChain = {
 export const Mode: HbChain = {
   id: 34443,
   name: "Mode Mainnet",
-  logoURI: "https://chainlist.org/unknown-logo.png",
   nativeCurrency: {
   name: "Ether",
   symbol: "ETH",
@@ -7254,7 +6964,6 @@ export const Mode: HbChain = {
 export const ModeTestnet: HbChain = {
   id: 919,
   name: "Mode Testnet",
-  logoURI: "https://chainlist.org/unknown-logo.png",
   nativeCurrency: {
   name: "Ether",
   symbol: "ETH",
@@ -7279,7 +6988,6 @@ export const ModeTestnet: HbChain = {
 export const MoonbaseAlpha: HbChain = {
   id: 1287,
   name: "Moonbase Alpha",
-  logoURI: "https://chainlist.org/unknown-logo.png",
   nativeCurrency: {
   decimals: 18,
   name: "DEV",
@@ -7307,7 +7015,6 @@ export const MoonbaseAlpha: HbChain = {
 export const Moonbeam: HbChain = {
   id: 1284,
   name: "Moonbeam",
-  logoURI: "https://icons.llamao.fi/icons/chains/rsz_moonbeam.jpg",
   nativeCurrency: {
   decimals: 18,
   name: "GLMR",
@@ -7335,7 +7042,6 @@ export const Moonbeam: HbChain = {
 export const MoonbeamDev: HbChain = {
   id: 1281,
   name: "Moonbeam Development Node",
-  logoURI: "https://chainlist.org/unknown-logo.png",
   nativeCurrency: {
   decimals: 18,
   name: "DEV",
@@ -7356,7 +7062,6 @@ export const MoonbeamDev: HbChain = {
 export const Moonriver: HbChain = {
   id: 1285,
   name: "Moonriver",
-  logoURI: "https://icons.llamao.fi/icons/chains/rsz_moonriver.jpg",
   nativeCurrency: {
   decimals: 18,
   name: "MOVR",
@@ -7384,7 +7089,6 @@ export const Moonriver: HbChain = {
 export const Morph: HbChain = {
   id: 2818,
   name: "Morph",
-  logoURI: "https://icons.llamao.fi/icons/chains/rsz_morph.jpg",
   nativeCurrency: {
   decimals: 18,
   name: "Ether",
@@ -7411,7 +7115,6 @@ export const Morph: HbChain = {
 export const MorphHolesky: HbChain = {
   id: 2810,
   name: "Morph Holesky",
-  logoURI: "https://chainlist.org/unknown-logo.png",
   nativeCurrency: {
   name: "Ether",
   symbol: "ETH",
@@ -7439,7 +7142,6 @@ export const MorphHolesky: HbChain = {
 export const MorphSepolia: HbChain = {
   id: 2710,
   name: "Morph Sepolia",
-  logoURI: "https://chainlist.org/unknown-logo.png",
   nativeCurrency: {
   name: "Ether",
   symbol: "ETH",
@@ -7464,7 +7166,6 @@ export const MorphSepolia: HbChain = {
 export const Nahmii: HbChain = {
   id: 5551,
   name: "Nahmii 2 Mainnet",
-  logoURI: "https://icons.llamao.fi/icons/chains/rsz_nahmii.jpg",
   nativeCurrency: {
   decimals: 18,
   name: "ETH",
@@ -7488,7 +7189,6 @@ export const Nahmii: HbChain = {
 export const Nautilus: HbChain = {
   id: 22222,
   name: "Nautilus Mainnet",
-  logoURI: "https://chainlist.org/unknown-logo.png",
   nativeCurrency: {
   name: "ZBC",
   symbol: "ZBC",
@@ -7512,7 +7212,6 @@ export const Nautilus: HbChain = {
 export const Near: HbChain = {
   id: 397,
   name: "NEAR Protocol",
-  logoURI: "https://chainlist.org/unknown-logo.png",
   nativeCurrency: {
   decimals: 18,
   name: "NEAR",
@@ -7536,7 +7235,6 @@ export const Near: HbChain = {
 export const NearTestnet: HbChain = {
   id: 398,
   name: "NEAR Protocol Testnet",
-  logoURI: "https://chainlist.org/unknown-logo.png",
   nativeCurrency: {
   decimals: 18,
   name: "NEAR",
@@ -7560,7 +7258,6 @@ export const NearTestnet: HbChain = {
 export const NeonDevnet: HbChain = {
   id: 245022926,
   name: "Neon EVM DevNet",
-  logoURI: "https://chainlist.org/unknown-logo.png",
   nativeCurrency: {
   name: "NEON",
   symbol: "NEON",
@@ -7584,7 +7281,6 @@ export const NeonDevnet: HbChain = {
 export const NeonMainnet: HbChain = {
   id: 245022934,
   name: "Neon EVM MainNet",
-  logoURI: "https://icons.llamao.fi/icons/chains/rsz_neon.jpg",
   nativeCurrency: {
   name: "NEON",
   symbol: "NEON",
@@ -7608,7 +7304,6 @@ export const NeonMainnet: HbChain = {
 export const NeoxMainnet: HbChain = {
   id: 47763,
   name: "Neo X Mainnet",
-  logoURI: "https://chainlist.org/unknown-logo.png",
   nativeCurrency: {
   name: "Gas",
   symbol: "GAS",
@@ -7633,7 +7328,6 @@ export const NeoxMainnet: HbChain = {
 export const NeoxT4: HbChain = {
   id: 12227332,
   name: "Neo X Testnet T4",
-  logoURI: "https://chainlist.org/unknown-logo.png",
   nativeCurrency: {
   name: "Gas",
   symbol: "GAS",
@@ -7657,7 +7351,6 @@ export const NeoxT4: HbChain = {
 export const Nexi: HbChain = {
   id: 4242,
   name: "Nexi",
-  logoURI: "https://chainlist.org/unknown-logo.png",
   nativeCurrency: {
   name: "Nexi",
   symbol: "NEXI",
@@ -7682,7 +7375,6 @@ export const Nexi: HbChain = {
 export const Nexilix: HbChain = {
   id: 240,
   name: "Nexilix Smart Chain",
-  logoURI: "https://chainlist.org/unknown-logo.png",
   nativeCurrency: {
   decimals: 18,
   name: "Nexilix",
@@ -7706,7 +7398,6 @@ export const Nexilix: HbChain = {
 export const OasisTestnet: HbChain = {
   id: 4090,
   name: "Oasis Testnet",
-  logoURI: "https://chainlist.org/unknown-logo.png",
   nativeCurrency: {
   name: "Fasttoken",
   symbol: "FTN",
@@ -7731,7 +7422,6 @@ export const OasisTestnet: HbChain = {
 export const Oasys: HbChain = {
   id: 248,
   name: "Oasys",
-  logoURI: "https://icons.llamao.fi/icons/chains/rsz_oasys.jpg",
   nativeCurrency: {
   name: "Oasys",
   symbol: "OAS",
@@ -7756,7 +7446,6 @@ export const Oasys: HbChain = {
 export const OdysseyTestnet: HbChain = {
   id: 911867,
   name: "Odyssey Testnet",
-  logoURI: "https://chainlist.org/unknown-logo.png",
   nativeCurrency: {
   name: "Ether",
   symbol: "ETH",
@@ -7781,7 +7470,6 @@ export const OdysseyTestnet: HbChain = {
 export const Okc: HbChain = {
   id: 66,
   name: "OKC",
-  logoURI: "https://icons.llamao.fi/icons/chains/rsz_okexchain.jpg",
   nativeCurrency: {
   decimals: 18,
   name: "OKT",
@@ -7805,7 +7493,6 @@ export const Okc: HbChain = {
 export const Omax: HbChain = {
   id: 311,
   name: "Omax Mainnet",
-  logoURI: "https://icons.llamao.fi/icons/chains/rsz_omax.jpg",
   nativeCurrency: {
   decimals: 18,
   name: "OMAX",
@@ -7829,7 +7516,6 @@ export const Omax: HbChain = {
 export const OneWorld: HbChain = {
   id: 309075,
   name: "One World Chain Mainnet",
-  logoURI: "https://chainlist.org/unknown-logo.png",
   nativeCurrency: {
   decimals: 18,
   name: "OWCT",
@@ -7853,7 +7539,6 @@ export const OneWorld: HbChain = {
 export const OortMainnetDev: HbChain = {
   id: 9700,
   name: "OORT MainnetDev",
-  logoURI: "https://chainlist.org/unknown-logo.png",
   nativeCurrency: {
   decimals: 18,
   name: "OORT",
@@ -7877,7 +7562,6 @@ export const OortMainnetDev: HbChain = {
 export const OpBNB: HbChain = {
   id: 204,
   name: "opBNB",
-  logoURI: "https://icons.llamao.fi/icons/chains/rsz_op_bnb.jpg",
   nativeCurrency: {
   name: "BNB",
   symbol: "BNB",
@@ -7902,7 +7586,6 @@ export const OpBNB: HbChain = {
 export const OpBNBTestnet: HbChain = {
   id: 5611,
   name: "opBNB Testnet",
-  logoURI: "https://chainlist.org/unknown-logo.png",
   nativeCurrency: {
   decimals: 18,
   name: "tBNB",
@@ -7926,7 +7609,6 @@ export const OpBNBTestnet: HbChain = {
 export const Optimism: HbChain = {
   id: 10,
   name: "OP Mainnet",
-  logoURI: "https://icons.llamao.fi/icons/chains/rsz_optimism.jpg",
   nativeCurrency: {
   name: "Ether",
   symbol: "ETH",
@@ -7951,7 +7633,6 @@ export const Optimism: HbChain = {
 export const OptimismGoerli: HbChain = {
   id: 420,
   name: "Optimism Goerli",
-  logoURI: "https://chainlist.org/unknown-logo.png",
   nativeCurrency: {
   name: "Goerli Ether",
   symbol: "ETH",
@@ -7976,7 +7657,6 @@ export const OptimismGoerli: HbChain = {
 export const OptimismSepolia: HbChain = {
   id: 11155420,
   name: "OP Sepolia",
-  logoURI: "https://chainlist.org/unknown-logo.png",
   nativeCurrency: {
   name: "Sepolia Ether",
   symbol: "ETH",
@@ -8001,7 +7681,6 @@ export const OptimismSepolia: HbChain = {
 export const Optopia: HbChain = {
   id: 62050,
   name: "Optopia",
-  logoURI: "https://chainlist.org/unknown-logo.png",
   nativeCurrency: {
   name: "Ether",
   symbol: "ETH",
@@ -8025,7 +7704,6 @@ export const Optopia: HbChain = {
 export const OptopiaTestnet: HbChain = {
   id: 62049,
   name: "Optopia Testnet",
-  logoURI: "https://chainlist.org/unknown-logo.png",
   nativeCurrency: {
   name: "Ether",
   symbol: "ETH",
@@ -8049,7 +7727,6 @@ export const OptopiaTestnet: HbChain = {
 export const Orderly: HbChain = {
   id: 291,
   name: "Orderly",
-  logoURI: "https://chainlist.org/unknown-logo.png",
   nativeCurrency: {
   name: "Ether",
   symbol: "ETH",
@@ -8073,7 +7750,6 @@ export const Orderly: HbChain = {
 export const OrderlySepolia: HbChain = {
   id: 4460,
   name: "Orderly Sepolia",
-  logoURI: "https://chainlist.org/unknown-logo.png",
   nativeCurrency: {
   name: "Ether",
   symbol: "ETH",
@@ -8097,7 +7773,6 @@ export const OrderlySepolia: HbChain = {
 export const OtimDevnet: HbChain = {
   id: 41144114,
   name: "Otim Devnet",
-  logoURI: "https://chainlist.org/unknown-logo.png",
   nativeCurrency: {
   decimals: 18,
   name: "ETH",
@@ -8115,7 +7790,6 @@ export const OtimDevnet: HbChain = {
 export const Palm: HbChain = {
   id: 11297108109,
   name: "Palm",
-  logoURI: "https://icons.llamao.fi/icons/chains/rsz_palm.jpg",
   nativeCurrency: {
   decimals: 18,
   name: "PALM",
@@ -8142,7 +7816,6 @@ export const Palm: HbChain = {
 export const PalmTestnet: HbChain = {
   id: 11297108099,
   name: "Palm Testnet",
-  logoURI: "https://chainlist.org/unknown-logo.png",
   nativeCurrency: {
   decimals: 18,
   name: "PALM",
@@ -8169,7 +7842,6 @@ export const PalmTestnet: HbChain = {
 export const Pgn: HbChain = {
   id: 424,
   name: "PGN",
-  logoURI: "https://chainlist.org/unknown-logo.png",
   nativeCurrency: {
   name: "Ether",
   symbol: "ETH",
@@ -8194,7 +7866,6 @@ export const Pgn: HbChain = {
 export const PgnTestnet: HbChain = {
   id: 58008,
   name: "PGN ",
-  logoURI: "https://chainlist.org/unknown-logo.png",
   nativeCurrency: {
   name: "Ether",
   symbol: "ETH",
@@ -8219,7 +7890,6 @@ export const PgnTestnet: HbChain = {
 export const Phoenix: HbChain = {
   id: 13381,
   name: "Phoenix Blockchain",
-  logoURI: "https://chainlist.org/unknown-logo.png",
   nativeCurrency: {
   name: "Phoenix",
   symbol: "PHX",
@@ -8244,7 +7914,6 @@ export const Phoenix: HbChain = {
 export const Planq: HbChain = {
   id: 7070,
   name: "Planq Mainnet",
-  logoURI: "https://icons.llamao.fi/icons/chains/rsz_planq.jpg",
   nativeCurrency: {
   decimals: 18,
   name: "PLQ",
@@ -8268,7 +7937,6 @@ export const Planq: HbChain = {
 export const PlayfiAlbireo: HbChain = {
   id: 1612127,
   name: "PlayFi Albireo Testnet",
-  logoURI: "https://chainlist.org/unknown-logo.png",
   nativeCurrency: {
   name: "Ether",
   symbol: "ETH",
@@ -8295,7 +7963,6 @@ export const PlayfiAlbireo: HbChain = {
 export const Plinga: HbChain = {
   id: 242,
   name: "Plinga",
-  logoURI: "https://chainlist.org/unknown-logo.png",
   nativeCurrency: {
   name: "Plinga",
   symbol: "PLINGA",
@@ -8319,7 +7986,6 @@ export const Plinga: HbChain = {
 export const Plume: HbChain = {
   id: 98865,
   name: "Plume Mainnet",
-  logoURI: "https://chainlist.org/unknown-logo.png",
   nativeCurrency: {
   name: "Plume Ether",
   symbol: "ETH",
@@ -8347,7 +8013,6 @@ export const Plume: HbChain = {
 export const PlumeDevnet: HbChain = {
   id: 98864,
   name: "Plume Devnet",
-  logoURI: "https://chainlist.org/unknown-logo.png",
   nativeCurrency: {
   name: "Plume Sepolia Ether",
   symbol: "ETH",
@@ -8375,7 +8040,6 @@ export const PlumeDevnet: HbChain = {
 export const PlumeTestnet: HbChain = {
   id: 161221135,
   name: "Plume Testnet",
-  logoURI: "https://chainlist.org/unknown-logo.png",
   nativeCurrency: {
   name: "Plume Sepolia Ether",
   symbol: "ETH",
@@ -8403,7 +8067,6 @@ export const PlumeTestnet: HbChain = {
 export const PolterTestnet: HbChain = {
   id: 631571,
   name: "Polter Testnet",
-  logoURI: "https://chainlist.org/unknown-logo.png",
   nativeCurrency: {
   decimals: 18,
   name: "Polter GHST",
@@ -8427,7 +8090,6 @@ export const PolterTestnet: HbChain = {
 export const Polygon: HbChain = {
   id: 137,
   name: "Polygon",
-  logoURI: "https://icons.llamao.fi/icons/chains/rsz_polygon.jpg",
   nativeCurrency: {
   name: "POL",
   symbol: "POL",
@@ -8452,7 +8114,6 @@ export const Polygon: HbChain = {
 export const PolygonAmoy: HbChain = {
   id: 80002,
   name: "Polygon Amoy",
-  logoURI: "https://chainlist.org/unknown-logo.png",
   nativeCurrency: {
   name: "POL",
   symbol: "POL",
@@ -8477,7 +8138,6 @@ export const PolygonAmoy: HbChain = {
 export const PolygonMumbai: HbChain = {
   id: 80001,
   name: "Polygon Mumbai",
-  logoURI: "https://chainlist.org/unknown-logo.png",
   nativeCurrency: {
   name: "MATIC",
   symbol: "MATIC",
@@ -8502,7 +8162,6 @@ export const PolygonMumbai: HbChain = {
 export const PolygonZkEvm: HbChain = {
   id: 1101,
   name: "Polygon zkEVM",
-  logoURI: "https://icons.llamao.fi/icons/chains/rsz_polygon%20zkevm.jpg",
   nativeCurrency: {
   name: "Ether",
   symbol: "ETH",
@@ -8527,7 +8186,6 @@ export const PolygonZkEvm: HbChain = {
 export const PolygonZkEvmCardona: HbChain = {
   id: 2442,
   name: "Polygon zkEVM Cardona",
-  logoURI: "https://chainlist.org/unknown-logo.png",
   nativeCurrency: {
   name: "Ether",
   symbol: "ETH",
@@ -8552,7 +8210,6 @@ export const PolygonZkEvmCardona: HbChain = {
 export const PolygonZkEvmTestnet: HbChain = {
   id: 1442,
   name: "Polygon zkEVM Testnet",
-  logoURI: "https://chainlist.org/unknown-logo.png",
   nativeCurrency: {
   name: "Ether",
   symbol: "ETH",
@@ -8577,7 +8234,6 @@ export const PolygonZkEvmTestnet: HbChain = {
 export const Pulsechain: HbChain = {
   id: 369,
   name: "PulseChain",
-  logoURI: "https://icons.llamao.fi/icons/chains/rsz_pulse.jpg",
   nativeCurrency: {
   name: "Pulse",
   symbol: "PLS",
@@ -8605,7 +8261,6 @@ export const Pulsechain: HbChain = {
 export const PulsechainV4: HbChain = {
   id: 943,
   name: "PulseChain V4",
-  logoURI: "https://chainlist.org/unknown-logo.png",
   nativeCurrency: {
   name: "V4 Pulse",
   symbol: "v4PLS",
@@ -8633,7 +8288,6 @@ export const PulsechainV4: HbChain = {
 export const Ql1: HbChain = {
   id: 766,
   name: "QL1",
-  logoURI: "https://chainlist.org/unknown-logo.png",
   nativeCurrency: {
   decimals: 18,
   name: "QOM",
@@ -8657,7 +8311,6 @@ export const Ql1: HbChain = {
 export const QMainnet: HbChain = {
   id: 35441,
   name: "Q Mainnet",
-  logoURI: "https://chainlist.org/unknown-logo.png",
   nativeCurrency: {
   decimals: 18,
   name: "Q",
@@ -8682,7 +8335,6 @@ export const QMainnet: HbChain = {
 export const QTestnet: HbChain = {
   id: 35443,
   name: "Q Testnet",
-  logoURI: "https://chainlist.org/unknown-logo.png",
   nativeCurrency: {
   decimals: 18,
   name: "Q",
@@ -8707,7 +8359,6 @@ export const QTestnet: HbChain = {
 export const Real: HbChain = {
   id: 111188,
   name: "re.al",
-  logoURI: "https://icons.llamao.fi/icons/chains/rsz_real.jpg",
   nativeCurrency: {
   name: "reETH",
   decimals: 18,
@@ -8732,7 +8383,6 @@ export const Real: HbChain = {
 export const RedbellyMainnet: HbChain = {
   id: 151,
   name: "Redbelly Network Mainnet",
-  logoURI: "https://icons.llamao.fi/icons/chains/rsz_rbn.jpg",
   nativeCurrency: {
   name: "Redbelly Native Coin",
   symbol: "RBNT",
@@ -8757,7 +8407,6 @@ export const RedbellyMainnet: HbChain = {
 export const RedbellyTestnet: HbChain = {
   id: 153,
   name: "Redbelly Network Testnet",
-  logoURI: "https://chainlist.org/unknown-logo.png",
   nativeCurrency: {
   name: "Redbelly Native Coin",
   symbol: "RBNT",
@@ -8782,7 +8431,6 @@ export const RedbellyTestnet: HbChain = {
 export const Redstone: HbChain = {
   id: 690,
   name: "Redstone",
-  logoURI: "https://icons.llamao.fi/icons/chains/rsz_redstone.jpg",
   nativeCurrency: {
   decimals: 18,
   name: "Ether",
@@ -8809,7 +8457,6 @@ export const Redstone: HbChain = {
 export const Rei: HbChain = {
   id: 47805,
   name: "REI Mainnet",
-  logoURI: "https://icons.llamao.fi/icons/chains/rsz_rei.jpg",
   nativeCurrency: {
   decimals: 18,
   name: "REI",
@@ -8836,7 +8483,6 @@ export const Rei: HbChain = {
 export const ReyaNetwork: HbChain = {
   id: 1729,
   name: "Reya Network",
-  logoURI: "https://icons.llamao.fi/icons/chains/rsz_reya%20network.jpg",
   nativeCurrency: {
   decimals: 18,
   name: "Ether",
@@ -8863,7 +8509,6 @@ export const ReyaNetwork: HbChain = {
 export const ReddioSepolia: HbChain = {
   id: 50341,
   name: "Reddio Sepolia",
-  logoURI: "https://chainlist.org/unknown-logo.png",
   nativeCurrency: {
   name: "Reddio",
   symbol: "RED",
@@ -8888,7 +8533,6 @@ export const ReddioSepolia: HbChain = {
 export const Rivalz: HbChain = {
   id: 753,
   name: "Rivalz",
-  logoURI: "https://chainlist.org/unknown-logo.png",
   nativeCurrency: {
   decimals: 18,
   name: "Ether",
@@ -8912,7 +8556,6 @@ export const Rivalz: HbChain = {
 export const Rollux: HbChain = {
   id: 570,
   name: "Rollux Mainnet",
-  logoURI: "https://icons.llamao.fi/icons/chains/rsz_rollux.jpg",
   nativeCurrency: {
   decimals: 18,
   name: "Syscoin",
@@ -8940,7 +8583,6 @@ export const Rollux: HbChain = {
 export const RolluxTestnet: HbChain = {
   id: 57000,
   name: "Rollux Testnet",
-  logoURI: "https://chainlist.org/unknown-logo.png",
   nativeCurrency: {
   decimals: 18,
   name: "Syscoin",
@@ -8968,7 +8610,6 @@ export const RolluxTestnet: HbChain = {
 export const Ronin: HbChain = {
   id: 2020,
   name: "Ronin",
-  logoURI: "https://chainlist.org/unknown-logo.png",
   nativeCurrency: {
   name: "RON",
   symbol: "RON",
@@ -8992,7 +8633,6 @@ export const Ronin: HbChain = {
 export const Root: HbChain = {
   id: 7668,
   name: "The Root Network",
-  logoURI: "https://chainlist.org/unknown-logo.png",
   nativeCurrency: {
   decimals: 18,
   name: "XRP",
@@ -9019,7 +8659,6 @@ export const Root: HbChain = {
 export const RootPorcini: HbChain = {
   id: 7672,
   name: "The Root Network - Porcini",
-  logoURI: "https://chainlist.org/unknown-logo.png",
   nativeCurrency: {
   decimals: 18,
   name: "XRP",
@@ -9046,7 +8685,6 @@ export const RootPorcini: HbChain = {
 export const Rootstock: HbChain = {
   id: 30,
   name: "Rootstock Mainnet",
-  logoURI: "https://icons.llamao.fi/icons/chains/rsz_rsk.jpg",
   nativeCurrency: {
   decimals: 18,
   name: "Rootstock Bitcoin",
@@ -9070,7 +8708,6 @@ export const Rootstock: HbChain = {
 export const RootstockTestnet: HbChain = {
   id: 31,
   name: "Rootstock Testnet",
-  logoURI: "https://chainlist.org/unknown-logo.png",
   nativeCurrency: {
   decimals: 18,
   name: "Rootstock Bitcoin",
@@ -9094,7 +8731,6 @@ export const RootstockTestnet: HbChain = {
 export const Rss3: HbChain = {
   id: 12553,
   name: "RSS3 VSL Mainnet",
-  logoURI: "https://chainlist.org/unknown-logo.png",
   nativeCurrency: {
   name: "RSS3",
   symbol: "RSS3",
@@ -9119,7 +8755,6 @@ export const Rss3: HbChain = {
 export const Rss3Sepolia: HbChain = {
   id: 2331,
   name: "RSS3 VSL Sepolia Testnet",
-  logoURI: "https://chainlist.org/unknown-logo.png",
   nativeCurrency: {
   name: "RSS3",
   symbol: "RSS3",
@@ -9144,7 +8779,6 @@ export const Rss3Sepolia: HbChain = {
 export const Saakuru: HbChain = {
   id: 7225878,
   name: "Saakuru Mainnet",
-  logoURI: "https://icons.llamao.fi/icons/chains/rsz_saakuru.jpg",
   nativeCurrency: {
   name: "OAS",
   symbol: "OAS",
@@ -9168,7 +8802,6 @@ export const Saakuru: HbChain = {
 export const Saga: HbChain = {
   id: 5464,
   name: "Saga",
-  logoURI: "https://chainlist.org/unknown-logo.png",
   nativeCurrency: {
   decimals: 18,
   name: "gas",
@@ -9192,7 +8825,6 @@ export const Saga: HbChain = {
 export const Saigon: HbChain = {
   id: 2021,
   name: "Saigon Testnet",
-  logoURI: "https://chainlist.org/unknown-logo.png",
   nativeCurrency: {
   name: "RON",
   symbol: "RON",
@@ -9216,7 +8848,6 @@ export const Saigon: HbChain = {
 export const Sanko: HbChain = {
   id: 1996,
   name: "Sanko",
-  logoURI: "https://icons.llamao.fi/icons/chains/rsz_sanko.jpg",
   nativeCurrency: {
   name: "DMT",
   symbol: "DMT",
@@ -9240,7 +8871,6 @@ export const Sanko: HbChain = {
 export const Sapphire: HbChain = {
   id: 23294,
   name: "Oasis Sapphire",
-  logoURI: "https://icons.llamao.fi/icons/chains/rsz_sapphire.jpg",
   nativeCurrency: {
   name: "Sapphire Rose",
   symbol: "ROSE",
@@ -9267,7 +8897,6 @@ export const Sapphire: HbChain = {
 export const SapphireTestnet: HbChain = {
   id: 23295,
   name: "Oasis Sapphire Testnet",
-  logoURI: "https://chainlist.org/unknown-logo.png",
   nativeCurrency: {
   name: "Sapphire Test Rose",
   symbol: "TEST",
@@ -9294,7 +8923,6 @@ export const SapphireTestnet: HbChain = {
 export const SatoshiVM: HbChain = {
   id: 3109,
   name: "SatoshiVM Alpha Mainnet",
-  logoURI: "https://chainlist.org/unknown-logo.png",
   nativeCurrency: {
   name: "BTC",
   symbol: "BTC",
@@ -9319,7 +8947,6 @@ export const SatoshiVM: HbChain = {
 export const SatoshiVMTestnet: HbChain = {
   id: 3110,
   name: "SatoshiVM Testnet",
-  logoURI: "https://chainlist.org/unknown-logo.png",
   nativeCurrency: {
   name: "BTC",
   symbol: "BTC",
@@ -9344,7 +8971,6 @@ export const SatoshiVMTestnet: HbChain = {
 export const ScrollSepolia: HbChain = {
   id: 534351,
   name: "Scroll Sepolia",
-  logoURI: "https://chainlist.org/unknown-logo.png",
   nativeCurrency: {
   name: "Ether",
   symbol: "ETH",
@@ -9369,7 +8995,6 @@ export const ScrollSepolia: HbChain = {
 export const Sei: HbChain = {
   id: 1329,
   name: "Sei Network",
-  logoURI: "https://icons.llamao.fi/icons/chains/rsz_sei.jpg",
   nativeCurrency: {
   name: "Sei",
   symbol: "SEI",
@@ -9397,7 +9022,6 @@ export const Sei: HbChain = {
 export const SeiDevnet: HbChain = {
   id: 713715,
   name: "Sei Devnet",
-  logoURI: "https://chainlist.org/unknown-logo.png",
   nativeCurrency: {
   name: "Sei",
   symbol: "SEI",
@@ -9421,7 +9045,6 @@ export const SeiDevnet: HbChain = {
 export const SeiTestnet: HbChain = {
   id: 1328,
   name: "Sei Testnet",
-  logoURI: "https://chainlist.org/unknown-logo.png",
   nativeCurrency: {
   name: "Sei",
   symbol: "SEI",
@@ -9448,7 +9071,6 @@ export const SeiTestnet: HbChain = {
 export const Sepolia: HbChain = {
   id: 11155111,
   name: "Sepolia",
-  logoURI: "https://chainlist.org/unknown-logo.png",
   nativeCurrency: {
   name: "Sepolia Ether",
   symbol: "ETH",
@@ -9473,7 +9095,6 @@ export const Sepolia: HbChain = {
 export const Shape: HbChain = {
   id: 360,
   name: "Shape",
-  logoURI: "https://chainlist.org/unknown-logo.png",
   nativeCurrency: {
   name: "Ether",
   symbol: "ETH",
@@ -9498,7 +9119,6 @@ export const Shape: HbChain = {
 export const ShapeSepolia: HbChain = {
   id: 11011,
   name: "Shape Sepolia Testnet",
-  logoURI: "https://chainlist.org/unknown-logo.png",
   nativeCurrency: {
   name: "Sepolia Ether",
   symbol: "ETH",
@@ -9523,7 +9143,6 @@ export const ShapeSepolia: HbChain = {
 export const ShardeumSphinx: HbChain = {
   id: 8082,
   name: "Shardeum Sphinx",
-  logoURI: "https://chainlist.org/unknown-logo.png",
   nativeCurrency: {
   name: "SHARDEUM",
   symbol: "SHM",
@@ -9547,7 +9166,6 @@ export const ShardeumSphinx: HbChain = {
 export const Shibarium: HbChain = {
   id: 109,
   name: "Shibarium",
-  logoURI: "https://chainlist.org/unknown-logo.png",
   nativeCurrency: {
   name: "Bone",
   symbol: "BONE",
@@ -9571,7 +9189,6 @@ export const Shibarium: HbChain = {
 export const ShibariumTestnet: HbChain = {
   id: 157,
   name: "Puppynet Shibarium",
-  logoURI: "https://chainlist.org/unknown-logo.png",
   nativeCurrency: {
   decimals: 18,
   name: "Bone",
@@ -9596,7 +9213,6 @@ export const ShibariumTestnet: HbChain = {
 export const Shiden: HbChain = {
   id: 336,
   name: "Shiden",
-  logoURI: "https://icons.llamao.fi/icons/chains/rsz_shiden.jpg",
   nativeCurrency: {
   decimals: 18,
   name: "SDN",
@@ -9623,7 +9239,6 @@ export const Shiden: HbChain = {
 export const Shimmer: HbChain = {
   id: 148,
   name: "Shimmer",
-  logoURI: "https://icons.llamao.fi/icons/chains/rsz_shimmer_evm.jpg",
   nativeCurrency: {
   decimals: 18,
   name: "Shimmer",
@@ -9648,7 +9263,6 @@ export const Shimmer: HbChain = {
 export const ShimmerTestnet: HbChain = {
   id: 1073,
   name: "Shimmer Testnet",
-  logoURI: "https://chainlist.org/unknown-logo.png",
   nativeCurrency: {
   decimals: 18,
   name: "Shimmer",
@@ -9673,7 +9287,6 @@ export const ShimmerTestnet: HbChain = {
 export const Silicon: HbChain = {
   id: 2355,
   name: "Silicon zkEVM",
-  logoURI: "https://chainlist.org/unknown-logo.png",
   nativeCurrency: {
   name: "Ether",
   symbol: "ETH",
@@ -9698,7 +9311,6 @@ export const Silicon: HbChain = {
 export const SiliconSepolia: HbChain = {
   id: 1722641160,
   name: "Silicon Sepolia zkEVM",
-  logoURI: "https://chainlist.org/unknown-logo.png",
   nativeCurrency: {
   name: "Ether",
   symbol: "ETH",
@@ -9723,7 +9335,6 @@ export const SiliconSepolia: HbChain = {
 export const SixProtocol: HbChain = {
   id: 98,
   name: "Six Protocol",
-  logoURI: "https://chainlist.org/unknown-logo.png",
   nativeCurrency: {
   decimals: 18,
   name: "SIX",
@@ -9747,7 +9358,6 @@ export const SixProtocol: HbChain = {
 export const SkaleBlockBrawlers: HbChain = {
   id: 391845894,
   name: "SKALE | Block Brawlers",
-  logoURI: "https://chainlist.org/unknown-logo.png",
   nativeCurrency: {
   name: "BRAWL",
   symbol: "BRAWL",
@@ -9774,7 +9384,6 @@ export const SkaleBlockBrawlers: HbChain = {
 export const SkaleCalypso: HbChain = {
   id: 1564830818,
   name: "SKALE | Calypso NFT Hub",
-  logoURI: "https://chainlist.org/unknown-logo.png",
   nativeCurrency: {
   name: "sFUEL",
   symbol: "sFUEL",
@@ -9801,7 +9410,6 @@ export const SkaleCalypso: HbChain = {
 export const SkaleCalypsoTestnet: HbChain = {
   id: 974399131,
   name: "SKALE Calypso Testnet",
-  logoURI: "https://chainlist.org/unknown-logo.png",
   nativeCurrency: {
   name: "sFUEL",
   symbol: "sFUEL",
@@ -9828,7 +9436,6 @@ export const SkaleCalypsoTestnet: HbChain = {
 export const SkaleCryptoBlades: HbChain = {
   id: 1026062157,
   name: "SKALE | CryptoBlades",
-  logoURI: "https://chainlist.org/unknown-logo.png",
   nativeCurrency: {
   name: "sFUEL",
   symbol: "sFUEL",
@@ -9855,7 +9462,6 @@ export const SkaleCryptoBlades: HbChain = {
 export const SkaleCryptoColosseum: HbChain = {
   id: 1032942172,
   name: "SKALE | Crypto Colosseum",
-  logoURI: "https://chainlist.org/unknown-logo.png",
   nativeCurrency: {
   name: "sFUEL",
   symbol: "sFUEL",
@@ -9882,7 +9488,6 @@ export const SkaleCryptoColosseum: HbChain = {
 export const SkaleEuropa: HbChain = {
   id: 2046399126,
   name: "SKALE | Europa Liquidity Hub",
-  logoURI: "https://chainlist.org/unknown-logo.png",
   nativeCurrency: {
   name: "sFUEL",
   symbol: "sFUEL",
@@ -9909,7 +9514,6 @@ export const SkaleEuropa: HbChain = {
 export const SkaleEuropaTestnet: HbChain = {
   id: 1444673419,
   name: "SKALE Europa Testnet",
-  logoURI: "https://chainlist.org/unknown-logo.png",
   nativeCurrency: {
   name: "sFUEL",
   symbol: "sFUEL",
@@ -9936,7 +9540,6 @@ export const SkaleEuropaTestnet: HbChain = {
 export const SkaleExorde: HbChain = {
   id: 2139927552,
   name: "SKALE | Exorde",
-  logoURI: "https://chainlist.org/unknown-logo.png",
   nativeCurrency: {
   name: "sFUEL",
   symbol: "sFUEL",
@@ -9963,7 +9566,6 @@ export const SkaleExorde: HbChain = {
 export const SkaleHumanProtocol: HbChain = {
   id: 1273227453,
   name: "SKALE | Human Protocol",
-  logoURI: "https://chainlist.org/unknown-logo.png",
   nativeCurrency: {
   name: "sFUEL",
   symbol: "sFUEL",
@@ -9990,7 +9592,6 @@ export const SkaleHumanProtocol: HbChain = {
 export const SkaleNebula: HbChain = {
   id: 1482601649,
   name: "SKALE | Nebula Gaming Hub",
-  logoURI: "https://chainlist.org/unknown-logo.png",
   nativeCurrency: {
   name: "sFUEL",
   symbol: "sFUEL",
@@ -10017,7 +9618,6 @@ export const SkaleNebula: HbChain = {
 export const SkaleNebulaTestnet: HbChain = {
   id: 37084624,
   name: "SKALE Nebula Testnet",
-  logoURI: "https://chainlist.org/unknown-logo.png",
   nativeCurrency: {
   name: "sFUEL",
   symbol: "sFUEL",
@@ -10044,7 +9644,6 @@ export const SkaleNebulaTestnet: HbChain = {
 export const SkaleRazor: HbChain = {
   id: 278611351,
   name: "SKALE | Razor Network",
-  logoURI: "https://chainlist.org/unknown-logo.png",
   nativeCurrency: {
   name: "sFUEL",
   symbol: "sFUEL",
@@ -10071,7 +9670,6 @@ export const SkaleRazor: HbChain = {
 export const SkaleTitan: HbChain = {
   id: 1350216234,
   name: "SKALE | Titan Community Hub",
-  logoURI: "https://chainlist.org/unknown-logo.png",
   nativeCurrency: {
   name: "sFUEL",
   symbol: "sFUEL",
@@ -10098,7 +9696,6 @@ export const SkaleTitan: HbChain = {
 export const SkaleTitanTestnet: HbChain = {
   id: 1020352220,
   name: "SKALE Titan Hub",
-  logoURI: "https://chainlist.org/unknown-logo.png",
   nativeCurrency: {
   name: "sFUEL",
   symbol: "sFUEL",
@@ -10125,7 +9722,6 @@ export const SkaleTitanTestnet: HbChain = {
 export const Sketchpad: HbChain = {
   id: 984123,
   name: "Forma Sketchpad",
-  logoURI: "https://chainlist.org/unknown-logo.png",
   nativeCurrency: {
   symbol: "TIA",
   name: "TIA",
@@ -10152,7 +9748,6 @@ export const Sketchpad: HbChain = {
 export const Snax: HbChain = {
   id: 2192,
   name: "SnaxChain",
-  logoURI: "https://chainlist.org/unknown-logo.png",
   nativeCurrency: {
   name: "Ether",
   symbol: "ETH",
@@ -10177,7 +9772,6 @@ export const Snax: HbChain = {
 export const SnaxTestnet: HbChain = {
   id: 13001,
   name: "SnaxChain Testnet",
-  logoURI: "https://chainlist.org/unknown-logo.png",
   nativeCurrency: {
   name: "Sepolia Ether",
   symbol: "ETH",
@@ -10202,7 +9796,6 @@ export const SnaxTestnet: HbChain = {
 export const Soneium: HbChain = {
   id: 1868,
   name: "Soneium Mainnet",
-  logoURI: "https://icons.llamao.fi/icons/chains/rsz_soneium.jpg",
   nativeCurrency: {
   name: "Ether",
   symbol: "ETH",
@@ -10227,7 +9820,6 @@ export const Soneium: HbChain = {
 export const SoneiumMinato: HbChain = {
   id: 1946,
   name: "Soneium Minato Testnet",
-  logoURI: "https://chainlist.org/unknown-logo.png",
   nativeCurrency: {
   name: "Sepolia Ether",
   symbol: "ETH",
@@ -10252,7 +9844,6 @@ export const SoneiumMinato: HbChain = {
 export const Sonic: HbChain = {
   id: 146,
   name: "Sonic",
-  logoURI: "https://icons.llamao.fi/icons/chains/rsz_sonic.jpg",
   nativeCurrency: {
   decimals: 18,
   name: "Sonic",
@@ -10276,7 +9867,6 @@ export const Sonic: HbChain = {
 export const SonicTestnet: HbChain = {
   id: 64165,
   name: "Sonic Testnet",
-  logoURI: "https://chainlist.org/unknown-logo.png",
   nativeCurrency: {
   decimals: 18,
   name: "Sonic",
@@ -10300,7 +9890,6 @@ export const SonicTestnet: HbChain = {
 export const Songbird: HbChain = {
   id: 19,
   name: "Songbird Canary-Network",
-  logoURI: "https://icons.llamao.fi/icons/chains/rsz_songbird.jpg",
   nativeCurrency: {
   decimals: 18,
   name: "Songbird",
@@ -10325,7 +9914,6 @@ export const Songbird: HbChain = {
 export const SongbirdTestnet: HbChain = {
   id: 16,
   name: "Songbird Testnet Coston",
-  logoURI: "https://chainlist.org/unknown-logo.png",
   nativeCurrency: {
   decimals: 18,
   name: "Coston Flare",
@@ -10350,7 +9938,6 @@ export const SongbirdTestnet: HbChain = {
 export const Sophon: HbChain = {
   id: 50104,
   name: "Sophon",
-  logoURI: "https://icons.llamao.fi/icons/chains/rsz_sophon.jpg",
   nativeCurrency: {
   decimals: 18,
   name: "Sophon",
@@ -10377,7 +9964,6 @@ export const Sophon: HbChain = {
 export const SophonTestnet: HbChain = {
   id: 531050104,
   name: "Sophon Testnet",
-  logoURI: "https://chainlist.org/unknown-logo.png",
   nativeCurrency: {
   decimals: 18,
   name: "Sophon",
@@ -10404,7 +9990,6 @@ export const SophonTestnet: HbChain = {
 export const Spicy: HbChain = {
   id: 88882,
   name: "Chiliz Spicy Testnet",
-  logoURI: "https://chainlist.org/unknown-logo.png",
   nativeCurrency: {
   decimals: 18,
   name: "CHZ",
@@ -10434,7 +10019,6 @@ export const Spicy: HbChain = {
 export const Step: HbChain = {
   id: 1234,
   name: "Step Network",
-  logoURI: "https://icons.llamao.fi/icons/chains/rsz_step.jpg",
   nativeCurrency: {
   name: "FITFI",
   symbol: "FITFI",
@@ -10458,7 +10042,6 @@ export const Step: HbChain = {
 export const StoryOdyssey: HbChain = {
   id: 1516,
   name: "Story Odyssey",
-  logoURI: "https://chainlist.org/unknown-logo.png",
   nativeCurrency: {
   decimals: 18,
   name: "IP",
@@ -10482,7 +10065,6 @@ export const StoryOdyssey: HbChain = {
 export const StoryTestnet: HbChain = {
   id: 1513,
   name: "Story Testnet",
-  logoURI: "https://chainlist.org/unknown-logo.png",
   nativeCurrency: {
   decimals: 18,
   name: "IP",
@@ -10506,7 +10088,6 @@ export const StoryTestnet: HbChain = {
 export const Stratis: HbChain = {
   id: 105105,
   name: "Stratis Mainnet",
-  logoURI: "https://icons.llamao.fi/icons/chains/rsz_stratis.jpg",
   nativeCurrency: {
   name: "Stratis",
   symbol: "STRAX",
@@ -10530,7 +10111,6 @@ export const Stratis: HbChain = {
 export const Superlumio: HbChain = {
   id: 8866,
   name: "SuperLumio",
-  logoURI: "https://chainlist.org/unknown-logo.png",
   nativeCurrency: {
   name: "Ether",
   symbol: "ETH",
@@ -10554,7 +10134,6 @@ export const Superlumio: HbChain = {
 export const Superposition: HbChain = {
   id: 55244,
   name: "Superposition",
-  logoURI: "https://icons.llamao.fi/icons/chains/rsz_superposition.jpg",
   nativeCurrency: {
   name: "Ether",
   symbol: "ETH",
@@ -10578,7 +10157,6 @@ export const Superposition: HbChain = {
 export const Superseed: HbChain = {
   id: 5330,
   name: "Superseed",
-  logoURI: "https://chainlist.org/unknown-logo.png",
   nativeCurrency: {
   name: "Ether",
   symbol: "ETH",
@@ -10603,7 +10181,6 @@ export const Superseed: HbChain = {
 export const SuperseedSepolia: HbChain = {
   id: 53302,
   name: "Superseed Sepolia",
-  logoURI: "https://chainlist.org/unknown-logo.png",
   nativeCurrency: {
   name: "Ether",
   symbol: "ETH",
@@ -10628,7 +10205,6 @@ export const SuperseedSepolia: HbChain = {
 export const Swan: HbChain = {
   id: 254,
   name: "Swan Chain Mainnet",
-  logoURI: "https://chainlist.org/unknown-logo.png",
   nativeCurrency: {
   name: "Ether",
   symbol: "ETH",
@@ -10652,7 +10228,6 @@ export const Swan: HbChain = {
 export const SwanProximaTestnet: HbChain = {
   id: 20241133,
   name: "Swan Proxima Testnet",
-  logoURI: "https://chainlist.org/unknown-logo.png",
   nativeCurrency: {
   name: "Swan Ether",
   symbol: "sETH",
@@ -10676,7 +10251,6 @@ export const SwanProximaTestnet: HbChain = {
 export const SwanSaturnTestnet: HbChain = {
   id: 2024,
   name: "Swan Saturn Testnet",
-  logoURI: "https://chainlist.org/unknown-logo.png",
   nativeCurrency: {
   name: "Swan Ether",
   symbol: "sETH",
@@ -10700,7 +10274,6 @@ export const SwanSaturnTestnet: HbChain = {
 export const Swellchain: HbChain = {
   id: 1923,
   name: "Swellchain",
-  logoURI: "https://icons.llamao.fi/icons/chains/rsz_swellchain.jpg",
   nativeCurrency: {
   name: "Ether",
   symbol: "ETH",
@@ -10726,7 +10299,6 @@ export const Swellchain: HbChain = {
 export const Swissdlt: HbChain = {
   id: 94,
   name: "SwissDLT Mainnet",
-  logoURI: "https://chainlist.org/unknown-logo.png",
   nativeCurrency: {
   decimals: 18,
   name: "BCTS",
@@ -10750,7 +10322,6 @@ export const Swissdlt: HbChain = {
 export const Syscoin: HbChain = {
   id: 57,
   name: "Syscoin Mainnet",
-  logoURI: "https://icons.llamao.fi/icons/chains/rsz_syscoin.jpg",
   nativeCurrency: {
   decimals: 18,
   name: "Syscoin",
@@ -10778,7 +10349,6 @@ export const Syscoin: HbChain = {
 export const SyscoinTestnet: HbChain = {
   id: 5700,
   name: "Syscoin Tanenbaum Testnet",
-  logoURI: "https://chainlist.org/unknown-logo.png",
   nativeCurrency: {
   decimals: 18,
   name: "Syscoin",
@@ -10805,7 +10375,6 @@ export const SyscoinTestnet: HbChain = {
 export const Taiko: HbChain = {
   id: 167000,
   name: "Taiko Mainnet",
-  logoURI: "https://icons.llamao.fi/icons/chains/rsz_taiko.jpg",
   nativeCurrency: {
   decimals: 18,
   name: "Ether",
@@ -10833,7 +10402,6 @@ export const Taiko: HbChain = {
 export const TaikoHekla: HbChain = {
   id: 167009,
   name: "Taiko Hekla L2",
-  logoURI: "https://chainlist.org/unknown-logo.png",
   nativeCurrency: {
   name: "Ether",
   symbol: "ETH",
@@ -10857,7 +10425,6 @@ export const TaikoHekla: HbChain = {
 export const TaikoJolnir: HbChain = {
   id: 167007,
   name: "Taiko Jolnir (Alpha-5 Testnet)",
-  logoURI: "https://chainlist.org/unknown-logo.png",
   nativeCurrency: {
   name: "Ether",
   symbol: "ETH",
@@ -10881,7 +10448,6 @@ export const TaikoJolnir: HbChain = {
 export const TaikoKatla: HbChain = {
   id: 167008,
   name: "Taiko Katla (Alpha-6 Testnet)",
-  logoURI: "https://chainlist.org/unknown-logo.png",
   nativeCurrency: {
   name: "Ether",
   symbol: "ETH",
@@ -10905,7 +10471,6 @@ export const TaikoKatla: HbChain = {
 export const TaikoTestnetSepolia: HbChain = {
   id: 167005,
   name: "Taiko (Alpha-3 Testnet)",
-  logoURI: "https://chainlist.org/unknown-logo.png",
   nativeCurrency: {
   name: "Ether",
   symbol: "ETH",
@@ -10929,7 +10494,6 @@ export const TaikoTestnetSepolia: HbChain = {
 export const Taraxa: HbChain = {
   id: 841,
   name: "Taraxa Mainnet",
-  logoURI: "https://icons.llamao.fi/icons/chains/rsz_tara.jpg",
   nativeCurrency: {
   name: "Tara",
   symbol: "TARA",
@@ -10953,7 +10517,6 @@ export const Taraxa: HbChain = {
 export const TaraxaTestnet: HbChain = {
   id: 842,
   name: "Taraxa Testnet",
-  logoURI: "https://chainlist.org/unknown-logo.png",
   nativeCurrency: {
   name: "Tara",
   symbol: "TARA",
@@ -10977,7 +10540,6 @@ export const TaraxaTestnet: HbChain = {
 export const TelcoinTestnet: HbChain = {
   id: 2017,
   name: "Telcoin Adiri Testnet",
-  logoURI: "https://chainlist.org/unknown-logo.png",
   nativeCurrency: {
   name: "Telcoin",
   symbol: "TEL",
@@ -11001,7 +10563,6 @@ export const TelcoinTestnet: HbChain = {
 export const Telos: HbChain = {
   id: 40,
   name: "Telos",
-  logoURI: "https://icons.llamao.fi/icons/chains/rsz_telos.jpg",
   nativeCurrency: {
   decimals: 18,
   name: "Telos",
@@ -11025,7 +10586,6 @@ export const Telos: HbChain = {
 export const TelosTestnet: HbChain = {
   id: 41,
   name: "Telos",
-  logoURI: "https://chainlist.org/unknown-logo.png",
   nativeCurrency: {
   decimals: 18,
   name: "Telos",
@@ -11049,7 +10609,6 @@ export const TelosTestnet: HbChain = {
 export const Tenet: HbChain = {
   id: 1559,
   name: "Tenet",
-  logoURI: "https://icons.llamao.fi/icons/chains/rsz_tenet.jpg",
   nativeCurrency: {
   name: "TENET",
   symbol: "TENET",
@@ -11074,7 +10633,6 @@ export const Tenet: HbChain = {
 export const Ternoa: HbChain = {
   id: 752025,
   name: "Ternoa",
-  logoURI: "https://chainlist.org/unknown-logo.png",
   nativeCurrency: {
   name: "Capsule Coin",
   symbol: "CAPS",
@@ -11098,7 +10656,6 @@ export const Ternoa: HbChain = {
 export const ThaiChain: HbChain = {
   id: 7,
   name: "ThaiChain",
-  logoURI: "https://chainlist.org/unknown-logo.png",
   nativeCurrency: {
   name: "TCH",
   symbol: "TCH",
@@ -11123,7 +10680,6 @@ export const ThaiChain: HbChain = {
 export const That: HbChain = {
   id: 8428,
   name: "THAT Mainnet",
-  logoURI: "https://icons.llamao.fi/icons/chains/rsz_that.jpg",
   nativeCurrency: {
   name: "THAT",
   symbol: "THAT",
@@ -11147,7 +10703,6 @@ export const That: HbChain = {
 export const Theta: HbChain = {
   id: 361,
   name: "Theta Mainnet",
-  logoURI: "https://icons.llamao.fi/icons/chains/rsz_theta.jpg",
   nativeCurrency: {
   name: "TFUEL",
   symbol: "TFUEL",
@@ -11171,7 +10726,6 @@ export const Theta: HbChain = {
 export const ThetaTestnet: HbChain = {
   id: 365,
   name: "Theta Testnet",
-  logoURI: "https://chainlist.org/unknown-logo.png",
   nativeCurrency: {
   name: "TFUEL",
   symbol: "TFUEL",
@@ -11195,7 +10749,6 @@ export const ThetaTestnet: HbChain = {
 export const ThunderCore: HbChain = {
   id: 108,
   name: "ThunderCore Mainnet",
-  logoURI: "https://icons.llamao.fi/icons/chains/rsz_thundercore.jpg",
   nativeCurrency: {
   name: "TT",
   symbol: "TT",
@@ -11219,7 +10772,6 @@ export const ThunderCore: HbChain = {
 export const ThunderTestnet: HbChain = {
   id: 997,
   name: "5ireChain Thunder Testnet",
-  logoURI: "https://chainlist.org/unknown-logo.png",
   nativeCurrency: {
   name: "5ire Token",
   symbol: "5IRE",
@@ -11243,7 +10795,6 @@ export const ThunderTestnet: HbChain = {
 export const TiktrixTestnet: HbChain = {
   id: 62092,
   name: "TikTrix Testnet",
-  logoURI: "https://chainlist.org/unknown-logo.png",
   nativeCurrency: {
   name: "tTTX",
   symbol: "tTTX",
@@ -11267,7 +10818,6 @@ export const TiktrixTestnet: HbChain = {
 export const Tomb: HbChain = {
   id: 6969,
   name: "Tomb Mainnet",
-  logoURI: "https://icons.llamao.fi/icons/chains/rsz_tombchain.jpg",
   nativeCurrency: {
   name: "TOMB",
   symbol: "TOMB",
@@ -11291,7 +10841,6 @@ export const Tomb: HbChain = {
 export const Treasure: HbChain = {
   id: 61166,
   name: "Treasure",
-  logoURI: "https://chainlist.org/unknown-logo.png",
   nativeCurrency: {
   decimals: 18,
   name: "MAGIC",
@@ -11318,7 +10867,6 @@ export const Treasure: HbChain = {
 export const TreasureTopaz: HbChain = {
   id: 978658,
   name: "Treasure Topaz Testnet",
-  logoURI: "https://chainlist.org/unknown-logo.png",
   nativeCurrency: {
   decimals: 18,
   name: "MAGIC",
@@ -11345,7 +10893,6 @@ export const TreasureTopaz: HbChain = {
 export const Tron: HbChain = {
   id: 728126428,
   name: "Tron",
-  logoURI: "https://chainlist.org/unknown-logo.png",
   nativeCurrency: {
   name: "TRON",
   symbol: "TRX",
@@ -11370,7 +10917,6 @@ export const Tron: HbChain = {
 export const Ubiq: HbChain = {
   id: 8,
   name: "Ubiq Mainnet",
-  logoURI: "https://icons.llamao.fi/icons/chains/rsz_ubiq.jpg",
   nativeCurrency: {
   name: "UBQ",
   symbol: "UBQ",
@@ -11394,7 +10940,6 @@ export const Ubiq: HbChain = {
 export const UltraTestnet: HbChain = {
   id: 18881,
   name: "Ultra EVM Testnet",
-  logoURI: "https://chainlist.org/unknown-logo.png",
   nativeCurrency: {
   decimals: 18,
   name: "Ultra Token",
@@ -11418,7 +10963,6 @@ export const UltraTestnet: HbChain = {
 export const Ultron: HbChain = {
   id: 1231,
   name: "Ultron Mainnet",
-  logoURI: "https://icons.llamao.fi/icons/chains/rsz_ultron.jpg",
   nativeCurrency: {
   name: "ULX",
   symbol: "ULX",
@@ -11442,7 +10986,6 @@ export const Ultron: HbChain = {
 export const UltronTestnet: HbChain = {
   id: 1230,
   name: "Ultron Testnet",
-  logoURI: "https://chainlist.org/unknown-logo.png",
   nativeCurrency: {
   name: "ULX",
   symbol: "ULX",
@@ -11466,7 +11009,6 @@ export const UltronTestnet: HbChain = {
 export const UnichainSepolia: HbChain = {
   id: 1301,
   name: "Unichain Sepolia",
-  logoURI: "https://chainlist.org/unknown-logo.png",
   nativeCurrency: {
   name: "Ether",
   symbol: "ETH",
@@ -11491,7 +11033,6 @@ export const UnichainSepolia: HbChain = {
 export const Unique: HbChain = {
   id: 8880,
   name: "Unique Mainnet",
-  logoURI: "https://chainlist.org/unknown-logo.png",
   nativeCurrency: {
   decimals: 18,
   name: "UNQ",
@@ -11515,7 +11056,6 @@ export const Unique: HbChain = {
 export const UniqueOpal: HbChain = {
   id: 8882,
   name: "Opal Testnet",
-  logoURI: "https://chainlist.org/unknown-logo.png",
   nativeCurrency: {
   decimals: 18,
   name: "OPL",
@@ -11539,7 +11079,6 @@ export const UniqueOpal: HbChain = {
 export const UniqueQuartz: HbChain = {
   id: 8881,
   name: "Quartz Mainnet",
-  logoURI: "https://chainlist.org/unknown-logo.png",
   nativeCurrency: {
   decimals: 18,
   name: "QTZ",
@@ -11563,7 +11102,6 @@ export const UniqueQuartz: HbChain = {
 export const Unreal: HbChain = {
   id: 18233,
   name: "Unreal",
-  logoURI: "https://chainlist.org/unknown-logo.png",
   nativeCurrency: {
   name: "reETH",
   decimals: 18,
@@ -11588,7 +11126,6 @@ export const Unreal: HbChain = {
 export const Vanar: HbChain = {
   id: 2040,
   name: "Vanar Mainnet",
-  logoURI: "https://chainlist.org/unknown-logo.png",
   nativeCurrency: {
   name: "VANRY",
   symbol: "VANRY",
@@ -11612,7 +11149,6 @@ export const Vanar: HbChain = {
 export const Vechain: HbChain = {
   id: 100009,
   name: "Vechain",
-  logoURI: "https://chainlist.org/unknown-logo.png",
   nativeCurrency: {
   name: "VeChain",
   symbol: "VET",
@@ -11640,7 +11176,6 @@ export const Vechain: HbChain = {
 export const Velas: HbChain = {
   id: 106,
   name: "Velas EVM Mainnet",
-  logoURI: "https://icons.llamao.fi/icons/chains/rsz_velas.jpg",
   nativeCurrency: {
   name: "VLX",
   symbol: "VLX",
@@ -11664,7 +11199,6 @@ export const Velas: HbChain = {
 export const Viction: HbChain = {
   id: 88,
   name: "Viction",
-  logoURI: "https://icons.llamao.fi/icons/chains/rsz_tomochain.jpg",
   nativeCurrency: {
   name: "Viction",
   symbol: "VIC",
@@ -11688,7 +11222,6 @@ export const Viction: HbChain = {
 export const VictionTestnet: HbChain = {
   id: 89,
   name: "Viction Testnet",
-  logoURI: "https://chainlist.org/unknown-logo.png",
   nativeCurrency: {
   name: "Viction",
   symbol: "VIC",
@@ -11712,7 +11245,6 @@ export const VictionTestnet: HbChain = {
 export const Vision: HbChain = {
   id: 888888,
   name: "Vision",
-  logoURI: "https://icons.llamao.fi/icons/chains/rsz_vision.jpg",
   nativeCurrency: {
   name: "VISION",
   symbol: "VS",
@@ -11736,7 +11268,6 @@ export const Vision: HbChain = {
 export const VisionTestnet: HbChain = {
   id: 666666,
   name: "Vision Testnet",
-  logoURI: "https://chainlist.org/unknown-logo.png",
   nativeCurrency: {
   name: "VISION",
   symbol: "VS",
@@ -11760,7 +11291,6 @@ export const VisionTestnet: HbChain = {
 export const Wanchain: HbChain = {
   id: 888,
   name: "Wanchain",
-  logoURI: "https://icons.llamao.fi/icons/chains/rsz_wanchain.jpg",
   nativeCurrency: {
   name: "WANCHAIN",
   symbol: "WAN",
@@ -11785,7 +11315,6 @@ export const Wanchain: HbChain = {
 export const WanchainTestnet: HbChain = {
   id: 999,
   name: "Wanchain Testnet",
-  logoURI: "https://chainlist.org/unknown-logo.png",
   nativeCurrency: {
   name: "WANCHAIN",
   symbol: "WANt",
@@ -11809,7 +11338,6 @@ export const WanchainTestnet: HbChain = {
 export const WeaveVMAlphanet: HbChain = {
   id: 9496,
   name: "WeaveVM Alphanet",
-  logoURI: "https://chainlist.org/unknown-logo.png",
   nativeCurrency: {
   name: "Testnet WeaveVM",
   symbol: "tWVM",
@@ -11833,7 +11361,6 @@ export const WeaveVMAlphanet: HbChain = {
 export const Wemix: HbChain = {
   id: 1111,
   name: "WEMIX",
-  logoURI: "https://chainlist.org/unknown-logo.png",
   nativeCurrency: {
   name: "WEMIX",
   symbol: "WEMIX",
@@ -11857,7 +11384,6 @@ export const Wemix: HbChain = {
 export const WemixTestnet: HbChain = {
   id: 1112,
   name: "WEMIX Testnet",
-  logoURI: "https://chainlist.org/unknown-logo.png",
   nativeCurrency: {
   name: "WEMIX",
   symbol: "tWEMIX",
@@ -11882,7 +11408,6 @@ export const WemixTestnet: HbChain = {
 export const Worldchain: HbChain = {
   id: 480,
   name: "World Chain",
-  logoURI: "https://icons.llamao.fi/icons/chains/rsz_wc.jpg",
   nativeCurrency: {
   name: "Ether",
   symbol: "ETH",
@@ -11912,7 +11437,6 @@ export const Worldchain: HbChain = {
 export const WorldchainSepolia: HbChain = {
   id: 4801,
   name: "World Chain Sepolia",
-  logoURI: "https://chainlist.org/unknown-logo.png",
   nativeCurrency: {
   name: "Ether",
   symbol: "ETH",
@@ -11946,7 +11470,6 @@ export const WorldchainSepolia: HbChain = {
 export const WorldLand: HbChain = {
   id: 103,
   name: "WorldLand Mainnet",
-  logoURI: "https://chainlist.org/unknown-logo.png",
   nativeCurrency: {
   decimals: 18,
   name: "WLC",
@@ -11970,7 +11493,6 @@ export const WorldLand: HbChain = {
 export const Xai: HbChain = {
   id: 660279,
   name: "Xai Mainnet",
-  logoURI: "https://chainlist.org/unknown-logo.png",
   nativeCurrency: {
   name: "Xai",
   symbol: "XAI",
@@ -11994,7 +11516,6 @@ export const Xai: HbChain = {
 export const XaiTestnet: HbChain = {
   id: 37714555429,
   name: "Xai Testnet",
-  logoURI: "https://chainlist.org/unknown-logo.png",
   nativeCurrency: {
   name: "sXai",
   symbol: "sXAI",
@@ -12018,7 +11539,6 @@ export const XaiTestnet: HbChain = {
 export const Xdc: HbChain = {
   id: 50,
   name: "XinFin Network",
-  logoURI: "https://icons.llamao.fi/icons/chains/rsz_xdc.jpg",
   nativeCurrency: {
   decimals: 18,
   name: "XDC",
@@ -12042,7 +11562,6 @@ export const Xdc: HbChain = {
 export const XdcTestnet: HbChain = {
   id: 51,
   name: "Apothem Network",
-  logoURI: "https://chainlist.org/unknown-logo.png",
   nativeCurrency: {
   decimals: 18,
   name: "TXDC",
@@ -12066,7 +11585,6 @@ export const XdcTestnet: HbChain = {
 export const XLayer: HbChain = {
   id: 196,
   name: "X Layer Mainnet",
-  logoURI: "https://icons.llamao.fi/icons/chains/rsz_xlayer.jpg",
   nativeCurrency: {
   decimals: 18,
   name: "OKB",
@@ -12091,7 +11609,6 @@ export const XLayer: HbChain = {
 export const X1Testnet: HbChain = {
   id: 195,
   name: "X1 Testnet",
-  logoURI: "https://chainlist.org/unknown-logo.png",
   nativeCurrency: {
   decimals: 18,
   name: "OKB",
@@ -12115,7 +11632,6 @@ export const X1Testnet: HbChain = {
 export const XLayerTestnet: HbChain = {
   id: 195,
   name: "X1 Testnet",
-  logoURI: "https://chainlist.org/unknown-logo.png",
   nativeCurrency: {
   decimals: 18,
   name: "OKB",
@@ -12139,7 +11655,6 @@ export const XLayerTestnet: HbChain = {
 export const XrOne: HbChain = {
   id: 273,
   name: "XR One",
-  logoURI: "https://chainlist.org/unknown-logo.png",
   nativeCurrency: {
   decimals: 18,
   name: "XR",
@@ -12163,7 +11678,6 @@ export const XrOne: HbChain = {
 export const XrSepolia: HbChain = {
   id: 2730,
   name: "XR Sepolia",
-  logoURI: "https://chainlist.org/unknown-logo.png",
   nativeCurrency: {
   decimals: 18,
   name: "tXR",
@@ -12187,7 +11701,6 @@ export const XrSepolia: HbChain = {
 export const YooldoVerse: HbChain = {
   id: 50005,
   name: "Yooldo Verse",
-  logoURI: "https://chainlist.org/unknown-logo.png",
   nativeCurrency: {
   name: "OAS",
   symbol: "OAS",
@@ -12211,7 +11724,6 @@ export const YooldoVerse: HbChain = {
 export const YooldoVerseTestnet: HbChain = {
   id: 50006,
   name: "Yooldo Verse Testnet",
-  logoURI: "https://chainlist.org/unknown-logo.png",
   nativeCurrency: {
   name: "OAS",
   symbol: "OAS",
@@ -12235,7 +11747,6 @@ export const YooldoVerseTestnet: HbChain = {
 export const ZenchainTestnet: HbChain = {
   id: 8408,
   name: "Zenchain Testnet",
-  logoURI: "https://chainlist.org/unknown-logo.png",
   nativeCurrency: {
   decimals: 18,
   name: "ZCX",
@@ -12262,7 +11773,6 @@ export const ZenchainTestnet: HbChain = {
 export const Zeniq: HbChain = {
   id: 383414847825,
   name: "Zeniq Mainnet",
-  logoURI: "https://icons.llamao.fi/icons/chains/rsz_zeniq.jpg",
   nativeCurrency: {
   name: "ZENIQ",
   symbol: "ZENIQ",
@@ -12286,7 +11796,6 @@ export const Zeniq: HbChain = {
 export const Zetachain: HbChain = {
   id: 7000,
   name: "ZetaChain",
-  logoURI: "https://icons.llamao.fi/icons/chains/rsz_zetachain.jpg",
   nativeCurrency: {
   decimals: 18,
   name: "Zeta",
@@ -12310,7 +11819,6 @@ export const Zetachain: HbChain = {
 export const ZetachainAthensTestnet: HbChain = {
   id: 7001,
   name: "ZetaChain Athens Testnet",
-  logoURI: "https://chainlist.org/unknown-logo.png",
   nativeCurrency: {
   decimals: 18,
   name: "Zeta",
@@ -12334,7 +11842,6 @@ export const ZetachainAthensTestnet: HbChain = {
 export const Zhejiang: HbChain = {
   id: 1337803,
   name: "Zhejiang",
-  logoURI: "https://chainlist.org/unknown-logo.png",
   nativeCurrency: {
   name: "Zhejiang Ether",
   symbol: "ZhejETH",
@@ -12358,7 +11865,6 @@ export const Zhejiang: HbChain = {
 export const Zilliqa: HbChain = {
   id: 32769,
   name: "Zilliqa",
-  logoURI: "https://icons.llamao.fi/icons/chains/rsz_zilliqa.jpg",
   nativeCurrency: {
   name: "Zilliqa",
   symbol: "ZIL",
@@ -12382,7 +11888,6 @@ export const Zilliqa: HbChain = {
 export const ZilliqaTestnet: HbChain = {
   id: 33101,
   name: "Zilliqa Testnet",
-  logoURI: "https://chainlist.org/unknown-logo.png",
   nativeCurrency: {
   name: "Zilliqa",
   symbol: "ZIL",
@@ -12406,7 +11911,6 @@ export const ZilliqaTestnet: HbChain = {
 export const Zircuit: HbChain = {
   id: 48900,
   name: "Zircuit Mainnet",
-  logoURI: "https://icons.llamao.fi/icons/chains/rsz_zircuit.jpg",
   nativeCurrency: {
   decimals: 18,
   name: "Ether",
@@ -12432,7 +11936,6 @@ export const Zircuit: HbChain = {
 export const ZircuitTestnet: HbChain = {
   id: 48899,
   name: "Zircuit Testnet",
-  logoURI: "https://chainlist.org/unknown-logo.png",
   nativeCurrency: {
   name: "ETH",
   symbol: "ETH",
@@ -12457,7 +11960,6 @@ export const ZircuitTestnet: HbChain = {
 export const ZkFair: HbChain = {
   id: 42766,
   name: "ZKFair Mainnet",
-  logoURI: "https://chainlist.org/unknown-logo.png",
   nativeCurrency: {
   decimals: 18,
   name: "USD Coin",
@@ -12482,7 +11984,6 @@ export const ZkFair: HbChain = {
 export const ZkFairTestnet: HbChain = {
   id: 43851,
   name: "ZKFair Testnet",
-  logoURI: "https://chainlist.org/unknown-logo.png",
   nativeCurrency: {
   decimals: 18,
   name: "USD Coin",
@@ -12506,7 +12007,6 @@ export const ZkFairTestnet: HbChain = {
 export const ZkLinkNova: HbChain = {
   id: 810180,
   name: "zkLink Nova",
-  logoURI: "https://icons.llamao.fi/icons/chains/rsz_zklink%20nova.jpg",
   nativeCurrency: {
   decimals: 18,
   name: "ETH",
@@ -12530,7 +12030,6 @@ export const ZkLinkNova: HbChain = {
 export const ZkLinkNovaSepoliaTestnet: HbChain = {
   id: 810181,
   name: "zkLink Nova Sepolia Testnet",
-  logoURI: "https://chainlist.org/unknown-logo.png",
   nativeCurrency: {
   decimals: 18,
   name: "ETH",
@@ -12554,7 +12053,6 @@ export const ZkLinkNovaSepoliaTestnet: HbChain = {
 export const ZkSync: HbChain = {
   id: 324,
   name: "ZKsync Era",
-  logoURI: "https://icons.llamao.fi/icons/chains/rsz_zksync%20era.jpg",
   nativeCurrency: {
   decimals: 18,
   name: "Ether",
@@ -12587,7 +12085,6 @@ export const ZkSync: HbChain = {
 export const Zksync: HbChain = {
   id: 324,
   name: "ZKsync Era",
-  logoURI: "https://icons.llamao.fi/icons/chains/rsz_zksync%20era.jpg",
   nativeCurrency: {
   decimals: 18,
   name: "Ether",
@@ -12620,7 +12117,6 @@ export const Zksync: HbChain = {
 export const ZkSyncInMemoryNode: HbChain = {
   id: 260,
   name: "ZKsync InMemory Node",
-  logoURI: "https://chainlist.org/unknown-logo.png",
   nativeCurrency: {
   name: "Ether",
   symbol: "ETH",
@@ -12638,7 +12134,6 @@ export const ZkSyncInMemoryNode: HbChain = {
 export const ZksyncInMemoryNode: HbChain = {
   id: 260,
   name: "ZKsync InMemory Node",
-  logoURI: "https://chainlist.org/unknown-logo.png",
   nativeCurrency: {
   name: "Ether",
   symbol: "ETH",
@@ -12656,7 +12151,6 @@ export const ZksyncInMemoryNode: HbChain = {
 export const ZksyncLocalCustomHyperchain: HbChain = {
   id: 272,
   name: "ZKsync CLI Local Custom Hyperchain",
-  logoURI: "https://chainlist.org/unknown-logo.png",
   nativeCurrency: {
   name: "BAT",
   symbol: "BAT",
@@ -12684,7 +12178,6 @@ export const ZksyncLocalCustomHyperchain: HbChain = {
 export const ZksyncLocalHyperchain: HbChain = {
   id: 270,
   name: "ZKsync CLI Local Hyperchain",
-  logoURI: "https://chainlist.org/unknown-logo.png",
   nativeCurrency: {
   name: "Ether",
   symbol: "ETH",
@@ -12712,7 +12205,6 @@ export const ZksyncLocalHyperchain: HbChain = {
 export const ZksyncLocalHyperchainL1: HbChain = {
   id: 9,
   name: "ZKsync CLI Local Hyperchain L1",
-  logoURI: "https://chainlist.org/unknown-logo.png",
   nativeCurrency: {
   name: "Ether",
   symbol: "ETH",
@@ -12737,7 +12229,6 @@ export const ZksyncLocalHyperchainL1: HbChain = {
 export const ZkSyncLocalNode: HbChain = {
   id: 270,
   name: "ZKsync CLI Local Node",
-  logoURI: "https://chainlist.org/unknown-logo.png",
   nativeCurrency: {
   name: "Ether",
   symbol: "ETH",
@@ -12755,7 +12246,6 @@ export const ZkSyncLocalNode: HbChain = {
 export const ZksyncLocalNode: HbChain = {
   id: 270,
   name: "ZKsync CLI Local Node",
-  logoURI: "https://chainlist.org/unknown-logo.png",
   nativeCurrency: {
   name: "Ether",
   symbol: "ETH",
@@ -12773,7 +12263,6 @@ export const ZksyncLocalNode: HbChain = {
 export const ZkSyncSepoliaTestnet: HbChain = {
   id: 300,
   name: "ZKsync Sepolia Testnet",
-  logoURI: "https://chainlist.org/unknown-logo.png",
   nativeCurrency: {
   name: "Ether",
   symbol: "ETH",
@@ -12806,7 +12295,6 @@ export const ZkSyncSepoliaTestnet: HbChain = {
 export const ZksyncSepoliaTestnet: HbChain = {
   id: 300,
   name: "ZKsync Sepolia Testnet",
-  logoURI: "https://chainlist.org/unknown-logo.png",
   nativeCurrency: {
   name: "Ether",
   symbol: "ETH",
@@ -12839,7 +12327,6 @@ export const ZksyncSepoliaTestnet: HbChain = {
 export const Zora: HbChain = {
   id: 7777777,
   name: "Zora",
-  logoURI: "https://icons.llamao.fi/icons/chains/rsz_zora.jpg",
   nativeCurrency: {
   decimals: 18,
   name: "Ether",
@@ -12867,7 +12354,6 @@ export const Zora: HbChain = {
 export const ZoraSepolia: HbChain = {
   id: 999999999,
   name: "Zora Sepolia",
-  logoURI: "https://chainlist.org/unknown-logo.png",
   nativeCurrency: {
   decimals: 18,
   name: "Zora Sepolia",
@@ -12895,7 +12381,6 @@ export const ZoraSepolia: HbChain = {
 export const ZoraTestnet: HbChain = {
   id: 999,
   name: "Zora Goerli Testnet",
-  logoURI: "https://chainlist.org/unknown-logo.png",
   nativeCurrency: {
   decimals: 18,
   name: "Zora Goerli",
@@ -12923,7 +12408,6 @@ export const ZoraTestnet: HbChain = {
 export const Scroll: HbChain = {
   id: 534352,
   name: "Scroll",
-  logoURI: "https://icons.llamao.fi/icons/chains/rsz_scroll.jpg",
   nativeCurrency: {
   name: "Ether",
   symbol: "ETH",

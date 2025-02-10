@@ -13,8 +13,6 @@ export interface HbChain {
         default: HbChainBlockExplorer;
       }
     | undefined;
-
-  logoURI: string;
 }
 
 export interface HbChainNativeCurrency {
@@ -41,7 +39,6 @@ export type HbChainBlockExplorer = {
 export const {{ _code | pascal_case }}: HbChain = {
   id: {{ id }},
   name: "{{ name }}",
-  logoURI: "{{{ logoURI }}}",
   nativeCurrency: {{{ nativeCurrency }}},
   rpcUrls: {{{ rpcUrls }}},
   {{#blockExplorers}}
