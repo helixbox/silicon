@@ -14,7 +14,7 @@ export interface HbChain {
       }
     | undefined;
 
-  logoURI: string;
+  logoURI?: string;
 }
 
 export interface HbChainNativeCurrency {
