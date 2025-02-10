@@ -802,6 +802,14 @@
     }
   },
   {
+    "id": "5th-scape",
+    "symbol": "$5scape",
+    "name": "5th Scape",
+    "platforms": {
+      "binance-smart-chain": "0x0688977ae5b10075f46519063fd2f03adc052c1f"
+    }
+  },
+  {
     "id": "-6",
     "symbol": "\"　\"",
     "name": "\"　\"",
@@ -5333,14 +5341,6 @@
     "name": "Allbridge Bridged SOL (Fantom)",
     "platforms": {
       "fantom": "0x44f7237df00e386af8e79b817d05ed9f6fe0f296"
-    }
-  },
-  {
-    "id": "allbridge-bridged-sol-fuse",
-    "symbol": "assol",
-    "name": "Allbridge Bridged SOL (Fuse)",
-    "platforms": {
-      "fuse": "0x5cb5249d420639619ffd637c79f0aa5c0a9fcd4b"
     }
   },
   {
@@ -11835,12 +11835,12 @@
     "name": "Backed CSPX Core S&P 500",
     "platforms": {
       "ethereum": "0x1e2c4fb7ede391d116e6b41cd0608260e8801d59",
+      "base": "0xc3ce78b037dda1b966d31ec7979d3f3a38571a8e",
       "xdai": "0x1e2c4fb7ede391d116e6b41cd0608260e8801d59",
       "binance-smart-chain": "0x1e2c4fb7ede391d116e6b41cd0608260e8801d59",
       "avalanche": "0x1e2c4fb7ede391d116e6b41cd0608260e8801d59",
       "arbitrum-one": "0x1e2c4fb7ede391d116e6b41cd0608260e8801d59",
-      "polygon-pos": "0x1e2c4fb7ede391d116e6b41cd0608260e8801d59",
-      "base": "0x1e2c4fb7ede391d116e6b41cd0608260e8801d59"
+      "polygon-pos": "0x1e2c4fb7ede391d116e6b41cd0608260e8801d59"
     }
   },
   {
@@ -20419,10 +20419,18 @@
   {
     "id": "brewlabs",
     "symbol": "brewlabs",
-    "name": "Brewlabs",
+    "name": "Brewlabs [OLD]",
     "platforms": {
       "binance-smart-chain": "0x6aac56305825f712fd44599e59f2ede51d42c3e7",
       "ethereum": "0xdad33e12e61dc2f2692f2c12e6303b5ade7277ba"
+    }
+  },
+  {
+    "id": "brewlabs-2",
+    "symbol": "brew",
+    "name": "Brewlabs",
+    "platforms": {
+      "base": "0x73b7f22618e06f7d15ff5bf11b506016cd3758da"
     }
   },
   {
@@ -27322,14 +27330,6 @@
     "name": "Cleopatra",
     "platforms": {
       "mantle": "0xc1e0c8c30f251a07a894609616580ad2ceb547f2"
-    }
-  },
-  {
-    "id": "cleo-tech",
-    "symbol": "$cleo",
-    "name": "Cleo Tech",
-    "platforms": {
-      "polygon-pos": "0xf9b2ebdfa24688f0dfb12cc55782e635f91e64a2"
     }
   },
   {
@@ -35107,14 +35107,6 @@
     "name": "DEPIN",
     "platforms": {
       "hyperliquid": "0x934a7e00c1b047c2d27967663f58befe"
-    }
-  },
-  {
-    "id": "depin-dao",
-    "symbol": "depindao",
-    "name": "DePIN DAO",
-    "platforms": {
-      "solana": "7FxHGcAsguJYSRTanWMbTr3JCXTdCyDSktPd4C4jWEUy"
     }
   },
   {
@@ -44782,14 +44774,6 @@
     }
   },
   {
-    "id": "export-mortos-platform",
-    "symbol": "emp",
-    "name": "Export Motors Platform",
-    "platforms": {
-      "ethereum": "0x13a0599c493cc502ed8c4dd26f22f5cedc248fc4"
-    }
-  },
-  {
     "id": "extradna",
     "symbol": "xdna",
     "name": "extraDNA",
@@ -51989,15 +51973,6 @@
     "name": "GLEEK",
     "platforms": {
       "solana": "4ACuWnJZjE1Q51589mBmmyfD82RZ4LNFVeuPdSRFPc3L"
-    }
-  },
-  {
-    "id": "gli",
-    "symbol": "gli",
-    "name": "GLI",
-    "platforms": {
-      "binance-smart-chain": "0x655e1cb3f2c81c76856302679648df698a5f1989",
-      "base": "0x655e1cb3f2c81c76856302679648df698a5f1989"
     }
   },
   {
@@ -60503,14 +60478,6 @@
     "platforms": {}
   },
   {
-    "id": "innovai",
-    "symbol": "ino",
-    "name": "Innovai",
-    "platforms": {
-      "ethereum": "0x342f4ca388896e6300bb899aca2d8619cbefcece"
-    }
-  },
-  {
     "id": "innovative-bioresearch",
     "symbol": "innbc",
     "name": "Innovative Bioresearch Coin",
@@ -63657,14 +63624,6 @@
     "name": "K-9 Killed in Shootout",
     "platforms": {
       "solana": "F1uB7phqFVuyzsFoXWkcwNoCY3KJGFNsFLyeSoQYpump"
-    }
-  },
-  {
-    "id": "kaarigar-connect",
-    "symbol": "karcon",
-    "name": "Kaarigar Connect",
-    "platforms": {
-      "ethereum": "0x44af2390d7ed22966d3e570bffb648817e4335f0"
     }
   },
   {
@@ -73979,14 +73938,6 @@
     }
   },
   {
-    "id": "marketviz",
-    "symbol": "viz",
-    "name": "MARKETVIZ",
-    "platforms": {
-      "ethereum": "0x2c10c0de3362ff21f8ed6bc7f4ac5e391153fd2c"
-    }
-  },
-  {
     "id": "markkacy",
     "symbol": "kacy",
     "name": "markkacy",
@@ -76043,14 +75994,6 @@
     "platforms": {}
   },
   {
-    "id": "meow-coin",
-    "symbol": "meow",
-    "name": "Meow Coin",
-    "platforms": {
-      "ethereum": "0x1e7572fb16e176d40d28090e51a7a9ea08f68199"
-    }
-  },
-  {
     "id": "meowka-neko",
     "symbol": "meowka",
     "name": "Meowka Neko",
@@ -76140,7 +76083,7 @@
     "symbol": "mst",
     "name": "Meridian MST",
     "platforms": {
-      "base": "0x2f3b1a07e3efb1fcc64bd09b86bd0fa885d93552",
+      "base": "0x88558259ceda5d8e681fedb55c50070fbd3da8f9",
       "telos": "0x568524da340579887db50ecf602cd1ba8451b243",
       "meter": "0x5647f6cc997e45b81d786baa9ecd8a1ad40ef25f"
     }
@@ -78674,15 +78617,6 @@
     "name": "MMSS (Ordinals)",
     "platforms": {
       "ordinals": "7cae69f546362481ef246954554662b9c0dd6337a3aa6e9de5e48681017bcbc8i0"
-    }
-  },
-  {
-    "id": "mn-bridge",
-    "symbol": "mnb",
-    "name": "MN Bridge",
-    "platforms": {
-      "ethereum": "0xa922a70569a7555518bf4ded5094661a965e23ca",
-      "binance-smart-chain": "0xa922a70569a7555518bf4ded5094661a965e23ca"
     }
   },
   {
@@ -89438,14 +89372,6 @@
     "name": "Outter Finance",
     "platforms": {
       "binance-smart-chain": "0x9f7f4ddbcac23db5280d4aab83a28c5c3eff535e"
-    }
-  },
-  {
-    "id": "overdome",
-    "symbol": "ovdm",
-    "name": "Overdome",
-    "platforms": {
-      "binance-smart-chain": "0xf9ba4b77e9a5e7d16633191932f95eaf70086dc0"
     }
   },
   {
@@ -108768,14 +108694,6 @@
     }
   },
   {
-    "id": "skullswap-exchange",
-    "symbol": "skull",
-    "name": "SkullSwap Exchange",
-    "platforms": {
-      "fantom": "0xfa5992a8a47af7029e04ec6a95203ad3f301460b"
-    }
-  },
-  {
     "id": "skull-with-ripped-hood",
     "symbol": "rip",
     "name": "skull with ripped hood",
@@ -109057,14 +108975,6 @@
     "symbol": "smart",
     "name": "SMART BLOCKCHAIN",
     "platforms": {}
-  },
-  {
-    "id": "smart-block-chain-city",
-    "symbol": "sbcc",
-    "name": "Smart Block Chain City",
-    "platforms": {
-      "binance-smart-chain": "0x6e02be885fca1138038420fddd4b41c59a8cea6d"
-    }
   },
   {
     "id": "smartcash",
@@ -109907,14 +109817,6 @@
     }
   },
   {
-    "id": "socol",
-    "symbol": "simp",
-    "name": "SO-COL",
-    "platforms": {
-      "ethereum": "0x41c21693e60fc1a5dbb7c50e54e7a6016aa44c99"
-    }
-  },
-  {
     "id": "socomfy",
     "symbol": "comfy",
     "name": "SOCOMFY",
@@ -110327,14 +110229,6 @@
     "name": "SOLA",
     "platforms": {
       "solana": "FYfQ9uaRaYvRiaEGUmct45F9WKam3BYXArTrotnTNFXF"
-    }
-  },
-  {
-    "id": "solav",
-    "symbol": "solav",
-    "name": "SOLAV",
-    "platforms": {
-      "ethereum": "0xfc5e4ed56153b57aa8ef769eba3e79e58e19be93"
     }
   },
   {
@@ -112834,14 +112728,6 @@
     "name": "Sport Bettor AI",
     "platforms": {
       "base": "0x792d0447bf8b33158ca6e02d49755f2eab65061b"
-    }
-  },
-  {
-    "id": "sportium",
-    "symbol": "sprt",
-    "name": "Sportium",
-    "platforms": {
-      "binance-smart-chain": "0x56156fb7860d7eb0b4b1a5356c5354b295194a45"
     }
   },
   {
@@ -117148,14 +117034,6 @@
     }
   },
   {
-    "id": "sweepr",
-    "symbol": "sweepr",
-    "name": "Sweepr",
-    "platforms": {
-      "ethereum": "0x9305d3d847e4cf950d43c99094a93314833cf3a9"
-    }
-  },
-  {
     "id": "sweep-token",
     "symbol": "sweep",
     "name": "Sweep Token",
@@ -117777,14 +117655,6 @@
     "name": "Synternet",
     "platforms": {
       "ethereum": "0xda987c655ebc38c801db64a8608bc1aa56cd9a31"
-    }
-  },
-  {
-    "id": "synth-ai",
-    "symbol": "syai",
-    "name": "Synth Ai",
-    "platforms": {
-      "binance-smart-chain": "0x7d23de8d1e71b42b821ea4157ca6b81524729cf3"
     }
   },
   {
@@ -120137,7 +120007,9 @@
     "id": "the-lux-network",
     "symbol": "tln",
     "name": "The Lux Network",
-    "platforms": {}
+    "platforms": {
+      "arbitrum-one": "0xdd1ddd4d978ac0baef4bfa9c7e91853bfce90f11"
+    }
   },
   {
     "id": "the-mars",
@@ -122171,12 +122043,6 @@
     "platforms": {
       "ethereum": "0x4346139e71ba7b4b6abd405782703006cc180988"
     }
-  },
-  {
-    "id": "tongtong-coin",
-    "symbol": "ttc",
-    "name": "Tongtong Coin",
-    "platforms": {}
   },
   {
     "id": "tongue-cat",
@@ -125897,14 +125763,6 @@
     "name": "UPFI Network",
     "platforms": {
       "solana": "EwJN2GqUGXXzYmoAciwuABtorHczTA5LqbukKXV1viH7"
-    }
-  },
-  {
-    "id": "upfront-protocol",
-    "symbol": "up",
-    "name": "Upfront Protocol",
-    "platforms": {
-      "binance-smart-chain": "0xf84fd783e7c38a3c99030535919fb89350387502"
     }
   },
   {
