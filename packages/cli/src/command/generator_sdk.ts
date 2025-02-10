@@ -1,6 +1,7 @@
 import { Service } from "typedi";
 import * as viemChain from "viem/chains";
 import * as fs from "node:fs";
+import axios from "axios";
 import Case from 'case';
 
 const Mustache = require("mustache");
@@ -49,13 +50,29 @@ export class SiliconGeneratorSDK {
   }
 
   private async generateChains(options: InnerGenerateOptions) {
+
+    const chainlistIdsLink = 'https://raw.githubusercontent.com/DefiLlama/chainlist/refs/heads/main/constants/chainIds.js';
+    let chainSlugMap = null;
+    try {
+      const cilResponse = await axios.get(chainlistIdsLink);
+      const data = cilResponse.data;
+      const rawMap = data.replace('export default', '');
+      chainSlugMap = JSON.parse(rawMap);
+    } catch (e) {
+      console.error(e);
+    }
+
     const chainNames = Object.keys(viemChain);
     const chainInfos = [];
     for (const cn of chainNames) {
-      viemChain.crab.contracts
       const vc = viemChain[cn];
 
-
+      let logoURI = 'https://chainlist.org/unknown-logo.png';
+      const csm = chainSlugMap[vc.id.toString()];
+      if (csm) {
+        const formated_csm = csm.replace(' ', '%20');
+        logoURI = `https://icons.llamao.fi/icons/chains/rsz_${formated_csm}.jpg`;
+      }
 
       const info = {
         _code: cn,
@@ -64,6 +81,7 @@ export class SiliconGeneratorSDK {
         nativeCurrency: _reorganizeObject(vc.nativeCurrency),
         rpcUrls: _reorganizeObject(vc.rpcUrls),
         blockExplorers: _reorganizeObject(vc.blockExplorers),
+        logoURI,
       };
       chainInfos.push(info);
     }
