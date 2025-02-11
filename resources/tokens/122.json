@@ -4,16 +4,8 @@
   "keywords": [
     "defi"
   ],
-  "timestamp": "2025-02-10T09:00:24.448+00:00",
+  "timestamp": "2025-02-11T10:00:25.562+00:00",
   "tokens": [
-    {
-      "chainId": 122,
-      "address": "0x68c9736781e9316ebf5c3d49fe0c1f45d2d104cd",
-      "name": "Bridged Tether  Fuse ",
-      "symbol": "USDT",
-      "decimals": 6,
-      "logoURI": "https://assets.coingecko.com/coins/images/32986/thumb/logo_%288%29.png?1700094172"
-    },
     {
       "chainId": 122,
       "address": "0x2931b47c2cee4febad348ba3d322cb4a17662c34",
@@ -32,6 +24,22 @@
     },
     {
       "chainId": 122,
+      "address": "0xc6bc407706b7140ee8eef2f86f9504651b63e7f9",
+      "name": "Stargate Bridged USDC  Fuse ",
+      "symbol": "USDCE",
+      "decimals": 6,
+      "logoURI": "https://assets.coingecko.com/coins/images/53044/thumb/USDC_Icon.png?1735081798"
+    },
+    {
+      "chainId": 122,
+      "address": "0x8bf40e191ac82bc09d946629655a6b8baf8f063e",
+      "name": "Renzo Restaked ETH  Fuse ",
+      "symbol": "EZETH",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/50573/thumb/logo_%289%29.png?1728403228"
+    },
+    {
+      "chainId": 122,
       "address": "0x6acb34b1df86e254b544189ec32cf737e2482058",
       "name": "Fuse Bridged WBNB  Fuse ",
       "symbol": "WBNB",
@@ -40,11 +48,11 @@
     },
     {
       "chainId": 122,
-      "address": "0x3695dd1d1d43b794c0b13eb8be8419eb3ac22bf7",
-      "name": "Stargate Bridged USDT  Fuse ",
-      "symbol": "USDT",
-      "decimals": 6,
-      "logoURI": "https://assets.coingecko.com/coins/images/53043/thumb/usdt.png?1735081778"
+      "address": "0x33284f95ccb7b948d9d352e1439561cf83d8d00d",
+      "name": "Fuse Bridged WBTC  Fuse ",
+      "symbol": "WBTC",
+      "decimals": 8,
+      "logoURI": "https://assets.coingecko.com/coins/images/39557/thumb/wbtc.png?1722898201"
     },
     {
       "chainId": 122,
@@ -64,35 +72,11 @@
     },
     {
       "chainId": 122,
-      "address": "0x8bf40e191ac82bc09d946629655a6b8baf8f063e",
-      "name": "Renzo Restaked ETH  Fuse ",
-      "symbol": "EZETH",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/50573/thumb/logo_%289%29.png?1728403228"
-    },
-    {
-      "chainId": 122,
-      "address": "0x2f6f07cdcf3588944bf4c42ac74ff24bf56e7590",
-      "name": "Stargate Bridged WETH  Fuse ",
-      "symbol": "WETH",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/53042/thumb/wETH_32.png?1735081743"
-    },
-    {
-      "chainId": 122,
       "address": "0xcc9d144a8a8a1e71d5ec66a13f301b9e0137e71c",
       "name": "Allbridge Bridged ETH  Fuse ",
       "symbol": "AEETH",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/39221/thumb/ethereum-ezgif.com-webp-to-jpg-converter.jpg?1721178325"
-    },
-    {
-      "chainId": 122,
-      "address": "0xc6bc407706b7140ee8eef2f86f9504651b63e7f9",
-      "name": "Stargate Bridged USDC  Fuse ",
-      "symbol": "USDCE",
-      "decimals": 6,
-      "logoURI": "https://assets.coingecko.com/coins/images/53044/thumb/USDC_Icon.png?1735081798"
     },
     {
       "chainId": 122,
@@ -120,19 +104,19 @@
     },
     {
       "chainId": 122,
-      "address": "0x33284f95ccb7b948d9d352e1439561cf83d8d00d",
-      "name": "Fuse Bridged WBTC  Fuse ",
-      "symbol": "WBTC",
-      "decimals": 8,
-      "logoURI": "https://assets.coingecko.com/coins/images/39557/thumb/wbtc.png?1722898201"
-    },
-    {
-      "chainId": 122,
       "address": "0x0be9e53fd7edac9f859882afdda116645287c629",
       "name": "Wrapped FUSE",
       "symbol": "WFUSE",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/33535/thumb/3WFUSE_token_logo_crl.png?1703026207"
+    },
+    {
+      "chainId": 122,
+      "address": "0x68c9736781e9316ebf5c3d49fe0c1f45d2d104cd",
+      "name": "Bridged Tether  Fuse ",
+      "symbol": "USDT",
+      "decimals": 6,
+      "logoURI": "https://assets.coingecko.com/coins/images/32986/thumb/logo_%288%29.png?1700094172"
     },
     {
       "chainId": 122,
@@ -152,11 +136,19 @@
     },
     {
       "chainId": 122,
-      "address": "0x830cfb18ae30b7d989f6950638be15816416ff5c",
-      "name": "Allbridge Bridged USDC  Fuse ",
-      "symbol": "ASUSDC",
+      "address": "0x3695dd1d1d43b794c0b13eb8be8419eb3ac22bf7",
+      "name": "Stargate Bridged USDT  Fuse ",
+      "symbol": "USDT",
       "decimals": 6,
-      "logoURI": "https://assets.coingecko.com/coins/images/39253/thumb/usdc-ezgif.com-webp-to-jpg-converter.jpg?1721319995"
+      "logoURI": "https://assets.coingecko.com/coins/images/53043/thumb/usdt.png?1735081778"
+    },
+    {
+      "chainId": 122,
+      "address": "0x2f6f07cdcf3588944bf4c42ac74ff24bf56e7590",
+      "name": "Stargate Bridged WETH  Fuse ",
+      "symbol": "WETH",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/53042/thumb/wETH_32.png?1735081743"
     },
     {
       "chainId": 122,
@@ -231,7 +223,7 @@
     }
   ],
   "version": {
-    "major": 3,
+    "major": 4,
     "minor": 0,
     "patch": 0
   }
