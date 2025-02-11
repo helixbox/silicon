@@ -96547,7 +96547,12 @@
     "id": "primex-finance",
     "symbol": "pmx",
     "name": "Primex Finance",
-    "platforms": {}
+    "platforms": {
+      "base": "0x0b3eaead748facdb9d943d3407011f16eb17d0cf",
+      "ethereum": "0x0b3eaead748facdb9d943d3407011f16eb17d0cf",
+      "arbitrum-one": "0x0b3eaead748facdb9d943d3407011f16eb17d0cf",
+      "binance-smart-chain": "0x0b3eaead748facdb9d943d3407011f16eb17d0cf"
+    }
   },
   {
     "id": "principals-network",
@@ -136419,7 +136424,8 @@
     "symbol": "yaystone",
     "name": "Yay StakeStone Ether",
     "platforms": {
-      "ethereum": "0xe86142af1321eaac4270422081c1eda31eecff0c"
+      "ethereum": "0xe86142af1321eaac4270422081c1eda31eecff0c",
+      "soneium": "0x54e86315c03217b76a7466c302245fd10ebef25a"
     }
   },
   {
