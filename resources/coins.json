@@ -72379,7 +72379,7 @@
   {
     "id": "m-2",
     "symbol": "m",
-    "name": "M",
+    "name": "M by M^0",
     "platforms": {
       "ethereum": "0x866a2bf4e572cbcf37d5071a7a58503bfb36be1b"
     }
@@ -125161,11 +125161,27 @@
     }
   },
   {
+    "id": "unichain-bridged-weth-unichain",
+    "symbol": "weth",
+    "name": "Unichain Bridged WETH (Unichain)",
+    "platforms": {
+      "unichain": "0x4200000000000000000000000000000000000006"
+    }
+  },
+  {
     "id": "unicorn-3",
     "symbol": "uwu",
     "name": "Unicorn",
     "platforms": {
       "solana": "UwU8RVXB69Y6Dcju6cN2Qef6fykkq6UUNpB15rZku6Z"
+    }
+  },
+  {
+    "id": "unicorn-4",
+    "symbol": "unicorn",
+    "name": "Unicorn",
+    "platforms": {
+      "unichain": "0x926dc7b96bb2f4a91c2a67e291faf482691a3001"
     }
   },
   {
