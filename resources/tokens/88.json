@@ -4,8 +4,16 @@
   "keywords": [
     "defi"
   ],
-  "timestamp": "2025-02-10T19:00:37.926+00:00",
+  "timestamp": "2025-02-12T10:00:33.682+00:00",
   "tokens": [
+    {
+      "chainId": 88,
+      "address": "0x7edc0ec89f987ecd85617b891c44fe462a325869",
+      "name": "Gunstar Metaverse",
+      "symbol": "GSTS",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/21079/thumb/gst.png?1696520461"
+    },
     {
       "chainId": 88,
       "address": "0xb55dd628039552a7d93a70fc8932f677499ed479",
@@ -21,14 +29,6 @@
       "symbol": "ZPAY",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/16813/thumb/zpay.png?1696516382"
-    },
-    {
-      "chainId": 88,
-      "address": "0x7edc0ec89f987ecd85617b891c44fe462a325869",
-      "name": "Gunstar Metaverse",
-      "symbol": "GSTS",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/21079/thumb/gst.png?1696520461"
     },
     {
       "chainId": 88,
@@ -72,14 +72,6 @@
     },
     {
       "chainId": 88,
-      "address": "0xe148489f3725c012bc201ab4cfce0a16c112f0a8",
-      "name": "Worldwide USD",
-      "symbol": "WUSD",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/35358/thumb/WUSD%282%29.png?1715042139"
-    },
-    {
-      "chainId": 88,
       "address": "0x111111267109489dc6f350608d5113b10c0c5cd7",
       "name": "Counterfire Economic Coin",
       "symbol": "CEC",
@@ -93,6 +85,14 @@
       "symbol": "DCKUSD",
       "decimals": 6,
       "logoURI": "https://assets.coingecko.com/coins/images/39966/thumb/dackie_usd_circle.png?1734941381"
+    },
+    {
+      "chainId": 88,
+      "address": "0x9ad16b6d3e401b8df25c985f9bebb490db8afe78",
+      "name": "Worldwide USD",
+      "symbol": "WUSD",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/35358/thumb/WUSD%282%29.png?1715042139"
     },
     {
       "chainId": 88,
@@ -176,8 +176,8 @@
     }
   ],
   "version": {
-    "major": 2,
-    "minor": 1,
+    "major": 3,
+    "minor": 0,
     "patch": 0
   }
 }
