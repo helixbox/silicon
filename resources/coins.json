@@ -14477,6 +14477,14 @@
     "platforms": {}
   },
   {
+    "id": "berachain-bridged-wbtc-berachain",
+    "symbol": "wbtc",
+    "name": "Berachain Bridged WBTC (Berachain)",
+    "platforms": {
+      "berachain": "0x0555e30da8f98308edb960aa94c0db47230d2b9c"
+    }
+  },
+  {
     "id": "berachain-governance-token",
     "symbol": "bgt",
     "name": "Berachain Governance Token",
@@ -19294,6 +19302,7 @@
     "name": "Bonsai Coin",
     "platforms": {
       "astar-zkevm": "0x90e3f8e749dbd40286ab29aecd1e8487db4a8785",
+      "soneium": "0xa0aebd4ae5f256b72b7d43f67ed934237adb1aee",
       "base": "0xa0aebd4ae5f256b72b7d43f67ed934237adb1aee"
     }
   },
@@ -52340,10 +52349,10 @@
   },
   {
     "id": "gmika",
-    "symbol": "gmika",
-    "name": "GMika",
+    "symbol": "state",
+    "name": "State of Mika by Virtuals",
     "platforms": {
-      "solana": "HtCqD3o5aF1RXcyGi6AW11PoB3bZmFdA8kvVyhJrpump"
+      "solana": "Gcc7QfMgy9rKVdp8wdKqgUvzPWubHzDDfugiTgEvirt"
     }
   },
   {
@@ -93425,7 +93434,7 @@
   {
     "id": "pi-network-iou",
     "symbol": "pi",
-    "name": "Pi Network",
+    "name": "Pi Network [IOU]",
     "platforms": {}
   },
   {
@@ -114088,6 +114097,14 @@
     }
   },
   {
+    "id": "stargate-bridged-usdc-berachain",
+    "symbol": "usdc.e",
+    "name": "Stargate Bridged USDC (Berachain)",
+    "platforms": {
+      "berachain": "0x549943e04f40284185054145c6e4e9568c1d3241"
+    }
+  },
+  {
     "id": "stargate-bridged-usdc-fuse",
     "symbol": "usdc.e",
     "name": "Stargate Bridged USDC (Fuse)",
@@ -118474,6 +118491,14 @@
     "name": "Taraxa",
     "platforms": {
       "ethereum": "0x2f42b7d686ca3effc69778b6ed8493a7787b4d6e"
+    }
+  },
+  {
+    "id": "taraxa-bridged-usdt-taraxa",
+    "symbol": "usdt",
+    "name": "Taraxa Bridged USDT (Taraxa)",
+    "platforms": {
+      "taraxa": "0x69d411cbf6dbad54bfe36f81d0a39922625bc78c"
     }
   },
   {
@@ -134381,6 +134406,14 @@
     "name": "Wrapped TAO",
     "platforms": {
       "ethereum": "0x77e06c9eccf2e797fd462a92b6d7642ef85b0a44"
+    }
+  },
+  {
+    "id": "wrapped-tara",
+    "symbol": "wtara",
+    "name": "Wrapped Tara",
+    "platforms": {
+      "taraxa": "0x5d0fa4c5668e5809c83c95a7cef3a9dd7c68d4fe"
     }
   },
   {
