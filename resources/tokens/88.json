@@ -4,8 +4,16 @@
   "keywords": [
     "defi"
   ],
-  "timestamp": "2025-02-07T11:00:34.918+00:00",
+  "timestamp": "2025-02-12T10:00:33.682+00:00",
   "tokens": [
+    {
+      "chainId": 88,
+      "address": "0x7edc0ec89f987ecd85617b891c44fe462a325869",
+      "name": "Gunstar Metaverse",
+      "symbol": "GSTS",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/21079/thumb/gst.png?1696520461"
+    },
     {
       "chainId": 88,
       "address": "0xb55dd628039552a7d93a70fc8932f677499ed479",
@@ -24,11 +32,11 @@
     },
     {
       "chainId": 88,
-      "address": "0x7edc0ec89f987ecd85617b891c44fe462a325869",
-      "name": "Gunstar Metaverse",
-      "symbol": "GSTS",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/21079/thumb/gst.png?1696520461"
+      "address": "0x69b946132b4a6c74cd29ba3ff614ceea1ef9ff2b",
+      "name": "Viction Bridged USDT",
+      "symbol": "USDT",
+      "decimals": 6,
+      "logoURI": "https://assets.coingecko.com/coins/images/54311/thumb/usdt-logo.png?1739207903"
     },
     {
       "chainId": 88,
@@ -64,14 +72,6 @@
     },
     {
       "chainId": 88,
-      "address": "0xe148489f3725c012bc201ab4cfce0a16c112f0a8",
-      "name": "Worldwide USD",
-      "symbol": "WUSD",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/35358/thumb/WUSD%282%29.png?1715042139"
-    },
-    {
-      "chainId": 88,
       "address": "0x111111267109489dc6f350608d5113b10c0c5cd7",
       "name": "Counterfire Economic Coin",
       "symbol": "CEC",
@@ -85,6 +85,14 @@
       "symbol": "DCKUSD",
       "decimals": 6,
       "logoURI": "https://assets.coingecko.com/coins/images/39966/thumb/dackie_usd_circle.png?1734941381"
+    },
+    {
+      "chainId": 88,
+      "address": "0x9ad16b6d3e401b8df25c985f9bebb490db8afe78",
+      "name": "Worldwide USD",
+      "symbol": "WUSD",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/35358/thumb/WUSD%282%29.png?1715042139"
     },
     {
       "chainId": 88,
@@ -168,7 +176,7 @@
     }
   ],
   "version": {
-    "major": 2,
+    "major": 3,
     "minor": 0,
     "patch": 0
   }
