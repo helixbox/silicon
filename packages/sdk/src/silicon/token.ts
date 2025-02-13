@@ -16,6 +16,7 @@ interface GetTokenOptions {
   chains?: string[] | number[];
   tokens: string[];
   enableFuzzyMatching?: boolean;
+  enableMatchName?: boolean;
 }
 
 export class HelixboxToken {
@@ -400,18 +401,20 @@ class SyncTokenRuntime {
             (item) =>
               item.symbol.toUpperCase().indexOf(itkn.toUpperCase()) != -1
           );
-          const fuzzyFoundedTokenByName = tokens.filter((item) => {
-            const nameWords = item.name.split(" ");
-            return (
-              nameWords.findIndex(
-                (item) => item.toUpperCase() === itkn.toUpperCase()
-              ) != -1
-            );
-          });
           const fuzzyList = [
             ...fuzzyFoundedTokenBySymbol,
-            ...fuzzyFoundedTokenByName,
           ];
+          if (options.enableMatchName ?? false) {
+            const fuzzyFoundedTokenByName = tokens.filter((item) => {
+              const nameWords = item.name.split(" ");
+              return (
+                nameWords.findIndex(
+                  (item) => item.toUpperCase() === itkn.toUpperCase()
+                ) != -1
+              );
+            });
+            fuzzyList.push(...fuzzyFoundedTokenByName);
+          }
           for (const fl of fuzzyList) {
             if (
               foundedTokens.findIndex((item) => item.address === fl.address) !=
