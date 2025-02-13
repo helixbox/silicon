@@ -2452,9 +2452,10 @@
   {
     "id": "acolyte-by-virtuals",
     "symbol": "acolyt",
-    "name": "Acolyte by Virtuals",
+    "name": "Acolyt",
     "platforms": {
-      "base": "0x79dacb99a8698052a9898e81fdf883c29efb93cb"
+      "base": "0x79dacb99a8698052a9898e81fdf883c29efb93cb",
+      "solana": "EajMGPYVMzqUjXwnmyagVGDS2CW5xJitb17TpB4uDifD"
     }
   },
   {
@@ -35834,6 +35835,14 @@
     }
   },
   {
+    "id": "diam",
+    "symbol": "diam",
+    "name": "Diamante",
+    "platforms": {
+      "binance-smart-chain": "0x1fa0f5ed24a1a2b43741e88f8fec19633e67082b"
+    }
+  },
+  {
     "id": "diamond",
     "symbol": "dmd",
     "name": "Diamond",
@@ -65413,8 +65422,8 @@
     "name": "Kinetix Finance Token",
     "platforms": {
       "ethereum": "0x0bbcefa5f3630cae34842cb9d9b36bc0d4257a0d",
-      "kava": "0x52369b1539ea8f4e1eadeef18d85462dcf9a3658",
       "polygon-pos": "0x8ad3d3e6b1b7b65138bd508e48330b544539b2c3",
+      "kava": "0x52369b1539ea8f4e1eadeef18d85462dcf9a3658",
       "base": "0x3c3860d89b81c91974fc1f8a41aeeef604c17058"
     }
   },
@@ -73911,6 +73920,7 @@
     "name": "MANTRA",
     "platforms": {
       "ethereum": "0x3593d125a4f7849a1b059e64f4517a86dd60c95d",
+      "mantra": "uom",
       "stargaze": "ibc/3BD86E80E000B52DA57C474A6A44E37F73D34E38A1FA79EE678E08D119FC555B",
       "osmosis": "ibc/164807F6226F91990F358C6467EEE8B162E437BDCD3DADEC3F0CE20693720795",
       "binance-smart-chain": "0xf78d2e7936f5fe18308a3b2951a93b6c4a41f5e2",
@@ -74225,6 +74235,14 @@
     "symbol": "mars",
     "name": "Marscoin",
     "platforms": {}
+  },
+  {
+    "id": "marscoin-2",
+    "symbol": "mars",
+    "name": "Marscoin",
+    "platforms": {
+      "binance-smart-chain": "0x1fd448d0361c3212961a70930f3129a45f425b68"
+    }
   },
   {
     "id": "marscolony",
@@ -125358,14 +125376,6 @@
     }
   },
   {
-    "id": "unichain-bridged-usdc-unichain",
-    "symbol": "usdc",
-    "name": "Unichain Bridged USDC (Unichain)",
-    "platforms": {
-      "unichain": "0x078d782b760474a361dda0af3839290b0ef57ad6"
-    }
-  },
-  {
     "id": "unichain-bridged-weth-unichain",
     "symbol": "weth",
     "name": "Unichain Bridged WETH (Unichain)",
@@ -126445,6 +126455,7 @@
     "name": "USDC",
     "platforms": {
       "ethereum": "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
+      "unichain": "0x078d782b760474a361dda0af3839290b0ef57ad6",
       "zksync": "0x1d17cbcf0d6d143135ae902365d2e5e2a16538d4",
       "optimistic-ethereum": "0x0b2c639c533813f4aa9d7837caf62653d097ff85",
       "polkadot": "1337",
