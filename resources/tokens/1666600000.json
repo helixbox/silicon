@@ -4,8 +4,16 @@
   "keywords": [
     "defi"
   ],
-  "timestamp": "2025-01-16T18:00:07.042+00:00",
+  "timestamp": "2025-02-13T08:00:10.058+00:00",
   "tokens": [
+    {
+      "chainId": 1666600000,
+      "address": "0xb55106308974cebe299a0f0505435c47b404b9a6",
+      "name": "ParadiseFi",
+      "symbol": "EDEN",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/19404/thumb/paradisefi.PNG?1696518844"
+    },
     {
       "chainId": 1666600000,
       "address": "0xb914e7a183abcd46300584da828f62a39516f33b",
@@ -23,19 +31,11 @@
     },
     {
       "chainId": 1666600000,
-      "address": "0x4f529873288668815d66eda11314f719b23dd846",
-      "name": "CougarSwap",
-      "symbol": "CGS",
+      "address": "0x6983d1e6def3690c4d616b13597a09e6193ea013",
+      "name": "Harmony Horizon Bridged cETH  Harmony S",
+      "symbol": "1ETH",
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/19402/thumb/logo.png?1696518842"
-    },
-    {
-      "chainId": 1666600000,
-      "address": "0xef977d2f931c1978db5f6747666fa1eacb0d0339",
-      "name": "Harmony Horizon Bridged DAI  Harmony Sh",
-      "symbol": "DAI",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/39789/thumb/dai.png?1724111370"
+      "logoURI": "https://assets.coingecko.com/coins/images/39710/thumb/WETH.PNG?1723730735"
     },
     {
       "chainId": 1666600000,
@@ -47,19 +47,19 @@
     },
     {
       "chainId": 1666600000,
-      "address": "0x22fb638a010e922d53fd2671a598a3334c228b62",
-      "name": "Speed Star JOC",
-      "symbol": "JOC",
+      "address": "0x673d2ec54e0a6580fc7e098295b70e3ce0350d03",
+      "name": "Bridged WBNB",
+      "symbol": "WBNB",
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/24883/thumb/f2zOnAa4_400x400.jpg?1696524042"
+      "logoURI": "https://assets.coingecko.com/coins/images/53070/thumb/wrapped_bnb.png?1735264554"
     },
     {
       "chainId": 1666600000,
-      "address": "0x6983d1e6def3690c4d616b13597a09e6193ea013",
-      "name": "Harmony Horizon Bridged cETH  Harmony S",
-      "symbol": "1ETH",
+      "address": "0xef977d2f931c1978db5f6747666fa1eacb0d0339",
+      "name": "Harmony Horizon Bridged DAI  Harmony Sh",
+      "symbol": "DAI",
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/39710/thumb/WETH.PNG?1723730735"
+      "logoURI": "https://assets.coingecko.com/coins/images/39789/thumb/dai.png?1724111370"
     },
     {
       "chainId": 1666600000,
@@ -68,6 +68,62 @@
       "symbol": "WONE",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/18183/thumb/wonelogo.png?1696517683"
+    },
+    {
+      "chainId": 1666600000,
+      "address": "0x8d760497554eecc3b9036fb0364156ef2f0d02bc",
+      "name": "HolyGrail",
+      "symbol": "HLY",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/23416/thumb/holygrail.PNG?1696522629"
+    },
+    {
+      "chainId": 1666600000,
+      "address": "0x22fb638a010e922d53fd2671a598a3334c228b62",
+      "name": "Speed Star JOC",
+      "symbol": "JOC",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/24883/thumb/f2zOnAa4_400x400.jpg?1696524042"
+    },
+    {
+      "chainId": 1666600000,
+      "address": "0xd74433b187cf0ba998ad9be3486b929c76815215",
+      "name": "Artemis",
+      "symbol": "MIS",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/18916/thumb/136704691-920ef315-4906-4a82-bca1-144b07dea3fb.png?1696518373"
+    },
+    {
+      "chainId": 1666600000,
+      "address": "0x4f529873288668815d66eda11314f719b23dd846",
+      "name": "CougarSwap",
+      "symbol": "CGS",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/19402/thumb/logo.png?1696518842"
+    },
+    {
+      "chainId": 1666600000,
+      "address": "0xfe1b516a7297eb03229a8b5afad80703911e81cb",
+      "name": "Crypto Royale",
+      "symbol": "ROY",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/20668/thumb/ROY_logo_new_design_small.png?1696520069"
+    },
+    {
+      "chainId": 1666600000,
+      "address": "0xcf1709ad76a79d5a60210f23e81ce2460542a836",
+      "name": "Tranquil Finance",
+      "symbol": "TRANQ",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/18708/thumb/tranquil.png?1696518176"
+    },
+    {
+      "chainId": 1666600000,
+      "address": "0x09e6e20ff399c2134c14232e172ce8ba2b03017e",
+      "name": "Kilopi",
+      "symbol": "LOP",
+      "decimals": 6,
+      "logoURI": "https://assets.coingecko.com/coins/images/29496/thumb/logo_kilopi_200sq.png?1696528442"
     },
     {
       "chainId": 1666600000,
@@ -87,67 +143,11 @@
     },
     {
       "chainId": 1666600000,
-      "address": "0xb55106308974cebe299a0f0505435c47b404b9a6",
-      "name": "ParadiseFi",
-      "symbol": "EDEN",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/19404/thumb/paradisefi.PNG?1696518844"
-    },
-    {
-      "chainId": 1666600000,
-      "address": "0x673d2ec54e0a6580fc7e098295b70e3ce0350d03",
-      "name": "Bridged WBNB",
-      "symbol": "WBNB",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/53070/thumb/wrapped_bnb.png?1735264554"
-    },
-    {
-      "chainId": 1666600000,
-      "address": "0xd74433b187cf0ba998ad9be3486b929c76815215",
-      "name": "Artemis",
-      "symbol": "MIS",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/18916/thumb/136704691-920ef315-4906-4a82-bca1-144b07dea3fb.png?1696518373"
-    },
-    {
-      "chainId": 1666600000,
       "address": "0x2dae9ac8e3195715f308b59e7e9326f115ab4d98",
       "name": "Speed Star SPEED",
       "symbol": "SPEED",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/24983/thumb/f2zOnAa4_400x400.jpg?1696524136"
-    },
-    {
-      "chainId": 1666600000,
-      "address": "0x8d760497554eecc3b9036fb0364156ef2f0d02bc",
-      "name": "HolyGrail",
-      "symbol": "HLY",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/23416/thumb/holygrail.PNG?1696522629"
-    },
-    {
-      "chainId": 1666600000,
-      "address": "0xfe1b516a7297eb03229a8b5afad80703911e81cb",
-      "name": "Crypto Royale",
-      "symbol": "ROY",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/20668/thumb/ROY_logo_new_design_small.png?1696520069"
-    },
-    {
-      "chainId": 1666600000,
-      "address": "0x22d62b19b7039333ad773b7185bb61294f3adc19",
-      "name": "Tranquil Staked ONE",
-      "symbol": "STONE",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/21848/thumb/7zRXwiV.png?1696521203"
-    },
-    {
-      "chainId": 1666600000,
-      "address": "0xcf1709ad76a79d5a60210f23e81ce2460542a836",
-      "name": "Tranquil Finance",
-      "symbol": "TRANQ",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/18708/thumb/tranquil.png?1696518176"
     },
     {
       "chainId": 1666600000,
@@ -159,11 +159,11 @@
     },
     {
       "chainId": 1666600000,
-      "address": "0x09e6e20ff399c2134c14232e172ce8ba2b03017e",
-      "name": "Kilopi",
-      "symbol": "LOP",
-      "decimals": 6,
-      "logoURI": "https://assets.coingecko.com/coins/images/29496/thumb/logo_kilopi_200sq.png?1696528442"
+      "address": "0x22d62b19b7039333ad773b7185bb61294f3adc19",
+      "name": "Tranquil Staked ONE",
+      "symbol": "STONE",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/21848/thumb/7zRXwiV.png?1696521203"
     },
     {
       "chainId": 1666600000,
@@ -659,7 +659,7 @@
       "name": "Frax",
       "symbol": "FRAX",
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/13422/thumb/FRAX_icon.png?1696513182"
+      "logoURI": "https://assets.coingecko.com/coins/images/13422/thumb/legacy_frax_icon.png?1739433559"
     },
     {
       "chainId": 1666600000,
@@ -769,6 +769,6 @@
   "version": {
     "major": 14,
     "minor": 0,
-    "patch": 2
+    "patch": 3
   }
 }

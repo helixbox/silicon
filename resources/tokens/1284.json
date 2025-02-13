@@ -4,7 +4,7 @@
   "keywords": [
     "defi"
   ],
-  "timestamp": "2025-02-07T10:00:35.924+00:00",
+  "timestamp": "2025-02-13T08:00:58.830+00:00",
   "tokens": [
     {
       "chainId": 1284,
@@ -24,14 +24,6 @@
     },
     {
       "chainId": 1284,
-      "address": "0x511ab53f793683763e5a8829738301368a2411e3",
-      "name": "Moonwell",
-      "symbol": "WELL",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/26133/thumb/WELL.png?1696525221"
-    },
-    {
-      "chainId": 1284,
       "address": "0xffffffff63d24ecc8eb8a7b5d0803e900f7b6ced",
       "name": "Phala  Moonbeam ",
       "symbol": "XCPHA",
@@ -40,19 +32,19 @@
     },
     {
       "chainId": 1284,
+      "address": "0x511ab53f793683763e5a8829738301368a2411e3",
+      "name": "Moonwell",
+      "symbol": "WELL",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/26133/thumb/WELL.png?1696525221"
+    },
+    {
+      "chainId": 1284,
       "address": "0x4792c1ecb969b036eb51330c63bd27899a13d84e",
       "name": "Multichain Bridged WAVAX  Moonbeam ",
       "symbol": "WAVAX",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/53014/thumb/avax.png?1734993474"
-    },
-    {
-      "chainId": 1284,
-      "address": "0xacc15dc74880c9944775448304b263d191c6077f",
-      "name": "Wrapped Moonbeam",
-      "symbol": "WGLMR",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/23688/thumb/Moonbeam_WGLMR_ICON.png?1716655228"
     },
     {
       "chainId": 1284,
@@ -69,6 +61,14 @@
       "symbol": "GLINT",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/22893/thumb/glint.png?1696522190"
+    },
+    {
+      "chainId": 1284,
+      "address": "0xacc15dc74880c9944775448304b263d191c6077f",
+      "name": "Wrapped Moonbeam",
+      "symbol": "WGLMR",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/23688/thumb/Moonbeam_WGLMR_ICON.png?1716655228"
     },
     {
       "chainId": 1284,
@@ -188,7 +188,7 @@
       "name": "Frax",
       "symbol": "FRAX",
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/13422/thumb/FRAX_icon.png?1696513182"
+      "logoURI": "https://assets.coingecko.com/coins/images/13422/thumb/legacy_frax_icon.png?1739433559"
     },
     {
       "chainId": 1284,
@@ -306,6 +306,6 @@
   "version": {
     "major": 6,
     "minor": 0,
-    "patch": 0
+    "patch": 1
   }
 }
