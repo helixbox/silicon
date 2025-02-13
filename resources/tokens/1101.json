@@ -4,7 +4,7 @@
   "keywords": [
     "defi"
   ],
-  "timestamp": "2025-01-21T07:00:35.030+00:00",
+  "timestamp": "2025-02-13T10:00:24.758+00:00",
   "tokens": [
     {
       "chainId": 1101,
@@ -16,14 +16,6 @@
     },
     {
       "chainId": 1101,
-      "address": "0x0709e962221dd8ac9ec5c56f85ef789d3c1b9776",
-      "name": "SOBAX",
-      "symbol": "SBX",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/37019/thumb/%E3%83%AD%E3%82%B3%E3%82%99%EF%BC%92%E3%81%AE%E3%82%B3%E3%83%92%E3%82%9A%E3%83%BC.png?1713153811"
-    },
-    {
-      "chainId": 1101,
       "address": "0x696c0ba235444607a1c4b93e6b34ba14928c1b60",
       "name": "DoveSwap",
       "symbol": "DOV",
@@ -32,19 +24,27 @@
     },
     {
       "chainId": 1101,
-      "address": "0x1e4a5963abfd975d8c9021ce480b42188849d41d",
-      "name": "Polygon Hermez Bridged USDT  Polygon zk",
-      "symbol": "USDT",
-      "decimals": 6,
-      "logoURI": "https://assets.coingecko.com/coins/images/35143/thumb/usdt_logo.png?1707467554"
-    },
-    {
-      "chainId": 1101,
       "address": "0xa8ce8aee21bc2a48a5ef670afcc9274c7bbbc035",
       "name": "Polygon Hermez Bridged USDC  Polygon zk",
       "symbol": "USDC",
       "decimals": 6,
       "logoURI": "https://assets.coingecko.com/coins/images/35263/thumb/USDC_Icon.png?1708009475"
+    },
+    {
+      "chainId": 1101,
+      "address": "0x0709e962221dd8ac9ec5c56f85ef789d3c1b9776",
+      "name": "SOBAX",
+      "symbol": "SBX",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/37019/thumb/%E3%83%AD%E3%82%B3%E3%82%99%EF%BC%92%E3%81%AE%E3%82%B3%E3%83%92%E3%82%9A%E3%83%BC.png?1713153811"
+    },
+    {
+      "chainId": 1101,
+      "address": "0x1e4a5963abfd975d8c9021ce480b42188849d41d",
+      "name": "Polygon Hermez Bridged USDT  Polygon zk",
+      "symbol": "USDT",
+      "decimals": 6,
+      "logoURI": "https://assets.coingecko.com/coins/images/35143/thumb/usdt_logo.png?1707467554"
     },
     {
       "chainId": 1101,
@@ -108,7 +108,7 @@
       "name": "Frax",
       "symbol": "FRAX",
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/13422/thumb/FRAX_icon.png?1696513182"
+      "logoURI": "https://assets.coingecko.com/coins/images/13422/thumb/legacy_frax_icon.png?1739433559"
     },
     {
       "chainId": 1101,
@@ -234,6 +234,6 @@
   "version": {
     "major": 1,
     "minor": 1,
-    "patch": 0
+    "patch": 1
   }
 }
