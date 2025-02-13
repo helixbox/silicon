@@ -1,5 +1,6 @@
 import axios from "axios";
 import { TokenInfo, TokenList } from "@uniswap/token-lists";
+import levenshtein from 'fast-levenshtein';
 
 import { HbChain, HelixboxChain } from "./chain";
 
@@ -486,7 +487,16 @@ class SyncTokenRuntime {
         }
       }
     }
-    return HelixboxToken.merge(results);
+    const tokens = HelixboxToken.merge(results);
+    return this.sortTokensByLevenshtein(tokens, options.tokens);
+  }
+
+  private sortTokensByLevenshtein(tokens: SiliconToken[], querySymbols: string[]): SiliconToken[] {
+    return tokens.sort((a, b) => {
+      const aScore = Math.min(...querySymbols.map(q => levenshtein.get(a.symbol, q)));
+      const bScore = Math.min(...querySymbols.map(q => levenshtein.get(b.symbol, q)));
+      return aScore - bScore;
+    });
   }
 
   private findCoin(options: {
