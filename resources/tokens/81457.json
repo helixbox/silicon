@@ -4,8 +4,16 @@
   "keywords": [
     "defi"
   ],
-  "timestamp": "2025-02-13T00:00:24.551+00:00",
+  "timestamp": "2025-02-14T00:00:24.273+00:00",
   "tokens": [
+    {
+      "chainId": 81457,
+      "address": "0xb1a5700fa2358173fe465e6ea4ff52e36e88e2ad",
+      "name": "Blast",
+      "symbol": "BLAST",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/35494/thumb/Blast.jpg?1719385662"
+    },
     {
       "chainId": 81457,
       "address": "0xfd4d19f9fbb9f730c3c88a21755832bd2455144e",
@@ -13,14 +21,6 @@
       "symbol": "SSS",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/36139/thumb/sss.jpeg?1710684220"
-    },
-    {
-      "chainId": 81457,
-      "address": "0x963eec23618bbc8e1766661d5f263f18094ae4d5",
-      "name": "CYBRO",
-      "symbol": "CYBRO",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/36941/thumb/3xhsAKWd_400x400.jpg?1712853902"
     },
     {
       "chainId": 81457,
@@ -56,11 +56,27 @@
     },
     {
       "chainId": 81457,
-      "address": "0xb1a5700fa2358173fe465e6ea4ff52e36e88e2ad",
-      "name": "Blast",
-      "symbol": "BLAST",
+      "address": "0xb6e0d8a730c6e5c85c637b1cf7ad6fd07927b965",
+      "name": "Blastin Pepes",
+      "symbol": "BPEPE",
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/35494/thumb/Blast.jpg?1719385662"
+      "logoURI": "https://assets.coingecko.com/coins/images/38717/thumb/blastinpepes.png?1718474635"
+    },
+    {
+      "chainId": 81457,
+      "address": "0x963eec23618bbc8e1766661d5f263f18094ae4d5",
+      "name": "CYBRO",
+      "symbol": "CYBRO",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/36941/thumb/3xhsAKWd_400x400.jpg?1712853902"
+    },
+    {
+      "chainId": 81457,
+      "address": "0x52f847356b38720b55ee18cb3e094ca11c85a192",
+      "name": "Fenix",
+      "symbol": "FNX",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/51406/thumb/Orange_logo.png?1731087837"
     },
     {
       "chainId": 81457,
@@ -104,27 +120,11 @@
     },
     {
       "chainId": 81457,
-      "address": "0xb6e0d8a730c6e5c85c637b1cf7ad6fd07927b965",
-      "name": "Blastin Pepes",
-      "symbol": "BPEPE",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/38717/thumb/blastinpepes.png?1718474635"
-    },
-    {
-      "chainId": 81457,
       "address": "0x5ffd9ebd27f2fcab044c0f0a26a45cb62fa29c06",
       "name": "PacMoon",
       "symbol": "PAC",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/36459/thumb/pacmoon.png?1711501114"
-    },
-    {
-      "chainId": 81457,
-      "address": "0x52f847356b38720b55ee18cb3e094ca11c85a192",
-      "name": "Fenix",
-      "symbol": "FNX",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/51406/thumb/Orange_logo.png?1731087837"
     },
     {
       "chainId": 81457,
@@ -776,6 +776,22 @@
     },
     {
       "chainId": 81457,
+      "address": "0xd2c500a8dd36eee1082314d624a46b5ab37c426e",
+      "name": "Dinari SBUX",
+      "symbol": "SBUXD",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/54364/thumb/d-token-200.png?1739401368"
+    },
+    {
+      "chainId": 81457,
+      "address": "0x0e576b0c554fbaef9893a2cd7b866af516bab581",
+      "name": "Dinari SPSK",
+      "symbol": "SPSKD",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/54391/thumb/d-token-200.png?1739485728"
+    },
+    {
+      "chainId": 81457,
       "address": "0xe0ced15bc8ea1335bec573819f1813ffc5e38878",
       "name": "Dinari BOXX",
       "symbol": "BOXXD",
@@ -784,11 +800,19 @@
     },
     {
       "chainId": 81457,
-      "address": "0xd2c500a8dd36eee1082314d624a46b5ab37c426e",
-      "name": "Dinari SBUX",
-      "symbol": "SBUXD",
+      "address": "0xca838b9437eb20ada32703a8b912922088cf90b5",
+      "name": "Dinari SPTE",
+      "symbol": "SPTED",
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/54364/thumb/d-token-200.png?1739401368"
+      "logoURI": "https://assets.coingecko.com/coins/images/54392/thumb/d-token-200.png?1739485749"
+    },
+    {
+      "chainId": 81457,
+      "address": "0xdd31c8b5c899c0f85fb4738accac44180e4d7390",
+      "name": "Dinari SOXL",
+      "symbol": "SOXLD",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/54366/thumb/d-token-200.png?1739401385"
     },
     {
       "chainId": 81457,
@@ -840,11 +864,11 @@
     },
     {
       "chainId": 81457,
-      "address": "0xdd31c8b5c899c0f85fb4738accac44180e4d7390",
-      "name": "Dinari SOXL",
-      "symbol": "SOXLD",
+      "address": "0x5e9e14b2386a9cd3d2ed510285d3389b34d48640",
+      "name": "Dinari SPUS",
+      "symbol": "SPUSD",
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/54366/thumb/d-token-200.png?1739401385"
+      "logoURI": "https://assets.coingecko.com/coins/images/54393/thumb/d-token-200.png?1739485765"
     },
     {
       "chainId": 81457,
@@ -853,6 +877,38 @@
       "symbol": "USHYD",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/54367/thumb/d-token-200.png?1739401403"
+    },
+    {
+      "chainId": 81457,
+      "address": "0x09bc998f64d32b83d4a534bb2d5a4806a04c855d",
+      "name": "Dinari SPWO",
+      "symbol": "SPWOD",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/54394/thumb/d-token-200.png?1739485782"
+    },
+    {
+      "chainId": 81457,
+      "address": "0x8f6a976b6c7fe18e31870eadfae09b3cb447541a",
+      "name": "Dinari UFO",
+      "symbol": "UFOD",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/54395/thumb/d-token-200.png?1739485800"
+    },
+    {
+      "chainId": 81457,
+      "address": "0x32cbb8cdacd90dbec250f9b1e8b06232c6f3297b",
+      "name": "Dinari VXX",
+      "symbol": "VXXD",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/54396/thumb/d-token-200.png?1739485820"
+    },
+    {
+      "chainId": 81457,
+      "address": "0x1b91eb087e128a0514b9eb8d0804b586641a0849",
+      "name": "Dinari TJX",
+      "symbol": "TJXD",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/54397/thumb/d-token-200.png?1739485840"
     },
     {
       "chainId": 81457,
@@ -1264,7 +1320,7 @@
   ],
   "version": {
     "major": 13,
-    "minor": 3,
+    "minor": 4,
     "patch": 0
   }
 }
