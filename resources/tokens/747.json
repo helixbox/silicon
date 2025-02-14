@@ -4,8 +4,32 @@
   "keywords": [
     "defi"
   ],
-  "timestamp": "2024-12-05T22:00:27.582+00:00",
+  "timestamp": "2025-02-14T19:00:18.525+00:00",
   "tokens": [
+    {
+      "chainId": 747,
+      "address": "0x1b97100ea1d7126c4d60027e231ea4cb25314bdb",
+      "name": "Ankr Staked FLOW",
+      "symbol": "ANKRFLOW",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/50281/thumb/ankrFLOW_%281%29.png?1726807706"
+    },
+    {
+      "chainId": 747,
+      "address": "0x2aabea2058b5ac2d339b163c6ab6f2b6d53aabed",
+      "name": "Flow Bridged PYUSD  Flow ",
+      "symbol": "USDF",
+      "decimals": 6,
+      "logoURI": "https://assets.coingecko.com/coins/images/54418/thumb/USDF_Logo_200x200.png?1739556351"
+    },
+    {
+      "chainId": 747,
+      "address": "0x2f6f07cdcf3588944bf4c42ac74ff24bf56e7590",
+      "name": "Stargate Bridged WETH  Flow ",
+      "symbol": "STGWETH",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/54419/thumb/weth200.png?1739556384"
+    },
     {
       "chainId": 747,
       "address": "0x7f27352d5f83db87a5a3e00f4b07cc2138d8ee52",
@@ -13,6 +37,14 @@
       "symbol": "USDCE",
       "decimals": 6,
       "logoURI": "https://assets.coingecko.com/coins/images/50488/thumb/usdc.png?1727927821"
+    },
+    {
+      "chainId": 747,
+      "address": "0xb73bf8e6a4477a952e0338e6cc00cc0ce5ad04ba",
+      "name": "Froth",
+      "symbol": "FROTH",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/52318/thumb/froth.png?1733077044"
     },
     {
       "chainId": 747,
@@ -24,19 +56,11 @@
     },
     {
       "chainId": 747,
-      "address": "0x1b97100ea1d7126c4d60027e231ea4cb25314bdb",
-      "name": "Ankr Staked FLOW",
-      "symbol": "ANKRFLOW",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/50281/thumb/ankrFLOW_%281%29.png?1726807706"
-    },
-    {
-      "chainId": 747,
-      "address": "0xb73bf8e6a4477a952e0338e6cc00cc0ce5ad04ba",
-      "name": "Froth",
-      "symbol": "FROTH",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/52318/thumb/froth.png?1733077044"
+      "address": "0xf1815bd50389c46847f0bda824ec8da914045d14",
+      "name": "Stargate Bridged USDC  Flow ",
+      "symbol": "STGUSDC",
+      "decimals": 6,
+      "logoURI": "https://assets.coingecko.com/coins/images/54417/thumb/USDC_200.png?1739556316"
     },
     {
       "chainId": 747,
@@ -49,7 +73,7 @@
   ],
   "version": {
     "major": 0,
-    "minor": 3,
+    "minor": 4,
     "patch": 0
   }
 }
