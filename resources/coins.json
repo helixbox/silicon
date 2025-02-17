@@ -4235,9 +4235,17 @@
   {
     "id": "airtok",
     "symbol": "airtok",
-    "name": "Airtok",
+    "name": "Airtok [OLD]",
     "platforms": {
       "binance-smart-chain": "0x461ab4d656bc22230a650d9d37e1c85f90bfed02"
+    }
+  },
+  {
+    "id": "airtok-2",
+    "symbol": "airtok",
+    "name": "Airtok",
+    "platforms": {
+      "base": "0x8217aef424b8ed7279d90ec29315a6295dc73d16"
     }
   },
   {
@@ -20222,6 +20230,14 @@
     }
   },
   {
+    "id": "brat",
+    "symbol": "brat",
+    "name": "Brat",
+    "platforms": {
+      "base": "0xb4d4ff3fcbd6965962a79229aa94631d394217cb"
+    }
+  },
+  {
     "id": "braza-by-virtuals",
     "symbol": "braza",
     "name": "BRAZA by Virtuals",
@@ -21505,6 +21521,30 @@
     "name": "BRN Metaverse",
     "platforms": {
       "binance-smart-chain": "0x926ecc7687fcfb296e97a2b4501f41a6f5f8c214"
+    }
+  },
+  {
+    "id": "broccoli-2",
+    "symbol": "broccoli",
+    "name": "BROCCOLI",
+    "platforms": {
+      "binance-smart-chain": "0x12819623921be0f4d5ebfc12c75e6d08a1683080"
+    }
+  },
+  {
+    "id": "broccoli-3",
+    "symbol": "broccoli",
+    "name": "Broccoli",
+    "platforms": {
+      "binance-smart-chain": "0x12b4356c65340fb02cdff01293f95febb1512f3b"
+    }
+  },
+  {
+    "id": "broccoli-4",
+    "symbol": "broccoli",
+    "name": "Broccoli",
+    "platforms": {
+      "binance-smart-chain": "0x23d3f4eaaa515403c6765bb623f287a8cca28f2b"
     }
   },
   {
@@ -36292,6 +36332,14 @@
     }
   },
   {
+    "id": "din",
+    "symbol": "din",
+    "name": "DIN",
+    "platforms": {
+      "binance-smart-chain": "0x3ab1a5f76e12202d1ad1548a08a799501581da4e"
+    }
+  },
+  {
     "id": "dinari-aapl-dshares",
     "symbol": "aapl.d",
     "name": "Dinari AAPL",
@@ -45675,7 +45723,9 @@
     "id": "fartgirl",
     "symbol": "fartgirl",
     "name": "FARTGIRL",
-    "platforms": {}
+    "platforms": {
+      "solana": "Cjrrc595e9R47EZ3gkbUmL6ZZpLSxiXg16v2Y3Aapump"
+    }
   },
   {
     "id": "fartgoatpengubutthole6900ai16z",
@@ -48428,6 +48478,14 @@
     "name": "Fracton Protocol",
     "platforms": {
       "ethereum": "0xee9e7bb7e55bbc86414047b61d65c9c0d91ffbd0"
+    }
+  },
+  {
+    "id": "fractrade",
+    "symbol": "frac",
+    "name": "FRACTRADE",
+    "platforms": {
+      "hyperliquid": "0x58fb407b5fce2b90348cdf090d6dd3d4"
     }
   },
   {
@@ -71558,6 +71616,14 @@
       "taiko": "0xf6718b2701d4a6498ef77d7c152b2137ab28b8a3",
       "": "0xf6718b2701d4a6498ef77d7c152b2137ab28b8a3",
       "sui": "0x5f496ed5d9d045c5b788dc1bb85f54100f2ede11e46f6a232c29daada4c5bdb6::coin::COIN"
+    }
+  },
+  {
+    "id": "lorenzo-wrapped-bitcoin",
+    "symbol": "enzobtc",
+    "name": "Lorenzo Wrapped Bitcoin",
+    "platforms": {
+      "binance-smart-chain": "0x6a9a65b84843f5fd4ac9a0471c4fc11afffbce4a"
     }
   },
   {
@@ -125853,6 +125919,7 @@
     "platforms": {
       "ethereum": "0x1f9840a85d5af5bf1d1762f925bdaddc4201f984",
       "xdai": "0x4537e328bf7e4efa29d05caea260d7fe26af9d74",
+      "unichain": "0x8f187aa05619a017077f5308904739877ce9ea21",
       "near-protocol": "1f9840a85d5af5bf1d1762f925bdaddc4201f984.factory.bridge.near",
       "optimistic-ethereum": "0x6fd9d7ad17242c41f7131d257212c54a0e816691",
       "huobi-token": "0x22c54ce8321a4015740ee1109d9cbc25815c46e6",
