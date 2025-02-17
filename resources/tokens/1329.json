@@ -4,7 +4,7 @@
   "keywords": [
     "defi"
   ],
-  "timestamp": "2025-02-17T10:00:43.912+00:00",
+  "timestamp": "2025-02-17T11:00:39.391+00:00",
   "tokens": [
     {
       "chainId": 1329,
@@ -112,11 +112,11 @@
     },
     {
       "chainId": 1329,
-      "address": "0x80eede496655fb9047dd39d9f418d5483ed600df",
-      "name": "Frax",
-      "symbol": "FRAX",
+      "address": "0x5bff88ca1442c2496f7e475e9e7786383bc070c0",
+      "name": "Staked Frax USD",
+      "symbol": "SFRXUSD",
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/13422/thumb/frax-logo.png?1739780303"
+      "logoURI": "https://assets.coingecko.com/coins/images/53964/thumb/sfrxUSD.png?1737792232"
     },
     {
       "chainId": 1329,
@@ -125,6 +125,14 @@
       "symbol": "SPEX",
       "decimals": 6,
       "logoURI": "https://assets.coingecko.com/coins/images/35288/thumb/download.png?1708070694"
+    },
+    {
+      "chainId": 1329,
+      "address": "0x80eede496655fb9047dd39d9f418d5483ed600df",
+      "name": "Frax USD",
+      "symbol": "FRXUSD",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/53963/thumb/frxUSD.png?1737792154"
     },
     {
       "chainId": 1329,
@@ -169,7 +177,7 @@
   ],
   "version": {
     "major": 2,
-    "minor": 0,
-    "patch": 2
+    "minor": 1,
+    "patch": 0
   }
 }

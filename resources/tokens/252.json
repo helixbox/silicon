@@ -4,7 +4,7 @@
   "keywords": [
     "defi"
   ],
-  "timestamp": "2025-02-17T09:00:21.030+00:00",
+  "timestamp": "2025-02-17T12:00:19.332+00:00",
   "tokens": [
     {
       "chainId": 252,
@@ -36,6 +36,14 @@
       "name": "Frax Doge",
       "symbol": "FXD",
       "decimals": 18
+    },
+    {
+      "chainId": 252,
+      "address": "0xfc00000000000000000000000000000000000001",
+      "name": "L2 Standard Bridged frxUSD",
+      "symbol": "FRXUSD",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/54455/thumb/frxusd.png?1739790094"
     },
     {
       "chainId": 252,
@@ -95,6 +103,14 @@
     },
     {
       "chainId": 252,
+      "address": "0xfc00000000000000000000000000000000000008",
+      "name": "Staked Frax USD",
+      "symbol": "SFRXUSD",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/53964/thumb/sfrxUSD.png?1737792232"
+    },
+    {
+      "chainId": 252,
       "address": "0x4c0bd74da8237c08840984fdb33a84b4586aaee6",
       "name": "VNX EURO",
       "symbol": "VEUR",
@@ -111,35 +127,11 @@
     },
     {
       "chainId": 252,
-      "address": "0x80eede496655fb9047dd39d9f418d5483ed600df",
-      "name": "Bridged FRAX",
-      "symbol": "FRAX",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/53060/thumb/frax.jpg?1735171829"
-    },
-    {
-      "chainId": 252,
       "address": "0xfc00000000000000000000000000000000000003",
       "name": "Frax Price Index",
       "symbol": "FPI",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/24945/thumb/FPI_icon.png?1696524100"
-    },
-    {
-      "chainId": 252,
-      "address": "0xfc00000000000000000000000000000000000008",
-      "name": "Staked FRAX",
-      "symbol": "SFRAX",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/35383/thumb/sfrax-logo.png?1739780377"
-    },
-    {
-      "chainId": 252,
-      "address": "0xfc00000000000000000000000000000000000001",
-      "name": "Frax",
-      "symbol": "FRAX",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/13422/thumb/frax-logo.png?1739780303"
     },
     {
       "chainId": 252,
@@ -151,8 +143,8 @@
     }
   ],
   "version": {
-    "major": 2,
-    "minor": 6,
-    "patch": 3
+    "major": 3,
+    "minor": 0,
+    "patch": 0
   }
 }

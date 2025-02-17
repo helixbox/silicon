@@ -10676,6 +10676,7 @@
       "fantom": "0x1b6382dbdea11d97f24495c9a90b7c88469134a4",
       "fraxtal": "0xeb466342c4d449bc9f53a865d5cb90586f405215",
       "filecoin": "0xeb466342c4d449bc9f53a865d5cb90586f405215",
+      "osmosis": "ibc/D189335C6E4A68B513C10AB227BF1C1D38C746766278BA3EEB4FB14124F1D858",
       "optimistic-ethereum": "0xeb466342c4d449bc9f53a865d5cb90586f405215",
       "evmos": "0x15c3eb3b621d1bff62cba1c9536b7c1ae9149b57",
       "mantle": "0xeb466342c4d449bc9f53a865d5cb90586f405215",
@@ -10698,6 +10699,7 @@
     "name": "axlWBTC",
     "platforms": {
       "evmos": "0xf5b24c0093b65408ace53df7ce86a02448d53b25",
+      "osmosis": "ibc/D1542AA8762DB13087D8364F3EA6509FD6F009A34F00426AF9E4F9FA85CBBF1F",
       "archway": "ibc/3A2DEEBCD51D0B74FE7CE058D40B0BF4C0E556CE9219E8F25F92CF288FF35F56",
       "kava": "0x1a35ee4640b0a3b87705b0a4b45d227ba60ca2ad",
       "base": "0x1a35ee4640b0a3b87705b0a4b45d227ba60ca2ad"
@@ -20673,12 +20675,9 @@
     "platforms": {
       "base": "0x909dbde1ebe906af95660033e478d59efe831fed",
       "blast": "0x909dbde1ebe906af95660033e478d59efe831fed",
-      "fraxtal": "0x80eede496655fb9047dd39d9f418d5483ed600df",
       "linea": "0x406cde76a3fd20e48bc1e0f60651e60ae204b040",
       "mantle": "0x406cde76a3fd20e48bc1e0f60651e60ae204b040",
-      "scroll": "0x406cde76a3fd20e48bc1e0f60651e60ae204b040",
-      "mode": "0x80eede496655fb9047dd39d9f418d5483ed600df",
-      "x-layer": "0x80eede496655fb9047dd39d9f418d5483ed600df"
+      "scroll": "0x406cde76a3fd20e48bc1e0f60651e60ae204b040"
     }
   },
   {
@@ -48575,7 +48574,6 @@
     "name": "Frax",
     "platforms": {
       "ethereum": "0x853d955acef822db058eb8505911ed77f175b99e",
-      "sei-v2": "0x80eede496655fb9047dd39d9f418d5483ed600df",
       "moonbeam": "0x322e86852e492a7ee17f28a78c663da38fb33bfb",
       "polygon-zkevm": "0xff8544fed5379d9ffa8d47a74ce6b91e632ac44d",
       "optimistic-ethereum": "0x2e3d870790dc77a83dd1d18184acc7439a53f475",
@@ -48584,7 +48582,6 @@
       "aurora": "0xe4b9e004389d91e4134a28f19bd833cba1d994b6",
       "evmos": "0xe03494d0033687543a80c9b1ca7d6237f2ea8bd8",
       "harmony-shard-0": "0xfa7191d292d5633f702b0bd7e3e3bccc0e633200",
-      "fraxtal": "0xfc00000000000000000000000000000000000001",
       "binance-smart-chain": "0x90c97f71e18723b0cf0dfa30ee176ab653e89f40",
       "fantom": "0xdc301622e621166bd8e82f2ca0a26c13ad0be355",
       "avalanche": "0xd24c2ad096400b6fbcd2ad8b24e7acbc21a1da64",
@@ -67503,6 +67500,14 @@
     }
   },
   {
+    "id": "l2-standard-bridged-frxusd",
+    "symbol": "frxusd",
+    "name": "L2 Standard Bridged frxUSD",
+    "platforms": {
+      "fraxtal": "0xfc00000000000000000000000000000000000001"
+    }
+  },
+  {
     "id": "l2-standard-bridged-sfrxeth-fraxtal",
     "symbol": "sfrxeth",
     "name": "L2 Standard Bridged sfrxETH (Fraxtal)",
@@ -68370,6 +68375,16 @@
     "name": "LayerZero Bridged Frax (Solana)",
     "platforms": {
       "solana": "FR87nWEUxVgerFGhZM8Y4AggKGLnaXswr1Pd8wZ4kZcp"
+    }
+  },
+  {
+    "id": "layerzero-bridged-frxusd",
+    "symbol": "frxusd",
+    "name": "LayerZero Bridged frxUSD",
+    "platforms": {
+      "sei-v2": "0x80eede496655fb9047dd39d9f418d5483ed600df",
+      "mode": "0x80eede496655fb9047dd39d9f418d5483ed600df",
+      "x-layer": "0x80eede496655fb9047dd39d9f418d5483ed600df"
     }
   },
   {
@@ -73254,6 +73269,14 @@
     "name": "Magic Internet Money (Polygon)",
     "platforms": {
       "polygon-pos": "0x49a0400587a7f65072c87c4910449fdcc5c47242"
+    }
+  },
+  {
+    "id": "magic-internet-money-runes",
+    "symbol": "🧙",
+    "name": "MAGIC•INTERNET•MONEY (Runes)",
+    "platforms": {
+      "ordinals": "840000:45"
     }
   },
   {
@@ -114111,7 +114134,6 @@
     "platforms": {
       "arbitrum-one": "0xe3b3fe7bca19ca77ad877a5bebab186becfad906",
       "optimistic-ethereum": "0x2dd1b4d4548accea497050619965f91f78b3b532",
-      "fraxtal": "0xfc00000000000000000000000000000000000008",
       "ethereum": "0xa663b02cf0a4b149d2ad41910cb81e23e1c41c32",
       "binance-smart-chain": "0xa63f56985f9c7f3bc9ffc5685535649e0c1a55f3",
       "avalanche": "0x3405e88af759992937b84e58f2fe691ef0eea320"
@@ -114136,7 +114158,11 @@
     "symbol": "sfrxusd",
     "name": "Staked Frax USD",
     "platforms": {
-      "ethereum": "0xcf62f905562626cfcdd2261162a51fd02fc9c5b6"
+      "ethereum": "0xcf62f905562626cfcdd2261162a51fd02fc9c5b6",
+      "fraxtal": "0xfc00000000000000000000000000000000000008",
+      "sei-v2": "0x5bff88ca1442c2496f7e475e9e7786383bc070c0",
+      "mode": "0x5bff88ca1442c2496f7e475e9e7786383bc070c0",
+      "x-layer": "0x5bff88ca1442c2496f7e475e9e7786383bc070c0"
     }
   },
   {
