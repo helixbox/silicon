@@ -4,7 +4,7 @@
   "keywords": [
     "defi"
   ],
-  "timestamp": "2025-02-17T11:00:39.391+00:00",
+  "timestamp": "2025-02-17T13:00:43.133+00:00",
   "tokens": [
     {
       "chainId": 1329,
@@ -16,19 +16,19 @@
     },
     {
       "chainId": 1329,
-      "address": "0x37a4dd9ced2b19cfe8fac251cd727b5787e45269",
-      "name": "Sei fastUSD",
-      "symbol": "FASTUSD",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/50766/thumb/2024-10-16_14.54.03.jpg?1729120051"
-    },
-    {
-      "chainId": 1329,
       "address": "0xe30fedd158a2e3b13e9badaeabafc5516e95e8c7",
       "name": "Wrapped SEI",
       "symbol": "WSEI",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/38470/thumb/sei.png?1717644025"
+    },
+    {
+      "chainId": 1329,
+      "address": "0x37a4dd9ced2b19cfe8fac251cd727b5787e45269",
+      "name": "Sei fastUSD",
+      "symbol": "FASTUSD",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/50766/thumb/2024-10-16_14.54.03.jpg?1729120051"
     },
     {
       "chainId": 1329,
@@ -45,6 +45,14 @@
       "symbol": "SETH",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/51474/thumb/seiyanETH_%281%29.png?1731401763"
+    },
+    {
+      "chainId": 1329,
+      "address": "0x80eede496655fb9047dd39d9f418d5483ed600df",
+      "name": "LayerZero Bridged frxUSD",
+      "symbol": "FRXUSD",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/54454/thumb/frxusd.png?1739789465"
     },
     {
       "chainId": 1329,
@@ -128,14 +136,6 @@
     },
     {
       "chainId": 1329,
-      "address": "0x80eede496655fb9047dd39d9f418d5483ed600df",
-      "name": "Frax USD",
-      "symbol": "FRXUSD",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/53963/thumb/frxUSD.png?1737792154"
-    },
-    {
-      "chainId": 1329,
       "address": "0x69e48ce9cf965acc1de2ad5ad2fdbc3bdb51509b",
       "name": "Cook",
       "symbol": "COOK",
@@ -178,6 +178,6 @@
   "version": {
     "major": 2,
     "minor": 1,
-    "patch": 0
+    "patch": 1
   }
 }
