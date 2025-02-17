@@ -4,15 +4,23 @@
   "keywords": [
     "defi"
   ],
-  "timestamp": "2025-02-13T10:00:40.787+00:00",
+  "timestamp": "2025-02-17T10:00:43.912+00:00",
   "tokens": [
     {
       "chainId": 1329,
-      "address": "0xbd82f3bfe1df0c84faec88a22ebc34c9a86595dc",
-      "name": "Chips",
-      "symbol": "CHIPS",
-      "decimals": 6,
-      "logoURI": "https://assets.coingecko.com/coins/images/52405/thumb/logo.png?1733303663"
+      "address": "0xa8a3a5013104e093245164ea56588dbe10a3eb48",
+      "name": "Super Seyian ETH",
+      "symbol": "SSETH",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/50331/thumb/2024-09-18_19.52.53.jpg?1727164288"
+    },
+    {
+      "chainId": 1329,
+      "address": "0x37a4dd9ced2b19cfe8fac251cd727b5787e45269",
+      "name": "Sei fastUSD",
+      "symbol": "FASTUSD",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/50766/thumb/2024-10-16_14.54.03.jpg?1729120051"
     },
     {
       "chainId": 1329,
@@ -21,6 +29,14 @@
       "symbol": "WSEI",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/38470/thumb/sei.png?1717644025"
+    },
+    {
+      "chainId": 1329,
+      "address": "0xbd82f3bfe1df0c84faec88a22ebc34c9a86595dc",
+      "name": "Chips",
+      "symbol": "CHIPS",
+      "decimals": 6,
+      "logoURI": "https://assets.coingecko.com/coins/images/52405/thumb/logo.png?1733303663"
     },
     {
       "chainId": 1329,
@@ -37,22 +53,6 @@
       "symbol": "JLY",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/31805/thumb/short.png?1719199901"
-    },
-    {
-      "chainId": 1329,
-      "address": "0xa8a3a5013104e093245164ea56588dbe10a3eb48",
-      "name": "Super Seyian ETH",
-      "symbol": "SSETH",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/50331/thumb/2024-09-18_19.52.53.jpg?1727164288"
-    },
-    {
-      "chainId": 1329,
-      "address": "0x37a4dd9ced2b19cfe8fac251cd727b5787e45269",
-      "name": "Sei fastUSD",
-      "symbol": "FASTUSD",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/50766/thumb/2024-10-16_14.54.03.jpg?1729120051"
     },
     {
       "chainId": 1329,
@@ -116,7 +116,7 @@
       "name": "Frax",
       "symbol": "FRAX",
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/13422/thumb/legacy_frax_icon.png?1739433559"
+      "logoURI": "https://assets.coingecko.com/coins/images/13422/thumb/frax-logo.png?1739780303"
     },
     {
       "chainId": 1329,
@@ -170,6 +170,6 @@
   "version": {
     "major": 2,
     "minor": 0,
-    "patch": 1
+    "patch": 2
   }
 }

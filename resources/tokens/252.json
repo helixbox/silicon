@@ -4,14 +4,23 @@
   "keywords": [
     "defi"
   ],
-  "timestamp": "2025-02-13T10:00:19.893+00:00",
+  "timestamp": "2025-02-17T09:00:21.030+00:00",
   "tokens": [
     {
       "chainId": 252,
-      "address": "0xdebb8a79b025b2fc2ca506f0c69497b60b91235c",
-      "name": "Frax Doge",
-      "symbol": "FXD",
-      "decimals": 18
+      "address": "0xdcc0f2d8f90fde85b10ac1c8ab57dc0ae946a543",
+      "name": "Fraxtal Bridged USDC  Fraxtal ",
+      "symbol": "USDC",
+      "decimals": 6,
+      "logoURI": "https://assets.coingecko.com/coins/images/52655/thumb/usdc.jpg?1733995749"
+    },
+    {
+      "chainId": 252,
+      "address": "0x211cc4dd073734da055fbf44a2b4667d5e5fe5d2",
+      "name": "Ethena Staked USDe  Fraxtal ",
+      "symbol": "SUSDE",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/52911/thumb/susde.jpg?1734676195"
     },
     {
       "chainId": 252,
@@ -20,6 +29,13 @@
       "symbol": "DUSD",
       "decimals": 6,
       "logoURI": "https://assets.coingecko.com/coins/images/53290/thumb/dUSD_Logo.png?1735997462"
+    },
+    {
+      "chainId": 252,
+      "address": "0xdebb8a79b025b2fc2ca506f0c69497b60b91235c",
+      "name": "Frax Doge",
+      "symbol": "FXD",
+      "decimals": 18
     },
     {
       "chainId": 252,
@@ -36,22 +52,6 @@
       "symbol": "RWA",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/35798/thumb/_E-hXm9c_400x400.jpg?1709807509"
-    },
-    {
-      "chainId": 252,
-      "address": "0x211cc4dd073734da055fbf44a2b4667d5e5fe5d2",
-      "name": "Ethena Staked USDe  Fraxtal ",
-      "symbol": "SUSDE",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/52911/thumb/susde.jpg?1734676195"
-    },
-    {
-      "chainId": 252,
-      "address": "0xdcc0f2d8f90fde85b10ac1c8ab57dc0ae946a543",
-      "name": "Fraxtal Bridged USDC  Fraxtal ",
-      "symbol": "USDC",
-      "decimals": 6,
-      "logoURI": "https://assets.coingecko.com/coins/images/52655/thumb/usdc.jpg?1733995749"
     },
     {
       "chainId": 252,
@@ -131,7 +131,7 @@
       "name": "Staked FRAX",
       "symbol": "SFRAX",
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/35383/thumb/legacy_sfrax_icon.png?1739433581"
+      "logoURI": "https://assets.coingecko.com/coins/images/35383/thumb/sfrax-logo.png?1739780377"
     },
     {
       "chainId": 252,
@@ -139,7 +139,7 @@
       "name": "Frax",
       "symbol": "FRAX",
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/13422/thumb/legacy_frax_icon.png?1739433559"
+      "logoURI": "https://assets.coingecko.com/coins/images/13422/thumb/frax-logo.png?1739780303"
     },
     {
       "chainId": 252,
@@ -153,6 +153,6 @@
   "version": {
     "major": 2,
     "minor": 6,
-    "patch": 2
+    "patch": 3
   }
 }
