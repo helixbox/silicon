@@ -4519,15 +4519,6 @@
     }
   },
   {
-    "id": "akash-network",
-    "symbol": "akt",
-    "name": "Akash Network",
-    "platforms": {
-      "akash": "uakt",
-      "archway": "ibc/C2CFB1C37C146CF95B0784FD518F8030FEFC76C5800105B1742FB65FFE65F873"
-    }
-  },
-  {
     "id": "aki-protocol",
     "symbol": "aki",
     "name": "Aki Network",
@@ -19884,7 +19875,9 @@
     "id": "bostrom",
     "symbol": "boot",
     "name": "Bostrom",
-    "platforms": {}
+    "platforms": {
+      "osmosis": "ibc/FE2CD1E6828EC0FAB8AF39BAC45BC25B965BA67CCBC50C13A14BD610B0D1E2C4"
+    }
   },
   {
     "id": "bot-compiler",
@@ -48733,7 +48726,10 @@
     "symbol": "frxusd",
     "name": "Frax USD",
     "platforms": {
-      "ethereum": "0xcacd6fd266af91b8aed52accc382b4e165586e29"
+      "ethereum": "0xcacd6fd266af91b8aed52accc382b4e165586e29",
+      "sei-network": "0x80eede496655fb9047dd39d9f418d5483ed600df",
+      "sonic": "0x80eede496655fb9047dd39d9f418d5483ed600df",
+      "arbitrum-one": "0x80eede496655fb9047dd39d9f418d5483ed600df"
     }
   },
   {
@@ -50544,7 +50540,7 @@
   {
     "id": "gamer-tag",
     "symbol": "gmrt",
-    "name": "Gamer Tag",
+    "name": "The Game Company",
     "platforms": {
       "base": "0x6967f0974d76d34e140cae27efea32cdf546b58e",
       "ethereum": "0x6967f0974d76d34e140cae27efea32cdf546b58e"
@@ -84878,7 +84874,7 @@
   {
     "id": "nftxbt-by-virtuals",
     "symbol": "nftxbt",
-    "name": "nftxbt by Virtuals",
+    "name": "nftxbt",
     "platforms": {
       "base": "0x08c81699f9a357a9f0d04a09b353576ca328d60d"
     }
@@ -105698,7 +105694,7 @@
   {
     "id": "scarlet-waifu-capital-managemnet",
     "symbol": "waifu",
-    "name": "Scarlet Waifu Capital Managemnet",
+    "name": "Scarlet Waifu Capital Management",
     "platforms": {
       "avalanche": "0xff24003428fb2e969c39edee4e9f464b0b78313d"
     }
@@ -114279,7 +114275,10 @@
       "fraxtal": "0xfc00000000000000000000000000000000000008",
       "sei-v2": "0x5bff88ca1442c2496f7e475e9e7786383bc070c0",
       "mode": "0x5bff88ca1442c2496f7e475e9e7786383bc070c0",
-      "x-layer": "0x5bff88ca1442c2496f7e475e9e7786383bc070c0"
+      "x-layer": "0x5bff88ca1442c2496f7e475e9e7786383bc070c0",
+      "sei-network": "0x5bff88ca1442c2496f7e475e9e7786383bc070c0",
+      "sonic": "0x5bff88ca1442c2496f7e475e9e7786383bc070c0",
+      "arbitrum-one": "0x5bff88ca1442c2496f7e475e9e7786383bc070c0"
     }
   },
   {
