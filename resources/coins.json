@@ -10585,6 +10585,7 @@
     "platforms": {
       "fantom": "0xd226392c23fb3476274ed6759d4a478db3197d82",
       "optimistic-ethereum": "0x7f5373ae26c3e8ffc4c77b7255df7ec1a9af52a6",
+      "osmosis": "ibc/8242AD24008032E457D2E12D46588FD39FB54FB29680C6C7663D296B383C37C4",
       "secret": "secret1wk5j2cntwg2fgklf0uta3tlkvt87alfj7kepuw",
       "kava": "0x7f5373ae26c3e8ffc4c77b7255df7ec1a9af52a6",
       "arbitrum-one": "0x7f5373ae26c3e8ffc4c77b7255df7ec1a9af52a6",
@@ -44776,7 +44777,9 @@
     "id": "evmos",
     "symbol": "evmos",
     "name": "Evmos",
-    "platforms": {}
+    "platforms": {
+      "osmosis": "ibc/6AE98883D4D5D5FF9E50D7130F1305DA2FFA0C652D1DD9C123657C6B4EB2DF8A"
+    }
   },
   {
     "id": "evoload",
@@ -63700,6 +63703,7 @@
     "platforms": {
       "cosmos": "ibc/46B44899322F3CD854D2D46DEEF881958467CDD4B3B10086DA49296BBED94BED",
       "evmos": "0x3452e23f9c4cc62c70b7adad699b264af3549c19",
+      "osmosis": "ibc/46B44899322F3CD854D2D46DEEF881958467CDD4B3B10086DA49296BBED94BED",
       "secret": "secret1z6e4skg5g9w65u5sqznrmagu05xq8u6zjcdg4a"
     }
   },
@@ -64758,7 +64762,9 @@
     "id": "kava",
     "symbol": "kava",
     "name": "Kava",
-    "platforms": {}
+    "platforms": {
+      "osmosis": "ibc/57AA1A70A4BC9769C525EBF6386F7A21536E04A79D62E1981EFCEF9428EBB205"
+    }
   },
   {
     "id": "kava-lend",
@@ -106205,7 +106211,8 @@
     "symbol": "scrt",
     "name": "Secret",
     "platforms": {
-      "secret": "secret1k0jntykt7e4g3y88ltc60czgjuqdy4c9e8fzek"
+      "secret": "secret1k0jntykt7e4g3y88ltc60czgjuqdy4c9e8fzek",
+      "osmosis": "ibc/0954E1C28EB7AF5B72D24F3BC2B47BBB2FDF91BDDFD57B74B99E133AED40972A"
     }
   },
   {
@@ -114763,6 +114770,7 @@
       "cosmos": "ibc/987C17B11ABC2B20019178ACE62929FE9840202CE79498E29FE8E5CB02B7C0A4",
       "evmos": "0x5ad523d94efb56c400941eb6f34393b84c75ba39",
       "persistence": "ibc/AD8E1D4AC4EA8FC79CC46E33319A3791477D4DEBFC30D5D874074B993422B41B",
+      "osmosis": "ibc/987C17B11ABC2B20019178ACE62929FE9840202CE79498E29FE8E5CB02B7C0A4",
       "binance-smart-chain": "0xc3cac4ae38ccf6985ef9039acc1abbc874ddcbb0"
     }
   },
@@ -119867,7 +119875,8 @@
     "symbol": "ustc",
     "name": "TerraClassicUSD",
     "platforms": {
-      "terra": "uusd"
+      "terra": "uusd",
+      "osmosis": "ibc/BE1BB42D4BE3C30D50B68D7C41DB4DFCE9678E8EF8C539F6E6A9345048894FCC"
     }
   },
   {
