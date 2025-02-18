@@ -4,7 +4,7 @@
   "keywords": [
     "defi"
   ],
-  "timestamp": "2025-02-18T08:00:21.684+00:00",
+  "timestamp": "2025-02-18T10:00:20.743+00:00",
   "tokens": [
     {
       "chainId": 10,
@@ -48,19 +48,19 @@
     },
     {
       "chainId": 10,
+      "address": "0x9560e827af36c94d2ac33a39bce1fe78631088db",
+      "name": "Velodrome Finance",
+      "symbol": "VELO",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/25783/thumb/velo.png?1696524870"
+    },
+    {
+      "chainId": 10,
       "address": "0x7f5c764cbc14f9669b88837ca1490cca17c31607",
       "name": "Standard Bridged USDC e  Optimism ",
       "symbol": "USDCE",
       "decimals": 6,
       "logoURI": "https://assets.coingecko.com/coins/images/31580/thumb/USDC-icon.png?1696530397"
-    },
-    {
-      "chainId": 10,
-      "address": "0x68f180fcce6836688e9084f035309e29bf0a2095",
-      "name": "Optimism Bridged WBTC  Optimism ",
-      "symbol": "WBTC",
-      "decimals": 8,
-      "logoURI": "https://assets.coingecko.com/coins/images/39553/thumb/wbtc.png?1722897341"
     },
     {
       "chainId": 10,
@@ -88,14 +88,6 @@
     },
     {
       "chainId": 10,
-      "address": "0x9560e827af36c94d2ac33a39bce1fe78631088db",
-      "name": "Velodrome Finance",
-      "symbol": "VELO",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/25783/thumb/velo.png?1696524870"
-    },
-    {
-      "chainId": 10,
       "address": "0xf467c7d5a4a9c4687ffc7986ac6ad5a4c81e1404",
       "name": "Kite",
       "symbol": "KITE",
@@ -109,6 +101,14 @@
       "symbol": "",
       "decimals": 6,
       "logoURI": "https://assets.coingecko.com/coins/images/50449/thumb/Token-160px.png?1727772379"
+    },
+    {
+      "chainId": 10,
+      "address": "0x8c6f28f2f1a3c87f0f938b96d27520d9751ec8d9",
+      "name": "sUSD  Optimism ",
+      "symbol": "SUSD",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/37867/thumb/sus.png?1715815715"
     },
     {
       "chainId": 10,
@@ -133,14 +133,6 @@
       "symbol": "OP",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/25244/thumb/Optimism.png?1696524385"
-    },
-    {
-      "chainId": 10,
-      "address": "0x8c6f28f2f1a3c87f0f938b96d27520d9751ec8d9",
-      "name": "sUSD  Optimism ",
-      "symbol": "SUSD",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/37867/thumb/sus.png?1715815715"
     },
     {
       "chainId": 10,
@@ -181,6 +173,14 @@
       "symbol": "USDPY",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/40153/thumb/usdpy.png?1726073418"
+    },
+    {
+      "chainId": 10,
+      "address": "0x68f180fcce6836688e9084f035309e29bf0a2095",
+      "name": "Optimism Bridged WBTC  Optimism ",
+      "symbol": "WBTC",
+      "decimals": 8,
+      "logoURI": "https://assets.coingecko.com/coins/images/39553/thumb/wbtc.png?1722897341"
     },
     {
       "chainId": 10,
@@ -1431,14 +1431,6 @@
     },
     {
       "chainId": 10,
-      "address": "0x3e7ef8f50246f725885102e8238cbba33f276747",
-      "name": "BarnBridge",
-      "symbol": "BOND",
-      "decimals": 17,
-      "logoURI": "https://assets.coingecko.com/coins/images/12811/thumb/barnbridge.jpg?1696512604"
-    },
-    {
-      "chainId": 10,
       "address": "0x00a35fd824c717879bf370e70ac6868b95870dfb",
       "name": "Iron Bank",
       "symbol": "IB",
@@ -1700,6 +1692,14 @@
       "symbol": "PSTAKE",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/23931/thumb/512_x_512_Dark.png?1721243699"
+    },
+    {
+      "chainId": 10,
+      "address": "0x3e7ef8f50246f725885102e8238cbba33f276747",
+      "name": "BarnBridge",
+      "symbol": "BOND",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/12811/thumb/barnbridge.jpg?1696512604"
     },
     {
       "chainId": 10,
@@ -2057,6 +2057,6 @@
   "version": {
     "major": 14,
     "minor": 0,
-    "patch": 2
+    "patch": 3
   }
 }
