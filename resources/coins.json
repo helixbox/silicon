@@ -507,14 +507,6 @@
     }
   },
   {
-    "id": "2g-carbon-coin",
-    "symbol": "2gcc",
-    "name": "2G Carbon Coin",
-    "platforms": {
-      "binance-smart-chain": "0x1a515bf4e35aa2df67109281de6b3b00ec37675e"
-    }
-  },
-  {
     "id": "2moon",
     "symbol": "moon",
     "name": "2MOON",
@@ -6216,7 +6208,9 @@
     "symbol": "amp",
     "name": "Amped Finance",
     "platforms": {
-      "lightlink": "0xca7f14f14d975beffee190cd3cd232a3a988ab9c"
+      "lightlink": "0xca7f14f14d975beffee190cd3cd232a3a988ab9c",
+      "sonic": "0xac611438ae5f3953dedb47c2ea8d6650d601c1b4",
+      "berachain": "0xac611438ae5f3953dedb47c2ea8d6650d601c1b4"
     }
   },
   {
@@ -21612,14 +21606,6 @@
     }
   },
   {
-    "id": "broovs-projects",
-    "symbol": "brs",
-    "name": "Broovs Projects",
-    "platforms": {
-      "binance-smart-chain": "0x98c6fd0281a9a0300cb88553bf386a3492bb70f7"
-    }
-  },
-  {
     "id": "brot",
     "symbol": "brot",
     "name": "BROT",
@@ -28220,14 +28206,6 @@
     }
   },
   {
-    "id": "coinmart-finance",
-    "symbol": "cex",
-    "name": "Coinmart Finance",
-    "platforms": {
-      "binance-smart-chain": "0x8daa7c321f7a7fe921f51d0457ec7f149e8be926"
-    }
-  },
-  {
     "id": "coinmetro",
     "symbol": "xcm",
     "name": "Coinmetro",
@@ -33559,12 +33537,6 @@
     "platforms": {
       "binance-smart-chain": "0xf106f153bd77be6d5191a07159c99c4219a1cec4"
     }
-  },
-  {
-    "id": "dcomm",
-    "symbol": "dcm",
-    "name": "DComm",
-    "platforms": {}
   },
   {
     "id": "dcomy",
@@ -41755,6 +41727,14 @@
     "name": "Eggs",
     "platforms": {
       "ethereum": "0x2e516ba5bf3b7ee47fb99b09eadb60bde80a82e0"
+    }
+  },
+  {
+    "id": "eggs-finance",
+    "symbol": "eggs",
+    "name": "Eggs Finance",
+    "platforms": {
+      "sonic": "0xf26ff70573ddc8a90bd7865af8d7d70b8ff019bc"
     }
   },
   {
@@ -72760,14 +72740,6 @@
     }
   },
   {
-    "id": "lyzi",
-    "symbol": "lyzi",
-    "name": "Lyzi",
-    "platforms": {
-      "tezos": "KT1UMx7aZQWNKY9nC4LRYNsueEiGMfpcQhhD"
-    }
-  },
-  {
     "id": "m2",
     "symbol": "m2",
     "name": "M2",
@@ -80169,14 +80141,6 @@
     }
   },
   {
-    "id": "monkeycoin",
-    "symbol": "mkc",
-    "name": "MonkeyCoin",
-    "platforms": {
-      "arbitrum-one": "0xfa58c669b855b29f99374d0f160db286849d139b"
-    }
-  },
-  {
     "id": "monkeyfi",
     "symbol": "mf",
     "name": "MonkeyFi",
@@ -84363,7 +84327,7 @@
   {
     "id": "newton-project",
     "symbol": "ab",
-    "name": "AB DAO",
+    "name": "AB (prev. Newton)",
     "platforms": {}
   },
   {
@@ -103273,6 +103237,14 @@
     }
   },
   {
+    "id": "roll",
+    "symbol": "roll",
+    "name": "ROLL",
+    "platforms": {
+      "cardano": "9d05077f2e6dcb17915f9b99bc443726939dd2047aafd6cb4a6fe017"
+    }
+  },
+  {
     "id": "rollbit-coin",
     "symbol": "rlb",
     "name": "Rollbit Coin",
@@ -103821,6 +103793,14 @@
     "name": "Rug World Assets",
     "platforms": {
       "base": "0x928a6a9fc62b2c94baf2992a6fba4715f5bb0066"
+    }
+  },
+  {
+    "id": "rugx",
+    "symbol": "rugx",
+    "name": "RUGX",
+    "platforms": {
+      "solana": "2eQEE6yWkAygKgwCeRq1aJcEkjBqnqkhGYo9SQDPpump"
     }
   },
   {
@@ -108259,7 +108239,9 @@
     "symbol": "shitzu",
     "name": "Shitzu",
     "platforms": {
-      "near-protocol": "token.0xshitzu.near"
+      "near-protocol": "token.0xshitzu.near",
+      "solana": "AFbJW5rdaGidnF6o8ZqTtkDBpq3fotSBdJN8fGRN3VRS",
+      "base": "0x473c1656373b3715805f647911e75aaa49c39813"
     }
   },
   {
@@ -139889,6 +139871,7 @@
     "name": "Zygo The Frog",
     "platforms": {
       "ethereum": "0xee2b9b7e168b5b2d40c507b891c7cfb13a6aaf2b",
+      "base": "0xaf4c1405aa8ab2a4f267a9700f9230ddc592f63f",
       "solana": "HSgXgPqxxxpBV2QUANQPsKz9vrDcoGeoYsRsdUE2moon"
     }
   },
