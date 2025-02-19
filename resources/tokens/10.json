@@ -4,16 +4,8 @@
   "keywords": [
     "defi"
   ],
-  "timestamp": "2025-02-18T10:00:20.743+00:00",
+  "timestamp": "2025-02-19T07:00:35.599+00:00",
   "tokens": [
-    {
-      "chainId": 10,
-      "address": "0xda10009cbd5d07dd0cecc66161fc93d7c9000da1",
-      "name": "MakerDAO Optimism Bridged DAI  Optimism",
-      "symbol": "DAI",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/39818/thumb/dai.png?1724190656"
-    },
     {
       "chainId": 10,
       "address": "0x1f32b1c2345538c0c6f582fcb022739c4a194ebb",
@@ -21,14 +13,6 @@
       "symbol": "WSTETH",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/53104/thumb/superbridge-bridged-wsteth-optimism.webp?1735228418"
-    },
-    {
-      "chainId": 10,
-      "address": "0x970d50d09f3a656b43e11b0d45241a84e3a6e011",
-      "name": "Overnight fi DAI ",
-      "symbol": "DAI+",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/29634/thumb/DAI_.png?1696528571"
     },
     {
       "chainId": 10,
@@ -40,11 +24,11 @@
     },
     {
       "chainId": 10,
-      "address": "0x1cef2d62af4cd26673c7416957cc4ec619a696a7",
-      "name": "DexToro Pro",
-      "symbol": "DTORO",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/33529/thumb/DTORO_Logo_New.png?1716971115"
+      "address": "0x7f5c764cbc14f9669b88837ca1490cca17c31607",
+      "name": "Standard Bridged USDC e  Optimism ",
+      "symbol": "USDCE",
+      "decimals": 6,
+      "logoURI": "https://assets.coingecko.com/coins/images/31580/thumb/USDC-icon.png?1696530397"
     },
     {
       "chainId": 10,
@@ -56,19 +40,11 @@
     },
     {
       "chainId": 10,
-      "address": "0x7f5c764cbc14f9669b88837ca1490cca17c31607",
-      "name": "Standard Bridged USDC e  Optimism ",
-      "symbol": "USDCE",
-      "decimals": 6,
-      "logoURI": "https://assets.coingecko.com/coins/images/31580/thumb/USDC-icon.png?1696530397"
-    },
-    {
-      "chainId": 10,
-      "address": "0xc5b001dc33727f8f26880b184090d3e252470d45",
-      "name": "Ethos Reserve Note",
-      "symbol": "ERN",
+      "address": "0xda10009cbd5d07dd0cecc66161fc93d7c9000da1",
+      "name": "MakerDAO Optimism Bridged DAI  Optimism",
+      "symbol": "DAI",
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/29744/thumb/ERN200x200.png?1696528676"
+      "logoURI": "https://assets.coingecko.com/coins/images/39818/thumb/dai.png?1724190656"
     },
     {
       "chainId": 10,
@@ -77,6 +53,14 @@
       "symbol": "CTH",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/29487/thumb/logo200.png?1696528431"
+    },
+    {
+      "chainId": 10,
+      "address": "0x8c6f28f2f1a3c87f0f938b96d27520d9751ec8d9",
+      "name": "sUSD  Optimism ",
+      "symbol": "SUSD",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/37867/thumb/sus.png?1715815715"
     },
     {
       "chainId": 10,
@@ -104,11 +88,19 @@
     },
     {
       "chainId": 10,
-      "address": "0x8c6f28f2f1a3c87f0f938b96d27520d9751ec8d9",
-      "name": "sUSD  Optimism ",
-      "symbol": "SUSD",
+      "address": "0x1cef2d62af4cd26673c7416957cc4ec619a696a7",
+      "name": "DexToro Pro",
+      "symbol": "DTORO",
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/37867/thumb/sus.png?1715815715"
+      "logoURI": "https://assets.coingecko.com/coins/images/33529/thumb/DTORO_Logo_New.png?1716971115"
+    },
+    {
+      "chainId": 10,
+      "address": "0xc5b001dc33727f8f26880b184090d3e252470d45",
+      "name": "Ethos Reserve Note",
+      "symbol": "ERN",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/29744/thumb/ERN200x200.png?1696528676"
     },
     {
       "chainId": 10,
@@ -120,6 +112,14 @@
     },
     {
       "chainId": 10,
+      "address": "0xb9243c495117343981ec9f8aa2abffee54396fc0",
+      "name": "Perpetual Delta Neutral Yield  Optimism",
+      "symbol": "USDPY",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/40153/thumb/usdpy.png?1726073418"
+    },
+    {
+      "chainId": 10,
       "address": "0x5df7abe3c51c01dcf6d1f1f9a0ab4dc3759869b9",
       "name": "SoonChain",
       "symbol": "SOONX",
@@ -128,11 +128,11 @@
     },
     {
       "chainId": 10,
-      "address": "0x4200000000000000000000000000000000000042",
-      "name": "Optimism",
-      "symbol": "OP",
+      "address": "0x970d50d09f3a656b43e11b0d45241a84e3a6e011",
+      "name": "Overnight fi DAI ",
+      "symbol": "DAI+",
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/25244/thumb/Optimism.png?1696524385"
+      "logoURI": "https://assets.coingecko.com/coins/images/29634/thumb/DAI_.png?1696528571"
     },
     {
       "chainId": 10,
@@ -168,14 +168,6 @@
     },
     {
       "chainId": 10,
-      "address": "0xb9243c495117343981ec9f8aa2abffee54396fc0",
-      "name": "Perpetual Delta Neutral Yield  Optimism",
-      "symbol": "USDPY",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/40153/thumb/usdpy.png?1726073418"
-    },
-    {
-      "chainId": 10,
       "address": "0x68f180fcce6836688e9084f035309e29bf0a2095",
       "name": "Optimism Bridged WBTC  Optimism ",
       "symbol": "WBTC",
@@ -189,6 +181,14 @@
       "symbol": "OVN",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/31970/thumb/OVN.png?1696959174"
+    },
+    {
+      "chainId": 10,
+      "address": "0x4200000000000000000000000000000000000042",
+      "name": "Optimism",
+      "symbol": "OP",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/25244/thumb/Optimism.png?1696524385"
     },
     {
       "chainId": 10,
@@ -804,6 +804,14 @@
       "symbol": "UTS",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/33178/thumb/IMG_0051.jpeg?1700924333"
+    },
+    {
+      "chainId": 10,
+      "address": "0x46777c76dbbe40fabb2aab99e33ce20058e76c59",
+      "name": "Layer3",
+      "symbol": "L3",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/37768/thumb/Square.png?1722045128"
     },
     {
       "chainId": 10,
@@ -2056,7 +2064,7 @@
   ],
   "version": {
     "major": 14,
-    "minor": 0,
-    "patch": 3
+    "minor": 1,
+    "patch": 0
   }
 }
