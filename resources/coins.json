@@ -4076,6 +4076,14 @@
     }
   },
   {
+    "id": "ai-protocol-2",
+    "symbol": "ai",
+    "name": "AI Protocol",
+    "platforms": {
+      "base": "0x938171227ece879267122a36847b219cbd3b9d47"
+    }
+  },
+  {
     "id": "aiptp",
     "symbol": "atmt",
     "name": "AiPTP",
@@ -4801,6 +4809,14 @@
     "name": "Alaska Gold Rush",
     "platforms": {
       "binance-smart-chain": "0x426c1c971fb00caaf1883bd801323a8becb0c919"
+    }
+  },
+  {
+    "id": "alaunchai",
+    "symbol": "alai",
+    "name": "AlaunchAI",
+    "platforms": {
+      "avalanche": "0x0a2f2efdb1233c0da050fb47f19f98851753718f"
     }
   },
   {
@@ -9331,7 +9347,9 @@
     "symbol": "axv",
     "name": "Astrovault",
     "platforms": {
-      "archway": "archway1ecjefhcf8r60wtfnhwefrxhj9caeqa90fj58cqsaafqveawn6cjs5znd2n"
+      "archway": "archway1ecjefhcf8r60wtfnhwefrxhj9caeqa90fj58cqsaafqveawn6cjs5znd2n",
+      "neutron": "neutron10dxyft3nv4vpxh5vrpn0xw8geej8dw3g39g7nqp8mrm307ypssksau29af",
+      "nibiru": "tf/nibi1vetfuua65frvf6f458xgtjerf0ra7wwjykrdpuyn0jur5x07awxsfka0ga/axv"
     }
   },
   {
@@ -58217,7 +58235,7 @@
   {
     "id": "horizon-protocol",
     "symbol": "hzn",
-    "name": "Horizon Protocol",
+    "name": "Xpanse",
     "platforms": {
       "binance-smart-chain": "0xc0eff7749b125444953ef89682201fb8c6a917cd"
     }
@@ -72766,7 +72784,8 @@
     "symbol": "lyra",
     "name": "LYRA",
     "platforms": {
-      "base": "0x99956f143dcca77cddf4b4b2a0fa4d491703244d"
+      "base": "0x99956f143dcca77cddf4b4b2a0fa4d491703244d",
+      "story": "0xa4f5c615f72ddeb2220471694fff1c0c3de051e1"
     }
   },
   {
@@ -73492,7 +73511,8 @@
     "symbol": "mag",
     "name": "Magnum",
     "platforms": {
-      "ethereum": "0xb9d4b6dc1e1ee3577cc442de015cc11f238b35ed"
+      "ethereum": "0xb9d4b6dc1e1ee3577cc442de015cc11f238b35ed",
+      "solana": "Gi2ce3Eu6dt8iAS2pa8hLsoudSEvew477SVJkHUipump"
     }
   },
   {
@@ -109218,6 +109238,14 @@
     }
   },
   {
+    "id": "sixpack-token-sixp",
+    "symbol": "sixp",
+    "name": "Sixpack Token (SIXP)",
+    "platforms": {
+      "binance-smart-chain": "0xf117dfcb241c0003d5e2fc72f288755c17a46980"
+    }
+  },
+  {
     "id": "six-sigma",
     "symbol": "sge",
     "name": "SGE",
@@ -117861,6 +117889,10 @@
     "name": "Sweat Economy",
     "platforms": {
       "ethereum": "0xb4b9dc1c77bdbb135ea907fd5a08094d98883a35",
+      "solana": "NSG17kiSApMumWjLbZ4BLx8biPaAxTk9tDCdy1Fb9ia",
+      "celo": "0x718aa4f7f026fd16086c842a68ce9ef55203b54f",
+      "binance-smart-chain": "0x510ad22d8c956dcc20f68932861f54a591001283",
+      "base": "0x227d920e20ebac8a40e7d6431b7d724bb64d7245",
       "near-protocol": "token.sweat"
     }
   },
@@ -118479,6 +118511,14 @@
     "name": "Synternet",
     "platforms": {
       "ethereum": "0xda987c655ebc38c801db64a8608bc1aa56cd9a31"
+    }
+  },
+  {
+    "id": "synthesizeai",
+    "symbol": "synth",
+    "name": "SynthesizeAI",
+    "platforms": {
+      "cardano": "3f2887f27b15fcd80aa674397fe89fd5932d63cd980fced4e7f60364"
     }
   },
   {
@@ -119320,7 +119360,7 @@
     "symbol": "tsai",
     "name": "TaxSolutions AI",
     "platforms": {
-      "ethereum": "0x2f65c4c067a9d65875ba60b078ac7c17d522fcca"
+      "solana": "3bvHXFp72aHbY1UPy3H2eSKgmbZkUT4ZPx9mehhf6xn7"
     }
   },
   {
@@ -120247,6 +120287,14 @@
     "name": "TG.Casino",
     "platforms": {
       "ethereum": "0x25b4f5d4c314bcd5d7962734936c957b947cb7cf"
+    }
+  },
+  {
+    "id": "tgmetrics",
+    "symbol": "tgmetrics",
+    "name": "TgMetrics",
+    "platforms": {
+      "solana": "8tdzC7mFKhmfPg3KdSBafHqH7jgi3CvKomfj3Hhupump"
     }
   },
   {
@@ -138033,9 +138081,7 @@
     "id": "your-open-metaverse",
     "symbol": "yom",
     "name": "YOM",
-    "platforms": {
-      "solana": "yomFPUqz1wJwYSfD5tZJUtS3bNb8xs8mx9XzBv8RL39"
-    }
+    "platforms": {}
   },
   {
     "id": "yousim",
