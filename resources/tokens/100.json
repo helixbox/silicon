@@ -4,7 +4,7 @@
   "keywords": [
     "defi"
   ],
-  "timestamp": "2025-02-15T09:00:10.782+00:00",
+  "timestamp": "2025-02-20T10:00:12.211+00:00",
   "tokens": [
     {
       "chainId": 100,
@@ -16,19 +16,11 @@
     },
     {
       "chainId": 100,
-      "address": "0x38fb649ad3d6ba1113be5f57b927053e97fc5bf7",
-      "name": "xDai Native Comb",
-      "symbol": "XCOMB",
+      "address": "0x1f82284c1658ad71c576f7230e6c2dee7901c1fa",
+      "name": "Wrapped bTSLA",
+      "symbol": "WBTSLA",
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/16012/thumb/logo.png?1696515623"
-    },
-    {
-      "chainId": 100,
-      "address": "0xf490c80aae5f2616d3e3bda2483e30c4cb21d1a0",
-      "name": "StakeWise Staked GNO",
-      "symbol": "OSGNO",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/39458/thumb/stakewiseosgno_32.webp?1722390395"
+      "logoURI": "https://assets.coingecko.com/coins/images/54428/thumb/bTSLA_200p.png?1740041458"
     },
     {
       "chainId": 100,
@@ -40,6 +32,30 @@
     },
     {
       "chainId": 100,
+      "address": "0x44fa8e6f47987339850636f88629646662444217",
+      "name": "OmniBridge Bridged DAI  Gnosis Chain ",
+      "symbol": "DAI",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/39808/thumb/dai.png?1724126705"
+    },
+    {
+      "chainId": 100,
+      "address": "0xaf204776c7245bf4147c2612bf6e5972ee483701",
+      "name": "Savings xDAI",
+      "symbol": "SDAI",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/32066/thumb/sDAI_Logo_%281%29.png?1696530863"
+    },
+    {
+      "chainId": 100,
+      "address": "0x1a4f71b0ff3c22540887bcf83b50054a213c673d",
+      "name": "Wrapped bMSTR",
+      "symbol": "WBMSTR",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/54431/thumb/bMSTR_200p.png?1740041487"
+    },
+    {
+      "chainId": 100,
       "address": "0x1a8805194d0ef2f73045a00c70da399d9e74221c",
       "name": "Gnobby",
       "symbol": "GNOBBY",
@@ -48,11 +64,19 @@
     },
     {
       "chainId": 100,
-      "address": "0x1a4f71b0ff3c22540887bcf83b50054a213c673d",
-      "name": "Wrapped bMSTR",
-      "symbol": "WBMSTR",
+      "address": "0xf490c80aae5f2616d3e3bda2483e30c4cb21d1a0",
+      "name": "StakeWise Staked GNO",
+      "symbol": "OSGNO",
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/54431/thumb/bMSTR_200x200.png?1739606375"
+      "logoURI": "https://assets.coingecko.com/coins/images/39458/thumb/stakewiseosgno_32.webp?1722390395"
+    },
+    {
+      "chainId": 100,
+      "address": "0x6a023ccd1ff6f2045c3309768ead9e68f978f6e1",
+      "name": "Gnosis xDai Bridged WETH  Gnosis Chain ",
+      "symbol": "WETH",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/39731/thumb/weth.png?1723759168"
     },
     {
       "chainId": 100,
@@ -61,14 +85,6 @@
       "symbol": "STABAL3",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/32112/thumb/bal3.png?1696561317"
-    },
-    {
-      "chainId": 100,
-      "address": "0x44fa8e6f47987339850636f88629646662444217",
-      "name": "OmniBridge Bridged DAI  Gnosis Chain ",
-      "symbol": "DAI",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/39808/thumb/dai.png?1724126705"
     },
     {
       "chainId": 100,
@@ -88,27 +104,19 @@
     },
     {
       "chainId": 100,
-      "address": "0x6a023ccd1ff6f2045c3309768ead9e68f978f6e1",
-      "name": "Gnosis xDai Bridged WETH  Gnosis Chain ",
-      "symbol": "WETH",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/39731/thumb/weth.png?1723759168"
-    },
-    {
-      "chainId": 100,
-      "address": "0xaf204776c7245bf4147c2612bf6e5972ee483701",
-      "name": "Savings xDAI",
-      "symbol": "SDAI",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/32066/thumb/sDAI_Logo_%281%29.png?1696530863"
-    },
-    {
-      "chainId": 100,
       "address": "0x4ecaba5870353805a9f068101a40e0f32ed605c6",
       "name": "Gnosis xDai Bridged USDT  Gnosis ",
       "symbol": "USDT",
       "decimals": 6,
       "logoURI": "https://assets.coingecko.com/coins/images/35072/thumb/logo.png?1707292488"
+    },
+    {
+      "chainId": 100,
+      "address": "0xdec933e2392ad908263e70a386fbf34e703ffe8f",
+      "name": "Wrapped bCOIN",
+      "symbol": "WBCOIN",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/54429/thumb/bCOIN_200p.png?1740041341"
     },
     {
       "chainId": 100,
@@ -136,11 +144,11 @@
     },
     {
       "chainId": 100,
-      "address": "0x1f82284c1658ad71c576f7230e6c2dee7901c1fa",
-      "name": "Wrapped bTSLA",
-      "symbol": "WBTSLA",
+      "address": "0x3a97704a1b25f08aa230ae53b352e2e72ef52843",
+      "name": "Agave",
+      "symbol": "AGVE",
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/54428/thumb/bTSLA_200x200.png?1739605965"
+      "logoURI": "https://assets.coingecko.com/coins/images/14146/thumb/agve.png?1696513865"
     },
     {
       "chainId": 100,
@@ -152,19 +160,11 @@
     },
     {
       "chainId": 100,
-      "address": "0xdec933e2392ad908263e70a386fbf34e703ffe8f",
-      "name": "Wrapped bCOIN",
-      "symbol": "WBCOIN",
+      "address": "0x38fb649ad3d6ba1113be5f57b927053e97fc5bf7",
+      "name": "xDai Native Comb",
+      "symbol": "XCOMB",
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/54429/thumb/bCOIN_200x200.png?1739606057"
-    },
-    {
-      "chainId": 100,
-      "address": "0x3a97704a1b25f08aa230ae53b352e2e72ef52843",
-      "name": "Agave",
-      "symbol": "AGVE",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/14146/thumb/agve.png?1696513865"
+      "logoURI": "https://assets.coingecko.com/coins/images/16012/thumb/logo.png?1696515623"
     },
     {
       "chainId": 100,
@@ -316,7 +316,7 @@
       "name": "Backed Coinbase Global",
       "symbol": "BCOIN",
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/31872/thumb/b-COIN-200x200.png?1696530684"
+      "logoURI": "https://assets.coingecko.com/coins/images/31872/thumb/bCOIN_200p.png?1740041102"
     },
     {
       "chainId": 100,
@@ -524,7 +524,7 @@
       "name": "Wrapped bNVDA",
       "symbol": "WBNVDA",
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/54430/thumb/bNVDA_200x200.png?1739606241"
+      "logoURI": "https://assets.coingecko.com/coins/images/54430/thumb/bNVDA_200p.png?1740041468"
     },
     {
       "chainId": 100,
@@ -612,7 +612,7 @@
       "name": "Backed CSPX Core S P 500",
       "symbol": "BCSPX",
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/31891/thumb/b-CSPX-200x200.png?1696530702"
+      "logoURI": "https://assets.coingecko.com/coins/images/31891/thumb/bCSPX_200p.png?1740041074"
     },
     {
       "chainId": 100,
@@ -652,7 +652,7 @@
       "name": "Backed Tesla",
       "symbol": "BTSLA",
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/38916/thumb/b-TSLA-200x200.png?1719474888"
+      "logoURI": "https://assets.coingecko.com/coins/images/38916/thumb/bTSLA_200p.png?1740041361"
     },
     {
       "chainId": 100,
@@ -660,7 +660,7 @@
       "name": "Backed MicroStrategy",
       "symbol": "BMSTR",
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/38914/thumb/b-MSTR-200x200.png?1719474793"
+      "logoURI": "https://assets.coingecko.com/coins/images/38914/thumb/bMSTR_200p.png?1740041420"
     },
     {
       "chainId": 100,
@@ -692,7 +692,7 @@
       "name": "Backed NVIDIA",
       "symbol": "BNVDA",
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/38911/thumb/b-NVDA-200x200.png?1719474429"
+      "logoURI": "https://assets.coingecko.com/coins/images/38911/thumb/bNVDA_200p.png?1740041447"
     },
     {
       "chainId": 100,
@@ -841,6 +841,6 @@
   "version": {
     "major": 1,
     "minor": 5,
-    "patch": 0
+    "patch": 1
   }
 }
