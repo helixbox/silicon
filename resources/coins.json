@@ -825,6 +825,14 @@
     }
   },
   {
+    "id": "-7",
+    "symbol": "∅",
+    "name": "∅",
+    "platforms": {
+      "solana": "J2bUGZDxRDpsVfjZqKwn6yYCUKFmqzHgt8UajhGtpump"
+    }
+  },
+  {
     "id": "717ai-by-virtuals",
     "symbol": "wire",
     "name": "717ai by Virtuals",
@@ -2361,6 +2369,14 @@
     }
   },
   {
+    "id": "ace-data-cloud",
+    "symbol": "$ace",
+    "name": "Ace Data Cloud",
+    "platforms": {
+      "solana": "GEuuznWpn6iuQAJxLKQDVGXPtrqXHNWTk3gZqqvJpump"
+    }
+  },
+  {
     "id": "acent",
     "symbol": "ace",
     "name": "Acent",
@@ -2947,6 +2963,7 @@
     "name": "Aethir",
     "platforms": {
       "ethereum": "0xbe0ed4138121ecfc5c0e56b40517da27e6c5226b",
+      "solana": "Dm5BxyMetG3Aq5PaG1BrG7rBYqEMtnkjvPNMExfacVk7",
       "arbitrum-one": "0xc87b37a581ec3257b734886d9d3a581f5a9d056c"
     }
   },
@@ -3195,9 +3212,10 @@
   {
     "id": "agentlauncher-token-cvai",
     "symbol": "cvai",
-    "name": "AGENTLAUNCHER Token (CVAI)",
+    "name": "Agentlauncher",
     "platforms": {
-      "solana": "8TC4ZJA5cwB5gmLemBfPP95v1Mft82kHGF9a87kepNno"
+      "solana": "8TC4ZJA5cwB5gmLemBfPP95v1Mft82kHGF9a87kepNno",
+      "base": "0x6b34d1c35689dba179c2eddf6a01530bbb1d28a8"
     }
   },
   {
@@ -8950,7 +8968,7 @@
   {
     "id": "assemble-protocol",
     "symbol": "asm",
-    "name": "Assemble Protocol",
+    "name": "Assemble AI",
     "platforms": {
       "ethereum": "0x2565ae0385659badcada1031db704442e1b69982"
     }
@@ -9550,7 +9568,7 @@
   },
   {
     "id": "atomone",
-    "symbol": "atom1",
+    "symbol": "atone",
     "name": "AtomOne",
     "platforms": {}
   },
@@ -12064,7 +12082,9 @@
     "id": "bad-coin",
     "symbol": "badai",
     "name": "BAD Coin",
-    "platforms": {}
+    "platforms": {
+      "binance-smart-chain": "0xb5fa1493e8127fe2c30455f3dd134824feb40e66"
+    }
   },
   {
     "id": "badger-badger-badger",
@@ -15222,6 +15242,14 @@
     "name": "Big Eyes",
     "platforms": {
       "ethereum": "0xc8de43bfe33ff496fa14c270d9cb29bda196b9b5"
+    }
+  },
+  {
+    "id": "bigfacts",
+    "symbol": "bigfacts",
+    "name": "BIGFACTS",
+    "platforms": {
+      "solana": "8U5SJfExR7QMhPWWKLFV5F9L8mX3vioEP29GxocBpump"
     }
   },
   {
@@ -60355,6 +60383,14 @@
     }
   },
   {
+    "id": "incinerator",
+    "symbol": "inc",
+    "name": "Incinerator",
+    "platforms": {
+      "solana": "A8vTTQXH5qPHazNmEGrBnBvk2XYkj1i4e5AMVVN5aC44"
+    }
+  },
+  {
     "id": "inci-token",
     "symbol": "inci",
     "name": "Inci",
@@ -60592,6 +60628,14 @@
     "name": "Infinitee",
     "platforms": {
       "binance-smart-chain": "0xc350caa89eb963d5d6b964324a0a7736d8d65533"
+    }
+  },
+  {
+    "id": "infinite-money-glitch",
+    "symbol": "img",
+    "name": "Infinite Money Glitch",
+    "platforms": {
+      "solana": "znv3FZt2HFAvzYf5LxzVyryh3mBXWuTRRng25gEZAjh"
     }
   },
   {
@@ -88284,6 +88328,14 @@
     }
   },
   {
+    "id": "onion",
+    "symbol": "onon",
+    "name": "ONION",
+    "platforms": {
+      "binance-smart-chain": "0x1ad957aa33c79394893e7f00155935acfe56971f"
+    }
+  },
+  {
     "id": "oni-protocol",
     "symbol": "oni",
     "name": "ONI PROTOCOL",
@@ -88936,6 +88988,12 @@
     "platforms": {
       "binance-smart-chain": "0x6ec9a568881755c9698384cc6b5b13bf4064e12b"
     }
+  },
+  {
+    "id": "optio",
+    "symbol": "opt",
+    "name": "Optio",
+    "platforms": {}
   },
   {
     "id": "option2trade",
@@ -102987,14 +103045,6 @@
     "name": "Robie",
     "platforms": {
       "ethereum": "0x2025bf4e0c1117685b1bf2ea2be56c7deb11bc99"
-    }
-  },
-  {
-    "id": "robinhood",
-    "symbol": "hood",
-    "name": "Robinhood",
-    "platforms": {
-      "solana": "h5NciPdMZ5QCB5BYETJMYBMpVx9ZuitR6HcVjyBhood"
     }
   },
   {
@@ -133146,6 +133196,22 @@
     }
   },
   {
+    "id": "wrapped-1inch-universal",
+    "symbol": "u1inch",
+    "name": "Wrapped 1inch (Universal)",
+    "platforms": {
+      "base": "0x3c07ef1bd575b5f5b1ffcb868353f5bc501ed482"
+    }
+  },
+  {
+    "id": "wrapped-aave-universal",
+    "symbol": "uaave",
+    "name": "Wrapped Aave (Universal)",
+    "platforms": {
+      "base": "0xf383074c4b993d1ccd196188d27d0ddf22ad463c"
+    }
+  },
+  {
     "id": "wrapped-accumulate",
     "symbol": "wacme",
     "name": "Wrapped Accumulate",
@@ -133227,6 +133293,14 @@
     "name": "Wrapped ApeCoin",
     "platforms": {
       "apechain": "0x48b62137edfa95a428d35c09e44256a739f6b557"
+    }
+  },
+  {
+    "id": "wrapped-apecoin-universal",
+    "symbol": "uape",
+    "name": "Wrapped ApeCoin (Universal)",
+    "platforms": {
+      "base": "0x9af46f95a0a8be5c2e0a0274a8b153c72d617e85"
     }
   },
   {
