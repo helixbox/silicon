@@ -33373,6 +33373,12 @@
     }
   },
   {
+    "id": "davinci-coin-2",
+    "symbol": "dcoin",
+    "name": "DaVinci Coin",
+    "platforms": {}
+  },
+  {
     "id": "davincigraph",
     "symbol": "davinci",
     "name": "Davincigraph",
@@ -40365,11 +40371,10 @@
   },
   {
     "id": "dua-token",
-    "symbol": "dua",
+    "symbol": "brln",
     "name": "Brillion",
     "platforms": {
-      "avalanche": "0xb418417374fca27bb54169d3c777492e6fe17ee7",
-      "ethereum": "0x6c249b6f6492864d914361308601a7abb32e68f8"
+      "ethereum": "0x3a872ae95f645acdd17db8aa961f4d39e0f5bc39"
     }
   },
   {
@@ -114348,6 +114353,14 @@
     "platforms": {}
   },
   {
+    "id": "staked-hype",
+    "symbol": "sthype",
+    "name": "Staked HYPE",
+    "platforms": {
+      "hyperliquid": "0xffaa4a3d97fe9107cef8a3f48c069f577ff76cc1"
+    }
+  },
+  {
     "id": "staked-inv",
     "symbol": "sinv",
     "name": "Staked INV",
@@ -134229,7 +134242,9 @@
     "id": "wrapped-hype",
     "symbol": "whype",
     "name": "Wrapped HYPE",
-    "platforms": {}
+    "platforms": {
+      "hyperliquid": "0x5555555555555555555555555555555555555555"
+    }
   },
   {
     "id": "wrapped-hypertensor",
