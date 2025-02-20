@@ -4,16 +4,8 @@
   "keywords": [
     "defi"
   ],
-  "timestamp": "2025-02-20T10:00:27.727+00:00",
+  "timestamp": "2025-02-20T12:00:36.566+00:00",
   "tokens": [
-    {
-      "chainId": 1868,
-      "address": "0x3a337a6ada9d885b6ad95ec48f9b75f197b5ae35",
-      "name": "Soneium Bridged USDT  Soneium ",
-      "symbol": "USDT",
-      "decimals": 6,
-      "logoURI": "https://assets.coingecko.com/coins/images/53779/thumb/usdt.jpg?1737341724"
-    },
     {
       "chainId": 1868,
       "address": "0x4200000000000000000000000000000000000006",
@@ -24,9 +16,17 @@
     },
     {
       "chainId": 1868,
+      "address": "0x3a337a6ada9d885b6ad95ec48f9b75f197b5ae35",
+      "name": "Soneium Bridged USDT  Soneium ",
+      "symbol": "USDT",
+      "decimals": 6,
+      "logoURI": "https://assets.coingecko.com/coins/images/53779/thumb/usdt.jpg?1737341724"
+    },
+    {
+      "chainId": 1868,
       "address": "0x2cae934a1e84f693fbb78ca5ed3b0a6893259441",
       "name": "Soneium Bridged ASTR  Soneium ",
-      "symbol": "ASTAR",
+      "symbol": "ASTR",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/53778/thumb/astar.jpg?1737341226"
     },
@@ -82,6 +82,6 @@
   "version": {
     "major": 0,
     "minor": 6,
-    "patch": 2
+    "patch": 3
   }
 }

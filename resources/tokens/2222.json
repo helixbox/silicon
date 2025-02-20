@@ -4,7 +4,7 @@
   "keywords": [
     "defi"
   ],
-  "timestamp": "2025-02-07T10:00:07.385+00:00",
+  "timestamp": "2025-02-20T11:00:05.481+00:00",
   "tokens": [
     {
       "chainId": 2222,
@@ -16,11 +16,11 @@
     },
     {
       "chainId": 2222,
-      "address": "0x2d519b9308aeb0c57921030dd5de4e88c44cec7c",
-      "name": "Pozo Coin",
-      "symbol": "POZO",
+      "address": "0xc86c7c0efbd6a49b35e8714c5f59d99de09a225b",
+      "name": "Wrapped Kava",
+      "symbol": "WKAVA",
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/50663/thumb/ppn-ceum_400x400.jpg?1728666342"
+      "logoURI": "https://assets.coingecko.com/coins/images/26387/thumb/kava.jpeg?1696525465"
     },
     {
       "chainId": 2222,
@@ -32,19 +32,11 @@
     },
     {
       "chainId": 2222,
-      "address": "0xc86c7c0efbd6a49b35e8714c5f59d99de09a225b",
-      "name": "Wrapped Kava",
-      "symbol": "WKAVA",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/26387/thumb/kava.jpeg?1696525465"
-    },
-    {
-      "chainId": 2222,
-      "address": "0xe3f5a90f9cb311505cd691a46596599aa1a0ad7d",
-      "name": "Multichain Bridged WETH  Kava ",
-      "symbol": "WETH",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/39706/thumb/WETH.PNG?1723730046"
+      "address": "0xb51efaf2f7afb8a2f5be0b730281e414fb487636",
+      "name": "hKAVA",
+      "symbol": "HKAVA",
+      "decimals": 8,
+      "logoURI": "https://assets.coingecko.com/coins/images/36101/thumb/hover.jpeg?1710483234"
     },
     {
       "chainId": 2222,
@@ -56,22 +48,6 @@
     },
     {
       "chainId": 2222,
-      "address": "0x765277eebeca2e31912c9946eae1021199b39c61",
-      "name": "Multichain Bridged DAI  Kava ",
-      "symbol": "DAI",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/39785/thumb/dai.png?1724110151"
-    },
-    {
-      "chainId": 2222,
-      "address": "0xb84df10966a5d7e1ab46d9276f55d57bd336afc7",
-      "name": "MAI  Kava ",
-      "symbol": "MIMATIC",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/35574/thumb/mimatic-red.png?1709193822"
-    },
-    {
-      "chainId": 2222,
       "address": "0x471f79616569343e8e84a66f342b7b433b958154",
       "name": "Tiger Scrub Money",
       "symbol": "TIGER",
@@ -80,11 +56,11 @@
     },
     {
       "chainId": 2222,
-      "address": "0xb51efaf2f7afb8a2f5be0b730281e414fb487636",
-      "name": "hKAVA",
-      "symbol": "HKAVA",
-      "decimals": 8,
-      "logoURI": "https://assets.coingecko.com/coins/images/36101/thumb/hover.jpeg?1710483234"
+      "address": "0xe3f5a90f9cb311505cd691a46596599aa1a0ad7d",
+      "name": "Multichain Bridged WETH  Kava ",
+      "symbol": "WETH",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/39706/thumb/WETH.PNG?1723730046"
     },
     {
       "chainId": 2222,
@@ -101,6 +77,22 @@
       "symbol": "HOV",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/35187/thumb/HM-token-BG.png?1707815790"
+    },
+    {
+      "chainId": 2222,
+      "address": "0x2d519b9308aeb0c57921030dd5de4e88c44cec7c",
+      "name": "Pozo Coin",
+      "symbol": "POZO",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/50663/thumb/ppn-ceum_400x400.jpg?1728666342"
+    },
+    {
+      "chainId": 2222,
+      "address": "0xb84df10966a5d7e1ab46d9276f55d57bd336afc7",
+      "name": "MAI  Kava ",
+      "symbol": "MIMATIC",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/35574/thumb/mimatic-red.png?1709193822"
     },
     {
       "chainId": 2222,
@@ -248,7 +240,7 @@
     }
   ],
   "version": {
-    "major": 4,
+    "major": 5,
     "minor": 0,
     "patch": 0
   }
