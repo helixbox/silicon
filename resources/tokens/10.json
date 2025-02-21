@@ -4,7 +4,7 @@
   "keywords": [
     "defi"
   ],
-  "timestamp": "2025-02-21T09:00:24.157+00:00",
+  "timestamp": "2025-02-21T22:00:21.124+00:00",
   "tokens": [
     {
       "chainId": 10,
@@ -24,14 +24,6 @@
     },
     {
       "chainId": 10,
-      "address": "0x4200000000000000000000000000000000000042",
-      "name": "Optimism",
-      "symbol": "OP",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/25244/thumb/Optimism.png?1696524385"
-    },
-    {
-      "chainId": 10,
       "address": "0x81c9a7b55a4df39a9b7b5f781ec0e53539694873",
       "name": "Exactly USD e Coin",
       "symbol": "EXAUSDCE",
@@ -40,19 +32,27 @@
     },
     {
       "chainId": 10,
-      "address": "0x9560e827af36c94d2ac33a39bce1fe78631088db",
-      "name": "Velodrome Finance",
-      "symbol": "VELO",
+      "address": "0xf467c7d5a4a9c4687ffc7986ac6ad5a4c81e1404",
+      "name": "Kite",
+      "symbol": "KITE",
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/25783/thumb/velo.png?1696524870"
+      "logoURI": "https://assets.coingecko.com/coins/images/35343/thumb/_KITE.png?1708317581"
     },
     {
       "chainId": 10,
-      "address": "0x68f180fcce6836688e9084f035309e29bf0a2095",
-      "name": "Optimism Bridged WBTC  Optimism ",
-      "symbol": "WBTC",
-      "decimals": 8,
-      "logoURI": "https://assets.coingecko.com/coins/images/39553/thumb/wbtc.png?1722897341"
+      "address": "0xb9243c495117343981ec9f8aa2abffee54396fc0",
+      "name": "Perpetual Delta Neutral Yield  Optimism",
+      "symbol": "USDPY",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/40153/thumb/usdpy.png?1726073418"
+    },
+    {
+      "chainId": 10,
+      "address": "0x4200000000000000000000000000000000000042",
+      "name": "Optimism",
+      "symbol": "OP",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/25244/thumb/Optimism.png?1696524385"
     },
     {
       "chainId": 10,
@@ -80,19 +80,19 @@
     },
     {
       "chainId": 10,
-      "address": "0xf467c7d5a4a9c4687ffc7986ac6ad5a4c81e1404",
-      "name": "Kite",
-      "symbol": "KITE",
+      "address": "0x1cef2d62af4cd26673c7416957cc4ec619a696a7",
+      "name": "DexToro Pro",
+      "symbol": "DTORO",
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/35343/thumb/_KITE.png?1708317581"
+      "logoURI": "https://assets.coingecko.com/coins/images/33529/thumb/DTORO_Logo_New.png?1716971115"
     },
     {
       "chainId": 10,
-      "address": "0x3ee6107d9c93955acbb3f39871d32b02f82b78ab",
-      "name": "Staked Ethos Reserve Note",
-      "symbol": "STERN",
+      "address": "0x8c6f28f2f1a3c87f0f938b96d27520d9751ec8d9",
+      "name": "sUSD  Optimism ",
+      "symbol": "SUSD",
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/31522/thumb/stERN.png?1696530332"
+      "logoURI": "https://assets.coingecko.com/coins/images/37867/thumb/sus.png?1715815715"
     },
     {
       "chainId": 10,
@@ -104,27 +104,19 @@
     },
     {
       "chainId": 10,
-      "address": "0x1cef2d62af4cd26673c7416957cc4ec619a696a7",
-      "name": "DexToro Pro",
-      "symbol": "DTORO",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/33529/thumb/DTORO_Logo_New.png?1716971115"
-    },
-    {
-      "chainId": 10,
-      "address": "0xd0cf4de352ac8dcce00bd6b93ee73d3cb272edc3",
-      "name": "PCM",
-      "symbol": "PCM",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/50402/thumb/pcmlabs_32.png?1727591862"
-    },
-    {
-      "chainId": 10,
       "address": "0x17aabf6838a6303fc6e9c5a227dc1eb6d95c829a",
       "name": "Magicaltux",
       "symbol": "TUX",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/33909/thumb/1703316796-picsay.png?1703453966"
+    },
+    {
+      "chainId": 10,
+      "address": "0x3ee6107d9c93955acbb3f39871d32b02f82b78ab",
+      "name": "Staked Ethos Reserve Note",
+      "symbol": "STERN",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/31522/thumb/stERN.png?1696530332"
     },
     {
       "chainId": 10,
@@ -144,6 +136,14 @@
     },
     {
       "chainId": 10,
+      "address": "0xd0cf4de352ac8dcce00bd6b93ee73d3cb272edc3",
+      "name": "PCM",
+      "symbol": "PCM",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/50402/thumb/pcmlabs_32.png?1727591862"
+    },
+    {
+      "chainId": 10,
       "address": "0xe3b3a464ee575e8e25d2508918383b89c832f275",
       "name": "PoolTogether Prize USD Coin",
       "symbol": "PUSDCE",
@@ -152,19 +152,11 @@
     },
     {
       "chainId": 10,
-      "address": "0x8c6f28f2f1a3c87f0f938b96d27520d9751ec8d9",
-      "name": "sUSD  Optimism ",
-      "symbol": "SUSD",
+      "address": "0x9560e827af36c94d2ac33a39bce1fe78631088db",
+      "name": "Velodrome Finance",
+      "symbol": "VELO",
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/37867/thumb/sus.png?1715815715"
-    },
-    {
-      "chainId": 10,
-      "address": "0xb9243c495117343981ec9f8aa2abffee54396fc0",
-      "name": "Perpetual Delta Neutral Yield  Optimism",
-      "symbol": "USDPY",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/40153/thumb/usdpy.png?1726073418"
+      "logoURI": "https://assets.coingecko.com/coins/images/25783/thumb/velo.png?1696524870"
     },
     {
       "chainId": 10,
@@ -189,6 +181,14 @@
       "symbol": "OPENX",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/27663/thumb/openx_BASE.png?1710472693"
+    },
+    {
+      "chainId": 10,
+      "address": "0x68f180fcce6836688e9084f035309e29bf0a2095",
+      "name": "Optimism Bridged WBTC  Optimism ",
+      "symbol": "WBTC",
+      "decimals": 8,
+      "logoURI": "https://assets.coingecko.com/coins/images/39553/thumb/wbtc.png?1722897341"
     },
     {
       "chainId": 10,
@@ -1599,6 +1599,14 @@
     },
     {
       "chainId": 10,
+      "address": "0x80eede496655fb9047dd39d9f418d5483ed600df",
+      "name": "Frax USD",
+      "symbol": "FRXUSD",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/53963/thumb/frxUSD.png?1737792154"
+    },
+    {
+      "chainId": 10,
       "address": "0x42069d11a2cc72388a2e06210921e839cfbd3280",
       "name": "GnomeLand",
       "symbol": "GNOME",
@@ -2064,7 +2072,7 @@
   ],
   "version": {
     "major": 14,
-    "minor": 1,
-    "patch": 1
+    "minor": 2,
+    "patch": 0
   }
 }
