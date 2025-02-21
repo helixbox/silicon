@@ -4,31 +4,15 @@
   "keywords": [
     "defi"
   ],
-  "timestamp": "2025-02-20T12:00:36.566+00:00",
+  "timestamp": "2025-02-21T10:00:26.030+00:00",
   "tokens": [
     {
       "chainId": 1868,
-      "address": "0x4200000000000000000000000000000000000006",
-      "name": "Superbridge Bridged WETH  Soneium ",
-      "symbol": "WETH",
+      "address": "0xc67476893c166c537afd9bc6bc87b3f228b44337",
+      "name": "Neemo Staked Astar",
+      "symbol": "NSASTR",
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/53777/thumb/weth_2.jpg?1737340348"
-    },
-    {
-      "chainId": 1868,
-      "address": "0x3a337a6ada9d885b6ad95ec48f9b75f197b5ae35",
-      "name": "Soneium Bridged USDT  Soneium ",
-      "symbol": "USDT",
-      "decimals": 6,
-      "logoURI": "https://assets.coingecko.com/coins/images/53779/thumb/usdt.jpg?1737341724"
-    },
-    {
-      "chainId": 1868,
-      "address": "0x2cae934a1e84f693fbb78ca5ed3b0a6893259441",
-      "name": "Soneium Bridged ASTR  Soneium ",
-      "symbol": "ASTR",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/53778/thumb/astar.jpg?1737341226"
+      "logoURI": "https://assets.coingecko.com/coins/images/53907/thumb/nsASTR_2x.png?1737707599"
     },
     {
       "chainId": 1868,
@@ -40,6 +24,22 @@
     },
     {
       "chainId": 1868,
+      "address": "0x4200000000000000000000000000000000000006",
+      "name": "Superbridge Bridged WETH  Soneium ",
+      "symbol": "WETH",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/53777/thumb/weth_2.jpg?1737340348"
+    },
+    {
+      "chainId": 1868,
+      "address": "0x2cae934a1e84f693fbb78ca5ed3b0a6893259441",
+      "name": "Soneium Bridged ASTR  Soneium ",
+      "symbol": "ASTR",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/53778/thumb/astar.jpg?1737341226"
+    },
+    {
+      "chainId": 1868,
       "address": "0xf24e57b1cb00d98c31f04f86328e22e8fca457fb",
       "name": "SONE",
       "symbol": "SONE",
@@ -48,11 +48,11 @@
     },
     {
       "chainId": 1868,
-      "address": "0xc67476893c166c537afd9bc6bc87b3f228b44337",
-      "name": "Neemo Staked Astar",
-      "symbol": "NSASTR",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/53907/thumb/nsASTR_2x.png?1737707599"
+      "address": "0x3a337a6ada9d885b6ad95ec48f9b75f197b5ae35",
+      "name": "Soneium Bridged USDT  Soneium ",
+      "symbol": "USDT",
+      "decimals": 6,
+      "logoURI": "https://assets.coingecko.com/coins/images/53779/thumb/usdt.jpg?1737341724"
     },
     {
       "chainId": 1868,
@@ -77,11 +77,27 @@
       "symbol": "BONSAICOIN",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/39273/thumb/1000007690.png?1721386111"
+    },
+    {
+      "chainId": 1868,
+      "address": "0x541fd749419ca806a8bc7da8ac23d346f2df8b77",
+      "name": "Solv Protocol SolvBTC",
+      "symbol": "SOLVBTC",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/36800/thumb/solvBTC.png?1719810684"
+    },
+    {
+      "chainId": 1868,
+      "address": "0xcc0966d8418d412c599a6421b760a847eb169a8c",
+      "name": "Solv Protocol SolvBTC BBN",
+      "symbol": "SOLVBTCBBN",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/39384/thumb/unnamed.png?1721961640"
     }
   ],
   "version": {
     "major": 0,
-    "minor": 6,
-    "patch": 3
+    "minor": 7,
+    "patch": 0
   }
 }

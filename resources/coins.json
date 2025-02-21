@@ -21446,7 +21446,9 @@
     "symbol": "bright",
     "name": "Bright Union",
     "platforms": {
-      "ethereum": "0xbeab712832112bd7664226db7cd025b153d3af55"
+      "ethereum": "0xbeab712832112bd7664226db7cd025b153d3af55",
+      "base": "0xa26a4611b8313bbb25ccb1a9e227ecc536a2f8f7",
+      "xdai": "0xb7e10110eedca190da51b22e90a2caee014c8140"
     }
   },
   {
@@ -22095,14 +22097,6 @@
     "name": "Bug",
     "platforms": {
       "ethereum": "0x89fd2d8fd8d937f55c89b7da3ceed44fa27e4a81"
-    }
-  },
-  {
-    "id": "bug-cat",
-    "symbol": "bcat",
-    "name": "Bug Cat",
-    "platforms": {
-      "fantom": "0x606ba50fa9fbad28d714d49a43b9028a84ad36ac"
     }
   },
   {
@@ -23979,14 +23973,6 @@
     "name": "Catchcoin",
     "platforms": {
       "base": "0x95017e6f16375e63e5cb4d3a5fbf3c40775b08f4"
-    }
-  },
-  {
-    "id": "catchiliz",
-    "symbol": "catchi",
-    "name": "Catchiliz",
-    "platforms": {
-      "chiliz": "0x0b7ff9352eb3bab924a8bf504419c294dacd9edc"
     }
   },
   {
@@ -30932,14 +30918,6 @@
     }
   },
   {
-    "id": "crunchy-network",
-    "symbol": "crnchy",
-    "name": "Crunchy Network",
-    "platforms": {
-      "tezos": "KT1914CUZ7EegAFPbfgQMRkw8Uz5mYkEz2ui"
-    }
-  },
-  {
     "id": "crusaders-of-crypto",
     "symbol": "crusader",
     "name": "Crusaders of Crypto",
@@ -31786,14 +31764,6 @@
     "name": "CT100 INDEX",
     "platforms": {
       "solana": "EYwNqD3BrrmHYFC5xfEsELZmKapsQbjv3xHsNdg4pump"
-    }
-  },
-  {
-    "id": "ctez",
-    "symbol": "ctez",
-    "name": "Ctez",
-    "platforms": {
-      "tezos": "KT1SjXiUX63QvdNMcM2m492f7kuf8JxXRLp4"
     }
   },
   {
@@ -42219,14 +42189,6 @@
     }
   },
   {
-    "id": "elevate-bridged-dai-metis-andromeda",
-    "symbol": "dai",
-    "name": "Elevate Bridged DAI (Metis Andromeda)",
-    "platforms": {
-      "metis-andromeda": "0x4651b38e7ec14bb3db731369bfe5b08f2466bd0a"
-    }
-  },
-  {
     "id": "elexium",
     "symbol": "ex",
     "name": "Elexium",
@@ -44835,7 +44797,7 @@
   {
     "id": "exa",
     "symbol": "exa",
-    "name": "Exactly Token",
+    "name": "Exactly Protocol",
     "platforms": {
       "optimistic-ethereum": "0x1e925de1c68ef83bd98ee3e130ef14a50309c01b"
     }
@@ -49858,12 +49820,6 @@
     "platforms": {}
   },
   {
-    "id": "futurocoin",
-    "symbol": "fto",
-    "name": "FuturoCoin",
-    "platforms": {}
-  },
-  {
     "id": "fuxi-dragon",
     "symbol": "fuxi",
     "name": "Fuxi Dragon",
@@ -50296,7 +50252,8 @@
     "symbol": "g7",
     "name": "Game7",
     "platforms": {
-      "arbitrum-one": "0xf18e4466f26b4ca55bbab890b314a54976e45b17"
+      "arbitrum-one": "0xf18e4466f26b4ca55bbab890b314a54976e45b17",
+      "ethereum": "0x12c88a3c30a7aabc1dd7f2c08a97145f5dccd830"
     }
   },
   {
@@ -59382,14 +59339,6 @@
     "name": "Indigo Protocol iBTC",
     "platforms": {
       "cardano": "f66d78b4a3cb3d37afa0ec36461e51ecbde00f26c8f0a68f94b6988069425443"
-    }
-  },
-  {
-    "id": "ibuffer-token",
-    "symbol": "bfr",
-    "name": "Buffer Token",
-    "platforms": {
-      "arbitrum-one": "0x1a5b0aaf478bf1fda7b934c76e7692d722982a6d"
     }
   },
   {
@@ -70532,7 +70481,8 @@
     "symbol": "lseth",
     "name": "Liquid Staked ETH",
     "platforms": {
-      "ethereum": "0x8c1bed5b9a0928467c9b1341da1d7bd5e10b6549"
+      "ethereum": "0x8c1bed5b9a0928467c9b1341da1d7bd5e10b6549",
+      "base": "0xb29749498954a3a821ec37bde86e386df3ce30b6"
     }
   },
   {
@@ -72441,16 +72391,6 @@
     "name": "LunaDoge",
     "platforms": {
       "binance-smart-chain": "0xb99172949554e6c10c28c880ec0306d2a9d5c753"
-    }
-  },
-  {
-    "id": "lunafi",
-    "symbol": "lfi",
-    "name": "Lunafi",
-    "platforms": {
-      "sx-network": "0x4c882ec256823ee773b25b414d36f92ef58a7c0c",
-      "ethereum": "0xb28f803a8772e6584a65ab6dfc535ae6fef8a0b2",
-      "polygon-pos": "0x77d97db5615dfe8a2d16b38eaa3f8f34524a0a74"
     }
   },
   {
@@ -83308,14 +83248,6 @@
     "name": "Ndau",
     "platforms": {
       "cosmos": ""
-    }
-  },
-  {
-    "id": "ndb",
-    "symbol": "ndb",
-    "name": "NDB",
-    "platforms": {
-      "binance-smart-chain": "0xf8028b65005b0b45f76988d2a77910186e7af4ef"
     }
   },
   {
@@ -94952,14 +94884,6 @@
     "name": "Plenty DeFi",
     "platforms": {
       "tezos": "KT1GRSvLoikDsXujKgZPsGLX8k8VvR2Tq95b"
-    }
-  },
-  {
-    "id": "plenty-ply",
-    "symbol": "ply",
-    "name": "Plenty PLY",
-    "platforms": {
-      "tezos": "KT1JVjgXPMMSaa6FkzeJcgb8q9cUaLmwaJUX"
     }
   },
   {
@@ -111785,7 +111709,13 @@
     "name": "Solv Protocol SolvBTC",
     "platforms": {
       "ethereum": "0x7a56e1c57c7475ccf742a1832b028f0456652f97",
-      "zklink-nova": "0xbeaf16cfd8efe0fc97c2a07e349b9411f5dc272c",
+      "taiko": "0x541fd749419ca806a8bc7da8ac23d346f2df8b77",
+      "mode": "0x541fd749419ca806a8bc7da8ac23d346f2df8b77",
+      "sonic": "0x541fd749419ca806a8bc7da8ac23d346f2df8b77",
+      "soneium": "0x541fd749419ca806a8bc7da8ac23d346f2df8b77",
+      "berachain": "0x541fd749419ca806a8bc7da8ac23d346f2df8b77",
+      "sei-v2": "0x541fd749419ca806a8bc7da8ac23d346f2df8b77",
+      "corn": "0x541fd749419ca806a8bc7da8ac23d346f2df8b77",
       "merlin-chain": "0x41d9036454be47d3745a823c4aacd0e29cfb0f71",
       "mantle": "0xa68d25fc2af7278db4bcdcaabce31814252642a9",
       "bob-network": "0x541fd749419ca806a8bc7da8ac23d346f2df8b77",
@@ -111835,6 +111765,12 @@
       "binance-smart-chain": "0x1346b618dc92810ec74163e4c27004c921d446a5",
       "mantle": "0x1d40bafc49c37cda49f2a5427e2fb95e1e3fcf20",
       "merlin-chain": "0x1760900aca15b90fa2eca70ce4b4ec441c2cf6c5",
+      "taiko": "0xcc0966d8418d412c599a6421b760a847eb169a8c",
+      "sonic": "0xcc0966d8418d412c599a6421b760a847eb169a8c",
+      "corn": "0xcc0966d8418d412c599a6421b760a847eb169a8c",
+      "sei-v2": "0xcc0966d8418d412c599a6421b760a847eb169a8c",
+      "soneium": "0xcc0966d8418d412c599a6421b760a847eb169a8c",
+      "berachain": "0xcc0966d8418d412c599a6421b760a847eb169a8c",
       "bob-network": "0xcc0966d8418d412c599a6421b760a847eb169a8c",
       "ethereum": "0xd9d920aa40f578ab794426f5c90f6c731d159def",
       "avalanche": "0xcc0966d8418d412c599a6421b760a847eb169a8c",
@@ -111857,7 +111793,8 @@
     "platforms": {
       "binance-smart-chain": "0x53e63a31fd1077f949204b94f431bcab98f72bce",
       "merlin-chain": "0x88c618b2396c1a11a6aabd1bf89228a08462f2d2",
-      "arbitrum-one": "0xafafd68afe3fe65d376eec9eab1802616cfaccb8"
+      "arbitrum-one": "0xafafd68afe3fe65d376eec9eab1802616cfaccb8",
+      "ethereum": "0x325dc9ebcec31940c658acaca45f8293418d811e"
     }
   },
   {
@@ -114599,8 +114536,8 @@
       "manta-pacific": "0xec901da9c68e90798bbbb74c11406a32a70652c3",
       "astar-zkevm": "0x80137510979822322193fc997d400d5a6c747bf7",
       "linea": "0x93f4d0ab6a8b4271f4a28db399b5e30612d21116",
-      "x-layer": "0x80137510979822322193fc997d400d5a6c747bf7`",
       "zircuit": "0x80137510979822322193fc997d400d5a6c747bf7",
+      "x-layer": "0x80137510979822322193fc997d400d5a6c747bf7`",
       "aptos": "0x543c5660aa4d496687e2068c11765f04607c4f4b639a83233a9333604fb8ce59",
       "mantle": "0x2fde62942759d7c0aaf25952da4098423bc1264c",
       "metis-andromeda": "0x80137510979822322193fc997d400d5a6c747bf7",
@@ -125091,12 +125028,6 @@
     }
   },
   {
-    "id": "turtlecoin",
-    "symbol": "trtl",
-    "name": "TurtleCoin",
-    "platforms": {}
-  },
-  {
     "id": "turtsat",
     "symbol": "turt",
     "name": "TurtSat",
@@ -125361,14 +125292,6 @@
     "symbol": "tyz",
     "name": "TYZ Token",
     "platforms": {}
-  },
-  {
-    "id": "tzbtc",
-    "symbol": "tzbtc",
-    "name": "tzBTC",
-    "platforms": {
-      "tezos": "KT1PWx2mnDueood7fEmfbBDKx1D9BAnnXitn"
-    }
   },
   {
     "id": "uahg",
@@ -127044,12 +126967,6 @@
     "platforms": {
       "arbitrum-one": "0xff970a61a04b1ca14834a43f5de4533ebddb5cc8"
     }
-  },
-  {
-    "id": "usd-coin-plenty-bridge",
-    "symbol": "usdc.e",
-    "name": "Plenty Bridged USDC (Tezos)",
-    "platforms": {}
   },
   {
     "id": "usd-coin-pulsechain",
@@ -130963,14 +130880,6 @@
     }
   },
   {
-    "id": "wbtc-plenty-bridge",
-    "symbol": "wbtc.e",
-    "name": "WBTC (Plenty Bridge)",
-    "platforms": {
-      "tezos": "KT1UsSfaXyqcjSVPeiD7U1bWgKy3taYN7NWY"
-    }
-  },
-  {
     "id": "wbtc-yvault",
     "symbol": "yvwbtc",
     "name": "WBTC yVault",
@@ -131516,12 +131425,6 @@
       "ethereum": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
       "tron": "THb4CqiFdwNHsWsQCs4JhzwjMWys4aqCbF"
     }
-  },
-  {
-    "id": "weth-plenty-bridge-65aa5342-507c-4f67-8634-1f4376ffdf9a",
-    "symbol": "weth.e",
-    "name": "WETH (Plenty Bridge)",
-    "platforms": {}
   },
   {
     "id": "weth-yvault",
@@ -133795,14 +133698,6 @@
     "name": "Wrapped Chainlink (Universal)",
     "platforms": {
       "base": "0xd403d1624daef243fbcbd4a80d8a6f36affe32b2"
-    }
-  },
-  {
-    "id": "wrapped-chiliz",
-    "symbol": "wchz",
-    "name": "Wrapped Chiliz",
-    "platforms": {
-      "chiliz": "0x721ef6871f1c4efe730dce047d40d1743b886946"
     }
   },
   {
@@ -138185,14 +138080,6 @@
     "name": "Youves uUSD",
     "platforms": {
       "tezos": "KT1XRPEPXbZK25r3Htzp2o1x7xdMMmfocKNW"
-    }
-  },
-  {
-    "id": "youves-you-governance",
-    "symbol": "you",
-    "name": "Youves YOU Governance",
-    "platforms": {
-      "tezos": "KT1Xobej4mc6XgEjDoJoHtTKgbD1ELMvcQuL"
     }
   },
   {
