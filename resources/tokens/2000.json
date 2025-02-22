@@ -4,8 +4,24 @@
   "keywords": [
     "defi"
   ],
-  "timestamp": "2025-01-29T09:00:34.361+00:00",
+  "timestamp": "2025-02-22T11:00:35.720+00:00",
   "tokens": [
+    {
+      "chainId": 2000,
+      "address": "0x6fc4563460d5f45932c473334d5c1c5b4aea0e01",
+      "name": "YodeSwap",
+      "symbol": "YODE",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/26944/thumb/yodeswap.png?1696525999"
+    },
+    {
+      "chainId": 2000,
+      "address": "0x582daef1f36d6009f64b74519cfd612a8467be18",
+      "name": "DogeDragon",
+      "symbol": "DD",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/27094/thumb/dragon-doge-logo.84e6ed7e.png?1696526143"
+    },
     {
       "chainId": 2000,
       "address": "0x765277eebeca2e31912c9946eae1021199b39c61",
@@ -24,22 +40,6 @@
     },
     {
       "chainId": 2000,
-      "address": "0x582daef1f36d6009f64b74519cfd612a8467be18",
-      "name": "DogeDragon",
-      "symbol": "DD",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/27094/thumb/dragon-doge-logo.84e6ed7e.png?1696526143"
-    },
-    {
-      "chainId": 2000,
-      "address": "0x6fc4563460d5f45932c473334d5c1c5b4aea0e01",
-      "name": "YodeSwap",
-      "symbol": "YODE",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/26944/thumb/yodeswap.png?1696525999"
-    },
-    {
-      "chainId": 2000,
       "address": "0x2be0096b24343549e34224aa9aa297e99961023d",
       "name": "DogeShrek",
       "symbol": "DOGESHREK",
@@ -53,14 +53,6 @@
       "symbol": "POODOGE",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/26999/thumb/A8308774-23F8-4367-9679-F8383A021498.png?1696526051"
-    },
-    {
-      "chainId": 2000,
-      "address": "0xb44a9b6905af7c801311e8f4e76932ee959c663c",
-      "name": "Multichain Bridged WETH  Dogechain ",
-      "symbol": "WETH",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/39695/thumb/weth.png?1723670938"
     },
     {
       "chainId": 2000,
@@ -128,7 +120,7 @@
     }
   ],
   "version": {
-    "major": 3,
+    "major": 4,
     "minor": 0,
     "patch": 0
   }
