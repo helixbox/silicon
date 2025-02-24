@@ -4,7 +4,7 @@
   "keywords": [
     "defi"
   ],
-  "timestamp": "2025-02-24T07:00:48.680+00:00",
+  "timestamp": "2025-02-24T08:00:48.768+00:00",
   "tokens": [
     {
       "chainId": 250,
@@ -29,6 +29,22 @@
       "symbol": "CRVUSD",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/31181/thumb/CurveFi_32.png?1696530009"
+    },
+    {
+      "chainId": 250,
+      "address": "0x07e6332dd090d287d3489245038daf987955dcfb",
+      "name": "Geist Dai",
+      "symbol": "GDAI",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/18997/thumb/preview-gallery-gDAIgecko_%281%29.png?1696518450"
+    },
+    {
+      "chainId": 250,
+      "address": "0x38aca5484b8603373acc6961ecd57a6a594510a3",
+      "name": "Geist WBTC",
+      "symbol": "GWBTC",
+      "decimals": 8,
+      "logoURI": "https://assets.coingecko.com/coins/images/18999/thumb/preview-gallery-gWBTCgecko_%281%29.png?1696518452"
     },
     {
       "chainId": 250,
@@ -128,19 +144,11 @@
     },
     {
       "chainId": 250,
-      "address": "0x07e6332dd090d287d3489245038daf987955dcfb",
-      "name": "Geist Dai",
-      "symbol": "GDAI",
+      "address": "0x39b3bd37208cbade74d0fcbdbb12d606295b430a",
+      "name": "Geist FTM",
+      "symbol": "GFTM",
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/18997/thumb/preview-gallery-gDAIgecko_%281%29.png?1696518450"
-    },
-    {
-      "chainId": 250,
-      "address": "0x38aca5484b8603373acc6961ecd57a6a594510a3",
-      "name": "Geist WBTC",
-      "symbol": "GWBTC",
-      "decimals": 8,
-      "logoURI": "https://assets.coingecko.com/coins/images/18999/thumb/preview-gallery-gWBTCgecko_%281%29.png?1696518452"
+      "logoURI": "https://assets.coingecko.com/coins/images/18991/thumb/preview-gallery-gFTMgecko_%281%29.png?1696518445"
     },
     {
       "chainId": 250,
@@ -149,6 +157,14 @@
       "symbol": "INK",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/23511/thumb/v3INKLogo-03.png?1696522720"
+    },
+    {
+      "chainId": 250,
+      "address": "0x28a92dde19d9989f39a49905d7c9c2fac7799bdf",
+      "name": "LayerZero Bridged USDC  Fantom ",
+      "symbol": "LZUSDC",
+      "decimals": 6,
+      "logoURI": "https://assets.coingecko.com/coins/images/31134/thumb/USDC-icon.png?1696529963"
     },
     {
       "chainId": 250,
@@ -264,6 +280,14 @@
     },
     {
       "chainId": 250,
+      "address": "0x25c130b2624cf12a4ea30143ef50c5d68cefa22f",
+      "name": "Geist ETH",
+      "symbol": "GETH",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/18998/thumb/preview-gallery-gETHgecko_%281%29.png?1696518451"
+    },
+    {
+      "chainId": 250,
       "address": "0xef4b763385838fffc708000f884026b8c0434275",
       "name": "Xen Crypto  Fantom ",
       "symbol": "FMXEN",
@@ -277,14 +301,6 @@
       "symbol": "FLIBERO",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/24833/thumb/200x200.png?1696523990"
-    },
-    {
-      "chainId": 250,
-      "address": "0x940f41f0ec9ba1a34cf001cc03347ac092f5f6b5",
-      "name": "Geist fUSDT",
-      "symbol": "GFUSDT",
-      "decimals": 6,
-      "logoURI": "https://assets.coingecko.com/coins/images/19000/thumb/preview-gallery-gUSDTgecko_%281%29.png?1696518453"
     },
     {
       "chainId": 250,
@@ -341,6 +357,14 @@
       "symbol": "WBNB",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/53097/thumb/wrapped_bnb.png?1735265066"
+    },
+    {
+      "chainId": 250,
+      "address": "0xe992beab6659bff447893641a378fbbf031c5bd6",
+      "name": "WigoSwap",
+      "symbol": "WIGO",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/23603/thumb/wigo_coin200200.png?1719881669"
     },
     {
       "chainId": 250,
@@ -416,6 +440,14 @@
     },
     {
       "chainId": 250,
+      "address": "0x940f41f0ec9ba1a34cf001cc03347ac092f5f6b5",
+      "name": "Geist fUSDT",
+      "symbol": "GFUSDT",
+      "decimals": 6,
+      "logoURI": "https://assets.coingecko.com/coins/images/19000/thumb/preview-gallery-gUSDTgecko_%281%29.png?1696518453"
+    },
+    {
+      "chainId": 250,
       "address": "0xae4846b148a65782865a4849e940575f77359b2b",
       "name": "wMLP",
       "symbol": "WMLPV2",
@@ -437,14 +469,6 @@
       "symbol": "MCLB",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/29314/thumb/mclb.png?1696528265"
-    },
-    {
-      "chainId": 250,
-      "address": "0x28a92dde19d9989f39a49905d7c9c2fac7799bdf",
-      "name": "LayerZero Bridged USDC  Fantom ",
-      "symbol": "LZUSDC",
-      "decimals": 6,
-      "logoURI": "https://assets.coingecko.com/coins/images/31134/thumb/USDC-icon.png?1696529963"
     },
     {
       "chainId": 250,
@@ -480,27 +504,11 @@
     },
     {
       "chainId": 250,
-      "address": "0xe992beab6659bff447893641a378fbbf031c5bd6",
-      "name": "WigoSwap",
-      "symbol": "WIGO",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/23603/thumb/wigo_coin200200.png?1719881669"
-    },
-    {
-      "chainId": 250,
       "address": "0xc60d7067dfbc6f2caf30523a064f416a5af52963",
       "name": "Retreeb",
       "symbol": "TREEB",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/17710/thumb/Logo-web3.png?1712168025"
-    },
-    {
-      "chainId": 250,
-      "address": "0x25c130b2624cf12a4ea30143ef50c5d68cefa22f",
-      "name": "Geist ETH",
-      "symbol": "GETH",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/18998/thumb/preview-gallery-gETHgecko_%281%29.png?1696518451"
     },
     {
       "chainId": 250,
@@ -592,22 +600,6 @@
     },
     {
       "chainId": 250,
-      "address": "0x39b3bd37208cbade74d0fcbdbb12d606295b430a",
-      "name": "Geist FTM",
-      "symbol": "GFTM",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/18991/thumb/preview-gallery-gFTMgecko_%281%29.png?1696518445"
-    },
-    {
-      "chainId": 250,
-      "address": "0xe578c856933d8e1082740bf7661e379aa2a30b26",
-      "name": "Geist USDC",
-      "symbol": "GUSDC",
-      "decimals": 6,
-      "logoURI": "https://assets.coingecko.com/coins/images/19002/thumb/preview-gallery-gUSDCgecko_%281%29.png?1696518455"
-    },
-    {
-      "chainId": 250,
       "address": "0x62227c75908b7d358a9d70ea4670f57f8b012ccc",
       "name": "Millennium Club Staked FTM",
       "symbol": "MFTM",
@@ -645,6 +637,14 @@
       "symbol": "SOL",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/50308/thumb/sol.png?1727068932"
+    },
+    {
+      "chainId": 250,
+      "address": "0xe578c856933d8e1082740bf7661e379aa2a30b26",
+      "name": "Geist USDC",
+      "symbol": "GUSDC",
+      "decimals": 6,
+      "logoURI": "https://assets.coingecko.com/coins/images/19002/thumb/preview-gallery-gUSDCgecko_%281%29.png?1696518455"
     },
     {
       "chainId": 250,
