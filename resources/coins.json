@@ -23340,8 +23340,8 @@
   },
   {
     "id": "canvas-n-glr",
-    "symbol": "glr",
-    "name": "GalleryCoin",
+    "symbol": "n",
+    "name": "Ncoin",
     "platforms": {
       "ethereum": "0xd54619e0b9899d74cc9b981354eb6b59732c43b1"
     }
@@ -34525,7 +34525,7 @@
   {
     "id": "degen-base",
     "symbol": "degen",
-    "name": "Degen (Base)",
+    "name": "Degen",
     "platforms": {
       "base": "0x4ed4e862860bed51a9570b96d89af5e1b0efefed",
       "ethereum": "0xfee293840d23b0b2de8c55e1cf7a9f01c157767c",
@@ -73302,7 +73302,9 @@
     "id": "magic-internet-money-runes",
     "symbol": "mim",
     "name": "MAGIC•INTERNET•MONEY (Bitcoin)",
-    "platforms": {}
+    "platforms": {
+      "ordinals": "840000:45"
+    }
   },
   {
     "id": "magic-lum",
