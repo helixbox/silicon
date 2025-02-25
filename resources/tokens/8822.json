@@ -4,15 +4,31 @@
   "keywords": [
     "defi"
   ],
-  "timestamp": "2024-12-24T05:00:46.308+00:00",
+  "timestamp": "2025-02-25T19:00:29.056+00:00",
   "tokens": [
     {
       "chainId": 8822,
-      "address": "0x6e47f8d48a01b44df3fff35d258a10a3aedc114c",
-      "name": "Wrapped IOTA",
-      "symbol": "WIOTA",
+      "address": "0x892ad291737249abe79c657c4a5a57e11c174566",
+      "name": "Iota Velocimeter",
+      "symbol": "IVM",
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/38899/thumb/iota.jpg?1719453346"
+      "logoURI": "https://assets.coingecko.com/coins/images/51026/thumb/BVM.png?1729771111"
+    },
+    {
+      "chainId": 8822,
+      "address": "0xc1b8045a6ef2934cf0f78b0dbd489969fa9be7e4",
+      "name": "Stargate Bridged USDT  Iota EVM ",
+      "symbol": "USDT",
+      "decimals": 6,
+      "logoURI": "https://assets.coingecko.com/coins/images/39428/thumb/usdt.jpeg?1722240545"
+    },
+    {
+      "chainId": 8822,
+      "address": "0x30a1398cf11cb9e852e5d80ace7ffd5ec271169e",
+      "name": "FOMOFox",
+      "symbol": "FOMO",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/52122/thumb/FOMOFox_200x200.png?1732606586"
     },
     {
       "chainId": 8822,
@@ -21,6 +37,14 @@
       "symbol": "CYB",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/50561/thumb/Logo_black.png?1728370392"
+    },
+    {
+      "chainId": 8822,
+      "address": "0x159366809b6062960c97bc4edd548bafcd7812d8",
+      "name": "Audit",
+      "symbol": "AUDIT",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/52819/thumb/Frame_6.png?1734384378"
     },
     {
       "chainId": 8822,
@@ -40,35 +64,11 @@
     },
     {
       "chainId": 8822,
-      "address": "0x892ad291737249abe79c657c4a5a57e11c174566",
-      "name": "Iota Velocimeter",
-      "symbol": "IVM",
+      "address": "0x6e47f8d48a01b44df3fff35d258a10a3aedc114c",
+      "name": "Wrapped IOTA",
+      "symbol": "WIOTA",
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/51026/thumb/BVM.png?1729771111"
-    },
-    {
-      "chainId": 8822,
-      "address": "0x30a1398cf11cb9e852e5d80ace7ffd5ec271169e",
-      "name": "FOMOFox",
-      "symbol": "FOMO",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/52122/thumb/FOMOFox_200x200.png?1732606586"
-    },
-    {
-      "chainId": 8822,
-      "address": "0x159366809b6062960c97bc4edd548bafcd7812d8",
-      "name": "Audit",
-      "symbol": "AUDIT",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/52819/thumb/Frame_6.png?1734384378"
-    },
-    {
-      "chainId": 8822,
-      "address": "0xc1b8045a6ef2934cf0f78b0dbd489969fa9be7e4",
-      "name": "Stargate Bridged USDT  Iota EVM ",
-      "symbol": "USDT",
-      "decimals": 6,
-      "logoURI": "https://assets.coingecko.com/coins/images/39428/thumb/usdt.jpeg?1722240545"
+      "logoURI": "https://assets.coingecko.com/coins/images/38899/thumb/iota.jpg?1719453346"
     },
     {
       "chainId": 8822,
@@ -92,7 +92,7 @@
       "name": "Hey Anon",
       "symbol": "ANON",
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/52961/thumb/ICON.png?1734862960"
+      "logoURI": "https://assets.coingecko.com/coins/images/52961/thumb/AAI__ANON_SQ_Wb_250x250.png?1740500195"
     },
     {
       "chainId": 8822,
@@ -138,6 +138,6 @@
   "version": {
     "major": 0,
     "minor": 13,
-    "patch": 1
+    "patch": 2
   }
 }
