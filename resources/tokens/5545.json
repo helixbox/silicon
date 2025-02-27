@@ -4,16 +4,8 @@
   "keywords": [
     "defi"
   ],
-  "timestamp": "2025-01-17T05:01:04.842+00:00",
+  "timestamp": "2025-02-27T06:00:39.891+00:00",
   "tokens": [
-    {
-      "chainId": 5545,
-      "address": "0x7f9308e8d724e724ec31395f3af52e0593bb2e3f",
-      "name": "Wrapped TON",
-      "symbol": "WTON",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/52464/thumb/toncoin.jpg?1733401876"
-    },
     {
       "chainId": 5545,
       "address": "0xbe138ad5d41fdc392ae0b61b09421987c1966cc3",
@@ -24,11 +16,19 @@
     },
     {
       "chainId": 5545,
+      "address": "0x7f9308e8d724e724ec31395f3af52e0593bb2e3f",
+      "name": "Wrapped TON",
+      "symbol": "WTON",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/52464/thumb/toncoin.jpg?1733401876"
+    },
+    {
+      "chainId": 5545,
       "address": "0xda65892ea771d3268610337e9964d916028b7dad",
       "name": "DuckChain Token",
       "symbol": "DUCK",
       "decimals": 9,
-      "logoURI": "https://assets.coingecko.com/coins/images/53624/thumb/photo_2025-01-09_11-29-39.jpg?1736905120"
+      "logoURI": "https://assets.coingecko.com/coins/images/53624/thumb/11111_2x-8.png?1740625358"
     },
     {
       "chainId": 5545,
@@ -42,6 +42,6 @@
   "version": {
     "major": 0,
     "minor": 1,
-    "patch": 0
+    "patch": 1
   }
 }
