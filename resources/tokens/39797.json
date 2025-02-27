@@ -4,8 +4,16 @@
   "keywords": [
     "defi"
   ],
-  "timestamp": "2024-12-31T18:00:39.102+00:00",
+  "timestamp": "2025-02-27T10:00:26.263+00:00",
   "tokens": [
+    {
+      "chainId": 39797,
+      "address": "0x0f46fe95a8d6573990118aee8b7ac9a3532f5963",
+      "name": "Energi Dollar",
+      "symbol": "USDE",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/25463/thumb/USDE.png?1696524593"
+    },
     {
       "chainId": 39797,
       "address": "0x0ee5893f434017d8881750101ea2f7c49c0eb503",
@@ -13,6 +21,14 @@
       "symbol": "DAI",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/39802/thumb/dai.png?1724125849"
+    },
+    {
+      "chainId": 39797,
+      "address": "0xc3c19ee91cf3c1f7fbf3716a09d21dc35de0bd6d",
+      "name": "Multichain Bridged WBNB  Energi ",
+      "symbol": "WBNB",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/53080/thumb/wrapped_bnb.png?1735265046"
     },
     {
       "chainId": 39797,
@@ -32,14 +48,6 @@
     },
     {
       "chainId": 39797,
-      "address": "0xd7b8710f5713d2739da301a5ecdb8b6ffb5ec60d",
-      "name": "Energiswap WAVAX  Energi ",
-      "symbol": "EAVAX",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/53087/thumb/wrapped-avax.png?1735205549"
-    },
-    {
-      "chainId": 39797,
       "address": "0x881145b61c604d4d27b8969b917bc4844cc8a9dc",
       "name": "Energiswap SOL  Energi ",
       "symbol": "ESOL",
@@ -48,19 +56,11 @@
     },
     {
       "chainId": 39797,
-      "address": "0xc3c19ee91cf3c1f7fbf3716a09d21dc35de0bd6d",
-      "name": "Multichain Bridged WBNB  Energi ",
-      "symbol": "WBNB",
+      "address": "0xd7b8710f5713d2739da301a5ecdb8b6ffb5ec60d",
+      "name": "Energiswap WAVAX  Energi ",
+      "symbol": "EAVAX",
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/53080/thumb/wrapped_bnb.png?1735265046"
-    },
-    {
-      "chainId": 39797,
-      "address": "0x0f46fe95a8d6573990118aee8b7ac9a3532f5963",
-      "name": "Energi Dollar",
-      "symbol": "USDE",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/25463/thumb/USDE.png?1696524593"
+      "logoURI": "https://assets.coingecko.com/coins/images/53087/thumb/wrapped-avax.png?1735205549"
     },
     {
       "chainId": 39797,
@@ -746,7 +746,7 @@
       "chainId": 39797,
       "address": "0x709adadd7ba01655ec684c9a74074ec70b023fe9",
       "name": "Kaon",
-      "symbol": "AKRO",
+      "symbol": "KAON",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/3328/thumb/kaon.jpg?1730712283"
     },
@@ -946,6 +946,6 @@
   "version": {
     "major": 6,
     "minor": 0,
-    "patch": 0
+    "patch": 1
   }
 }

@@ -4,8 +4,16 @@
   "keywords": [
     "defi"
   ],
-  "timestamp": "2025-02-26T10:00:24.187+00:00",
+  "timestamp": "2025-02-27T10:00:26.949+00:00",
   "tokens": [
+    {
+      "chainId": 122,
+      "address": "0xb10ed6e3810c95a380e4f3e448af1755fa3368cf",
+      "name": "Affine ultraETHs 2 0  Fuse ",
+      "symbol": "ULTRAETHS",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/50574/thumb/logo_%2810%29.png?1728403283"
+    },
     {
       "chainId": 122,
       "address": "0x2502f488d481df4f5054330c71b95d93d41625c2",
@@ -16,19 +24,19 @@
     },
     {
       "chainId": 122,
-      "address": "0x34ef2cc892a88415e9f02b91bfa9c91fc0be6bd4",
-      "name": "Voltage Finance",
-      "symbol": "VOLT",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/21886/thumb/My_project.png?1696521238"
-    },
-    {
-      "chainId": 122,
       "address": "0x33284f95ccb7b948d9d352e1439561cf83d8d00d",
       "name": "Fuse Bridged WBTC  Fuse ",
       "symbol": "WBTC",
       "decimals": 8,
       "logoURI": "https://assets.coingecko.com/coins/images/39557/thumb/wbtc.png?1722898201"
+    },
+    {
+      "chainId": 122,
+      "address": "0x34ef2cc892a88415e9f02b91bfa9c91fc0be6bd4",
+      "name": "Voltage Finance",
+      "symbol": "VOLT",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/21886/thumb/My_project.png?1696521238"
     },
     {
       "chainId": 122,
@@ -48,27 +56,11 @@
     },
     {
       "chainId": 122,
-      "address": "0x2f6f07cdcf3588944bf4c42ac74ff24bf56e7590",
-      "name": "Stargate Bridged WETH  Fuse ",
-      "symbol": "WETH",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/53042/thumb/wETH_32.png?1735081743"
-    },
-    {
-      "chainId": 122,
-      "address": "0x68c9736781e9316ebf5c3d49fe0c1f45d2d104cd",
-      "name": "Bridged Tether  Fuse ",
+      "address": "0x3695dd1d1d43b794c0b13eb8be8419eb3ac22bf7",
+      "name": "Stargate Bridged USDT  Fuse ",
       "symbol": "USDT",
       "decimals": 6,
-      "logoURI": "https://assets.coingecko.com/coins/images/32986/thumb/logo_%288%29.png?1700094172"
-    },
-    {
-      "chainId": 122,
-      "address": "0xcc9d144a8a8a1e71d5ec66a13f301b9e0137e71c",
-      "name": "Allbridge Bridged ETH  Fuse ",
-      "symbol": "AEETH",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/39221/thumb/ethereum-ezgif.com-webp-to-jpg-converter.jpg?1721178325"
+      "logoURI": "https://assets.coingecko.com/coins/images/53043/thumb/usdt.png?1735081778"
     },
     {
       "chainId": 122,
@@ -77,14 +69,6 @@
       "symbol": "BNB",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/38764/thumb/BNBv2_logo.png?1718759024"
-    },
-    {
-      "chainId": 122,
-      "address": "0x3695dd1d1d43b794c0b13eb8be8419eb3ac22bf7",
-      "name": "Stargate Bridged USDT  Fuse ",
-      "symbol": "USDT",
-      "decimals": 6,
-      "logoURI": "https://assets.coingecko.com/coins/images/53043/thumb/usdt.png?1735081778"
     },
     {
       "chainId": 122,
@@ -104,11 +88,11 @@
     },
     {
       "chainId": 122,
-      "address": "0xb10ed6e3810c95a380e4f3e448af1755fa3368cf",
-      "name": "Affine ultraETHs 2 0  Fuse ",
-      "symbol": "ULTRAETHS",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/50574/thumb/logo_%2810%29.png?1728403283"
+      "address": "0x68c9736781e9316ebf5c3d49fe0c1f45d2d104cd",
+      "name": "Bridged Tether  Fuse ",
+      "symbol": "USDT",
+      "decimals": 6,
+      "logoURI": "https://assets.coingecko.com/coins/images/32986/thumb/logo_%288%29.png?1700094172"
     },
     {
       "chainId": 122,
@@ -125,6 +109,14 @@
       "symbol": "WETH",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/33412/thumb/weth.jpg?1726731618"
+    },
+    {
+      "chainId": 122,
+      "address": "0x2f6f07cdcf3588944bf4c42ac74ff24bf56e7590",
+      "name": "Stargate Bridged WETH  Fuse ",
+      "symbol": "WETH",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/53042/thumb/wETH_32.png?1735081743"
     },
     {
       "chainId": 122,
@@ -207,7 +199,7 @@
     }
   ],
   "version": {
-    "major": 5,
+    "major": 6,
     "minor": 0,
     "patch": 0
   }
