@@ -28118,6 +28118,14 @@
     }
   },
   {
+    "id": "coindesk-defi-select-index",
+    "symbol": "dfx",
+    "name": "CoinDesk DeFi Select Index",
+    "platforms": {
+      "ethereum": "0x188d12eb13a5eadd0867074ce8354b1ad6f4790b"
+    }
+  },
+  {
     "id": "coindom",
     "symbol": "scc",
     "name": "Stem Cell Coin",
@@ -29539,7 +29547,9 @@
     "id": "corn-3",
     "symbol": "corn",
     "name": "Corn",
-    "platforms": {}
+    "platforms": {
+      "corn": "0x44f49ff0da2498bcb1d3dc7c0f999578f67fd8c6"
+    }
   },
   {
     "id": "cornatto",
@@ -48243,6 +48253,14 @@
     }
   },
   {
+    "id": "for-the-people-xbt",
+    "symbol": "ftpxbt",
+    "name": "FOR THE PEOPLE XBT",
+    "platforms": {
+      "binance-smart-chain": "0xe1b8f4053de96ab94513864f409ac72d752a3703"
+    }
+  },
+  {
     "id": "fortify-ai",
     "symbol": "fai",
     "name": "FORTIFY AI",
@@ -48881,6 +48899,14 @@
     "symbol": "fren",
     "name": "Frencoin",
     "platforms": {}
+  },
+  {
+    "id": "frencoin-3",
+    "symbol": "fren",
+    "name": "Frencoin",
+    "platforms": {
+      "base": "0xa7e4509dcb46a67e73c18fe0d11dd9a337e52ac0"
+    }
   },
   {
     "id": "fren-pepe",
@@ -74397,6 +74423,22 @@
     }
   },
   {
+    "id": "marketvector-digital-assets-25-index",
+    "symbol": "mvda25",
+    "name": "MarketVector Digital Assets 25 Index",
+    "platforms": {
+      "base": "0xd600e748c17ca237fcb5967fa13d688aff17be78"
+    }
+  },
+  {
+    "id": "marketvector-token-terminal-fundamental-index",
+    "symbol": "mvtt10f",
+    "name": "MarketVector Token Terminal Fundamental Index",
+    "platforms": {
+      "base": "0xe8b46b116d3bdfa787ce9cf3f5acc78dc7ca380e"
+    }
+  },
+  {
     "id": "markkacy",
     "symbol": "kacy",
     "name": "markkacy",
@@ -87670,6 +87712,7 @@
     "name": "Olympus",
     "platforms": {
       "ethereum": "0x64aa3364f17a4d01c6f1751fd97c2bd3d7e7f1d5",
+      "berachain": "0x18878df23e2a36f81e820e4b47b4a40576d3159c",
       "arbitrum-one": "0xf0cb2dc0db5e6c66b9a70ac27b06b878da017028",
       "base": "0x060cb087a9730e13aa191f31a6d86bff8dfcdcc0"
     }
@@ -99363,6 +99406,12 @@
     }
   },
   {
+    "id": "qudo",
+    "symbol": "qudo",
+    "name": "QUDO",
+    "platforms": {}
+  },
+  {
     "id": "queen",
     "symbol": "queen",
     "name": "QUEEN",
@@ -101125,7 +101174,7 @@
   {
     "id": "redstone-oracles",
     "symbol": "red",
-    "name": "RedStone Oracles",
+    "name": "RedStone",
     "platforms": {}
   },
   {
@@ -124317,14 +124366,6 @@
     "name": "TrueFi",
     "platforms": {
       "ethereum": "0x4c19596f5aaff459fa38b0f7ed92f11ae6543784"
-    }
-  },
-  {
-    "id": "true-pnl",
-    "symbol": "pnl",
-    "name": "True PNL",
-    "platforms": {
-      "binance-smart-chain": "0xb346c52874c7023df183068c39478c3b7b2515bc"
     }
   },
   {
