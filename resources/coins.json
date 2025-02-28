@@ -10005,6 +10005,14 @@
     }
   },
   {
+    "id": "automatic-treasury-machine",
+    "symbol": "atm",
+    "name": "Automatic Treasury Machine",
+    "platforms": {
+      "solana": "8QhSMvYfXome11VgxFMD75hNbGQXW5QTnjA8khENkY2c"
+    }
+  },
+  {
     "id": "automatix",
     "symbol": "atx",
     "name": "AUTOMATIX",
@@ -31888,7 +31896,7 @@
   {
     "id": "cumulus-encrypted-storage-system",
     "symbol": "cess",
-    "name": "Cumulus Encrypted Storage System",
+    "name": "CESS Network",
     "platforms": {}
   },
   {
@@ -45212,7 +45220,7 @@
   {
     "id": "falcon-finance",
     "symbol": "usdf",
-    "name": "Falcon Finance",
+    "name": "Falcon USD",
     "platforms": {
       "ethereum": "0xfa2b947eec368f42195f24f36d2af29f7c24cec2"
     }
@@ -55097,7 +55105,8 @@
     "symbol": "$h2",
     "name": "H2 Finance",
     "platforms": {
-      "cronos-zkevm": "0xcaf2fd3f47e7f46e99f74be579b2cc2233f33ef8"
+      "cronos-zkevm": "0xcaf2fd3f47e7f46e99f74be579b2cc2233f33ef8",
+      "cronos": "0xd2ee4bd0d1be7e84160dc459006f6e0970f8313c"
     }
   },
   {
@@ -62408,7 +62417,8 @@
     "symbol": "jam",
     "name": "JAM",
     "platforms": {
-      "binance-smart-chain": "0xf8252c05ec4cb2fdf1e0398bae049d454ddba3ad"
+      "binance-smart-chain": "0xf8252c05ec4cb2fdf1e0398bae049d454ddba3ad",
+      "base": "0xf8252c05ec4cb2fdf1e0398bae049d454ddba3ad"
     }
   },
   {
@@ -71997,6 +72007,14 @@
     "name": "LUCI",
     "platforms": {
       "solana": "5Ke381D44MEQg3BQarWhAwhj1xbdNvXe2KHkTiZzw7r5"
+    }
+  },
+  {
+    "id": "lucia",
+    "symbol": "lucia",
+    "name": "LUCIA",
+    "platforms": {
+      "base": "0x3c86129b990876ea63751fa7a27deba91fc5bfad"
     }
   },
   {
@@ -84198,6 +84216,14 @@
     }
   },
   {
+    "id": "never-go-full",
+    "symbol": "retard",
+    "name": "Never Go Full",
+    "platforms": {
+      "solana": "oTDxQwCPUP7c8Wm2fYpjPXvAAQ6a2v5kVMi3QoMrGFM"
+    }
+  },
+  {
     "id": "neversol",
     "symbol": "never",
     "name": "neversol",
@@ -92042,6 +92068,7 @@
     "platforms": {
       "ethereum": "0x808507121b80c02388fad14726482e061b8da827",
       "optimistic-ethereum": "0xbc7b1ff1c6989f006a1185318ed4e7b5796e66e1",
+      "sonic": "0xf1ef7d2d4c0c881cd634481e0586ed5d2871a74b",
       "binance-smart-chain": "0xb3ed0a426155b79b898849803e3b36552f7ed507",
       "arbitrum-one": "0x0c880f6761f1af8d9aa9c466984b80dab9a8c9e8",
       "base": "0xa99f6e6785da0f5d6fb42495fe424bce029eeb3e"
@@ -93700,7 +93727,7 @@
   },
   {
     "id": "pigged-by-piggy",
-    "symbol": "$pbp",
+    "symbol": "$piggy",
     "name": "PIGGED•BY•PIGGY",
     "platforms": {
       "ordinals": "847192:2336"
@@ -101114,6 +101141,12 @@
     "id": "redstone-oracles",
     "symbol": "red",
     "name": "RedStone",
+    "platforms": {}
+  },
+  {
+    "id": "redstone-pre-market",
+    "symbol": "red",
+    "name": "RedStone (Pre-Market)",
     "platforms": {}
   },
   {
@@ -125541,6 +125574,14 @@
     }
   },
   {
+    "id": "ume",
+    "symbol": "ume",
+    "name": "UME",
+    "platforms": {
+      "solana": "3gV3t7Y9zsd7wNjGXXukn2RT81vfH46hA3oEcHgVpump"
+    }
+  },
+  {
     "id": "umee",
     "symbol": "ux",
     "name": "UX Chain",
@@ -128447,6 +128488,14 @@
       "avalanche": "0x323665443cef804a3b5206103304bd4872ea4253",
       "arbitrum-one": "0x323665443cef804a3b5206103304bd4872ea4253",
       "polygon-pos": "0x323665443cef804a3b5206103304bd4872ea4253"
+    }
+  },
+  {
+    "id": "veritas",
+    "symbol": "vpt",
+    "name": "Veritas",
+    "platforms": {
+      "base": "0x00096697dc24bd10423690126d91546a20ccb3f0"
     }
   },
   {
