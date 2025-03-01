@@ -4,7 +4,7 @@
   "keywords": [
     "defi"
   ],
-  "timestamp": "2025-02-22T11:00:11.643+00:00",
+  "timestamp": "2025-03-01T10:00:11.815+00:00",
   "tokens": [
     {
       "chainId": 5000,
@@ -16,11 +16,19 @@
     },
     {
       "chainId": 5000,
-      "address": "0x78c1b0c915c4faa5fffa6cabf0219da63d7f4cb8",
-      "name": "Wrapped Mantle",
-      "symbol": "WMNT",
+      "address": "0x51cfe5b1e764dc253f4c8c1f19a081ff4c3517ed",
+      "name": "Mantle Inu",
+      "symbol": "MINU",
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/30983/thumb/mantle.jpeg?1696529822"
+      "logoURI": "https://assets.coingecko.com/coins/images/31014/thumb/mantle-inu.jpeg?1696529851"
+    },
+    {
+      "chainId": 5000,
+      "address": "0x25356aeca4210ef7553140edb9b8026089e49396",
+      "name": "Lendle",
+      "symbol": "LEND",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/31588/thumb/lendle_logo_200_200_cg.png?1696530405"
     },
     {
       "chainId": 5000,
@@ -39,11 +47,11 @@
     },
     {
       "chainId": 5000,
-      "address": "0xc1e0c8c30f251a07a894609616580ad2ceb547f2",
-      "name": "Cleopatra",
-      "symbol": "CLEO",
+      "address": "0x779f4e5fb773e17bc8e809f4ef1abb140861159a",
+      "name": "KTX Finance",
+      "symbol": "KTC",
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/34150/thumb/CLEO_token.png?1704190970"
+      "logoURI": "https://assets.coingecko.com/coins/images/30537/thumb/KTX.jpeg?1696529409"
     },
     {
       "chainId": 5000,
@@ -63,19 +71,11 @@
     },
     {
       "chainId": 5000,
-      "address": "0x25356aeca4210ef7553140edb9b8026089e49396",
-      "name": "Lendle",
-      "symbol": "LEND",
+      "address": "0x78c1b0c915c4faa5fffa6cabf0219da63d7f4cb8",
+      "name": "Wrapped Mantle",
+      "symbol": "WMNT",
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/31588/thumb/lendle_logo_200_200_cg.png?1696530405"
-    },
-    {
-      "chainId": 5000,
-      "address": "0x26a6b0dcdcfb981362afa56d581e4a7dba3be140",
-      "name": "Puff The Dragon",
-      "symbol": "PUFF",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/35950/thumb/photo_2024-03-11_10.18.27.jpeg?1710240090"
+      "logoURI": "https://assets.coingecko.com/coins/images/30983/thumb/mantle.jpeg?1696529822"
     },
     {
       "chainId": 5000,
@@ -87,14 +87,6 @@
     },
     {
       "chainId": 5000,
-      "address": "0x51cfe5b1e764dc253f4c8c1f19a081ff4c3517ed",
-      "name": "Mantle Inu",
-      "symbol": "MINU",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/31014/thumb/mantle-inu.jpeg?1696529851"
-    },
-    {
-      "chainId": 5000,
       "address": "0x6a3b0eb5b57c9a4f5772fc900dae427e65f8c1a5",
       "name": "Cashtree Token",
       "symbol": "CTT",
@@ -103,19 +95,27 @@
     },
     {
       "chainId": 5000,
+      "address": "0xc1e0c8c30f251a07a894609616580ad2ceb547f2",
+      "name": "Cleopatra",
+      "symbol": "CLEO",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/34150/thumb/CLEO_token.png?1704190970"
+    },
+    {
+      "chainId": 5000,
+      "address": "0x26a6b0dcdcfb981362afa56d581e4a7dba3be140",
+      "name": "Puff The Dragon",
+      "symbol": "PUFF",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/35950/thumb/photo_2024-03-11_10.18.27.jpeg?1710240090"
+    },
+    {
+      "chainId": 5000,
       "address": "0x09bc4e0d864854c6afb6eb9a9cdf58ac190d0df9",
       "name": "Mantle Bridged USDC  Mantle ",
       "symbol": "USDC",
       "decimals": 6,
       "logoURI": "https://assets.coingecko.com/coins/images/35296/thumb/USDC_Icon.png?1708082083"
-    },
-    {
-      "chainId": 5000,
-      "address": "0x779f4e5fb773e17bc8e809f4ef1abb140861159a",
-      "name": "KTX Finance",
-      "symbol": "KTC",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/30537/thumb/KTX.jpeg?1696529409"
     },
     {
       "chainId": 5000,
@@ -295,14 +295,6 @@
     },
     {
       "chainId": 5000,
-      "address": "0xbd9aa882f5a9423b515721d84e9ead5ac40ae3de",
-      "name": "Dackie USD",
-      "symbol": "DCKUSD",
-      "decimals": 6,
-      "logoURI": "https://assets.coingecko.com/coins/images/39966/thumb/dackie_usd_circle.png?1734941381"
-    },
-    {
-      "chainId": 5000,
       "address": "0xbe5acfd64358805616b5cbd5277b9a85011d7cf1",
       "name": "Pichi Finance",
       "symbol": "PCH",
@@ -399,7 +391,7 @@
     }
   ],
   "version": {
-    "major": 8,
+    "major": 9,
     "minor": 0,
     "patch": 0
   }
