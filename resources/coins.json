@@ -98439,7 +98439,8 @@
     "symbol": "pundix",
     "name": "Pundi X",
     "platforms": {
-      "ethereum": "0x0fd10b9899882a6f2fcb5c371e17e70fdee00c38"
+      "ethereum": "0x0fd10b9899882a6f2fcb5c371e17e70fdee00c38",
+      "pundi-aifx-omnilayer": "0xd567b3d7b8fe3c79a1ad8da978812cfc4fa05e75"
     }
   },
   {
@@ -114830,6 +114831,22 @@
     "name": "Stargate Bridged ASTR (Astar zkEVM)",
     "platforms": {
       "astar-zkevm": "0xdf41220c7e322bfef933d85d01821ad277f90172"
+    }
+  },
+  {
+    "id": "stargate-bridged-pearl-avalanche",
+    "symbol": "pearl",
+    "name": "Stargate Bridged Pearl (Avalanche)",
+    "platforms": {
+      "avalanche": "0x08c4b51e6ca9eb89c255f0a5ab8afd721420e447"
+    }
+  },
+  {
+    "id": "stargate-bridged-shell-avalanche",
+    "symbol": "shell",
+    "name": "Stargate Bridged Shell (Avalanche)",
+    "platforms": {
+      "avalanche": "0xad4cb79293322c07973ee83aed5df66a53214dc6"
     }
   },
   {
