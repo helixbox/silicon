@@ -4,8 +4,24 @@
   "keywords": [
     "defi"
   ],
-  "timestamp": "2024-09-27T03:00:32.223+00:00",
+  "timestamp": "2025-03-04T10:00:09.919+00:00",
   "tokens": [
+    {
+      "chainId": 1111,
+      "address": "0xd1445bcbe14ce5edf7ae887e3f3f82f7bda12af3",
+      "name": "Promote",
+      "symbol": "PRO",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/39796/thumb/promote-type01_%281%29.png?1724118675"
+    },
+    {
+      "chainId": 1111,
+      "address": "0x17133c3b231eb73aceece547933e05648ef1c027",
+      "name": "GEAR",
+      "symbol": "GEA",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/39915/thumb/gear-type01.png?1724786529"
+    },
     {
       "chainId": 1111,
       "address": "0xcd47647d94ef20ff75d112820fd44ce218441712",
@@ -16,19 +32,19 @@
     },
     {
       "chainId": 1111,
+      "address": "0xb91d37abc99b9bbc3041e0b7646588f347aa6320",
+      "name": "TEAR",
+      "symbol": "TEAR",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/39896/thumb/tear-type01.png?1724731546"
+    },
+    {
+      "chainId": 1111,
       "address": "0x99618512fce498bebe0447c5f8bb8ea7ad32de76",
       "name": "FEATHER",
       "symbol": "FEA",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/39916/thumb/feather-type01.png?1724786738"
-    },
-    {
-      "chainId": 1111,
-      "address": "0xd1445bcbe14ce5edf7ae887e3f3f82f7bda12af3",
-      "name": "Promote",
-      "symbol": "PRO",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/39796/thumb/promote-type01_%281%29.png?1724118675"
     },
     {
       "chainId": 1111,
@@ -48,19 +64,11 @@
     },
     {
       "chainId": 1111,
-      "address": "0x17133c3b231eb73aceece547933e05648ef1c027",
-      "name": "GEAR",
-      "symbol": "GEA",
+      "address": "0x732e6973595136976173af4a56eac99f52becc6e",
+      "name": "MORION",
+      "symbol": "MOR",
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/39915/thumb/gear-type01.png?1724786529"
-    },
-    {
-      "chainId": 1111,
-      "address": "0xb3c3530c3e54914df9f4c5875fb682e547eecbe2",
-      "name": "PLAY Token",
-      "symbol": "PLAY",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/40035/thumb/PLAY_%ED%86%A0%ED%81%B0.png?1725382425"
+      "logoURI": "https://assets.coingecko.com/coins/images/39076/thumb/morion-type01.png?1720249095"
     },
     {
       "chainId": 1111,
@@ -80,22 +88,6 @@
     },
     {
       "chainId": 1111,
-      "address": "0x732e6973595136976173af4a56eac99f52becc6e",
-      "name": "MORION",
-      "symbol": "MOR",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/39076/thumb/morion-type01.png?1720249095"
-    },
-    {
-      "chainId": 1111,
-      "address": "0xb91d37abc99b9bbc3041e0b7646588f347aa6320",
-      "name": "TEAR",
-      "symbol": "TEAR",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/39896/thumb/tear-type01.png?1724731546"
-    },
-    {
-      "chainId": 1111,
       "address": "0x770d9d14c4ae2f78dca810958c1d9b7ea4620289",
       "name": "CROW",
       "symbol": "CROW",
@@ -104,8 +96,8 @@
     }
   ],
   "version": {
-    "major": null,
-    "minor": 5,
+    "major": 1,
+    "minor": 0,
     "patch": 0
   }
 }

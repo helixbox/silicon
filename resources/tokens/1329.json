@@ -4,23 +4,15 @@
   "keywords": [
     "defi"
   ],
-  "timestamp": "2025-02-21T10:00:39.378+00:00",
+  "timestamp": "2025-03-04T10:00:40.995+00:00",
   "tokens": [
     {
       "chainId": 1329,
-      "address": "0xe30fedd158a2e3b13e9badaeabafc5516e95e8c7",
-      "name": "Wrapped SEI",
-      "symbol": "WSEI",
+      "address": "0xdd7d5e4ea2125d43c16eed8f1ffefffa2f4b4af6",
+      "name": "Jellyverse",
+      "symbol": "JLY",
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/38470/thumb/sei.png?1717644025"
-    },
-    {
-      "chainId": 1329,
-      "address": "0xbd82f3bfe1df0c84faec88a22ebc34c9a86595dc",
-      "name": "Chips",
-      "symbol": "CHIPS",
-      "decimals": 6,
-      "logoURI": "https://assets.coingecko.com/coins/images/52405/thumb/logo.png?1733303663"
+      "logoURI": "https://assets.coingecko.com/coins/images/31805/thumb/short.png?1719199901"
     },
     {
       "chainId": 1329,
@@ -32,19 +24,11 @@
     },
     {
       "chainId": 1329,
-      "address": "0xc18b6a15fb0ceaf5eb18696eefcb5bc7b9107149",
-      "name": "Popo The Cat",
-      "symbol": "POPO",
+      "address": "0x37a4dd9ced2b19cfe8fac251cd727b5787e45269",
+      "name": "Sei fastUSD",
+      "symbol": "FASTUSD",
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/39686/thumb/8a872ee5-dfc6-4139-a157-9cdcbbeb2f59.jpeg?1723658023"
-    },
-    {
-      "chainId": 1329,
-      "address": "0xdd7d5e4ea2125d43c16eed8f1ffefffa2f4b4af6",
-      "name": "Jellyverse",
-      "symbol": "JLY",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/31805/thumb/short.png?1719199901"
+      "logoURI": "https://assets.coingecko.com/coins/images/50766/thumb/2024-10-16_14.54.03.jpg?1729120051"
     },
     {
       "chainId": 1329,
@@ -56,19 +40,35 @@
     },
     {
       "chainId": 1329,
-      "address": "0x37a4dd9ced2b19cfe8fac251cd727b5787e45269",
-      "name": "Sei fastUSD",
-      "symbol": "FASTUSD",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/50766/thumb/2024-10-16_14.54.03.jpg?1729120051"
-    },
-    {
-      "chainId": 1329,
       "address": "0x80eede496655fb9047dd39d9f418d5483ed600df",
       "name": "LayerZero Bridged frxUSD",
       "symbol": "FRXUSD",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/54454/thumb/frxusd.png?1739789465"
+    },
+    {
+      "chainId": 1329,
+      "address": "0xc18b6a15fb0ceaf5eb18696eefcb5bc7b9107149",
+      "name": "Popo The Cat",
+      "symbol": "POPO",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/39686/thumb/8a872ee5-dfc6-4139-a157-9cdcbbeb2f59.jpeg?1723658023"
+    },
+    {
+      "chainId": 1329,
+      "address": "0x059a6b0ba116c63191182a0956cf697d0d2213ec",
+      "name": "Synnax Stablecoin",
+      "symbol": "SYUSD",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/50179/thumb/7.png?1726164913"
+    },
+    {
+      "chainId": 1329,
+      "address": "0xe30fedd158a2e3b13e9badaeabafc5516e95e8c7",
+      "name": "Wrapped SEI",
+      "symbol": "WSEI",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/38470/thumb/sei.png?1717644025"
     },
     {
       "chainId": 1329,
@@ -80,11 +80,11 @@
     },
     {
       "chainId": 1329,
-      "address": "0x059a6b0ba116c63191182a0956cf697d0d2213ec",
-      "name": "Synnax Stablecoin",
-      "symbol": "SYUSD",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/50179/thumb/7.png?1726164913"
+      "address": "0xbd82f3bfe1df0c84faec88a22ebc34c9a86595dc",
+      "name": "Chips",
+      "symbol": "CHIPS",
+      "decimals": 6,
+      "logoURI": "https://assets.coingecko.com/coins/images/52405/thumb/logo.png?1733303663"
     },
     {
       "chainId": 1329,
@@ -181,19 +181,11 @@
       "symbol": "STSEI",
       "decimals": 6,
       "logoURI": "https://assets.coingecko.com/coins/images/34891/thumb/STSEI.jpg?1706547607"
-    },
-    {
-      "chainId": 1329,
-      "address": "0x67da7010c6c231ad620e3940e707adb6c1a08f23",
-      "name": "SeiWhale",
-      "symbol": "SEI",
-      "decimals": 6,
-      "logoURI": "https://assets.coingecko.com/coins/images/34581/thumb/seiwhale1.png?1705421138"
     }
   ],
   "version": {
-    "major": 2,
-    "minor": 2,
+    "major": 3,
+    "minor": 0,
     "patch": 0
   }
 }
