@@ -31566,6 +31566,14 @@
     "platforms": {}
   },
   {
+    "id": "crypto-strategic-reserve",
+    "symbol": "csr",
+    "name": "Crypto Strategic Reserve",
+    "platforms": {
+      "solana": "EqQFU4AoRVKJjQrpshmp89YxHAgNecCpJdMS8PJLpump"
+    }
+  },
+  {
     "id": "crypto-task-force",
     "symbol": "ctf",
     "name": "Crypto Task Force",
@@ -33362,7 +33370,9 @@
     "name": "Dawae",
     "platforms": {
       "solana": "DZSs9nHSr9BBunLNWd6PDstesJ4PBLMFVK1GbZ9urYNZ",
-      "base": "0x0ed151c9749d39c3ca8e537125fb4053e0c9b55f"
+      "base": "0x0ed151c9749d39c3ca8e537125fb4053e0c9b55f",
+      "ethereum": "0x2a897de60073e13c1f34f672033c1c1d08657fbb",
+      "binance-smart-chain": "0xb42fc163f95332552a824020f15ed81ee7f0ce78"
     }
   },
   {
@@ -45051,6 +45061,14 @@
     "name": "EyzoAI",
     "platforms": {
       "ethereum": "0xf59c6767dfb5aa9e908cb8d1831d02e53312e8ff"
+    }
+  },
+  {
+    "id": "ez1-token",
+    "symbol": "ez",
+    "name": "EZ1 TOKEN",
+    "platforms": {
+      "solana": "66ce7iZ5uqnVbh4Rt5wChHWyVfUvv1LJrBo8o214pump"
     }
   },
   {
@@ -68443,8 +68461,8 @@
   },
   {
     "id": "layerzero-bridged-usdc-etherlink",
-    "symbol": "lzusdc",
-    "name": "LayerZero Bridged USDC (Etherlink)",
+    "symbol": "usdc",
+    "name": "Bridged USDC (Etherlink)",
     "platforms": {
       "etherlink": "0x796ea11fa2dd751ed01b53c372ffdb4aaa8f00f9"
     }
@@ -68459,8 +68477,8 @@
   },
   {
     "id": "layerzero-bridged-usdt-etherlink",
-    "symbol": "lzusdt",
-    "name": "LayerZero Bridged USDT (Etherlink)",
+    "symbol": "usdt",
+    "name": "Bridged USDT (Etherlink)",
     "platforms": {
       "etherlink": "0x2c03058c8afc06713be23e58d2febc8337dbfe6a"
     }
@@ -93311,6 +93329,14 @@
     }
   },
   {
+    "id": "pharaohs",
+    "symbol": "phrz",
+    "name": "Pharaohs",
+    "platforms": {
+      "solana": "8fJCtfbuAaFzdwTnQP84nNhSpZdVy4Uc929eXZRBN8H4"
+    }
+  },
+  {
     "id": "phase-dollar",
     "symbol": "cash",
     "name": "Phase Dollar",
@@ -99171,7 +99197,8 @@
     "symbol": "qbio",
     "name": "Quantum Biology DAO",
     "platforms": {
-      "ethereum": "0x3e6a1b21bd267677fa49be6425aebe2fc0f89bde"
+      "ethereum": "0x3e6a1b21bd267677fa49be6425aebe2fc0f89bde",
+      "solana": "qbioCGDnUBGX5qcK1Fc4zg19GaQEPmxHFMPMZQm4LZ8"
     }
   },
   {
@@ -99510,6 +99537,14 @@
     "name": "QL1 Bridged USDT (QL1)",
     "platforms": {
       "ql1": "0xc276b91c0e8d10260af7b67009d2683bb7776308"
+    }
+  },
+  {
+    "id": "qustream",
+    "symbol": "qst",
+    "name": "QuStream",
+    "platforms": {
+      "solana": "AUuCEHQ7sm2i5GmaHrpE961voWcTY8U6mgrkhcV7pump"
     }
   },
   {
@@ -102425,6 +102460,14 @@
     }
   },
   {
+    "id": "riddle-by-virtuals",
+    "symbol": "riddle",
+    "name": "Riddle by Virtuals",
+    "platforms": {
+      "base": "0x05f1279957d62fc675399df1088f9c11c64c2b19"
+    }
+  },
+  {
     "id": "ridotto",
     "symbol": "rdt",
     "name": "Ridotto",
@@ -103874,7 +103917,9 @@
     "id": "runbot",
     "symbol": "rbot",
     "name": "Runbot",
-    "platforms": {}
+    "platforms": {
+      "arbitrum-one": "0x53ce5f2a18a623317357d6366ec59b47cbb0060d"
+    }
   },
   {
     "id": "runechain",
@@ -124594,6 +124639,14 @@
     }
   },
   {
+    "id": "trustinweb3",
+    "symbol": "t3ai",
+    "name": "trustInWeb3",
+    "platforms": {
+      "solana": "CckLtcfEtsYzg8sUrVBBrFKt16iExpvEurc1dhKmmoon"
+    }
+  },
+  {
     "id": "trust-me-bros-by-virtuals",
     "symbol": "trust",
     "name": "$TRUST ME BROs by Virtuals",
@@ -124665,7 +124718,7 @@
   },
   {
     "id": "truth",
-    "symbol": "tru",
+    "symbol": "truu",
     "name": "Truth",
     "platforms": {
       "ethereum": "0xdae0fafd65385e7775cf75b1398735155ef6acd2"
