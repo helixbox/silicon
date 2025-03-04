@@ -1,7 +1,7 @@
 import { Service } from "typedi";
 import * as viemChain from "viem/chains";
 import * as fs from "node:fs";
-import axios from "axios";
+// import axios from "axios";
 import Case from 'case';
 
 const Mustache = require("mustache");
