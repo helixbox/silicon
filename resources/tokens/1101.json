@@ -4,7 +4,7 @@
   "keywords": [
     "defi"
   ],
-  "timestamp": "2025-02-21T22:00:23.011+00:00",
+  "timestamp": "2025-03-05T04:00:23.157+00:00",
   "tokens": [
     {
       "chainId": 1101,
@@ -13,22 +13,6 @@
       "symbol": "DAI",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/39806/thumb/dai.png?1724126469"
-    },
-    {
-      "chainId": 1101,
-      "address": "0x0709e962221dd8ac9ec5c56f85ef789d3c1b9776",
-      "name": "SOBAX",
-      "symbol": "SBX",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/37019/thumb/%E3%83%AD%E3%82%B3%E3%82%99%EF%BC%92%E3%81%AE%E3%82%B3%E3%83%92%E3%82%9A%E3%83%BC.png?1713153811"
-    },
-    {
-      "chainId": 1101,
-      "address": "0x696c0ba235444607a1c4b93e6b34ba14928c1b60",
-      "name": "DoveSwap",
-      "symbol": "DOV",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/31016/thumb/Group_572_%282%29.png?1696529853"
     },
     {
       "chainId": 1101,
@@ -45,6 +29,22 @@
       "symbol": "USDC",
       "decimals": 6,
       "logoURI": "https://assets.coingecko.com/coins/images/35263/thumb/USDC_Icon.png?1708009475"
+    },
+    {
+      "chainId": 1101,
+      "address": "0x696c0ba235444607a1c4b93e6b34ba14928c1b60",
+      "name": "DoveSwap",
+      "symbol": "DOV",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/31016/thumb/Group_572_%282%29.png?1696529853"
+    },
+    {
+      "chainId": 1101,
+      "address": "0x0709e962221dd8ac9ec5c56f85ef789d3c1b9776",
+      "name": "SOBAX",
+      "symbol": "SBX",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/37019/thumb/%E3%83%AD%E3%82%B3%E3%82%99%EF%BC%92%E3%81%AE%E3%82%B3%E3%83%92%E3%82%9A%E3%83%BC.png?1713153811"
     },
     {
       "chainId": 1101,
@@ -216,14 +216,6 @@
     },
     {
       "chainId": 1101,
-      "address": "0x80eede496655fb9047dd39d9f418d5483ed600df",
-      "name": "Frax USD",
-      "symbol": "FRXUSD",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/53963/thumb/frxUSD.png?1737792154"
-    },
-    {
-      "chainId": 1101,
       "address": "0x0d1e753a25ebda689453309112904807625befbe",
       "name": "PancakeSwap",
       "symbol": "CAKE",
@@ -240,8 +232,8 @@
     }
   ],
   "version": {
-    "major": 1,
-    "minor": 2,
+    "major": 2,
+    "minor": 0,
     "patch": 0
   }
 }

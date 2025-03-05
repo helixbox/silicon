@@ -4,8 +4,32 @@
   "keywords": [
     "defi"
   ],
-  "timestamp": "2025-02-22T00:00:24.006+00:00",
+  "timestamp": "2025-03-05T04:00:24.754+00:00",
   "tokens": [
+    {
+      "chainId": 57073,
+      "address": "0xf1815bd50389c46847f0bda824ec8da914045d14",
+      "name": "Stargate Bridged USDC  Ink ",
+      "symbol": "USDCE",
+      "decimals": 6,
+      "logoURI": "https://assets.coingecko.com/coins/images/53782/thumb/usdc.jpg?1737346127"
+    },
+    {
+      "chainId": 57073,
+      "address": "0xd642b49d10cc6e1bc1c6945725667c35e0875f22",
+      "name": "Purple",
+      "symbol": "PURPLE",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/53880/thumb/ink_purple.png?1738227741"
+    },
+    {
+      "chainId": 57073,
+      "address": "0x4200000000000000000000000000000000000006",
+      "name": "Ink Bridged WETH  Ink ",
+      "symbol": "WETH",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/52918/thumb/weth_2.jpg?1734684690"
+    },
     {
       "chainId": 57073,
       "address": "0xca5f2ccbd9c40b32657df57c716de44237f80f05",
@@ -37,43 +61,11 @@
       "symbol": "SHROOMY",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/54002/thumb/1000000182.jpg?1737942213"
-    },
-    {
-      "chainId": 57073,
-      "address": "0x4200000000000000000000000000000000000006",
-      "name": "Ink Bridged WETH  Ink ",
-      "symbol": "WETH",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/52918/thumb/weth_2.jpg?1734684690"
-    },
-    {
-      "chainId": 57073,
-      "address": "0xd642b49d10cc6e1bc1c6945725667c35e0875f22",
-      "name": "Purple",
-      "symbol": "PURPLE",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/53880/thumb/ink_purple.png?1738227741"
-    },
-    {
-      "chainId": 57073,
-      "address": "0xf1815bd50389c46847f0bda824ec8da914045d14",
-      "name": "Stargate Bridged USDC  Ink ",
-      "symbol": "USDCE",
-      "decimals": 6,
-      "logoURI": "https://assets.coingecko.com/coins/images/53782/thumb/usdc.jpg?1737346127"
-    },
-    {
-      "chainId": 57073,
-      "address": "0x80eede496655fb9047dd39d9f418d5483ed600df",
-      "name": "Frax USD",
-      "symbol": "FRXUSD",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/53963/thumb/frxUSD.png?1737792154"
     }
   ],
   "version": {
-    "major": 0,
-    "minor": 7,
+    "major": 1,
+    "minor": 0,
     "patch": 0
   }
 }
