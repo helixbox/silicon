@@ -4,15 +4,15 @@
   "keywords": [
     "defi"
   ],
-  "timestamp": "2025-02-26T10:00:09.581+00:00",
+  "timestamp": "2025-03-06T10:00:09.696+00:00",
   "tokens": [
     {
       "chainId": 169,
-      "address": "0x9582b518d28dc65945f8151c25e44a4e80504205",
-      "name": "GULL",
-      "symbol": "GULL",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/51373/thumb/gulllogo.png?1730938086"
+      "address": "0xf417f5a458ec102b90352f697d6e2ac3a3d2851f",
+      "name": "Bridged Tether  Manta Pacific ",
+      "symbol": "USDT",
+      "decimals": 6,
+      "logoURI": "https://assets.coingecko.com/coins/images/32214/thumb/usdt_%281%29.png?1696831809"
     },
     {
       "chainId": 169,
@@ -24,19 +24,27 @@
     },
     {
       "chainId": 169,
-      "address": "0x0dc808adce2099a9f62aa87d9670745aba741746",
-      "name": "Bridged Wrapped Ether  Manta Pacific ",
-      "symbol": "WETH",
+      "address": "0x6745cf7a0aaca457f451a4b8c60c8504320f69d0",
+      "name": "Calamari Network",
+      "symbol": "KMA",
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/32212/thumb/wETH_32.png?1696817415"
+      "logoURI": "https://assets.coingecko.com/coins/images/20976/thumb/kma.png?1696520363"
     },
     {
       "chainId": 169,
-      "address": "0xf417f5a458ec102b90352f697d6e2ac3a3d2851f",
-      "name": "Bridged Tether  Manta Pacific ",
-      "symbol": "USDT",
-      "decimals": 6,
-      "logoURI": "https://assets.coingecko.com/coins/images/32214/thumb/usdt_%281%29.png?1696831809"
+      "address": "0xaccbc418a994a27a75644d8d591afc22faba594e",
+      "name": "Manta mETH",
+      "symbol": "METH",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/38337/thumb/token_m_eth.png?1717126380"
+    },
+    {
+      "chainId": 169,
+      "address": "0x9582b518d28dc65945f8151c25e44a4e80504205",
+      "name": "GULL",
+      "symbol": "GULL",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/51373/thumb/gulllogo.png?1730938086"
     },
     {
       "chainId": 169,
@@ -48,11 +56,11 @@
     },
     {
       "chainId": 169,
-      "address": "0xaccbc418a994a27a75644d8d591afc22faba594e",
-      "name": "Manta mETH",
-      "symbol": "METH",
+      "address": "0x0dc808adce2099a9f62aa87d9670745aba741746",
+      "name": "Bridged Wrapped Ether  Manta Pacific ",
+      "symbol": "WETH",
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/38337/thumb/token_m_eth.png?1717126380"
+      "logoURI": "https://assets.coingecko.com/coins/images/32212/thumb/wETH_32.png?1696817415"
     },
     {
       "chainId": 169,
@@ -288,7 +296,7 @@
   ],
   "version": {
     "major": 4,
-    "minor": 0,
+    "minor": 1,
     "patch": 0
   }
 }
