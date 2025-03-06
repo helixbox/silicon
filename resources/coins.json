@@ -17525,6 +17525,14 @@
     }
   },
   {
+    "id": "blckmrkt",
+    "symbol": "$mrkt",
+    "name": "BLCKMRKT",
+    "platforms": {
+      "base": "0x2133031f5acbc493572c02f271186f241cd8d6a5"
+    }
+  },
+  {
     "id": "blend",
     "symbol": "blnd",
     "name": "Blend",
@@ -18181,6 +18189,14 @@
     "name": "BLUB",
     "platforms": {
       "sui": "0xfa7ac3951fdca92c5200d468d31a365eb03b2be9936fde615e69f0c1274ad3a0::BLUB::BLUB"
+    }
+  },
+  {
+    "id": "blub-2",
+    "symbol": "blub",
+    "name": "Blub",
+    "platforms": {
+      "avalanche": "0x0f669808d88b2b0b3d23214dcd2a1cc6a8b1b5cd"
     }
   },
   {
@@ -39087,6 +39103,7 @@
     "name": "DOLZ.io",
     "platforms": {
       "ethereum": "0xe939f011a3d8fc0aa874c97e8156053a903d7176",
+      "base": "0x8102b2864eade51a1c36497747132af689824b59",
       "polygon-pos": "0x6ab4e20f36ca48b61ecd66c0450fdf665fa130be"
     }
   },
@@ -47116,7 +47133,7 @@
   {
     "id": "flex-2",
     "symbol": "fdx",
-    "name": "FLEX",
+    "name": "Flex perpetuals",
     "platforms": {
       "base": "0xe248c0bce837b8dfb21fdfa51fb31d22fbbb4380"
     }
