@@ -4,15 +4,15 @@
   "keywords": [
     "defi"
   ],
-  "timestamp": "2025-03-01T11:00:38.278+00:00",
+  "timestamp": "2025-03-07T10:00:37.675+00:00",
   "tokens": [
     {
       "chainId": 534352,
-      "address": "0x750351a9f75f98f2c2e91d4edb3beb14e719557e",
-      "name": "Scribes",
-      "symbol": "SCRIBES",
+      "address": "0xd29687c813d741e2f938f4ac377128810e217b1b",
+      "name": "Scroll",
+      "symbol": "SCR",
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/38185/thumb/scribes.png?1716788481"
+      "logoURI": "https://assets.coingecko.com/coins/images/50571/thumb/scroll.jpg?1728376125"
     },
     {
       "chainId": 534352,
@@ -21,22 +21,6 @@
       "symbol": "PED",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/32805/thumb/perseid.png?1704711269"
-    },
-    {
-      "chainId": 534352,
-      "address": "0x0fc479e2f9b7310bfb1db606cf565dea6910eedc",
-      "name": "Papyrus Swap",
-      "symbol": "PAPYRUS",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/32479/thumb/PapyrusLogo.png?1698286849"
-    },
-    {
-      "chainId": 534352,
-      "address": "0x3c1bca5a656e69edcd0d4e36bebb3fcdaca60cf1",
-      "name": "Bridged Wrapped Bitcoin  Scroll ",
-      "symbol": "WBTC",
-      "decimals": 8,
-      "logoURI": "https://assets.coingecko.com/coins/images/32614/thumb/wrapped_bitcoin_wbtc.png?1698735124"
     },
     {
       "chainId": 534352,
@@ -72,11 +56,11 @@
     },
     {
       "chainId": 534352,
-      "address": "0x690f1d2da47d9a759a93dd2b0ace3c1627f216ba",
-      "name": "Venium",
-      "symbol": "VENIUM",
+      "address": "0x5300000000000000000000000000000000000004",
+      "name": "Bridged Wrapped Ether  Scroll ",
+      "symbol": "WETH",
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/36346/thumb/scrolliumlogo.png?1711187400"
+      "logoURI": "https://assets.coingecko.com/coins/images/32315/thumb/weth_%281%29.png?1697365181"
     },
     {
       "chainId": 534352,
@@ -88,14 +72,6 @@
     },
     {
       "chainId": 534352,
-      "address": "0x5300000000000000000000000000000000000004",
-      "name": "Bridged Wrapped Ether  Scroll ",
-      "symbol": "WETH",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/32315/thumb/weth_%281%29.png?1697365181"
-    },
-    {
-      "chainId": 534352,
       "address": "0x330c43d22bd65a60ffea93a197f04e87faa27b70",
       "name": "abcNURI",
       "symbol": "ABCNURI",
@@ -104,11 +80,19 @@
     },
     {
       "chainId": 534352,
-      "address": "0xd29687c813d741e2f938f4ac377128810e217b1b",
-      "name": "Scroll",
-      "symbol": "SCR",
+      "address": "0x3c1bca5a656e69edcd0d4e36bebb3fcdaca60cf1",
+      "name": "Bridged Wrapped Bitcoin  Scroll ",
+      "symbol": "WBTC",
+      "decimals": 8,
+      "logoURI": "https://assets.coingecko.com/coins/images/32614/thumb/wrapped_bitcoin_wbtc.png?1698735124"
+    },
+    {
+      "chainId": 534352,
+      "address": "0x750351a9f75f98f2c2e91d4edb3beb14e719557e",
+      "name": "Scribes",
+      "symbol": "SCRIBES",
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/50571/thumb/scroll.jpg?1728376125"
+      "logoURI": "https://assets.coingecko.com/coins/images/38185/thumb/scribes.png?1716788481"
     },
     {
       "chainId": 534352,
@@ -120,11 +104,27 @@
     },
     {
       "chainId": 534352,
+      "address": "0x0fc479e2f9b7310bfb1db606cf565dea6910eedc",
+      "name": "Papyrus Swap",
+      "symbol": "PAPYRUS",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/32479/thumb/PapyrusLogo.png?1698286849"
+    },
+    {
+      "chainId": 534352,
       "address": "0x95a52ec1d60e74cd3eb002fe54a2c74b185a4c16",
       "name": "Skydrome",
       "symbol": "SKY",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/33902/thumb/icon_200x200.png?1703237670"
+    },
+    {
+      "chainId": 534352,
+      "address": "0x690f1d2da47d9a759a93dd2b0ace3c1627f216ba",
+      "name": "Venium",
+      "symbol": "VENIUM",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/36346/thumb/scrolliumlogo.png?1711187400"
     },
     {
       "chainId": 534352,
@@ -264,14 +264,6 @@
     },
     {
       "chainId": 534352,
-      "address": "0xf79a36f6f440392c63ad61252a64d5d3c43f860d",
-      "name": "Quack Token",
-      "symbol": "QUACK",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/31436/thumb/0x639C0D019C257966C4907bD4E68E3F349bB58109.png?1696530251"
-    },
-    {
-      "chainId": 534352,
       "address": "0x6a661312938d22a2a0e27f585073e4406903990a",
       "name": "Maha",
       "symbol": "MAHA",
@@ -312,7 +304,7 @@
     }
   ],
   "version": {
-    "major": 6,
+    "major": 7,
     "minor": 0,
     "patch": 0
   }

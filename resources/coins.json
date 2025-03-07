@@ -41491,6 +41491,22 @@
     }
   },
   {
+    "id": "edu-chain-bridged-usdc-edu-chain",
+    "symbol": "usdc",
+    "name": "EDU Chain Bridged USDC (EDU Chain)",
+    "platforms": {
+      "edu-chain": "0x836d275563bab5e93fd6ca62a95db7065da94342"
+    }
+  },
+  {
+    "id": "edu-chain-bridged-usdt-edu-chain",
+    "symbol": "usdt",
+    "name": "EDU Chain Bridged USDT (EDU Chain)",
+    "platforms": {
+      "edu-chain": "0x7277cc818e3f3ffbb169c6da9cc77fc2d2a34895"
+    }
+  },
+  {
     "id": "edu-coin",
     "symbol": "edu",
     "name": "Open Campus",
@@ -41514,6 +41530,14 @@
     "name": "EDUM",
     "platforms": {
       "ethereum": "0xac9518ba93eeb2336a03137d254d8cc2e4d0fa38"
+    }
+  },
+  {
+    "id": "edu-stabledollar",
+    "symbol": "esd",
+    "name": "EDU StableDollar",
+    "platforms": {
+      "edu-chain": "0xd282de0c2bd41556c887f319a5c19ff441dcdf90"
     }
   },
   {
@@ -133785,6 +133809,14 @@
     "name": "Wrapped DOGE (Universal)",
     "platforms": {
       "base": "0x12e96c2bfea6e835cf8dd38a5834fa61cf723736"
+    }
+  },
+  {
+    "id": "wrapped-edu",
+    "symbol": "wedu",
+    "name": "Wrapped EDU",
+    "platforms": {
+      "edu-chain": "0xd02e8c38a8e3db71f8b2ae30b8186d7874934e12"
     }
   },
   {
