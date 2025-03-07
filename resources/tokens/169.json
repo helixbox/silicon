@@ -4,15 +4,23 @@
   "keywords": [
     "defi"
   ],
-  "timestamp": "2025-03-06T11:00:09.674+00:00",
+  "timestamp": "2025-03-07T10:00:09.002+00:00",
   "tokens": [
     {
       "chainId": 169,
-      "address": "0xf417f5a458ec102b90352f697d6e2ac3a3d2851f",
-      "name": "Bridged Tether  Manta Pacific ",
-      "symbol": "USDT",
-      "decimals": 6,
-      "logoURI": "https://assets.coingecko.com/coins/images/32214/thumb/usdt_%281%29.png?1696831809"
+      "address": "0x0dc808adce2099a9f62aa87d9670745aba741746",
+      "name": "Bridged Wrapped Ether  Manta Pacific ",
+      "symbol": "WETH",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/32212/thumb/wETH_32.png?1696817415"
+    },
+    {
+      "chainId": 169,
+      "address": "0x95cef13441be50d20ca4558cc0a27b601ac544e5",
+      "name": "Manta Network",
+      "symbol": "MANTA",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/34289/thumb/manta.jpg?1704468717"
     },
     {
       "chainId": 169,
@@ -24,27 +32,19 @@
     },
     {
       "chainId": 169,
-      "address": "0x6745cf7a0aaca457f451a4b8c60c8504320f69d0",
-      "name": "Calamari Network",
-      "symbol": "KMA",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/20976/thumb/kma.png?1696520363"
-    },
-    {
-      "chainId": 169,
-      "address": "0x0dc808adce2099a9f62aa87d9670745aba741746",
-      "name": "Bridged Wrapped Ether  Manta Pacific ",
-      "symbol": "WETH",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/32212/thumb/wETH_32.png?1696817415"
-    },
-    {
-      "chainId": 169,
       "address": "0xaccbc418a994a27a75644d8d591afc22faba594e",
       "name": "Manta mETH",
       "symbol": "METH",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/38337/thumb/token_m_eth.png?1717126380"
+    },
+    {
+      "chainId": 169,
+      "address": "0x6745cf7a0aaca457f451a4b8c60c8504320f69d0",
+      "name": "Calamari Network",
+      "symbol": "KMA",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/20976/thumb/kma.png?1696520363"
     },
     {
       "chainId": 169,
@@ -56,11 +56,11 @@
     },
     {
       "chainId": 169,
-      "address": "0x95cef13441be50d20ca4558cc0a27b601ac544e5",
-      "name": "Manta Network",
-      "symbol": "MANTA",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/34289/thumb/manta.jpg?1704468717"
+      "address": "0xf417f5a458ec102b90352f697d6e2ac3a3d2851f",
+      "name": "Bridged Tether  Manta Pacific ",
+      "symbol": "USDT",
+      "decimals": 6,
+      "logoURI": "https://assets.coingecko.com/coins/images/32214/thumb/usdt_%281%29.png?1696831809"
     },
     {
       "chainId": 169,
@@ -148,14 +148,6 @@
       "symbol": "MUSD",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/38336/thumb/token_m_usd.png?1717126272"
-    },
-    {
-      "chainId": 169,
-      "address": "0x73d23f3778a90be8846e172354a115543df2a7e4",
-      "name": "Manta Pacific Bridged USDZ  Manta Pacif",
-      "symbol": "USDZ",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/39166/thumb/usdz.png?1720780702"
     },
     {
       "chainId": 169,
@@ -295,8 +287,8 @@
     }
   ],
   "version": {
-    "major": 4,
-    "minor": 1,
+    "major": 5,
+    "minor": 0,
     "patch": 0
   }
 }

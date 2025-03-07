@@ -4,8 +4,24 @@
   "keywords": [
     "defi"
   ],
-  "timestamp": "2025-02-21T09:00:20.648+00:00",
+  "timestamp": "2025-03-07T10:00:16.842+00:00",
   "tokens": [
+    {
+      "chainId": 1923,
+      "address": "0xa6cb988942610f6731e664379d15ffcfbf282b44",
+      "name": "Layerzero Bridged weETH  Swellchain ",
+      "symbol": "WEETH",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/53659/thumb/65c5a7141f77e162be7af327_eETH.png?1737001248"
+    },
+    {
+      "chainId": 1923,
+      "address": "0x1cf7b5f266a0f39d6f9408b90340e3e71df8bf7b",
+      "name": "Layerzero Bridged swBTC  Swellchain ",
+      "symbol": "SWBTC",
+      "decimals": 8,
+      "logoURI": "https://assets.coingecko.com/coins/images/53657/thumb/66ff59725979d3c6635ecae5_swBTC.png?1737001044"
+    },
     {
       "chainId": 1923,
       "address": "0x18d33689ae5d02649a859a1cf16c9f0563975258",
@@ -16,11 +32,19 @@
     },
     {
       "chainId": 1923,
-      "address": "0x1cf7b5f266a0f39d6f9408b90340e3e71df8bf7b",
-      "name": "Layerzero Bridged swBTC  Swellchain ",
-      "symbol": "SWBTC",
-      "decimals": 8,
-      "logoURI": "https://assets.coingecko.com/coins/images/53657/thumb/66ff59725979d3c6635ecae5_swBTC.png?1737001044"
+      "address": "0x4200000000000000000000000000000000000006",
+      "name": "Layerzero Bridged Wrapped Ether  Swellc",
+      "symbol": "WETH",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/54515/thumb/weth_2.jpg?1740119347"
+    },
+    {
+      "chainId": 1923,
+      "address": "0x5d3a1ff2b6bab83b63cd9ad0787074081a52ef34",
+      "name": "Layerzero Bridged USDE  Swellchain ",
+      "symbol": "USDE",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/54751/thumb/usde.jpg?1741337054"
     },
     {
       "chainId": 1923,
@@ -37,22 +61,6 @@
       "symbol": "SWETH",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/53671/thumb/66ff8288d441ad252025f769_swellToken.png?1737007146"
-    },
-    {
-      "chainId": 1923,
-      "address": "0xa6cb988942610f6731e664379d15ffcfbf282b44",
-      "name": "Layerzero Bridged weETH  Swellchain ",
-      "symbol": "WEETH",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/53659/thumb/65c5a7141f77e162be7af327_eETH.png?1737001248"
-    },
-    {
-      "chainId": 1923,
-      "address": "0x4200000000000000000000000000000000000006",
-      "name": "Layerzero Bridged Wrapped Ether  Swellc",
-      "symbol": "WETH",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/54515/thumb/weth_2.jpg?1740119347"
     },
     {
       "chainId": 1923,
@@ -73,7 +81,7 @@
   ],
   "version": {
     "major": 0,
-    "minor": 1,
+    "minor": 2,
     "patch": 0
   }
 }
