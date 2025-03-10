@@ -38492,7 +38492,8 @@
     "symbol": "dog",
     "name": "Dog (Bitcoin)",
     "platforms": {
-      "ordinals": "840000:3"
+      "ordinals": "840000:3",
+      "solana": "dog1viwbb2vWDpER5FrJ4YFG6gq6XuyFohUe9TXN65u"
     }
   },
   {
@@ -38571,16 +38572,6 @@
     "name": "doginwotah",
     "platforms": {
       "solana": "GsTmWmZozAiqD671MYCf1Whz9FtjwaeAAjLYXEWLWF1N"
-    }
-  },
-  {
-    "id": "dogira",
-    "symbol": "dogira",
-    "name": "Dogira",
-    "platforms": {
-      "polygon-pos": "0xdda40cdfe4a0090f42ff49f264a831402adb801a",
-      "dogechain": "0xf480f38c366daac4305dc484b2ad7a496ff00cea",
-      "ethereum": "0xd8c1232fcd219286e341271385bd70601503b3d7"
     }
   },
   {
@@ -43102,14 +43093,6 @@
     }
   },
   {
-    "id": "enter",
-    "symbol": "enter",
-    "name": "ENTER",
-    "platforms": {
-      "binance-smart-chain": "0x5bc4e94ce63c5470515cbddc903f813580a2a08d"
-    }
-  },
-  {
     "id": "enterdao",
     "symbol": "entr",
     "name": "EnterDAO",
@@ -46289,15 +46272,6 @@
     }
   },
   {
-    "id": "fideum",
-    "symbol": "fi",
-    "name": "Fideum",
-    "platforms": {
-      "ethereum": "0x1294f4183763743c7c9519bec51773fb3acd78fd",
-      "binance-smart-chain": "0x1294f4183763743c7c9519bec51773fb3acd78fd"
-    }
-  },
-  {
     "id": "fidira",
     "symbol": "fid",
     "name": "Fidira",
@@ -47279,7 +47253,7 @@
   {
     "id": "flocoin",
     "symbol": "floco",
-    "name": "FloCoin",
+    "name": "flocoin",
     "platforms": {}
   },
   {
@@ -63223,14 +63197,6 @@
     }
   },
   {
-    "id": "joker",
-    "symbol": "joker",
-    "name": "Joker",
-    "platforms": {
-      "binance-smart-chain": "0x57c58c724460f10bd75ffac248c2621818c086d5"
-    }
-  },
-  {
     "id": "joker-2",
     "symbol": "joker",
     "name": "Joker",
@@ -65515,14 +65481,6 @@
     "name": "KGB Protocol",
     "platforms": {
       "the-open-network": "EQCVpU1VZL4Orf9mDXTuE5yxB1vvFmApQP9Q-66v0RiH8his"
-    }
-  },
-  {
-    "id": "kindness-for-the-soul-ali",
-    "symbol": "ali",
-    "name": "Kindness For The Soul ALI",
-    "platforms": {
-      "pulsechain": "0x828f3c8e22cb8ccfe5ff2de59680096959a2571c"
     }
   },
   {
@@ -69628,14 +69586,6 @@
     "name": "LIFE",
     "platforms": {
       "solana": "1FPs2RTXvLzW9r9MgRYfGgNJt4wcDUc3FpMeRpQLVLS"
-    }
-  },
-  {
-    "id": "lifebankchain",
-    "symbol": "lbc",
-    "name": "LifeBankChain",
-    "platforms": {
-      "ethereum": "0xf6801c3e4108ead0deb216a3295338a582734c24"
     }
   },
   {
@@ -78186,14 +78136,6 @@
     }
   },
   {
-    "id": "milei",
-    "symbol": "milei",
-    "name": "MILEI",
-    "platforms": {
-      "ethereum": "0xb71bdc7014f3740d0267d41d632cab8371f8ba3c"
-    }
-  },
-  {
     "id": "milei-solana",
     "symbol": "milei",
     "name": "MILEI Solana",
@@ -78765,7 +78707,9 @@
     "id": "mintify",
     "symbol": "mint",
     "name": "Mintify",
-    "platforms": {}
+    "platforms": {
+      "solana": "AvoecWraqX969kfXUF5XCCDz59sjRjiDa1KUDyj225t8"
+    }
   },
   {
     "id": "mintlayer",
@@ -79806,12 +79750,6 @@
     "platforms": {}
   },
   {
-    "id": "monad",
-    "symbol": "mon",
-    "name": "Monad",
-    "platforms": {}
-  },
-  {
     "id": "monai",
     "symbol": "monai",
     "name": "Monai",
@@ -80193,6 +80131,14 @@
     "name": "Monkeys",
     "platforms": {
       "ethereum": "0xf2a22b900dde3ba18ec2aef67d4c8c1a0dab6aac"
+    }
+  },
+  {
+    "id": "monkeys-2",
+    "symbol": "monkeys",
+    "name": "monKEYS",
+    "platforms": {
+      "solana": "7TSCoke2mSZzAtyuRmzANf9virrnyv4xSUeaxUrKkLqw"
     }
   },
   {
@@ -81907,14 +81853,6 @@
     }
   },
   {
-    "id": "multichain-bridged-usdc-telos",
-    "symbol": "usdc",
-    "name": "Multichain Bridged USDC (Telos)",
-    "platforms": {
-      "telos": "0x818ec0a7fe18ff94269904fced6ae3dae6d6dc0b"
-    }
-  },
-  {
     "id": "multichain-bridged-usdt-bittorrent",
     "symbol": "usdt_t",
     "name": "Multichain Bridged USDT (BitTorrent)",
@@ -82705,14 +82643,6 @@
     "name": "Myro Floki CEO",
     "platforms": {
       "binance-smart-chain": "0x5d6866af0070849f5d477d81278317c1309468ec"
-    }
-  },
-  {
-    "id": "myrowif",
-    "symbol": "myrowif",
-    "name": "MYROWIF",
-    "platforms": {
-      "binance-smart-chain": "0xa3a952060f5a947a7016b31b1ec4c9e72cf2ae97"
     }
   },
   {
@@ -91558,14 +91488,6 @@
     }
   },
   {
-    "id": "paypolitan-token",
-    "symbol": "epan",
-    "name": "Paypolitan",
-    "platforms": {
-      "ethereum": "0x72630b1e3b42874bf335020ba0249e3e9e47bafc"
-    }
-  },
-  {
     "id": "payrue",
     "symbol": "propel",
     "name": "PayRue",
@@ -97880,14 +97802,6 @@
     "name": "Puffy",
     "platforms": {
       "solana": "D9paufRCehpk2YGRPkzJPEUDsvQjaTFKNyFDqgd4xqd"
-    }
-  },
-  {
-    "id": "puggleverse",
-    "symbol": "puggle",
-    "name": "PuggleVerse",
-    "platforms": {
-      "solana": "oTkwQzNPYtRBMrxj9jxBgX95YfgHdFTfRU3mehRAT5p"
     }
   },
   {
@@ -130181,14 +130095,6 @@
     }
   },
   {
-    "id": "wallet-sniffer",
-    "symbol": "bo",
-    "name": "Wallet Sniffer",
-    "platforms": {
-      "solana": "Bwdg9Md8JV9Da3gESe79YJk9Aeg5M7jVqvRDdPNhbjP2"
-    }
-  },
-  {
     "id": "wall-street-baby",
     "symbol": "wsb",
     "name": "Wall Street Baby",
@@ -132698,6 +132604,14 @@
     "platforms": {
       "ethereum": "0x6bc08509b36a98e829dffad49fde5e412645d0a3",
       "base": "0xb3a9bd4861454ba94931ebff410c3d828525dce2"
+    }
+  },
+  {
+    "id": "woolly-mouse",
+    "symbol": "woolly",
+    "name": "Woolly Mouse",
+    "platforms": {
+      "solana": "47NF9q76FaLAbZQmBaHeeUWYsEn4Rt4qjmh1oACipump"
     }
   },
   {
@@ -135571,14 +135485,6 @@
     }
   },
   {
-    "id": "wrapped-xfi",
-    "symbol": "wxfi",
-    "name": "Wrapped XFI",
-    "platforms": {
-      "binance-smart-chain": "0x4ae1cd329e3aa0f70164424d2e5688723a6f9b71"
-    }
-  },
-  {
     "id": "wrapped-xhopr",
     "symbol": "wxhopr",
     "name": "Wrapped xHOPR",
@@ -135752,14 +135658,6 @@
     "name": "X314",
     "platforms": {
       "binance-smart-chain": "0x40ba01da634a189d248fb1ee47141a4e11cd94bd"
-    }
-  },
-  {
-    "id": "x7dao",
-    "symbol": "x7dao",
-    "name": "X7DAO",
-    "platforms": {
-      "ethereum": "0x7105e64bf67eca3ae9b123f0e5ca2b83b2ef2da0"
     }
   },
   {
@@ -139013,7 +138911,9 @@
     "symbol": "zent",
     "name": "Zentry",
     "platforms": {
-      "ethereum": "0xdbb7a34bf10169d6d2d0d02a6cbb436cf4381bfa"
+      "ethereum": "0xdbb7a34bf10169d6d2d0d02a6cbb436cf4381bfa",
+      "ronin": "0x9f28c9c2da4a833cbfaaacbf7eb62267334d7149",
+      "base": "0xdf49c226ed9cf05be0e38cdb86df4e8a945158b1"
     }
   },
   {
