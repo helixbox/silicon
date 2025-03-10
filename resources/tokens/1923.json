@@ -4,31 +4,15 @@
   "keywords": [
     "defi"
   ],
-  "timestamp": "2025-03-07T10:00:16.842+00:00",
+  "timestamp": "2025-03-10T11:00:17.358+00:00",
   "tokens": [
     {
       "chainId": 1923,
-      "address": "0xa6cb988942610f6731e664379d15ffcfbf282b44",
-      "name": "Layerzero Bridged weETH  Swellchain ",
-      "symbol": "WEETH",
+      "address": "0x5d3a1ff2b6bab83b63cd9ad0787074081a52ef34",
+      "name": "Layerzero Bridged USDE  Swellchain ",
+      "symbol": "USDE",
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/53659/thumb/65c5a7141f77e162be7af327_eETH.png?1737001248"
-    },
-    {
-      "chainId": 1923,
-      "address": "0x1cf7b5f266a0f39d6f9408b90340e3e71df8bf7b",
-      "name": "Layerzero Bridged swBTC  Swellchain ",
-      "symbol": "SWBTC",
-      "decimals": 8,
-      "logoURI": "https://assets.coingecko.com/coins/images/53657/thumb/66ff59725979d3c6635ecae5_swBTC.png?1737001044"
-    },
-    {
-      "chainId": 1923,
-      "address": "0x18d33689ae5d02649a859a1cf16c9f0563975258",
-      "name": "Layerzero Bridged rswETH  Swellchain ",
-      "symbol": "RSWETH",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/53474/thumb/image_%281%29.png?1736482080"
+      "logoURI": "https://assets.coingecko.com/coins/images/54751/thumb/usde.jpg?1741337054"
     },
     {
       "chainId": 1923,
@@ -40,11 +24,19 @@
     },
     {
       "chainId": 1923,
-      "address": "0x5d3a1ff2b6bab83b63cd9ad0787074081a52ef34",
-      "name": "Layerzero Bridged USDE  Swellchain ",
-      "symbol": "USDE",
+      "address": "0x18d33689ae5d02649a859a1cf16c9f0563975258",
+      "name": "Layerzero Bridged rswETH  Swellchain ",
+      "symbol": "RSWETH",
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/54751/thumb/usde.jpg?1741337054"
+      "logoURI": "https://assets.coingecko.com/coins/images/53474/thumb/image_%281%29.png?1736482080"
+    },
+    {
+      "chainId": 1923,
+      "address": "0xa6cb988942610f6731e664379d15ffcfbf282b44",
+      "name": "Layerzero Bridged weETH  Swellchain ",
+      "symbol": "WEETH",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/53659/thumb/65c5a7141f77e162be7af327_eETH.png?1737001248"
     },
     {
       "chainId": 1923,
@@ -53,6 +45,14 @@
       "symbol": "SWELL",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/53670/thumb/66ff8288d441ad252025f769_swellToken.png?1737007034"
+    },
+    {
+      "chainId": 1923,
+      "address": "0x1cf7b5f266a0f39d6f9408b90340e3e71df8bf7b",
+      "name": "Layerzero Bridged swBTC  Swellchain ",
+      "symbol": "SWBTC",
+      "decimals": 8,
+      "logoURI": "https://assets.coingecko.com/coins/images/53657/thumb/66ff59725979d3c6635ecae5_swBTC.png?1737001044"
     },
     {
       "chainId": 1923,
@@ -72,6 +72,14 @@
     },
     {
       "chainId": 1923,
+      "address": "0xecac9c5f704e954931349da37f60e39f515c11c1",
+      "name": "Lombard Staked BTC",
+      "symbol": "LBTC",
+      "decimals": 8,
+      "logoURI": "https://assets.coingecko.com/coins/images/39969/thumb/LBTC_Logo.png?1724959872"
+    },
+    {
+      "chainId": 1923,
       "address": "0xf6718b2701d4a6498ef77d7c152b2137ab28b8a3",
       "name": "Lorenzo stBTC",
       "symbol": "STBTC",
@@ -81,7 +89,7 @@
   ],
   "version": {
     "major": 0,
-    "minor": 2,
+    "minor": 3,
     "patch": 0
   }
 }
