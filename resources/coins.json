@@ -645,6 +645,7 @@
     "symbol": "42",
     "name": "42-coin",
     "platforms": {
+      "solana": "42c846hyuCL5vMfqWifNvddUqHSqAFeJX7rDQBEBpKmM",
       "binance-smart-chain": "0x73cf73c2503154de4dc12067546aa9357dadaff2"
     }
   },
@@ -123730,6 +123731,14 @@
     }
   },
   {
+    "id": "trendix",
+    "symbol": "trdx",
+    "name": "Trendix",
+    "platforms": {
+      "solana": "FdtP1nyc2fdGqHfgEMfe6jZ9uVUANE4D5He6tDbBFtAv"
+    }
+  },
+  {
     "id": "trend-x",
     "symbol": "trendx",
     "name": "Trend X",
@@ -133390,11 +133399,11 @@
     "symbol": "wbmstr",
     "name": "Wrapped bMSTR",
     "platforms": {
-      "xdai": "0x1a4f71b0ff3c22540887bcf83b50054a213c673d",
-      "avalanche": "0x1a4f71b0ff3c22540887bcf83b50054a213c673d",
       "base": "0x1a4f71b0ff3c22540887bcf83b50054a213c673d",
+      "avalanche": "0x1a4f71b0ff3c22540887bcf83b50054a213c673d",
       "ethereum": "0x1a4f71b0ff3c22540887bcf83b50054a213c673d",
-      "polygon-pos": "0x1a4f71b0ff3c22540887bcf83b50054a213c673d"
+      "polygon-pos": "0x1a4f71b0ff3c22540887bcf83b50054a213c673d",
+      "xdai": "0x1a4f71b0ff3c22540887bcf83b50054a213c673d"
     }
   },
   {
@@ -133517,11 +133526,11 @@
     "symbol": "wbtsla",
     "name": "Wrapped bTSLA",
     "platforms": {
-      "xdai": "0x1f82284c1658ad71c576f7230e6c2dee7901c1fa",
+      "base": "0x1f82284c1658ad71c576f7230e6c2dee7901c1fa",
       "ethereum": "0x1f82284c1658ad71c576f7230e6c2dee7901c1fa",
       "avalanche": "0x1f82284c1658ad71c576f7230e6c2dee7901c1fa",
-      "base": "0x1f82284c1658ad71c576f7230e6c2dee7901c1fa",
-      "polygon-pos": "0x1f82284c1658ad71c576f7230e6c2dee7901c1fa"
+      "polygon-pos": "0x1f82284c1658ad71c576f7230e6c2dee7901c1fa",
+      "xdai": "0x1f82284c1658ad71c576f7230e6c2dee7901c1fa"
     }
   },
   {
@@ -137853,7 +137862,11 @@
       "arbitrum-one": "0xe231db5f348d709239ef1741ea30961b3b635a61",
       "optimistic-ethereum": "0xe231db5f348d709239ef1741ea30961b3b635a61",
       "base": "0xe231db5f348d709239ef1741ea30961b3b635a61",
-      "fraxtal": "0xe231db5f348d709239ef1741ea30961b3b635a61"
+      "fraxtal": "0xe231db5f348d709239ef1741ea30961b3b635a61",
+      "scroll": "0xe231db5f348d709239ef1741ea30961b3b635a61",
+      "taiko": "0xe231db5f348d709239ef1741ea30961b3b635a61",
+      "mantle": "0xe231db5f348d709239ef1741ea30961b3b635a61",
+      "blast": "0xe231db5f348d709239ef1741ea30961b3b635a61"
     }
   },
   {
