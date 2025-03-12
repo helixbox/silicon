@@ -4,7 +4,7 @@
   "keywords": [
     "defi"
   ],
-  "timestamp": "2025-02-27T08:00:07.004+00:00",
+  "timestamp": "2025-03-12T04:00:07.041+00:00",
   "tokens": [
     {
       "chainId": 21000000,
@@ -16,19 +16,19 @@
     },
     {
       "chainId": 21000000,
-      "address": "0xda5ddd7270381a7c2717ad10d1c0ecb19e3cdfb2",
-      "name": "Wrapped Bitcorn",
-      "symbol": "WBTCN",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/54569/thumb/wbtcn.jpg?1740453965"
-    },
-    {
-      "chainId": 21000000,
       "address": "0x44f49ff0da2498bcb1d3dc7c0f999578f67fd8c6",
       "name": "Corn",
       "symbol": "CORN",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/54471/thumb/corn.jpg?1739933588"
+    },
+    {
+      "chainId": 21000000,
+      "address": "0xda5ddd7270381a7c2717ad10d1c0ecb19e3cdfb2",
+      "name": "Wrapped Bitcorn",
+      "symbol": "WBTCN",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/54569/thumb/wbtcn.jpg?1740453965"
     },
     {
       "chainId": 21000000,
@@ -53,11 +53,19 @@
       "symbol": "SOLVBTCBBN",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/39384/thumb/unnamed.png?1721961640"
+    },
+    {
+      "chainId": 21000000,
+      "address": "0x93919784c523f39cacaa98ee0a9d96c3f32b593e",
+      "name": "Universal BTC",
+      "symbol": "UNIBTC",
+      "decimals": 8,
+      "logoURI": "https://assets.coingecko.com/coins/images/39599/thumb/uniBTC_200px.png?1723064455"
     }
   ],
   "version": {
     "major": 0,
-    "minor": 1,
+    "minor": 2,
     "patch": 0
   }
 }
