@@ -4,23 +4,15 @@
   "keywords": [
     "defi"
   ],
-  "timestamp": "2025-03-07T10:00:37.675+00:00",
+  "timestamp": "2025-03-12T14:00:37.611+00:00",
   "tokens": [
     {
       "chainId": 534352,
-      "address": "0xd29687c813d741e2f938f4ac377128810e217b1b",
-      "name": "Scroll",
-      "symbol": "SCR",
+      "address": "0x0fc479e2f9b7310bfb1db606cf565dea6910eedc",
+      "name": "Papyrus Swap",
+      "symbol": "PAPYRUS",
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/50571/thumb/scroll.jpg?1728376125"
-    },
-    {
-      "chainId": 534352,
-      "address": "0xfec65bfb6e5bbcc9ab8ae98f62a8aab2ea51c495",
-      "name": "Perseid Finance",
-      "symbol": "PED",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/32805/thumb/perseid.png?1704711269"
+      "logoURI": "https://assets.coingecko.com/coins/images/32479/thumb/PapyrusLogo.png?1698286849"
     },
     {
       "chainId": 534352,
@@ -56,19 +48,19 @@
     },
     {
       "chainId": 534352,
-      "address": "0x5300000000000000000000000000000000000004",
-      "name": "Bridged Wrapped Ether  Scroll ",
-      "symbol": "WETH",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/32315/thumb/weth_%281%29.png?1697365181"
-    },
-    {
-      "chainId": 534352,
       "address": "0xf55bec9cafdbe8730f096aa55dad6d22d44099df",
       "name": "Bridged Tether  Scroll ",
       "symbol": "USDT",
       "decimals": 6,
       "logoURI": "https://assets.coingecko.com/coins/images/32610/thumb/usdt_%281%29.png?1698733524"
+    },
+    {
+      "chainId": 534352,
+      "address": "0x5300000000000000000000000000000000000004",
+      "name": "Bridged Wrapped Ether  Scroll ",
+      "symbol": "WETH",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/32315/thumb/weth_%281%29.png?1697365181"
     },
     {
       "chainId": 534352,
@@ -88,6 +80,14 @@
     },
     {
       "chainId": 534352,
+      "address": "0xd29687c813d741e2f938f4ac377128810e217b1b",
+      "name": "Scroll",
+      "symbol": "SCR",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/50571/thumb/scroll.jpg?1728376125"
+    },
+    {
+      "chainId": 534352,
       "address": "0x750351a9f75f98f2c2e91d4edb3beb14e719557e",
       "name": "Scribes",
       "symbol": "SCRIBES",
@@ -104,11 +104,11 @@
     },
     {
       "chainId": 534352,
-      "address": "0x0fc479e2f9b7310bfb1db606cf565dea6910eedc",
-      "name": "Papyrus Swap",
-      "symbol": "PAPYRUS",
+      "address": "0xfec65bfb6e5bbcc9ab8ae98f62a8aab2ea51c495",
+      "name": "Perseid Finance",
+      "symbol": "PED",
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/32479/thumb/PapyrusLogo.png?1698286849"
+      "logoURI": "https://assets.coingecko.com/coins/images/32805/thumb/perseid.png?1704711269"
     },
     {
       "chainId": 534352,
@@ -232,6 +232,14 @@
     },
     {
       "chainId": 534352,
+      "address": "0xe231db5f348d709239ef1741ea30961b3b635a61",
+      "name": "ynETH MAX",
+      "symbol": "YNETHX",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/51623/thumb/ynETHx.png?1731659494"
+    },
+    {
+      "chainId": 534352,
       "address": "0x60d01ec2d5e98ac51c8b4cf84dfcce98d527c747",
       "name": "iZUMi Finance",
       "symbol": "IZI",
@@ -305,7 +313,7 @@
   ],
   "version": {
     "major": 7,
-    "minor": 0,
+    "minor": 1,
     "patch": 0
   }
 }
