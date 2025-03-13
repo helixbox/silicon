@@ -4,8 +4,16 @@
   "keywords": [
     "defi"
   ],
-  "timestamp": "2025-03-07T11:00:15.214+00:00",
+  "timestamp": "2025-03-13T07:00:13.230+00:00",
   "tokens": [
+    {
+      "chainId": 34443,
+      "address": "0x95177295a394f2b9b04545fff58f4af0673e839d",
+      "name": "Ironclad Token",
+      "symbol": "ICL",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/39300/thumb/Ironclad_LogoMark_v2_YellowBoxed.png?1721628721"
+    },
     {
       "chainId": 34443,
       "address": "0xd988097fb8612cc24eec14542bc03424c656005f",
@@ -16,19 +24,11 @@
     },
     {
       "chainId": 34443,
-      "address": "0x211cc4dd073734da055fbf44a2b4667d5e5fe5d2",
-      "name": "Ethena Staked USDe  Mode ",
-      "symbol": "USDE",
+      "address": "0xdfc7c877a950e49d2610114102175a06c2e3167a",
+      "name": "Mode",
+      "symbol": "MODE",
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/52912/thumb/susde.jpg?1734676361"
-    },
-    {
-      "chainId": 34443,
-      "address": "0x6863fb62ed27a9ddf458105b507c15b5d741d62e",
-      "name": "KIM Token",
-      "symbol": "KIM",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/37504/thumb/kim.jpg?1714579040"
+      "logoURI": "https://assets.coingecko.com/coins/images/34979/thumb/MODE.jpg?1714561871"
     },
     {
       "chainId": 34443,
@@ -40,19 +40,11 @@
     },
     {
       "chainId": 34443,
-      "address": "0x95177295a394f2b9b04545fff58f4af0673e839d",
-      "name": "Ironclad Token",
-      "symbol": "ICL",
+      "address": "0xa70266c8f8cf33647dcfee763961aff418d9e1e4",
+      "name": "Ironclad USD",
+      "symbol": "IUSD",
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/39300/thumb/Ironclad_LogoMark_v2_YellowBoxed.png?1721628721"
-    },
-    {
-      "chainId": 34443,
-      "address": "0x18470019bf0e94611f15852f7e93cf5d65bc34ca",
-      "name": "Ionic Protocol",
-      "symbol": "ION",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/36713/thumb/Ionic-icon-green.png?1712127547"
+      "logoURI": "https://assets.coingecko.com/coins/images/50841/thumb/iUSD.png?1729295402"
     },
     {
       "chainId": 34443,
@@ -72,11 +64,11 @@
     },
     {
       "chainId": 34443,
-      "address": "0xf0f161fda2712db8b566946122a5af183995e2ed",
-      "name": "Mode Bridged USDT  Mode ",
-      "symbol": "USDT",
-      "decimals": 6,
-      "logoURI": "https://assets.coingecko.com/coins/images/35808/thumb/usdt_%281%29.png?1709866389"
+      "address": "0x18470019bf0e94611f15852f7e93cf5d65bc34ca",
+      "name": "Ionic Protocol",
+      "symbol": "ION",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/36713/thumb/Ionic-icon-green.png?1712127547"
     },
     {
       "chainId": 34443,
@@ -88,19 +80,27 @@
     },
     {
       "chainId": 34443,
-      "address": "0xa70266c8f8cf33647dcfee763961aff418d9e1e4",
-      "name": "Ironclad USD",
-      "symbol": "IUSD",
+      "address": "0x6863fb62ed27a9ddf458105b507c15b5d741d62e",
+      "name": "KIM Token",
+      "symbol": "KIM",
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/50841/thumb/iUSD.png?1729295402"
+      "logoURI": "https://assets.coingecko.com/coins/images/37504/thumb/kim.jpg?1714579040"
     },
     {
       "chainId": 34443,
-      "address": "0xdfc7c877a950e49d2610114102175a06c2e3167a",
-      "name": "Mode",
-      "symbol": "MODE",
+      "address": "0xf0f161fda2712db8b566946122a5af183995e2ed",
+      "name": "Mode Bridged USDT  Mode ",
+      "symbol": "USDT",
+      "decimals": 6,
+      "logoURI": "https://assets.coingecko.com/coins/images/35808/thumb/usdt_%281%29.png?1709866389"
+    },
+    {
+      "chainId": 34443,
+      "address": "0x211cc4dd073734da055fbf44a2b4667d5e5fe5d2",
+      "name": "Ethena Staked USDe  Mode ",
+      "symbol": "USDE",
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/34979/thumb/MODE.jpg?1714561871"
+      "logoURI": "https://assets.coingecko.com/coins/images/52912/thumb/susde.jpg?1734676361"
     },
     {
       "chainId": 34443,
@@ -149,6 +149,14 @@
       "symbol": "UNIBTC",
       "decimals": 8,
       "logoURI": "https://assets.coingecko.com/coins/images/39599/thumb/uniBTC_200px.png?1723064455"
+    },
+    {
+      "chainId": 34443,
+      "address": "0x1217bfe6c773eec6cc4a38b5dc45b92292b6e189",
+      "name": "OpenUSDT",
+      "symbol": "OUSDT",
+      "decimals": 6,
+      "logoURI": "https://assets.coingecko.com/coins/images/54815/thumb/ousdt.jpg?1741848258"
     },
     {
       "chainId": 34443,
@@ -289,7 +297,7 @@
   ],
   "version": {
     "major": 2,
-    "minor": 0,
+    "minor": 1,
     "patch": 0
   }
 }
