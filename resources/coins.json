@@ -6865,6 +6865,12 @@
     }
   },
   {
+    "id": "anryton",
+    "symbol": "mol",
+    "name": "Anryton",
+    "platforms": {}
+  },
+  {
     "id": "ansem-s-cat",
     "symbol": "hobbes",
     "name": "Ansem's Cat",
@@ -16748,7 +16754,7 @@
   {
     "id": "bitkub-coin",
     "symbol": "kub",
-    "name": "Bitkub Coin",
+    "name": "KUB Coin",
     "platforms": {}
   },
   {
@@ -31929,6 +31935,14 @@
     "platforms": {}
   },
   {
+    "id": "curetopia",
+    "symbol": "cures",
+    "name": "Curetopia",
+    "platforms": {
+      "solana": "9qU3LmwKJKT2DJeGPihyTP2jc6pC7ij3hPFeyJVzuksN"
+    }
+  },
+  {
     "id": "curio-gas-token",
     "symbol": "cgt",
     "name": "Curio Gas Token",
@@ -32739,6 +32753,14 @@
     "name": "Dank Frog",
     "platforms": {
       "solana": "Fim7MFRXyk6xmCYFb4Z1vzmSrcw568pph94fEDBepump"
+    }
+  },
+  {
+    "id": "dank-memes",
+    "symbol": "dank",
+    "name": "Dank Memes",
+    "platforms": {
+      "solana": "GPwwihLa1w9Qsz27SmNrj7aLVnE7pr2cAvHe6aVVpump"
     }
   },
   {
@@ -45283,6 +45305,14 @@
     "name": "Fame Reward Plus",
     "platforms": {
       "binance-smart-chain": "0x8eca5c1b51a801a822912167153041ed0b92a397"
+    }
+  },
+  {
+    "id": "fame-rumble-kong-league",
+    "symbol": "$fame",
+    "name": "FAME- Rumble Kong League",
+    "platforms": {
+      "ethereum": "0x26827f7f51769ea21f94ba98ba64f5d0dc8988f9"
     }
   },
   {
@@ -91939,7 +91969,11 @@
     "symbol": "pell",
     "name": "Pell Network Token",
     "platforms": {
-      "ethereum": "0xc65d8d96cdddb31328186efa113a460b0af9ec63"
+      "ethereum": "0xc65d8d96cdddb31328186efa113a460b0af9ec63",
+      "arbitrum-one": "0xc65d8d96cdddb31328186efa113a460b0af9ec63",
+      "binance-smart-chain": "0xc65d8d96cdddb31328186efa113a460b0af9ec63",
+      "bitlayer": "0xc65d8d96cdddb31328186efa113a460b0af9ec63",
+      "core": "0xc65d8d96cdddb31328186efa113a460b0af9ec63"
     }
   },
   {
@@ -105725,7 +105759,7 @@
   {
     "id": "schuman-europ",
     "symbol": "europ",
-    "name": "Schuman EURØP",
+    "name": "EURØP",
     "platforms": {
       "ethereum": "0x888883b5f5d21fb10dfeb70e8f9722b9fb0e5e51"
     }
@@ -139270,6 +139304,17 @@
     "name": "Zeus AI",
     "platforms": {
       "ethereum": "0x6ef460eb3563cfcc73f8147b0a77daffee71f867"
+    }
+  },
+  {
+    "id": "zeusd",
+    "symbol": "zeusd",
+    "name": "ZeUSD",
+    "platforms": {
+      "ethereum": "0x7dc9748da8e762e569f9269f48f69a1a9f8ea761",
+      "manta-pacific": "0x7dc9748da8e762e569f9269f48f69a1a9f8ea761",
+      "metis-andromeda": "0x2d3d1a6982840dd88bc2380fd557f8a9d5e27a77",
+      "avalanche": "0x7dc9748da8e762e569f9269f48f69a1a9f8ea761"
     }
   },
   {
