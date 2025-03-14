@@ -4,16 +4,8 @@
   "keywords": [
     "defi"
   ],
-  "timestamp": "2025-03-07T11:00:10.723+00:00",
+  "timestamp": "2025-03-14T09:00:09.677+00:00",
   "tokens": [
-    {
-      "chainId": 169,
-      "address": "0x0dc808adce2099a9f62aa87d9670745aba741746",
-      "name": "Bridged Wrapped Ether  Manta Pacific ",
-      "symbol": "WETH",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/32212/thumb/wETH_32.png?1696817415"
-    },
     {
       "chainId": 169,
       "address": "0x95cef13441be50d20ca4558cc0a27b601ac544e5",
@@ -21,6 +13,14 @@
       "symbol": "MANTA",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/34289/thumb/manta.jpg?1704468717"
+    },
+    {
+      "chainId": 169,
+      "address": "0x6745cf7a0aaca457f451a4b8c60c8504320f69d0",
+      "name": "Calamari Network",
+      "symbol": "KMA",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/20976/thumb/kma.png?1696520363"
     },
     {
       "chainId": 169,
@@ -40,11 +40,11 @@
     },
     {
       "chainId": 169,
-      "address": "0x6745cf7a0aaca457f451a4b8c60c8504320f69d0",
-      "name": "Calamari Network",
-      "symbol": "KMA",
+      "address": "0x0dc808adce2099a9f62aa87d9670745aba741746",
+      "name": "Bridged Wrapped Ether  Manta Pacific ",
+      "symbol": "WETH",
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/20976/thumb/kma.png?1696520363"
+      "logoURI": "https://assets.coingecko.com/coins/images/32212/thumb/wETH_32.png?1696817415"
     },
     {
       "chainId": 169,
@@ -271,6 +271,14 @@
     },
     {
       "chainId": 169,
+      "address": "0x7dc9748da8e762e569f9269f48f69a1a9f8ea761",
+      "name": "ZeUSD",
+      "symbol": "ZEUSD",
+      "decimals": 6,
+      "logoURI": "https://assets.coingecko.com/coins/images/54829/thumb/zoth_32.webp?1741933336"
+    },
+    {
+      "chainId": 169,
       "address": "0x078f712f038a95beea94f036cadb49188a90604b",
       "name": "iZUMi Bond USD",
       "symbol": "IUSD",
@@ -288,7 +296,7 @@
   ],
   "version": {
     "major": 5,
-    "minor": 0,
+    "minor": 1,
     "patch": 0
   }
 }

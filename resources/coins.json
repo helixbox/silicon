@@ -25128,7 +25128,7 @@
     "symbol": "cetus",
     "name": "Cetus Protocol",
     "platforms": {
-      "sui": "0x6864a6f921804860930db6ddbe2e16acdf8504495ea7481637a1c8b9a8fe54b::cetus::CETUS"
+      "sui": "0x06864a6f921804860930db6ddbe2e16acdf8504495ea7481637a1c8b9a8fe54b::cetus::CETUS"
     }
   },
   {
@@ -57792,12 +57792,6 @@
     }
   },
   {
-    "id": "holonus",
-    "symbol": "hln",
-    "name": "Holonus",
-    "platforms": {}
-  },
-  {
     "id": "holoride",
     "symbol": "ride",
     "name": "holoride",
@@ -65481,14 +65475,6 @@
     }
   },
   {
-    "id": "kind-guardians-of-blockchain-protocol",
-    "symbol": "kgb",
-    "name": "KGB Protocol",
-    "platforms": {
-      "the-open-network": "EQCVpU1VZL4Orf9mDXTuE5yxB1vvFmApQP9Q-66v0RiH8his"
-    }
-  },
-  {
     "id": "kindness-for-the-soul-soul",
     "symbol": "soul",
     "name": "Kindness For The Soul SOUL",
@@ -69281,7 +69267,9 @@
     "id": "leviathan-points",
     "symbol": "squid",
     "name": "Leviathan Points",
-    "platforms": {}
+    "platforms": {
+      "fraxtal": "0x6e58089d8e8f664823d26454f49a5a0f2ff697fe"
+    }
   },
   {
     "id": "levia_us",
@@ -76303,14 +76291,6 @@
     }
   },
   {
-    "id": "memevengers",
-    "symbol": "mmvg",
-    "name": "MEMEVENGERS",
-    "platforms": {
-      "ethereum": "0xddf688e96cb2531a69bf6347c02f069266c1aa81"
-    }
-  },
-  {
     "id": "memhash",
     "symbol": "memhash",
     "name": "Memhash",
@@ -78342,14 +78322,6 @@
     "name": "MILO",
     "platforms": {
       "base": "0x6f10607507aff450b8cf0a6fa2641a781889ddfa"
-    }
-  },
-  {
-    "id": "milo-dog",
-    "symbol": "milo dog",
-    "name": "MILO DOG",
-    "platforms": {
-      "binance-smart-chain": "0x2a21f535a94fac087bd5f034e07c2282844a1ffa"
     }
   },
   {
@@ -83532,14 +83504,6 @@
     }
   },
   {
-    "id": "neopepe",
-    "symbol": "neop",
-    "name": "NeoPepe",
-    "platforms": {
-      "neon-evm": "0x432b39e097d9faa2cbaa86f8d36bcf3b8019fe9f"
-    }
-  },
-  {
     "id": "neopin",
     "symbol": "npt",
     "name": "Neopin",
@@ -85191,14 +85155,6 @@
     }
   },
   {
-    "id": "nkcl-classic",
-    "symbol": "nkclc",
-    "name": "NKCL Classic",
-    "platforms": {
-      "ethereum": "0xd1b624f07a4d9b3e3746e33cb58f42df079b5444"
-    }
-  },
-  {
     "id": "nkn",
     "symbol": "nkn",
     "name": "NKN",
@@ -85730,12 +85686,6 @@
     "platforms": {
       "ethereum": "0x0575bf910466b306afb07e4544203d9e21413c56"
     }
-  },
-  {
-    "id": "nordek",
-    "symbol": "nrk",
-    "name": "Nordek",
-    "platforms": {}
   },
   {
     "id": "nord-finance",
@@ -88380,14 +88330,6 @@
     "name": "OP Chads",
     "platforms": {
       "optimistic-ethereum": "0x48a9f8b4b65a55cc46ea557a610acf227454ab09"
-    }
-  },
-  {
-    "id": "opclouds",
-    "symbol": "opc",
-    "name": "OpClouds",
-    "platforms": {
-      "ethereum": "0x2a8bf9e7c91c6e3237095e07eb3defbce358df00"
     }
   },
   {
@@ -94899,14 +94841,6 @@
     "name": "PlutusDAO",
     "platforms": {
       "arbitrum-one": "0x51318b7d00db7acc4026c88c3952b66278b6a67f"
-    }
-  },
-  {
-    "id": "plutus-dpx",
-    "symbol": "plsdpx",
-    "name": "Plutus DPX",
-    "platforms": {
-      "arbitrum-one": "0xf236ea74b515ef96a9898f5a4ed4aa591f253ce1"
     }
   },
   {
@@ -126130,15 +126064,6 @@
     }
   },
   {
-    "id": "unit-protocol-duck",
-    "symbol": "duck",
-    "name": "Unit Protocol",
-    "platforms": {
-      "ethereum": "0x92e187a03b6cd19cb6af293ba17f2745fd2357d5",
-      "fantom": "0x602a3ad311e66b6f5e567a13016b712aba0625c6"
-    }
-  },
-  {
     "id": "unitrade",
     "symbol": "trade",
     "name": "Unitrade",
@@ -129122,14 +129047,6 @@
     "name": "Virtual Tourist",
     "platforms": {
       "binance-smart-chain": "0xed66ec1acb7dbd0c01cccff33e3ff1f423057c21"
-    }
-  },
-  {
-    "id": "virtual-x",
-    "symbol": "vrl",
-    "name": "VIRTUAL X",
-    "platforms": {
-      "binance-smart-chain": "0xa975be9202ce26dde8bce29034be42bcd4861e36"
     }
   },
   {
@@ -132316,14 +132233,6 @@
     "name": "Wrapped Metis",
     "platforms": {
       "metis-andromeda": "0x75cb093e4d61d2a2e65d8e0bbb01de8d89b53481"
-    }
-  },
-  {
-    "id": "wmlp",
-    "symbol": "wmlpv2",
-    "name": "wMLP",
-    "platforms": {
-      "fantom": "0xae4846b148a65782865a4849e940575f77359b2b"
     }
   },
   {
@@ -136899,14 +136808,6 @@
     "name": "X-Ratio AI",
     "platforms": {
       "ethereum": "0x890a60b4450484847380bddca0c3c3ee2ff0dfbe"
-    }
-  },
-  {
-    "id": "xrdoge",
-    "symbol": "xrdoge",
-    "name": "XRdoge",
-    "platforms": {
-      "xrp": "rLqUC2eCPohYvJCEBJ77eCCqVL2uEiczjA"
     }
   },
   {

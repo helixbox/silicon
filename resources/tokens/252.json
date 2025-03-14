@@ -4,8 +4,16 @@
   "keywords": [
     "defi"
   ],
-  "timestamp": "2025-03-13T07:00:19.772+00:00",
+  "timestamp": "2025-03-14T10:00:22.792+00:00",
   "tokens": [
+    {
+      "chainId": 252,
+      "address": "0x6e58089d8e8f664823d26454f49a5a0f2ff697fe",
+      "name": "Leviathan Points",
+      "symbol": "SQUID",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/37738/thumb/leviathan-200x200.png?1741896180"
+    },
     {
       "chainId": 252,
       "address": "0xdebb8a79b025b2fc2ca506f0c69497b60b91235c",
@@ -28,14 +36,6 @@
       "symbol": "KFC",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/36048/thumb/kfc.jpg?1710401920"
-    },
-    {
-      "chainId": 252,
-      "address": "0x211cc4dd073734da055fbf44a2b4667d5e5fe5d2",
-      "name": "Ethena Staked USDe  Fraxtal ",
-      "symbol": "SUSDE",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/52911/thumb/susde.jpg?1734676195"
     },
     {
       "chainId": 252,
@@ -79,6 +79,14 @@
     },
     {
       "chainId": 252,
+      "address": "0x211cc4dd073734da055fbf44a2b4667d5e5fe5d2",
+      "name": "Ethena Staked USDe  Fraxtal ",
+      "symbol": "SUSDE",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/52911/thumb/susde.jpg?1734676195"
+    },
+    {
+      "chainId": 252,
       "address": "0xfc00000000000000000000000000000000000006",
       "name": "Wrapped frxETH",
       "symbol": "WFRXETH",
@@ -103,14 +111,6 @@
     },
     {
       "chainId": 252,
-      "address": "0xe231db5f348d709239ef1741ea30961b3b635a61",
-      "name": "ynETH MAX",
-      "symbol": "YNETHX",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/51623/thumb/ynETHx.png?1731659494"
-    },
-    {
-      "chainId": 252,
       "address": "0x1217bfe6c773eec6cc4a38b5dc45b92292b6e189",
       "name": "OpenUSDT",
       "symbol": "OUSDT",
@@ -124,6 +124,14 @@
       "symbol": "SFRXUSD",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/53964/thumb/sfrxUSD.png?1737792232"
+    },
+    {
+      "chainId": 252,
+      "address": "0xe231db5f348d709239ef1741ea30961b3b635a61",
+      "name": "ynETH MAX",
+      "symbol": "YNETHX",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/51623/thumb/ynETHx.png?1731659494"
     },
     {
       "chainId": 252,
@@ -160,7 +168,7 @@
   ],
   "version": {
     "major": 3,
-    "minor": 2,
+    "minor": 3,
     "patch": 0
   }
 }
