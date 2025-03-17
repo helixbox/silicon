@@ -49549,7 +49549,10 @@
     "id": "functionland",
     "symbol": "fula",
     "name": "Functionland",
-    "platforms": {}
+    "platforms": {
+      "base": "0x9e12735d77c72c5c3670636d428f2f3815d8a4cb",
+      "ethereum": "0x92217ccaedbdbc54c76c15fea18823db1558fdc9"
+    }
   },
   {
     "id": "funded-2",
@@ -68334,6 +68337,14 @@
     "name": "Layerzero Bridged rswETH (Swellchain)",
     "platforms": {
       "swellchain": "0x18d33689ae5d02649a859a1cf16c9f0563975258"
+    }
+  },
+  {
+    "id": "layerzero-bridged-sei",
+    "symbol": "sei",
+    "name": "LayerZero Bridged Sei",
+    "platforms": {
+      "ethereum": "0xbdf43ecadc5cef51b7d1772f722e40596bc1788b"
     }
   },
   {
@@ -119950,9 +119961,17 @@
   {
     "id": "tethereum-2",
     "symbol": "t99",
-    "name": "Tethereum",
+    "name": "Tethereum [OLD]",
     "platforms": {
       "binance-smart-chain": "0xc98cf0876b23fb1f574be5c59e4217c80b34d327"
+    }
+  },
+  {
+    "id": "tethereum-3",
+    "symbol": "t99",
+    "name": "Tethereum",
+    "platforms": {
+      "binance-smart-chain": "0xf5f53af4595bab806e2522ca7a8bbcb70a9b3da8"
     }
   },
   {
