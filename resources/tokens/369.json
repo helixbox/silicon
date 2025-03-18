@@ -4,15 +4,23 @@
   "keywords": [
     "defi"
   ],
-  "timestamp": "2025-03-10T09:00:36.935+00:00",
+  "timestamp": "2025-03-18T10:00:38.437+00:00",
   "tokens": [
     {
       "chainId": 369,
-      "address": "0x3ca80d83277e721171284667829c686527b8b3c5",
-      "name": "9inch",
-      "symbol": "9INCH",
+      "address": "0x6b175474e89094c44da98b954eedeac495271d0f",
+      "name": "DAI on PulseChain",
+      "symbol": "DAI",
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/32662/thumb/9INCH-logo.png?1698901092"
+      "logoURI": "https://assets.coingecko.com/coins/images/36735/thumb/pDAI_200x200.png?1712451453"
+    },
+    {
+      "chainId": 369,
+      "address": "0x15d38573d2feeb82e7ad5187ab8c1d52810b1f07",
+      "name": "Bridged USD Coin  PulseChain ",
+      "symbol": "USDC",
+      "decimals": 6,
+      "logoURI": "https://assets.coingecko.com/coins/images/30514/thumb/usdc.png?1696529399"
     },
     {
       "chainId": 369,
@@ -24,11 +32,19 @@
     },
     {
       "chainId": 369,
-      "address": "0xbb101431d43b0e1fc31f000bf96826794806e0b4",
-      "name": "Apin Pulse",
-      "symbol": "APC",
+      "address": "0x57fde0a71132198bbec939b98976993d8d89d225",
+      "name": "Pulsechain Bridged HEX  Pulsechain ",
+      "symbol": "HEX",
+      "decimals": 8,
+      "logoURI": "https://assets.coingecko.com/coins/images/40090/thumb/hex.png?1725589274"
+    },
+    {
+      "chainId": 369,
+      "address": "0xf2da3942616880e52e841e5c504b5a9fba23fff0",
+      "name": "NEXION",
+      "symbol": "NEON",
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/31094/thumb/m_gH0JjI_400x400.jpg?1696529926"
+      "logoURI": "https://assets.coingecko.com/coins/images/54327/thumb/tokenlogo200.png?1739310970"
     },
     {
       "chainId": 369,
@@ -40,35 +56,35 @@
     },
     {
       "chainId": 369,
-      "address": "0x6b175474e89094c44da98b954eedeac495271d0f",
-      "name": "DAI on PulseChain",
-      "symbol": "DAI",
+      "address": "0xbb101431d43b0e1fc31f000bf96826794806e0b4",
+      "name": "Apin Pulse",
+      "symbol": "APC",
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/36735/thumb/pDAI_200x200.png?1712451453"
+      "logoURI": "https://assets.coingecko.com/coins/images/31094/thumb/m_gH0JjI_400x400.jpg?1696529926"
     },
     {
       "chainId": 369,
-      "address": "0x9159f1d2a9f51998fc9ab03fbd8f265ab14a1b3b",
-      "name": "Liquid Loans",
-      "symbol": "LOAN",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/33490/thumb/loan-500X500.png?1702029616"
-    },
-    {
-      "chainId": 369,
-      "address": "0x57fde0a71132198bbec939b98976993d8d89d225",
-      "name": "Pulsechain Bridged HEX  Pulsechain ",
-      "symbol": "HEX",
+      "address": "0x00febf86e8f0673f0feadac14b5ea1a05e744cb7",
+      "name": "GrowthDefi GBTC",
+      "symbol": "GBTC",
       "decimals": 8,
-      "logoURI": "https://assets.coingecko.com/coins/images/40090/thumb/hex.png?1725589274"
+      "logoURI": "https://assets.coingecko.com/coins/images/37295/thumb/gbtc200.png?1713950182"
     },
     {
       "chainId": 369,
-      "address": "0x09e64c2b61a5f1690ee6fbed9baf5d6990f8dfd0",
-      "name": "Growth",
-      "symbol": "GRO",
+      "address": "0xdfdc2836fd2e63bba9f0ee07901ad465bff4de71",
+      "name": "POWERCITY WATT",
+      "symbol": "WATT",
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/37345/thumb/gro.jpeg?1714060196"
+      "logoURI": "https://assets.coingecko.com/coins/images/33663/thumb/200x200-WATT_token-.png?1702601503"
+    },
+    {
+      "chainId": 369,
+      "address": "0x9663c2d75ffd5f4017310405fce61720af45b829",
+      "name": "PHUX Governance Token",
+      "symbol": "PHUX",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/30867/thumb/PHIUX_CG.png?1696529714"
     },
     {
       "chainId": 369,
@@ -80,11 +96,11 @@
     },
     {
       "chainId": 369,
-      "address": "0x1b7b541bea3af39292fce08649e4c4e1bee408a1",
-      "name": "Alien",
-      "symbol": "ALIEN",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/35053/thumb/Alien.jpg?1707214245"
+      "address": "0x1c81b4358246d3088ab4361ab755f3d8d4dd62d2",
+      "name": "Finvesta",
+      "symbol": "FINVESTA",
+      "decimals": 8,
+      "logoURI": "https://assets.coingecko.com/coins/images/54588/thumb/finvesta.png?1740556264"
     },
     {
       "chainId": 369,
@@ -104,35 +120,11 @@
     },
     {
       "chainId": 369,
-      "address": "0xdfdc2836fd2e63bba9f0ee07901ad465bff4de71",
-      "name": "POWERCITY WATT",
-      "symbol": "WATT",
+      "address": "0xdb4a3a4f8d8eeda3114183dc1de09da87b8e2858",
+      "name": "RubyPulse",
+      "symbol": "RUBY",
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/33663/thumb/200x200-WATT_token-.png?1702601503"
-    },
-    {
-      "chainId": 369,
-      "address": "0x02dff78fdedaf86d9dfbe9b3132aa3ea72ed1680",
-      "name": "Cola Token",
-      "symbol": "COLA",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/30931/thumb/FxYXK0GaIAcOx_S.png?1696529773"
-    },
-    {
-      "chainId": 369,
-      "address": "0x1c81b4358246d3088ab4361ab755f3d8d4dd62d2",
-      "name": "Finvesta",
-      "symbol": "FINVESTA",
-      "decimals": 8,
-      "logoURI": "https://assets.coingecko.com/coins/images/54588/thumb/finvesta.png?1740556264"
-    },
-    {
-      "chainId": 369,
-      "address": "0xeda0073b4aa1b1b6f9c718c3036551ab46e5ec32",
-      "name": "BEETroot",
-      "symbol": "BEET",
-      "decimals": 9,
-      "logoURI": "https://assets.coingecko.com/coins/images/30732/thumb/372F4EE5-F86E-4338-9BF4-3F8558E73D8F.jpeg?1696529602"
+      "logoURI": "https://assets.coingecko.com/coins/images/35294/thumb/rubis.png?1708078545"
     },
     {
       "chainId": 369,
@@ -144,27 +136,27 @@
     },
     {
       "chainId": 369,
-      "address": "0x8854bc985fb5725f872c8856bea11b917caeb2fe",
-      "name": "PHAME",
-      "symbol": "PHAME",
+      "address": "0x9159f1d2a9f51998fc9ab03fbd8f265ab14a1b3b",
+      "name": "Liquid Loans",
+      "symbol": "LOAN",
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/31825/thumb/CG_Logo.png?1696530639"
+      "logoURI": "https://assets.coingecko.com/coins/images/33490/thumb/loan-500X500.png?1702029616"
     },
     {
       "chainId": 369,
-      "address": "0x22b2f187e6ee1f9bc8f7fc38bb0d9357462800e4",
-      "name": "SUN Minimeal",
-      "symbol": "SOIL",
-      "decimals": 2,
-      "logoURI": "https://assets.coingecko.com/coins/images/40031/thumb/SOIL.jpg?1725362801"
+      "address": "0x207e6b4529840a4fd518f73c68bc9c19b2a15944",
+      "name": "Mintra",
+      "symbol": "MINT",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/32763/thumb/v2.0.png?1699330002"
     },
     {
       "chainId": 369,
-      "address": "0xdb4a3a4f8d8eeda3114183dc1de09da87b8e2858",
-      "name": "RubyPulse",
-      "symbol": "RUBY",
+      "address": "0x02dff78fdedaf86d9dfbe9b3132aa3ea72ed1680",
+      "name": "Cola Token",
+      "symbol": "COLA",
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/35294/thumb/rubis.png?1708078545"
+      "logoURI": "https://assets.coingecko.com/coins/images/30931/thumb/FxYXK0GaIAcOx_S.png?1696529773"
     },
     {
       "chainId": 369,
@@ -176,19 +168,43 @@
     },
     {
       "chainId": 369,
-      "address": "0xa1077a294dde1b09bb078844df40758a5d0f9a27",
-      "name": "Wrapped Pulse",
-      "symbol": "WPLS",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/30432/thumb/pulse.jpeg?1696529320"
+      "address": "0x0cb6f5a34ad42ec934882a05265a7d5f59b51a2f",
+      "name": "Bridged Tether  PulseChain ",
+      "symbol": "USDT",
+      "decimals": 6,
+      "logoURI": "https://assets.coingecko.com/coins/images/30515/thumb/usdt.png?1696529400"
     },
     {
       "chainId": 369,
-      "address": "0x2fa878ab3f87cc1c9737fc071108f904c0b0c95d",
-      "name": "PulseX Incentive Token",
-      "symbol": "INC",
+      "address": "0xcf409c91b49dd3f796d20eec20535fdc79a08798",
+      "name": "HEX COM DIAMOND",
+      "symbol": "DMND",
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/34426/thumb/0x2fa878Ab3F87CC1C9737Fc071108F904c0B0C95d.png?1712869662"
+      "logoURI": "https://assets.coingecko.com/coins/images/52751/thumb/DMND.jpg?1734188389"
+    },
+    {
+      "chainId": 369,
+      "address": "0x0a0f70b227f782f2cead75554781af45a620a296",
+      "name": "PIKA to PIKO      ",
+      "symbol": "PIKA",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/50701/thumb/0x0a0f70b227f782f2cead75554781af45a620a296.png?1728786245"
+    },
+    {
+      "chainId": 369,
+      "address": "0xa12e2661ec6603cbbb891072b2ad5b3d5edb48bd",
+      "name": "Pulse Inu",
+      "symbol": "PINU",
+      "decimals": 12,
+      "logoURI": "https://assets.coingecko.com/coins/images/33346/thumb/PULSE_INU.jpg?1705163848"
+    },
+    {
+      "chainId": 369,
+      "address": "0x8854bc985fb5725f872c8856bea11b917caeb2fe",
+      "name": "PHAME",
+      "symbol": "PHAME",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/31825/thumb/CG_Logo.png?1696530639"
     },
     {
       "chainId": 369,
@@ -200,11 +216,27 @@
     },
     {
       "chainId": 369,
-      "address": "0x00febf86e8f0673f0feadac14b5ea1a05e744cb7",
-      "name": "GrowthDefi GBTC",
-      "symbol": "GBTC",
-      "decimals": 8,
-      "logoURI": "https://assets.coingecko.com/coins/images/37295/thumb/gbtc200.png?1713950182"
+      "address": "0xb513038bbfdf9d40b676f41606f4f61d4b02c4a2",
+      "name": "POWERCITY Earn Protocol",
+      "symbol": "EARN",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/33876/thumb/200x200-EARN-token.png?1703145126"
+    },
+    {
+      "chainId": 369,
+      "address": "0x09e64c2b61a5f1690ee6fbed9baf5d6990f8dfd0",
+      "name": "Growth",
+      "symbol": "GRO",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/37345/thumb/gro.jpeg?1714060196"
+    },
+    {
+      "chainId": 369,
+      "address": "0xeb2ceed77147893ba8b250c796c2d4ef02a72b68",
+      "name": "Pulse Drip",
+      "symbol": "PDRIP",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/38621/thumb/PulseDrip_Logo.png?1718139184"
     },
     {
       "chainId": 369,
@@ -224,38 +256,6 @@
     },
     {
       "chainId": 369,
-      "address": "0x0a0f70b227f782f2cead75554781af45a620a296",
-      "name": "PIKA to PIKO      ",
-      "symbol": "PIKA",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/50701/thumb/0x0a0f70b227f782f2cead75554781af45a620a296.png?1728786245"
-    },
-    {
-      "chainId": 369,
-      "address": "0x0cb6f5a34ad42ec934882a05265a7d5f59b51a2f",
-      "name": "Bridged Tether  PulseChain ",
-      "symbol": "USDT",
-      "decimals": 6,
-      "logoURI": "https://assets.coingecko.com/coins/images/30515/thumb/usdt.png?1696529400"
-    },
-    {
-      "chainId": 369,
-      "address": "0xa12e2661ec6603cbbb891072b2ad5b3d5edb48bd",
-      "name": "Pulse Inu",
-      "symbol": "PINU",
-      "decimals": 12,
-      "logoURI": "https://assets.coingecko.com/coins/images/33346/thumb/PULSE_INU.jpg?1705163848"
-    },
-    {
-      "chainId": 369,
-      "address": "0xeb2ceed77147893ba8b250c796c2d4ef02a72b68",
-      "name": "Pulse Drip",
-      "symbol": "PDRIP",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/38621/thumb/PulseDrip_Logo.png?1718139184"
-    },
-    {
-      "chainId": 369,
       "address": "0x616cb6a245ed4c11216ec58d10b6a2e87271845d",
       "name": "Gelato",
       "symbol": "GEL",
@@ -264,67 +264,27 @@
     },
     {
       "chainId": 369,
-      "address": "0x456548a9b56efbbd89ca0309edd17a9e20b04018",
-      "name": "UFO Token",
-      "symbol": "UFO",
+      "address": "0xa1077a294dde1b09bb078844df40758a5d0f9a27",
+      "name": "Wrapped Pulse",
+      "symbol": "WPLS",
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/40041/thumb/Image_9-5-24_at_8.35%E2%80%AFAM.jpeg?1725563559"
+      "logoURI": "https://assets.coingecko.com/coins/images/30432/thumb/pulse.jpeg?1696529320"
     },
     {
       "chainId": 369,
-      "address": "0xcf409c91b49dd3f796d20eec20535fdc79a08798",
-      "name": "HEX COM DIAMOND",
-      "symbol": "DMND",
+      "address": "0x1b7b541bea3af39292fce08649e4c4e1bee408a1",
+      "name": "Alien",
+      "symbol": "ALIEN",
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/52751/thumb/DMND.jpg?1734188389"
+      "logoURI": "https://assets.coingecko.com/coins/images/35053/thumb/Alien.jpg?1707214245"
     },
     {
       "chainId": 369,
-      "address": "0x8fc70fd5f10cd5494eb369b0737cefd22eb33f17",
-      "name": "PermaGIFF",
-      "symbol": "PGIFF",
+      "address": "0x2fa878ab3f87cc1c9737fc071108f904c0b0c95d",
+      "name": "PulseX Incentive Token",
+      "symbol": "INC",
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/37732/thumb/pgiff.png?1715336369"
-    },
-    {
-      "chainId": 369,
-      "address": "0x43eaba2e2d2f32f1207a11a18679287dc7700015",
-      "name": "Real BIG Coin",
-      "symbol": "RBC",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/30926/thumb/RBC_LOGO200.png?1715972515"
-    },
-    {
-      "chainId": 369,
-      "address": "0x9663c2d75ffd5f4017310405fce61720af45b829",
-      "name": "PHUX Governance Token",
-      "symbol": "PHUX",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/30867/thumb/PHIUX_CG.png?1696529714"
-    },
-    {
-      "chainId": 369,
-      "address": "0x15d38573d2feeb82e7ad5187ab8c1d52810b1f07",
-      "name": "Bridged USD Coin  PulseChain ",
-      "symbol": "USDC",
-      "decimals": 6,
-      "logoURI": "https://assets.coingecko.com/coins/images/30514/thumb/usdc.png?1696529399"
-    },
-    {
-      "chainId": 369,
-      "address": "0xf2da3942616880e52e841e5c504b5a9fba23fff0",
-      "name": "NEXION",
-      "symbol": "NEON",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/54327/thumb/tokenlogo200.png?1739310970"
-    },
-    {
-      "chainId": 369,
-      "address": "0x8b4cfb020af9acad95ad80020ce8f67fbb2c700e",
-      "name": "Big Bonus Coin",
-      "symbol": "BBC",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/32659/thumb/BBC-PLS-logo.png?1698900510"
+      "logoURI": "https://assets.coingecko.com/coins/images/34426/thumb/0x2fa878Ab3F87CC1C9737Fc071108F904c0B0C95d.png?1712869662"
     },
     {
       "chainId": 369,
@@ -336,11 +296,43 @@
     },
     {
       "chainId": 369,
-      "address": "0xb513038bbfdf9d40b676f41606f4f61d4b02c4a2",
-      "name": "POWERCITY Earn Protocol",
-      "symbol": "EARN",
+      "address": "0x8fc70fd5f10cd5494eb369b0737cefd22eb33f17",
+      "name": "PermaGIFF",
+      "symbol": "PGIFF",
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/33876/thumb/200x200-EARN-token.png?1703145126"
+      "logoURI": "https://assets.coingecko.com/coins/images/37732/thumb/pgiff.png?1715336369"
+    },
+    {
+      "chainId": 369,
+      "address": "0x8b4cfb020af9acad95ad80020ce8f67fbb2c700e",
+      "name": "Big Bonus Coin",
+      "symbol": "BBC",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/32659/thumb/BBC-PLS-logo.png?1698900510"
+    },
+    {
+      "chainId": 369,
+      "address": "0x43eaba2e2d2f32f1207a11a18679287dc7700015",
+      "name": "Real BIG Coin",
+      "symbol": "RBC",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/30926/thumb/RBC_LOGO200.png?1715972515"
+    },
+    {
+      "chainId": 369,
+      "address": "0x22b2f187e6ee1f9bc8f7fc38bb0d9357462800e4",
+      "name": "SUN Minimeal",
+      "symbol": "SOIL",
+      "decimals": 2,
+      "logoURI": "https://assets.coingecko.com/coins/images/40031/thumb/SOIL.jpg?1725362801"
+    },
+    {
+      "chainId": 369,
+      "address": "0x3ca80d83277e721171284667829c686527b8b3c5",
+      "name": "9inch",
+      "symbol": "9INCH",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/32662/thumb/9INCH-logo.png?1698901092"
     },
     {
       "chainId": 369,
@@ -349,6 +341,14 @@
       "symbol": "TIME",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/31736/thumb/TIME_200_-_Imgur.png?1696530555"
+    },
+    {
+      "chainId": 369,
+      "address": "0x456548a9b56efbbd89ca0309edd17a9e20b04018",
+      "name": "UFO Token",
+      "symbol": "UFO",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/40041/thumb/Image_9-5-24_at_8.35%E2%80%AFAM.jpeg?1725563559"
     },
     {
       "chainId": 369,
@@ -365,14 +365,6 @@
       "symbol": "PLSB",
       "decimals": 12,
       "logoURI": "https://assets.coingecko.com/coins/images/30607/thumb/PulseBitcoin_Logo_%2832x32%29.png?1696529477"
-    },
-    {
-      "chainId": 369,
-      "address": "0xb971a3429c04d96f8a75edac7bc79e7c4672b4e6",
-      "name": "XenBitcoin",
-      "symbol": "XBTC",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/30608/thumb/XENBITCOIN200x200.jpg?1696529478"
     },
     {
       "chainId": 369,
@@ -576,11 +568,11 @@
     },
     {
       "chainId": 369,
-      "address": "0x207e6b4529840a4fd518f73c68bc9c19b2a15944",
-      "name": "Mintra",
-      "symbol": "MINT",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/32763/thumb/v2.0.png?1699330002"
+      "address": "0xeda0073b4aa1b1b6f9c718c3036551ab46e5ec32",
+      "name": "BEETroot",
+      "symbol": "BEET",
+      "decimals": 9,
+      "logoURI": "https://assets.coingecko.com/coins/images/30732/thumb/372F4EE5-F86E-4338-9BF4-3F8558E73D8F.jpeg?1696529602"
     },
     {
       "chainId": 369,
@@ -784,7 +776,7 @@
     }
   ],
   "version": {
-    "major": 7,
+    "major": 8,
     "minor": 0,
     "patch": 0
   }
