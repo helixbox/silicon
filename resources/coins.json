@@ -32218,7 +32218,9 @@
     "symbol": "cybro",
     "name": "CYBRO",
     "platforms": {
-      "blast": "0x963eec23618bbc8e1766661d5f263f18094ae4d5"
+      "blast": "0x963eec23618bbc8e1766661d5f263f18094ae4d5",
+      "binance-smart-chain": "0xa9972b1fac35fdd8cbdbaa315a002b2ad91d2ad6",
+      "ethereum": "0xd58826d2c0babf1a60d8b508160b52e9c19aff07"
     }
   },
   {
@@ -96434,6 +96436,14 @@
     }
   },
   {
+    "id": "power-play",
+    "symbol": "power",
+    "name": "Power Play",
+    "platforms": {
+      "ethereum": "0x9bbe8f42b9c2333fe2a80323028ab107379646c7"
+    }
+  },
+  {
     "id": "power-staked-sol",
     "symbol": "pwrsol",
     "name": "Power Staked SOL",
@@ -104324,6 +104334,30 @@
     "name": "Saga",
     "platforms": {
       "saga": "usaga"
+    }
+  },
+  {
+    "id": "saga-bridged-usdc-saga",
+    "symbol": "usdc",
+    "name": "Saga Bridged USDC (Saga)",
+    "platforms": {
+      "saga": "0xfc960c233b8e98e0cf282e29bde8d3f105fc24d5"
+    }
+  },
+  {
+    "id": "saga-bridged-usdt-saga",
+    "symbol": "usdt",
+    "name": "Saga Bridged USDT (Saga)",
+    "platforms": {
+      "saga": "0xc8fe3c1de344854f4429bb333affaef97ef88cea"
+    }
+  },
+  {
+    "id": "saga-bridged-weth-saga",
+    "symbol": "weth",
+    "name": "Saga Bridged WETH (Saga)",
+    "platforms": {
+      "saga": "0xeb41d53f14cb9a67907f2b8b5dbc223944158ccb"
     }
   },
   {
@@ -115720,7 +115754,8 @@
     "symbol": "svm",
     "name": "StratoVM",
     "platforms": {
-      "ethereum": "0x2bc46eb4ae80ddd9c8a6e064c74327c8244d88e2"
+      "ethereum": "0x2bc46eb4ae80ddd9c8a6e064c74327c8244d88e2",
+      "solana": "9BpQUsVpGSBXX3fwi3U5Re12pufkiooxvVvoDCitFbJ5"
     }
   },
   {
@@ -134804,6 +134839,14 @@
     "name": "Wrapped RUNI",
     "platforms": {
       "ethereum": "0xec56840be7c495cbf98c0157b458cd207ff85da1"
+    }
+  },
+  {
+    "id": "wrapped-saga",
+    "symbol": "saga",
+    "name": "Wrapped SAGA",
+    "platforms": {
+      "saga": "0xa19377761fed745723b90993988e04d641c2cffe"
     }
   },
   {

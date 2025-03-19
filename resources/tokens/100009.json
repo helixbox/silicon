@@ -4,8 +4,16 @@
   "keywords": [
     "defi"
   ],
-  "timestamp": "2025-02-07T22:00:34.608+00:00",
+  "timestamp": "2025-03-19T12:00:34.141+00:00",
   "tokens": [
+    {
+      "chainId": 100009,
+      "address": "0x0ce6661b4ba86a0ea7ca2bd86a0de87b0b860f14",
+      "name": "OceanEX",
+      "symbol": "OCE",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/4963/thumb/oceanex.jpg?1696505500"
+    },
     {
       "chainId": 100009,
       "address": "0x5db3c8a942333f6468176a870db36eef120a34dc",
@@ -20,15 +28,7 @@
       "name": "VeBetterDAO",
       "symbol": "B3TR",
       "decimals": 4,
-      "logoURI": "https://assets.coingecko.com/coins/images/52286/thumb/B3TR_logo.png?1732953406"
-    },
-    {
-      "chainId": 100009,
-      "address": "0x0ce6661b4ba86a0ea7ca2bd86a0de87b0b860f14",
-      "name": "OceanEX",
-      "symbol": "OCE",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/4963/thumb/oceanex.jpg?1696505500"
+      "logoURI": "https://assets.coingecko.com/coins/images/52286/thumb/B3TR_%281%29.png?1742383317"
     },
     {
       "chainId": 100009,
@@ -42,6 +42,6 @@
   "version": {
     "major": 1,
     "minor": 0,
-    "patch": 0
+    "patch": 1
   }
 }
