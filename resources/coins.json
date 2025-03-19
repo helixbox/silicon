@@ -3101,7 +3101,7 @@
     "symbol": "afsui",
     "name": "Aftermath Staked SUI",
     "platforms": {
-      "sui": "0xf325ce1300e8dac124071d3152c5c5ee6174914f8bc2161e88329cf579246efc"
+      "sui": "0xf325ce1300e8dac124071d3152c5c5ee6174914f8bc2161e88329cf579246efc::afsui::AFSUI"
     }
   },
   {
@@ -12324,7 +12324,7 @@
       "icon": "cxf61cd5a45dc9f91c15aa65831a30a90d59a09619",
       "binance-smart-chain": "0x94cf269d63c4140ed481cb0b149dae03c4620cdf",
       "solana": "BH4TZqN9TXnkjiLEQZ9xuXo85YaGoonM4PHpcjHEoTAx",
-      "sui": "0x3ae6be8e58c0e0715764971b750709e67c6de33e38bbecafe25b5f3dd5080a39",
+      "sui": "0x3ae6be8e58c0e0715764971b750709e67c6de33e38bbecafe25b5f3dd5080a39::balanced_token::BALANCED_TOKEN",
       "optimistic-ethereum": "0xd336c74b840f9962cf2c666f8666d6d61ec24440",
       "avalanche": "0x542245f2b93b30994a4670121541b38226f1208c",
       "injective": "inj10207z3hn49q2w59tl8e3ctwhet7wqg9neey0nj",
@@ -35142,7 +35142,7 @@
   {
     "id": "der-daku",
     "symbol": "daku",
-    "name": "Der Daku",
+    "name": "Daku",
     "platforms": {
       "solana": "HRiLLm6hYiSdniFGjvcSvQ7XJrA8YSoktcqFbWjmpump"
     }
@@ -93135,7 +93135,7 @@
     "name": "OSHI3",
     "platforms": {
       "polygon-pos": "0x09cad96bc28f55e9253cfb9a84a3a1ab79061e54",
-      "sui": "0xf16656c7d417654680c9e6a67f626c2c99a7a91011c88bc50d9ccaffdc53081b"
+      "sui": "0xf16656c7d417654680c9e6a67f626c2c99a7a91011c88bc50d9ccaffdc53081b::oshi::OSHI"
     }
   },
   {
@@ -103664,7 +103664,9 @@
     "id": "runemine",
     "symbol": "mine",
     "name": "RuneMine",
-    "platforms": {}
+    "platforms": {
+      "solana": "M1NEtUMtvTcZ5K8Ym6fY4DZLdKtBFeh8qWWpsPZiu5S"
+    }
   },
   {
     "id": "rune-pups",
@@ -105922,7 +105924,7 @@
     "symbol": "sog",
     "name": "Seal Dog",
     "platforms": {
-      "sui": "0x5ce7473cb090f37e3dd073931b512a1c2a7d635abdeb4d7cc8460da95d7dbd90"
+      "sui": "0x5ce7473cb090f37e3dd073931b512a1c2a7d635abdeb4d7cc8460da95d7dbd90::sog::SOG"
     }
   },
   {
@@ -116609,7 +116611,7 @@
     "name": "Sui RWA",
     "platforms": {
       "solana": "55bfLJQeYwPdUui7W34G4Ka4BM6Pg3DxZNPZfeJJj3hz",
-      "sui": "0xe0d408619bd086d41dbf4c85f297e83e1a20b7e1e4b63b548febd44cca61599f"
+      "sui": "0xe0d408619bd086d41dbf4c85f297e83e1a20b7e1e4b63b548febd44cca61599f::suirwa::SUIRWA"
     }
   },
   {
@@ -121803,9 +121805,9 @@
   {
     "id": "times",
     "symbol": "$times",
-    "name": "$TIMES",
+    "name": "TIMES",
     "platforms": {
-      "sui": "0x46fbe54691b27d7abd2c9e5a01088913531f241b98f3c2351f8215e45cc17a4c"
+      "sui": "0x46fbe54691b27d7abd2c9e5a01088913531f241b98f3c2351f8215e45cc17a4c::times::TIMES"
     }
   },
   {
