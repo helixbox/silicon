@@ -4,7 +4,7 @@
   "keywords": [
     "defi"
   ],
-  "timestamp": "2025-03-20T08:00:15.591+00:00",
+  "timestamp": "2025-03-20T10:00:17.397+00:00",
   "tokens": [
     {
       "chainId": 59144,
@@ -37,14 +37,6 @@
       "symbol": "DAI",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/31272/thumb/dai-stablecoin.png?1696530095"
-    },
-    {
-      "chainId": 59144,
-      "address": "0x2416092f143378750bb29b79ed961ab195cceea5",
-      "name": "Everclear Bridged ezETH  Linea ",
-      "symbol": "EZETH",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/50285/thumb/ezeth.png?1726826929"
     },
     {
       "chainId": 59144,
@@ -112,19 +104,27 @@
     },
     {
       "chainId": 59144,
-      "address": "0xd83af4fbd77f3ab65c3b1dc4b38d7e67aecf599a",
-      "name": "Linea Voyage XP",
-      "symbol": "LXP",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/34795/thumb/lxp-1.png?1706032525"
-    },
-    {
-      "chainId": 59144,
       "address": "0x3aab2285ddcddad8edf438c1bab47e1a9d05a9b4",
       "name": "Linea Bridged WBTC  Linea ",
       "symbol": "WBTC",
       "decimals": 8,
       "logoURI": "https://assets.coingecko.com/coins/images/50164/thumb/wbtc.png?1726136135"
+    },
+    {
+      "chainId": 59144,
+      "address": "0x2416092f143378750bb29b79ed961ab195cceea5",
+      "name": "Everclear Bridged ezETH  Linea ",
+      "symbol": "EZETH",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/50285/thumb/ezeth.png?1726826929"
+    },
+    {
+      "chainId": 59144,
+      "address": "0xd83af4fbd77f3ab65c3b1dc4b38d7e67aecf599a",
+      "name": "Linea Voyage XP",
+      "symbol": "LXP",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/34795/thumb/lxp-1.png?1706032525"
     },
     {
       "chainId": 59144,
@@ -248,27 +248,11 @@
     },
     {
       "chainId": 59144,
-      "address": "0x2442bd7ae83b51f6664de408a385375fe4a84f52",
-      "name": "Linea Bridged MKR  LInea ",
-      "symbol": "MKR",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/50278/thumb/maker_32.png?1726782727"
-    },
-    {
-      "chainId": 59144,
       "address": "0x0e076aafd86a71dceac65508daf975425c9d0cb6",
       "name": "Linea Bridged LDO  Linea ",
       "symbol": "LDO",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/50237/thumb/ldo.jpeg?1726644437"
-    },
-    {
-      "chainId": 59144,
-      "address": "0x0a79e44c99505c7f388ca30c787ff97217e73ecc",
-      "name": "Linea Bridged FXS  LInea ",
-      "symbol": "FXS",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/50277/thumb/fraxsharetoken_32.png?1726782493"
     },
     {
       "chainId": 59144,
@@ -648,8 +632,8 @@
     }
   ],
   "version": {
-    "major": 12,
-    "minor": 1,
+    "major": 13,
+    "minor": 0,
     "patch": 0
   }
 }
