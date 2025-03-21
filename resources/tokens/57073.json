@@ -4,7 +4,7 @@
   "keywords": [
     "defi"
   ],
-  "timestamp": "2025-03-21T08:00:24.020+00:00",
+  "timestamp": "2025-03-21T18:00:25.110+00:00",
   "tokens": [
     {
       "chainId": 57073,
@@ -24,14 +24,6 @@
     },
     {
       "chainId": 57073,
-      "address": "0x4200000000000000000000000000000000000006",
-      "name": "Ink Bridged WETH  Ink ",
-      "symbol": "WETH",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/52918/thumb/weth_2.jpg?1734684690"
-    },
-    {
-      "chainId": 57073,
       "address": "0x0c5e2d1c98cd265c751e02f8f3293bc5764f9111",
       "name": "Shroomy",
       "symbol": "SHROOMY",
@@ -40,11 +32,11 @@
     },
     {
       "chainId": 57073,
-      "address": "0x0200c29006150606b650577bbe7b6248f58470c1",
-      "name": "USDT0",
-      "symbol": "USDT0",
+      "address": "0xf1815bd50389c46847f0bda824ec8da914045d14",
+      "name": "Stargate Bridged USDC  Ink ",
+      "symbol": "USDCE",
       "decimals": 6,
-      "logoURI": "https://assets.coingecko.com/coins/images/53705/thumb/usdt0.jpg?1737086183"
+      "logoURI": "https://assets.coingecko.com/coins/images/53782/thumb/usdc.jpg?1737346127"
     },
     {
       "chainId": 57073,
@@ -56,11 +48,19 @@
     },
     {
       "chainId": 57073,
-      "address": "0xf1815bd50389c46847f0bda824ec8da914045d14",
-      "name": "Stargate Bridged USDC  Ink ",
-      "symbol": "USDCE",
+      "address": "0x4200000000000000000000000000000000000006",
+      "name": "Ink Bridged WETH  Ink ",
+      "symbol": "WETH",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/52918/thumb/weth_2.jpg?1734684690"
+    },
+    {
+      "chainId": 57073,
+      "address": "0x0200c29006150606b650577bbe7b6248f58470c1",
+      "name": "USDT0",
+      "symbol": "USDT0",
       "decimals": 6,
-      "logoURI": "https://assets.coingecko.com/coins/images/53782/thumb/usdc.jpg?1737346127"
+      "logoURI": "https://assets.coingecko.com/coins/images/53705/thumb/usdt0.jpg?1737086183"
     },
     {
       "chainId": 57073,
@@ -77,11 +77,19 @@
       "symbol": "ACRED",
       "decimals": 6,
       "logoURI": "https://assets.coingecko.com/coins/images/54809/thumb/ACRED.png?1741801356"
+    },
+    {
+      "chainId": 57073,
+      "address": "0x73e0c0d45e048d25fc26fa3159b0aa04bfa4db98",
+      "name": "Kraken Wrapped BTC",
+      "symbol": "KBTC",
+      "decimals": 8,
+      "logoURI": "https://assets.coingecko.com/coins/images/50879/thumb/kBTC.png?1730321084"
     }
   ],
   "version": {
     "major": 1,
-    "minor": 2,
+    "minor": 3,
     "patch": 0
   }
 }
