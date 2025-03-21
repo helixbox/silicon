@@ -4,8 +4,16 @@
   "keywords": [
     "defi"
   ],
-  "timestamp": "2025-03-13T08:00:05.317+00:00",
+  "timestamp": "2025-03-21T08:00:05.534+00:00",
   "tokens": [
+    {
+      "chainId": 130,
+      "address": "0x926dc7b96bb2f4a91c2a67e291faf482691a3001",
+      "name": "Unicorn",
+      "symbol": "UNICORN",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/54332/thumb/unicorn.jpg?1739325321"
+    },
     {
       "chainId": 130,
       "address": "0x4200000000000000000000000000000000000006",
@@ -16,11 +24,11 @@
     },
     {
       "chainId": 130,
-      "address": "0x926dc7b96bb2f4a91c2a67e291faf482691a3001",
-      "name": "Unicorn",
-      "symbol": "UNICORN",
+      "address": "0xc02fe7317d4eb8753a02c35fe019786854a92001",
+      "name": "Wrapped stETH",
+      "symbol": "WSTETH",
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/54332/thumb/unicorn.jpg?1739325321"
+      "logoURI": "https://assets.coingecko.com/coins/images/18834/thumb/wstETH.png?1696518295"
     },
     {
       "chainId": 130,
@@ -57,7 +65,7 @@
   ],
   "version": {
     "major": 0,
-    "minor": 4,
+    "minor": 5,
     "patch": 0
   }
 }

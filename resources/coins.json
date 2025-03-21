@@ -15191,7 +15191,9 @@
     "id": "bifrost-voucher-astr",
     "symbol": "vastr",
     "name": "Bifrost Voucher ASTR",
-    "platforms": {}
+    "platforms": {
+      "soneium": "0x60336f9296c79da4294a19153ec87f8e52158e5f"
+    }
   },
   {
     "id": "bifrost-voucher-manta",
@@ -52139,6 +52141,14 @@
     }
   },
   {
+    "id": "giza",
+    "symbol": "giza",
+    "name": "Giza",
+    "platforms": {
+      "ethereum": "0x590830dfdf9a3f68afcdde2694773debdf267774"
+    }
+  },
+  {
     "id": "gizmo",
     "symbol": "gizmo",
     "name": "GIZMO",
@@ -89045,7 +89055,8 @@
     "symbol": "olm",
     "name": "OpenLM RevShare Token",
     "platforms": {
-      "ethereum": "0xe5018913f2fdf33971864804ddb5fca25c539032"
+      "ethereum": "0xe5018913f2fdf33971864804ddb5fca25c539032",
+      "binance-smart-chain": "0x972c42a6350b2f82cc532148eec8862843de94c2"
     }
   },
   {
@@ -98923,6 +98934,14 @@
     "symbol": "quai",
     "name": "Quai Network",
     "platforms": {}
+  },
+  {
+    "id": "quan2um",
+    "symbol": "$qntm",
+    "name": "Quan2um",
+    "platforms": {
+      "solana": "qntmuw54sn81ZawbbA7FwHZZQygBnfXUyHJeCCix5ag"
+    }
   },
   {
     "id": "quant",
@@ -114372,6 +114391,15 @@
     }
   },
   {
+    "id": "staked-usn",
+    "symbol": "susn",
+    "name": "Staked USN",
+    "platforms": {
+      "ethereum": "0xe24a3dc889621612422a64e6388927901608b91d",
+      "zksync": "0xb6a09d426861c63722aa0b333a9ce5d5a9b04c4f"
+    }
+  },
+  {
     "id": "staked-vlx",
     "symbol": "stvlx",
     "name": "Staked VLX",
@@ -119558,6 +119586,14 @@
     "name": "TeleSwap",
     "platforms": {
       "the-open-network": "EQAGYK08DaJaQpmZESz3y9gqi7rmpoBiyKQru-firOwqPzR4"
+    }
+  },
+  {
+    "id": "tell-a-tale",
+    "symbol": "tat",
+    "name": "Tell A Tale",
+    "platforms": {
+      "binance-smart-chain": "0x996d1b997203a024e205069a304161ba618d1c61"
     }
   },
   {
@@ -135229,7 +135265,8 @@
     "symbol": "wsteth",
     "name": "Wrapped stETH",
     "platforms": {
-      "ethereum": "0x7f39c581f595b53c5cb19bd0b3f8da6c935e2ca0"
+      "ethereum": "0x7f39c581f595b53c5cb19bd0b3f8da6c935e2ca0",
+      "unichain": "0xc02fe7317d4eb8753a02c35fe019786854a92001"
     }
   },
   {
