@@ -4,8 +4,15 @@
   "keywords": [
     "defi"
   ],
-  "timestamp": "2025-03-22T10:01:05.371+00:00",
+  "timestamp": "2025-03-22T11:01:05.280+00:00",
   "tokens": [
+    {
+      "chainId": 42161,
+      "address": "0x32df62dc3aed2cd6224193052ce665dc18165841",
+      "name": "Balancer 80 RDNT 20 WETH",
+      "symbol": "DLP",
+      "decimals": 18
+    },
     {
       "chainId": 42161,
       "address": "0xb90e1ee5f4194388e71c11dc2a4eea16da391ce4",
@@ -56,6 +63,14 @@
     },
     {
       "chainId": 42161,
+      "address": "0x37a645648df29205c6261289983fb04ecd70b4b3",
+      "name": "Animecoin",
+      "symbol": "ANIME",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/53575/thumb/anime.jpg?1736748703"
+    },
+    {
+      "chainId": 42161,
       "address": "0xfc5a1a6eb076a2c7ad06ed22c90d7e710e35ad0a",
       "name": "GMX",
       "symbol": "GMX",
@@ -88,19 +103,19 @@
     },
     {
       "chainId": 42161,
-      "address": "0x912ce59144191c1204e64559fe8253a0e49e6548",
-      "name": "Arbitrum",
-      "symbol": "ARB",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/16547/thumb/arb.jpg?1721358242"
-    },
-    {
-      "chainId": 42161,
       "address": "0x580e933d90091b9ce380740e3a4a39c67eb85b4c",
       "name": "GameSwift",
       "symbol": "GSWIFT",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/30949/thumb/GameSwift_Token.png?1696529788"
+    },
+    {
+      "chainId": 42161,
+      "address": "0xfd086bc7cd5c481dcc9c85ebe478a1c0b69fcbb9",
+      "name": "Arbitrum Bridged USDT  Arbitrum ",
+      "symbol": "USDT",
+      "decimals": 6,
+      "logoURI": "https://assets.coingecko.com/coins/images/35073/thumb/logo.png?1707292836"
     },
     {
       "chainId": 42161,
@@ -112,11 +127,27 @@
     },
     {
       "chainId": 42161,
+      "address": "0xe3b3fe7bca19ca77ad877a5bebab186becfad906",
+      "name": "Staked FRAX",
+      "symbol": "SFRAX",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/35383/thumb/sfrax-logo.png?1739780377"
+    },
+    {
+      "chainId": 42161,
       "address": "0xdd1ddd4d978ac0baef4bfa9c7e91853bfce90f11",
       "name": "The Lux Network",
       "symbol": "TLN",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/40147/thumb/THE_LUX_NETWORK_LOGO.webp?1726051439"
+    },
+    {
+      "chainId": 42161,
+      "address": "0xbfbcfe8873fe28dfa25f1099282b088d52bbad9c",
+      "name": "Equilibria Finance",
+      "symbol": "EQB",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/30645/thumb/QLLK8pmR_400x400.jpg?1696529516"
     },
     {
       "chainId": 42161,
@@ -133,6 +164,14 @@
       "symbol": "MOZ",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/52659/thumb/lumoz.jpg?1734002341"
+    },
+    {
+      "chainId": 42161,
+      "address": "0x3082cc23568ea640225c2467653db90e9250aaa0",
+      "name": "Radiant Capital",
+      "symbol": "RDNT",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/26536/thumb/Radiant-Logo-200x200.png?1696525610"
     },
     {
       "chainId": 42161,
@@ -168,14 +207,6 @@
     },
     {
       "chainId": 42161,
-      "address": "0x500756c7d239aee30f52c7e52af4f4f008d1a98f",
-      "name": "Petroleum OIL",
-      "symbol": "OIL",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/28350/thumb/OIL_200.png?1696527354"
-    },
-    {
-      "chainId": 42161,
       "address": "0x67c31056358b8977ea95a3a899dd380d4bced706",
       "name": "ETHforestAI",
       "symbol": "ETHFAI",
@@ -197,14 +228,6 @@
       "symbol": "MAGIC",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/18623/thumb/magic.png?1696518095"
-    },
-    {
-      "chainId": 42161,
-      "address": "0x94fcd9c18f99538c0f7c61c5500ca79f0d5c4dab",
-      "name": "Kima Network",
-      "symbol": "KIMA",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/50764/thumb/K-logo-01.png?1729053099"
     },
     {
       "chainId": 42161,
@@ -269,6 +292,14 @@
       "symbol": "TANGO",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/50721/thumb/400x400_-_Tango_%281%29.png?1729251498"
+    },
+    {
+      "chainId": 42161,
+      "address": "0x500756c7d239aee30f52c7e52af4f4f008d1a98f",
+      "name": "Petroleum OIL",
+      "symbol": "OIL",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/28350/thumb/OIL_200.png?1696527354"
     },
     {
       "chainId": 42161,
@@ -424,14 +455,6 @@
     },
     {
       "chainId": 42161,
-      "address": "0x2297aebd383787a160dd0d9f71508148769342e3",
-      "name": "Avalanche Bridged BTC  Arbitrum One ",
-      "symbol": "BTCB",
-      "decimals": 8,
-      "logoURI": "https://assets.coingecko.com/coins/images/51135/thumb/avalanche-core.png?1730195092"
-    },
-    {
-      "chainId": 42161,
       "address": "0xac28c9178acc8ba4a11a29e013a3a2627086e422",
       "name": "Backed MicroStrategy",
       "symbol": "BMSTR",
@@ -448,14 +471,6 @@
     },
     {
       "chainId": 42161,
-      "address": "0x37a645648df29205c6261289983fb04ecd70b4b3",
-      "name": "Animecoin",
-      "symbol": "ANIME",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/53575/thumb/anime.jpg?1736748703"
-    },
-    {
-      "chainId": 42161,
       "address": "0xf4acde4d938844751f34659c67056f7e69dbe85a",
       "name": "Clutch",
       "symbol": "CLUTCH",
@@ -464,11 +479,27 @@
     },
     {
       "chainId": 42161,
+      "address": "0x94fcd9c18f99538c0f7c61c5500ca79f0d5c4dab",
+      "name": "Kima Network",
+      "symbol": "KIMA",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/50764/thumb/K-logo-01.png?1729053099"
+    },
+    {
+      "chainId": 42161,
       "address": "0xad84746c961bc3142b0aefeb0a51a2880bbe4795",
       "name": "Dinari QQQ",
       "symbol": "QQQD",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/53957/thumb/d-token-200.png?1737790123"
+    },
+    {
+      "chainId": 42161,
+      "address": "0xd77b108d4f6cefaa0cae9506a934e825becca46e",
+      "name": "WINR Protocol",
+      "symbol": "WINR",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/29340/thumb/WINR.png?1696528290"
     },
     {
       "chainId": 42161,
@@ -648,14 +679,6 @@
     },
     {
       "chainId": 42161,
-      "address": "0xbfbcfe8873fe28dfa25f1099282b088d52bbad9c",
-      "name": "Equilibria Finance",
-      "symbol": "EQB",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/30645/thumb/QLLK8pmR_400x400.jpg?1696529516"
-    },
-    {
-      "chainId": 42161,
       "address": "0xaaa6c1e32c55a7bfa8066a6fae9b42650f262418",
       "name": "Ramses Exchange",
       "symbol": "RAM",
@@ -712,6 +735,14 @@
     },
     {
       "chainId": 42161,
+      "address": "0x2297aebd383787a160dd0d9f71508148769342e3",
+      "name": "Avalanche Bridged BTC  Arbitrum One ",
+      "symbol": "BTCB",
+      "decimals": 8,
+      "logoURI": "https://assets.coingecko.com/coins/images/51135/thumb/avalanche-core.png?1730195092"
+    },
+    {
+      "chainId": 42161,
       "address": "0x463913d3a3d3d291667d53b8325c598eb88d3b0e",
       "name": "SolidLizard",
       "symbol": "SLIZ",
@@ -749,14 +780,6 @@
       "symbol": "ANT",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/54388/thumb/Autonomi_Icon_Coin_200x200.png?1740037316"
-    },
-    {
-      "chainId": 42161,
-      "address": "0x625e7708f30ca75bfd92586e17077590c60eb4cd",
-      "name": "Aave v3 USDC e",
-      "symbol": "AUSDCE",
-      "decimals": 6,
-      "logoURI": "https://assets.coingecko.com/coins/images/32911/thumb/usdc.png?1699824302"
     },
     {
       "chainId": 42161,
@@ -837,14 +860,6 @@
       "symbol": "SPWOD",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/54394/thumb/d-token-200.png?1739485782"
-    },
-    {
-      "chainId": 42161,
-      "address": "0xe3b3fe7bca19ca77ad877a5bebab186becfad906",
-      "name": "Staked FRAX",
-      "symbol": "SFRAX",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/35383/thumb/sfrax-logo.png?1739780377"
     },
     {
       "chainId": 42161,
@@ -968,14 +983,6 @@
     },
     {
       "chainId": 42161,
-      "address": "0x09e18590e8f76b6cf471b3cd75fe1a1a9d2b2c2b",
-      "name": "ArbDoge AI",
-      "symbol": "AIDOGE",
-      "decimals": 6,
-      "logoURI": "https://assets.coingecko.com/coins/images/29852/thumb/photo_2023-04-18_14-25-28.jpg?1696528778"
-    },
-    {
-      "chainId": 42161,
       "address": "0x10393c20975cf177a3513071bc110f7962cd67da",
       "name": "Jones DAO",
       "symbol": "JONES",
@@ -1005,6 +1012,14 @@
       "symbol": "CHR",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/29622/thumb/chronos_icono-01.png?1696528558"
+    },
+    {
+      "chainId": 42161,
+      "address": "0x09e18590e8f76b6cf471b3cd75fe1a1a9d2b2c2b",
+      "name": "ArbDoge AI",
+      "symbol": "AIDOGE",
+      "decimals": 6,
+      "logoURI": "https://assets.coingecko.com/coins/images/29852/thumb/photo_2023-04-18_14-25-28.jpg?1696528778"
     },
     {
       "chainId": 42161,
@@ -1181,6 +1196,14 @@
       "symbol": "SSDX",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/52469/thumb/spunkysdx.png?1733412208"
+    },
+    {
+      "chainId": 42161,
+      "address": "0x912ce59144191c1204e64559fe8253a0e49e6548",
+      "name": "Arbitrum",
+      "symbol": "ARB",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/16547/thumb/arb.jpg?1721358242"
     },
     {
       "chainId": 42161,
@@ -1528,14 +1551,6 @@
     },
     {
       "chainId": 42161,
-      "address": "0x3082cc23568ea640225c2467653db90e9250aaa0",
-      "name": "Radiant Capital",
-      "symbol": "RDNT",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/26536/thumb/Radiant-Logo-200x200.png?1696525610"
-    },
-    {
-      "chainId": 42161,
       "address": "0xd17aff8fcf7698aabfb5f8be90aa2692774fa810",
       "name": "Dinari COST",
       "symbol": "COSTD",
@@ -1608,19 +1623,19 @@
     },
     {
       "chainId": 42161,
-      "address": "0xd77b108d4f6cefaa0cae9506a934e825becca46e",
-      "name": "WINR Protocol",
-      "symbol": "WINR",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/29340/thumb/WINR.png?1696528290"
-    },
-    {
-      "chainId": 42161,
       "address": "0x3096e7bfd0878cc65be71f8899bc4cfb57187ba3",
       "name": "Xend Finance",
       "symbol": "RWA",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/14496/thumb/WeChat_Image_20210325163206.png?1696514181"
+    },
+    {
+      "chainId": 42161,
+      "address": "0x625e7708f30ca75bfd92586e17077590c60eb4cd",
+      "name": "Aave v3 USDC e",
+      "symbol": "AUSDCE",
+      "decimals": 6,
+      "logoURI": "https://assets.coingecko.com/coins/images/32911/thumb/usdc.png?1699824302"
     },
     {
       "chainId": 42161,
@@ -1797,21 +1812,6 @@
       "symbol": "JPMD",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/54184/thumb/d-token-200.png?1738682276"
-    },
-    {
-      "chainId": 42161,
-      "address": "0xfd086bc7cd5c481dcc9c85ebe478a1c0b69fcbb9",
-      "name": "Arbitrum Bridged USDT  Arbitrum ",
-      "symbol": "USDT",
-      "decimals": 6,
-      "logoURI": "https://assets.coingecko.com/coins/images/35073/thumb/logo.png?1707292836"
-    },
-    {
-      "chainId": 42161,
-      "address": "0x32df62dc3aed2cd6224193052ce665dc18165841",
-      "name": "Balancer 80 RDNT 20 WETH",
-      "symbol": "DLP",
-      "decimals": 18
     },
     {
       "chainId": 42161,
