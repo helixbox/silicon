@@ -7770,14 +7770,6 @@
     }
   },
   {
-    "id": "arbitrum-bridged-usdt-arbitrum",
-    "symbol": "usdt",
-    "name": "Arbitrum Bridged USDT (Arbitrum)",
-    "platforms": {
-      "arbitrum-one": "0xfd086bc7cd5c481dcc9c85ebe478a1c0b69fcbb9"
-    }
-  },
-  {
     "id": "arbitrum-bridged-wbtc-arbitrum-one",
     "symbol": "wbtc",
     "name": "Arbitrum Bridged WBTC (Arbitrum One)",
@@ -23196,6 +23188,14 @@
     "name": "Calvin in the Cabal",
     "platforms": {
       "solana": "229vWzBTiUNdraYpVtSH9usTwwVxcyPDbBWf1zEPpump"
+    }
+  },
+  {
+    "id": "camel",
+    "symbol": "camel",
+    "name": "CAMEL",
+    "platforms": {
+      "binance-smart-chain": "0x59fbd938047ed48707c71f886bf053ce18c377f8"
     }
   },
   {
@@ -71524,9 +71524,7 @@
     "id": "lorenzo-wrapped-bitcoin",
     "symbol": "enzobtc",
     "name": "Lorenzo Wrapped Bitcoin",
-    "platforms": {
-      "binance-smart-chain": "0x6a9a65b84843f5fd4ac9a0471c4fc11afffbce4a"
-    }
+    "platforms": {}
   },
   {
     "id": "lormhole",
@@ -91003,9 +91001,7 @@
     "id": "particle-network",
     "symbol": "parti",
     "name": "Particle Network",
-    "platforms": {
-      "binance-smart-chain": "0x59264f02d301281f3393e1385c0aefd446eb0f00"
-    }
+    "platforms": {}
   },
   {
     "id": "particles-money",
@@ -127071,7 +127067,8 @@
     "name": "USDT0",
     "platforms": {
       "ink": "0x0200c29006150606b650577bbe7b6248f58470c1",
-      "berachain": "0x779ded0c9e1022225f8e0630b35a9b54be713736"
+      "berachain": "0x779ded0c9e1022225f8e0630b35a9b54be713736",
+      "arbitrum-one": "0xfd086bc7cd5c481dcc9c85ebe478a1c0b69fcbb9"
     }
   },
   {
@@ -127590,6 +127587,14 @@
     "name": "Vanity",
     "platforms": {
       "binance-smart-chain": "0xabc69f2025bdb12efcdb8fd048d240fff943ca82"
+    }
+  },
+  {
+    "id": "vankedisi",
+    "symbol": "vankedisi",
+    "name": "vankedisi",
+    "platforms": {
+      "solana": "66bHtzcXqmLgkn668EG4ETzHL3RLz5ybdckqvrPppump"
     }
   },
   {
