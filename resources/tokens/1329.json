@@ -4,16 +4,8 @@
   "keywords": [
     "defi"
   ],
-  "timestamp": "2025-03-25T08:00:37.181+00:00",
+  "timestamp": "2025-03-26T06:00:41.074+00:00",
   "tokens": [
-    {
-      "chainId": 1329,
-      "address": "0xe30fedd158a2e3b13e9badaeabafc5516e95e8c7",
-      "name": "Wrapped SEI",
-      "symbol": "WSEI",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/38470/thumb/sei.png?1717644025"
-    },
     {
       "chainId": 1329,
       "address": "0x049eaa1b2c9934aaacc12a141484eefd62867653",
@@ -24,19 +16,27 @@
     },
     {
       "chainId": 1329,
-      "address": "0xdd7d5e4ea2125d43c16eed8f1ffefffa2f4b4af6",
-      "name": "Jellyverse",
-      "symbol": "JLY",
+      "address": "0xe30fedd158a2e3b13e9badaeabafc5516e95e8c7",
+      "name": "Wrapped SEI",
+      "symbol": "WSEI",
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/31805/thumb/short.png?1719199901"
+      "logoURI": "https://assets.coingecko.com/coins/images/38470/thumb/sei.png?1717644025"
     },
     {
       "chainId": 1329,
-      "address": "0x37a4dd9ced2b19cfe8fac251cd727b5787e45269",
-      "name": "Sei fastUSD",
-      "symbol": "FASTUSD",
+      "address": "0xc18b6a15fb0ceaf5eb18696eefcb5bc7b9107149",
+      "name": "Popo The Cat",
+      "symbol": "POPO",
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/50766/thumb/2024-10-16_14.54.03.jpg?1729120051"
+      "logoURI": "https://assets.coingecko.com/coins/images/39686/thumb/8a872ee5-dfc6-4139-a157-9cdcbbeb2f59.jpeg?1723658023"
+    },
+    {
+      "chainId": 1329,
+      "address": "0x0555e30da8f98308edb960aa94c0db47230d2b9c",
+      "name": "Sei Bridged WBTC  Sei ",
+      "symbol": "",
+      "decimals": 8,
+      "logoURI": "https://assets.coingecko.com/coins/images/54960/thumb/wbtc.jpg?1742887259"
     },
     {
       "chainId": 1329,
@@ -72,11 +72,11 @@
     },
     {
       "chainId": 1329,
-      "address": "0xc18b6a15fb0ceaf5eb18696eefcb5bc7b9107149",
-      "name": "Popo The Cat",
-      "symbol": "POPO",
+      "address": "0x37a4dd9ced2b19cfe8fac251cd727b5787e45269",
+      "name": "Sei fastUSD",
+      "symbol": "FASTUSD",
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/39686/thumb/8a872ee5-dfc6-4139-a157-9cdcbbeb2f59.jpeg?1723658023"
+      "logoURI": "https://assets.coingecko.com/coins/images/50766/thumb/2024-10-16_14.54.03.jpg?1729120051"
     },
     {
       "chainId": 1329,
@@ -88,6 +88,22 @@
     },
     {
       "chainId": 1329,
+      "address": "0x805679729df385815c57c24b20f4161bd34b655f",
+      "name": "Fishwar",
+      "symbol": "FISHW",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/54843/thumb/logo_fishwar_no_bg200x200.png?1742019218"
+    },
+    {
+      "chainId": 1329,
+      "address": "0x51121bcae92e302f19d06c193c95e1f7b81a444b",
+      "name": "YAKA",
+      "symbol": "YAKA",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/50889/thumb/IMG_6242.png?1741333572"
+    },
+    {
+      "chainId": 1329,
       "address": "0x5cf6826140c1c56ff49c808a1a75407cd1df9423",
       "name": "Silo Staked SEI",
       "symbol": "ISEI",
@@ -96,11 +112,11 @@
     },
     {
       "chainId": 1329,
-      "address": "0x0555e30da8f98308edb960aa94c0db47230d2b9c",
-      "name": "Sei Bridged WBTC  Sei ",
-      "symbol": "",
-      "decimals": 8,
-      "logoURI": "https://assets.coingecko.com/coins/images/54960/thumb/wbtc.jpg?1742887259"
+      "address": "0xdd7d5e4ea2125d43c16eed8f1ffefffa2f4b4af6",
+      "name": "Jellyverse",
+      "symbol": "JLY",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/31805/thumb/short.png?1719199901"
     },
     {
       "chainId": 1329,
@@ -205,11 +221,19 @@
       "symbol": "STSEI",
       "decimals": 6,
       "logoURI": "https://assets.coingecko.com/coins/images/34891/thumb/STSEI.jpg?1706547607"
+    },
+    {
+      "chainId": 1329,
+      "address": "0x80137510979822322193fc997d400d5a6c747bf7",
+      "name": "StakeStone ETH",
+      "symbol": "STONE",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/33103/thumb/200_200.png?1702602672"
     }
   ],
   "version": {
     "major": 3,
-    "minor": 2,
+    "minor": 3,
     "patch": 0
   }
 }

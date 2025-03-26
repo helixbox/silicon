@@ -29075,7 +29075,6 @@
     "symbol": "cook",
     "name": "Cook",
     "platforms": {
-      "sei-network": "sei1pvz89hltquwe6qdhnqwmxxvasayzn4dctkwehes2zt888c7syffszt3j56",
       "sei-v2": "0x69e48ce9cf965acc1de2ad5ad2fdbc3bdb51509b"
     }
   },
@@ -46763,7 +46762,7 @@
     "symbol": "fishw",
     "name": "Fishwar",
     "platforms": {
-      "sei-network": "0x805679729df385815c57c24b20f4161bd34b655f"
+      "sei-v2": "0x805679729df385815c57c24b20f4161bd34b655f"
     }
   },
   {
@@ -62672,8 +62671,7 @@
     "symbol": "jly",
     "name": "Jellyverse",
     "platforms": {
-      "sei-v2": "0xdd7d5e4ea2125d43c16eed8f1ffefffa2f4b4af6",
-      "sei-network": "sei19jwyc77ccfmm5p0tq7vvxk9dwks8n88dl5fq6ymlnjp44547t53qvpyfmc"
+      "sei-v2": "sei19jwyc77ccfmm5p0tq7vvxk9dwks8n88dl5fq6ymlnjp44547t53qvpyfmc"
     }
   },
   {
@@ -66866,9 +66864,8 @@
     "symbol": "seilor",
     "name": "Kryptonite",
     "platforms": {
-      "sei-network": "sei10knxlv9e54z0xcywdhtycc63uf970aefeec73ycqwd75ep9nu45sh66m6a",
-      "base": "0x9bde70bad05b7d84dac03024dae15aace8c9cca2",
       "sei-v2": "0x89aec21572f6637ccbd0d66861aaac46dd775ed1",
+      "base": "0x9bde70bad05b7d84dac03024dae15aace8c9cca2",
       "binance-smart-chain": "0x518960f5d12eb192f89a73c2ae9b2bd369c73d40"
     }
   },
@@ -66877,7 +66874,6 @@
     "symbol": "stsei",
     "name": "Kryptonite Staked SEI",
     "platforms": {
-      "sei-network": "sei1ln7ntsqmxl8s502f83km9a475zyhcfhpj7v2fsm3pcmckdyys3tsktx9vk",
       "sei-v2": "0xe5085112160ff75ee89a540cdba570eafdaf7f57"
     }
   },
@@ -68343,6 +68339,14 @@
     "name": "LayerZero Bridged WBTC (Aptos)",
     "platforms": {
       "aptos": "0XF22BEDE237A07E121B56D91A491EB7BCDFD1F5907926A9E58338F964A01B17FA::ASSET::WBTC"
+    }
+  },
+  {
+    "id": "layerzero-bridged-wbtc-soneium",
+    "symbol": "wbtc",
+    "name": "LayerZero Bridged WBTC (Soneium)",
+    "platforms": {
+      "soneium": "0x0555e30da8f98308edb960aa94c0db47230d2b9c"
     }
   },
   {
@@ -78177,7 +78181,6 @@
     "symbol": "milli",
     "name": "MILLI",
     "platforms": {
-      "sei-network": "sei170949pwl4h36neazkwmdgtrh6nuenh66462n34839e23e8he3pqsnm5r2v",
       "sei-v2": "0x95597eb8d227a7c4b4f5e807a815c5178ee6dbe1"
     }
   },
@@ -96100,8 +96103,7 @@
     "symbol": "popo",
     "name": "Popo The Cat",
     "platforms": {
-      "sei-v2": "0xc18b6a15fb0ceaf5eb18696eefcb5bc7b9107149",
-      "sei-network": "sei1tk6k2zl793rn32fk6vlptsm8fhgk8mdw6kmk5z0f2kmdgfj3zknsalzwmn"
+      "sei-v2": "sei1tk6k2zl793rn32fk6vlptsm8fhgk8mdw6kmk5z0f2kmdgfj3zknsalzwmn"
     }
   },
   {
@@ -104549,8 +104551,7 @@
     "symbol": "sake",
     "name": "Sake Inu",
     "platforms": {
-      "sei-v2": "0xe85dc0cceca105755753fef452c091def5324138",
-      "sei-network": "sei1apwupn8v5yzh246nlm699sy3mm6nysfcqtgzun"
+      "sei-v2": "sei1apwupn8v5yzh246nlm699sy3mm6nysfcqtgzun"
     }
   },
   {
@@ -106314,7 +106315,6 @@
     "symbol": "spex",
     "name": "Seipex Credits",
     "platforms": {
-      "sei-network": "sei1g3d4402zhnvwhkfkr0fnjaqajn3jqvv49vprgqymg4htg5zs2v5qu6wqmt",
       "sei-v2": "0x3a0a7a3ca25c17d15e8d51332fb25bfea274d107"
     }
   },
@@ -106335,8 +106335,7 @@
     "symbol": "seiyan",
     "name": "SEIYAN",
     "platforms": {
-      "sei-v2": "0x5f0e07dfee5832faa00c63f2d33a0d79150e8598",
-      "sei-network": "sei1hrndqntlvtmx2kepr0zsfgr7nzjptcc72cr4ppk4yav58vvy7v3s4er8ed"
+      "sei-v2": "sei1hrndqntlvtmx2kepr0zsfgr7nzjptcc72cr4ppk4yav58vvy7v3s4er8ed"
     }
   },
   {
@@ -108629,8 +108628,7 @@
     "symbol": "isei",
     "name": "Silo Staked SEI",
     "platforms": {
-      "sei-v2": "0x5cf6826140c1c56ff49c808a1a75407cd1df9423",
-      "sei-network": "factory/sei1e3gttzq5e5k49f9f5gzvrl0rltlav65xu6p9xc0aj7e84lantdjqp7cncc/isei"
+      "sei-v2": "factory/sei1e3gttzq5e5k49f9f5gzvrl0rltlav65xu6p9xc0aj7e84lantdjqp7cncc/isei"
     }
   },
   {
@@ -114148,7 +114146,6 @@
       "sei-v2": "0x5bff88ca1442c2496f7e475e9e7786383bc070c0",
       "mode": "0x5bff88ca1442c2496f7e475e9e7786383bc070c0",
       "x-layer": "0x5bff88ca1442c2496f7e475e9e7786383bc070c0",
-      "sei-network": "0x5bff88ca1442c2496f7e475e9e7786383bc070c0",
       "sonic": "0x5bff88ca1442c2496f7e475e9e7786383bc070c0",
       "arbitrum-one": "0x5bff88ca1442c2496f7e475e9e7786383bc070c0"
     }
@@ -114358,11 +114355,11 @@
       "zircuit": "0x80137510979822322193fc997d400d5a6c747bf7",
       "x-layer": "0x80137510979822322193fc997d400d5a6c747bf7`",
       "aptos": "0x543c5660aa4d496687e2068c11765f04607c4f4b639a83233a9333604fb8ce59",
+      "sei-v2": "0x80137510979822322193fc997d400d5a6c747bf7",
       "mantle": "0x2fde62942759d7c0aaf25952da4098423bc1264c",
       "metis-andromeda": "0x80137510979822322193fc997d400d5a6c747bf7",
       "optimistic-ethereum": "0x80137510979822322193fc997d400d5a6c747bf7",
       "meter": "0x0978c36bcaa1887ad0335e76e184290baa6731d0",
-      "sei-network": "0x80137510979822322193fc997d400d5a6c747bf7",
       "merlin-chain": "0xb5d8b1e73c79483d7750c5b8df8db45a0d24e2cf",
       "mode": "0x80137510979822322193fc997d400d5a6c747bf7",
       "binance-smart-chain": "0x80137510979822322193fc997d400d5a6c747bf7",
@@ -137234,7 +137231,7 @@
     "symbol": "yaka",
     "name": "YAKA",
     "platforms": {
-      "sei-network": "0x51121bcae92e302f19d06c193c95e1f7b81a444b"
+      "sei-v2": "0x51121bcae92e302f19d06c193c95e1f7b81a444b"
     }
   },
   {
