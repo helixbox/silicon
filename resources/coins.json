@@ -3043,15 +3043,6 @@
     }
   },
   {
-    "id": "afin-coin",
-    "symbol": "afin",
-    "name": "Asian Fintech",
-    "platforms": {
-      "ethereum": "0xee9e5eff401ee921b138490d00ca8d1f13f67a72",
-      "binance-smart-chain": "0xb955b4cab9aa3b49e23aeb5204ebc5ff6678e86d"
-    }
-  },
-  {
     "id": "afreum",
     "symbol": "afr",
     "name": "Afreum",
@@ -6200,7 +6191,9 @@
     "id": "ami",
     "symbol": "ami",
     "name": "Amnis Finance",
-    "platforms": {}
+    "platforms": {
+      "aptos": "0xb36527754eb54d7ff55daf13bcb54b42b88ec484bd6f0e3b2e0d1db169de6451"
+    }
   },
   {
     "id": "amino",
@@ -7891,14 +7884,6 @@
     }
   },
   {
-    "id": "arcadefi",
-    "symbol": "arcade",
-    "name": "ArcadeFi",
-    "platforms": {
-      "ethereum": "0x01194726b1b55bbf99cb083ba8e5dcc0834adbc3"
-    }
-  },
-  {
     "id": "arcade-protocol",
     "symbol": "arcd",
     "name": "Arcade",
@@ -8458,7 +8443,7 @@
     "symbol": "army",
     "name": "XRP ARMY",
     "platforms": {
-      "xrp": "rGG3wQ4kUzd7Jnmk1n5NWPZjjut62kCBfC"
+      "xrp": "41524D5900000000000000000000000000000000.rGG3wQ4kUzd7Jnmk1n5NWPZjjut62kCBfC"
     }
   },
   {
@@ -14890,14 +14875,6 @@
     "name": "B.H.A.D",
     "platforms": {
       "solana": "57Wdx3uikKcAt2w8F9GMwgGeEvkaU6pXacYScW1hpump"
-    }
-  },
-  {
-    "id": "bhive",
-    "symbol": "bhive",
-    "name": "bHIVE",
-    "platforms": {
-      "binance-smart-chain": "0x9faf07d1fbc130d698e227e50d1fb72657c0a342"
     }
   },
   {
@@ -42062,14 +42039,6 @@
     }
   },
   {
-    "id": "elephantpepe",
-    "symbol": "elepepe",
-    "name": "ElephantPepe",
-    "platforms": {
-      "base": "0xbac48abfd032a30cabba33e393616576462976af"
-    }
-  },
-  {
     "id": "elexium",
     "symbol": "ex",
     "name": "Elexium",
@@ -42232,14 +42201,6 @@
     "name": "Elmo",
     "platforms": {
       "ethereum": "0x335f4e66b9b61cee5ceade4e727fcec20156b2f0"
-    }
-  },
-  {
-    "id": "eloin",
-    "symbol": "eloin",
-    "name": "Eloin",
-    "platforms": {
-      "binance-smart-chain": "0x9d4282b4b6dc457f44f15e39ebffd4621c6df246"
     }
   },
   {
@@ -52346,14 +52307,6 @@
     "platforms": {}
   },
   {
-    "id": "glow-token-8fba1e9e-5643-47b4-8fef-d0eef67af854",
-    "symbol": "glow",
-    "name": "Glow Token",
-    "platforms": {
-      "binance-smart-chain": "0x606379220ab266bbe4b0fef8469e6e602f295a84"
-    }
-  },
-  {
     "id": "glp1",
     "symbol": "glp1",
     "name": "GLP1",
@@ -60283,14 +60236,6 @@
     }
   },
   {
-    "id": "infinimos",
-    "symbol": "infi",
-    "name": "Infinimos",
-    "platforms": {
-      "juno": "juno1ka25dlw9mupd47yla7wtfu446wtc6gtgzeq6sag8svncvwdfz9gs9n8tc0"
-    }
-  },
-  {
     "id": "infinitar-coin",
     "symbol": "inf",
     "name": "INFinitar Coin",
@@ -60914,14 +60859,6 @@
     "name": "Intellix",
     "platforms": {
       "ethereum": "0x23d894fb4a0f551f2f923fc85e09819d1f3894b2"
-    }
-  },
-  {
-    "id": "intelly",
-    "symbol": "intl",
-    "name": "Intelly",
-    "platforms": {
-      "binance-smart-chain": "0xe2efe9d38e21293347018914ee1d23913ecb811c"
     }
   },
   {
@@ -69787,14 +69724,6 @@
     "name": "LIMITLESS",
     "platforms": {
       "solana": "44o1iDPGuzHxQgDrPE3HRb2WXwGLsBsY7yMttX47pump"
-    }
-  },
-  {
-    "id": "limitless-network",
-    "symbol": "lnt",
-    "name": "Limitless Network",
-    "platforms": {
-      "binance-smart-chain": "0xc13cbf50370e5eae6f5dd9d8a1015007f34c4ead"
     }
   },
   {
@@ -86628,6 +86557,14 @@
     "platforms": {}
   },
   {
+    "id": "oasys-bridged-usdc-oasys",
+    "symbol": "usdc.e",
+    "name": "Celer Bridged USDC (Oasys)",
+    "platforms": {
+      "oasys": "0x4d17c0609b77e456fb98ea99a62bcef09adae32d"
+    }
+  },
+  {
     "id": "oath",
     "symbol": "oath",
     "name": "OATH",
@@ -92532,15 +92469,6 @@
     "name": "Pepe Undead",
     "platforms": {
       "solana": "HgackCATyfKcosD652W3y42p5smLrydGMjGF2wSJLkDe"
-    }
-  },
-  {
-    "id": "pepe-uwu",
-    "symbol": "cute",
-    "name": "PEPE UWU",
-    "platforms": {
-      "solana": "6zmrmNUGdRwrqcchshVkBgAyLhLwZ7QvJRQiKktqVQLV",
-      "ethereum": "0x2cb5d9fd89d48c516f11904117c57e3934f39524"
     }
   },
   {
@@ -99042,14 +98970,6 @@
     }
   },
   {
-    "id": "quby-ai",
-    "symbol": "qyai",
-    "name": "QUBY AI",
-    "platforms": {
-      "solana": "A6jb9PSPxhmy4hegFV2eSTk3WeVsnYVRxWTpMWKmUe21"
-    }
-  },
-  {
     "id": "qudeai-framework",
     "symbol": "qude",
     "name": "QudeAI Framework",
@@ -99911,14 +99831,6 @@
     "name": "RankerDao",
     "platforms": {
       "ethereum": "0x6431fa4b812a2dcc062a38cb55cc7d18135adead"
-    }
-  },
-  {
-    "id": "rapcat",
-    "symbol": "$rapcat",
-    "name": "RapCat",
-    "platforms": {
-      "solana": "BmBbWGWgiLgHLzVCy47PkQo9E1hMPTwoKb6hETVnpuN3"
     }
   },
   {
@@ -102048,14 +101960,6 @@
     "name": "RHO",
     "platforms": {
       "solana": "Trhor7npQLca4DFiUWR9vJCAw1je2zghSbwh37nW81i"
-    }
-  },
-  {
-    "id": "rho-token",
-    "symbol": "rho",
-    "name": "Rho",
-    "platforms": {
-      "ethereum": "0x3f3cd642e81d030d7b514a2ab5e3a5536beb90ec"
     }
   },
   {
@@ -111713,12 +111617,6 @@
     }
   },
   {
-    "id": "somps",
-    "symbol": "somps",
-    "name": "SOMPS",
-    "platforms": {}
-  },
-  {
     "id": "so-much-higher",
     "symbol": "smh",
     "name": "So Much Higher",
@@ -115486,6 +115384,7 @@
     "name": "Stobox",
     "platforms": {
       "ethereum": "0xa6422e3e219ee6d4c1b18895275fe43556fd50ed",
+      "arbitrum-one": "0x1cb9bd2c6e7f4a7de3778547d46c8d4c22abc093",
       "binance-smart-chain": "0xb0c4080a8fa7afa11a09473f3be14d44af3f8743",
       "polygon-pos": "0xcf403036bc139d30080d2cf0f5b48066f98191bb"
     }
@@ -115726,7 +115625,8 @@
     "symbol": "stpt",
     "name": "STP",
     "platforms": {
-      "ethereum": "0xde7d85157d9714eadf595045cc12ca4a5f3e2adb"
+      "ethereum": "0xde7d85157d9714eadf595045cc12ca4a5f3e2adb",
+      "base": "0x4489d0a0345ecb216a3994de780d453c7fa6312c"
     }
   },
   {
@@ -121360,14 +121260,6 @@
     "name": "Thing",
     "platforms": {
       "binance-smart-chain": "0xdc8c498cfc915dba55f0524fa9f5e57288110ab9"
-    }
-  },
-  {
-    "id": "this-is-fine",
-    "symbol": "fine",
-    "name": "This is Fine",
-    "platforms": {
-      "binance-smart-chain": "0x3b95702dd0ce375462f131f805f9ee6e1563f8d5"
     }
   },
   {
@@ -129081,14 +128973,6 @@
     }
   },
   {
-    "id": "virtucloud",
-    "symbol": "virtu",
-    "name": "Virtucloud",
-    "platforms": {
-      "ethereum": "0x102dc1840f0c3c179670f21fa63597e82df34e60"
-    }
-  },
-  {
     "id": "virtue-poker",
     "symbol": "vpp",
     "name": "Virtue Poker Points",
@@ -131914,14 +131798,6 @@
     "name": "Winerz",
     "platforms": {
       "solana": "WNZzxM1WqWFH8DpDZSqr6EoHKWXeMx9NLLd2R5RzGPA"
-    }
-  },
-  {
-    "id": "wine-shares",
-    "symbol": "wine",
-    "name": "Wine Shares",
-    "platforms": {
-      "avalanche": "0xc55036b5348cfb45a932481744645985010d3a44"
     }
   },
   {

@@ -4,7 +4,7 @@
   "keywords": [
     "defi"
   ],
-  "timestamp": "2025-02-17T10:00:08.206+00:00",
+  "timestamp": "2025-03-26T08:00:06.825+00:00",
   "tokens": [
     {
       "chainId": 1666600000,
@@ -16,6 +16,22 @@
     },
     {
       "chainId": 1666600000,
+      "address": "0x985458e523db3d53125813ed68c274899e9dfab4",
+      "name": "Harmony Horizen Bridged USDC  Harmony ",
+      "symbol": "USDC",
+      "decimals": 6,
+      "logoURI": "https://assets.coingecko.com/coins/images/35224/thumb/USDC.jpg?1707920252"
+    },
+    {
+      "chainId": 1666600000,
+      "address": "0x0159ed2e06ddcd46a25e74eb8e159ce666b28687",
+      "name": "FoxSwap",
+      "symbol": "FOX",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/18792/thumb/FOX-Logo.png?1696518254"
+    },
+    {
+      "chainId": 1666600000,
       "address": "0xb914e7a183abcd46300584da828f62a39516f33b",
       "name": "Speed Star STAR",
       "symbol": "STAR",
@@ -24,19 +40,11 @@
     },
     {
       "chainId": 1666600000,
-      "address": "0xef977d2f931c1978db5f6747666fa1eacb0d0339",
-      "name": "Harmony Horizon Bridged DAI  Harmony Sh",
-      "symbol": "DAI",
+      "address": "0x2a719af848bf365489e548be5edbec1d65858e59",
+      "name": "FIRA",
+      "symbol": "FIRA",
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/39789/thumb/dai.png?1724111370"
-    },
-    {
-      "chainId": 1666600000,
-      "address": "0x673d2ec54e0a6580fc7e098295b70e3ce0350d03",
-      "name": "Bridged WBNB",
-      "symbol": "WBNB",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/53070/thumb/wrapped_bnb.png?1735264554"
+      "logoURI": "https://assets.coingecko.com/coins/images/23983/thumb/fira.png?1696523178"
     },
     {
       "chainId": 1666600000,
@@ -44,22 +52,6 @@
       "name": "Harmony Horizen Bridged BUSD  Harmony ",
       "symbol": "BUSD",
       "decimals": 18
-    },
-    {
-      "chainId": 1666600000,
-      "address": "0x6983d1e6def3690c4d616b13597a09e6193ea013",
-      "name": "Harmony Horizon Bridged cETH  Harmony S",
-      "symbol": "1ETH",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/39710/thumb/WETH.PNG?1723730735"
-    },
-    {
-      "chainId": 1666600000,
-      "address": "0x09e6e20ff399c2134c14232e172ce8ba2b03017e",
-      "name": "Kilopi",
-      "symbol": "LOP",
-      "decimals": 6,
-      "logoURI": "https://assets.coingecko.com/coins/images/29496/thumb/logo_kilopi_200sq.png?1696528442"
     },
     {
       "chainId": 1666600000,
@@ -71,11 +63,59 @@
     },
     {
       "chainId": 1666600000,
-      "address": "0x22fb638a010e922d53fd2671a598a3334c228b62",
-      "name": "Speed Star JOC",
-      "symbol": "JOC",
+      "address": "0xef977d2f931c1978db5f6747666fa1eacb0d0339",
+      "name": "Harmony Horizon Bridged DAI  Harmony Sh",
+      "symbol": "DAI",
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/24883/thumb/f2zOnAa4_400x400.jpg?1696524042"
+      "logoURI": "https://assets.coingecko.com/coins/images/39789/thumb/dai.png?1724111370"
+    },
+    {
+      "chainId": 1666600000,
+      "address": "0xd74433b187cf0ba998ad9be3486b929c76815215",
+      "name": "Artemis",
+      "symbol": "MIS",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/18916/thumb/136704691-920ef315-4906-4a82-bca1-144b07dea3fb.png?1696518373"
+    },
+    {
+      "chainId": 1666600000,
+      "address": "0xb55106308974cebe299a0f0505435c47b404b9a6",
+      "name": "ParadiseFi",
+      "symbol": "EDEN",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/19404/thumb/paradisefi.PNG?1696518844"
+    },
+    {
+      "chainId": 1666600000,
+      "address": "0x6983d1e6def3690c4d616b13597a09e6193ea013",
+      "name": "Harmony Horizon Bridged cETH  Harmony S",
+      "symbol": "1ETH",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/39710/thumb/WETH.PNG?1723730735"
+    },
+    {
+      "chainId": 1666600000,
+      "address": "0x673d2ec54e0a6580fc7e098295b70e3ce0350d03",
+      "name": "Bridged WBNB",
+      "symbol": "WBNB",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/53070/thumb/wrapped_bnb.png?1735264554"
+    },
+    {
+      "chainId": 1666600000,
+      "address": "0xfe1b516a7297eb03229a8b5afad80703911e81cb",
+      "name": "Crypto Royale",
+      "symbol": "ROY",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/20668/thumb/ROY_logo_new_design_small.png?1696520069"
+    },
+    {
+      "chainId": 1666600000,
+      "address": "0x8d760497554eecc3b9036fb0364156ef2f0d02bc",
+      "name": "HolyGrail",
+      "symbol": "HLY",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/23416/thumb/holygrail.PNG?1696522629"
     },
     {
       "chainId": 1666600000,
@@ -95,27 +135,11 @@
     },
     {
       "chainId": 1666600000,
-      "address": "0x2a719af848bf365489e548be5edbec1d65858e59",
-      "name": "FIRA",
-      "symbol": "FIRA",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/23983/thumb/fira.png?1696523178"
-    },
-    {
-      "chainId": 1666600000,
-      "address": "0x985458e523db3d53125813ed68c274899e9dfab4",
-      "name": "Harmony Horizen Bridged USDC  Harmony ",
-      "symbol": "USDC",
+      "address": "0x09e6e20ff399c2134c14232e172ce8ba2b03017e",
+      "name": "Kilopi",
+      "symbol": "LOP",
       "decimals": 6,
-      "logoURI": "https://assets.coingecko.com/coins/images/35224/thumb/USDC.jpg?1707920252"
-    },
-    {
-      "chainId": 1666600000,
-      "address": "0xfe1b516a7297eb03229a8b5afad80703911e81cb",
-      "name": "Crypto Royale",
-      "symbol": "ROY",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/20668/thumb/ROY_logo_new_design_small.png?1696520069"
+      "logoURI": "https://assets.coingecko.com/coins/images/29496/thumb/logo_kilopi_200sq.png?1696528442"
     },
     {
       "chainId": 1666600000,
@@ -127,11 +151,11 @@
     },
     {
       "chainId": 1666600000,
-      "address": "0xb55106308974cebe299a0f0505435c47b404b9a6",
-      "name": "ParadiseFi",
-      "symbol": "EDEN",
+      "address": "0x22fb638a010e922d53fd2671a598a3334c228b62",
+      "name": "Speed Star JOC",
+      "symbol": "JOC",
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/19404/thumb/paradisefi.PNG?1696518844"
+      "logoURI": "https://assets.coingecko.com/coins/images/24883/thumb/f2zOnAa4_400x400.jpg?1696524042"
     },
     {
       "chainId": 1666600000,
@@ -140,30 +164,6 @@
       "symbol": "STONE",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/21848/thumb/7zRXwiV.png?1696521203"
-    },
-    {
-      "chainId": 1666600000,
-      "address": "0x8d760497554eecc3b9036fb0364156ef2f0d02bc",
-      "name": "HolyGrail",
-      "symbol": "HLY",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/23416/thumb/holygrail.PNG?1696522629"
-    },
-    {
-      "chainId": 1666600000,
-      "address": "0xd74433b187cf0ba998ad9be3486b929c76815215",
-      "name": "Artemis",
-      "symbol": "MIS",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/18916/thumb/136704691-920ef315-4906-4a82-bca1-144b07dea3fb.png?1696518373"
-    },
-    {
-      "chainId": 1666600000,
-      "address": "0x0159ed2e06ddcd46a25e74eb8e159ce666b28687",
-      "name": "FoxSwap",
-      "symbol": "FOX",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/18792/thumb/FOX-Logo.png?1696518254"
     },
     {
       "chainId": 1666600000,
@@ -443,7 +443,7 @@
       "name": "Solar",
       "symbol": "SXP",
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/9368/thumb/swipe.png?1696509466"
+      "logoURI": "https://assets.coingecko.com/coins/images/9368/thumb/Solar_Blockchain_Foundation_Sun_CG.png?1742975137"
     },
     {
       "chainId": 1666600000,
@@ -769,6 +769,6 @@
   "version": {
     "major": 14,
     "minor": 0,
-    "patch": 4
+    "patch": 5
   }
 }
