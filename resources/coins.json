@@ -23089,6 +23089,12 @@
     }
   },
   {
+    "id": "caldera",
+    "symbol": "era",
+    "name": "Caldera",
+    "platforms": {}
+  },
+  {
     "id": "calicoin-2",
     "symbol": "calico",
     "name": "Calicoin",
@@ -50115,6 +50121,14 @@
     }
   },
   {
+    "id": "gambly-io",
+    "symbol": "gmbly",
+    "name": "Gambly.io",
+    "platforms": {
+      "binance-smart-chain": "0x0348faf029abc241dc741e0bf8790b1d81d22bb3"
+    }
+  },
+  {
     "id": "game",
     "symbol": "gtc",
     "name": "Game",
@@ -63033,7 +63047,8 @@
     "symbol": "suede",
     "name": "Johnny Suede",
     "platforms": {
-      "solana": "2nCeHpECQvnMfzjU5fDMAKws1vBxMzxvWr6qqLpApump"
+      "solana": "2nCeHpECQvnMfzjU5fDMAKws1vBxMzxvWr6qqLpApump",
+      "base": "0x75161fa0afe6dfc768cff2b82ecd7ba51728b341"
     }
   },
   {
@@ -65167,6 +65182,14 @@
       "ki-chain": "",
       "cosmos": "ibc/B547DC9B897E7C3AA5B824696110B8E3D2C31E3ED3F02FF363DCBAD82457E07E",
       "osmosis": "ibc/B547DC9B897E7C3AA5B824696110B8E3D2C31E3ED3F02FF363DCBAD82457E07E"
+    }
+  },
+  {
+    "id": "kiatoken",
+    "symbol": "kia",
+    "name": "KIATOKEN",
+    "platforms": {
+      "polygon-pos": "0x1a3c7d6cb66299f769040e6d4cf0c1945f6a2f32"
     }
   },
   {
@@ -90181,6 +90204,15 @@
     }
   },
   {
+    "id": "pallapay",
+    "symbol": "palla",
+    "name": "Pallapay",
+    "platforms": {
+      "tron": "TCfLxS9xHxH8auBL3T8pf3NFTZhsxy4Ncg",
+      "binance-smart-chain": "0x8f49733210700d38098d7375c221c7d02f700cc8"
+    }
+  },
+  {
     "id": "palm-ai",
     "symbol": "palm",
     "name": "PaLM AI",
@@ -99819,7 +99851,8 @@
     "symbol": "rdx",
     "name": "RandomDEX",
     "platforms": {
-      "base": "0x2659631cfbe9b1b6dcbc1384a3864509356e7b4d"
+      "base": "0x2659631cfbe9b1b6dcbc1384a3864509356e7b4d",
+      "ethereum": "0xf222b0e892f419c35e61892cddf0a8ec190c4b9d"
     }
   },
   {
@@ -102028,6 +102061,14 @@
     "name": "RIBBIT",
     "platforms": {
       "solana": "65nTNuJGHme4PQvKQyJykKp1bJAkK4A8Q66sd2yBWugf"
+    }
+  },
+  {
+    "id": "ribbita-by-virtuals",
+    "symbol": "tibbir",
+    "name": "Ribbita by Virtuals",
+    "platforms": {
+      "base": "0xa4a2e2ca3fbfe21aed83471d28b6f65a233c6e00"
     }
   },
   {
@@ -117990,7 +118031,8 @@
     "symbol": "fiusd",
     "name": "Sygnum FIUSD Liquidity Fund",
     "platforms": {
-      "zksync": "0x2ab105a3ead22731082b790ca9a00d9a3a7627f9"
+      "zksync": "0x2ab105a3ead22731082b790ca9a00d9a3a7627f9",
+      "arbitrum-one": "0xcded6b899edba762d793f44ed295248049440e1e"
     }
   },
   {
