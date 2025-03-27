@@ -4,15 +4,15 @@
   "keywords": [
     "defi"
   ],
-  "timestamp": "2025-03-26T06:00:27.715+00:00",
+  "timestamp": "2025-03-27T08:00:26.467+00:00",
   "tokens": [
     {
       "chainId": 1868,
-      "address": "0x3b0dc2dac9498a024003609031d973b1171de09e",
-      "name": "Wrapped stASTR",
-      "symbol": "WSTASTR",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/54782/thumb/wstASTR.png?1741570094"
+      "address": "0xba9986d2381edf1da03b0b9c1f8b00dc4aacc369",
+      "name": "Soneium Bridged USDC  Soneium ",
+      "symbol": "USDCE",
+      "decimals": 6,
+      "logoURI": "https://assets.coingecko.com/coins/images/53776/thumb/usdc.jpg?1737340150"
     },
     {
       "chainId": 1868,
@@ -24,6 +24,14 @@
     },
     {
       "chainId": 1868,
+      "address": "0x3b0dc2dac9498a024003609031d973b1171de09e",
+      "name": "Wrapped stASTR",
+      "symbol": "WSTASTR",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/54782/thumb/wstASTR.png?1741570094"
+    },
+    {
+      "chainId": 1868,
       "address": "0x2cae934a1e84f693fbb78ca5ed3b0a6893259441",
       "name": "Soneium Bridged ASTR  Soneium ",
       "symbol": "ASTR",
@@ -32,11 +40,11 @@
     },
     {
       "chainId": 1868,
-      "address": "0xba9986d2381edf1da03b0b9c1f8b00dc4aacc369",
-      "name": "Soneium Bridged USDC  Soneium ",
-      "symbol": "USDCE",
-      "decimals": 6,
-      "logoURI": "https://assets.coingecko.com/coins/images/53776/thumb/usdc.jpg?1737340150"
+      "address": "0x4200000000000000000000000000000000000006",
+      "name": "Superbridge Bridged WETH  Soneium ",
+      "symbol": "WETH",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/53777/thumb/weth_2.jpg?1737340348"
     },
     {
       "chainId": 1868,
@@ -61,14 +69,6 @@
       "symbol": "VASTR",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/34706/thumb/vASTR.png?1705893008"
-    },
-    {
-      "chainId": 1868,
-      "address": "0x4200000000000000000000000000000000000006",
-      "name": "Superbridge Bridged WETH  Soneium ",
-      "symbol": "WETH",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/53777/thumb/weth_2.jpg?1737340348"
     },
     {
       "chainId": 1868,
@@ -128,6 +128,14 @@
     },
     {
       "chainId": 1868,
+      "address": "0xaffeb8576b927050f5a3b6fba43f360d2883a118",
+      "name": "Solv Protocol SolvBTC Jupiter",
+      "symbol": "SOLVBTCJUP",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/54834/thumb/solvBTC_Jupiter.png?1741969449"
+    },
+    {
+      "chainId": 1868,
       "address": "0x570f09ac53b96929e3868f71864e36ff6b1b67d7",
       "name": "Arcas",
       "symbol": "ARCAS",
@@ -161,7 +169,7 @@
   ],
   "version": {
     "major": 0,
-    "minor": 14,
+    "minor": 15,
     "patch": 0
   }
 }

@@ -4,47 +4,15 @@
   "keywords": [
     "defi"
   ],
-  "timestamp": "2024-12-16T16:00:41.397+00:00",
+  "timestamp": "2025-03-27T10:00:26.294+00:00",
   "tokens": [
     {
       "chainId": 592,
-      "address": "0xc4335b1b76fa6d52877b3046eca68f6e708a27dd",
-      "name": "Starlay Finance",
-      "symbol": "LAY",
+      "address": "0xaeaaf0e2c81af264101b9129c00f4440ccf0f720",
+      "name": "Wrapped ASTR",
+      "symbol": "WASTR",
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/25795/thumb/WKBrkX4y_400x400.png?1696524881"
-    },
-    {
-      "chainId": 592,
-      "address": "0x6de33698e9e9b787e09d3bd7771ef63557e148bb",
-      "name": "Celer Bridged DAI  Astar ",
-      "symbol": "DAI",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/39801/thumb/dai.png?1724125754"
-    },
-    {
-      "chainId": 592,
-      "address": "0xffffffffffffffffffffffffffffffffffffffff",
-      "name": "WDOT",
-      "symbol": "WDOT",
-      "decimals": 10,
-      "logoURI": "https://assets.coingecko.com/coins/images/26650/thumb/polkadot.png?1696525722"
-    },
-    {
-      "chainId": 592,
-      "address": "0x733ebcc6df85f8266349defd0980f8ced9b45f35",
-      "name": "BAI Stablecoin",
-      "symbol": "BAI",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/25385/thumb/BAI_Token_Logo.png?1696524518"
-    },
-    {
-      "chainId": 592,
-      "address": "0xad543f18cff85c77e140e3e5e3c3392f6ba9d5ca",
-      "name": "Bridged WBTC",
-      "symbol": "WBTC",
-      "decimals": 8,
-      "logoURI": "https://assets.coingecko.com/coins/images/39574/thumb/wbtc.png?1722994041"
+      "logoURI": "https://assets.coingecko.com/coins/images/26638/thumb/astar.jpeg?1696525710"
     },
     {
       "chainId": 592,
@@ -56,11 +24,11 @@
     },
     {
       "chainId": 592,
-      "address": "0xaeaaf0e2c81af264101b9129c00f4440ccf0f720",
-      "name": "Wrapped ASTR",
-      "symbol": "WASTR",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/26638/thumb/astar.jpeg?1696525710"
+      "address": "0xad543f18cff85c77e140e3e5e3c3392f6ba9d5ca",
+      "name": "Bridged WBTC",
+      "symbol": "WBTC",
+      "decimals": 8,
+      "logoURI": "https://assets.coingecko.com/coins/images/39574/thumb/wbtc.png?1722994041"
     },
     {
       "chainId": 592,
@@ -69,6 +37,22 @@
       "symbol": "WETH",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/39691/thumb/weth.png?1723670097"
+    },
+    {
+      "chainId": 592,
+      "address": "0x733ebcc6df85f8266349defd0980f8ced9b45f35",
+      "name": "BAI Stablecoin",
+      "symbol": "BAI",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/25385/thumb/BAI_Token_Logo.png?1696524518"
+    },
+    {
+      "chainId": 592,
+      "address": "0xc4335b1b76fa6d52877b3046eca68f6e708a27dd",
+      "name": "Starlay Finance",
+      "symbol": "LAY",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/25795/thumb/WKBrkX4y_400x400.png?1696524881"
     },
     {
       "chainId": 592,
@@ -96,6 +80,22 @@
     },
     {
       "chainId": 592,
+      "address": "0x6de33698e9e9b787e09d3bd7771ef63557e148bb",
+      "name": "Celer Bridged DAI  Astar ",
+      "symbol": "DAI",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/39801/thumb/dai.png?1724125754"
+    },
+    {
+      "chainId": 592,
+      "address": "0xffffffffffffffffffffffffffffffffffffffff",
+      "name": "WDOT",
+      "symbol": "WDOT",
+      "decimals": 10,
+      "logoURI": "https://assets.coingecko.com/coins/images/26650/thumb/polkadot.png?1696525722"
+    },
+    {
+      "chainId": 592,
       "address": "0xe511ed88575c57767bafb72bfd10775413e3f2b0",
       "name": "Liquid ASTR",
       "symbol": "NASTR",
@@ -109,14 +109,6 @@
       "symbol": "CERES",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/17959/thumb/sQLDgqx.png?1696517478"
-    },
-    {
-      "chainId": 592,
-      "address": "0xb51541df05de07be38dcfc4a80c05389a54502bb",
-      "name": "Demeter",
-      "symbol": "DEO",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/25582/thumb/7zyskNC.png?1696524714"
     },
     {
       "chainId": 592,
@@ -175,8 +167,8 @@
     }
   ],
   "version": {
-    "major": null,
+    "major": 1,
     "minor": 0,
-    "patch": 1
+    "patch": 0
   }
 }
