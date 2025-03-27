@@ -2274,6 +2274,14 @@
     }
   },
   {
+    "id": "abstract-liquid-staked-eth",
+    "symbol": "abseth",
+    "name": "Abstract Liquid Staked ETH",
+    "platforms": {
+      "abstract": "0xa8726bd058bea1973b61a9bc2a5e0e605b797307"
+    }
+  },
+  {
     "id": "abtc",
     "symbol": "abtc",
     "name": "aBTC",
@@ -9742,6 +9750,14 @@
     "name": "AUKI",
     "platforms": {
       "base": "0xf9569cfb8fd265e91aa478d86ae8c78b8af55df4"
+    }
+  },
+  {
+    "id": "aura-2",
+    "symbol": "aura",
+    "name": "Aura",
+    "platforms": {
+      "base": "0x4381bc7d5640bf514a508e2732ec522c650c414c"
     }
   },
   {
@@ -29468,7 +29484,8 @@
     "symbol": "corn",
     "name": "Corn",
     "platforms": {
-      "corn": "0x44f49ff0da2498bcb1d3dc7c0f999578f67fd8c6"
+      "corn": "0x44f49ff0da2498bcb1d3dc7c0f999578f67fd8c6",
+      "ethereum": "0x44f49ff0da2498bcb1d3dc7c0f999578f67fd8c6"
     }
   },
   {
@@ -33256,6 +33273,14 @@
     "name": "DAWG",
     "platforms": {
       "solana": "3DHPqxdMXogNNnpqBMF8N4Zs4dn1WR31H7UjWq6FExwG"
+    }
+  },
+  {
+    "id": "dawg-2",
+    "symbol": "dawg",
+    "name": "dawg",
+    "platforms": {
+      "solana": "3rdCUNNgj52frYdp3cJLwQ6xzJibjyjsPCtNMRUDpump"
     }
   },
   {
@@ -88940,6 +88965,14 @@
     }
   },
   {
+    "id": "orbit-ether",
+    "symbol": "orbeth",
+    "name": "Orbit Ether",
+    "platforms": {
+      "arbitrum-one": "0xcf6c2bb97a8978321c9e207afe8a2037fa9be45c"
+    }
+  },
+  {
     "id": "orbit-protocol",
     "symbol": "orbit",
     "name": "Orbit Protocol",
@@ -95462,6 +95495,7 @@
     "name": "Polytrade",
     "platforms": {
       "ethereum": "0x6e5970dbd6fc7eb1f29c6d2edf2bc4c36124c0c1",
+      "base": "0x72e1868f8eb8f9fb86455c10e72aa4b24774a5a3",
       "binance-smart-chain": "0x6ba7a8f9063c712c1c8cabc776b1da7126805f3b",
       "arbitrum-one": "0xe22c452bd2ade15dfc8ad98286bc6bdf0c9219b7",
       "polygon-pos": "0x692ac1e363ae34b6b489148152b12e2785a3d8d6"
@@ -101464,7 +101498,8 @@
     "symbol": "rusd",
     "name": "Reservoir rUSD",
     "platforms": {
-      "ethereum": "0x09d4214c03d01f49544c0448dbe3a27f768f2b34"
+      "ethereum": "0x09d4214c03d01f49544c0448dbe3a27f768f2b34",
+      "berachain": "0x09d4214c03d01f49544c0448dbe3a27f768f2b34"
     }
   },
   {
@@ -101472,7 +101507,8 @@
     "symbol": "srusd",
     "name": "Reservoir srUSD",
     "platforms": {
-      "ethereum": "0x738d1115b90efa71ae468f1287fc864775e23a31"
+      "ethereum": "0x738d1115b90efa71ae468f1287fc864775e23a31",
+      "berachain": "0x5475611dffb8ef4d697ae39df9395513b6e947d7"
     }
   },
   {
@@ -136325,7 +136361,10 @@
     "id": "xion-2",
     "symbol": "xion",
     "name": "XION",
-    "platforms": {}
+    "platforms": {
+      "ethereum": "0x24d7ad9402717f429a81925fe7643b78918eda8b",
+      "base": "0xe4c3461a20f50dad7b9e88ca0222a255c4126fc0"
+    }
   },
   {
     "id": "xi-token",
