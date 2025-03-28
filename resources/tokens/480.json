@@ -4,7 +4,7 @@
   "keywords": [
     "defi"
   ],
-  "timestamp": "2025-03-14T23:00:29.260+00:00",
+  "timestamp": "2025-03-28T09:01:08.971+00:00",
   "tokens": [
     {
       "chainId": 480,
@@ -24,19 +24,19 @@
     },
     {
       "chainId": 480,
-      "address": "0x03c7054bcb39f7b2e5b2c7acb37583e32d70cfa3",
-      "name": "Bridged Wrapped Bitcoin  Worldchain ",
-      "symbol": "WBTC",
-      "decimals": 8,
-      "logoURI": "https://assets.coingecko.com/coins/images/51159/thumb/wbtc_28.png?1730242311"
-    },
-    {
-      "chainId": 480,
       "address": "0x79a02482a880bce3f13e09da970dc34db4cd24d1",
       "name": "Bridged USDC  World Chain ",
       "symbol": "USDCE",
       "decimals": 6,
       "logoURI": "https://assets.coingecko.com/coins/images/50792/thumb/usdc.png?1729233082"
+    },
+    {
+      "chainId": 480,
+      "address": "0x03c7054bcb39f7b2e5b2c7acb37583e32d70cfa3",
+      "name": "Bridged Wrapped Bitcoin  Worldchain ",
+      "symbol": "WBTC",
+      "decimals": 8,
+      "logoURI": "https://assets.coingecko.com/coins/images/51159/thumb/wbtc_28.png?1730242311"
     },
     {
       "chainId": 480,
@@ -80,6 +80,14 @@
     },
     {
       "chainId": 480,
+      "address": "0x7077c71b4af70737a08287e279b717dcf64fdc57",
+      "name": "PoolTogether",
+      "symbol": "POOL",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/14003/thumb/PoolTogether.png?1696513732"
+    },
+    {
+      "chainId": 480,
       "address": "0x2cfc85d8e48f8eab294be644d9e25c3030863003",
       "name": "Worldcoin",
       "symbol": "WLD",
@@ -89,7 +97,7 @@
   ],
   "version": {
     "major": 0,
-    "minor": 6,
+    "minor": 7,
     "patch": 0
   }
 }
