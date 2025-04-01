@@ -658,14 +658,6 @@
     }
   },
   {
-    "id": "4dcoin",
-    "symbol": "4dc",
-    "name": "4DCoin",
-    "platforms": {
-      "binance-smart-chain": "0x4e7ef0077a1bc31fd9bcadd6ca149dea9c3faedb"
-    }
-  },
-  {
     "id": "4d-twin-maps-2",
     "symbol": "4dmaps",
     "name": "4D Twin Maps",
@@ -6848,14 +6840,6 @@
     "platforms": {}
   },
   {
-    "id": "anonfi",
-    "symbol": "anon",
-    "name": "AnonFi",
-    "platforms": {
-      "base": "0x75e6b648c91d222b2f6318e8ceeed4b691d5323f"
-    }
-  },
-  {
     "id": "anon-inu",
     "symbol": "ainu",
     "name": "Anon Inu",
@@ -9057,7 +9041,9 @@
     "id": "astar",
     "symbol": "astr",
     "name": "Astar",
-    "platforms": {}
+    "platforms": {
+      "ethereum": "0xf27441230eadeac85b764610325cc9a0d7859689"
+    }
   },
   {
     "id": "astar-moonbeam",
@@ -16728,14 +16714,6 @@
     "name": "bitFloki",
     "platforms": {
       "binance-smart-chain": "0x79cdc9ca057e16dffd45bd803491f328f49e1762"
-    }
-  },
-  {
-    "id": "bitforex",
-    "symbol": "bf",
-    "name": "Bitforex",
-    "platforms": {
-      "ethereum": "0x5b71bee9d961b1b848f8485eec8d8787f80217f5"
     }
   },
   {
@@ -25084,7 +25062,7 @@
     "name": "Etherfuse CETES",
     "platforms": {
       "solana": "CETES7CKqqKQizuSN6iWQwmTeFRjbJR6Vw2XRKfEDR8f",
-      "stellar": "CETES7CKqqKQizuSN6iWQwmTeFRjbJR6Vw2XRKfEDR8f"
+      "stellar": "CETES-GCRYUGD5NVARGXT56XEZI5CIFCQETYHAPQQTHO2O3IQZTHDH4LATMYWC"
     }
   },
   {
@@ -34016,15 +33994,6 @@
     "name": "DEER TOKEN",
     "platforms": {
       "binance-smart-chain": "0x2442421fe1acc8a732251fc372892b5ff1fdd938"
-    }
-  },
-  {
-    "id": "deez-nuts-2",
-    "symbol": "deeznuts",
-    "name": "DEEZ NUTS",
-    "platforms": {
-      "ethereum": "0x84dad4e4a4d1510052d39e916330372db8cd1238",
-      "solana": "FKfZ2RFyFxCGvPjwjw1DLGVbBRPfxgy6XXCcY3Gyufip"
     }
   },
   {
@@ -44041,7 +44010,7 @@
     "name": "Etherfuse USTRY",
     "platforms": {
       "solana": "USTRYnGgcHAhdWsanv8BG6vHGd4p7UGgoB9NRd8ei7j",
-      "stellar": "USTRYnGgcHAhdWsanv8BG6vHGd4p7UGgoB9NRd8ei7j"
+      "stellar": "USTRY-GCRYUGD5NVARGXT56XEZI5CIFCQETYHAPQQTHO2O3IQZTHDH4LATMYWC"
     }
   },
   {
@@ -70072,14 +70041,6 @@
     }
   },
   {
-    "id": "linktoa",
-    "symbol": "ltao",
-    "name": "LinkTao",
-    "platforms": {
-      "ethereum": "0xbf7bc9e63635dc11b335d52b0349d0100a53a1a7"
-    }
-  },
-  {
     "id": "link-yvault",
     "symbol": "yvlink",
     "name": "LINK yVault",
@@ -95257,7 +95218,7 @@
   {
     "id": "polter-finance",
     "symbol": "polter",
-    "name": "Polter.finance",
+    "name": "Polter",
     "platforms": {
       "fantom": "0x5c725631fd299703d0a74c23f89a55c6b9a0c52f",
       "sonic": "0x44bd4f79a95cf04505f2dc5c8e2e4043f67c7b07",
@@ -109738,14 +109699,6 @@
     }
   },
   {
-    "id": "smol-game",
-    "symbol": "smol",
-    "name": "smol.game",
-    "platforms": {
-      "ethereum": "0x6494eaa7df086ad6c9a8a27341a8dc09d47305ba"
-    }
-  },
-  {
     "id": "smol-pep",
     "symbol": "pep",
     "name": "smol pep",
@@ -119861,14 +119814,6 @@
     }
   },
   {
-    "id": "tethereum-2",
-    "symbol": "t99",
-    "name": "Tethereum [OLD]",
-    "platforms": {
-      "binance-smart-chain": "0xc98cf0876b23fb1f574be5c59e4217c80b34d327"
-    }
-  },
-  {
     "id": "tethereum-3",
     "symbol": "t99",
     "name": "Tethereum",
@@ -120199,14 +120144,6 @@
     "platforms": {
       "ethereum": "0x8c7ac134ed985367eadc6f727d79e8295e11435c",
       "solana": "DexxZWtZd8hdmeth9gKYXgTWa1VYdMVrWFBZ9RXXXhBn"
-    }
-  },
-  {
-    "id": "the-big-debate",
-    "symbol": "tbd",
-    "name": "The Big Debate",
-    "platforms": {
-      "ethereum": "0xaed18826655bf9167a377c8647132a937d6a4f36"
     }
   },
   {
@@ -122787,7 +122724,7 @@
     "symbol": "tston",
     "name": "Tonstakers",
     "platforms": {
-      "the-open-network": "EQCkWxfyhAkim3g2DjKQQg8T5P4g-Q1-K_jErGcDJZ4i-vqR"
+      "the-open-network": "EQC98_qAmNEptUtPc7W6xdHh_ZHrBUFpw5Ft_IzNU20QAJav"
     }
   },
   {
