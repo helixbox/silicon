@@ -634,6 +634,14 @@
     }
   },
   {
+    "id": "4444-token",
+    "symbol": "4444",
+    "name": "4444",
+    "platforms": {
+      "binance-smart-chain": "0x661af369690a8f5591cc0df7d581c83d1a6e4444"
+    }
+  },
+  {
     "id": "4547-token",
     "symbol": "4547",
     "name": "4547",
@@ -46025,6 +46033,14 @@
     }
   },
   {
+    "id": "felix-feusd",
+    "symbol": "feusd",
+    "name": "Felix feUSD",
+    "platforms": {
+      "hyperevm": "0x02c6a2fa58cc01a18b8d9e00ea48d65e4df26c70"
+    }
+  },
+  {
     "id": "felix-the-lazer-cat",
     "symbol": "$peow",
     "name": "Felix the lazer cat",
@@ -81045,7 +81061,7 @@
   {
     "id": "moss",
     "symbol": "moss",
-    "name": "MOSS",
+    "name": "MOSS AI",
     "platforms": {
       "solana": "9bNUjxEvygayUE2ZRN5zh9Hhjh6cN6GPK4zoHzXXpump"
     }
@@ -88404,7 +88420,8 @@
       "soneium": "0x1217bfe6c773eec6cc4a38b5dc45b92292b6e189",
       "unichain": "0x1217bfe6c773eec6cc4a38b5dc45b92292b6e189",
       "lisk": "0x1217bfe6c773eec6cc4a38b5dc45b92292b6e189",
-      "optimistic-ethereum": "0x1217bfe6c773eec6cc4a38b5dc45b92292b6e189"
+      "optimistic-ethereum": "0x1217bfe6c773eec6cc4a38b5dc45b92292b6e189",
+      "superseed": "0x1217bfe6c773eec6cc4a38b5dc45b92292b6e189"
     }
   },
   {
@@ -98235,7 +98252,8 @@
     "symbol": "purr",
     "name": "Purr",
     "platforms": {
-      "hyperliquid": "0xc1fb593aeffbeb02f85e0308e9956a90"
+      "hyperliquid": "0xc1fb593aeffbeb02f85e0308e9956a90",
+      "hyperevm": "0x9b498c3c8a0b8cd8ba1d9851d40d186f1872b44e"
     }
   },
   {
@@ -117160,6 +117178,22 @@
     }
   },
   {
+    "id": "superseed-bridged-usdc-superseed",
+    "symbol": "usdc",
+    "name": "Superseed Bridged USDC (Superseed)",
+    "platforms": {
+      "superseed": "0xc316c8252b5f2176d0135ebb0999e99296998f2e"
+    }
+  },
+  {
+    "id": "superseed-bridged-weth-superseed",
+    "symbol": "weth",
+    "name": "Superseed Bridged WETH (Superseed)",
+    "platforms": {
+      "superseed": "0x4200000000000000000000000000000000000006"
+    }
+  },
+  {
     "id": "super-seyian-eth",
     "symbol": "sseth",
     "name": "Super Seyian ETH",
@@ -125919,6 +125953,14 @@
     }
   },
   {
+    "id": "unit-bitcoin",
+    "symbol": "ubtc",
+    "name": "Unit Bitcoin",
+    "platforms": {
+      "hyperevm": "0x9fdbda0a5e284c32744d2f17ee5c74b284993463"
+    }
+  },
+  {
     "id": "unit-dao",
     "symbol": "un",
     "name": "UNIT DAO",
@@ -125932,6 +125974,15 @@
     "name": "United Base Postal",
     "platforms": {
       "base": "0x0c90c756350fb803a7d5d9f9ee5ac29e77369973"
+    }
+  },
+  {
+    "id": "unit-ethereum",
+    "symbol": "ueth",
+    "name": "Unit Ethereum",
+    "platforms": {
+      "hyperliquid": "0xe1edd30daaf5caac3fe63569e24748da",
+      "hyperevm": "0xbe6727b535545c67d5caa73dea54865b92cf7907"
     }
   },
   {
@@ -134086,7 +134137,7 @@
     "symbol": "whype",
     "name": "Wrapped HYPE",
     "platforms": {
-      "hyperliquid": "0x5555555555555555555555555555555555555555"
+      "hyperevm": "0x5555555555555555555555555555555555555555"
     }
   },
   {
@@ -139059,7 +139110,7 @@
   {
     "id": "zeus-netwok-zbtc",
     "symbol": "zbtc",
-    "name": "Zeus Netwok zBTC",
+    "name": "Zeus Network zBTC",
     "platforms": {
       "solana": "zBTCug3er3tLyffELcvDNrKkCymbPWysGcWihESYfLg"
     }
