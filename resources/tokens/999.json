@@ -4,15 +4,15 @@
   "keywords": [
     "defi"
   ],
-  "timestamp": "2025-03-13T08:01:09.503+00:00",
+  "timestamp": "2025-04-02T10:01:09.234+00:00",
   "tokens": [
     {
       "chainId": 999,
-      "address": "0x94e8396e0869c9f2200760af0621afd240e1cf38",
-      "name": "Staked HYPE Shares",
-      "symbol": "WSTHYPE",
+      "address": "0x5555555555555555555555555555555555555555",
+      "name": "Wrapped HYPE",
+      "symbol": "WHYPE",
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/54722/thumb/hyperliquid.png?1741232793"
+      "logoURI": "https://assets.coingecko.com/coins/images/54469/thumb/_UP3jBsi_400x400.jpg?1739905920"
     },
     {
       "chainId": 999,
@@ -24,11 +24,19 @@
     },
     {
       "chainId": 999,
-      "address": "0xffaa4a3d97fe9107cef8a3f48c069f577ff76cc1",
-      "name": "Staked HYPE",
-      "symbol": "STHYPE",
+      "address": "0x02c6a2fa58cc01a18b8d9e00ea48d65e4df26c70",
+      "name": "Felix feUSD",
+      "symbol": "FEUSD",
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/54509/thumb/hyperliquid.jpg?1740065301"
+      "logoURI": "https://assets.coingecko.com/coins/images/55068/thumb/feusd.jpg?1743581333"
+    },
+    {
+      "chainId": 999,
+      "address": "0x9fdbda0a5e284c32744d2f17ee5c74b284993463",
+      "name": "Unit Bitcoin",
+      "symbol": "UBTC",
+      "decimals": 8,
+      "logoURI": "https://assets.coingecko.com/coins/images/55066/thumb/ubtc.jpg?1743580113"
     },
     {
       "chainId": 999,
@@ -37,11 +45,43 @@
       "symbol": "BUDDY",
       "decimals": 6,
       "logoURI": "https://assets.coingecko.com/coins/images/54657/thumb/alright_buddy_pfp.png?1740895394"
+    },
+    {
+      "chainId": 999,
+      "address": "0x94e8396e0869c9f2200760af0621afd240e1cf38",
+      "name": "Staked HYPE Shares",
+      "symbol": "WSTHYPE",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/54722/thumb/hyperliquid.png?1741232793"
+    },
+    {
+      "chainId": 999,
+      "address": "0xffaa4a3d97fe9107cef8a3f48c069f577ff76cc1",
+      "name": "Staked HYPE",
+      "symbol": "STHYPE",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/54509/thumb/hyperliquid.jpg?1740065301"
+    },
+    {
+      "chainId": 999,
+      "address": "0x9b498c3c8a0b8cd8ba1d9851d40d186f1872b44e",
+      "name": "Purr",
+      "symbol": "PURR",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/37125/thumb/PURR_CG.png?1713368828"
+    },
+    {
+      "chainId": 999,
+      "address": "0xbe6727b535545c67d5caa73dea54865b92cf7907",
+      "name": "Unit Ethereum",
+      "symbol": "UETH",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/55069/thumb/eth.jpg?1743582414"
     }
   ],
   "version": {
     "major": 0,
-    "minor": 4,
+    "minor": 6,
     "patch": 0
   }
 }
