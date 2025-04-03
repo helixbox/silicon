@@ -4,16 +4,8 @@
   "keywords": [
     "defi"
   ],
-  "timestamp": "2025-03-12T06:00:06.294+00:00",
+  "timestamp": "2025-04-03T09:00:05.774+00:00",
   "tokens": [
-    {
-      "chainId": 21000000,
-      "address": "0xdf0b24095e15044538866576754f3c964e902ee6",
-      "name": "Corn Bridged USDC  Corn ",
-      "symbol": "USDCE",
-      "decimals": 6,
-      "logoURI": "https://assets.coingecko.com/coins/images/54568/thumb/usdc.jpg?1740453834"
-    },
     {
       "chainId": 21000000,
       "address": "0x44f49ff0da2498bcb1d3dc7c0f999578f67fd8c6",
@@ -21,6 +13,14 @@
       "symbol": "CORN",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/54471/thumb/corn.jpg?1739933588"
+    },
+    {
+      "chainId": 21000000,
+      "address": "0xdf0b24095e15044538866576754f3c964e902ee6",
+      "name": "Corn Bridged USDC  Corn ",
+      "symbol": "USDCE",
+      "decimals": 6,
+      "logoURI": "https://assets.coingecko.com/coins/images/54568/thumb/usdc.jpg?1740453834"
     },
     {
       "chainId": 21000000,
@@ -61,11 +61,19 @@
       "symbol": "UNIBTC",
       "decimals": 8,
       "logoURI": "https://assets.coingecko.com/coins/images/39599/thumb/uniBTC_200px.png?1723064455"
+    },
+    {
+      "chainId": 21000000,
+      "address": "0xb8ce59fc3717ada4c02eadf9682a9e934f625ebb",
+      "name": "USDT0",
+      "symbol": "USDT0",
+      "decimals": 6,
+      "logoURI": "https://assets.coingecko.com/coins/images/53705/thumb/usdt0.jpg?1737086183"
     }
   ],
   "version": {
     "major": 0,
-    "minor": 2,
+    "minor": 3,
     "patch": 0
   }
 }
