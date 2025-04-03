@@ -23937,10 +23937,11 @@
   },
   {
     "id": "catbal",
-    "symbol": "$catbal",
+    "symbol": "catbal",
     "name": "Catbal",
     "platforms": {
-      "hyperliquid": "0x38348c17e1a18559bbda232d22007695"
+      "hyperliquid": "0x38348c17e1a18559bbda232d22007695",
+      "hyperevm": "0x11735dbd0b97cfa7accf47d005673ba185f7fd49"
     }
   },
   {
@@ -62637,7 +62638,8 @@
     "symbol": "jeff",
     "name": "Jeff",
     "platforms": {
-      "hyperliquid": "0xfcf28885456bf7e7cbe5b7a25407c5bc"
+      "hyperliquid": "0xfcf28885456bf7e7cbe5b7a25407c5bc",
+      "hyperevm": "0x52e444545fbe9e5972a7a371299522f7871aec1f"
     }
   },
   {
@@ -64733,6 +64735,14 @@
     "symbol": "keiro",
     "name": "KEIRO",
     "platforms": {}
+  },
+  {
+    "id": "kei-stablecoin",
+    "symbol": "kei",
+    "name": "KEI Stablecoin",
+    "platforms": {
+      "hyperevm": "0xb5fe77d323d69eb352a02006ea8ecc38d882620c"
+    }
   },
   {
     "id": "kek",
@@ -68027,6 +68037,14 @@
     "symbol": "geek",
     "name": "Last Memories",
     "platforms": {}
+  },
+  {
+    "id": "last-usd",
+    "symbol": "usdxl",
+    "name": "Last USD",
+    "platforms": {
+      "hyperevm": "0xca79db4b49f608ef54a5cb813fbed3a6387bc645"
+    }
   },
   {
     "id": "latch-staked-eth",
@@ -93737,7 +93755,8 @@
     "symbol": "pip",
     "name": "PiP",
     "platforms": {
-      "hyperliquid": "0xe85f43e1f91e3c8cdf3acbd7e0855b8e"
+      "hyperliquid": "0xe85f43e1f91e3c8cdf3acbd7e0855b8e",
+      "hyperevm": "0x1bee6762f0b522c606dc2ffb106c0bb391b2e309"
     }
   },
   {
@@ -127685,7 +127704,8 @@
     "symbol": "vegas",
     "name": "Vegas",
     "platforms": {
-      "hyperliquid": "0xb693d596cd02f5f38e532e647bb43b69"
+      "hyperliquid": "0xb693d596cd02f5f38e532e647bb43b69",
+      "hyperevm": "0xb09158c8297acee00b900dc1f8715df46b7246a6"
     }
   },
   {
