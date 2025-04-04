@@ -4,16 +4,8 @@
   "keywords": [
     "defi"
   ],
-  "timestamp": "2025-04-04T10:00:21.406+00:00",
+  "timestamp": "2025-04-04T13:00:20.554+00:00",
   "tokens": [
-    {
-      "chainId": 10,
-      "address": "0xd0cf4de352ac8dcce00bd6b93ee73d3cb272edc3",
-      "name": "PCM",
-      "symbol": "PCM",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/50402/thumb/pcmlabs_32.png?1727591862"
-    },
     {
       "chainId": 10,
       "address": "0xc5b001dc33727f8f26880b184090d3e252470d45",
@@ -48,14 +40,6 @@
     },
     {
       "chainId": 10,
-      "address": "0x8c6f28f2f1a3c87f0f938b96d27520d9751ec8d9",
-      "name": "sUSD  Optimism ",
-      "symbol": "SUSD",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/37867/thumb/sus.png?1715815715"
-    },
-    {
-      "chainId": 10,
       "address": "0xda10009cbd5d07dd0cecc66161fc93d7c9000da1",
       "name": "MakerDAO Optimism Bridged DAI  Optimism",
       "symbol": "DAI",
@@ -72,6 +56,14 @@
     },
     {
       "chainId": 10,
+      "address": "0x8c6f28f2f1a3c87f0f938b96d27520d9751ec8d9",
+      "name": "sUSD  Optimism ",
+      "symbol": "SUSD",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/37867/thumb/sus.png?1715815715"
+    },
+    {
+      "chainId": 10,
       "address": "0xf8e943f646816e4b51279b8934753821ed832dca",
       "name": "Cthulhu Finance",
       "symbol": "CTH",
@@ -80,19 +72,11 @@
     },
     {
       "chainId": 10,
-      "address": "0x3ee6107d9c93955acbb3f39871d32b02f82b78ab",
-      "name": "Staked Ethos Reserve Note",
-      "symbol": "STERN",
+      "address": "0xd0cf4de352ac8dcce00bd6b93ee73d3cb272edc3",
+      "name": "PCM",
+      "symbol": "PCM",
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/31522/thumb/stERN.png?1696530332"
-    },
-    {
-      "chainId": 10,
-      "address": "0x1cef2d62af4cd26673c7416957cc4ec619a696a7",
-      "name": "DexToro Pro",
-      "symbol": "DTORO",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/33529/thumb/DTORO_Logo_New.png?1716971115"
+      "logoURI": "https://assets.coingecko.com/coins/images/50402/thumb/pcmlabs_32.png?1727591862"
     },
     {
       "chainId": 10,
@@ -173,6 +157,14 @@
       "symbol": "",
       "decimals": 6,
       "logoURI": "https://assets.coingecko.com/coins/images/50449/thumb/Token-160px.png?1727772379"
+    },
+    {
+      "chainId": 10,
+      "address": "0x3ee6107d9c93955acbb3f39871d32b02f82b78ab",
+      "name": "Staked Ethos Reserve Note",
+      "symbol": "STERN",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/31522/thumb/stERN.png?1696530332"
     },
     {
       "chainId": 10,
@@ -2119,8 +2111,8 @@
     }
   ],
   "version": {
-    "major": 17,
-    "minor": 9,
+    "major": 18,
+    "minor": 0,
     "patch": 0
   }
 }
