@@ -16,7 +16,7 @@
   {
     "id": "0chain",
     "symbol": "zcn",
-    "name": "Zus",
+    "name": "Züs",
     "platforms": {
       "ethereum": "0xb9ef770b6a5e12e45983c5d80545258aa38f3b78",
       "polygon-pos": "0x8bb30e0e67b11b978a5040144c410e1ccddcba30"
@@ -18609,14 +18609,6 @@
     }
   },
   {
-    "id": "bnacoin",
-    "symbol": "bna",
-    "name": "Bnacoin",
-    "platforms": {
-      "binance-smart-chain": "0x00db8321c431b62a6d42979ed4a5d0f3661c959e"
-    }
-  },
-  {
     "id": "bnb48-club-token",
     "symbol": "koge",
     "name": "KOGE",
@@ -30541,14 +30533,6 @@
     "platforms": {
       "cronos": "0xd50f5739a09f36c6f97cc9a4849c5462ba6129a3",
       "base": "0x56f6f2a23ae5ef82d8dc46934f7cf8d0b15ddedd"
-    }
-  },
-  {
-    "id": "croissant-games",
-    "symbol": "croissant",
-    "name": "Croissant Games",
-    "platforms": {
-      "cronos": "0xa0c3c184493f2fae7d2f2bd83f195a1c300fa353"
     }
   },
   {
@@ -50181,6 +50165,7 @@
     "name": "GALAXIS Token",
     "platforms": {
       "ethereum": "0x423071774c43c0aaf4210b439e7cda8c797e2f26",
+      "abstract": "0xb1bd5afa0de1953246c81276550a464f7d545929",
       "arbitrum-one": "0xa5312c3e42a82d459162b2a3bd7ffc4f9099b911",
       "polygon-pos": "0x3c69d114664d48357d820dbdd121a8071eac99bf",
       "base": "0x2d189eabb667aa1ecfc01963a6a3a5d83960f558"
@@ -85940,15 +85925,6 @@
     }
   },
   {
-    "id": "nova-dao",
-    "symbol": "nova",
-    "name": "Nova DAO",
-    "platforms": {
-      "base": "0x7cea109fc3516ed1248ae9aa67b5a352cf74075e",
-      "polygon-pos": "0x119fd89e56e3845b520644dcedf4a86cd0b66aa6"
-    }
-  },
-  {
     "id": "novadex",
     "symbol": "nvx",
     "name": "NovaDEX",
@@ -87092,12 +87068,6 @@
     "platforms": {
       "solana": "BBASTWwAZE7PVwuAqXWUUmoFeKxzbSmiKfqsYusbruRG"
     }
-  },
-  {
-    "id": "oduwa-coin",
-    "symbol": "owc",
-    "name": "Oduwa Coin",
-    "platforms": {}
   },
   {
     "id": "odyssey",
@@ -92638,14 +92608,6 @@
     "name": "Pepinu",
     "platforms": {
       "ethereum": "0x68f108fb7141ffe36b832c5c225d9e7e474bd664"
-    }
-  },
-  {
-    "id": "pepinu-sol",
-    "symbol": "pepinu",
-    "name": "Pepinu (SOL)",
-    "platforms": {
-      "solana": "Fo9T5Rrj6zj7Nh98ac6efQNVwJ26FU7Jr5dCNJQyhqAR"
     }
   },
   {
@@ -100898,6 +100860,14 @@
     }
   },
   {
+    "id": "redx",
+    "symbol": "redx",
+    "name": "Redx",
+    "platforms": {
+      "the-open-network": "EQCFO-Y8BSEAINBrNdv72VLC9LCYt915iy-_CmkJgrEaPw3P"
+    }
+  },
+  {
     "id": "reecoin-2",
     "symbol": "ree",
     "name": "REECOIN",
@@ -101158,20 +101128,6 @@
     "name": "RelayChain Bridged WAVAX (Moonriver)",
     "platforms": {
       "moonriver": "0x14a0243c333a5b238143068dc3a7323ba4c30ecb"
-    }
-  },
-  {
-    "id": "relay-token",
-    "symbol": "relay",
-    "name": "Relay Chain",
-    "platforms": {
-      "ethereum": "0x5d843fa9495d23de997c394296ac7b4d721e841c",
-      "moonriver": "0xad7f1844696652dda7959a49063bffccafafefe7",
-      "metis-andromeda": "0xfe282af5f9eb59c30a3f78789eeffa704188bdd4",
-      "binance-smart-chain": "0xe338d4250a4d959f88ff8789eaae8c32700bd175",
-      "avalanche": "0x78c42324016cd91d1827924711563fb66e33a83a",
-      "arbitrum-one": "0x1426cf37caa89628c4da2864e40cf75e6d66ac6b",
-      "polygon-pos": "0x904371845bc56dcbbcf0225ef84a669b2fd6bd0d"
     }
   },
   {
@@ -102750,14 +102706,6 @@
     "name": "RoboHero",
     "platforms": {
       "polygon-pos": "0xb3886b3aaa6087b3d185daeb89ac113d195b5eb9"
-    }
-  },
-  {
-    "id": "robokiden",
-    "symbol": "kiden",
-    "name": "RoboKiden",
-    "platforms": {
-      "avalanche": "0xcc5c80b4ecef7e6561bb4721d8ac3e80b4503a96"
     }
   },
   {
@@ -111883,6 +111831,12 @@
     }
   },
   {
+    "id": "soon",
+    "symbol": "soon",
+    "name": "SOON",
+    "platforms": {}
+  },
+  {
     "id": "soonchain",
     "symbol": "soonx",
     "name": "SoonChain",
@@ -113889,12 +113843,6 @@
     "platforms": {
       "solana": "7hUdUTkJLwdcmt3jSEeqx4ep91sm1XwBxMDaJae6bD5D"
     }
-  },
-  {
-    "id": "stafi-staked-swth",
-    "symbol": "rswth",
-    "name": "StaFi Staked SWTH",
-    "platforms": {}
   },
   {
     "id": "stage",
@@ -117237,6 +117185,14 @@
     "name": "Super Trump",
     "platforms": {
       "ethereum": "0x7039cd6d7966672f194e8139074c3d5c4e6dcf65"
+    }
+  },
+  {
+    "id": "super-trust",
+    "symbol": "sut",
+    "name": "Super Trust",
+    "platforms": {
+      "polygon-pos": "0x98965474ecbec2f532f1f780ee37b0b05f77ca55"
     }
   },
   {
@@ -124017,14 +123973,6 @@
     "name": "Tron Rice",
     "platforms": {
       "tron": "TAcN65mudDue4bqe7LTmHgjiiQdT92H1we"
-    }
-  },
-  {
-    "id": "troop",
-    "symbol": "troop",
-    "name": "Troop",
-    "platforms": {
-      "the-open-network": "EQBUyhHYmhanEA3s6kFVc-vKTyLwVfUfnajV0EptPMT_1H_6"
     }
   },
   {

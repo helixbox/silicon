@@ -4,8 +4,16 @@
   "keywords": [
     "defi"
   ],
-  "timestamp": "2025-03-28T10:00:08.448+00:00",
+  "timestamp": "2025-04-05T10:00:07.653+00:00",
   "tokens": [
+    {
+      "chainId": 1088,
+      "address": "0x2583a2538272f31e9a15dd12a432b8c96ab4821d",
+      "name": "Staked Metis Token",
+      "symbol": "ARTMETIS",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/36629/thumb/artMETIS.png?1712021137"
+    },
     {
       "chainId": 1088,
       "address": "0x721532bc0da5ffaeb0a6a45fb24271e8098629a7",
@@ -21,22 +29,6 @@
       "symbol": "MONKEX",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/28834/thumb/monkexlogo.png?1703415265"
-    },
-    {
-      "chainId": 1088,
-      "address": "0x420000000000000000000000000000000000000a",
-      "name": "Metis Bridged WETH  Metis Andromeda ",
-      "symbol": "WETH",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/39719/thumb/WETH.PNG?1723732336"
-    },
-    {
-      "chainId": 1088,
-      "address": "0x096a84536ab84e68ee210561ffd3a038e79736f1",
-      "name": "ENKI Protocol",
-      "symbol": "ENKI",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/37228/thumb/token-logo.png?1713779279"
     },
     {
       "chainId": 1088,
@@ -56,19 +48,19 @@
     },
     {
       "chainId": 1088,
-      "address": "0x2583a2538272f31e9a15dd12a432b8c96ab4821d",
-      "name": "Staked Metis Token",
-      "symbol": "ARTMETIS",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/36629/thumb/artMETIS.png?1712021137"
-    },
-    {
-      "chainId": 1088,
       "address": "0x966b25d174be6ba703e0ff80c68bb6e167236ba2",
       "name": "Revenant",
       "symbol": "GAMEFI",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/26005/thumb/icon.png?1696525082"
+    },
+    {
+      "chainId": 1088,
+      "address": "0x096a84536ab84e68ee210561ffd3a038e79736f1",
+      "name": "ENKI Protocol",
+      "symbol": "ENKI",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/37228/thumb/token-logo.png?1713779279"
     },
     {
       "chainId": 1088,
@@ -80,11 +72,11 @@
     },
     {
       "chainId": 1088,
-      "address": "0x75cb093e4d61d2a2e65d8e0bbb01de8d89b53481",
-      "name": "Wrapped Metis",
-      "symbol": "WMETIS",
+      "address": "0x6f05709bc91bad933346f9e159f0d3fdbc2c9dce",
+      "name": "Hera Finance",
+      "symbol": "HERA",
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/34526/thumb/metis.jpeg?1705305707"
+      "logoURI": "https://assets.coingecko.com/coins/images/24751/thumb/heraLogo-200px.png?1721043422"
     },
     {
       "chainId": 1088,
@@ -104,6 +96,14 @@
     },
     {
       "chainId": 1088,
+      "address": "0x420000000000000000000000000000000000000a",
+      "name": "Metis Bridged WETH  Metis Andromeda ",
+      "symbol": "WETH",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/39719/thumb/WETH.PNG?1723732336"
+    },
+    {
+      "chainId": 1088,
       "address": "0xa4ee142e34d0676edc2b760dd0016003d99a4cec",
       "name": "Athena Finance",
       "symbol": "ATH",
@@ -120,11 +120,11 @@
     },
     {
       "chainId": 1088,
-      "address": "0x6f05709bc91bad933346f9e159f0d3fdbc2c9dce",
-      "name": "Hera Finance",
-      "symbol": "HERA",
+      "address": "0x75cb093e4d61d2a2e65d8e0bbb01de8d89b53481",
+      "name": "Wrapped Metis",
+      "symbol": "WMETIS",
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/24751/thumb/heraLogo-200px.png?1721043422"
+      "logoURI": "https://assets.coingecko.com/coins/images/34526/thumb/metis.jpeg?1705305707"
     },
     {
       "chainId": 1088,
@@ -264,14 +264,6 @@
     },
     {
       "chainId": 1088,
-      "address": "0xfe282af5f9eb59c30a3f78789eeffa704188bdd4",
-      "name": "Relay Chain",
-      "symbol": "RELAY",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/17816/thumb/relay-logo-200.png?1696517336"
-    },
-    {
-      "chainId": 1088,
       "address": "0xdfa46478f9e5ea86d57387849598dbfb2e964b02",
       "name": "MAI",
       "symbol": "MIMATIC",
@@ -304,7 +296,7 @@
     }
   ],
   "version": {
-    "major": 13,
+    "major": 14,
     "minor": 0,
     "patch": 0
   }
