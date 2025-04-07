@@ -4,8 +4,16 @@
   "keywords": [
     "defi"
   ],
-  "timestamp": "2025-03-29T12:00:39.523+00:00",
+  "timestamp": "2025-04-07T08:00:36.187+00:00",
   "tokens": [
+    {
+      "chainId": 534352,
+      "address": "0x61a9cc561b6c1f9c31bcdeb447afecf25f33bbf9",
+      "name": "Pandacoin Inu",
+      "symbol": "PANDA",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/35746/thumb/panda.jpeg?1709714542"
+    },
     {
       "chainId": 534352,
       "address": "0xd29687c813d741e2f938f4ac377128810e217b1b",
@@ -16,19 +24,11 @@
     },
     {
       "chainId": 534352,
-      "address": "0xf55bec9cafdbe8730f096aa55dad6d22d44099df",
-      "name": "Bridged Tether  Scroll ",
-      "symbol": "USDT",
-      "decimals": 6,
-      "logoURI": "https://assets.coingecko.com/coins/images/32610/thumb/usdt_%281%29.png?1698733524"
-    },
-    {
-      "chainId": 534352,
-      "address": "0xfec65bfb6e5bbcc9ab8ae98f62a8aab2ea51c495",
-      "name": "Perseid Finance",
-      "symbol": "PED",
+      "address": "0x2147a89fb4608752807216d5070471c09a0dce32",
+      "name": "Z Protocol",
+      "symbol": "ZP",
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/32805/thumb/perseid.png?1704711269"
+      "logoURI": "https://assets.coingecko.com/coins/images/36011/thumb/about_img01.png?1710324761"
     },
     {
       "chainId": 534352,
@@ -56,27 +56,19 @@
     },
     {
       "chainId": 534352,
+      "address": "0xf55bec9cafdbe8730f096aa55dad6d22d44099df",
+      "name": "Bridged Tether  Scroll ",
+      "symbol": "USDT",
+      "decimals": 6,
+      "logoURI": "https://assets.coingecko.com/coins/images/32610/thumb/usdt_%281%29.png?1698733524"
+    },
+    {
+      "chainId": 534352,
       "address": "0x5300000000000000000000000000000000000004",
       "name": "Bridged Wrapped Ether  Scroll ",
       "symbol": "WETH",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/32315/thumb/weth_%281%29.png?1697365181"
-    },
-    {
-      "chainId": 534352,
-      "address": "0x0fc479e2f9b7310bfb1db606cf565dea6910eedc",
-      "name": "Papyrus Swap",
-      "symbol": "PAPYRUS",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/32479/thumb/PapyrusLogo.png?1698286849"
-    },
-    {
-      "chainId": 534352,
-      "address": "0x61a9cc561b6c1f9c31bcdeb447afecf25f33bbf9",
-      "name": "Pandacoin Inu",
-      "symbol": "PANDA",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/35746/thumb/panda.jpeg?1709714542"
     },
     {
       "chainId": 534352,
@@ -96,14 +88,6 @@
     },
     {
       "chainId": 534352,
-      "address": "0x2147a89fb4608752807216d5070471c09a0dce32",
-      "name": "Z Protocol",
-      "symbol": "ZP",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/36011/thumb/about_img01.png?1710324761"
-    },
-    {
-      "chainId": 534352,
       "address": "0x750351a9f75f98f2c2e91d4edb3beb14e719557e",
       "name": "Scribes",
       "symbol": "SCRIBES",
@@ -117,6 +101,22 @@
       "symbol": "SKY",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/33902/thumb/icon_200x200.png?1703237670"
+    },
+    {
+      "chainId": 534352,
+      "address": "0x0fc479e2f9b7310bfb1db606cf565dea6910eedc",
+      "name": "Papyrus Swap",
+      "symbol": "PAPYRUS",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/32479/thumb/PapyrusLogo.png?1698286849"
+    },
+    {
+      "chainId": 534352,
+      "address": "0xfec65bfb6e5bbcc9ab8ae98f62a8aab2ea51c495",
+      "name": "Perseid Finance",
+      "symbol": "PED",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/32805/thumb/perseid.png?1704711269"
     },
     {
       "chainId": 534352,
@@ -248,6 +248,14 @@
     },
     {
       "chainId": 534352,
+      "address": "0xc53ac24320e3a54c7211e4993c8095078a0cb3cf",
+      "name": "Wild Goat Coin",
+      "symbol": "WGC",
+      "decimals": 6,
+      "logoURI": "https://assets.coingecko.com/coins/images/37966/thumb/COIN_200x200.png?1716778831"
+    },
+    {
+      "chainId": 534352,
       "address": "0x60d01ec2d5e98ac51c8b4cf84dfcce98d527c747",
       "name": "iZUMi Finance",
       "symbol": "IZI",
@@ -321,7 +329,7 @@
   ],
   "version": {
     "major": 8,
-    "minor": 2,
+    "minor": 3,
     "patch": 0
   }
 }

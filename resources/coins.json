@@ -22730,6 +22730,14 @@
     }
   },
   {
+    "id": "burr-governance-token",
+    "symbol": "burr",
+    "name": "Burr Governance Token",
+    "platforms": {
+      "berachain": "0x28e0e3b9817012b356119df9e217c25932d609c2"
+    }
+  },
+  {
     "id": "burrial",
     "symbol": "burry",
     "name": "Burrial",
@@ -27465,6 +27473,14 @@
     "name": "Clearpool",
     "platforms": {
       "ethereum": "0x66761fa41377003622aee3c7675fc7b5c1c2fac5"
+    }
+  },
+  {
+    "id": "clearstar-openeden-usdc",
+    "symbol": "cousdc",
+    "name": "Clearstar OpenEden USDC",
+    "platforms": {
+      "base": "0x1d3b1cd0a0f242d598834b3f2d126dc6bd774657"
     }
   },
   {
@@ -101071,7 +101087,7 @@
     "symbol": "rusdc-stark",
     "name": "Relend Network USDC - Starknet",
     "platforms": {
-      "starknet": "0x02019e47a0bc54ea6b4853c6123ffc8158ea3ae2af4166928b0de6e89f06de6c"
+      "starknet": "0x2019e47a0bc54ea6b4853c6123ffc8158ea3ae2af4166928b0de6e89f06de6c"
     }
   },
   {
@@ -131609,12 +131625,20 @@
     "symbol": "wgc",
     "name": "Wild Goat Coin",
     "platforms": {
-      "solana": "4Eb7ReeT936hX25KMBfYtyP1RWDdd9iixEwGJroACeLC",
-      "optimistic-ethereum": "0x67631ff69130ea1a6c4feaa4a0abf0a1e0148be7",
-      "sui": "0x492ff7bc419c2502604980c486aa291d48f7ffc10e8073f38c59329491f106d5::coin::COIN",
-      "ethereum": "0x6acb9ac319bafe509af9e96be642ead00526b9fa",
-      "polygon-pos": "0x04565fe9aa3ae571ada8e1bebf8282c4e5247b2a",
-      "base": "0xfb18511f1590a494360069f3640c27d55c2b5290"
+      "solana": "8aB8hdzyqjCJdtP1rfdLNX8bGDjjM8S42BZ3j4zNVtRN",
+      "ethereum": "0xc53ac24320e3a54c7211e4993c8095078a0cb3cf",
+      "arbitrum-one": "0xc53ac24320e3a54c7211e4993c8095078a0cb3cf",
+      "optimistic-ethereum": "0xc53ac24320e3a54c7211e4993c8095078a0cb3cf",
+      "berachain": "0xc53ac24320e3a54c7211e4993c8095078a0cb3cf",
+      "beam": "0xc53ac24320e3a54c7211e4993c8095078a0cb3cf",
+      "celo": "0xc53ac24320e3a54c7211e4993c8095078a0cb3cf",
+      "linea": "0xc53ac24320e3a54c7211e4993c8095078a0cb3cf",
+      "mantle": "0xc53ac24320e3a54c7211e4993c8095078a0cb3cf",
+      "opbnb": "0xc53ac24320e3a54c7211e4993c8095078a0cb3cf",
+      "polygon-pos": "0xc53ac24320e3a54c7211e4993c8095078a0cb3cf",
+      "scroll": "0xc53ac24320e3a54c7211e4993c8095078a0cb3cf",
+      "sonic": "0xc53ac24320e3a54c7211e4993c8095078a0cb3cf",
+      "x-layer": "0xc53ac24320e3a54c7211e4993c8095078a0cb3cf"
     }
   },
   {
