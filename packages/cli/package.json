@@ -1,6 +1,6 @@
 {
   "name": "@helixbox/silicon-cli",
-  "version": "0.1.26",
+  "version": "0.1.27",
   "description": "helixbox silicon",
   "main": "build/index.js",
   "private": true,
@@ -11,24 +11,24 @@
     "lint": "eslint . --ext .ts --fix"
   },
   "dependencies": {
-    "chalk": "^4",
-    "commander": "^12",
-    "reflect-metadata": "^0.2",
-    "typedi": "^0.10",
+    "@jvitela/mustache-wax": "^1",
     "@uniswap/token-lists": "^1.0.0-beta.34",
     "axios": "^1",
-    "viem": "^2",
-    "@jvitela/mustache-wax": "^1",
+    "case": "^1",
+    "chalk": "^4",
+    "commander": "^12",
     "mustache": "^4",
-    "case": "^1"
+    "reflect-metadata": "^0.2",
+    "typedi": "^0.10",
+    "viem": "^2"
   },
   "devDependencies": {
     "@types/node": "^22",
-    "ts-node": "^10",
-    "typescript": "^5",
-    "eslint": "^8",
     "@typescript-eslint/eslint-plugin": "^5",
-    "@typescript-eslint/parser": "^5"
+    "@typescript-eslint/parser": "^5",
+    "eslint": "^8",
+    "ts-node": "^10",
+    "typescript": "^5"
   },
   "files": [
     "dist",
