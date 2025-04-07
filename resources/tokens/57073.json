@@ -1,34 +1,18 @@
 {
   "name": "CoinGecko",
-  "logoURI": "https://static.coingecko.com/s/thumbnail-007177f3eca19695592f0b8b0eabbdae282b54154e1be912285c9034ea6cbaf2.png",
+  "logoURI": "https://static.coingecko.com/gecko-new.svg",
   "keywords": [
     "defi"
   ],
-  "timestamp": "2025-03-21T19:00:24.157+00:00",
+  "timestamp": "2025-04-07T10:00:25.883+00:00",
   "tokens": [
     {
       "chainId": 57073,
-      "address": "0x20c69c12abf2b6f8d8ca33604dd25c700c7e70a5",
-      "name": "Cat Call Agent",
-      "symbol": "CAT",
+      "address": "0xbf0cafcbaaf0be8221ae8d630500984edc908861",
+      "name": "Squidswap",
+      "symbol": "SQUIDS",
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/54745/thumb/DV_dS5E9_400x400_%282%29.png?1741326959"
-    },
-    {
-      "chainId": 57073,
-      "address": "0xca5f2ccbd9c40b32657df57c716de44237f80f05",
-      "name": "Kraken",
-      "symbol": "KRAKEN",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/52919/thumb/kraken.jpg?1734685461"
-    },
-    {
-      "chainId": 57073,
-      "address": "0x0c5e2d1c98cd265c751e02f8f3293bc5764f9111",
-      "name": "Shroomy",
-      "symbol": "SHROOMY",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/54002/thumb/1000000182.jpg?1737942213"
+      "logoURI": "https://assets.coingecko.com/coins/images/53494/thumb/squidswap.jpg?1736504228"
     },
     {
       "chainId": 57073,
@@ -40,11 +24,27 @@
     },
     {
       "chainId": 57073,
-      "address": "0xbf0cafcbaaf0be8221ae8d630500984edc908861",
-      "name": "Squidswap",
-      "symbol": "SQUIDS",
+      "address": "0x4200000000000000000000000000000000000006",
+      "name": "Ink Bridged WETH  Ink ",
+      "symbol": "WETH",
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/53494/thumb/squidswap.jpg?1736504228"
+      "logoURI": "https://assets.coingecko.com/coins/images/52918/thumb/weth_2.jpg?1734684690"
+    },
+    {
+      "chainId": 57073,
+      "address": "0x20c69c12abf2b6f8d8ca33604dd25c700c7e70a5",
+      "name": "Cat Call Agent",
+      "symbol": "CAT",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/54745/thumb/DV_dS5E9_400x400_%282%29.png?1741326959"
+    },
+    {
+      "chainId": 57073,
+      "address": "0x0c5e2d1c98cd265c751e02f8f3293bc5764f9111",
+      "name": "Shroomy",
+      "symbol": "SHROOMY",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/54002/thumb/1000000182.jpg?1737942213"
     },
     {
       "chainId": 57073,
@@ -56,11 +56,11 @@
     },
     {
       "chainId": 57073,
-      "address": "0x4200000000000000000000000000000000000006",
-      "name": "Ink Bridged WETH  Ink ",
-      "symbol": "WETH",
+      "address": "0xca5f2ccbd9c40b32657df57c716de44237f80f05",
+      "name": "Kraken",
+      "symbol": "KRAKEN",
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/52918/thumb/weth_2.jpg?1734684690"
+      "logoURI": "https://assets.coingecko.com/coins/images/52919/thumb/kraken.jpg?1734685461"
     },
     {
       "chainId": 57073,
@@ -85,11 +85,19 @@
       "symbol": "KBTC",
       "decimals": 8,
       "logoURI": "https://assets.coingecko.com/coins/images/50879/thumb/kBTC.png?1730321084"
+    },
+    {
+      "chainId": 57073,
+      "address": "0x3d63825b0d8669307366e6c8202f656b9e91d368",
+      "name": "Wild Goat Coin",
+      "symbol": "WGC",
+      "decimals": 6,
+      "logoURI": "https://assets.coingecko.com/coins/images/37966/thumb/COIN_200x200.png?1716778831"
     }
   ],
   "version": {
     "major": 1,
-    "minor": 3,
+    "minor": 4,
     "patch": 0
   }
 }
