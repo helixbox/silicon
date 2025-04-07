@@ -495,6 +495,9 @@ class SyncTokenRuntime {
   }
 
   private sortTokensByLevenshtein(tokens: SiliconToken[], querySymbols: string[]): SiliconToken[] {
+    if (querySymbols.length > 0 && querySymbols[0].startsWith("0x")) {
+      return tokens;
+    }
     return tokens.sort((a, b) => {
       const aScore = Math.min(...querySymbols.map(q => levenshtein.get(a.symbol, q)));
       const bScore = Math.min(...querySymbols.map(q => levenshtein.get(b.symbol, q)));
