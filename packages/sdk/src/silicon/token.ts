@@ -1,6 +1,6 @@
 import axios from "axios";
 import { TokenInfo, TokenList } from "@uniswap/token-lists";
-import levenshtein from 'fast-levenshtein';
+import levenshtein from "fast-levenshtein";
 
 import { HbChain, HelixboxChain } from "./chain";
 
@@ -401,9 +401,7 @@ class SyncTokenRuntime {
             (item) =>
               item.symbol.toUpperCase().indexOf(itkn.toUpperCase()) != -1
           );
-          const fuzzyList = [
-            ...fuzzyFoundedTokenBySymbol,
-          ];
+          const fuzzyList = [...fuzzyFoundedTokenBySymbol];
           if (options.enableMatchName ?? false) {
             const fuzzyFoundedTokenByName = tokens.filter((item) => {
               const nameWords = item.name.split(" ");
@@ -456,7 +454,8 @@ class SyncTokenRuntime {
               logoURI = logoURI.replace("/thumb/", "/large/");
             }
             if (!logoURI) {
-              logoURI = 'https://raw.githubusercontent.com/darwinia-network/devops/refs/heads/main/assets/tokens/PLACEHOLDER.png';
+              logoURI =
+                "https://raw.githubusercontent.com/darwinia-network/devops/refs/heads/main/assets/tokens/PLACEHOLDER.png";
             }
             siliconToken = {
               logoURI,
@@ -494,10 +493,20 @@ class SyncTokenRuntime {
     return this.sortTokensByLevenshtein(tokens, options.tokens);
   }
 
-  private sortTokensByLevenshtein(tokens: SiliconToken[], querySymbols: string[]): SiliconToken[] {
+  private sortTokensByLevenshtein(
+    tokens: SiliconToken[],
+    querySymbols: string[]
+  ): SiliconToken[] {
+    if (querySymbols.length && querySymbols[0].toLowerCase().startsWith("0x")) {
+      return tokens;
+    }
     return tokens.sort((a, b) => {
-      const aScore = Math.min(...querySymbols.map(q => levenshtein.get(a.symbol, q)));
-      const bScore = Math.min(...querySymbols.map(q => levenshtein.get(b.symbol, q)));
+      const aScore = Math.min(
+        ...querySymbols.map((q) => levenshtein.get(a.symbol, q))
+      );
+      const bScore = Math.min(
+        ...querySymbols.map((q) => levenshtein.get(b.symbol, q))
+      );
       return aScore - bScore;
     });
   }
