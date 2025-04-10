@@ -280,6 +280,22 @@ class CoinGeckoTokenListGenerator {
     // const data: CoinGeckoPlatform[] = JSON.parse(content);
 
     const allPlatforms = (data ?? []).filter((item) => item.chain_identifier);
+    const customIconChains = [
+      1, 10, 43, 44, 46, 56, 100, 137, 324, 1284, 2818, 5000, 8453, 42161,
+      42220, 43114, 48900, 59144, 80094, 81457, 167000, 534352, 11155111,
+    ];
+    for (const ap of allPlatforms) {
+      if (
+        customIconChains.findIndex((item) => item === ap.chain_identifier) != -1
+      ) {
+        ap.image = {
+          thumb: `https://raw.githubusercontent.com/helixbox/silicon/refs/heads/main/icons/chain/${ap.chain_identifier}.png`,
+          small: `https://raw.githubusercontent.com/helixbox/silicon/refs/heads/main/icons/chain/${ap.chain_identifier}.png`,
+          large: `https://raw.githubusercontent.com/helixbox/silicon/refs/heads/main/icons/chain/${ap.chain_identifier}.png`,
+        };
+      }
+    }
+
     if (!options.platforms || !options.platforms.length) {
       return allPlatforms;
     }
@@ -291,21 +307,6 @@ class CoinGeckoTokenListGenerator {
           o === item.chain_identifier.toString()
       );
     });
-    const customIconChains = [
-      1, 10, 43, 44, 46, 56, 100, 137, 324, 1284, 2818, 5000, 8453, 42161,
-      42220, 43114, 48900, 59144, 80094, 81457, 167000, 534352, 11155111,
-    ];
-    for (const ap of allowPlatforms) {
-      if (
-        customIconChains.findIndex((item) => item === ap.chain_identifier) != -1
-      ) {
-        ap.image = {
-          thumb: `https://raw.githubusercontent.com/helixbox/silicon/refs/heads/main/icons/chain/${ap.chain_identifier}.png`,
-          small: `https://raw.githubusercontent.com/helixbox/silicon/refs/heads/main/icons/chain/${ap.chain_identifier}.png`,
-          large: `https://raw.githubusercontent.com/helixbox/silicon/refs/heads/main/icons/chain/${ap.chain_identifier}.png`,
-        };
-      }
-    }
     return allowPlatforms;
   }
 }
