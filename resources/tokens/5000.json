@@ -1,11 +1,19 @@
 {
   "name": "CoinGecko",
-  "logoURI": "https://static.coingecko.com/s/thumbnail-007177f3eca19695592f0b8b0eabbdae282b54154e1be912285c9034ea6cbaf2.png",
+  "logoURI": "https://static.coingecko.com/gecko-new.svg",
   "keywords": [
     "defi"
   ],
-  "timestamp": "2025-04-07T08:00:11.235+00:00",
+  "timestamp": "2025-04-09T05:00:12.473+00:00",
   "tokens": [
+    {
+      "chainId": 5000,
+      "address": "0x201eba5cc46d216ce6dc03f6a759e8e766e956ae",
+      "name": "Mantle Bridged USDT  Mantle ",
+      "symbol": "USDT",
+      "decimals": 6,
+      "logoURI": "https://assets.coingecko.com/coins/images/35069/thumb/logo.png?1707291114"
+    },
     {
       "chainId": 5000,
       "address": "0xd2b4c9b0d70e3da1fbdd98f469bd02e77e12fc79",
@@ -13,14 +21,6 @@
       "symbol": "AUSD",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/37318/thumb/aUSD.png?1713975421"
-    },
-    {
-      "chainId": 5000,
-      "address": "0x51cfe5b1e764dc253f4c8c1f19a081ff4c3517ed",
-      "name": "Mantle Inu",
-      "symbol": "MINU",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/31014/thumb/mantle-inu.jpeg?1696529851"
     },
     {
       "chainId": 5000,
@@ -40,35 +40,11 @@
     },
     {
       "chainId": 5000,
-      "address": "0x201eba5cc46d216ce6dc03f6a759e8e766e956ae",
-      "name": "Mantle Bridged USDT  Mantle ",
-      "symbol": "USDT",
-      "decimals": 6,
-      "logoURI": "https://assets.coingecko.com/coins/images/35069/thumb/logo.png?1707291114"
-    },
-    {
-      "chainId": 5000,
       "address": "0x78c1b0c915c4faa5fffa6cabf0219da63d7f4cb8",
       "name": "Wrapped Mantle",
       "symbol": "WMNT",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/30983/thumb/mantle.jpeg?1696529822"
-    },
-    {
-      "chainId": 5000,
-      "address": "0x779f4e5fb773e17bc8e809f4ef1abb140861159a",
-      "name": "KTX Finance",
-      "symbol": "KTC",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/30537/thumb/KTX.jpeg?1696529409"
-    },
-    {
-      "chainId": 5000,
-      "address": "0x25356aeca4210ef7553140edb9b8026089e49396",
-      "name": "Lendle",
-      "symbol": "LEND",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/31588/thumb/lendle_logo_200_200_cg.png?1696530405"
     },
     {
       "chainId": 5000,
@@ -88,11 +64,35 @@
     },
     {
       "chainId": 5000,
+      "address": "0x779f4e5fb773e17bc8e809f4ef1abb140861159a",
+      "name": "KTX Finance",
+      "symbol": "KTC",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/30537/thumb/KTX.jpeg?1696529409"
+    },
+    {
+      "chainId": 5000,
+      "address": "0x25356aeca4210ef7553140edb9b8026089e49396",
+      "name": "Lendle",
+      "symbol": "LEND",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/31588/thumb/lendle_logo_200_200_cg.png?1696530405"
+    },
+    {
+      "chainId": 5000,
       "address": "0x5a093a9c4f440c6b105f0af7f7c4f1fbe45567f9",
       "name": "Stratum Exchange",
       "symbol": "STRAT",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/33646/thumb/coin_strat.png?1702541330"
+    },
+    {
+      "chainId": 5000,
+      "address": "0x51cfe5b1e764dc253f4c8c1f19a081ff4c3517ed",
+      "name": "Mantle Inu",
+      "symbol": "MINU",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/31014/thumb/mantle-inu.jpeg?1696529851"
     },
     {
       "chainId": 5000,
@@ -184,10 +184,10 @@
     {
       "chainId": 5000,
       "address": "0x1d40bafc49c37cda49f2a5427e2fb95e1e3fcf20",
-      "name": "Solv Protocol SolvBTC BBN",
-      "symbol": "SOLVBTCBBN",
+      "name": "Solv Protocol xSolvBTC",
+      "symbol": "XSOLVBTC",
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/39384/thumb/unnamed.png?1721961640"
+      "logoURI": "https://assets.coingecko.com/coins/images/39384/thumb/xSolvBTC.png?1744170824"
     },
     {
       "chainId": 5000,
@@ -409,6 +409,6 @@
   "version": {
     "major": 9,
     "minor": 2,
-    "patch": 0
+    "patch": 1
   }
 }

@@ -1,35 +1,11 @@
 {
   "name": "CoinGecko",
-  "logoURI": "https://static.coingecko.com/s/thumbnail-007177f3eca19695592f0b8b0eabbdae282b54154e1be912285c9034ea6cbaf2.png",
+  "logoURI": "https://static.coingecko.com/gecko-new.svg",
   "keywords": [
     "defi"
   ],
-  "timestamp": "2025-04-07T08:00:15.799+00:00",
+  "timestamp": "2025-04-09T10:00:28.339+00:00",
   "tokens": [
-    {
-      "chainId": 59144,
-      "address": "0x3aab2285ddcddad8edf438c1bab47e1a9d05a9b4",
-      "name": "Linea Bridged WBTC  Linea ",
-      "symbol": "WBTC",
-      "decimals": 8,
-      "logoURI": "https://assets.coingecko.com/coins/images/50164/thumb/wbtc.png?1726136135"
-    },
-    {
-      "chainId": 59144,
-      "address": "0x1a51b19ce03dbe0cb44c1528e34a7edd7771e9af",
-      "name": "Lynex",
-      "symbol": "LYNX",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/34874/thumb/LogoCircular_200x200.png?1706462851"
-    },
-    {
-      "chainId": 59144,
-      "address": "0xb5bedd42000b71fdde22d3ee8a79bd49a568fc8f",
-      "name": "Linea Bridged wstETH  Linea ",
-      "symbol": "WSTETH",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/53016/thumb/steth.png?1734994259"
-    },
     {
       "chainId": 59144,
       "address": "0x81be2acb2e9291db6400f9f6a4d0f35f24de2e77",
@@ -37,22 +13,6 @@
       "symbol": "LPUSS",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/51867/thumb/linpuss_logo.png?1732093865"
-    },
-    {
-      "chainId": 59144,
-      "address": "0x176211869ca2b568f2a7d4ee941e073a821ee1ff",
-      "name": "Bridged USD Coin  Linea ",
-      "symbol": "USDC",
-      "decimals": 6,
-      "logoURI": "https://assets.coingecko.com/coins/images/31270/thumb/USDC-icon.png?1696530094"
-    },
-    {
-      "chainId": 59144,
-      "address": "0xd2671165570f41bbb3b0097893300b6eb6101e6c",
-      "name": "Wrapped rsETH",
-      "symbol": "WRSETH",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/37919/thumb/rseth.png?1715936438"
     },
     {
       "chainId": 59144,
@@ -72,14 +32,6 @@
     },
     {
       "chainId": 59144,
-      "address": "0x82cc61354d78b846016b559e3ccd766fa7e793d5",
-      "name": "Linda",
-      "symbol": "LINDA",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/33699/thumb/linda-logo-200.png?1705166731"
-    },
-    {
-      "chainId": 59144,
       "address": "0x0b1a02a7309dfbfad1cd4adc096582c87e8a3ac1",
       "name": "Horizon",
       "symbol": "HZN",
@@ -96,27 +48,19 @@
     },
     {
       "chainId": 59144,
+      "address": "0x3aab2285ddcddad8edf438c1bab47e1a9d05a9b4",
+      "name": "Linea Bridged WBTC  Linea ",
+      "symbol": "WBTC",
+      "decimals": 8,
+      "logoURI": "https://assets.coingecko.com/coins/images/50164/thumb/wbtc.png?1726136135"
+    },
+    {
+      "chainId": 59144,
       "address": "0x5471ea8f739dd37e9b81be9c5c77754d8aa953e4",
       "name": "Celer Bridged WAVAX  Linea ",
       "symbol": "WAVAX",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/53094/thumb/celer-bridged-wavax-linea.png?1735220790"
-    },
-    {
-      "chainId": 59144,
-      "address": "0x4af15ec2a0bd43db75dd04e62faa3b8ef36b00d5",
-      "name": "Bridged Dai Stablecoin  Linea ",
-      "symbol": "DAI",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/31272/thumb/dai-stablecoin.png?1696530095"
-    },
-    {
-      "chainId": 59144,
-      "address": "0xd83af4fbd77f3ab65c3b1dc4b38d7e67aecf599a",
-      "name": "Linea Voyage XP",
-      "symbol": "LXP",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/34795/thumb/lxp-1.png?1706032525"
     },
     {
       "chainId": 59144,
@@ -136,11 +80,27 @@
     },
     {
       "chainId": 59144,
-      "address": "0x5fbdf89403270a1846f5ae7d113a989f850d1566",
-      "name": "Foxy",
-      "symbol": "FOXY",
+      "address": "0xd2671165570f41bbb3b0097893300b6eb6101e6c",
+      "name": "Wrapped rsETH",
+      "symbol": "WRSETH",
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/36870/thumb/Foxy_Logo_Square_200x200.png?1712645286"
+      "logoURI": "https://assets.coingecko.com/coins/images/37919/thumb/rseth.png?1715936438"
+    },
+    {
+      "chainId": 59144,
+      "address": "0xd83af4fbd77f3ab65c3b1dc4b38d7e67aecf599a",
+      "name": "Linea Voyage XP",
+      "symbol": "LXP",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/34795/thumb/lxp-1.png?1706032525"
+    },
+    {
+      "chainId": 59144,
+      "address": "0x4af15ec2a0bd43db75dd04e62faa3b8ef36b00d5",
+      "name": "Bridged Dai Stablecoin  Linea ",
+      "symbol": "DAI",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/31272/thumb/dai-stablecoin.png?1696530095"
     },
     {
       "chainId": 59144,
@@ -149,6 +109,46 @@
       "symbol": "USDT+",
       "decimals": 6,
       "logoURI": "https://assets.coingecko.com/coins/images/30168/thumb/USDT_.png?1696529088"
+    },
+    {
+      "chainId": 59144,
+      "address": "0x82cc61354d78b846016b559e3ccd766fa7e793d5",
+      "name": "Linda",
+      "symbol": "LINDA",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/33699/thumb/linda-logo-200.png?1705166731"
+    },
+    {
+      "chainId": 59144,
+      "address": "0x1a51b19ce03dbe0cb44c1528e34a7edd7771e9af",
+      "name": "Lynex",
+      "symbol": "LYNX",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/34874/thumb/LogoCircular_200x200.png?1706462851"
+    },
+    {
+      "chainId": 59144,
+      "address": "0x176211869ca2b568f2a7d4ee941e073a821ee1ff",
+      "name": "Bridged USD Coin  Linea ",
+      "symbol": "USDC",
+      "decimals": 6,
+      "logoURI": "https://assets.coingecko.com/coins/images/31270/thumb/USDC-icon.png?1696530094"
+    },
+    {
+      "chainId": 59144,
+      "address": "0x5fbdf89403270a1846f5ae7d113a989f850d1566",
+      "name": "Foxy",
+      "symbol": "FOXY",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/36870/thumb/Foxy_Logo_Square_200x200.png?1712645286"
+    },
+    {
+      "chainId": 59144,
+      "address": "0xb5bedd42000b71fdde22d3ee8a79bd49a568fc8f",
+      "name": "Linea Bridged wstETH  Linea ",
+      "symbol": "WSTETH",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/53016/thumb/steth.png?1734994259"
     },
     {
       "chainId": 59144,
@@ -357,14 +357,6 @@
       "symbol": "RYZE",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/50814/thumb/Aryze_Pfp_For_Both.png?1729238552"
-    },
-    {
-      "chainId": 59144,
-      "address": "0xddf7d080c82b8048baae54e376a3406572429b4e",
-      "name": "GODDOG",
-      "symbol": "OOOOOO",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/38157/thumb/Goddog_logo_for_Coingecko_200x200.png?1716669510"
     },
     {
       "chainId": 59144,
@@ -640,8 +632,8 @@
     }
   ],
   "version": {
-    "major": 13,
-    "minor": 1,
+    "major": 14,
+    "minor": 0,
     "patch": 0
   }
 }
