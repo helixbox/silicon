@@ -296,9 +296,7 @@ class CoinGeckoTokenListGenerator {
       42220, 43114, 48900, 59144, 80094, 81457, 167000, 534352, 11155111,
     ];
     for (const ap of allowPlatforms) {
-      if (
-        customIconChains.findIndex((item) => item === ap.chain_identifier) != -1
-      ) {
+      if (customIconChains.includes(ap.chain_identifier)) {
         ap.image = {
           thumb: `https://raw.githubusercontent.com/helixbox/silicon/refs/heads/main/icons/chain/${ap.chain_identifier}.png`,
           small: `https://raw.githubusercontent.com/helixbox/silicon/refs/heads/main/icons/chain/${ap.chain_identifier}.png`,
