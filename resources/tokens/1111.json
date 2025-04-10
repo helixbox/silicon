@@ -1,11 +1,27 @@
 {
   "name": "CoinGecko",
-  "logoURI": "https://static.coingecko.com/s/thumbnail-007177f3eca19695592f0b8b0eabbdae282b54154e1be912285c9034ea6cbaf2.png",
+  "logoURI": "https://static.coingecko.com/gecko-new.svg",
   "keywords": [
     "defi"
   ],
-  "timestamp": "2025-03-04T10:00:09.919+00:00",
+  "timestamp": "2025-04-10T10:00:20.163+00:00",
   "tokens": [
+    {
+      "chainId": 1111,
+      "address": "0x732e6973595136976173af4a56eac99f52becc6e",
+      "name": "MORION",
+      "symbol": "MOR",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/39076/thumb/morion-type01.png?1720249095"
+    },
+    {
+      "chainId": 1111,
+      "address": "0xc50a55ca9d4b7804471de1e44f3c3ce8216d8ea0",
+      "name": "PAPYRUS",
+      "symbol": "PAP",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/39917/thumb/papyrus-type01.png?1724786963"
+    },
     {
       "chainId": 1111,
       "address": "0xd1445bcbe14ce5edf7ae887e3f3f82f7bda12af3",
@@ -13,6 +29,14 @@
       "symbol": "PRO",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/39796/thumb/promote-type01_%281%29.png?1724118675"
+    },
+    {
+      "chainId": 1111,
+      "address": "0x8e81fcc2d4a3baa0ee9044e0d7e36f59c9bba9c1",
+      "name": "WEMIX Dollar",
+      "symbol": "WEMIX",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/28637/thumb/wemix_dollar.png?1696527620"
     },
     {
       "chainId": 1111,
@@ -24,11 +48,11 @@
     },
     {
       "chainId": 1111,
-      "address": "0xcd47647d94ef20ff75d112820fd44ce218441712",
-      "name": "Summoners League",
-      "symbol": "SUMMON",
+      "address": "0x7d72b22a74a216af4a002a1095c8c707d6ec1c5f",
+      "name": "WWEMIX",
+      "symbol": "WWEMIX",
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/35634/thumb/sl_token_200.png?1709293854"
+      "logoURI": "https://assets.coingecko.com/coins/images/28633/thumb/wemix.png?1696527617"
     },
     {
       "chainId": 1111,
@@ -48,43 +72,11 @@
     },
     {
       "chainId": 1111,
-      "address": "0x1babb9d9a013533fa48ba874580afd7bea9278ef",
-      "name": "Icarus M  Guild War VELZEROTH",
-      "symbol": "VEL",
+      "address": "0xcd47647d94ef20ff75d112820fd44ce218441712",
+      "name": "Summoners League",
+      "symbol": "SUMMON",
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/35637/thumb/VEL_Resize_VALOFE_240229.png?1709294388"
-    },
-    {
-      "chainId": 1111,
-      "address": "0xc50a55ca9d4b7804471de1e44f3c3ce8216d8ea0",
-      "name": "PAPYRUS",
-      "symbol": "PAP",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/39917/thumb/papyrus-type01.png?1724786963"
-    },
-    {
-      "chainId": 1111,
-      "address": "0x732e6973595136976173af4a56eac99f52becc6e",
-      "name": "MORION",
-      "symbol": "MOR",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/39076/thumb/morion-type01.png?1720249095"
-    },
-    {
-      "chainId": 1111,
-      "address": "0x8e81fcc2d4a3baa0ee9044e0d7e36f59c9bba9c1",
-      "name": "WEMIX Dollar",
-      "symbol": "WEMIX",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/28637/thumb/wemix_dollar.png?1696527620"
-    },
-    {
-      "chainId": 1111,
-      "address": "0x7d72b22a74a216af4a002a1095c8c707d6ec1c5f",
-      "name": "WWEMIX",
-      "symbol": "WWEMIX",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/28633/thumb/wemix.png?1696527617"
+      "logoURI": "https://assets.coingecko.com/coins/images/35634/thumb/sl_token_200.png?1709293854"
     },
     {
       "chainId": 1111,
@@ -96,7 +88,7 @@
     }
   ],
   "version": {
-    "major": 1,
+    "major": 2,
     "minor": 0,
     "patch": 0
   }
