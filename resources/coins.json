@@ -117435,6 +117435,14 @@
     }
   },
   {
+    "id": "sx-rollup-bridged-usdc-sx-rollup",
+    "symbol": "usdc",
+    "name": "SX Rollup Bridged USDC (SX Rollup)",
+    "platforms": {
+      "sx-rollup": "0x6629ce1cf35cc1329ebb4f63202f3f197b3f050b"
+    }
+  },
+  {
     "id": "sybtc",
     "symbol": "sybtc",
     "name": "SyBTC",
@@ -134523,7 +134531,7 @@
     "symbol": "wsx",
     "name": "Wrapped SX",
     "platforms": {
-      "sx-network": "0x3e96b0a25d51e3cc89c557f152797c33b839968f"
+      "sx-rollup": "0x3e96b0a25d51e3cc89c557f152797c33b839968f"
     }
   },
   {
