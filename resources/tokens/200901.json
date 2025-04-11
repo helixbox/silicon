@@ -1,10 +1,10 @@
 {
   "name": "CoinGecko",
-  "logoURI": "https://static.coingecko.com/s/thumbnail-007177f3eca19695592f0b8b0eabbdae282b54154e1be912285c9034ea6cbaf2.png",
+  "logoURI": "https://static.coingecko.com/gecko-new.svg",
   "keywords": [
     "defi"
   ],
-  "timestamp": "2025-03-14T07:00:19.218+00:00",
+  "timestamp": "2025-04-11T11:00:16.829+00:00",
   "tokens": [
     {
       "chainId": 200901,
@@ -48,6 +48,14 @@
     },
     {
       "chainId": 200901,
+      "address": "0x0e4cf4affdb72b39ea91fa726d291781cbd020bf",
+      "name": "Bitlayer BitVM",
+      "symbol": "BTR",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/55177/thumb/App_Logo.png?1744368194"
+    },
+    {
+      "chainId": 200901,
       "address": "0x93919784c523f39cacaa98ee0a9d96c3f32b593e",
       "name": "Universal BTC",
       "symbol": "UNIBTC",
@@ -57,7 +65,7 @@
   ],
   "version": {
     "major": 0,
-    "minor": 6,
+    "minor": 7,
     "patch": 0
   }
 }
