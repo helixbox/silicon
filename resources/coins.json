@@ -134,19 +134,6 @@
     "platforms": {}
   },
   {
-    "id": "0xmonero",
-    "symbol": "0xmr",
-    "name": "0xMonero",
-    "platforms": {
-      "ethereum": "0x035df12e0f3ac6671126525f1015e47d79dfeddf",
-      "xdai": "0x8c88ea1fd60462ef7004b9e288afcb4680a3c50c",
-      "aurora": "0x7ea2be2df7ba6e54b1a9c70676f668455e329d29",
-      "binance-smart-chain": "0x22a213852cee93eb6d41601133414d180c5684c2",
-      "fantom": "0xab41861399eb56896b24fbaabaa8bce45e4a626b",
-      "polygon-pos": "0x52ede6bba83b7b4ba1d738df0df713d6a2036b71"
-    }
-  },
-  {
     "id": "0xmonk",
     "symbol": "monk",
     "name": "0xMonk by Virtuals",
@@ -14055,12 +14042,6 @@
     }
   },
   {
-    "id": "beef",
-    "symbol": "beef",
-    "name": "BEEF",
-    "platforms": {}
-  },
-  {
     "id": "beefy-escrowed-fantom",
     "symbol": "beftm",
     "name": "Beefy Escrowed FTM",
@@ -16865,7 +16846,8 @@
     "symbol": "btr",
     "name": "Bitlayer",
     "platforms": {
-      "bitlayer": "0x0e4cf4affdb72b39ea91fa726d291781cbd020bf"
+      "bitlayer": "0x0e4cf4affdb72b39ea91fa726d291781cbd020bf",
+      "ethereum": "0x6c76de483f1752ac8473e2b4983a873991e70da7"
     }
   },
   {
@@ -22504,14 +22486,6 @@
     }
   },
   {
-    "id": "buna-games",
-    "symbol": "buna",
-    "name": "Buna Games",
-    "platforms": {
-      "solana": "4tmUm2yD2fDpHDfmCvmqaMJCuoKU54uj7xnSgxQCembW"
-    }
-  },
-  {
     "id": "bunbun",
     "symbol": "bunbun",
     "name": "bunbun",
@@ -22700,14 +22674,6 @@
     "name": "Burr Governance Token",
     "platforms": {
       "berachain": "0x28e0e3b9817012b356119df9e217c25932d609c2"
-    }
-  },
-  {
-    "id": "burrial",
-    "symbol": "burry",
-    "name": "Burrial",
-    "platforms": {
-      "sui": "0x6db9a7bb22829898fd281879778a175120ebfc77eafc1f8ee341654cfc3f8dc2::burry::BURRY"
     }
   },
   {
@@ -25768,14 +25734,6 @@
     "name": "Charlotte Fang",
     "platforms": {
       "ethereum": "0x206a5ec55c531574130691cf9ada0fd711d5f710"
-    }
-  },
-  {
-    "id": "charm",
-    "symbol": "charm",
-    "name": "Charm",
-    "platforms": {
-      "fantom": "0x248cb87dda803028dfead98101c9465a2fbda0d4"
     }
   },
   {
@@ -32197,6 +32155,14 @@
     }
   },
   {
+    "id": "cyberwish",
+    "symbol": "cyberwish",
+    "name": "CyberWishing",
+    "platforms": {
+      "binance-smart-chain": "0x36fdebeb2bb7538d5559f1d2968307e86eb04444"
+    }
+  },
+  {
     "id": "cyberyen",
     "symbol": "cy",
     "name": "Cyberyen",
@@ -32897,6 +32863,14 @@
     "name": "DarkCrypto Share",
     "platforms": {
       "cronos": "0x9d3bbb0e988d9fb2d55d07fe471be2266ad9c81c"
+    }
+  },
+  {
+    "id": "dark-eclipse",
+    "symbol": "dark",
+    "name": "Dark Eclipse",
+    "platforms": {
+      "solana": "8BtoThi2ZoXnF7QQK1Wjmh2JuBw9FjVvhnGMVZ2vpump"
     }
   },
   {
@@ -45733,14 +45707,6 @@
     "name": "FC Sion Fan Token",
     "platforms": {
       "Bitcichain": "0x6b60afc542ba9669377a54734cf7d322bacfb261"
-    }
-  },
-  {
-    "id": "fcuk",
-    "symbol": "fcuk",
-    "name": "FCUK",
-    "platforms": {
-      "solana": "FCUKBVkK5rT9f2CK7YEc57tgbTVBZQNZAkcH2xoud8LH"
     }
   },
   {
@@ -68475,14 +68441,6 @@
     }
   },
   {
-    "id": "legion",
-    "symbol": "legion",
-    "name": "Legion",
-    "platforms": {
-      "ethereum": "0xb2a25f7d864636e44bc1bf7a316897652bf07463"
-    }
-  },
-  {
     "id": "legion-network",
     "symbol": "lgx",
     "name": "Legion Network",
@@ -75662,14 +75620,6 @@
     "symbol": "m",
     "name": "MemeCore",
     "platforms": {}
-  },
-  {
-    "id": "meme-cult",
-    "symbol": "mcult",
-    "name": "Meme Cult",
-    "platforms": {
-      "solana": "EH9QxCx4WP9Lt43s5h6BQJHFSzFWUSYaaxEipFVRbsEN"
-    }
   },
   {
     "id": "meme-cup",
@@ -83800,14 +83750,6 @@
     }
   },
   {
-    "id": "new-year-token",
-    "symbol": "nyt",
-    "name": "New Year",
-    "platforms": {
-      "binance-smart-chain": "0xfdff7a8eda6a3739132867f989be4bf84e803c15"
-    }
-  },
-  {
     "id": "newyork-exchange",
     "symbol": "nye",
     "name": "NewYork Exchange",
@@ -89377,14 +89319,6 @@
       "optimistic-ethereum": "0xedf38688b27036816a50185caa430d5479e1c63e",
       "base": "0x7750c092e284e2c7366f50c8306f43c7eb2e82a2",
       "arbitrum-one": "0x5829d6fe7528bc8e92c4e81cc8f20a528820b51a"
-    }
-  },
-  {
-    "id": "ovols-floor-index",
-    "symbol": "$ovol",
-    "name": "Ovols Floor Index",
-    "platforms": {
-      "solana": "4v3UTV9jibkhPfHi5amevropw6vFKVWo7BmxwQzwEwq6"
     }
   },
   {
@@ -95825,15 +95759,6 @@
     }
   },
   {
-    "id": "powa-rangers-go-runes",
-    "symbol": "powa",
-    "name": "POWA•RANGERS•GO (Runes)",
-    "platforms": {
-      "ordinals": "81c4a305dd51875c7e98a90595ad75346b3a0cb933a0ac619c4dc83ad4abd4a6i0",
-      "rootstock": "0xfe8929d36ac789c562008abd59f5dd7e1eb1f5b6"
-    }
-  },
-  {
     "id": "power",
     "symbol": "pwr",
     "name": "MaxxChain",
@@ -96738,14 +96663,6 @@
     "symbol": "ptc",
     "name": "Prospera Tax Credit",
     "platforms": {}
-  },
-  {
-    "id": "protectorate-protocol",
-    "symbol": "zaar",
-    "name": "Zaar",
-    "platforms": {
-      "ethereum": "0x95ac17ce4021417e25b8edf807366fc3be091b5e"
-    }
   },
   {
     "id": "proteo-defi",
@@ -100013,14 +99930,6 @@
     "name": "ReapChain",
     "platforms": {
       "ethereum": "0x1fc5ef0337aea85c5f9198853a6e3a579a7a6987"
-    }
-  },
-  {
-    "id": "reaper-token",
-    "symbol": "reaper",
-    "name": "Reaper",
-    "platforms": {
-      "fantom": "0x117db78176c8ede4f12fcd29d85cd96b91a4cbbb"
     }
   },
   {
@@ -104280,14 +104189,6 @@
     "name": "Santa Coin",
     "platforms": {
       "binance-smart-chain": "0x4f1a6fc6a7b65dc7ebc4eb692dc3641be997c2f2"
-    }
-  },
-  {
-    "id": "santa-grok",
-    "symbol": "santagrok",
-    "name": "Santa Grok",
-    "platforms": {
-      "binance-smart-chain": "0xb9efd0936e4d4eff2c1e3b50629a3348a9a86942"
     }
   },
   {
@@ -114243,14 +114144,6 @@
     "name": "StaySAFU",
     "platforms": {
       "binance-smart-chain": "0x890cc7d14948478c98a6cd7f511e1f7f7f99f397"
-    }
-  },
-  {
-    "id": "steak",
-    "symbol": "steak",
-    "name": "Steak",
-    "platforms": {
-      "ethereum": "0xc4c244f1dbca07083fee35220d2169957c275e68"
     }
   },
   {
@@ -125867,14 +125760,6 @@
     "platforms": {}
   },
   {
-    "id": "usc-2",
-    "symbol": "usc",
-    "name": "USC",
-    "platforms": {
-      "ethereum": "0x38547d918b9645f2d94336b6b61aeb08053e142c"
-    }
-  },
-  {
     "id": "usd",
     "symbol": "usd+",
     "name": "Overnight.fi USD+",
@@ -130924,14 +130809,6 @@
     "name": "Wiki Cat",
     "platforms": {
       "binance-smart-chain": "0x6ec90334d89dbdc89e08a133271be3d104128edb"
-    }
-  },
-  {
-    "id": "wildcoin",
-    "symbol": "wildcoin",
-    "name": "WILDCOIN",
-    "platforms": {
-      "optimistic-ethereum": "0x95ec2f13ea96251c7037ecc0c2a25ea7d6be520b"
     }
   },
   {
@@ -138701,14 +138578,6 @@
     "name": "zkHive",
     "platforms": {
       "ethereum": "0x750c3a0a0ce9984eeb8c5d146dff024b584e5e33"
-    }
-  },
-  {
-    "id": "zkinfra",
-    "symbol": "zkin",
-    "name": "zkInfra",
-    "platforms": {
-      "ethereum": "0xd57187e56e5b31b4d7813d7ceea1e9f9b97ee82f"
     }
   },
   {
