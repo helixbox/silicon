@@ -16,7 +16,7 @@
   {
     "id": "0chain",
     "symbol": "zcn",
-    "name": "Züs",
+    "name": "Zus",
     "platforms": {
       "ethereum": "0xb9ef770b6a5e12e45983c5d80545258aa38f3b78",
       "polygon-pos": "0x8bb30e0e67b11b978a5040144c410e1ccddcba30"
@@ -28875,7 +28875,9 @@
     "id": "connect-token-wct",
     "symbol": "wct",
     "name": "WalletConnect Token",
-    "platforms": {}
+    "platforms": {
+      "optimistic-ethereum": "0xef4461891dfb3ac8572ccf7c794664a8dd927945"
+    }
   },
   {
     "id": "connex",
