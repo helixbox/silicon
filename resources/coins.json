@@ -339,6 +339,14 @@
     }
   },
   {
+    "id": "1intro",
+    "symbol": "chef",
+    "name": "CoinChef",
+    "platforms": {
+      "solana": "CHEFTKSZVv6rgUAR8EZVirSVX685HHiEnihvEsdz77LP"
+    }
+  },
+  {
     "id": "1mbabydoge",
     "symbol": "1mbabydoge",
     "name": "1MBABYDOGE",
@@ -117206,6 +117214,7 @@
     "name": "SX Network",
     "platforms": {
       "ethereum": "0xbe9f61555f50dd6167f2772e9cf7519790d96624",
+      "sx-rollup": "0x3e96b0a25d51e3cc89c557f152797c33b839968f",
       "arbitrum-one": "0x8cf7e3aa6faf6ae180e5ec3f0fb95081c2086ebe"
     }
   },
@@ -134245,14 +134254,6 @@
     "name": "Wrapped Super OETH",
     "platforms": {
       "base": "0x7fcd174e80f264448ebee8c88a7c4476aaf58ea6"
-    }
-  },
-  {
-    "id": "wrapped-sx",
-    "symbol": "wsx",
-    "name": "Wrapped SX",
-    "platforms": {
-      "sx-rollup": "0x3e96b0a25d51e3cc89c557f152797c33b839968f"
     }
   },
   {
