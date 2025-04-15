@@ -1,11 +1,19 @@
 {
   "name": "CoinGecko",
-  "logoURI": "https://static.coingecko.com/s/thumbnail-007177f3eca19695592f0b8b0eabbdae282b54154e1be912285c9034ea6cbaf2.png",
+  "logoURI": "https://static.coingecko.com/gecko-new.svg",
   "keywords": [
     "defi"
   ],
-  "timestamp": "2025-02-07T07:00:14.781+00:00",
+  "timestamp": "2025-04-15T14:00:16.846+00:00",
   "tokens": [
+    {
+      "chainId": 9008,
+      "address": "0xfb889425b72c97c5b4484cf148ae2404ab7a13e7",
+      "name": "Kensei",
+      "symbol": "KENSEI",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/55210/thumb/kensei.jpg?1744724712"
+    },
     {
       "chainId": 9008,
       "address": "0x80b5a32e4f032b2a058b4f29ec95eefeeb87adcd",
@@ -25,7 +33,7 @@
   ],
   "version": {
     "major": 0,
-    "minor": 0,
+    "minor": 1,
     "patch": 0
   }
 }
