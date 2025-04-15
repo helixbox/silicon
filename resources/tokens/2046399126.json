@@ -1,19 +1,11 @@
 {
   "name": "CoinGecko",
-  "logoURI": "https://static.coingecko.com/s/thumbnail-007177f3eca19695592f0b8b0eabbdae282b54154e1be912285c9034ea6cbaf2.png",
+  "logoURI": "https://static.coingecko.com/gecko-new.svg",
   "keywords": [
     "defi"
   ],
-  "timestamp": "2025-01-06T10:01:01.614+00:00",
+  "timestamp": "2025-04-15T06:00:39.833+00:00",
   "tokens": [
-    {
-      "chainId": 2046399126,
-      "address": "0xcb011e86df014a46f4e3ac3f3cbb114a4eb80870",
-      "name": "Skale IMA Bridged WBTC",
-      "symbol": "WBTC",
-      "decimals": 8,
-      "logoURI": "https://assets.coingecko.com/coins/images/39128/thumb/wbtc.png?1720668642"
-    },
     {
       "chainId": 2046399126,
       "address": "0x5f795bb52dac3085f578f4877d450e2929d2f13d",
@@ -24,11 +16,11 @@
     },
     {
       "chainId": 2046399126,
-      "address": "0xd2aaa00700000000000000000000000000000000",
-      "name": "Wrapped ETH  SKALE ",
-      "symbol": "ETHC",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/39143/thumb/wETH_32.png?1720748961"
+      "address": "0xcb011e86df014a46f4e3ac3f3cbb114a4eb80870",
+      "name": "Skale IMA Bridged WBTC",
+      "symbol": "WBTC",
+      "decimals": 8,
+      "logoURI": "https://assets.coingecko.com/coins/images/39128/thumb/wbtc.png?1720668642"
     },
     {
       "chainId": 2046399126,
@@ -40,11 +32,27 @@
     },
     {
       "chainId": 2046399126,
+      "address": "0xd2aaa00700000000000000000000000000000000",
+      "name": "Wrapped ETH  SKALE ",
+      "symbol": "ETHC",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/39143/thumb/wETH_32.png?1720748961"
+    },
+    {
+      "chainId": 2046399126,
       "address": "0xb2a85c5ecea99187a977ac34303b80acbddfa208",
       "name": "Roco Finance",
       "symbol": "ROCO",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/19234/thumb/86109466.png?1696518680"
+    },
+    {
+      "chainId": 2046399126,
+      "address": "0x7ca58393eb55aec51204f2370c1b9cccaa9d9784",
+      "name": "Unipoly",
+      "symbol": "UNP",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/32510/thumb/20231018_231410.png?1698398961"
     },
     {
       "chainId": 2046399126,
@@ -89,7 +97,7 @@
   ],
   "version": {
     "major": 3,
-    "minor": 0,
+    "minor": 1,
     "patch": 0
   }
 }
