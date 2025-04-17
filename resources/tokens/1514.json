@@ -1,10 +1,10 @@
 {
   "name": "CoinGecko",
-  "logoURI": "https://static.coingecko.com/s/thumbnail-007177f3eca19695592f0b8b0eabbdae282b54154e1be912285c9034ea6cbaf2.png",
+  "logoURI": "https://static.coingecko.com/gecko-new.svg",
   "keywords": [
     "defi"
   ],
-  "timestamp": "2025-03-27T08:00:08.132+00:00",
+  "timestamp": "2025-04-17T09:00:07.953+00:00",
   "tokens": [
     {
       "chainId": 1514,
@@ -13,6 +13,14 @@
       "symbol": "USDCE",
       "decimals": 6,
       "logoURI": "https://assets.coingecko.com/coins/images/54377/thumb/usdc.png?1739437767"
+    },
+    {
+      "chainId": 1514,
+      "address": "0x2460e95f24bbd21d1fba27a751970c2455e9d7e9",
+      "name": "IP Exchange",
+      "symbol": "IPX",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/55242/thumb/IPX.png?1744877414"
     },
     {
       "chainId": 1514,
@@ -41,7 +49,7 @@
   ],
   "version": {
     "major": 0,
-    "minor": 2,
+    "minor": 3,
     "patch": 0
   }
 }

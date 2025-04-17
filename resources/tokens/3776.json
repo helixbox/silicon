@@ -1,19 +1,11 @@
 {
   "name": "CoinGecko",
-  "logoURI": "https://static.coingecko.com/s/thumbnail-007177f3eca19695592f0b8b0eabbdae282b54154e1be912285c9034ea6cbaf2.png",
+  "logoURI": "https://static.coingecko.com/gecko-new.svg",
   "keywords": [
     "defi"
   ],
-  "timestamp": "2025-03-10T04:00:28.666+00:00",
+  "timestamp": "2025-04-17T10:00:27.321+00:00",
   "tokens": [
-    {
-      "chainId": 3776,
-      "address": "0xa8ce8aee21bc2a48a5ef670afcc9274c7bbbc035",
-      "name": "Astar zkEVM Bridged USDC  Astar zkEVM ",
-      "symbol": "USDC",
-      "decimals": 6,
-      "logoURI": "https://assets.coingecko.com/coins/images/35918/thumb/USDC.png?1710212903"
-    },
     {
       "chainId": 3776,
       "address": "0xe9cc37904875b459fa5d0fe37680d36f1ed55e38",
@@ -24,19 +16,11 @@
     },
     {
       "chainId": 3776,
-      "address": "0x1e4a5963abfd975d8c9021ce480b42188849d41d",
-      "name": "LxLy Bridged USDT  Astar zkEVM ",
-      "symbol": "USDT",
+      "address": "0xa8ce8aee21bc2a48a5ef670afcc9274c7bbbc035",
+      "name": "Astar zkEVM Bridged USDC  Astar zkEVM ",
+      "symbol": "USDC",
       "decimals": 6,
-      "logoURI": "https://assets.coingecko.com/coins/images/35919/thumb/usdt_%281%29.png?1710212987"
-    },
-    {
-      "chainId": 3776,
-      "address": "0x90e3f8e749dbd40286ab29aecd1e8487db4a8785",
-      "name": "Bonsai Coin",
-      "symbol": "BONSAICOIN",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/39273/thumb/1000007690.png?1721386111"
+      "logoURI": "https://assets.coingecko.com/coins/images/35918/thumb/USDC.png?1710212903"
     },
     {
       "chainId": 3776,
@@ -48,6 +32,14 @@
     },
     {
       "chainId": 3776,
+      "address": "0x90e3f8e749dbd40286ab29aecd1e8487db4a8785",
+      "name": "Bonsai Coin",
+      "symbol": "BONSAICOIN",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/39273/thumb/1000007690.png?1721386111"
+    },
+    {
+      "chainId": 3776,
       "address": "0x80137510979822322193fc997d400d5a6c747bf7",
       "name": "StakeStone ETH",
       "symbol": "STONE",
@@ -56,7 +48,7 @@
     }
   ],
   "version": {
-    "major": 1,
+    "major": 2,
     "minor": 0,
     "patch": 0
   }
