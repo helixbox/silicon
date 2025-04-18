@@ -4,8 +4,16 @@
   "keywords": [
     "defi"
   ],
-  "timestamp": "2025-04-15T14:00:16.846+00:00",
+  "timestamp": "2025-04-18T10:00:13.057+00:00",
   "tokens": [
+    {
+      "chainId": 9008,
+      "address": "0xe550bde2f0898552b38a41635d7a8ddb1fd81276",
+      "name": "Shido DEX",
+      "symbol": "SHDX",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/55234/thumb/LOGO_GOLD_-_200x200_CMC.png?1744873516"
+    },
     {
       "chainId": 9008,
       "address": "0xfb889425b72c97c5b4484cf148ae2404ab7a13e7",
@@ -16,24 +24,24 @@
     },
     {
       "chainId": 9008,
-      "address": "0x80b5a32e4f032b2a058b4f29ec95eefeeb87adcd",
-      "name": "Shido Bridged USDC  Shido ",
-      "symbol": "USDC",
-      "decimals": 6,
-      "logoURI": "https://assets.coingecko.com/coins/images/54251/thumb/usdc.jpg?1738909961"
-    },
-    {
-      "chainId": 9008,
       "address": "0x8cbaffd9b658997e7bf87e98febf6ea6917166f7",
       "name": "Wrapped Shido",
       "symbol": "WSHIDO",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/54250/thumb/shido.jpg?1738909753"
+    },
+    {
+      "chainId": 9008,
+      "address": "0x80b5a32e4f032b2a058b4f29ec95eefeeb87adcd",
+      "name": "Shido Bridged USDC  Shido ",
+      "symbol": "USDC",
+      "decimals": 6,
+      "logoURI": "https://assets.coingecko.com/coins/images/54251/thumb/usdc.jpg?1738909961"
     }
   ],
   "version": {
     "major": 0,
-    "minor": 1,
+    "minor": 2,
     "patch": 0
   }
 }
