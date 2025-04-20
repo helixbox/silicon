@@ -4,23 +4,23 @@
   "keywords": [
     "defi"
   ],
-  "timestamp": "2025-04-19T10:00:24.252+00:00",
+  "timestamp": "2025-04-20T19:00:25.710+00:00",
   "tokens": [
     {
       "chainId": 122,
-      "address": "0x3695dd1d1d43b794c0b13eb8be8419eb3ac22bf7",
-      "name": "Stargate Bridged USDT  Fuse ",
-      "symbol": "USDT",
+      "address": "0x28c3d1cd466ba22f6cae51b1a4692a831696391a",
+      "name": "Bridged USDC  Fuse ",
+      "symbol": "USDC",
       "decimals": 6,
-      "logoURI": "https://assets.coingecko.com/coins/images/53043/thumb/usdt.png?1735081778"
+      "logoURI": "https://assets.coingecko.com/coins/images/32758/thumb/USDC_v2.png?1699324701"
     },
     {
       "chainId": 122,
-      "address": "0x34ef2cc892a88415e9f02b91bfa9c91fc0be6bd4",
-      "name": "Voltage Finance",
-      "symbol": "VOLT",
+      "address": "0x2f6f07cdcf3588944bf4c42ac74ff24bf56e7590",
+      "name": "Stargate Bridged WETH  Fuse ",
+      "symbol": "WETH",
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/21886/thumb/My_project.png?1696521238"
+      "logoURI": "https://assets.coingecko.com/coins/images/53042/thumb/wETH_32.png?1735081743"
     },
     {
       "chainId": 122,
@@ -32,11 +32,19 @@
     },
     {
       "chainId": 122,
-      "address": "0x34009565bfeefded0f7e774629a745636bf35e82",
-      "name": "Wrapped Bitcoin  Fuse ",
-      "symbol": "WBTCV2",
-      "decimals": 8,
-      "logoURI": "https://assets.coingecko.com/coins/images/55265/thumb/logo_%2813%29.png?1745051128"
+      "address": "0x34ef2cc892a88415e9f02b91bfa9c91fc0be6bd4",
+      "name": "Voltage Finance",
+      "symbol": "VOLT",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/21886/thumb/My_project.png?1696521238"
+    },
+    {
+      "chainId": 122,
+      "address": "0x68c9736781e9316ebf5c3d49fe0c1f45d2d104cd",
+      "name": "Bridged Tether  Fuse ",
+      "symbol": "USDT",
+      "decimals": 6,
+      "logoURI": "https://assets.coingecko.com/coins/images/32986/thumb/logo_%288%29.png?1700094172"
     },
     {
       "chainId": 122,
@@ -45,14 +53,6 @@
       "symbol": "WBTC",
       "decimals": 8,
       "logoURI": "https://assets.coingecko.com/coins/images/39557/thumb/wbtc.png?1722898201"
-    },
-    {
-      "chainId": 122,
-      "address": "0x2f6f07cdcf3588944bf4c42ac74ff24bf56e7590",
-      "name": "Stargate Bridged WETH  Fuse ",
-      "symbol": "WETH",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/53042/thumb/wETH_32.png?1735081743"
     },
     {
       "chainId": 122,
@@ -72,11 +72,11 @@
     },
     {
       "chainId": 122,
-      "address": "0x68c9736781e9316ebf5c3d49fe0c1f45d2d104cd",
-      "name": "Bridged Tether  Fuse ",
+      "address": "0x3695dd1d1d43b794c0b13eb8be8419eb3ac22bf7",
+      "name": "Stargate Bridged USDT  Fuse ",
       "symbol": "USDT",
       "decimals": 6,
-      "logoURI": "https://assets.coingecko.com/coins/images/32986/thumb/logo_%288%29.png?1700094172"
+      "logoURI": "https://assets.coingecko.com/coins/images/53043/thumb/usdt.png?1735081778"
     },
     {
       "chainId": 122,
@@ -101,14 +101,6 @@
       "symbol": "WETH",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/33412/thumb/weth.jpg?1726731618"
-    },
-    {
-      "chainId": 122,
-      "address": "0x28c3d1cd466ba22f6cae51b1a4692a831696391a",
-      "name": "Bridged USDC  Fuse ",
-      "symbol": "USDC",
-      "decimals": 6,
-      "logoURI": "https://assets.coingecko.com/coins/images/32758/thumb/USDC_v2.png?1699324701"
     },
     {
       "chainId": 122,
@@ -175,8 +167,8 @@
     }
   ],
   "version": {
-    "major": 8,
-    "minor": 1,
+    "major": 9,
+    "minor": 0,
     "patch": 0
   }
 }
