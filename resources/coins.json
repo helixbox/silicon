@@ -63574,6 +63574,7 @@
     "name": "Kalijo",
     "platforms": {
       "zilliqa": "zil1lgj5uykg9lmzjecctjc5fkehdrghd7a9enmwg9",
+      "zilliqa-evm": "0xe64ca52ef34fdd7e20c0c7fb2e392cc9b4f6d049",
       "binance-smart-chain": "0x9158df7da69b048a296636d5de7a3d9a7fb25e88"
     }
   },
@@ -134156,6 +134157,14 @@
     }
   },
   {
+    "id": "wrapped-zil",
+    "symbol": "wzil",
+    "name": "Wrapped ZIL",
+    "platforms": {
+      "zilliqa-evm": "0x94e18ae7dd5ee57b55f30c4b63e2760c09efb192"
+    }
+  },
+  {
     "id": "wrapped-zkcro",
     "symbol": "wzkcro",
     "name": "Wrapped zkCRO",
@@ -138018,6 +138027,14 @@
     "name": "Zilliqa",
     "platforms": {
       "binance-smart-chain": "0xb86abcb37c3a4b64f74f59301aff131a1becc787"
+    }
+  },
+  {
+    "id": "zilliqa-evm-bridged-usdc-zilliqa-evm",
+    "symbol": "usdc",
+    "name": "Zilliqa EVM Bridged USDC (Zilliqa EVM)",
+    "platforms": {
+      "zilliqa-evm": "0xd8b73ced1b16c047048f2c5ea42233da33168198"
     }
   },
   {
