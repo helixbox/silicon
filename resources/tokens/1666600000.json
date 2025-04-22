@@ -4,7 +4,7 @@
   "keywords": [
     "defi"
   ],
-  "timestamp": "2025-04-20T10:00:06.982+00:00",
+  "timestamp": "2025-04-22T10:00:09.189+00:00",
   "tokens": [
     {
       "chainId": 1666600000,
@@ -13,6 +13,14 @@
       "symbol": "MIS",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/18916/thumb/136704691-920ef315-4906-4a82-bca1-144b07dea3fb.png?1696518373"
+    },
+    {
+      "chainId": 1666600000,
+      "address": "0x2a719af848bf365489e548be5edbec1d65858e59",
+      "name": "FIRA",
+      "symbol": "FIRA",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/23983/thumb/fira.png?1696523178"
     },
     {
       "chainId": 1666600000,
@@ -40,14 +48,6 @@
     },
     {
       "chainId": 1666600000,
-      "address": "0xcf664087a5bb0237a0bad6742852ec6c8d69a27a",
-      "name": "Wrapped One",
-      "symbol": "WONE",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/18183/thumb/wonelogo.png?1696517683"
-    },
-    {
-      "chainId": 1666600000,
       "address": "0xef977d2f931c1978db5f6747666fa1eacb0d0339",
       "name": "Harmony Horizon Bridged DAI  Harmony Sh",
       "symbol": "DAI",
@@ -56,19 +56,11 @@
     },
     {
       "chainId": 1666600000,
-      "address": "0x22d62b19b7039333ad773b7185bb61294f3adc19",
-      "name": "Tranquil Staked ONE",
-      "symbol": "STONE",
+      "address": "0xcf664087a5bb0237a0bad6742852ec6c8d69a27a",
+      "name": "Wrapped One",
+      "symbol": "WONE",
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/21848/thumb/7zRXwiV.png?1696521203"
-    },
-    {
-      "chainId": 1666600000,
-      "address": "0x2a719af848bf365489e548be5edbec1d65858e59",
-      "name": "FIRA",
-      "symbol": "FIRA",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/23983/thumb/fira.png?1696523178"
+      "logoURI": "https://assets.coingecko.com/coins/images/18183/thumb/wonelogo.png?1696517683"
     },
     {
       "chainId": 1666600000,
@@ -108,6 +100,14 @@
       "symbol": "XYA",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/17017/thumb/logo_gfx.png?1696516581"
+    },
+    {
+      "chainId": 1666600000,
+      "address": "0x0159ed2e06ddcd46a25e74eb8e159ce666b28687",
+      "name": "FoxSwap",
+      "symbol": "FOX",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/18792/thumb/FOX-Logo.png?1696518254"
     },
     {
       "chainId": 1666600000,
@@ -156,14 +156,6 @@
       "symbol": "TRANQ",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/18708/thumb/tranquil.png?1696518176"
-    },
-    {
-      "chainId": 1666600000,
-      "address": "0x0159ed2e06ddcd46a25e74eb8e159ce666b28687",
-      "name": "FoxSwap",
-      "symbol": "FOX",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/18792/thumb/FOX-Logo.png?1696518254"
     },
     {
       "chainId": 1666600000,
@@ -751,7 +743,7 @@
     }
   ],
   "version": {
-    "major": 16,
+    "major": 17,
     "minor": 0,
     "patch": 0
   }
