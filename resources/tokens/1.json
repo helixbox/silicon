@@ -4,7 +4,7 @@
   "keywords": [
     "defi"
   ],
-  "timestamp": "2025-04-22T10:02:28.534+00:00",
+  "timestamp": "2025-04-22T12:02:30.242+00:00",
   "tokens": [
     {
       "chainId": 1,
@@ -7908,6 +7908,14 @@
       "symbol": "BLANK",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/14209/thumb/Group_121417608.png?1696513925"
+    },
+    {
+      "chainId": 1,
+      "address": "0x38b0e3a59183814957d83df2a97492aed1f003e2",
+      "name": "Animal Concerts",
+      "symbol": "ANML",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/22869/thumb/ANML_LogoAsset.png?1696522169"
     },
     {
       "chainId": 1,
@@ -25833,14 +25841,6 @@
     },
     {
       "chainId": 1,
-      "address": "0x95ad61b0a150d79219dcf64e1e6cc01f0b64c4ce",
-      "name": "Shiba Inu",
-      "symbol": "SHIB",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/11939/thumb/shiba.png?1696511800"
-    },
-    {
-      "chainId": 1,
       "address": "0xde0a515d133397d62eb3fcdfcc68ba4904ac49c0",
       "name": "Shinji",
       "symbol": "SHNJ",
@@ -27846,14 +27846,6 @@
       "symbol": "MDX",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/13736/thumb/png-cmc.png?1696513480"
-    },
-    {
-      "chainId": 1,
-      "address": "0x808507121b80c02388fad14726482e061b8da827",
-      "name": "Pendle",
-      "symbol": "PENDLE",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/15069/thumb/Pendle_Logo_Normal-03.png?1696514728"
     },
     {
       "chainId": 1,
@@ -37369,6 +37361,22 @@
     },
     {
       "chainId": 1,
+      "address": "0x808507121b80c02388fad14726482e061b8da827",
+      "name": "Pendle",
+      "symbol": "PENDLE",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/15069/thumb/Pendle_Logo_Normal-03.png?1696514728"
+    },
+    {
+      "chainId": 1,
+      "address": "0x95ad61b0a150d79219dcf64e1e6cc01f0b64c4ce",
+      "name": "Shiba Inu",
+      "symbol": "SHIB",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/11939/thumb/shiba.png?1696511800"
+    },
+    {
+      "chainId": 1,
       "address": "0x4278a8944cf63753b13e9f726bbc1192412988d8",
       "name": "1984",
       "symbol": "1984",
@@ -41593,7 +41601,7 @@
   ],
   "version": {
     "major": 881,
-    "minor": 0,
+    "minor": 1,
     "patch": 0
   }
 }
