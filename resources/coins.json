@@ -109682,7 +109682,7 @@
   {
     "id": "solayer-staked-sol",
     "symbol": "ssol",
-    "name": "Solayer sSOL",
+    "name": "Solayer Staked SOL",
     "platforms": {
       "solana": "sSo14endRuUbvQaJS3dq36Q829a3A6BEfoeeRGJywEh"
     }
@@ -109690,7 +109690,7 @@
   {
     "id": "solayer-usd",
     "symbol": "susd",
-    "name": "Solayer sUSD",
+    "name": "Solayer USD",
     "platforms": {
       "solana": "susdabGDNbhrnCa6ncrYo81u4s9GM8ecK2UwMyZiq4X"
     }
@@ -132006,8 +132006,10 @@
   {
     "id": "wrapped-bitcoin-fuse",
     "symbol": "wbtcv2",
-    "name": "Wrapped Bitcoin (Fuse)",
-    "platforms": {}
+    "name": "Wrapped BTC (Fuse)",
+    "platforms": {
+      "fuse": "0x34009565bfeefded0f7e774629a745636bf35e82"
+    }
   },
   {
     "id": "wrapped-bitcoin-pulsechain",
