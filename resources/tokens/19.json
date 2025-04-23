@@ -1,11 +1,19 @@
 {
   "name": "CoinGecko",
-  "logoURI": "https://static.coingecko.com/s/thumbnail-007177f3eca19695592f0b8b0eabbdae282b54154e1be912285c9034ea6cbaf2.png",
+  "logoURI": "https://static.coingecko.com/gecko-new.svg",
   "keywords": [
     "defi"
   ],
-  "timestamp": "2025-02-17T04:00:19.759+00:00",
+  "timestamp": "2025-04-23T10:00:15.226+00:00",
   "tokens": [
+    {
+      "chainId": 19,
+      "address": "0xd7565b16b65376e2ddb6c71e7971c7185a7ff3ff",
+      "name": "OracleSwap",
+      "symbol": "ORACLE",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/28123/thumb/OS_Logo_200.png?1696527131"
+    },
     {
       "chainId": 19,
       "address": "0xb2987753d1561570f726aa373f48e77e27aa5ff4",
@@ -16,11 +24,11 @@
     },
     {
       "chainId": 19,
-      "address": "0x9e2e6c16803878c18e54ed74f05aeafcce464626",
-      "name": "sFortuna Token  OLD ",
-      "symbol": "SFORT",
+      "address": "0xc348f894d0e939fe72c467156e6d7dcbd6f16e21",
+      "name": "Flare Finance",
+      "symbol": "EXFI",
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/39160/thumb/Full_Color_Fortuna_Token_Logo_256x256.png?1720777145"
+      "logoURI": "https://assets.coingecko.com/coins/images/15134/thumb/rGTVPQaD_400x400.jpg?1696514791"
     },
     {
       "chainId": 19,
@@ -40,22 +48,6 @@
     },
     {
       "chainId": 19,
-      "address": "0xc348f894d0e939fe72c467156e6d7dcbd6f16e21",
-      "name": "Flare Finance",
-      "symbol": "EXFI",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/15134/thumb/rGTVPQaD_400x400.jpg?1696514791"
-    },
-    {
-      "chainId": 19,
-      "address": "0xd7565b16b65376e2ddb6c71e7971c7185a7ff3ff",
-      "name": "OracleSwap",
-      "symbol": "ORACLE",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/28123/thumb/OS_Logo_200.png?1696527131"
-    },
-    {
-      "chainId": 19,
       "address": "0x02f0826ef6ad107cfc861152b32b52fd11bab9ed",
       "name": "Wrapped Songbird",
       "symbol": "WSGB",
@@ -72,8 +64,8 @@
     }
   ],
   "version": {
-    "major": 2,
+    "major": 3,
     "minor": 0,
-    "patch": 1
+    "patch": 0
   }
 }
