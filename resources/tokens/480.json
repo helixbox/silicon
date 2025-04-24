@@ -1,19 +1,11 @@
 {
   "name": "CoinGecko",
-  "logoURI": "https://static.coingecko.com/s/thumbnail-007177f3eca19695592f0b8b0eabbdae282b54154e1be912285c9034ea6cbaf2.png",
+  "logoURI": "https://static.coingecko.com/gecko-new.svg",
   "keywords": [
     "defi"
   ],
-  "timestamp": "2025-04-07T09:01:08.708+00:00",
+  "timestamp": "2025-04-24T11:01:59.113+00:00",
   "tokens": [
-    {
-      "chainId": 480,
-      "address": "0x03c7054bcb39f7b2e5b2c7acb37583e32d70cfa3",
-      "name": "Bridged Wrapped Bitcoin  Worldchain ",
-      "symbol": "WBTC",
-      "decimals": 8,
-      "logoURI": "https://assets.coingecko.com/coins/images/51159/thumb/wbtc_28.png?1730242311"
-    },
     {
       "chainId": 480,
       "address": "0x79a02482a880bce3f13e09da970dc34db4cd24d1",
@@ -29,6 +21,14 @@
       "symbol": "BOWSER",
       "decimals": 9,
       "logoURI": "https://assets.coingecko.com/coins/images/50784/thumb/BOWSER_200.jpg?1729193270"
+    },
+    {
+      "chainId": 480,
+      "address": "0x03c7054bcb39f7b2e5b2c7acb37583e32d70cfa3",
+      "name": "Bridged Wrapped Bitcoin  Worldchain ",
+      "symbol": "WBTC",
+      "decimals": 8,
+      "logoURI": "https://assets.coingecko.com/coins/images/51159/thumb/wbtc_28.png?1730242311"
     },
     {
       "chainId": 480,
@@ -96,6 +96,14 @@
     },
     {
       "chainId": 480,
+      "address": "0x18bc5bcc660cf2b9ce3cd51a404afe1a0cbd3c22",
+      "name": "IDRX",
+      "symbol": "IDRX",
+      "decimals": 2,
+      "logoURI": "https://assets.coingecko.com/coins/images/34883/thumb/IDRX_BLUE_COIN_200x200.png?1734983273"
+    },
+    {
+      "chainId": 480,
       "address": "0x2cfc85d8e48f8eab294be644d9e25c3030863003",
       "name": "Worldcoin",
       "symbol": "WLD",
@@ -105,7 +113,7 @@
   ],
   "version": {
     "major": 0,
-    "minor": 8,
+    "minor": 9,
     "patch": 0
   }
 }
