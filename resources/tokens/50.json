@@ -4,8 +4,24 @@
   "keywords": [
     "defi"
   ],
-  "timestamp": "2025-04-07T10:00:28.017+00:00",
+  "timestamp": "2025-04-25T14:00:26.133+00:00",
   "tokens": [
+    {
+      "chainId": 50,
+      "address": "0x678adf7955d8f6dcaa9e2fcc1c5ba70bccc464e6",
+      "name": "GAMA Coin",
+      "symbol": "GAMA",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/51308/thumb/Gama_Icon_%281%29.png?1730628523"
+    },
+    {
+      "chainId": 50,
+      "address": "xdc36726235dadbdb4658d33e62a249dca7c4b2bc68",
+      "name": "XSwap Protocol",
+      "symbol": "XSP",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/20696/thumb/sCokBB2.png?1696520096"
+    },
     {
       "chainId": 50,
       "address": "xdcd4b5f10d61916bd6e0860144a91ac658de8a1437",
@@ -13,6 +29,30 @@
       "symbol": "XUSDT",
       "decimals": 6,
       "logoURI": "https://assets.coingecko.com/coins/images/35677/thumb/usdt_%281%29.png?1709523076"
+    },
+    {
+      "chainId": 50,
+      "address": "xdc34514748f86a8da01ef082306b6d6e738f777f5a",
+      "name": "Globiance Exchange",
+      "symbol": "GBEX",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/24859/thumb/gbex.png?1696524019"
+    },
+    {
+      "chainId": 50,
+      "address": "0xfa4ddcfa8e3d0475f544d0de469277cf6e0a6fd1",
+      "name": "Beny Bad Boy",
+      "symbol": "BBB",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/50629/thumb/bbb.png?1732594921"
+    },
+    {
+      "chainId": 50,
+      "address": "0x3fb46c4db76d8e9f69f3f8388f43a7ca7e140807",
+      "name": "Dog With Purpose",
+      "symbol": "DOPU",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/38634/thumb/Dopu-Coin_200x200_%282%29.png?1718172914"
     },
     {
       "chainId": 50,
@@ -24,19 +64,11 @@
     },
     {
       "chainId": 50,
-      "address": "0x7f115f68a789f819047b94efa0114aa9829b83d8",
-      "name": "Prime Staked XDC",
-      "symbol": "PSTXDC",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/54097/thumb/XDC-PNL-CIRCLE.png?1738224626"
-    },
-    {
-      "chainId": 50,
-      "address": "0x3fb46c4db76d8e9f69f3f8388f43a7ca7e140807",
-      "name": "Dog With Purpose",
-      "symbol": "DOPU",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/38634/thumb/Dopu-Coin_200x200_%282%29.png?1718172914"
+      "address": "0x2a8e898b6242355c290e1f4fc966b8788729a4d4",
+      "name": "Bridged USDC  XDC Bridge ",
+      "symbol": "USDCE",
+      "decimals": 6,
+      "logoURI": "https://assets.coingecko.com/coins/images/55016/thumb/usdc.png?1743167722"
     },
     {
       "chainId": 50,
@@ -56,11 +88,19 @@
     },
     {
       "chainId": 50,
-      "address": "0x2a8e898b6242355c290e1f4fc966b8788729a4d4",
-      "name": "Bridged USDC  XDC Bridge ",
-      "symbol": "USDCE",
-      "decimals": 6,
-      "logoURI": "https://assets.coingecko.com/coins/images/55016/thumb/usdc.png?1743167722"
+      "address": "xdc05940b2df33d6371201e7ae099ced4c363855dfe",
+      "name": "Law Blocks",
+      "symbol": "LBT",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/26266/thumb/photo_6264996132874731595_y.jpg?1717679177"
+    },
+    {
+      "chainId": 50,
+      "address": "0x7f115f68a789f819047b94efa0114aa9829b83d8",
+      "name": "Prime Staked XDC",
+      "symbol": "PSTXDC",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/54097/thumb/XDC-PNL-CIRCLE.png?1738224626"
     },
     {
       "chainId": 50,
@@ -72,22 +112,6 @@
     },
     {
       "chainId": 50,
-      "address": "0xfa4ddcfa8e3d0475f544d0de469277cf6e0a6fd1",
-      "name": "Beny Bad Boy",
-      "symbol": "BBB",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/50629/thumb/bbb.png?1732594921"
-    },
-    {
-      "chainId": 50,
-      "address": "xdc34514748f86a8da01ef082306b6d6e738f777f5a",
-      "name": "Globiance Exchange",
-      "symbol": "GBEX",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/24859/thumb/gbex.png?1696524019"
-    },
-    {
-      "chainId": 50,
       "address": "xdc8f9920283470f52128bf11b0c14e798be704fd15",
       "name": "Comtech Gold",
       "symbol": "CGO",
@@ -96,35 +120,11 @@
     },
     {
       "chainId": 50,
-      "address": "xdc36726235dadbdb4658d33e62a249dca7c4b2bc68",
-      "name": "XSwap Protocol",
-      "symbol": "XSP",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/20696/thumb/sCokBB2.png?1696520096"
-    },
-    {
-      "chainId": 50,
-      "address": "0x678adf7955d8f6dcaa9e2fcc1c5ba70bccc464e6",
-      "name": "GAMA Coin",
-      "symbol": "GAMA",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/51308/thumb/Gama_Icon_%281%29.png?1730628523"
-    },
-    {
-      "chainId": 50,
       "address": "xdce5F9AE9D32D93d3934007568B30B7A7cA489C486",
       "name": "Circularity Finance",
       "symbol": "CIFI",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/34072/thumb/Frame_238219.png?1703842554"
-    },
-    {
-      "chainId": 50,
-      "address": "xdc05940b2df33d6371201e7ae099ced4c363855dfe",
-      "name": "Law Blocks",
-      "symbol": "LBT",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/26266/thumb/photo_6264996132874731595_y.jpg?1717679177"
     },
     {
       "chainId": 50,
@@ -152,6 +152,14 @@
     },
     {
       "chainId": 50,
+      "address": "0xf80c018cba206b50dc798ca8448224b09e5104f2",
+      "name": "PrimeFi",
+      "symbol": "PRFI",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/55355/thumb/Prime_Numbers_Icon_%281%29.png?1745589445"
+    },
+    {
+      "chainId": 50,
       "address": "xdc536dd70445cea1e97f9bf1bada04cbda5199a2a1",
       "name": "Ecoin",
       "symbol": "ECOIN",
@@ -161,7 +169,7 @@
   ],
   "version": {
     "major": 2,
-    "minor": 0,
+    "minor": 1,
     "patch": 0
   }
 }
