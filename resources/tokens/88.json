@@ -4,8 +4,16 @@
   "keywords": [
     "defi"
   ],
-  "timestamp": "2025-04-10T21:00:36.042+00:00",
+  "timestamp": "2025-04-25T18:00:35.531+00:00",
   "tokens": [
+    {
+      "chainId": 88,
+      "address": "0x193fcbb7f9eea67cac0d5a94ec7ccf2141c867ec",
+      "name": "Dagora",
+      "symbol": "DADA",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/55009/thumb/Dada-token.png?1743160313"
+    },
     {
       "chainId": 88,
       "address": "0xe1a9a5fae06696d314994a9d6915c12a63ad055d",
@@ -16,11 +24,11 @@
     },
     {
       "chainId": 88,
-      "address": "0x7edc0ec89f987ecd85617b891c44fe462a325869",
-      "name": "Gunstar Metaverse",
-      "symbol": "GSTS",
+      "address": "0xcdde1f5d971a369eb952192f9a5c367f33a0a891",
+      "name": "deFusion Staked VIC",
+      "symbol": "SVIC",
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/21079/thumb/gst.png?1696520461"
+      "logoURI": "https://assets.coingecko.com/coins/images/36096/thumb/SVIC-Logo_%281%29.jpg?1710481887"
     },
     {
       "chainId": 88,
@@ -29,6 +37,14 @@
       "symbol": "WHEEE",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/54979/thumb/_Wheee__X_Avatar_1-1.png?1743023056"
+    },
+    {
+      "chainId": 88,
+      "address": "0xb55dd628039552a7d93a70fc8932f677499ed479",
+      "name": "Arken Finance",
+      "symbol": "ARKEN",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/26137/thumb/arken.png?1696525225"
     },
     {
       "chainId": 88,
@@ -48,35 +64,11 @@
     },
     {
       "chainId": 88,
-      "address": "0x193fcbb7f9eea67cac0d5a94ec7ccf2141c867ec",
-      "name": "Dagora",
-      "symbol": "DADA",
+      "address": "0x7edc0ec89f987ecd85617b891c44fe462a325869",
+      "name": "Gunstar Metaverse",
+      "symbol": "GSTS",
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/55009/thumb/Dada-token.png?1743160313"
-    },
-    {
-      "chainId": 88,
-      "address": "0x69b946132b4a6c74cd29ba3ff614ceea1ef9ff2b",
-      "name": "Viction Bridged USDT",
-      "symbol": "USDT",
-      "decimals": 6,
-      "logoURI": "https://assets.coingecko.com/coins/images/54311/thumb/usdt-logo.png?1739207903"
-    },
-    {
-      "chainId": 88,
-      "address": "0x4359647fe0ef8b1ee201d5bc2bb5ab872c395f04",
-      "name": "OneID",
-      "symbol": "ONEID",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/55165/thumb/OneID-Logo-Token.png?1744308266"
-    },
-    {
-      "chainId": 88,
-      "address": "0xb55dd628039552a7d93a70fc8932f677499ed479",
-      "name": "Arken Finance",
-      "symbol": "ARKEN",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/26137/thumb/arken.png?1696525225"
+      "logoURI": "https://assets.coingecko.com/coins/images/21079/thumb/gst.png?1696520461"
     },
     {
       "chainId": 88,
@@ -96,11 +88,19 @@
     },
     {
       "chainId": 88,
-      "address": "0xcdde1f5d971a369eb952192f9a5c367f33a0a891",
-      "name": "deFusion Staked VIC",
-      "symbol": "SVIC",
+      "address": "0x4359647fe0ef8b1ee201d5bc2bb5ab872c395f04",
+      "name": "OneID",
+      "symbol": "ONEID",
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/36096/thumb/SVIC-Logo_%281%29.jpg?1710481887"
+      "logoURI": "https://assets.coingecko.com/coins/images/55165/thumb/OneID-Logo-Token.png?1744308266"
+    },
+    {
+      "chainId": 88,
+      "address": "0x69b946132b4a6c74cd29ba3ff614ceea1ef9ff2b",
+      "name": "Viction Bridged USDT",
+      "symbol": "USDT",
+      "decimals": 6,
+      "logoURI": "https://assets.coingecko.com/coins/images/54311/thumb/usdt-logo.png?1739207903"
     },
     {
       "chainId": 88,
@@ -117,14 +117,6 @@
       "symbol": "CEC",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/40128/thumb/icon_CEC.png?1725917669"
-    },
-    {
-      "chainId": 88,
-      "address": "0x9ad16b6d3e401b8df25c985f9bebb490db8afe78",
-      "name": "Worldwide USD",
-      "symbol": "WUSD",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/35358/thumb/WUSD%282%29.png?1715042139"
     },
     {
       "chainId": 88,
@@ -149,6 +141,14 @@
       "symbol": "FTT",
       "decimals": 17,
       "logoURI": "https://assets.coingecko.com/coins/images/9026/thumb/F.png?1696509161"
+    },
+    {
+      "chainId": 88,
+      "address": "0xba73e59f11597c1c13b0d9114688efb6a6d430f6",
+      "name": "Worldwide USD",
+      "symbol": "WUSD",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/35358/thumb/WUSD%282%29.png?1715042139"
     },
     {
       "chainId": 88,
@@ -208,8 +208,8 @@
     }
   ],
   "version": {
-    "major": 5,
-    "minor": 4,
+    "major": 6,
+    "minor": 0,
     "patch": 0
   }
 }
