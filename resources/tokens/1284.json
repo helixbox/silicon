@@ -1,26 +1,26 @@
 {
   "name": "CoinGecko",
-  "logoURI": "https://static.coingecko.com/s/thumbnail-007177f3eca19695592f0b8b0eabbdae282b54154e1be912285c9034ea6cbaf2.png",
+  "logoURI": "https://static.coingecko.com/gecko-new.svg",
   "keywords": [
     "defi"
   ],
-  "timestamp": "2025-04-02T11:00:36.619+00:00",
+  "timestamp": "2025-04-26T09:00:38.242+00:00",
   "tokens": [
     {
       "chainId": 1284,
-      "address": "0xffffffff63d24ecc8eb8a7b5d0803e900f7b6ced",
-      "name": "Phala  Moonbeam ",
-      "symbol": "XCPHA",
-      "decimals": 12,
-      "logoURI": "https://assets.coingecko.com/coins/images/29988/thumb/phala.jpg?1696528913"
+      "address": "0xffffffffea09fb06d082fd1275cd48b191cbcd1d",
+      "name": "xcUSDT",
+      "symbol": "XCUSDT",
+      "decimals": 6,
+      "logoURI": "https://assets.coingecko.com/coins/images/29019/thumb/usdt.png?1696527990"
     },
     {
       "chainId": 1284,
-      "address": "0xffffffff43b4560bc0c451a3386e082bff50ac90",
-      "name": "Subsocial",
-      "symbol": "SUB",
-      "decimals": 10,
-      "logoURI": "https://assets.coingecko.com/coins/images/15880/thumb/icon___gradient_1.png?1696515495"
+      "address": "0x6021d2c27b6fbd6e7608d1f39b41398caee2f824",
+      "name": "Cypress",
+      "symbol": "CP",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/35286/thumb/photo_2024-12-05_05-17-52.jpg?1733694753"
     },
     {
       "chainId": 1284,
@@ -32,35 +32,27 @@
     },
     {
       "chainId": 1284,
+      "address": "0xffffffff43b4560bc0c451a3386e082bff50ac90",
+      "name": "Subsocial",
+      "symbol": "SUB",
+      "decimals": 10,
+      "logoURI": "https://assets.coingecko.com/coins/images/15880/thumb/icon___gradient_1.png?1696515495"
+    },
+    {
+      "chainId": 1284,
+      "address": "0xffffffff63d24ecc8eb8a7b5d0803e900f7b6ced",
+      "name": "Phala  Moonbeam ",
+      "symbol": "XCPHA",
+      "decimals": 12,
+      "logoURI": "https://assets.coingecko.com/coins/images/29988/thumb/phala.jpg?1696528913"
+    },
+    {
+      "chainId": 1284,
       "address": "0xcd3b51d98478d53f4515a306be565c6eebef1d58",
       "name": "BeamSwap",
       "symbol": "GLINT",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/22893/thumb/glint.png?1696522190"
-    },
-    {
-      "chainId": 1284,
-      "address": "0xffffffffa893ad19e540e172c10d78d4d479b5cf",
-      "name": "Astar  Moonbeam ",
-      "symbol": "XCASTR",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/29986/thumb/astar.jpg?1696528911"
-    },
-    {
-      "chainId": 1284,
-      "address": "0x511ab53f793683763e5a8829738301368a2411e3",
-      "name": "Moonwell",
-      "symbol": "WELL",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/26133/thumb/WELL.png?1696525221"
-    },
-    {
-      "chainId": 1284,
-      "address": "0xffffffffea09fb06d082fd1275cd48b191cbcd1d",
-      "name": "xcUSDT",
-      "symbol": "XCUSDT",
-      "decimals": 6,
-      "logoURI": "https://assets.coingecko.com/coins/images/29019/thumb/usdt.png?1696527990"
     },
     {
       "chainId": 1284,
@@ -80,11 +72,11 @@
     },
     {
       "chainId": 1284,
-      "address": "0x6021d2c27b6fbd6e7608d1f39b41398caee2f824",
-      "name": "Cypress",
-      "symbol": "CP",
+      "address": "0xffffffffa893ad19e540e172c10d78d4d479b5cf",
+      "name": "Astar  Moonbeam ",
+      "symbol": "XCASTR",
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/35286/thumb/photo_2024-12-05_05-17-52.jpg?1733694753"
+      "logoURI": "https://assets.coingecko.com/coins/images/29986/thumb/astar.jpg?1696528911"
     },
     {
       "chainId": 1284,
@@ -93,6 +85,14 @@
       "symbol": "FLARE",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/24310/thumb/Solarflare.png?1696523491"
+    },
+    {
+      "chainId": 1284,
+      "address": "0x511ab53f793683763e5a8829738301368a2411e3",
+      "name": "Moonwell",
+      "symbol": "WELL",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/26133/thumb/WELL.png?1696525221"
     },
     {
       "chainId": 1284,
@@ -200,14 +200,6 @@
     },
     {
       "chainId": 1284,
-      "address": "0xffffffff52c56a9257bb97f4b2b6f7b2d624ecda",
-      "name": "Acala Dollar  Acala ",
-      "symbol": "AUSD",
-      "decimals": 12,
-      "logoURI": "https://assets.coingecko.com/coins/images/28145/thumb/logo_%285%29.png?1696527151"
-    },
-    {
-      "chainId": 1284,
       "address": "0x8389cf5be8f1e56211d226668a8b8f6cade61ee4",
       "name": "Welle",
       "symbol": "WELLE",
@@ -296,7 +288,7 @@
     }
   ],
   "version": {
-    "major": 7,
+    "major": 8,
     "minor": 0,
     "patch": 0
   }

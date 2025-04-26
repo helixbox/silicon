@@ -1,27 +1,11 @@
 {
   "name": "CoinGecko",
-  "logoURI": "https://static.coingecko.com/s/thumbnail-007177f3eca19695592f0b8b0eabbdae282b54154e1be912285c9034ea6cbaf2.png",
+  "logoURI": "https://static.coingecko.com/gecko-new.svg",
   "keywords": [
     "defi"
   ],
-  "timestamp": "2025-03-27T10:00:26.294+00:00",
+  "timestamp": "2025-04-26T10:00:24.418+00:00",
   "tokens": [
-    {
-      "chainId": 592,
-      "address": "0xaeaaf0e2c81af264101b9129c00f4440ccf0f720",
-      "name": "Wrapped ASTR",
-      "symbol": "WASTR",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/26638/thumb/astar.jpeg?1696525710"
-    },
-    {
-      "chainId": 592,
-      "address": "0x6a2d262d56735dba19dd70682b39f6be9a931d98",
-      "name": "Celer Bridged USDC  Astar ",
-      "symbol": "USDC",
-      "decimals": 6,
-      "logoURI": "https://assets.coingecko.com/coins/images/35321/thumb/USDC.jpg?1708177478"
-    },
     {
       "chainId": 592,
       "address": "0xad543f18cff85c77e140e3e5e3c3392f6ba9d5ca",
@@ -40,19 +24,27 @@
     },
     {
       "chainId": 592,
-      "address": "0x733ebcc6df85f8266349defd0980f8ced9b45f35",
-      "name": "BAI Stablecoin",
-      "symbol": "BAI",
+      "address": "0xaeaaf0e2c81af264101b9129c00f4440ccf0f720",
+      "name": "Wrapped ASTR",
+      "symbol": "WASTR",
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/25385/thumb/BAI_Token_Logo.png?1696524518"
+      "logoURI": "https://assets.coingecko.com/coins/images/26638/thumb/astar.jpeg?1696525710"
     },
     {
       "chainId": 592,
-      "address": "0xc4335b1b76fa6d52877b3046eca68f6e708a27dd",
-      "name": "Starlay Finance",
-      "symbol": "LAY",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/25795/thumb/WKBrkX4y_400x400.png?1696524881"
+      "address": "0x6a2d262d56735dba19dd70682b39f6be9a931d98",
+      "name": "Celer Bridged USDC  Astar ",
+      "symbol": "USDC",
+      "decimals": 6,
+      "logoURI": "https://assets.coingecko.com/coins/images/35321/thumb/USDC.jpg?1708177478"
+    },
+    {
+      "chainId": 592,
+      "address": "0xffffffffffffffffffffffffffffffffffffffff",
+      "name": "WDOT",
+      "symbol": "WDOT",
+      "decimals": 10,
+      "logoURI": "https://assets.coingecko.com/coins/images/26650/thumb/polkadot.png?1696525722"
     },
     {
       "chainId": 592,
@@ -64,19 +56,19 @@
     },
     {
       "chainId": 592,
-      "address": "0x9448610696659de8f72e1831d392214ae1ca4838",
-      "name": "Sirius Finance",
-      "symbol": "SRS",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/25007/thumb/b3NsEhJE_400x400.jpg?1696524159"
-    },
-    {
-      "chainId": 592,
       "address": "0xde2578edec4669ba7f41c5d5d2386300bcea4678",
       "name": "ArthSwap",
       "symbol": "ARSW",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/26048/thumb/arsw.png?1696525133"
+    },
+    {
+      "chainId": 592,
+      "address": "0xc4335b1b76fa6d52877b3046eca68f6e708a27dd",
+      "name": "Starlay Finance",
+      "symbol": "LAY",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/25795/thumb/WKBrkX4y_400x400.png?1696524881"
     },
     {
       "chainId": 592,
@@ -88,11 +80,11 @@
     },
     {
       "chainId": 592,
-      "address": "0xffffffffffffffffffffffffffffffffffffffff",
-      "name": "WDOT",
-      "symbol": "WDOT",
-      "decimals": 10,
-      "logoURI": "https://assets.coingecko.com/coins/images/26650/thumb/polkadot.png?1696525722"
+      "address": "0x733ebcc6df85f8266349defd0980f8ced9b45f35",
+      "name": "BAI Stablecoin",
+      "symbol": "BAI",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/25385/thumb/BAI_Token_Logo.png?1696524518"
     },
     {
       "chainId": 592,
@@ -167,7 +159,7 @@
     }
   ],
   "version": {
-    "major": 1,
+    "major": 2,
     "minor": 0,
     "patch": 0
   }
