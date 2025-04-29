@@ -1,19 +1,11 @@
 {
   "name": "CoinGecko",
-  "logoURI": "https://static.coingecko.com/s/thumbnail-007177f3eca19695592f0b8b0eabbdae282b54154e1be912285c9034ea6cbaf2.png",
+  "logoURI": "https://static.coingecko.com/gecko-new.svg",
   "keywords": [
     "defi"
   ],
-  "timestamp": "2025-02-17T09:00:25.685+00:00",
+  "timestamp": "2025-04-29T11:00:25.243+00:00",
   "tokens": [
-    {
-      "chainId": 9001,
-      "address": "0xf5b24c0093b65408ace53df7ce86a02448d53b25",
-      "name": "axlWBTC",
-      "symbol": "AXLWBTC",
-      "decimals": 8,
-      "logoURI": "https://assets.coingecko.com/coins/images/28173/thumb/wbtc-satoshi_D_3x.png?1696986732"
-    },
     {
       "chainId": 9001,
       "address": "0x50de24b3f0b3136c50fa8a3b8ebc8bd80a269ce5",
@@ -21,6 +13,14 @@
       "symbol": "AXLETH",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/28171/thumb/weth-wei_D_3x.png?1696527174"
+    },
+    {
+      "chainId": 9001,
+      "address": "0xf5b24c0093b65408ace53df7ce86a02448d53b25",
+      "name": "axlWBTC",
+      "symbol": "AXLWBTC",
+      "decimals": 8,
+      "logoURI": "https://assets.coingecko.com/coins/images/28173/thumb/wbtc-satoshi_D_3x.png?1696986732"
     },
     {
       "chainId": 9001,
@@ -121,15 +121,15 @@
     {
       "chainId": 9001,
       "address": "0xd8176865dd0d672c6ab4a427572f80a72b4b4a9c",
-      "name": "Frax Share",
-      "symbol": "FXS",
+      "name": "Frax",
+      "symbol": "FRAX",
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/13423/thumb/Frax_Shares_icon.png?1696513183"
+      "logoURI": "https://assets.coingecko.com/coins/images/13423/thumb/frax.png?1745921071"
     },
     {
       "chainId": 9001,
       "address": "0xe03494d0033687543a80c9b1ca7d6237f2ea8bd8",
-      "name": "Frax",
+      "name": "Legacy Frax Dollar",
       "symbol": "FRAX",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/13422/thumb/frax-logo.png?1739780303"
@@ -138,6 +138,6 @@
   "version": {
     "major": 8,
     "minor": 0,
-    "patch": 1
+    "patch": 2
   }
 }
