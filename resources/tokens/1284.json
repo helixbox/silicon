@@ -4,16 +4,8 @@
   "keywords": [
     "defi"
   ],
-  "timestamp": "2025-04-26T09:00:38.242+00:00",
+  "timestamp": "2025-04-29T10:00:35.314+00:00",
   "tokens": [
-    {
-      "chainId": 1284,
-      "address": "0xffffffffea09fb06d082fd1275cd48b191cbcd1d",
-      "name": "xcUSDT",
-      "symbol": "XCUSDT",
-      "decimals": 6,
-      "logoURI": "https://assets.coingecko.com/coins/images/29019/thumb/usdt.png?1696527990"
-    },
     {
       "chainId": 1284,
       "address": "0x6021d2c27b6fbd6e7608d1f39b41398caee2f824",
@@ -21,6 +13,22 @@
       "symbol": "CP",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/35286/thumb/photo_2024-12-05_05-17-52.jpg?1733694753"
+    },
+    {
+      "chainId": 1284,
+      "address": "0xcd3b51d98478d53f4515a306be565c6eebef1d58",
+      "name": "BeamSwap",
+      "symbol": "GLINT",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/22893/thumb/glint.png?1696522190"
+    },
+    {
+      "chainId": 1284,
+      "address": "0xffffffffea09fb06d082fd1275cd48b191cbcd1d",
+      "name": "xcUSDT",
+      "symbol": "XCUSDT",
+      "decimals": 6,
+      "logoURI": "https://assets.coingecko.com/coins/images/29019/thumb/usdt.png?1696527990"
     },
     {
       "chainId": 1284,
@@ -40,19 +48,19 @@
     },
     {
       "chainId": 1284,
+      "address": "0x511ab53f793683763e5a8829738301368a2411e3",
+      "name": "Moonwell",
+      "symbol": "WELL",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/26133/thumb/WELL.png?1696525221"
+    },
+    {
+      "chainId": 1284,
       "address": "0xffffffff63d24ecc8eb8a7b5d0803e900f7b6ced",
       "name": "Phala  Moonbeam ",
       "symbol": "XCPHA",
       "decimals": 12,
       "logoURI": "https://assets.coingecko.com/coins/images/29988/thumb/phala.jpg?1696528913"
-    },
-    {
-      "chainId": 1284,
-      "address": "0xcd3b51d98478d53f4515a306be565c6eebef1d58",
-      "name": "BeamSwap",
-      "symbol": "GLINT",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/22893/thumb/glint.png?1696522190"
     },
     {
       "chainId": 1284,
@@ -85,14 +93,6 @@
       "symbol": "FLARE",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/24310/thumb/Solarflare.png?1696523491"
-    },
-    {
-      "chainId": 1284,
-      "address": "0x511ab53f793683763e5a8829738301368a2411e3",
-      "name": "Moonwell",
-      "symbol": "WELL",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/26133/thumb/WELL.png?1696525221"
     },
     {
       "chainId": 1284,
@@ -177,7 +177,7 @@
     {
       "chainId": 1284,
       "address": "0x322e86852e492a7ee17f28a78c663da38fb33bfb",
-      "name": "Frax",
+      "name": "Legacy Frax Dollar",
       "symbol": "FRAX",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/13422/thumb/frax-logo.png?1739780303"
@@ -290,6 +290,6 @@
   "version": {
     "major": 8,
     "minor": 0,
-    "patch": 0
+    "patch": 1
   }
 }
