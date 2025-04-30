@@ -21674,6 +21674,12 @@
     }
   },
   {
+    "id": "bsquared-network",
+    "symbol": "b2",
+    "name": "BSquared Network",
+    "platforms": {}
+  },
+  {
     "id": "bst-chain",
     "symbol": "bstc",
     "name": "BST Chain",
@@ -81464,7 +81470,7 @@
   {
     "id": "music-protocol",
     "symbol": "record",
-    "name": "Music Protocol",
+    "name": "Record Nexus",
     "platforms": {
       "base": "0xe642657e4f43e6dcf0bd73ef24008394574dee28"
     }
@@ -115968,7 +115974,8 @@
     "symbol": "superoethb",
     "name": "Super OETH",
     "platforms": {
-      "base": "0xdbfefd2e8460a6ee4955a68582f85708baea60a3"
+      "base": "0xdbfefd2e8460a6ee4955a68582f85708baea60a3",
+      "plume-network": "0xfcbe50dbe43bf7e5c88c6f6fb9ef432d4165406e"
     }
   },
   {
@@ -132826,6 +132833,14 @@
     }
   },
   {
+    "id": "wrapped-frax",
+    "symbol": "wfrax",
+    "name": "Wrapped FRAX",
+    "platforms": {
+      "fraxtal": "0xfc00000000000000000000000000000000000002"
+    }
+  },
+  {
     "id": "wrapped-frxeth",
     "symbol": "wfrxeth",
     "name": "Wrapped frxETH",
@@ -133832,7 +133847,8 @@
     "symbol": "wsuperoethb",
     "name": "Wrapped Super OETH",
     "platforms": {
-      "base": "0x7fcd174e80f264448ebee8c88a7c4476aaf58ea6"
+      "base": "0x7fcd174e80f264448ebee8c88a7c4476aaf58ea6",
+      "plume-network": "0x2de8a403f7a5c6c5161d4a129918ec9f0b653918"
     }
   },
   {
