@@ -4,8 +4,16 @@
   "keywords": [
     "defi"
   ],
-  "timestamp": "2025-04-17T10:00:27.321+00:00",
+  "timestamp": "2025-05-01T10:00:27.063+00:00",
   "tokens": [
+    {
+      "chainId": 3776,
+      "address": "0x90e3f8e749dbd40286ab29aecd1e8487db4a8785",
+      "name": "Bonsai Coin",
+      "symbol": "BONSAICOIN",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/39273/thumb/1000007690.png?1721386111"
+    },
     {
       "chainId": 3776,
       "address": "0xe9cc37904875b459fa5d0fe37680d36f1ed55e38",
@@ -24,22 +32,6 @@
     },
     {
       "chainId": 3776,
-      "address": "0xdf41220c7e322bfef933d85d01821ad277f90172",
-      "name": "Stargate Bridged ASTR  Astar zkEVM ",
-      "symbol": "ASTR",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/36219/thumb/astr.png?1710846036"
-    },
-    {
-      "chainId": 3776,
-      "address": "0x90e3f8e749dbd40286ab29aecd1e8487db4a8785",
-      "name": "Bonsai Coin",
-      "symbol": "BONSAICOIN",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/39273/thumb/1000007690.png?1721386111"
-    },
-    {
-      "chainId": 3776,
       "address": "0x80137510979822322193fc997d400d5a6c747bf7",
       "name": "StakeStone ETH",
       "symbol": "STONE",
@@ -48,7 +40,7 @@
     }
   ],
   "version": {
-    "major": 2,
+    "major": 3,
     "minor": 0,
     "patch": 0
   }
