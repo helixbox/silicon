@@ -4,24 +4,8 @@
   "keywords": [
     "defi"
   ],
-  "timestamp": "2025-04-29T11:00:24.319+00:00",
+  "timestamp": "2025-05-01T08:00:25.244+00:00",
   "tokens": [
-    {
-      "chainId": 1101,
-      "address": "0x1e4a5963abfd975d8c9021ce480b42188849d41d",
-      "name": "Polygon Hermez Bridged USDT  Polygon zk",
-      "symbol": "USDT",
-      "decimals": 6,
-      "logoURI": "https://assets.coingecko.com/coins/images/35143/thumb/usdt_logo.png?1707467554"
-    },
-    {
-      "chainId": 1101,
-      "address": "0xa8ce8aee21bc2a48a5ef670afcc9274c7bbbc035",
-      "name": "Polygon Hermez Bridged USDC  Polygon zk",
-      "symbol": "USDC",
-      "decimals": 6,
-      "logoURI": "https://assets.coingecko.com/coins/images/35263/thumb/USDC_Icon.png?1708009475"
-    },
     {
       "chainId": 1101,
       "address": "0xc5015b9d9161dca7e18e32f6f25c4ad850731fd4",
@@ -37,6 +21,22 @@
       "symbol": "FJLT-B24",
       "decimals": 6,
       "logoURI": "https://assets.coingecko.com/coins/images/36305/thumb/Artboard_1fJLT-B24.png?1711090025"
+    },
+    {
+      "chainId": 1101,
+      "address": "0xa8ce8aee21bc2a48a5ef670afcc9274c7bbbc035",
+      "name": "Polygon Hermez Bridged USDC  Polygon zk",
+      "symbol": "USDC",
+      "decimals": 6,
+      "logoURI": "https://assets.coingecko.com/coins/images/35263/thumb/USDC_Icon.png?1708009475"
+    },
+    {
+      "chainId": 1101,
+      "address": "0x1e4a5963abfd975d8c9021ce480b42188849d41d",
+      "name": "Polygon Hermez Bridged USDT  Polygon zk",
+      "symbol": "USDT",
+      "decimals": 6,
+      "logoURI": "https://assets.coingecko.com/coins/images/35143/thumb/usdt_logo.png?1707467554"
     },
     {
       "chainId": 1101,
@@ -105,7 +105,7 @@
     {
       "chainId": 1101,
       "address": "0x6b856a14cea1d7dcfaf80fa6936c0b75972ccace",
-      "name": "Frax",
+      "name": "Frax  prev  FXS ",
       "symbol": "FRAX",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/13423/thumb/frax.png?1745921071"
@@ -218,6 +218,6 @@
   "version": {
     "major": 4,
     "minor": 0,
-    "patch": 2
+    "patch": 3
   }
 }

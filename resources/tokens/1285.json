@@ -4,23 +4,14 @@
   "keywords": [
     "defi"
   ],
-  "timestamp": "2025-04-29T12:00:30.425+00:00",
+  "timestamp": "2025-05-01T08:00:33.033+00:00",
   "tokens": [
     {
       "chainId": 1285,
-      "address": "0x0cae51e1032e8461f4806e26332c030e34de3adb",
-      "name": "Magic Internet Money  Moonriver ",
-      "symbol": "MIM",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/37609/thumb/mim.png?1715050916"
-    },
-    {
-      "chainId": 1285,
-      "address": "0x2bf9b864cdc97b08b6d79ad4663e71b8ab65c45c",
-      "name": "Multichain Bridged WBNB  Moonriver ",
-      "symbol": "WBNB",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/53098/thumb/wrapped_bnb.png?1735265298"
+      "address": "0x5d9ab5522c64e1f6ef5e3627eccc093f56167818",
+      "name": "Multichain Bridged BUSD  Moonriver ",
+      "symbol": "BUSD",
+      "decimals": 18
     },
     {
       "chainId": 1285,
@@ -48,10 +39,19 @@
     },
     {
       "chainId": 1285,
-      "address": "0x5d9ab5522c64e1f6ef5e3627eccc093f56167818",
-      "name": "Multichain Bridged BUSD  Moonriver ",
-      "symbol": "BUSD",
-      "decimals": 18
+      "address": "0x4a436073552044d5f2f49b176853ad3ad473d9d6",
+      "name": "Rome",
+      "symbol": "ROME",
+      "decimals": 9,
+      "logoURI": "https://assets.coingecko.com/coins/images/21078/thumb/rome-dao.jpeg?1696520460"
+    },
+    {
+      "chainId": 1285,
+      "address": "0x98878b06940ae243284ca214f92bb71a2b032b8a",
+      "name": "Moonriver",
+      "symbol": "MOVR",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/17984/thumb/Moonriver_MOVR_ICON.png?1716647589"
     },
     {
       "chainId": 1285,
@@ -60,6 +60,14 @@
       "symbol": "XCKSM",
       "decimals": 12,
       "logoURI": "https://assets.coingecko.com/coins/images/28405/thumb/xcksm.jpeg?1696527403"
+    },
+    {
+      "chainId": 1285,
+      "address": "0x2bf9b864cdc97b08b6d79ad4663e71b8ab65c45c",
+      "name": "Multichain Bridged WBNB  Moonriver ",
+      "symbol": "WBNB",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/53098/thumb/wrapped_bnb.png?1735265298"
     },
     {
       "chainId": 1285,
@@ -95,27 +103,19 @@
     },
     {
       "chainId": 1285,
-      "address": "0x4a436073552044d5f2f49b176853ad3ad473d9d6",
-      "name": "Rome",
-      "symbol": "ROME",
-      "decimals": 9,
-      "logoURI": "https://assets.coingecko.com/coins/images/21078/thumb/rome-dao.jpeg?1696520460"
-    },
-    {
-      "chainId": 1285,
-      "address": "0x98878b06940ae243284ca214f92bb71a2b032b8a",
-      "name": "Moonriver",
-      "symbol": "MOVR",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/17984/thumb/Moonriver_MOVR_ICON.png?1716647589"
-    },
-    {
-      "chainId": 1285,
       "address": "0x9a92b5ebf1f6f6f7d93696fcd44e5cf75035a756",
       "name": "Huckleberry",
       "symbol": "FINN",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/19642/thumb/Finn_1_%28200x200%29.png?1696519071"
+    },
+    {
+      "chainId": 1285,
+      "address": "0x0cae51e1032e8461f4806e26332c030e34de3adb",
+      "name": "Magic Internet Money  Moonriver ",
+      "symbol": "MIM",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/37609/thumb/mim.png?1715050916"
     },
     {
       "chainId": 1285,
@@ -160,7 +160,7 @@
     {
       "chainId": 1285,
       "address": "0x6f1d1ee50846fcbc3de91723e61cb68cfa6d0e98",
-      "name": "Frax",
+      "name": "Frax  prev  FXS ",
       "symbol": "FRAX",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/13423/thumb/frax.png?1745921071"
@@ -225,6 +225,6 @@
   "version": {
     "major": 2,
     "minor": 0,
-    "patch": 2
+    "patch": 3
   }
 }
