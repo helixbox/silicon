@@ -1,19 +1,11 @@
 {
   "name": "CoinGecko",
-  "logoURI": "https://static.coingecko.com/s/thumbnail-007177f3eca19695592f0b8b0eabbdae282b54154e1be912285c9034ea6cbaf2.png",
+  "logoURI": "https://static.coingecko.com/gecko-new.svg",
   "keywords": [
     "defi"
   ],
-  "timestamp": "2025-04-07T08:00:36.187+00:00",
+  "timestamp": "2025-05-01T10:00:35.760+00:00",
   "tokens": [
-    {
-      "chainId": 534352,
-      "address": "0x61a9cc561b6c1f9c31bcdeb447afecf25f33bbf9",
-      "name": "Pandacoin Inu",
-      "symbol": "PANDA",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/35746/thumb/panda.jpeg?1709714542"
-    },
     {
       "chainId": 534352,
       "address": "0xd29687c813d741e2f938f4ac377128810e217b1b",
@@ -21,6 +13,22 @@
       "symbol": "SCR",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/50571/thumb/scroll.jpg?1728376125"
+    },
+    {
+      "chainId": 534352,
+      "address": "0xf55bec9cafdbe8730f096aa55dad6d22d44099df",
+      "name": "Bridged Tether  Scroll ",
+      "symbol": "USDT",
+      "decimals": 6,
+      "logoURI": "https://assets.coingecko.com/coins/images/32610/thumb/usdt_%281%29.png?1698733524"
+    },
+    {
+      "chainId": 534352,
+      "address": "0x0fc479e2f9b7310bfb1db606cf565dea6910eedc",
+      "name": "Papyrus Swap",
+      "symbol": "PAPYRUS",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/32479/thumb/PapyrusLogo.png?1698286849"
     },
     {
       "chainId": 534352,
@@ -48,22 +56,6 @@
     },
     {
       "chainId": 534352,
-      "address": "0x65421ba909200b81640d98b979d07487c9781b66",
-      "name": "KelpDAO Bridged rsETH  Scroll ",
-      "symbol": "RSETH",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/39545/thumb/rseth.png?1722849918"
-    },
-    {
-      "chainId": 534352,
-      "address": "0xf55bec9cafdbe8730f096aa55dad6d22d44099df",
-      "name": "Bridged Tether  Scroll ",
-      "symbol": "USDT",
-      "decimals": 6,
-      "logoURI": "https://assets.coingecko.com/coins/images/32610/thumb/usdt_%281%29.png?1698733524"
-    },
-    {
-      "chainId": 534352,
       "address": "0x5300000000000000000000000000000000000004",
       "name": "Bridged Wrapped Ether  Scroll ",
       "symbol": "WETH",
@@ -72,11 +64,11 @@
     },
     {
       "chainId": 534352,
-      "address": "0x330c43d22bd65a60ffea93a197f04e87faa27b70",
-      "name": "abcNURI",
-      "symbol": "ABCNURI",
+      "address": "0x65421ba909200b81640d98b979d07487c9781b66",
+      "name": "KelpDAO Bridged rsETH  Scroll ",
+      "symbol": "RSETH",
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/40074/thumb/abcNURI.png?1725511281"
+      "logoURI": "https://assets.coingecko.com/coins/images/39545/thumb/rseth.png?1722849918"
     },
     {
       "chainId": 534352,
@@ -88,6 +80,14 @@
     },
     {
       "chainId": 534352,
+      "address": "0x330c43d22bd65a60ffea93a197f04e87faa27b70",
+      "name": "abcNURI",
+      "symbol": "ABCNURI",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/40074/thumb/abcNURI.png?1725511281"
+    },
+    {
+      "chainId": 534352,
       "address": "0x750351a9f75f98f2c2e91d4edb3beb14e719557e",
       "name": "Scribes",
       "symbol": "SCRIBES",
@@ -96,19 +96,19 @@
     },
     {
       "chainId": 534352,
+      "address": "0x61a9cc561b6c1f9c31bcdeb447afecf25f33bbf9",
+      "name": "Pandacoin Inu",
+      "symbol": "PANDA",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/35746/thumb/panda.jpeg?1709714542"
+    },
+    {
+      "chainId": 534352,
       "address": "0x95a52ec1d60e74cd3eb002fe54a2c74b185a4c16",
       "name": "Skydrome",
       "symbol": "SKY",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/33902/thumb/icon_200x200.png?1703237670"
-    },
-    {
-      "chainId": 534352,
-      "address": "0x0fc479e2f9b7310bfb1db606cf565dea6910eedc",
-      "name": "Papyrus Swap",
-      "symbol": "PAPYRUS",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/32479/thumb/PapyrusLogo.png?1698286849"
     },
     {
       "chainId": 534352,
@@ -304,14 +304,6 @@
     },
     {
       "chainId": 534352,
-      "address": "0x99f775945e46da5d443246fad7bc317993ee1b1a",
-      "name": "Aryze s Digital Gold",
-      "symbol": "EGOLD",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/50815/thumb/eGOLD.png?1729238938"
-    },
-    {
-      "chainId": 534352,
       "address": "0x44d4b627997b41abd2bf2ea05b731fe535f01c3d",
       "name": "ZAI Stablecoin",
       "symbol": "ZAI",
@@ -328,8 +320,8 @@
     }
   ],
   "version": {
-    "major": 8,
-    "minor": 3,
+    "major": 9,
+    "minor": 0,
     "patch": 0
   }
 }
