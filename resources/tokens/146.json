@@ -4,8 +4,16 @@
   "keywords": [
     "defi"
   ],
-  "timestamp": "2025-05-04T06:00:39.619+00:00",
+  "timestamp": "2025-05-04T11:00:40.041+00:00",
   "tokens": [
+    {
+      "chainId": 146,
+      "address": "0x50c42deacd8fc9773493ed674b675be577f2634b",
+      "name": "Bridged Wrapped Ether  Sonic ",
+      "symbol": "WETH",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/53332/thumb/weth_2.jpg?1736149977"
+    },
     {
       "chainId": 146,
       "address": "0xc0da8629599b364eb0a8921a477fb80440a68bd4",
@@ -40,19 +48,27 @@
     },
     {
       "chainId": 146,
-      "address": "0x79bbf4508b1391af3a0f4b30bb5fc4aa9ab0e07c",
-      "name": "Hey Anon",
-      "symbol": "ANON",
+      "address": "0xe8c962493104b71f1bf22bc415e02ed3ef685c26",
+      "name": "Wrapped SAFU",
+      "symbol": "WSAFU",
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/52961/thumb/AAI__ANON_SQ_Wb_250x250.png?1740500195"
+      "logoURI": "https://assets.coingecko.com/coins/images/55496/thumb/Frame_1116602414.png?1746352304"
     },
     {
       "chainId": 146,
-      "address": "0x871a101dcf22fe4fe37be7b654098c801cba1c88",
-      "name": "Beefy escrowed Sonic",
-      "symbol": "BES",
+      "address": "0xe5da20f15420ad15de0fa650600afc998bbe3955",
+      "name": "Beets Staked Sonic",
+      "symbol": "STS",
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/55186/thumb/beS.png?1744440042"
+      "logoURI": "https://assets.coingecko.com/coins/images/52937/thumb/token-beets-staked-sonic.png?1734712659"
+    },
+    {
+      "chainId": 146,
+      "address": "0x9f0df7799f6fdad409300080cff680f5a23df4b1",
+      "name": "Wrapped Origin Sonic",
+      "symbol": "WOS",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/53774/thumb/wos-256x256.png?1737271865"
     },
     {
       "chainId": 146,
@@ -61,6 +77,14 @@
       "symbol": "GSNAKE",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/54749/thumb/gsnake_logo.png?1741335570"
+    },
+    {
+      "chainId": 146,
+      "address": "0x7b0a41f0c17474e41a0c36c0bf33b9aed06ee9f5",
+      "name": "Sonic Name Service",
+      "symbol": "SNS",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/51377/thumb/ua-dexifCHbOtcGHHcvE.jpg?1730964998"
     },
     {
       "chainId": 146,
@@ -96,27 +120,11 @@
     },
     {
       "chainId": 146,
-      "address": "0x3bce5cb273f0f148010bbea2470e7b5df84c7812",
-      "name": "Rings scETH",
-      "symbol": "SCETH",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/54461/thumb/sceth.png?1739847097"
-    },
-    {
-      "chainId": 146,
       "address": "0xbb30e76d9bb2cc9631f7fc5eb8e87b5aff32bfbd",
       "name": "Rings scBTC",
       "symbol": "SCBTC",
       "decimals": 8,
       "logoURI": "https://assets.coingecko.com/coins/images/54997/thumb/scBTC_32.png?1743095543"
-    },
-    {
-      "chainId": 146,
-      "address": "0x9f0df7799f6fdad409300080cff680f5a23df4b1",
-      "name": "Wrapped Origin Sonic",
-      "symbol": "WOS",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/53774/thumb/wos-256x256.png?1737271865"
     },
     {
       "chainId": 146,
@@ -128,11 +136,11 @@
     },
     {
       "chainId": 146,
-      "address": "0x29219dd400f2bf60e5a23d13be72b486d4038894",
-      "name": "Sonic Bridged USDC e  Sonic ",
-      "symbol": "USDCE",
-      "decimals": 6,
-      "logoURI": "https://assets.coingecko.com/coins/images/53064/thumb/logo.png?1735179479"
+      "address": "0x2d0e0814e62d80056181f5cd932274405966e4f0",
+      "name": "Beets",
+      "symbol": "BEETS",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/53249/thumb/beets.png?1735873104"
     },
     {
       "chainId": 146,
@@ -152,6 +160,22 @@
     },
     {
       "chainId": 146,
+      "address": "0x29219dd400f2bf60e5a23d13be72b486d4038894",
+      "name": "Sonic Bridged USDC e  Sonic ",
+      "symbol": "USDCE",
+      "decimals": 6,
+      "logoURI": "https://assets.coingecko.com/coins/images/53064/thumb/logo.png?1735179479"
+    },
+    {
+      "chainId": 146,
+      "address": "0x79bbf4508b1391af3a0f4b30bb5fc4aa9ab0e07c",
+      "name": "Hey Anon",
+      "symbol": "ANON",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/52961/thumb/AAI__ANON_SQ_Wb_250x250.png?1740500195"
+    },
+    {
+      "chainId": 146,
       "address": "0xcbfe13919530cb054b9cabbf9cda1dd1d811e3e6",
       "name": "Coal",
       "symbol": "COAL",
@@ -168,14 +192,6 @@
     },
     {
       "chainId": 146,
-      "address": "0xe5da20f15420ad15de0fa650600afc998bbe3955",
-      "name": "Beets Staked Sonic",
-      "symbol": "STS",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/52937/thumb/token-beets-staked-sonic.png?1734712659"
-    },
-    {
-      "chainId": 146,
       "address": "0x6fb9897896fe5d05025eb43306675727887d0b7c",
       "name": "Hedgy the hedgehog",
       "symbol": "HEDGY",
@@ -189,14 +205,6 @@
       "symbol": "METRO",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/54040/thumb/metropolis_logo_square.png?1738076053"
-    },
-    {
-      "chainId": 146,
-      "address": "0x7b0a41f0c17474e41a0c36c0bf33b9aed06ee9f5",
-      "name": "Sonic Name Service",
-      "symbol": "SNS",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/51377/thumb/ua-dexifCHbOtcGHHcvE.jpg?1730964998"
     },
     {
       "chainId": 146,
@@ -232,22 +240,6 @@
     },
     {
       "chainId": 146,
-      "address": "0xb1e25689d55734fd3fffc939c4c3eb52dff8a794",
-      "name": "Origin Sonic",
-      "symbol": "OS",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/53773/thumb/os-256x256.png?1737271726"
-    },
-    {
-      "chainId": 146,
-      "address": "0x3333111a391cc08fa51353e9195526a70b333333",
-      "name": "Shadow Liquid Staking Token",
-      "symbol": "X33",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/54526/thumb/shadow_liquid_staking_token17400.jpg?1740148577"
-    },
-    {
-      "chainId": 146,
       "address": "0x63a522f6e7d5b96f7aebb74d2648545e9e14078d",
       "name": "ShibaPoconk",
       "symbol": "CONK",
@@ -280,11 +272,19 @@
     },
     {
       "chainId": 146,
-      "address": "0x50c42deacd8fc9773493ed674b675be577f2634b",
-      "name": "Bridged Wrapped Ether  Sonic ",
-      "symbol": "WETH",
+      "address": "0xb1e25689d55734fd3fffc939c4c3eb52dff8a794",
+      "name": "Origin Sonic",
+      "symbol": "OS",
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/53332/thumb/weth_2.jpg?1736149977"
+      "logoURI": "https://assets.coingecko.com/coins/images/53773/thumb/os-256x256.png?1737271726"
+    },
+    {
+      "chainId": 146,
+      "address": "0x871a101dcf22fe4fe37be7b654098c801cba1c88",
+      "name": "Beefy escrowed Sonic",
+      "symbol": "BES",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/55186/thumb/beS.png?1744440042"
     },
     {
       "chainId": 146,
@@ -304,6 +304,14 @@
     },
     {
       "chainId": 146,
+      "address": "0xe51ee9868c1f0d6cd968a8b8c8376dc2991bfe44",
+      "name": "Paintswap",
+      "symbol": "BRUSH",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/18579/thumb/ps-cmc-200x200.png?1707862125"
+    },
+    {
+      "chainId": 146,
       "address": "0x039e2fb66102314ce7b64ce5ce3e5183bc94ad38",
       "name": "Wrapped Sonic",
       "symbol": "WS",
@@ -312,11 +320,11 @@
     },
     {
       "chainId": 146,
-      "address": "0xe51ee9868c1f0d6cd968a8b8c8376dc2991bfe44",
-      "name": "Paintswap",
-      "symbol": "BRUSH",
+      "address": "0x3333111a391cc08fa51353e9195526a70b333333",
+      "name": "Shadow Liquid Staking Token",
+      "symbol": "X33",
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/18579/thumb/ps-cmc-200x200.png?1707862125"
+      "logoURI": "https://assets.coingecko.com/coins/images/54526/thumb/shadow_liquid_staking_token17400.jpg?1740148577"
     },
     {
       "chainId": 146,
@@ -333,6 +341,14 @@
       "symbol": "FA",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/54414/thumb/_Final__Token_Symbol_200.png?1739555103"
+    },
+    {
+      "chainId": 146,
+      "address": "0x3bce5cb273f0f148010bbea2470e7b5df84c7812",
+      "name": "Rings scETH",
+      "symbol": "SCETH",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/54461/thumb/sceth.png?1739847097"
     },
     {
       "chainId": 146,
@@ -421,14 +437,6 @@
       "symbol": "SNAKE",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/54855/thumb/logo192.png?1742106374"
-    },
-    {
-      "chainId": 146,
-      "address": "0x2d0e0814e62d80056181f5cd932274405966e4f0",
-      "name": "Beets",
-      "symbol": "BEETS",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/53249/thumb/beets.png?1735873104"
     },
     {
       "chainId": 146,
@@ -664,14 +672,6 @@
     },
     {
       "chainId": 146,
-      "address": "0xfd28f108e95f4d41daae9dbfff707d677985998e",
-      "name": "Parallel Governance",
-      "symbol": "PRL",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/16449/thumb/PRL.png?1746335634"
-    },
-    {
-      "chainId": 146,
       "address": "0x0e0ce4d450c705f8a0b6dd9d5123e3df2787d16b",
       "name": "Wagmi",
       "symbol": "WAGMI",
@@ -680,8 +680,8 @@
     }
   ],
   "version": {
-    "major": 2,
-    "minor": 4,
+    "major": 3,
+    "minor": 1,
     "patch": 0
   }
 }

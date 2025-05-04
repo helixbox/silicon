@@ -4,8 +4,16 @@
   "keywords": [
     "defi"
   ],
-  "timestamp": "2025-05-04T06:00:43.028+00:00",
+  "timestamp": "2025-05-04T09:00:44.249+00:00",
   "tokens": [
+    {
+      "chainId": 250,
+      "address": "0x841fad6eae12c286d1fd18d1d525dffa75c7effe",
+      "name": "Spookyswap",
+      "symbol": "BOO",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/15223/thumb/logo_200x200.png?1696514878"
+    },
     {
       "chainId": 250,
       "address": "0x3dc57b391262e3aae37a08d91241f9ba9d58b570",
@@ -13,14 +21,6 @@
       "symbol": "YOSHI",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/19355/thumb/YOSHI_200.png?1696518795"
-    },
-    {
-      "chainId": 250,
-      "address": "0x07e6332dd090d287d3489245038daf987955dcfb",
-      "name": "Geist Dai",
-      "symbol": "GDAI",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/18997/thumb/preview-gallery-gDAIgecko_%281%29.png?1696518450"
     },
     {
       "chainId": 250,
@@ -56,22 +56,6 @@
     },
     {
       "chainId": 250,
-      "address": "0x74e23df9110aa9ea0b6ff2faee01e740ca1c642e",
-      "name": "TOR",
-      "symbol": "TOR",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/23609/thumb/tor.png?1696522816"
-    },
-    {
-      "chainId": 250,
-      "address": "0x841fad6eae12c286d1fd18d1d525dffa75c7effe",
-      "name": "Spookyswap",
-      "symbol": "BOO",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/15223/thumb/logo_200x200.png?1696514878"
-    },
-    {
-      "chainId": 250,
       "address": "0xf24bcf4d1e507740041c9cfd2dddb29585adce1e",
       "name": "Beethoven X  Legacy ",
       "symbol": "BEETS-LEGACY",
@@ -85,6 +69,14 @@
       "symbol": "IB",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/22902/thumb/ironbank.png?1696522198"
+    },
+    {
+      "chainId": 250,
+      "address": "0x39b3bd37208cbade74d0fcbdbb12d606295b430a",
+      "name": "Geist FTM",
+      "symbol": "GFTM",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/18991/thumb/preview-gallery-gFTMgecko_%281%29.png?1696518445"
     },
     {
       "chainId": 250,
@@ -120,11 +112,11 @@
     },
     {
       "chainId": 250,
-      "address": "0x82f0b8b456c1a451378467398982d4834b6829c1",
-      "name": "Magic Internet Money  Fantom ",
-      "symbol": "MIM",
+      "address": "0x07e6332dd090d287d3489245038daf987955dcfb",
+      "name": "Geist Dai",
+      "symbol": "GDAI",
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/37606/thumb/mim.png?1714992629"
+      "logoURI": "https://assets.coingecko.com/coins/images/18997/thumb/preview-gallery-gDAIgecko_%281%29.png?1696518450"
     },
     {
       "chainId": 250,
@@ -144,6 +136,14 @@
     },
     {
       "chainId": 250,
+      "address": "0x5c725631fd299703d0a74c23f89a55c6b9a0c52f",
+      "name": "Polter",
+      "symbol": "POLTER",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/35730/thumb/logo-200.png?1743249114"
+    },
+    {
+      "chainId": 250,
       "address": "0x5c4fdfc5233f935f20d2adba572f770c2e377ab0",
       "name": "Hector Network",
       "symbol": "HEC",
@@ -152,11 +152,11 @@
     },
     {
       "chainId": 250,
-      "address": "0x25c130b2624cf12a4ea30143ef50c5d68cefa22f",
-      "name": "Geist ETH",
-      "symbol": "GETH",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/18998/thumb/preview-gallery-gETHgecko_%281%29.png?1696518451"
+      "address": "0xe578c856933d8e1082740bf7661e379aa2a30b26",
+      "name": "Geist USDC",
+      "symbol": "GUSDC",
+      "decimals": 6,
+      "logoURI": "https://assets.coingecko.com/coins/images/19002/thumb/preview-gallery-gUSDCgecko_%281%29.png?1696518455"
     },
     {
       "chainId": 250,
@@ -168,27 +168,19 @@
     },
     {
       "chainId": 250,
+      "address": "0x82f0b8b456c1a451378467398982d4834b6829c1",
+      "name": "Magic Internet Money  Fantom ",
+      "symbol": "MIM",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/37606/thumb/mim.png?1714992629"
+    },
+    {
+      "chainId": 250,
       "address": "0x5079cce47d275e85c9f13afb656d51e3f9d41181",
       "name": "Jefe",
       "symbol": "JEFE",
       "decimals": 9,
       "logoURI": "https://assets.coingecko.com/coins/images/25336/thumb/JEFE_200.png?1696524470"
-    },
-    {
-      "chainId": 250,
-      "address": "0x5c725631fd299703d0a74c23f89a55c6b9a0c52f",
-      "name": "Polter",
-      "symbol": "POLTER",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/35730/thumb/logo-200.png?1743249114"
-    },
-    {
-      "chainId": 250,
-      "address": "0xe578c856933d8e1082740bf7661e379aa2a30b26",
-      "name": "Geist USDC",
-      "symbol": "GUSDC",
-      "decimals": 6,
-      "logoURI": "https://assets.coingecko.com/coins/images/19002/thumb/preview-gallery-gUSDCgecko_%281%29.png?1696518455"
     },
     {
       "chainId": 250,
@@ -224,14 +216,6 @@
     },
     {
       "chainId": 250,
-      "address": "0x39b3bd37208cbade74d0fcbdbb12d606295b430a",
-      "name": "Geist FTM",
-      "symbol": "GFTM",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/18991/thumb/preview-gallery-gFTMgecko_%281%29.png?1696518445"
-    },
-    {
-      "chainId": 250,
       "address": "0x5f0456f728e2d59028b4f5b8ad8c604100724c6a",
       "name": "L3USD",
       "symbol": "L3USD",
@@ -264,6 +248,14 @@
     },
     {
       "chainId": 250,
+      "address": "0x74e23df9110aa9ea0b6ff2faee01e740ca1c642e",
+      "name": "TOR",
+      "symbol": "TOR",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/23609/thumb/tor.png?1696522816"
+    },
+    {
+      "chainId": 250,
       "address": "0x2f733095b80a04b38b0d10cc884524a3d09b836a",
       "name": "Wormhole Bridged USDC  Fantom ",
       "symbol": "USDC",
@@ -277,6 +269,14 @@
       "symbol": "CRVUSD",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/31181/thumb/CurveFi_32.png?1696530009"
+    },
+    {
+      "chainId": 250,
+      "address": "0x25c130b2624cf12a4ea30143ef50c5d68cefa22f",
+      "name": "Geist ETH",
+      "symbol": "GETH",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/18998/thumb/preview-gallery-gETHgecko_%281%29.png?1696518451"
     },
     {
       "chainId": 250,
@@ -864,14 +864,6 @@
     },
     {
       "chainId": 250,
-      "address": "0x1d1764f04de29da6b90ffbef372d1a45596c4855",
-      "name": "Parallel Governance",
-      "symbol": "PRL",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/16449/thumb/PRL.png?1746335634"
-    },
-    {
-      "chainId": 250,
       "address": "0x38540b4613d2e57ecf190d3486ae6f74591eb8a9",
       "name": "Alium Finance",
       "symbol": "ALM",
@@ -1360,8 +1352,8 @@
     }
   ],
   "version": {
-    "major": 55,
+    "major": 56,
     "minor": 0,
-    "patch": 1
+    "patch": 0
   }
 }

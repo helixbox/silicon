@@ -22260,7 +22260,7 @@
   },
   {
     "id": "bullshark",
-    "symbol": "bsarhk",
+    "symbol": "bshark",
     "name": "BULLSHARK",
     "platforms": {
       "sui": "0xb3a1146f8dba4f5940480764f204047d8ce0794286c8e5bdc1c111ca2a2ea8ae::bullshark::BULLSHARK"
@@ -43881,9 +43881,10 @@
   {
     "id": "everclear-bridged-ezeth",
     "symbol": "ezeth",
-    "name": "Everclear Bridged ezETH (Linea)",
+    "name": "Renzo Restaked ETH",
     "platforms": {
-      "linea": "0x2416092f143378750bb29b79ed961ab195cceea5"
+      "linea": "0x2416092f143378750bb29b79ed961ab195cceea5",
+      "unichain": "0x2416092f143378750bb29b79ed961ab195cceea5"
     }
   },
   {
@@ -73172,7 +73173,8 @@
     "symbol": "mnsry",
     "name": "Mansory Token",
     "platforms": {
-      "solana": "1xdtu7y3LkkrVCAbm5KGKfYzq1qgKhxxk5AaJBqpump"
+      "solana": "1xdtu7y3LkkrVCAbm5KGKfYzq1qgKhxxk5AaJBqpump",
+      "binance-smart-chain": "0x0fcfe33b46e5b21e5e96b722d4c85510198f9255"
     }
   },
   {
@@ -99549,6 +99551,12 @@
     }
   },
   {
+    "id": "redacted-2",
+    "symbol": "rdac",
+    "name": "Redacted",
+    "platforms": {}
+  },
+  {
     "id": "redacted-gdupi",
     "symbol": "gdupi",
     "name": "redacted gdupi",
@@ -101566,6 +101574,14 @@
     "name": "Robotic Doge",
     "platforms": {
       "binance-smart-chain": "0x6b85f1fe36af537ce5085ef441c92de09af74f0e"
+    }
+  },
+  {
+    "id": "robotics-intelligence",
+    "symbol": "ri",
+    "name": "Robotics Intelligence",
+    "platforms": {
+      "solana": "88nWFvwiLeHTh46Qtb5wTduuAi8tfukaXThJndPxpump"
     }
   },
   {
@@ -133396,6 +133412,14 @@
     "name": "Wrapped RUNI",
     "platforms": {
       "ethereum": "0xec56840be7c495cbf98c0157b458cd207ff85da1"
+    }
+  },
+  {
+    "id": "wrapped-safu",
+    "symbol": "wsafu",
+    "name": "Wrapped SAFU",
+    "platforms": {
+      "sonic": "0xe8c962493104b71f1bf22bc415e02ed3ef685c26"
     }
   },
   {
