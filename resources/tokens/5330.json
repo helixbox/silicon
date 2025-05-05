@@ -1,11 +1,19 @@
 {
   "name": "CoinGecko",
-  "logoURI": "https://static.coingecko.com/s/thumbnail-007177f3eca19695592f0b8b0eabbdae282b54154e1be912285c9034ea6cbaf2.png",
+  "logoURI": "https://static.coingecko.com/gecko-new.svg",
   "keywords": [
     "defi"
   ],
-  "timestamp": "2025-04-02T07:00:13.148+00:00",
+  "timestamp": "2025-05-05T19:00:17.213+00:00",
   "tokens": [
+    {
+      "chainId": 5330,
+      "address": "0x6ea1ffcbd7f5d210db07d9e773862b0512fa219b",
+      "name": "Superseed",
+      "symbol": "SUPR",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/55519/thumb/Small.png?1746469855"
+    },
     {
       "chainId": 5330,
       "address": "0xc316c8252b5f2176d0135ebb0999e99296998f2e",
@@ -33,7 +41,7 @@
   ],
   "version": {
     "major": 0,
-    "minor": 0,
+    "minor": 1,
     "patch": 0
   }
 }
