@@ -4,7 +4,7 @@
   "keywords": [
     "defi"
   ],
-  "timestamp": "2025-05-05T03:00:20.904+00:00",
+  "timestamp": "2025-05-05T09:00:21.341+00:00",
   "tokens": [
     {
       "chainId": 10,
@@ -16,27 +16,11 @@
     },
     {
       "chainId": 10,
-      "address": "0x9560e827af36c94d2ac33a39bce1fe78631088db",
-      "name": "Velodrome Finance",
-      "symbol": "VELO",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/25783/thumb/velo.png?1696524870"
-    },
-    {
-      "chainId": 10,
       "address": "0x7f5c764cbc14f9669b88837ca1490cca17c31607",
       "name": "Standard Bridged USDC e  Optimism ",
       "symbol": "USDCE",
       "decimals": 6,
       "logoURI": "https://assets.coingecko.com/coins/images/31580/thumb/USDC-icon.png?1696530397"
-    },
-    {
-      "chainId": 10,
-      "address": "0x4200000000000000000000000000000000000042",
-      "name": "Optimism",
-      "symbol": "OP",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/25244/thumb/Optimism.png?1696524385"
     },
     {
       "chainId": 10,
@@ -112,6 +96,22 @@
     },
     {
       "chainId": 10,
+      "address": "0x9560e827af36c94d2ac33a39bce1fe78631088db",
+      "name": "Velodrome Finance",
+      "symbol": "VELO",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/25783/thumb/velo.png?1696524870"
+    },
+    {
+      "chainId": 10,
+      "address": "0x4200000000000000000000000000000000000042",
+      "name": "Optimism",
+      "symbol": "OP",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/25244/thumb/Optimism.png?1696524385"
+    },
+    {
+      "chainId": 10,
       "address": "0x3ee6107d9c93955acbb3f39871d32b02f82b78ab",
       "name": "Staked Ethos Reserve Note",
       "symbol": "STERN",
@@ -128,11 +128,19 @@
     },
     {
       "chainId": 10,
-      "address": "0x513c7e3a9c69ca3e22550ef58ac1c0088e918fff",
-      "name": "Aave v3 OP",
-      "symbol": "AOP",
+      "address": "0x73cb180bf0521828d8849bc8cf2b920918e23032",
+      "name": "Overnight fi USD   Optimism ",
+      "symbol": "USD+",
+      "decimals": 6,
+      "logoURI": "https://assets.coingecko.com/coins/images/39629/thumb/usd_plus.png?1723181559"
+    },
+    {
+      "chainId": 10,
+      "address": "0xef4461891dfb3ac8572ccf7c794664a8dd927945",
+      "name": "WalletConnect Token",
+      "symbol": "WCT",
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/32919/thumb/op.png?1699825542"
+      "logoURI": "https://assets.coingecko.com/coins/images/50390/thumb/wc-token1.png?1727569464"
     },
     {
       "chainId": 10,
@@ -160,14 +168,6 @@
     },
     {
       "chainId": 10,
-      "address": "0xef4461891dfb3ac8572ccf7c794664a8dd927945",
-      "name": "WalletConnect Token",
-      "symbol": "WCT",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/50390/thumb/wc-token1.png?1727569464"
-    },
-    {
-      "chainId": 10,
       "address": "0x8c6f28f2f1a3c87f0f938b96d27520d9751ec8d9",
       "name": "sUSD  Optimism ",
       "symbol": "SUSD",
@@ -181,6 +181,14 @@
       "symbol": "EXAUSDCE",
       "decimals": 6,
       "logoURI": "https://assets.coingecko.com/coins/images/31175/thumb/ExaUSDC_1.png?1696530003"
+    },
+    {
+      "chainId": 10,
+      "address": "0x513c7e3a9c69ca3e22550ef58ac1c0088e918fff",
+      "name": "Aave v3 OP",
+      "symbol": "AOP",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/32919/thumb/op.png?1699825542"
     },
     {
       "chainId": 10,
@@ -428,14 +436,6 @@
       "symbol": "MASKS",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/39684/thumb/undefined_-_Imgur.png?1723657352"
-    },
-    {
-      "chainId": 10,
-      "address": "0x73cb180bf0521828d8849bc8cf2b920918e23032",
-      "name": "Overnight fi USD   Optimism ",
-      "symbol": "USD+",
-      "decimals": 6,
-      "logoURI": "https://assets.coingecko.com/coins/images/39629/thumb/usd_plus.png?1723181559"
     },
     {
       "chainId": 10,
@@ -1759,14 +1759,6 @@
     },
     {
       "chainId": 10,
-      "address": "0xfd28f108e95f4d41daae9dbfff707d677985998e",
-      "name": "Parallel Governance",
-      "symbol": "PRL",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/16449/thumb/PRL.png?1746335634"
-    },
-    {
-      "chainId": 10,
       "address": "0x1574564fcfd15bccb3fe04e9818f61131ea74066",
       "name": "Jarvis",
       "symbol": "JARVIS",
@@ -2079,8 +2071,8 @@
     }
   ],
   "version": {
-    "major": 25,
-    "minor": 1,
+    "major": 26,
+    "minor": 0,
     "patch": 0
   }
 }
