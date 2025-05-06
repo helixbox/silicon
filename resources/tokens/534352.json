@@ -4,32 +4,8 @@
   "keywords": [
     "defi"
   ],
-  "timestamp": "2025-05-01T10:00:35.760+00:00",
+  "timestamp": "2025-05-06T04:00:36.566+00:00",
   "tokens": [
-    {
-      "chainId": 534352,
-      "address": "0xd29687c813d741e2f938f4ac377128810e217b1b",
-      "name": "Scroll",
-      "symbol": "SCR",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/50571/thumb/scroll.jpg?1728376125"
-    },
-    {
-      "chainId": 534352,
-      "address": "0xf55bec9cafdbe8730f096aa55dad6d22d44099df",
-      "name": "Bridged Tether  Scroll ",
-      "symbol": "USDT",
-      "decimals": 6,
-      "logoURI": "https://assets.coingecko.com/coins/images/32610/thumb/usdt_%281%29.png?1698733524"
-    },
-    {
-      "chainId": 534352,
-      "address": "0x0fc479e2f9b7310bfb1db606cf565dea6910eedc",
-      "name": "Papyrus Swap",
-      "symbol": "PAPYRUS",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/32479/thumb/PapyrusLogo.png?1698286849"
-    },
     {
       "chainId": 534352,
       "address": "0x2147a89fb4608752807216d5070471c09a0dce32",
@@ -37,6 +13,14 @@
       "symbol": "ZP",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/36011/thumb/about_img01.png?1710324761"
+    },
+    {
+      "chainId": 534352,
+      "address": "0xd29687c813d741e2f938f4ac377128810e217b1b",
+      "name": "Scroll",
+      "symbol": "SCR",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/50571/thumb/scroll.jpg?1728376125"
     },
     {
       "chainId": 534352,
@@ -48,11 +32,11 @@
     },
     {
       "chainId": 534352,
-      "address": "0xdd6a49995ad38fe7409b5d5cb5539261bd1bc901",
-      "name": "Danjuan Scroll Cat",
-      "symbol": "CAT",
+      "address": "0x0fc479e2f9b7310bfb1db606cf565dea6910eedc",
+      "name": "Papyrus Swap",
+      "symbol": "PAPYRUS",
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/34637/thumb/200x200.jpg?1705555969"
+      "logoURI": "https://assets.coingecko.com/coins/images/32479/thumb/PapyrusLogo.png?1698286849"
     },
     {
       "chainId": 534352,
@@ -64,11 +48,27 @@
     },
     {
       "chainId": 534352,
+      "address": "0xdd6a49995ad38fe7409b5d5cb5539261bd1bc901",
+      "name": "Danjuan Scroll Cat",
+      "symbol": "CAT",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/34637/thumb/200x200.jpg?1705555969"
+    },
+    {
+      "chainId": 534352,
       "address": "0x65421ba909200b81640d98b979d07487c9781b66",
       "name": "KelpDAO Bridged rsETH  Scroll ",
       "symbol": "RSETH",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/39545/thumb/rseth.png?1722849918"
+    },
+    {
+      "chainId": 534352,
+      "address": "0xf55bec9cafdbe8730f096aa55dad6d22d44099df",
+      "name": "Bridged Tether  Scroll ",
+      "symbol": "USDT",
+      "decimals": 6,
+      "logoURI": "https://assets.coingecko.com/coins/images/32610/thumb/usdt_%281%29.png?1698733524"
     },
     {
       "chainId": 534352,
@@ -304,6 +304,14 @@
     },
     {
       "chainId": 534352,
+      "address": "0x99f775945e46da5d443246fad7bc317993ee1b1a",
+      "name": "Aryze eGold",
+      "symbol": "EGOLD",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/50815/thumb/eGOLD.png?1729238938"
+    },
+    {
+      "chainId": 534352,
       "address": "0x44d4b627997b41abd2bf2ea05b731fe535f01c3d",
       "name": "ZAI Stablecoin",
       "symbol": "ZAI",
@@ -321,7 +329,7 @@
   ],
   "version": {
     "major": 9,
-    "minor": 0,
+    "minor": 1,
     "patch": 0
   }
 }
