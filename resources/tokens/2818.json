@@ -1,11 +1,19 @@
 {
   "name": "CoinGecko",
-  "logoURI": "https://static.coingecko.com/s/thumbnail-007177f3eca19695592f0b8b0eabbdae282b54154e1be912285c9034ea6cbaf2.png",
+  "logoURI": "https://static.coingecko.com/gecko-new.svg",
   "keywords": [
     "defi"
   ],
-  "timestamp": "2025-04-01T17:00:39.504+00:00",
+  "timestamp": "2025-05-07T10:00:31.657+00:00",
   "tokens": [
+    {
+      "chainId": 2818,
+      "address": "0xe2e7d83dfbd25407045fd061e4c17cc76007dead",
+      "name": "bAI Fund",
+      "symbol": "BAI",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/55062/thumb/bai.png?1743526627"
+    },
     {
       "chainId": 2818,
       "address": "0xc7d67a9cbb121b3b0b9c053dd9f469523243379a",
@@ -24,11 +32,11 @@
     },
     {
       "chainId": 2818,
-      "address": "0xe2e7d83dfbd25407045fd061e4c17cc76007dead",
-      "name": "bAI Fund",
-      "symbol": "BAI",
+      "address": "0xe4635e9cd1f719c37523a80c0fb0b95a445a788a",
+      "name": "MuxyAI",
+      "symbol": "MAI",
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/55062/thumb/bai.png?1743526627"
+      "logoURI": "https://assets.coingecko.com/coins/images/55543/thumb/MuxyAI-Logo.png?1746610881"
     },
     {
       "chainId": 2818,
@@ -57,7 +65,7 @@
   ],
   "version": {
     "major": 0,
-    "minor": 3,
+    "minor": 4,
     "patch": 0
   }
 }
