@@ -4,8 +4,22 @@
   "keywords": [
     "defi"
   ],
-  "timestamp": "2025-05-07T00:01:10.521+00:00",
+  "timestamp": "2025-05-07T18:01:14.100+00:00",
   "tokens": [
+    {
+      "chainId": 232,
+      "address": "0x88f08e304ec4f90d644cec3fb69b8ad414acf884",
+      "name": "Lens Bridged USDC  Lens ",
+      "symbol": "USDC",
+      "decimals": 6
+    },
+    {
+      "chainId": 232,
+      "address": "0xe5ecd226b3032910ceaa43ba92ee8232f8237553",
+      "name": "Lens Bridged WETH  Lens ",
+      "symbol": "WETH",
+      "decimals": 18
+    },
     {
       "chainId": 232,
       "address": "0x6bdc36e20d267ff0dd6097799f82e78907105e2f",
@@ -17,7 +31,7 @@
   ],
   "version": {
     "major": 0,
-    "minor": 1,
+    "minor": 2,
     "patch": 0
   }
 }

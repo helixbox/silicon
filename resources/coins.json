@@ -66955,6 +66955,14 @@
     }
   },
   {
+    "id": "lagrange",
+    "symbol": "la",
+    "name": "Lagrange",
+    "platforms": {
+      "ethereum": "0x0fc2a55d5bd13033f1ee0cdd11f60f7efe66f467"
+    }
+  },
+  {
     "id": "laid",
     "symbol": "laid",
     "name": "LAID",
@@ -68294,6 +68302,22 @@
     "name": "LENS",
     "platforms": {
       "solana": "AdwCEWQGzt3vuFMEPMf97AJMiq1eYL2sR7gk2x42pump"
+    }
+  },
+  {
+    "id": "lens-bridged-usdc-lens",
+    "symbol": "usdc",
+    "name": "Lens Bridged USDC (Lens)",
+    "platforms": {
+      "lens": "0x88f08e304ec4f90d644cec3fb69b8ad414acf884"
+    }
+  },
+  {
+    "id": "lens-bridged-weth-lens",
+    "symbol": "weth",
+    "name": "Lens Bridged WETH (Lens)",
+    "platforms": {
+      "lens": "0xe5ecd226b3032910ceaa43ba92ee8232f8237553"
     }
   },
   {
@@ -102801,7 +102825,9 @@
     "id": "rwai",
     "symbol": "rwai",
     "name": "RWAI",
-    "platforms": {}
+    "platforms": {
+      "base": "0x9a574ea719b5e69df7c783d15c9514a26f3faf53"
+    }
   },
   {
     "id": "rwa-inc",
