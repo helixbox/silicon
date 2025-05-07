@@ -1,11 +1,75 @@
 {
   "name": "CoinGecko",
-  "logoURI": "https://static.coingecko.com/s/thumbnail-007177f3eca19695592f0b8b0eabbdae282b54154e1be912285c9034ea6cbaf2.png",
+  "logoURI": "https://static.coingecko.com/gecko-new.svg",
   "keywords": [
     "defi"
   ],
-  "timestamp": "2025-03-14T09:00:09.677+00:00",
+  "timestamp": "2025-05-07T16:00:09.217+00:00",
   "tokens": [
+    {
+      "chainId": 169,
+      "address": "0xaccbc418a994a27a75644d8d591afc22faba594e",
+      "name": "Manta mETH",
+      "symbol": "METH",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/38337/thumb/token_m_eth.png?1717126380"
+    },
+    {
+      "chainId": 169,
+      "address": "0xf417f5a458ec102b90352f697d6e2ac3a3d2851f",
+      "name": "Bridged Tether  Manta Pacific ",
+      "symbol": "USDT",
+      "decimals": 6,
+      "logoURI": "https://assets.coingecko.com/coins/images/32214/thumb/usdt_%281%29.png?1696831809"
+    },
+    {
+      "chainId": 169,
+      "address": "0x1468177dbcb2a772f3d182d2f1358d442b553089",
+      "name": "Manta mBTC",
+      "symbol": "MBTC",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/38338/thumb/token_m_btc.png?1717126408"
+    },
+    {
+      "chainId": 169,
+      "address": "0x649d4524897ce85a864dc2a2d5a11adb3044f44a",
+      "name": "Manta mUSD",
+      "symbol": "MUSD",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/38336/thumb/token_m_usd.png?1717126272"
+    },
+    {
+      "chainId": 169,
+      "address": "0x305e88d809c9dc03179554bfbf85ac05ce8f18d6",
+      "name": "Bridged Wrapped Bitcoin  Manta Pacific ",
+      "symbol": "WBTC",
+      "decimals": 8,
+      "logoURI": "https://assets.coingecko.com/coins/images/32217/thumb/wbtc_%281%29.png?1696832481"
+    },
+    {
+      "chainId": 169,
+      "address": "0x9582b518d28dc65945f8151c25e44a4e80504205",
+      "name": "GULL",
+      "symbol": "GULL",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/51373/thumb/gulllogo.png?1730938086"
+    },
+    {
+      "chainId": 169,
+      "address": "0x2fe3ad97a60eb7c79a976fc18bb5ffd07dd94ba5",
+      "name": "Bridged Wrapped stETH  Manta Pacific ",
+      "symbol": "WSTETH",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/32218/thumb/wstETH.png?1696832978"
+    },
+    {
+      "chainId": 169,
+      "address": "0x0dc808adce2099a9f62aa87d9670745aba741746",
+      "name": "Bridged Wrapped Ether  Manta Pacific ",
+      "symbol": "WETH",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/32212/thumb/wETH_32.png?1696817415"
+    },
     {
       "chainId": 169,
       "address": "0x95cef13441be50d20ca4558cc0a27b601ac544e5",
@@ -24,59 +88,19 @@
     },
     {
       "chainId": 169,
-      "address": "0x305e88d809c9dc03179554bfbf85ac05ce8f18d6",
-      "name": "Bridged Wrapped Bitcoin  Manta Pacific ",
-      "symbol": "WBTC",
-      "decimals": 8,
-      "logoURI": "https://assets.coingecko.com/coins/images/32217/thumb/wbtc_%281%29.png?1696832481"
-    },
-    {
-      "chainId": 169,
-      "address": "0xaccbc418a994a27a75644d8d591afc22faba594e",
-      "name": "Manta mETH",
-      "symbol": "METH",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/38337/thumb/token_m_eth.png?1717126380"
-    },
-    {
-      "chainId": 169,
-      "address": "0x0dc808adce2099a9f62aa87d9670745aba741746",
-      "name": "Bridged Wrapped Ether  Manta Pacific ",
-      "symbol": "WETH",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/32212/thumb/wETH_32.png?1696817415"
-    },
-    {
-      "chainId": 169,
-      "address": "0x9582b518d28dc65945f8151c25e44a4e80504205",
-      "name": "GULL",
-      "symbol": "GULL",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/51373/thumb/gulllogo.png?1730938086"
-    },
-    {
-      "chainId": 169,
-      "address": "0xf417f5a458ec102b90352f697d6e2ac3a3d2851f",
-      "name": "Bridged Tether  Manta Pacific ",
-      "symbol": "USDT",
-      "decimals": 6,
-      "logoURI": "https://assets.coingecko.com/coins/images/32214/thumb/usdt_%281%29.png?1696831809"
-    },
-    {
-      "chainId": 169,
-      "address": "0x2fe3ad97a60eb7c79a976fc18bb5ffd07dd94ba5",
-      "name": "Bridged Wrapped stETH  Manta Pacific ",
-      "symbol": "WSTETH",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/32218/thumb/wstETH.png?1696832978"
-    },
-    {
-      "chainId": 169,
       "address": "0xcd5d6de3fdbce1895f0dac13a065673599ed6806",
       "name": "AsMatch",
       "symbol": "ASM",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/33920/thumb/AsMatch_coin_image.jpg?1703363249"
+    },
+    {
+      "chainId": 169,
+      "address": "0x41c49790967067a71f893b51f2f311ace46fb773",
+      "name": "CirclePacific",
+      "symbol": "CIRCLE",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/34757/thumb/logo.png?1705981096"
     },
     {
       "chainId": 169,
@@ -103,22 +127,6 @@
     },
     {
       "chainId": 169,
-      "address": "0x547213367cfb08ab418e7b54d7883b2c2aa27fd7",
-      "name": "Anzen Staked USDz",
-      "symbol": "SUSDZ",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/38040/thumb/susdz-symbol-200x200.png?1716334492"
-    },
-    {
-      "chainId": 169,
-      "address": "0x41c49790967067a71f893b51f2f311ace46fb773",
-      "name": "CirclePacific",
-      "symbol": "CIRCLE",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/34757/thumb/logo.png?1705981096"
-    },
-    {
-      "chainId": 169,
       "address": "0x3af03e8c993900f0ea6b84217071e1d4cc783982",
       "name": "Ceto Swap",
       "symbol": "CETO",
@@ -127,27 +135,11 @@
     },
     {
       "chainId": 169,
-      "address": "0x1468177dbcb2a772f3d182d2f1358d442b553089",
-      "name": "Manta mBTC",
-      "symbol": "MBTC",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/38338/thumb/token_m_btc.png?1717126408"
-    },
-    {
-      "chainId": 169,
       "address": "0xe68874e57224d1e4e6d4c6b4cf5af7ca51867611",
       "name": "Ceto Swap Burned CETO",
       "symbol": "BCETO",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/38063/thumb/bCETO.png?1716581547"
-    },
-    {
-      "chainId": 169,
-      "address": "0x649d4524897ce85a864dc2a2d5a11adb3044f44a",
-      "name": "Manta mUSD",
-      "symbol": "MUSD",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/38336/thumb/token_m_usd.png?1717126272"
     },
     {
       "chainId": 169,
@@ -191,14 +183,6 @@
     },
     {
       "chainId": 169,
-      "address": "0x8f08a3b5bceadef10c0b26c8bb720ebb8fa91758",
-      "name": "Anzen Staked USDz",
-      "symbol": "SUSDZ",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/38040/thumb/susdz-symbol-200x200.png?1716334492"
-    },
-    {
-      "chainId": 169,
       "address": "0x91647632245cabf3d66121f86c387ae0ad295f9a",
       "name": "iZUMi Finance",
       "symbol": "IZI",
@@ -228,14 +212,6 @@
       "symbol": "ISP",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/15283/thumb/isolink.PNG?1696514934"
-    },
-    {
-      "chainId": 169,
-      "address": "0x35a57efb9b4ae833e9a200bb191ff69420cafa1d",
-      "name": "ZeroLend",
-      "symbol": "ZERO",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/37375/thumb/image.png?1714884543"
     },
     {
       "chainId": 169,
@@ -279,6 +255,22 @@
     },
     {
       "chainId": 169,
+      "address": "0x35a57efb9b4ae833e9a200bb191ff69420cafa1d",
+      "name": "ZeroLend",
+      "symbol": "ZERO",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/37375/thumb/image.png?1714884543"
+    },
+    {
+      "chainId": 169,
+      "address": "0x8f08a3b5bceadef10c0b26c8bb720ebb8fa91758",
+      "name": "Anzen Staked USDz",
+      "symbol": "SUSDZ",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/38040/thumb/susdz-symbol-200x200.png?1716334492"
+    },
+    {
+      "chainId": 169,
       "address": "0x078f712f038a95beea94f036cadb49188a90604b",
       "name": "iZUMi Bond USD",
       "symbol": "IUSD",
@@ -295,8 +287,8 @@
     }
   ],
   "version": {
-    "major": 5,
-    "minor": 1,
+    "major": 6,
+    "minor": 0,
     "patch": 0
   }
 }

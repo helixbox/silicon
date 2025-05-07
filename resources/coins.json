@@ -7068,7 +7068,9 @@
     "symbol": "susdz",
     "name": "Anzen Staked USDz",
     "platforms": {
+      "ethereum": "0x547213367cfb08ab418e7b54d7883b2c2aa27fd7",
       "manta-pacific": "0x8f08a3b5bceadef10c0b26c8bb720ebb8fa91758",
+      "arbitrum-one": "0x1b2c29e3897b8f9170c98440a483e90e715c879d",
       "blast": "0x73d23f3778a90be8846e172354a115543df2a7e4",
       "base": "0xe31ee12bdfdd0573d634124611e85338e2cbf0cf"
     }
@@ -13456,6 +13458,7 @@
     "symbol": "bskt",
     "name": "Basket",
     "platforms": {
+      "solana": "6gnCPhXtLnUD76HjQuSYPENLSZdG8RvDB1pTLM5aLSJA",
       "injective": "inj193340xxv49hkug7r65xzc0l40tze44pee4fj94",
       "acala": "0xdd10e83916878aa18e26e0ad6d3432f0df7d310e",
       "algorand": "1595607242",
@@ -19838,6 +19841,14 @@
     "name": "Boss",
     "platforms": {
       "binance-smart-chain": "0x49324d59327fb799813b902db55b2a118d601547"
+    }
+  },
+  {
+    "id": "boss-fighters-token",
+    "symbol": "bftoken",
+    "name": "BOSS FIGHTERS Token",
+    "platforms": {
+      "ethereum": "0x9b784f7fd6c888463666eb2c05aa6e61628e06b2"
     }
   },
   {
@@ -79620,6 +79631,7 @@
     "symbol": "moon",
     "name": "Moonflow",
     "platforms": {
+      "polygon-pos": "0x7aefff599570dec2f3dbbc2ace3cb1f8206749eb",
       "cronos-zkevm": "0xc80b437c4c0f9c74cfb2e2d063a58ffb4f82d4f0",
       "cronos": "0x46e2b5423f6ff46a8a35861ec9daff26af77ab9a"
     }
@@ -113082,11 +113094,12 @@
     "platforms": {
       "ethereum": "0x7122985656e38bdc0302db86685bb972b145bd3c",
       "scroll": "0x80137510979822322193fc997d400d5a6c747bf7",
+      "berachain": "0xec901da9c68e90798bbbb74c11406a32a70652c3",
       "manta-pacific": "0xec901da9c68e90798bbbb74c11406a32a70652c3",
       "astar-zkevm": "0x80137510979822322193fc997d400d5a6c747bf7",
       "linea": "0x93f4d0ab6a8b4271f4a28db399b5e30612d21116",
       "zircuit": "0x80137510979822322193fc997d400d5a6c747bf7",
-      "x-layer": "0x80137510979822322193fc997d400d5a6c747bf7`",
+      "x-layer": "0x80137510979822322193fc997d400d5a6c747bf7",
       "aptos": "0x543c5660aa4d496687e2068c11765f04607c4f4b639a83233a9333604fb8ce59",
       "sei-v2": "0x80137510979822322193fc997d400d5a6c747bf7",
       "mantle": "0x2fde62942759d7c0aaf25952da4098423bc1264c",
@@ -138602,9 +138615,10 @@
     "symbol": "zuneth",
     "name": "Zunami ETH",
     "platforms": {
-      "base": "0x24cb2b89844604c57350776d81e14765d03b91de",
+      "ethereum": "0xc2e660c62f72c2ad35ace6db78a616215e2f2222",
       "optimistic-ethereum": "0x2d691c2492e056adcae7ca317569af25910fc4cb",
-      "arbitrum-one": "0x06d65ec13465ac5a4376dc101e1141252c4addf8"
+      "arbitrum-one": "0x06d65ec13465ac5a4376dc101e1141252c4addf8",
+      "base": "0x24cb2b89844604c57350776d81e14765d03b91de"
     }
   },
   {
