@@ -4,21 +4,23 @@
   "keywords": [
     "defi"
   ],
-  "timestamp": "2025-05-07T18:01:14.100+00:00",
+  "timestamp": "2025-05-08T17:01:11.870+00:00",
   "tokens": [
-    {
-      "chainId": 232,
-      "address": "0x88f08e304ec4f90d644cec3fb69b8ad414acf884",
-      "name": "Lens Bridged USDC  Lens ",
-      "symbol": "USDC",
-      "decimals": 6
-    },
     {
       "chainId": 232,
       "address": "0xe5ecd226b3032910ceaa43ba92ee8232f8237553",
       "name": "Lens Bridged WETH  Lens ",
       "symbol": "WETH",
-      "decimals": 18
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/55548/thumb/eth1.png?1746723194"
+    },
+    {
+      "chainId": 232,
+      "address": "0x88f08e304ec4f90d644cec3fb69b8ad414acf884",
+      "name": "Lens Bridged USDC  Lens ",
+      "symbol": "USDC",
+      "decimals": 6,
+      "logoURI": "https://assets.coingecko.com/coins/images/55549/thumb/usdc1.png?1746723205"
     },
     {
       "chainId": 232,
@@ -32,6 +34,6 @@
   "version": {
     "major": 0,
     "minor": 2,
-    "patch": 0
+    "patch": 1
   }
 }
