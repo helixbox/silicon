@@ -4,7 +4,7 @@
   "keywords": [
     "defi"
   ],
-  "timestamp": "2025-05-08T04:00:19.763+00:00",
+  "timestamp": "2025-05-08T10:00:21.160+00:00",
   "tokens": [
     {
       "chainId": 10,
@@ -16,27 +16,27 @@
     },
     {
       "chainId": 10,
+      "address": "0x8c6f28f2f1a3c87f0f938b96d27520d9751ec8d9",
+      "name": "sUSD  Optimism ",
+      "symbol": "SUSD",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/37867/thumb/sus.png?1715815715"
+    },
+    {
+      "chainId": 10,
+      "address": "0x4200000000000000000000000000000000000042",
+      "name": "Optimism",
+      "symbol": "OP",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/25244/thumb/Optimism.png?1696524385"
+    },
+    {
+      "chainId": 10,
       "address": "0xe3b3a464ee575e8e25d2508918383b89c832f275",
       "name": "PoolTogether Prize USD Coin",
       "symbol": "PUSDCE",
       "decimals": 6,
       "logoURI": "https://assets.coingecko.com/coins/images/32455/thumb/prizeUSDCIcon_200.png?1698241065"
-    },
-    {
-      "chainId": 10,
-      "address": "0xe64b4eb5eec6343887c4683da31f0ca62ea39ce3",
-      "name": "Aktionariat BEE Digital Growth AG Token",
-      "symbol": "BEES",
-      "decimals": 0,
-      "logoURI": "https://assets.coingecko.com/coins/images/33367/thumb/BEES.png?1701613820"
-    },
-    {
-      "chainId": 10,
-      "address": "0x68f180fcce6836688e9084f035309e29bf0a2095",
-      "name": "Optimism Bridged WBTC  Optimism ",
-      "symbol": "WBTC",
-      "decimals": 8,
-      "logoURI": "https://assets.coingecko.com/coins/images/39553/thumb/wbtc.png?1722897341"
     },
     {
       "chainId": 10,
@@ -48,11 +48,19 @@
     },
     {
       "chainId": 10,
-      "address": "0xc02b55bb2fe3643e1955b13515396ce23b110f80",
-      "name": "Aktionariat Axelra Early Stage AG Token",
-      "symbol": "AXRAS",
+      "address": "0xe64b4eb5eec6343887c4683da31f0ca62ea39ce3",
+      "name": "Aktionariat BEE Digital Growth AG Token",
+      "symbol": "BEES",
       "decimals": 0,
-      "logoURI": "https://assets.coingecko.com/coins/images/33333/thumb/AXRAS.png?1701519079"
+      "logoURI": "https://assets.coingecko.com/coins/images/33367/thumb/BEES.png?1701613820"
+    },
+    {
+      "chainId": 10,
+      "address": "0xb9243c495117343981ec9f8aa2abffee54396fc0",
+      "name": "Perpetual Delta Neutral Yield  Optimism",
+      "symbol": "USDPY",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/40153/thumb/usdpy.png?1726073418"
     },
     {
       "chainId": 10,
@@ -64,19 +72,19 @@
     },
     {
       "chainId": 10,
+      "address": "0xc02b55bb2fe3643e1955b13515396ce23b110f80",
+      "name": "Aktionariat Axelra Early Stage AG Token",
+      "symbol": "AXRAS",
+      "decimals": 0,
+      "logoURI": "https://assets.coingecko.com/coins/images/33333/thumb/AXRAS.png?1701519079"
+    },
+    {
+      "chainId": 10,
       "address": "0x7f5c764cbc14f9669b88837ca1490cca17c31607",
       "name": "Standard Bridged USDC e  Optimism ",
       "symbol": "USDCE",
       "decimals": 6,
       "logoURI": "https://assets.coingecko.com/coins/images/31580/thumb/USDC-icon.png?1696530397"
-    },
-    {
-      "chainId": 10,
-      "address": "0x8c6f28f2f1a3c87f0f938b96d27520d9751ec8d9",
-      "name": "sUSD  Optimism ",
-      "symbol": "SUSD",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/37867/thumb/sus.png?1715815715"
     },
     {
       "chainId": 10,
@@ -93,6 +101,14 @@
       "symbol": "OPENX",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/27663/thumb/openx_BASE.png?1710472693"
+    },
+    {
+      "chainId": 10,
+      "address": "0x68f180fcce6836688e9084f035309e29bf0a2095",
+      "name": "Optimism Bridged WBTC  Optimism ",
+      "symbol": "WBTC",
+      "decimals": 8,
+      "logoURI": "https://assets.coingecko.com/coins/images/39553/thumb/wbtc.png?1722897341"
     },
     {
       "chainId": 10,
@@ -128,14 +144,6 @@
     },
     {
       "chainId": 10,
-      "address": "0xef4461891dfb3ac8572ccf7c794664a8dd927945",
-      "name": "WalletConnect Token",
-      "symbol": "WCT",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/50390/thumb/wc-token1.png?1727569464"
-    },
-    {
-      "chainId": 10,
       "address": "0x73cb180bf0521828d8849bc8cf2b920918e23032",
       "name": "Overnight fi USD   Optimism ",
       "symbol": "USD+",
@@ -149,22 +157,6 @@
       "symbol": "BNRY",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/37521/thumb/Vector-1.png?1714634222"
-    },
-    {
-      "chainId": 10,
-      "address": "0xb9243c495117343981ec9f8aa2abffee54396fc0",
-      "name": "Perpetual Delta Neutral Yield  Optimism",
-      "symbol": "USDPY",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/40153/thumb/usdpy.png?1726073418"
-    },
-    {
-      "chainId": 10,
-      "address": "0x3ee6107d9c93955acbb3f39871d32b02f82b78ab",
-      "name": "Staked Ethos Reserve Note",
-      "symbol": "STERN",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/31522/thumb/stERN.png?1696530332"
     },
     {
       "chainId": 10,
@@ -184,11 +176,19 @@
     },
     {
       "chainId": 10,
-      "address": "0x4200000000000000000000000000000000000042",
-      "name": "Optimism",
-      "symbol": "OP",
+      "address": "0x3ee6107d9c93955acbb3f39871d32b02f82b78ab",
+      "name": "Staked Ethos Reserve Note",
+      "symbol": "STERN",
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/25244/thumb/Optimism.png?1696524385"
+      "logoURI": "https://assets.coingecko.com/coins/images/31522/thumb/stERN.png?1696530332"
+    },
+    {
+      "chainId": 10,
+      "address": "0xef4461891dfb3ac8572ccf7c794664a8dd927945",
+      "name": "WalletConnect Token",
+      "symbol": "WCT",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/50390/thumb/wc-token1.png?1727569464"
     },
     {
       "chainId": 10,
@@ -200,19 +200,19 @@
     },
     {
       "chainId": 10,
-      "address": "0x513c7e3a9c69ca3e22550ef58ac1c0088e918fff",
-      "name": "Aave v3 OP",
-      "symbol": "AOP",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/32919/thumb/op.png?1699825542"
-    },
-    {
-      "chainId": 10,
       "address": "0x17aabf6838a6303fc6e9c5a227dc1eb6d95c829a",
       "name": "Magicaltux",
       "symbol": "TUX",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/33909/thumb/1703316796-picsay.png?1703453966"
+    },
+    {
+      "chainId": 10,
+      "address": "0x513c7e3a9c69ca3e22550ef58ac1c0088e918fff",
+      "name": "Aave v3 OP",
+      "symbol": "AOP",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/32919/thumb/op.png?1699825542"
     },
     {
       "chainId": 10,
@@ -404,14 +404,6 @@
       "symbol": "2192",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/36240/thumb/lernitas.jpg?1710920218"
-    },
-    {
-      "chainId": 10,
-      "address": "0x48a9f8b4b65a55cc46ea557a610acf227454ab09",
-      "name": "OP Chads",
-      "symbol": "OPC",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/36580/thumb/smol.png?1711944400"
     },
     {
       "chainId": 10,
@@ -2079,8 +2071,8 @@
     }
   ],
   "version": {
-    "major": 26,
-    "minor": 1,
-    "patch": 1
+    "major": 27,
+    "minor": 0,
+    "patch": 0
   }
 }

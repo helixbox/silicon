@@ -4,8 +4,24 @@
   "keywords": [
     "defi"
   ],
-  "timestamp": "2025-05-07T11:00:04.452+00:00",
+  "timestamp": "2025-05-08T12:00:27.186+00:00",
   "tokens": [
+    {
+      "chainId": 98866,
+      "address": "0xa5f78b2a0ab85429d2dfbf8b60abc70f4cec066c",
+      "name": "Nest Credit Vault",
+      "symbol": "NCREDIT",
+      "decimals": 6,
+      "logoURI": "https://assets.coingecko.com/coins/images/55516/thumb/nCREDIT-token.png?1746438983"
+    },
+    {
+      "chainId": 98866,
+      "address": "0x11113ff3a60c2450f4b22515cb760417259ee94b",
+      "name": "Nest Basis Vault",
+      "symbol": "NBASIS",
+      "decimals": 6,
+      "logoURI": "https://assets.coingecko.com/coins/images/55514/thumb/nBASIS-token.png?1746438043"
+    },
     {
       "chainId": 98866,
       "address": "0xd3bfd6e6187444170a1674c494e55171587b5641",
@@ -13,14 +29,6 @@
       "symbol": "INELIXIR",
       "decimals": 6,
       "logoURI": "https://assets.coingecko.com/coins/images/55512/thumb/nELIXIR-token.png?1746437623"
-    },
-    {
-      "chainId": 98866,
-      "address": "0x593ccca4c4bf58b7526a4c164ceef4003c6388db",
-      "name": "Nest Alpha Vault",
-      "symbol": "NALPHA",
-      "decimals": 6,
-      "logoURI": "https://assets.coingecko.com/coins/images/55541/thumb/nALPHA-token.png?1746610637"
     },
     {
       "chainId": 98866,
@@ -40,30 +48,6 @@
     },
     {
       "chainId": 98866,
-      "address": "0xa5f78b2a0ab85429d2dfbf8b60abc70f4cec066c",
-      "name": "Nest Credit Vault",
-      "symbol": "NCREDIT",
-      "decimals": 6,
-      "logoURI": "https://assets.coingecko.com/coins/images/55516/thumb/nCREDIT-token.png?1746438983"
-    },
-    {
-      "chainId": 98866,
-      "address": "0xe72fe64840f4ef80e3ec73a1c749491b5c938cb9",
-      "name": "Nest Treasury Vault",
-      "symbol": "NTBILL",
-      "decimals": 6,
-      "logoURI": "https://assets.coingecko.com/coins/images/55513/thumb/nTBILL-token.png?1746437745"
-    },
-    {
-      "chainId": 98866,
-      "address": "0x11113ff3a60c2450f4b22515cb760417259ee94b",
-      "name": "Nest Basis Vault",
-      "symbol": "NBASIS",
-      "decimals": 6,
-      "logoURI": "https://assets.coingecko.com/coins/images/55514/thumb/nBASIS-token.png?1746438043"
-    },
-    {
-      "chainId": 98866,
       "address": "0xb52b090837a035f93a84487e5a7d3719c32aa8a9",
       "name": "Nest PayFi Vault",
       "symbol": "NPAYFI",
@@ -72,11 +56,35 @@
     },
     {
       "chainId": 98866,
+      "address": "0x9fbc367b9bb966a2a537989817a088afcaffdc4c",
+      "name": "Nest Elixir Vault",
+      "symbol": "NELIXIR",
+      "decimals": 6,
+      "logoURI": "https://assets.coingecko.com/coins/images/55469/thumb/nELIXIR-token.png?1746604311"
+    },
+    {
+      "chainId": 98866,
       "address": "0x2de8a403f7a5c6c5161d4a129918ec9f0b653918",
       "name": "Wrapped Super OETH",
       "symbol": "WSUPEROETH",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/39829/thumb/Wrapped_Super_OETH.png?1724208632"
+    },
+    {
+      "chainId": 98866,
+      "address": "0x593ccca4c4bf58b7526a4c164ceef4003c6388db",
+      "name": "Nest Alpha Vault",
+      "symbol": "NALPHA",
+      "decimals": 6,
+      "logoURI": "https://assets.coingecko.com/coins/images/55541/thumb/nALPHA-token.png?1746610637"
+    },
+    {
+      "chainId": 98866,
+      "address": "0xe72fe64840f4ef80e3ec73a1c749491b5c938cb9",
+      "name": "Nest Treasury Vault",
+      "symbol": "NTBILL",
+      "decimals": 6,
+      "logoURI": "https://assets.coingecko.com/coins/images/55513/thumb/nTBILL-token.png?1746437745"
     },
     {
       "chainId": 98866,
@@ -89,7 +97,7 @@
   ],
   "version": {
     "major": 0,
-    "minor": 2,
+    "minor": 3,
     "patch": 0
   }
 }
