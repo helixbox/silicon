@@ -4,7 +4,7 @@
   "keywords": [
     "defi"
   ],
-  "timestamp": "2025-05-07T19:02:17.214+00:00",
+  "timestamp": "2025-05-08T03:02:15.985+00:00",
   "tokens": [
     {
       "chainId": 1,
@@ -7410,7 +7410,7 @@
       "name": "crvUSD",
       "symbol": "CRVUSD",
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/30118/thumb/0xf939e0a03fb07f59a73314e73794be0e57ac1b4e.png?1721097561"
+      "logoURI": "https://assets.coingecko.com/coins/images/30118/thumb/crvusd.jpg?1746670973"
     },
     {
       "chainId": 1,
@@ -25393,19 +25393,19 @@
     },
     {
       "chainId": 1,
-      "address": "0x0655977feb2f289a4ab78af67bab0d17aab84367",
-      "name": "Savings crvUSD",
-      "symbol": "SCRVUSD",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/51712/thumb/scrvUSD200x200.png?1731899723"
-    },
-    {
-      "chainId": 1,
       "address": "0x39b46b212bdf15b42b166779b9d1787a68b9d0c3",
       "name": "Dypius",
       "symbol": "DYP",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/33016/thumb/RS-zDhFE_400x400.jpg?1700157370"
+    },
+    {
+      "chainId": 1,
+      "address": "0x0655977feb2f289a4ab78af67bab0d17aab84367",
+      "name": "Savings crvUSD",
+      "symbol": "SCRVUSD",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/51712/thumb/scrvusd.jpg?1746671018"
     },
     {
       "chainId": 1,
@@ -37305,14 +37305,6 @@
     },
     {
       "chainId": 1,
-      "address": "0xe72fe64840f4ef80e3ec73a1c749491b5c938cb9",
-      "name": "Nest Treasury Vault",
-      "symbol": "NTBILL",
-      "decimals": 6,
-      "logoURI": "https://assets.coingecko.com/coins/images/55513/thumb/nTBILL-token.png?1746437745"
-    },
-    {
-      "chainId": 1,
       "address": "0x05fed61f7a3eca96dc7f9a41b38fa7c5f0e62158",
       "name": "Dinari KO",
       "symbol": "KOD",
@@ -37801,14 +37793,6 @@
     },
     {
       "chainId": 1,
-      "address": "0x593ccca4c4bf58b7526a4c164ceef4003c6388db",
-      "name": "Nest Alpha Vault",
-      "symbol": "NALPHA",
-      "decimals": 6,
-      "logoURI": "https://assets.coingecko.com/coins/images/55541/thumb/nALPHA-token.png?1746610637"
-    },
-    {
-      "chainId": 1,
       "address": "0x9e91f79070926a191e41367d40ad582686f9e66d",
       "name": "STYLE Token",
       "symbol": "STYLE",
@@ -37998,6 +37982,22 @@
       "symbol": "JART",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/29412/thumb/JournArt%28200%29.png?1696528361"
+    },
+    {
+      "chainId": 1,
+      "address": "0x593ccca4c4bf58b7526a4c164ceef4003c6388db",
+      "name": "Nest Alpha Vault",
+      "symbol": "NALPHA",
+      "decimals": 6,
+      "logoURI": "https://assets.coingecko.com/coins/images/55541/thumb/nALPHA-token.png?1746610637"
+    },
+    {
+      "chainId": 1,
+      "address": "0xe72fe64840f4ef80e3ec73a1c749491b5c938cb9",
+      "name": "Nest Treasury Vault",
+      "symbol": "NTBILL",
+      "decimals": 6,
+      "logoURI": "https://assets.coingecko.com/coins/images/55513/thumb/nTBILL-token.png?1746437745"
     },
     {
       "chainId": 1,
@@ -41330,6 +41330,6 @@
   "version": {
     "major": 907,
     "minor": 3,
-    "patch": 0
+    "patch": 1
   }
 }
