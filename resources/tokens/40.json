@@ -1,19 +1,11 @@
 {
   "name": "CoinGecko",
-  "logoURI": "https://static.coingecko.com/s/thumbnail-007177f3eca19695592f0b8b0eabbdae282b54154e1be912285c9034ea6cbaf2.png",
+  "logoURI": "https://static.coingecko.com/gecko-new.svg",
   "keywords": [
     "defi"
   ],
-  "timestamp": "2025-03-10T09:00:02.581+00:00",
+  "timestamp": "2025-05-08T22:00:02.455+00:00",
   "tokens": [
-    {
-      "chainId": 40,
-      "address": "0x7c598c96d02398d89fbcb9d41eab3df0c16f227d",
-      "name": "Multichain Bridged WAVAX  Telos ",
-      "symbol": "WAVAX",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/53095/thumb/multichain-bridged-wavax-telos.png?1735221405"
-    },
     {
       "chainId": 40,
       "address": "0x2c78f1b70ccf63cdee49f9233e9faa99d43aa07e",
@@ -21,6 +13,22 @@
       "symbol": "WBNB",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/53122/thumb/wbnb.png?1735250267"
+    },
+    {
+      "chainId": 40,
+      "address": "0xd102ce6a4db07d247fcc28f366a623df0938ca9e",
+      "name": "Wrapped Telos",
+      "symbol": "WTLOS",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/23952/thumb/tlos_png.png?1722391320"
+    },
+    {
+      "chainId": 40,
+      "address": "0x7c598c96d02398d89fbcb9d41eab3df0c16f227d",
+      "name": "Multichain Bridged WAVAX  Telos ",
+      "symbol": "WAVAX",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/53095/thumb/multichain-bridged-wavax-telos.png?1735221405"
     },
     {
       "chainId": 40,
@@ -40,27 +48,11 @@
     },
     {
       "chainId": 40,
-      "address": "0xd102ce6a4db07d247fcc28f366a623df0938ca9e",
-      "name": "Wrapped Telos",
-      "symbol": "WTLOS",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/23952/thumb/tlos_png.png?1722391320"
-    },
-    {
-      "chainId": 40,
       "address": "0x568524da340579887db50ecf602cd1ba8451b243",
       "name": "Meridian MST",
       "symbol": "MST",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/34343/thumb/Meridian_Icon.png?1720634198"
-    },
-    {
-      "chainId": 40,
-      "address": "0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee",
-      "name": "Wrapped Telos",
-      "symbol": "WTLOS",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/23952/thumb/tlos_png.png?1722391320"
     },
     {
       "chainId": 40,
@@ -104,7 +96,7 @@
     }
   ],
   "version": {
-    "major": 9,
+    "major": 10,
     "minor": 0,
     "patch": 0
   }
