@@ -1,10 +1,10 @@
 {
   "name": "CoinGecko",
-  "logoURI": "https://static.coingecko.com/s/thumbnail-007177f3eca19695592f0b8b0eabbdae282b54154e1be912285c9034ea6cbaf2.png",
+  "logoURI": "https://static.coingecko.com/gecko-new.svg",
   "keywords": [
     "defi"
   ],
-  "timestamp": "2025-03-12T06:00:23.675+00:00",
+  "timestamp": "2025-05-08T10:00:24.523+00:00",
   "tokens": [
     {
       "chainId": 39797,
@@ -24,27 +24,11 @@
     },
     {
       "chainId": 39797,
-      "address": "0xc3c19ee91cf3c1f7fbf3716a09d21dc35de0bd6d",
-      "name": "Multichain Bridged WBNB  Energi ",
-      "symbol": "WBNB",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/53080/thumb/wrapped_bnb.png?1735265046"
-    },
-    {
-      "chainId": 39797,
       "address": "0xffd7510ca0a3279c7a5f50018a26c21d5bc1dbcf",
       "name": "Energi Bridged USDC  Energi ",
       "symbol": "USDC",
       "decimals": 6,
       "logoURI": "https://assets.coingecko.com/coins/images/35323/thumb/USDC.jpg?1708178353"
-    },
-    {
-      "chainId": 39797,
-      "address": "0x881145b61c604d4d27b8969b917bc4844cc8a9dc",
-      "name": "Energiswap SOL  Energi ",
-      "symbol": "ESOL",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/50310/thumb/sol.png?1727071737"
     },
     {
       "chainId": 39797,
@@ -61,6 +45,22 @@
       "symbol": "WETH",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/39692/thumb/weth.png?1723670286"
+    },
+    {
+      "chainId": 39797,
+      "address": "0x881145b61c604d4d27b8969b917bc4844cc8a9dc",
+      "name": "Energiswap SOL  Energi ",
+      "symbol": "ESOL",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/50310/thumb/sol.png?1727071737"
+    },
+    {
+      "chainId": 39797,
+      "address": "0xc3c19ee91cf3c1f7fbf3716a09d21dc35de0bd6d",
+      "name": "Multichain Bridged WBNB  Energi ",
+      "symbol": "WBNB",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/53080/thumb/wrapped_bnb.png?1735265046"
     },
     {
       "chainId": 39797,
@@ -125,14 +125,6 @@
       "symbol": "ILV",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/14468/thumb/logo-200x200.png?1696514154"
-    },
-    {
-      "chainId": 39797,
-      "address": "0x2a7ed4a3e15f036d86a28271bee580d8682a1eea",
-      "name": "Wrapped Syscoin",
-      "symbol": "WSYS",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/23916/thumb/xDiIFaKO_400x400.jpg?1696523115"
     },
     {
       "chainId": 39797,
@@ -944,8 +936,8 @@
     }
   ],
   "version": {
-    "major": 6,
+    "major": 7,
     "minor": 0,
-    "patch": 2
+    "patch": 0
   }
 }
