@@ -4,7 +4,7 @@
   "keywords": [
     "defi"
   ],
-  "timestamp": "2025-05-09T05:00:15.219+00:00",
+  "timestamp": "2025-05-09T10:00:15.674+00:00",
   "tokens": [
     {
       "chainId": 59144,
@@ -37,6 +37,14 @@
       "symbol": "WBNB",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/53084/thumb/wrapped_bnb.png?1735264592"
+    },
+    {
+      "chainId": 59144,
+      "address": "0x1a51b19ce03dbe0cb44c1528e34a7edd7771e9af",
+      "name": "Lynex",
+      "symbol": "LYNX",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/34874/thumb/LogoCircular_200x200.png?1706462851"
     },
     {
       "chainId": 59144,
@@ -160,6 +168,14 @@
     },
     {
       "chainId": 59144,
+      "address": "0x5fbdf89403270a1846f5ae7d113a989f850d1566",
+      "name": "Foxy",
+      "symbol": "FOXY",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/36870/thumb/Foxy_Logo_Square_200x200.png?1712645286"
+    },
+    {
+      "chainId": 59144,
       "address": "0x1e1f509963a6d33e169d9497b11c7dbfe73b7f13",
       "name": "Overnight fi USDT ",
       "symbol": "USDT+",
@@ -181,22 +197,6 @@
       "symbol": "WSTETH",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/53016/thumb/steth.png?1734994259"
-    },
-    {
-      "chainId": 59144,
-      "address": "0x5fbdf89403270a1846f5ae7d113a989f850d1566",
-      "name": "Foxy",
-      "symbol": "FOXY",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/36870/thumb/Foxy_Logo_Square_200x200.png?1712645286"
-    },
-    {
-      "chainId": 59144,
-      "address": "0x1a51b19ce03dbe0cb44c1528e34a7edd7771e9af",
-      "name": "Lynex",
-      "symbol": "LYNX",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/34874/thumb/LogoCircular_200x200.png?1706462851"
     },
     {
       "chainId": 59144,
@@ -353,7 +353,7 @@
     {
       "chainId": 59144,
       "address": "0xcc0966d8418d412c599a6421b760a847eb169a8c",
-      "name": "Solv Protocol xSolvBTC",
+      "name": "Solv Protocol Staked BTC",
       "symbol": "XSOLVBTC",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/39384/thumb/xSolvBTC.png?1744170824"
@@ -642,6 +642,6 @@
   "version": {
     "major": 16,
     "minor": 1,
-    "patch": 0
+    "patch": 1
   }
 }

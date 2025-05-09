@@ -4,8 +4,16 @@
   "keywords": [
     "defi"
   ],
-  "timestamp": "2025-04-09T04:00:05.676+00:00",
+  "timestamp": "2025-05-09T09:00:05.977+00:00",
   "tokens": [
+    {
+      "chainId": 21000000,
+      "address": "0xda5ddd7270381a7c2717ad10d1c0ecb19e3cdfb2",
+      "name": "Wrapped Bitcorn",
+      "symbol": "WBTCN",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/54569/thumb/wbtcn.jpg?1740453965"
+    },
     {
       "chainId": 21000000,
       "address": "0xdf0b24095e15044538866576754f3c964e902ee6",
@@ -24,14 +32,6 @@
     },
     {
       "chainId": 21000000,
-      "address": "0xda5ddd7270381a7c2717ad10d1c0ecb19e3cdfb2",
-      "name": "Wrapped Bitcorn",
-      "symbol": "WBTCN",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/54569/thumb/wbtcn.jpg?1740453965"
-    },
-    {
-      "chainId": 21000000,
       "address": "0xecac9c5f704e954931349da37f60e39f515c11c1",
       "name": "Lombard Staked BTC",
       "symbol": "LBTC",
@@ -41,7 +41,7 @@
     {
       "chainId": 21000000,
       "address": "0x541fd749419ca806a8bc7da8ac23d346f2df8b77",
-      "name": "Solv Protocol SolvBTC",
+      "name": "Solv Protocol BTC",
       "symbol": "SOLVBTC",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/36800/thumb/solvBTC.png?1719810684"
@@ -49,7 +49,7 @@
     {
       "chainId": 21000000,
       "address": "0xcc0966d8418d412c599a6421b760a847eb169a8c",
-      "name": "Solv Protocol xSolvBTC",
+      "name": "Solv Protocol Staked BTC",
       "symbol": "XSOLVBTC",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/39384/thumb/xSolvBTC.png?1744170824"
@@ -74,6 +74,6 @@
   "version": {
     "major": 0,
     "minor": 3,
-    "patch": 1
+    "patch": 2
   }
 }

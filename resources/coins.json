@@ -33655,6 +33655,7 @@
     "symbol": "deepr",
     "name": "DEEPR",
     "platforms": {
+      "shimmer_evm": "0x326f23422ce22ee5fbb5f37f9fa1092d095546f8",
       "iota-evm": "0x4eb8e03461360c2acbb4b5963a18b8f9faee8221"
     }
   },
@@ -74672,6 +74673,14 @@
     "name": "Meblox Protocol",
     "platforms": {
       "binance-smart-chain": "0x7268b479eb7ce8d1b37ef1ffc3b82d7383a1162d"
+    }
+  },
+  {
+    "id": "mecca",
+    "symbol": "mea",
+    "name": "MECCA",
+    "platforms": {
+      "solana": "mecySk7eSawDNfAXvW3CquhLyxyKaXExFXgUUbEZE1T"
     }
   },
   {
@@ -117880,6 +117889,14 @@
     "platforms": {}
   },
   {
+    "id": "tdccp",
+    "symbol": "tdccp",
+    "name": "TDCCP",
+    "platforms": {
+      "solana": "Hg8bKz4mvs8KNj9zew1cEF9tDw1x2GViB4RFZjVEmfrD"
+    }
+  },
+  {
     "id": "tdoge",
     "symbol": "tdoge",
     "name": "τDoge",
@@ -128493,13 +128510,13 @@
     "symbol": "wagmi",
     "name": "Wagmi",
     "platforms": {
+      "ethereum": "0x92cc36d66e9d739d50673d1f27929a371fb83a67",
       "metis-andromeda": "0xaf20f5f19698f1d19351028cd7103b63d30de7d7",
       "optimistic-ethereum": "0xaf20f5f19698f1d19351028cd7103b63d30de7d7",
       "zksync": "0x3613ad277df1d5935d41400a181aa9ec1dc2dc9e",
       "iota-evm": "0xaf20f5f19698f1d19351028cd7103b63d30de7d7",
       "sonic": "0x0e0ce4d450c705f8a0b6dd9d5123e3df2787d16b",
       "kava": "0xaf20f5f19698f1d19351028cd7103b63d30de7d7",
-      "ethereum": "0x92cc36d66e9d739d50673d1f27929a371fb83a67",
       "binance-smart-chain": "0xaf20f5f19698f1d19351028cd7103b63d30de7d7",
       "fantom": "0xb1f795776cb9ddac6e7e162f31c7419dd3d48297",
       "avalanche": "0xaf20f5f19698f1d19351028cd7103b63d30de7d7",
