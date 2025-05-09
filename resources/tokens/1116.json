@@ -4,15 +4,15 @@
   "keywords": [
     "defi"
   ],
-  "timestamp": "2025-05-03T10:00:11.532+00:00",
+  "timestamp": "2025-05-09T10:00:11.327+00:00",
   "tokens": [
     {
       "chainId": 1116,
-      "address": "0x30a540b05468a250fcc17da2d9d4aaa84b358ea7",
-      "name": "Colend",
-      "symbol": "CLND",
+      "address": "0xc5555ea27e63cd89f8b227dece2a3916800c0f4f",
+      "name": "b14g dualCORE",
+      "symbol": "DUALCORE",
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/51445/thumb/CLND_200.png?1731238732"
+      "logoURI": "https://assets.coingecko.com/coins/images/55488/thumb/dualCORE.png?1746263021"
     },
     {
       "chainId": 1116,
@@ -32,11 +32,11 @@
     },
     {
       "chainId": 1116,
-      "address": "0xd60d60b168360dbd3496ec0ed0afe4a7498de3ce",
-      "name": "b14g dualBTC Principal",
-      "symbol": "PT-DUALBTC",
-      "decimals": 8,
-      "logoURI": "https://assets.coingecko.com/coins/images/55385/thumb/b14g_logo_%281%29.png?1745708331"
+      "address": "0xb3a8f0f0da9ffc65318aa39e55079796093029ad",
+      "name": "CoreDAO Staked CORE",
+      "symbol": "STCORE",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/39945/thumb/stcore.png?1724886271"
     },
     {
       "chainId": 1116,
@@ -48,27 +48,11 @@
     },
     {
       "chainId": 1116,
-      "address": "0xa4151b2b3e269645181dccf2d426ce75fcbdeca9",
-      "name": "Bridged USDC  Core ",
-      "symbol": "USDC",
-      "decimals": 6,
-      "logoURI": "https://assets.coingecko.com/coins/images/34423/thumb/usdc.png?1704857726"
-    },
-    {
-      "chainId": 1116,
-      "address": "0xc5cd3f4029269fe9f2d2d154594d02f13c9a5214",
-      "name": "Core Keeper",
-      "symbol": "COKE",
-      "decimals": 9,
-      "logoURI": "https://assets.coingecko.com/coins/images/37848/thumb/corekeeper-2.png?1715758831"
-    },
-    {
-      "chainId": 1116,
-      "address": "0x98564e70c7fcc6d947ffe6d9efed5ba68b306f2e",
-      "name": "Ignore Fud",
-      "symbol": "4TOKEN",
+      "address": "0x0fd98374ee05d059885ba70988ea2d072f6fd981",
+      "name": "COCO Community",
+      "symbol": "COCO",
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/29626/thumb/200x200.png?1696528562"
+      "logoURI": "https://assets.coingecko.com/coins/images/55580/thumb/_COCO_Community_Token_Project_Lo_II.png?1746781518"
     },
     {
       "chainId": 1116,
@@ -77,6 +61,14 @@
       "symbol": "SOLVBTCB",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/40025/thumb/SolvBTC.b.jpg?1725350001"
+    },
+    {
+      "chainId": 1116,
+      "address": "0x40375c92d9faf44d2f9db9bd9ba41a3317a2404f",
+      "name": "Wrapped CORE",
+      "symbol": "WCORE",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/29276/thumb/wcore.png?1696528228"
     },
     {
       "chainId": 1116,
@@ -96,27 +88,11 @@
     },
     {
       "chainId": 1116,
-      "address": "0xb3a8f0f0da9ffc65318aa39e55079796093029ad",
-      "name": "CoreDAO Staked CORE",
-      "symbol": "STCORE",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/39945/thumb/stcore.png?1724886271"
-    },
-    {
-      "chainId": 1116,
       "address": "0x900101d06a7426441ae63e9ab3b9b0f63be145f1",
       "name": "Bridged USDT  Core ",
       "symbol": "USDT",
       "decimals": 6,
       "logoURI": "https://assets.coingecko.com/coins/images/34424/thumb/usdt_logo.png?1704857706"
-    },
-    {
-      "chainId": 1116,
-      "address": "0x40375c92d9faf44d2f9db9bd9ba41a3317a2404f",
-      "name": "Wrapped CORE",
-      "symbol": "WCORE",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/29276/thumb/wcore.png?1696528228"
     },
     {
       "chainId": 1116,
@@ -128,11 +104,43 @@
     },
     {
       "chainId": 1116,
-      "address": "0x9410e8052bc661041e5cb27fdf7d9e9e842af2aa",
-      "name": "Solv Protocol SolvBTC CORE",
-      "symbol": "SOLVBTCCORE",
+      "address": "0xd60d60b168360dbd3496ec0ed0afe4a7498de3ce",
+      "name": "b14g dualBTC Principal",
+      "symbol": "PT-DUALBTC",
+      "decimals": 8,
+      "logoURI": "https://assets.coingecko.com/coins/images/55385/thumb/b14g_logo_%281%29.png?1745708331"
+    },
+    {
+      "chainId": 1116,
+      "address": "0xa4151b2b3e269645181dccf2d426ce75fcbdeca9",
+      "name": "Bridged USDC  Core ",
+      "symbol": "USDC",
+      "decimals": 6,
+      "logoURI": "https://assets.coingecko.com/coins/images/34423/thumb/usdc.png?1704857726"
+    },
+    {
+      "chainId": 1116,
+      "address": "0x30a540b05468a250fcc17da2d9d4aaa84b358ea7",
+      "name": "Colend",
+      "symbol": "CLND",
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/50781/thumb/20241016-213746.jpeg?1729143995"
+      "logoURI": "https://assets.coingecko.com/coins/images/51445/thumb/CLND_200.png?1731238732"
+    },
+    {
+      "chainId": 1116,
+      "address": "0xc5cd3f4029269fe9f2d2d154594d02f13c9a5214",
+      "name": "Core Keeper",
+      "symbol": "COKE",
+      "decimals": 9,
+      "logoURI": "https://assets.coingecko.com/coins/images/37848/thumb/corekeeper-2.png?1715758831"
+    },
+    {
+      "chainId": 1116,
+      "address": "0x98564e70c7fcc6d947ffe6d9efed5ba68b306f2e",
+      "name": "Ignore Fud",
+      "symbol": "4TOKEN",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/29626/thumb/200x200.png?1696528562"
     },
     {
       "chainId": 1116,
@@ -149,6 +157,14 @@
       "symbol": "CDAO",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/33125/thumb/LmgRwWp9_400x400.jpg?1700795014"
+    },
+    {
+      "chainId": 1116,
+      "address": "0x9410e8052bc661041e5cb27fdf7d9e9e842af2aa",
+      "name": "Solv Protocol SolvBTC CORE",
+      "symbol": "SOLVBTCCORE",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/50781/thumb/20241016-213746.jpeg?1729143995"
     },
     {
       "chainId": 1116,
@@ -181,14 +197,6 @@
       "symbol": "OST",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/37087/thumb/0xF3CABeb4A292996a451f8094E14F4806d22604d4.png?1715046928"
-    },
-    {
-      "chainId": 1116,
-      "address": "0xc5555ea27e63cd89f8b227dece2a3916800c0f4f",
-      "name": "b14g dualCORE",
-      "symbol": "DUALCORE",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/55488/thumb/dualCORE.png?1746263021"
     },
     {
       "chainId": 1116,
@@ -281,7 +289,7 @@
   ],
   "version": {
     "major": 7,
-    "minor": 3,
+    "minor": 4,
     "patch": 0
   }
 }

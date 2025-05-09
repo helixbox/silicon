@@ -27612,6 +27612,14 @@
     }
   },
   {
+    "id": "coco-community",
+    "symbol": "coco",
+    "name": "COCO Community",
+    "platforms": {
+      "core": "0x0fd98374ee05d059885ba70988ea2d072f6fd981"
+    }
+  },
+  {
     "id": "coconut-chicken",
     "symbol": "$ccc",
     "name": "Coconut Chicken",
@@ -28216,6 +28224,7 @@
     "symbol": "collab",
     "name": "Collab.Land",
     "platforms": {
+      "optimistic-ethereum": "0x8b21e9b7daf2c4325bf3d18c1beb79a347fe902a",
       "arbitrum-one": "0xf18c263ec50cc211ef3f172228549b6618f10613"
     }
   },
@@ -55331,6 +55340,7 @@
     "platforms": {
       "ethereum": "0x72e4f9f808c49a2a61de9c5896298920dc4eeea9",
       "solana": "CTgiaZUK12kCcB8sosn4Nt2NZtzLgtPqDwyQyr2syATC",
+      "berachain": "0x6b26f778bfae56cfb4bf9b62c678d9d40e725227",
       "base": "0x2a06a17cbc6d0032cac2c6696da90f29d39a1a29"
     }
   },
@@ -68481,6 +68491,14 @@
     }
   },
   {
+    "id": "let-s-bonk-ai",
+    "symbol": "bonkai",
+    "name": "Let's Bonk AI",
+    "platforms": {
+      "solana": "hqYtLoxviwGENvogcJ5324YTbYqW5H9LHtmQu5Jbonk"
+    }
+  },
+  {
     "id": "letscro",
     "symbol": "lfc",
     "name": "LetsCRO",
@@ -75749,6 +75767,7 @@
     "platforms": {
       "merlin-chain": "0xb880fd278198bd590252621d4cd071b1842e9bcd",
       "zksync": "0xe757355edba7ced7b8c0271bba4efda184ad75ab",
+      "sei-v2": "0x9bfa177621119e64cecbeabe184ab9993e2ef727",
       "klay-token": "0x0f921c39efd98809fe6d20a88a4357454578987a",
       "duckchain": "0x9bfa177621119e64cecbeabe184ab9993e2ef727",
       "kava": "kava1txyfkuppys7mtv0qv5u9lyvrzmxep4rvh0ne4g",
@@ -110249,7 +110268,7 @@
   {
     "id": "solv-btc",
     "symbol": "solvbtc",
-    "name": "Solv Protocol SolvBTC",
+    "name": "Solv Protocol BTC",
     "platforms": {
       "ethereum": "0x7a56e1c57c7475ccf742a1832b028f0456652f97",
       "rootstock": "0x541fd749419ca806a8bc7da8ac23d346f2df8b77",
@@ -110300,7 +110319,7 @@
   {
     "id": "solv-protocol-solvbtc-bbn",
     "symbol": "xsolvbtc",
-    "name": "Solv Protocol xSolvBTC",
+    "name": "Solv Protocol Staked BTC",
     "platforms": {
       "binance-smart-chain": "0x1346b618dc92810ec74163e4c27004c921d446a5",
       "mantle": "0x1d40bafc49c37cda49f2a5427e2fb95e1e3fcf20",

@@ -1,11 +1,19 @@
 {
   "name": "CoinGecko",
-  "logoURI": "https://static.coingecko.com/s/thumbnail-007177f3eca19695592f0b8b0eabbdae282b54154e1be912285c9034ea6cbaf2.png",
+  "logoURI": "https://static.coingecko.com/gecko-new.svg",
   "keywords": [
     "defi"
   ],
-  "timestamp": "2025-04-04T09:00:14.503+00:00",
+  "timestamp": "2025-05-09T10:00:14.657+00:00",
   "tokens": [
+    {
+      "chainId": 148,
+      "address": "0x4794aeafa5efe2fc1f6f5eb745798aaf39a81d3e",
+      "name": "ShimmerSea Lum",
+      "symbol": "LUM",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/32429/thumb/lum.jpg?1698121504"
+    },
     {
       "chainId": 148,
       "address": "0xbd17705ca627efbb55de22a0f966af79e9191c89",
@@ -13,14 +21,6 @@
       "symbol": "RUST",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/33106/thumb/rust_coin.png?1700663508"
-    },
-    {
-      "chainId": 148,
-      "address": "0x5c09ef80efb7aefd0a25289715e0a164c98ac713",
-      "name": "ZeroSwapNFT",
-      "symbol": "ZERO",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/32446/thumb/ZEROToken.png?1698239086"
     },
     {
       "chainId": 148,
@@ -32,11 +32,11 @@
     },
     {
       "chainId": 148,
-      "address": "0x4794aeafa5efe2fc1f6f5eb745798aaf39a81d3e",
-      "name": "ShimmerSea Lum",
-      "symbol": "LUM",
+      "address": "0x5c09ef80efb7aefd0a25289715e0a164c98ac713",
+      "name": "ZeroSwapNFT",
+      "symbol": "ZERO",
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/32429/thumb/lum.jpg?1698121504"
+      "logoURI": "https://assets.coingecko.com/coins/images/32446/thumb/ZEROToken.png?1698239086"
     },
     {
       "chainId": 148,
@@ -53,11 +53,19 @@
       "symbol": "MLUM",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/36289/thumb/MLUM-400x400.png?1711009440"
+    },
+    {
+      "chainId": 148,
+      "address": "0x326f23422ce22ee5fbb5f37f9fa1092d095546f8",
+      "name": "DEEPR",
+      "symbol": "DEEPR",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/32588/thumb/Deepr.png?1698577108"
     }
   ],
   "version": {
     "major": 3,
-    "minor": 0,
+    "minor": 1,
     "patch": 0
   }
 }
