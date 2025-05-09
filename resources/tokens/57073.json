@@ -4,16 +4,8 @@
   "keywords": [
     "defi"
   ],
-  "timestamp": "2025-04-07T10:00:25.883+00:00",
+  "timestamp": "2025-05-09T04:00:23.112+00:00",
   "tokens": [
-    {
-      "chainId": 57073,
-      "address": "0xbf0cafcbaaf0be8221ae8d630500984edc908861",
-      "name": "Squidswap",
-      "symbol": "SQUIDS",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/53494/thumb/squidswap.jpg?1736504228"
-    },
     {
       "chainId": 57073,
       "address": "0xf1815bd50389c46847f0bda824ec8da914045d14",
@@ -21,38 +13,6 @@
       "symbol": "USDCE",
       "decimals": 6,
       "logoURI": "https://assets.coingecko.com/coins/images/53782/thumb/usdc.jpg?1737346127"
-    },
-    {
-      "chainId": 57073,
-      "address": "0x4200000000000000000000000000000000000006",
-      "name": "Ink Bridged WETH  Ink ",
-      "symbol": "WETH",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/52918/thumb/weth_2.jpg?1734684690"
-    },
-    {
-      "chainId": 57073,
-      "address": "0x20c69c12abf2b6f8d8ca33604dd25c700c7e70a5",
-      "name": "Cat Call Agent",
-      "symbol": "CAT",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/54745/thumb/DV_dS5E9_400x400_%282%29.png?1741326959"
-    },
-    {
-      "chainId": 57073,
-      "address": "0x0c5e2d1c98cd265c751e02f8f3293bc5764f9111",
-      "name": "Shroomy",
-      "symbol": "SHROOMY",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/54002/thumb/1000000182.jpg?1737942213"
-    },
-    {
-      "chainId": 57073,
-      "address": "0x0200c29006150606b650577bbe7b6248f58470c1",
-      "name": "USDT0",
-      "symbol": "USDT0",
-      "decimals": 6,
-      "logoURI": "https://assets.coingecko.com/coins/images/53705/thumb/usdt0.jpg?1737086183"
     },
     {
       "chainId": 57073,
@@ -64,11 +24,51 @@
     },
     {
       "chainId": 57073,
+      "address": "0x4200000000000000000000000000000000000006",
+      "name": "Ink Bridged WETH  Ink ",
+      "symbol": "WETH",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/52918/thumb/weth_2.jpg?1734684690"
+    },
+    {
+      "chainId": 57073,
+      "address": "0x0c5e2d1c98cd265c751e02f8f3293bc5764f9111",
+      "name": "Shroomy",
+      "symbol": "SHROOMY",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/54002/thumb/1000000182.jpg?1737942213"
+    },
+    {
+      "chainId": 57073,
+      "address": "0x20c69c12abf2b6f8d8ca33604dd25c700c7e70a5",
+      "name": "Cat Call Agent",
+      "symbol": "CAT",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/54745/thumb/DV_dS5E9_400x400_%282%29.png?1741326959"
+    },
+    {
+      "chainId": 57073,
+      "address": "0x0200c29006150606b650577bbe7b6248f58470c1",
+      "name": "USDT0",
+      "symbol": "USDT0",
+      "decimals": 6,
+      "logoURI": "https://assets.coingecko.com/coins/images/53705/thumb/usdt0.jpg?1737086183"
+    },
+    {
+      "chainId": 57073,
       "address": "0xd642b49d10cc6e1bc1c6945725667c35e0875f22",
       "name": "Purple",
       "symbol": "PURPLE",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/53880/thumb/ink_purple.png?1738227741"
+    },
+    {
+      "chainId": 57073,
+      "address": "0xbf0cafcbaaf0be8221ae8d630500984edc908861",
+      "name": "Squidswap",
+      "symbol": "SQUIDS",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/53494/thumb/squidswap.jpg?1736504228"
     },
     {
       "chainId": 57073,
@@ -93,11 +93,27 @@
       "symbol": "WGC",
       "decimals": 6,
       "logoURI": "https://assets.coingecko.com/coins/images/37966/thumb/COIN_200x200.png?1716778831"
+    },
+    {
+      "chainId": 57073,
+      "address": "0xae4efbc7736f963982aacb17efa37fcbab924cb3",
+      "name": "Solv Protocol SolvBTC",
+      "symbol": "SOLVBTC",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/36800/thumb/solvBTC.png?1719810684"
+    },
+    {
+      "chainId": 57073,
+      "address": "0xc99f5c922dae05b6e2ff83463ce705ef7c91f077",
+      "name": "Solv Protocol xSolvBTC",
+      "symbol": "XSOLVBTC",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/39384/thumb/xSolvBTC.png?1744170824"
     }
   ],
   "version": {
     "major": 1,
-    "minor": 4,
+    "minor": 5,
     "patch": 0
   }
 }
