@@ -1597,6 +1597,14 @@
     }
   },
   {
+    "id": "aave-usdc-sonic",
+    "symbol": "asonusdc",
+    "name": "Aave USDC (Sonic)",
+    "platforms": {
+      "sonic": "0x578ee1ca3a8e1b54554da1bf7c583506c4cd11c6"
+    }
+  },
+  {
     "id": "aave-usdc-v1",
     "symbol": "ausdc",
     "name": "Aave v1 USDC",
@@ -9301,14 +9309,6 @@
     }
   },
   {
-    "id": "astro-babies",
-    "symbol": "abb",
-    "name": "Astro Babies",
-    "platforms": {
-      "binance-smart-chain": "0x277ae79c42c859ca858d5a92c22222c8b65c6d94"
-    }
-  },
-  {
     "id": "astroelon",
     "symbol": "elonone",
     "name": "AstroElon",
@@ -14254,14 +14254,6 @@
       "ethereum": "0xa91ac63d040deb1b7a5e4d4134ad23eb0ba07e14",
       "manta-pacific": "0xb385e52903c802b3bdca7c4d0c78460a8988e1ce",
       "binance-smart-chain": "0x8443f091997f06a61670b735ed92734f5628692f"
-    }
-  },
-  {
-    "id": "bell-curve-money",
-    "symbol": "bell",
-    "name": "Bell Curve Money",
-    "platforms": {
-      "base": "0x4a4200947ad71ba4eb5ffeff10cc603a17af2f95"
     }
   },
   {
@@ -25415,6 +25407,7 @@
       "optimistic-ethereum": "0x350a791bfc2c21f9ed5d10980dad2e2638ffa7f6",
       "near-protocol": "514910771af9ca656af840dff83e8264ecf986ca.factory.bridge.near",
       "base": "0x88fb150bdc53a65fe94dea0c9ba0a6daf8c6e196",
+      "solana": "y9MdSjD9Beg9EFaeQGdMpESFWLNdSfZKQKeYLBfmnjJ",
       "huobi-token": "0x9e004545c59d359f6b7bfb06a26390b087717b42",
       "xdai": "0xe2e73a1c69ecf83f464efce6a5be353a37ca09b2",
       "harmony-shard-0": "0x218532a12a389a4a92fc0c5fb22901d1c19198aa",
@@ -27301,7 +27294,8 @@
     "symbol": "cpool",
     "name": "Clearpool",
     "platforms": {
-      "ethereum": "0x66761fa41377003622aee3c7675fc7b5c1c2fac5"
+      "ethereum": "0x66761fa41377003622aee3c7675fc7b5c1c2fac5",
+      "solana": "AeXrLftu8chuY4ctc6oDeG4dUx6Yr4aqeakUMFNvACdg"
     }
   },
   {
@@ -48861,14 +48855,6 @@
     }
   },
   {
-    "id": "frudo",
-    "symbol": "frudo",
-    "name": "FRUDO",
-    "platforms": {
-      "hyperliquid": "0xb3d30d38259b99d4a6daaf72ded7bf34"
-    }
-  },
-  {
     "id": "frug",
     "symbol": "frug",
     "name": "FRUG",
@@ -65548,14 +65534,6 @@
     }
   },
   {
-    "id": "kittenwifhat",
-    "symbol": "kittenwif",
-    "name": "KittenWifHat",
-    "platforms": {
-      "solana": "9a8AmDfQxFJ44RrVhKdiXnkwCWT99igWp5QrRuC73Pin"
-    }
-  },
-  {
     "id": "kitten-wif-hat",
     "symbol": "kwif",
     "name": "Kitten Wif Hat",
@@ -65876,6 +65854,14 @@
     "name": "KOBA",
     "platforms": {
       "kasplex": "KOBA"
+    }
+  },
+  {
+    "id": "koban",
+    "symbol": "koban",
+    "name": "KOBAN",
+    "platforms": {
+      "sui": "0x8400e7044d360c28dd338111d2aa54ca5bdc960a8d6b60bf3b28e1ca503df3e2::koban::KOBAN"
     }
   },
   {
@@ -66684,6 +66670,14 @@
     "name": "KStarNFT",
     "platforms": {
       "binance-smart-chain": "0x46e83fbcc5623172ee61935c96b7276ab92562de"
+    }
+  },
+  {
+    "id": "ktoshi",
+    "symbol": "ktoshi",
+    "name": "ktoshi",
+    "platforms": {
+      "kadena": "n_625e9938ae84bdb7d190f14fc283c7a6dfc15d58.ktoshi"
     }
   },
   {
@@ -89740,7 +89734,9 @@
     "id": "pairs",
     "symbol": "pairs",
     "name": "Pairs",
-    "platforms": {}
+    "platforms": {
+      "ethereum": "0xfb70859efec2ceb84dd4935a0842aa69290020bc"
+    }
   },
   {
     "id": "paisapad",
@@ -98762,6 +98758,14 @@
     "name": "Quorium",
     "platforms": {
       "binance-smart-chain": "0xdc49a53e1f15fd7fd522e0691cb570f442e9ca6c"
+    }
+  },
+  {
+    "id": "qup-coin",
+    "symbol": "qup",
+    "name": "QUP Coin",
+    "platforms": {
+      "solana": "2xaPstY4XqJ2gUA1mpph3XmvmPZGuTuJ658AeqX3gJ6F"
     }
   },
   {
@@ -109154,6 +109158,14 @@
     }
   },
   {
+    "id": "smol-dodo",
+    "symbol": "$dod",
+    "name": "Smol dodo",
+    "platforms": {
+      "solana": "3aTpfof6xw6GZAxKXFdX4fGn5BBK2MXdPT8rS4WUpump"
+    }
+  },
+  {
     "id": "smolecoin",
     "symbol": "smole",
     "name": "smolecoin",
@@ -116451,7 +116463,8 @@
     "symbol": "uscc",
     "name": "Superstate USCC",
     "platforms": {
-      "ethereum": "0x14d60e7fdc0d71d8611742720e4c50e7a974020c"
+      "ethereum": "0x14d60e7fdc0d71d8611742720e4c50e7a974020c",
+      "plume-network": "0x4c21b7577c8fe8b0b0669165ee7c8f67fa1454cf"
     }
   },
   {
@@ -123005,12 +123018,6 @@
     }
   },
   {
-    "id": "trillant",
-    "symbol": "tril",
-    "name": "TRILLANT",
-    "platforms": {}
-  },
-  {
     "id": "trillioner",
     "symbol": "tlc",
     "name": "Trillioner",
@@ -124528,7 +124535,8 @@
     "symbol": "ulti",
     "name": "Ultiverse",
     "platforms": {
-      "binance-smart-chain": "0x0e7779e698052f8fe56c415c3818fcf89de9ac6d"
+      "binance-smart-chain": "0x0e7779e698052f8fe56c415c3818fcf89de9ac6d",
+      "ethereum": "0x0e7779e698052f8fe56c415c3818fcf89de9ac6d"
     }
   },
   {
@@ -137300,14 +137308,6 @@
     "name": "YouSim",
     "platforms": {
       "solana": "66gsTs88mXJ5L4AtJnWqFW6H2L5YQDRy4W41y6zbpump"
-    }
-  },
-  {
-    "id": "yousui",
-    "symbol": "xui",
-    "name": "YouSUI",
-    "platforms": {
-      "sui": "0x3cbae4efb916a6ff23eb4724f6fb5d37c5a342b689a6f308fa10acc944799f84::xui::XUI"
     }
   },
   {
