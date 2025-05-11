@@ -4,16 +4,8 @@
   "keywords": [
     "defi"
   ],
-  "timestamp": "2025-05-09T11:00:29.661+00:00",
+  "timestamp": "2025-05-11T10:00:27.292+00:00",
   "tokens": [
-    {
-      "chainId": 8822,
-      "address": "0xfbda5f676cb37624f28265a144a48b0d6e87d3b6",
-      "name": "Stargate Bridged USDC  Iota EVM ",
-      "symbol": "USDCE",
-      "decimals": 6,
-      "logoURI": "https://assets.coingecko.com/coins/images/39204/thumb/USDC_Icon.png?1721065297"
-    },
     {
       "chainId": 8822,
       "address": "0x159366809b6062960c97bc4edd548bafcd7812d8",
@@ -24,11 +16,19 @@
     },
     {
       "chainId": 8822,
-      "address": "0xf5755e48b6f2f06f8ea904bda26177cb3ca06ff0",
-      "name": "Iolend",
-      "symbol": "IOL",
+      "address": "0x6e47f8d48a01b44df3fff35d258a10a3aedc114c",
+      "name": "Wrapped IOTA",
+      "symbol": "WIOTA",
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/39769/thumb/iolend_token_logo.png?1724036226"
+      "logoURI": "https://assets.coingecko.com/coins/images/38899/thumb/iota.jpg?1719453346"
+    },
+    {
+      "chainId": 8822,
+      "address": "0xfbda5f676cb37624f28265a144a48b0d6e87d3b6",
+      "name": "Stargate Bridged USDC  Iota EVM ",
+      "symbol": "USDCE",
+      "decimals": 6,
+      "logoURI": "https://assets.coingecko.com/coins/images/39204/thumb/USDC_Icon.png?1721065297"
     },
     {
       "chainId": 8822,
@@ -37,14 +37,6 @@
       "symbol": "CYB",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/50561/thumb/Logo_black.png?1728370392"
-    },
-    {
-      "chainId": 8822,
-      "address": "0x6e47f8d48a01b44df3fff35d258a10a3aedc114c",
-      "name": "Wrapped IOTA",
-      "symbol": "WIOTA",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/38899/thumb/iota.jpg?1719453346"
     },
     {
       "chainId": 8822,
@@ -128,7 +120,7 @@
     }
   ],
   "version": {
-    "major": 1,
+    "major": 2,
     "minor": 0,
     "patch": 0
   }
