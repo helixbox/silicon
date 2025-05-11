@@ -4,7 +4,7 @@
   "keywords": [
     "defi"
   ],
-  "timestamp": "2025-05-11T10:00:39.684+00:00",
+  "timestamp": "2025-05-11T13:00:38.782+00:00",
   "tokens": [
     {
       "chainId": 8217,
@@ -21,6 +21,14 @@
       "symbol": "KLEVA",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/26546/thumb/Kleva_400x400.png?1696525619"
+    },
+    {
+      "chainId": 8217,
+      "address": "0x5c74070fdea071359b86082bd9f9b3deaafbe32b",
+      "name": "Klaytn Dai",
+      "symbol": "KDAI",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/27010/thumb/download_%284%29.png?1696526062"
     },
     {
       "chainId": 8217,
@@ -136,14 +144,6 @@
     },
     {
       "chainId": 8217,
-      "address": "0x7fc692699f2216647a0e06225d8bdf8cdee40e7f",
-      "name": "KRWO",
-      "symbol": "KRWO",
-      "decimals": 6,
-      "logoURI": "https://assets.coingecko.com/coins/images/54799/thumb/KRWO-Common.png?1741696516"
-    },
-    {
-      "chainId": 8217,
       "address": "0x0d9df6ae3d1bb688a9e07b66e9682f32cca7eae2",
       "name": "Domin Network",
       "symbol": "DOMIN",
@@ -184,11 +184,11 @@
     },
     {
       "chainId": 8217,
-      "address": "0x5c13e303a62fc5dedf5b52d66873f2e59fedadc2",
-      "name": "Kaia Bridged USDT  Kaia ",
-      "symbol": "USDT",
+      "address": "0x7fc692699f2216647a0e06225d8bdf8cdee40e7f",
+      "name": "KRWO",
+      "symbol": "KRWO",
       "decimals": 6,
-      "logoURI": "https://assets.coingecko.com/coins/images/54181/thumb/usdt.jpg?1738665239"
+      "logoURI": "https://assets.coingecko.com/coins/images/54799/thumb/KRWO-Common.png?1741696516"
     },
     {
       "chainId": 8217,
@@ -245,14 +245,6 @@
       "symbol": "LAIR",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/55181/thumb/Lair_token.png?1744616096"
-    },
-    {
-      "chainId": 8217,
-      "address": "0x5c74070fdea071359b86082bd9f9b3deaafbe32b",
-      "name": "Klaytn Dai",
-      "symbol": "KDAI",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/27010/thumb/download_%284%29.png?1696526062"
     },
     {
       "chainId": 8217,
@@ -333,6 +325,14 @@
       "symbol": "OWBTC",
       "decimals": 8,
       "logoURI": "https://assets.coingecko.com/coins/images/27278/thumb/download_%285%29.png?1696526330"
+    },
+    {
+      "chainId": 8217,
+      "address": "0x5c13e303a62fc5dedf5b52d66873f2e59fedadc2",
+      "name": "Kaia Bridged USDT  Kaia ",
+      "symbol": "USDT",
+      "decimals": 6,
+      "logoURI": "https://assets.coingecko.com/coins/images/54181/thumb/usdt.jpg?1738665239"
     },
     {
       "chainId": 8217,
@@ -440,6 +440,14 @@
     },
     {
       "chainId": 8217,
+      "address": "0xd077a400968890eacc75cdc901f0356c943e4fdb",
+      "name": "Tether",
+      "symbol": "USDT",
+      "decimals": 6,
+      "logoURI": "https://assets.coingecko.com/coins/images/325/thumb/Tether.png?1696501661"
+    },
+    {
+      "chainId": 8217,
       "address": "0xdcbacf3f7a069922e677912998c8d57423c37dfa",
       "name": "Bridged WBTC",
       "symbol": "WBTC",
@@ -513,7 +521,7 @@
   ],
   "version": {
     "major": 21,
-    "minor": 0,
+    "minor": 1,
     "patch": 0
   }
 }

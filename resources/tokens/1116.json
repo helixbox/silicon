@@ -4,7 +4,7 @@
   "keywords": [
     "defi"
   ],
-  "timestamp": "2025-05-09T11:00:12.381+00:00",
+  "timestamp": "2025-05-11T13:00:11.067+00:00",
   "tokens": [
     {
       "chainId": 1116,
@@ -21,14 +21,6 @@
       "symbol": "HUNT",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/29649/thumb/hunt.png?1696528585"
-    },
-    {
-      "chainId": 1116,
-      "address": "0x204e2d49b7cda6d93301bcf667a2da28fb0e5780",
-      "name": "Aquarius Loan",
-      "symbol": "ARS",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/31445/thumb/logo-200x200.png?1696530259"
     },
     {
       "chainId": 1116,
@@ -56,19 +48,11 @@
     },
     {
       "chainId": 1116,
-      "address": "0x40375c92d9faf44d2f9db9bd9ba41a3317a2404f",
-      "name": "Wrapped CORE",
-      "symbol": "WCORE",
+      "address": "0x204e2d49b7cda6d93301bcf667a2da28fb0e5780",
+      "name": "Aquarius Loan",
+      "symbol": "ARS",
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/29276/thumb/wcore.png?1696528228"
-    },
-    {
-      "chainId": 1116,
-      "address": "0xb0788b601c0d712702bc829b52771199ad8e33ff",
-      "name": "IceCreamSwap WCORE",
-      "symbol": "WCORE",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/36831/thumb/core.jpeg?1712559362"
+      "logoURI": "https://assets.coingecko.com/coins/images/31445/thumb/logo-200x200.png?1696530259"
     },
     {
       "chainId": 1116,
@@ -80,11 +64,27 @@
     },
     {
       "chainId": 1116,
-      "address": "0x900101d06a7426441ae63e9ab3b9b0f63be145f1",
-      "name": "Bridged USDT  Core ",
-      "symbol": "USDT",
+      "address": "0xa4151b2b3e269645181dccf2d426ce75fcbdeca9",
+      "name": "Bridged USDC  Core ",
+      "symbol": "USDC",
       "decimals": 6,
-      "logoURI": "https://assets.coingecko.com/coins/images/34424/thumb/usdt_logo.png?1704857706"
+      "logoURI": "https://assets.coingecko.com/coins/images/34423/thumb/usdc.png?1704857726"
+    },
+    {
+      "chainId": 1116,
+      "address": "0x40375c92d9faf44d2f9db9bd9ba41a3317a2404f",
+      "name": "Wrapped CORE",
+      "symbol": "WCORE",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/29276/thumb/wcore.png?1696528228"
+    },
+    {
+      "chainId": 1116,
+      "address": "0xd60d60b168360dbd3496ec0ed0afe4a7498de3ce",
+      "name": "b14g dualBTC Principal",
+      "symbol": "PT-DUALBTC",
+      "decimals": 8,
+      "logoURI": "https://assets.coingecko.com/coins/images/55385/thumb/PT-dualBTC.png?1746965942"
     },
     {
       "chainId": 1116,
@@ -96,27 +96,19 @@
     },
     {
       "chainId": 1116,
-      "address": "0xd60d60b168360dbd3496ec0ed0afe4a7498de3ce",
-      "name": "b14g dualBTC Principal",
-      "symbol": "PT-DUALBTC",
-      "decimals": 8,
-      "logoURI": "https://assets.coingecko.com/coins/images/55385/thumb/b14g_logo_%281%29.png?1745708331"
-    },
-    {
-      "chainId": 1116,
-      "address": "0xa4151b2b3e269645181dccf2d426ce75fcbdeca9",
-      "name": "Bridged USDC  Core ",
-      "symbol": "USDC",
-      "decimals": 6,
-      "logoURI": "https://assets.coingecko.com/coins/images/34423/thumb/usdc.png?1704857726"
-    },
-    {
-      "chainId": 1116,
-      "address": "0x0fd98374ee05d059885ba70988ea2d072f6fd981",
-      "name": "COCO Community",
-      "symbol": "COCO",
+      "address": "0x9410e8052bc661041e5cb27fdf7d9e9e842af2aa",
+      "name": "Solv Protocol SolvBTC CORE",
+      "symbol": "SOLVBTCCORE",
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/55580/thumb/_COCO_Community_Token_Project_Lo_II.png?1746781518"
+      "logoURI": "https://assets.coingecko.com/coins/images/50781/thumb/20241016-213746.jpeg?1729143995"
+    },
+    {
+      "chainId": 1116,
+      "address": "0x900101d06a7426441ae63e9ab3b9b0f63be145f1",
+      "name": "Bridged USDT  Core ",
+      "symbol": "USDT",
+      "decimals": 6,
+      "logoURI": "https://assets.coingecko.com/coins/images/34424/thumb/usdt_logo.png?1704857706"
     },
     {
       "chainId": 1116,
@@ -125,6 +117,14 @@
       "symbol": "CLND",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/51445/thumb/CLND_200.png?1731238732"
+    },
+    {
+      "chainId": 1116,
+      "address": "0x0fd98374ee05d059885ba70988ea2d072f6fd981",
+      "name": "COCO Community",
+      "symbol": "COCO",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/55580/thumb/_COCO_Community_Token_Project_Lo_II.png?1746781518"
     },
     {
       "chainId": 1116,
@@ -144,6 +144,14 @@
     },
     {
       "chainId": 1116,
+      "address": "0xb0788b601c0d712702bc829b52771199ad8e33ff",
+      "name": "IceCreamSwap WCORE",
+      "symbol": "WCORE",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/36831/thumb/core.jpeg?1712559362"
+    },
+    {
+      "chainId": 1116,
       "address": "0xe9aece1ba8bbd429a1ed33349c61280441ac8f99",
       "name": "Liquify Network",
       "symbol": "LIQUIFY",
@@ -157,14 +165,6 @@
       "symbol": "CDAO",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/33125/thumb/LmgRwWp9_400x400.jpg?1700795014"
-    },
-    {
-      "chainId": 1116,
-      "address": "0x9410e8052bc661041e5cb27fdf7d9e9e842af2aa",
-      "name": "Solv Protocol SolvBTC CORE",
-      "symbol": "SOLVBTCCORE",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/50781/thumb/20241016-213746.jpeg?1729143995"
     },
     {
       "chainId": 1116,
@@ -290,6 +290,6 @@
   "version": {
     "major": 7,
     "minor": 4,
-    "patch": 0
+    "patch": 1
   }
 }
