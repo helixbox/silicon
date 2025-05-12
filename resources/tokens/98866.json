@@ -4,22 +4,14 @@
   "keywords": [
     "defi"
   ],
-  "timestamp": "2025-05-10T11:00:24.529+00:00",
+  "timestamp": "2025-05-12T04:00:25.458+00:00",
   "tokens": [
-    {
-      "chainId": 98866,
-      "address": "0xdea736937d464d288ec80138bcd1a2e109a200e3",
-      "name": "Nest ETF Vault",
-      "symbol": "NETF",
-      "decimals": 6,
-      "logoURI": "https://assets.coingecko.com/coins/images/55574/thumb/nETF-token.png?1746774786"
-    },
     {
       "chainId": 98866,
       "address": "0x02cdb5ccc97d5dc7ed2747831b516669eb635706",
       "name": "Nest BTC Vault",
       "symbol": "NBTC",
-      "decimals": 6,
+      "decimals": 8,
       "logoURI": "https://assets.coingecko.com/coins/images/55575/thumb/nBTC-token.png?1746774818"
     },
     {
@@ -45,6 +37,14 @@
       "symbol": "NPAYFI",
       "decimals": 6,
       "logoURI": "https://assets.coingecko.com/coins/images/55515/thumb/nPAYFI-token.png?1746438574"
+    },
+    {
+      "chainId": 98866,
+      "address": "0xdea736937d464d288ec80138bcd1a2e109a200e3",
+      "name": "Nest ETF Vault",
+      "symbol": "NETF",
+      "decimals": 6,
+      "logoURI": "https://assets.coingecko.com/coins/images/55574/thumb/nETF-token.png?1746774786"
     },
     {
       "chainId": 98866,
@@ -130,6 +130,6 @@
   "version": {
     "major": 0,
     "minor": 5,
-    "patch": 0
+    "patch": 1
   }
 }
