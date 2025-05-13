@@ -1,19 +1,11 @@
 {
   "name": "CoinGecko",
-  "logoURI": "https://static.coingecko.com/s/thumbnail-007177f3eca19695592f0b8b0eabbdae282b54154e1be912285c9034ea6cbaf2.png",
+  "logoURI": "https://static.coingecko.com/gecko-new.svg",
   "keywords": [
     "defi"
   ],
-  "timestamp": "2024-11-07T09:01:21.242+00:00",
+  "timestamp": "2025-05-13T09:00:27.044+00:00",
   "tokens": [
-    {
-      "chainId": 10000,
-      "address": "0x3743ec0673453e5009310c727ba4eaf7b3a1cc04",
-      "name": "Wrapped BCH",
-      "symbol": "WBCH",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/21386/thumb/0x3743eC0673453E5009310C727Ba4eaF7b3a1cc04.png?1696520751"
-    },
     {
       "chainId": 10000,
       "address": "0x0b00366fbf7037e9d75e4a569ab27dab84759302",
@@ -32,19 +24,19 @@
     },
     {
       "chainId": 10000,
+      "address": "0x3743ec0673453e5009310c727ba4eaf7b3a1cc04",
+      "name": "Wrapped BCH",
+      "symbol": "WBCH",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/21386/thumb/0x3743eC0673453E5009310C727Ba4eaF7b3a1cc04.png?1696520751"
+    },
+    {
+      "chainId": 10000,
       "address": "0x7b2b3c5308ab5b2a1d9a94d20d35ccdf61e05b72",
       "name": "flexUSD",
       "symbol": "FLEXUSD",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/13323/thumb/flexUSD_2x.png?1696513092"
-    },
-    {
-      "chainId": 10000,
-      "address": "0x98dd7ec28fb43b3c4c770ae532417015fa939dd3",
-      "name": "FLEX Coin",
-      "symbol": "FLEX",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/9108/thumb/coinflex_logo.png?1696509233"
     },
     {
       "chainId": 10000,
@@ -56,7 +48,7 @@
     }
   ],
   "version": {
-    "major": 2,
+    "major": 3,
     "minor": 0,
     "patch": 0
   }

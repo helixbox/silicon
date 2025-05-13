@@ -4,8 +4,16 @@
   "keywords": [
     "defi"
   ],
-  "timestamp": "2025-04-29T11:00:38.097+00:00",
+  "timestamp": "2025-05-13T10:00:38.329+00:00",
   "tokens": [
+    {
+      "chainId": 1284,
+      "address": "0xe3e43888fa7803cdc7bea478ab327cf1a0dc11a7",
+      "name": "Solarflare",
+      "symbol": "FLARE",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/24310/thumb/Solarflare.png?1696523491"
+    },
     {
       "chainId": 1284,
       "address": "0x6021d2c27b6fbd6e7608d1f39b41398caee2f824",
@@ -13,38 +21,6 @@
       "symbol": "CP",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/35286/thumb/photo_2024-12-05_05-17-52.jpg?1733694753"
-    },
-    {
-      "chainId": 1284,
-      "address": "0xcd3b51d98478d53f4515a306be565c6eebef1d58",
-      "name": "BeamSwap",
-      "symbol": "GLINT",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/22893/thumb/glint.png?1696522190"
-    },
-    {
-      "chainId": 1284,
-      "address": "0x511ab53f793683763e5a8829738301368a2411e3",
-      "name": "Moonwell",
-      "symbol": "WELL",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/26133/thumb/WELL.png?1696525221"
-    },
-    {
-      "chainId": 1284,
-      "address": "0xffffffffea09fb06d082fd1275cd48b191cbcd1d",
-      "name": "xcUSDT",
-      "symbol": "XCUSDT",
-      "decimals": 6,
-      "logoURI": "https://assets.coingecko.com/coins/images/29019/thumb/usdt.png?1696527990"
-    },
-    {
-      "chainId": 1284,
-      "address": "0xacc15dc74880c9944775448304b263d191c6077f",
-      "name": "Wrapped Moonbeam",
-      "symbol": "WGLMR",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/23688/thumb/Moonbeam_WGLMR_ICON.png?1716655228"
     },
     {
       "chainId": 1284,
@@ -64,6 +40,46 @@
     },
     {
       "chainId": 1284,
+      "address": "0xffffffffea09fb06d082fd1275cd48b191cbcd1d",
+      "name": "xcUSDT",
+      "symbol": "XCUSDT",
+      "decimals": 6,
+      "logoURI": "https://assets.coingecko.com/coins/images/29019/thumb/usdt.png?1696527990"
+    },
+    {
+      "chainId": 1284,
+      "address": "0x511ab53f793683763e5a8829738301368a2411e3",
+      "name": "Moonwell",
+      "symbol": "WELL",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/26133/thumb/WELL.png?1696525221"
+    },
+    {
+      "chainId": 1284,
+      "address": "0xcd3b51d98478d53f4515a306be565c6eebef1d58",
+      "name": "BeamSwap",
+      "symbol": "GLINT",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/22893/thumb/glint.png?1696522190"
+    },
+    {
+      "chainId": 1284,
+      "address": "0xacc15dc74880c9944775448304b263d191c6077f",
+      "name": "Wrapped Moonbeam",
+      "symbol": "WGLMR",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/23688/thumb/Moonbeam_WGLMR_ICON.png?1716655228"
+    },
+    {
+      "chainId": 1284,
+      "address": "0xffffffffa893ad19e540e172c10d78d4d479b5cf",
+      "name": "Astar  Moonbeam ",
+      "symbol": "XCASTR",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/29986/thumb/astar.jpg?1696528911"
+    },
+    {
+      "chainId": 1284,
       "address": "0x765277eebeca2e31912c9946eae1021199b39c61",
       "name": "Multichain Bridged DAI  Moonbeam ",
       "symbol": "DAI",
@@ -77,22 +93,6 @@
       "symbol": "WAVAX",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/53014/thumb/avax.png?1734993474"
-    },
-    {
-      "chainId": 1284,
-      "address": "0xffffffffa893ad19e540e172c10d78d4d479b5cf",
-      "name": "Astar  Moonbeam ",
-      "symbol": "XCASTR",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/29986/thumb/astar.jpg?1696528911"
-    },
-    {
-      "chainId": 1284,
-      "address": "0xe3e43888fa7803cdc7bea478ab327cf1a0dc11a7",
-      "name": "Solarflare",
-      "symbol": "FLARE",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/24310/thumb/Solarflare.png?1696523491"
     },
     {
       "chainId": 1284,
@@ -248,14 +248,6 @@
     },
     {
       "chainId": 1284,
-      "address": "0xa423e7eeb60547d9c7b65005477b63ae7ce67e62",
-      "name": "Energyfi",
-      "symbol": "EFT",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/23498/thumb/fbb562_28b2de266adc4c63b6d58e3021158c44_mv2.png?1696522708"
-    },
-    {
-      "chainId": 1284,
       "address": "0xca01a1d0993565291051daff390892518acfad3a",
       "name": "Axelar Bridged USDC",
       "symbol": "AXLUSDC",
@@ -288,8 +280,8 @@
     }
   ],
   "version": {
-    "major": 8,
+    "major": 9,
     "minor": 0,
-    "patch": 1
+    "patch": 0
   }
 }
