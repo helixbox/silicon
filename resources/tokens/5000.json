@@ -4,7 +4,7 @@
   "keywords": [
     "defi"
   ],
-  "timestamp": "2025-05-09T10:00:11.528+00:00",
+  "timestamp": "2025-05-14T12:00:11.841+00:00",
   "tokens": [
     {
       "chainId": 5000,
@@ -16,6 +16,14 @@
     },
     {
       "chainId": 5000,
+      "address": "0x51cfe5b1e764dc253f4c8c1f19a081ff4c3517ed",
+      "name": "Mantle Inu",
+      "symbol": "MINU",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/31014/thumb/mantle-inu.jpeg?1696529851"
+    },
+    {
+      "chainId": 5000,
       "address": "0x25356aeca4210ef7553140edb9b8026089e49396",
       "name": "Lendle",
       "symbol": "LEND",
@@ -24,11 +32,27 @@
     },
     {
       "chainId": 5000,
-      "address": "0x78c1b0c915c4faa5fffa6cabf0219da63d7f4cb8",
-      "name": "Wrapped Mantle",
-      "symbol": "WMNT",
+      "address": "0x26a6b0dcdcfb981362afa56d581e4a7dba3be140",
+      "name": "Puff The Dragon",
+      "symbol": "PUFF",
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/30983/thumb/mantle.jpeg?1696529822"
+      "logoURI": "https://assets.coingecko.com/coins/images/35950/thumb/photo_2024-03-11_10.18.27.jpeg?1710240090"
+    },
+    {
+      "chainId": 5000,
+      "address": "0xc1e0c8c30f251a07a894609616580ad2ceb547f2",
+      "name": "Cleopatra",
+      "symbol": "CLEO",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/34150/thumb/CLEO_token.png?1704190970"
+    },
+    {
+      "chainId": 5000,
+      "address": "0x09bc4e0d864854c6afb6eb9a9cdf58ac190d0df9",
+      "name": "Mantle Bridged USDC  Mantle ",
+      "symbol": "USDC",
+      "decimals": 6,
+      "logoURI": "https://assets.coingecko.com/coins/images/35296/thumb/USDC_Icon.png?1708082083"
     },
     {
       "chainId": 5000,
@@ -48,35 +72,19 @@
     },
     {
       "chainId": 5000,
-      "address": "0xc1e0c8c30f251a07a894609616580ad2ceb547f2",
-      "name": "Cleopatra",
-      "symbol": "CLEO",
+      "address": "0x78c1b0c915c4faa5fffa6cabf0219da63d7f4cb8",
+      "name": "Wrapped Mantle",
+      "symbol": "WMNT",
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/34150/thumb/CLEO_token.png?1704190970"
+      "logoURI": "https://assets.coingecko.com/coins/images/30983/thumb/mantle.jpeg?1696529822"
     },
     {
       "chainId": 5000,
-      "address": "0x51cfe5b1e764dc253f4c8c1f19a081ff4c3517ed",
-      "name": "Mantle Inu",
-      "symbol": "MINU",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/31014/thumb/mantle-inu.jpeg?1696529851"
-    },
-    {
-      "chainId": 5000,
-      "address": "0x09bc4e0d864854c6afb6eb9a9cdf58ac190d0df9",
-      "name": "Mantle Bridged USDC  Mantle ",
-      "symbol": "USDC",
+      "address": "0x201eba5cc46d216ce6dc03f6a759e8e766e956ae",
+      "name": "Mantle Bridged USDT  Mantle ",
+      "symbol": "USDT",
       "decimals": 6,
-      "logoURI": "https://assets.coingecko.com/coins/images/35296/thumb/USDC_Icon.png?1708082083"
-    },
-    {
-      "chainId": 5000,
-      "address": "0x26a6b0dcdcfb981362afa56d581e4a7dba3be140",
-      "name": "Puff The Dragon",
-      "symbol": "PUFF",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/35950/thumb/photo_2024-03-11_10.18.27.jpeg?1710240090"
+      "logoURI": "https://assets.coingecko.com/coins/images/35069/thumb/logo.png?1707291114"
     },
     {
       "chainId": 5000,
@@ -92,14 +100,6 @@
       "name": "Mantle USD",
       "symbol": "MUSD",
       "decimals": 18
-    },
-    {
-      "chainId": 5000,
-      "address": "0x201eba5cc46d216ce6dc03f6a759e8e766e956ae",
-      "name": "Mantle Bridged USDT  Mantle ",
-      "symbol": "USDT",
-      "decimals": 6,
-      "logoURI": "https://assets.coingecko.com/coins/images/35069/thumb/logo.png?1707291114"
     },
     {
       "chainId": 5000,
@@ -380,19 +380,11 @@
       "symbol": "APTR",
       "decimals": 6,
       "logoURI": "https://assets.coingecko.com/coins/images/37940/thumb/icon_white.png?1715967425"
-    },
-    {
-      "chainId": 5000,
-      "address": "0x527856315a4bcd2f428ea7fa05ea251f7e96a50a",
-      "name": "CeDeFiAi",
-      "symbol": "CDFI",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/36863/thumb/CeDeFiAi.png?1712643622"
     }
   ],
   "version": {
-    "major": 12,
+    "major": 13,
     "minor": 0,
-    "patch": 1
+    "patch": 0
   }
 }
