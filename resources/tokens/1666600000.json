@@ -4,23 +4,15 @@
   "keywords": [
     "defi"
   ],
-  "timestamp": "2025-05-01T08:00:08.027+00:00",
+  "timestamp": "2025-05-14T09:00:06.750+00:00",
   "tokens": [
     {
       "chainId": 1666600000,
-      "address": "0xd74433b187cf0ba998ad9be3486b929c76815215",
-      "name": "Artemis",
-      "symbol": "MIS",
+      "address": "0x9b68bf4bf89c115c721105eaf6bd5164afcc51e4",
+      "name": "GameFi Crossing",
+      "symbol": "XYA",
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/18916/thumb/136704691-920ef315-4906-4a82-bca1-144b07dea3fb.png?1696518373"
-    },
-    {
-      "chainId": 1666600000,
-      "address": "0xef977d2f931c1978db5f6747666fa1eacb0d0339",
-      "name": "Harmony Horizon Bridged DAI  Harmony Sh",
-      "symbol": "DAI",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/39789/thumb/dai.png?1724111370"
+      "logoURI": "https://assets.coingecko.com/coins/images/17017/thumb/logo_gfx.png?1696516581"
     },
     {
       "chainId": 1666600000,
@@ -32,27 +24,27 @@
     },
     {
       "chainId": 1666600000,
-      "address": "0x4f529873288668815d66eda11314f719b23dd846",
-      "name": "CougarSwap",
-      "symbol": "CGS",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/19402/thumb/logo.png?1696518842"
-    },
-    {
-      "chainId": 1666600000,
-      "address": "0x6983d1e6def3690c4d616b13597a09e6193ea013",
-      "name": "Harmony Horizon Bridged cETH  Harmony S",
-      "symbol": "1ETH",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/39710/thumb/WETH.PNG?1723730735"
-    },
-    {
-      "chainId": 1666600000,
       "address": "0x09e6e20ff399c2134c14232e172ce8ba2b03017e",
       "name": "Kilopi",
       "symbol": "LOP",
       "decimals": 6,
       "logoURI": "https://assets.coingecko.com/coins/images/29496/thumb/logo_kilopi_200sq.png?1696528442"
+    },
+    {
+      "chainId": 1666600000,
+      "address": "0x985458e523db3d53125813ed68c274899e9dfab4",
+      "name": "Harmony Horizen Bridged USDC  Harmony ",
+      "symbol": "USDC",
+      "decimals": 6,
+      "logoURI": "https://assets.coingecko.com/coins/images/35224/thumb/USDC.jpg?1707920252"
+    },
+    {
+      "chainId": 1666600000,
+      "address": "0xd74433b187cf0ba998ad9be3486b929c76815215",
+      "name": "Artemis",
+      "symbol": "MIS",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/18916/thumb/136704691-920ef315-4906-4a82-bca1-144b07dea3fb.png?1696518373"
     },
     {
       "chainId": 1666600000,
@@ -72,11 +64,19 @@
     },
     {
       "chainId": 1666600000,
-      "address": "0xcf1709ad76a79d5a60210f23e81ce2460542a836",
-      "name": "Tranquil Finance",
-      "symbol": "TRANQ",
+      "address": "0x4f529873288668815d66eda11314f719b23dd846",
+      "name": "CougarSwap",
+      "symbol": "CGS",
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/18708/thumb/tranquil.png?1696518176"
+      "logoURI": "https://assets.coingecko.com/coins/images/19402/thumb/logo.png?1696518842"
+    },
+    {
+      "chainId": 1666600000,
+      "address": "0x673d2ec54e0a6580fc7e098295b70e3ce0350d03",
+      "name": "Bridged WBNB",
+      "symbol": "WBNB",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/53070/thumb/wrapped_bnb.png?1735264554"
     },
     {
       "chainId": 1666600000,
@@ -96,11 +96,27 @@
     },
     {
       "chainId": 1666600000,
-      "address": "0x673d2ec54e0a6580fc7e098295b70e3ce0350d03",
-      "name": "Bridged WBNB",
-      "symbol": "WBNB",
+      "address": "0x2dae9ac8e3195715f308b59e7e9326f115ab4d98",
+      "name": "Speed Star SPEED",
+      "symbol": "SPEED",
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/53070/thumb/wrapped_bnb.png?1735264554"
+      "logoURI": "https://assets.coingecko.com/coins/images/24983/thumb/f2zOnAa4_400x400.jpg?1696524136"
+    },
+    {
+      "chainId": 1666600000,
+      "address": "0x6983d1e6def3690c4d616b13597a09e6193ea013",
+      "name": "Harmony Horizon Bridged cETH  Harmony S",
+      "symbol": "1ETH",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/39710/thumb/WETH.PNG?1723730735"
+    },
+    {
+      "chainId": 1666600000,
+      "address": "0xef977d2f931c1978db5f6747666fa1eacb0d0339",
+      "name": "Harmony Horizon Bridged DAI  Harmony Sh",
+      "symbol": "DAI",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/39789/thumb/dai.png?1724111370"
     },
     {
       "chainId": 1666600000,
@@ -111,27 +127,11 @@
     },
     {
       "chainId": 1666600000,
-      "address": "0x9b68bf4bf89c115c721105eaf6bd5164afcc51e4",
-      "name": "GameFi Crossing",
-      "symbol": "XYA",
+      "address": "0xcf1709ad76a79d5a60210f23e81ce2460542a836",
+      "name": "Tranquil Finance",
+      "symbol": "TRANQ",
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/17017/thumb/logo_gfx.png?1696516581"
-    },
-    {
-      "chainId": 1666600000,
-      "address": "0x985458e523db3d53125813ed68c274899e9dfab4",
-      "name": "Harmony Horizen Bridged USDC  Harmony ",
-      "symbol": "USDC",
-      "decimals": 6,
-      "logoURI": "https://assets.coingecko.com/coins/images/35224/thumb/USDC.jpg?1707920252"
-    },
-    {
-      "chainId": 1666600000,
-      "address": "0x2dae9ac8e3195715f308b59e7e9326f115ab4d98",
-      "name": "Speed Star SPEED",
-      "symbol": "SPEED",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/24983/thumb/f2zOnAa4_400x400.jpg?1696524136"
+      "logoURI": "https://assets.coingecko.com/coins/images/18708/thumb/tranquil.png?1696518176"
     },
     {
       "chainId": 1666600000,
@@ -711,14 +711,6 @@
     },
     {
       "chainId": 1666600000,
-      "address": "0x1affbc17938a25d245e1b7ec6f2fc949df8e9760",
-      "name": "Paper",
-      "symbol": "PAPER",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/23510/thumb/v3PAPERLogo-01.png?1696522719"
-    },
-    {
-      "chainId": 1666600000,
       "address": "0xcad5937a790541ba912542d81fcf36d75fbf7dd7",
       "name": "Minato",
       "symbol": "MNTO",
@@ -743,8 +735,8 @@
     }
   ],
   "version": {
-    "major": 17,
+    "major": 18,
     "minor": 0,
-    "patch": 3
+    "patch": 0
   }
 }
