@@ -12727,6 +12727,14 @@
     }
   },
   {
+    "id": "banned",
+    "symbol": "banned",
+    "name": "BANNED",
+    "platforms": {
+      "solana": "EecSMXvvhszENGs7SAWMejLgBHBAhCvkMDWY88JR7hog"
+    }
+  },
+  {
     "id": "banque-universal",
     "symbol": "cbu",
     "name": "Banque Universal",
@@ -21515,6 +21523,14 @@
     }
   },
   {
+    "id": "brokecoin",
+    "symbol": "broke",
+    "name": "Brokecoin",
+    "platforms": {
+      "solana": "Ga4oZoNRLkZkruJpS8NLwa8DJCwKP9hbTBSNDQZ9V43v"
+    }
+  },
+  {
     "id": "brokie-ai",
     "symbol": "$brokie",
     "name": "BROKIE AI",
@@ -30011,6 +30027,14 @@
     "name": "Creator Buddy",
     "platforms": {
       "solana": "65svCEvM4HdBHXKDxfhjm3yw1A6mKXkdS6HXWXDQTSNA"
+    }
+  },
+  {
+    "id": "creatorgen",
+    "symbol": "creator",
+    "name": "CreatorGen",
+    "platforms": {
+      "solana": "VTaqS4G29U5UUfYbXwzPjK4sDPcswuKZfMY34DbsGqb"
     }
   },
   {
@@ -38590,6 +38614,12 @@
     "platforms": {
       "sui": "0x418879f4f7037e40e31d0887ec0a080e6659472bc2a8408a38e153741ea9d1e0::dola::DOLA"
     }
+  },
+  {
+    "id": "dolr-ai",
+    "symbol": "dolr",
+    "name": "DOLR AI",
+    "platforms": {}
   },
   {
     "id": "dolz-io",
@@ -56115,6 +56145,14 @@
     }
   },
   {
+    "id": "helder",
+    "symbol": "helder",
+    "name": "Helder",
+    "platforms": {
+      "binance-smart-chain": "0x1446acc4d5c0d195457568dd4fd5fc8dc5c4bfdd"
+    }
+  },
+  {
     "id": "helga-inu",
     "symbol": "helga",
     "name": "Helga Inu",
@@ -71559,6 +71597,14 @@
     }
   },
   {
+    "id": "ludus",
+    "symbol": "ludus",
+    "name": "Ludus",
+    "platforms": {
+      "ethereum": "0x24ace0aa510a4cf8d892e70d538001f84f5b5f3a"
+    }
+  },
+  {
     "id": "ludwig",
     "symbol": "ludwig",
     "name": "LUDWIG",
@@ -84356,6 +84402,14 @@
     }
   },
   {
+    "id": "ninjachat",
+    "symbol": "ninja",
+    "name": "NinjaChat AI",
+    "platforms": {
+      "solana": "EcvEmnCB739WLj343QxX8YwquPCwzeEYeaRZfaKN2e4o"
+    }
+  },
+  {
     "id": "ninja-protocol",
     "symbol": "ninja",
     "name": "Ninja Protocol",
@@ -92147,6 +92201,14 @@
     "symbol": "stkxprt",
     "name": "pSTAKE Staked XPRT",
     "platforms": {}
+  },
+  {
+    "id": "persoa-ai",
+    "symbol": "persoa",
+    "name": "Persoa.ai",
+    "platforms": {
+      "solana": "5QvAeS2Un6ZoNjyKthGYo2ZpbcVP3diTMejyA48NEHTE"
+    }
   },
   {
     "id": "perspective-ai-by-virtuals",
@@ -113639,6 +113701,14 @@
     }
   },
   {
+    "id": "startup",
+    "symbol": "startup",
+    "name": "Startup",
+    "platforms": {
+      "solana": "97PVGU2DzFqsAWaYU17ZBqGvQFmkqtdMywYBNPAfy8vy"
+    }
+  },
+  {
     "id": "star-wars-cat",
     "symbol": "swcat",
     "name": "Star Wars Cat",
@@ -115833,6 +115903,14 @@
     "name": "SuperFlare",
     "platforms": {
       "flare-network": "0x5701113457375f8e78e46238533a27ba3e375d76"
+    }
+  },
+  {
+    "id": "superfriend",
+    "symbol": "supfriend",
+    "name": "Superfriend",
+    "platforms": {
+      "solana": "GcmsHHG41giJYACYKrdxZp3kdKMZfg1UB7LaYzCzPxLJ"
     }
   },
   {
@@ -131583,6 +131661,30 @@
     }
   },
   {
+    "id": "wrapped-abbott-xstock",
+    "symbol": "wabtx",
+    "name": "Wrapped Abbott xStock",
+    "platforms": {
+      "arbitrum-one": "0xd812b37181ae89801e4bb3f49e4c1faf11fc0b57"
+    }
+  },
+  {
+    "id": "wrapped-abbvie-xstock",
+    "symbol": "wabbvx",
+    "name": "Wrapped AbbVie xStock",
+    "platforms": {
+      "arbitrum-one": "0x5cc079963fb70c0f987f65f539e3b61a6ebdf6db"
+    }
+  },
+  {
+    "id": "wrapped-accenture-xstock",
+    "symbol": "wacnx",
+    "name": "Wrapped Accenture xStock",
+    "platforms": {
+      "arbitrum-one": "0xc262bea18cb810cc7715ee48fe3cbd3d79b4afe1"
+    }
+  },
+  {
     "id": "wrapped-accumulate",
     "symbol": "wacme",
     "name": "Wrapped Accumulate",
@@ -131650,6 +131752,14 @@
     }
   },
   {
+    "id": "wrapped-amazon-xstock",
+    "symbol": "wamznx",
+    "name": "Wrapped Amazon xStock",
+    "platforms": {
+      "arbitrum-one": "0xac85d37acbadca37545e21ab0fb991bce8c1187c"
+    }
+  },
+  {
     "id": "wrapped-ampleforth",
     "symbol": "wampl",
     "name": "Wrapped Ampleforth",
@@ -131680,6 +131790,22 @@
     "name": "Wrapped Apollon Limassol (Kayen)",
     "platforms": {
       "chiliz": "0xe265db1ebee1487ea6eba7ed9fdcecc8010c8e98"
+    }
+  },
+  {
+    "id": "wrapped-apple-xstock",
+    "symbol": "waaplx",
+    "name": "Wrapped Apple xStock",
+    "platforms": {
+      "arbitrum-one": "0x5aa7649fdbda47de64a07ac81d64b682af9c0724"
+    }
+  },
+  {
+    "id": "wrapped-applovin-xstock",
+    "symbol": "wappx",
+    "name": "Wrapped AppLovin xStock",
+    "platforms": {
+      "arbitrum-one": "0xd17e483364d849e3b3a52464bb2ca56626edfc31"
     }
   },
   {
@@ -131779,6 +131905,14 @@
     }
   },
   {
+    "id": "wrapped-astrazeneca-xstock",
+    "symbol": "waznx",
+    "name": "Wrapped AstraZeneca xStock",
+    "platforms": {
+      "arbitrum-one": "0xb908feaeab7e671db697d77c3acfd8859e92a4e2"
+    }
+  },
+  {
     "id": "wrapped-atlas-fc-kayen",
     "symbol": "watlas",
     "name": "Wrapped Atlas FC (Kayen)",
@@ -131869,6 +132003,14 @@
     }
   },
   {
+    "id": "wrapped-bank-of-america-xstock",
+    "symbol": "wbacx",
+    "name": "Wrapped Bank of America xStock",
+    "platforms": {
+      "arbitrum-one": "0xa2b1335256cd663da89f650180508dd1f0dc3baa"
+    }
+  },
+  {
     "id": "wrapped-basedoge",
     "symbol": "wbasedoge",
     "name": "Wrapped BaseDOGE",
@@ -131928,6 +132070,14 @@
     "name": "Wrapped Berachain (Universal)",
     "platforms": {
       "base": "0x544f87a5aa41fcd725ef7c78a37cd9c1c4ba1650"
+    }
+  },
+  {
+    "id": "wrapped-berkshire-hathaway-xstock",
+    "symbol": "wbrk.bx",
+    "name": "Wrapped Berkshire Hathaway xStock",
+    "platforms": {
+      "arbitrum-one": "0xa150245f155778e749185c9446e9e59e406674ef"
     }
   },
   {
@@ -132119,6 +132269,14 @@
     }
   },
   {
+    "id": "wrapped-broadcom-xstock",
+    "symbol": "wavgox",
+    "name": "Wrapped Broadcom xStock",
+    "platforms": {
+      "arbitrum-one": "0x8deb752aaa807e0258afd5ccffe2b5a804026f28"
+    }
+  },
+  {
     "id": "wrapped-bsc-young-boys-kayen",
     "symbol": "wybo",
     "name": "Wrapped BSC Young Boys (Kayen)",
@@ -132241,6 +132399,14 @@
     }
   },
   {
+    "id": "wrapped-cisco-xstock",
+    "symbol": "wcscox",
+    "name": "Wrapped Cisco xStock",
+    "platforms": {
+      "arbitrum-one": "0xcfa485bc42c2492917351f89f5cf5c7b2c5a66aa"
+    }
+  },
+  {
     "id": "wrapped-ckb",
     "symbol": "wckb",
     "name": "Wrapped CKB",
@@ -132278,6 +132444,22 @@
     "name": "Wrapped Club Tigres UANL (Kayen)",
     "platforms": {
       "chiliz": "0x2ea082e1053f05effeb8e28c350fa0ff8fe78538"
+    }
+  },
+  {
+    "id": "wrapped-coinbase-xstock",
+    "symbol": "wcoinx",
+    "name": "Wrapped Coinbase xStock",
+    "platforms": {
+      "arbitrum-one": "0x3a98e79cdc7d8b2716a8696e25af028e429f11da"
+    }
+  },
+  {
+    "id": "wrapped-comcast-xstock",
+    "symbol": "wcmcsax",
+    "name": "Wrapped Comcast xStock",
+    "platforms": {
+      "arbitrum-one": "0xd1a01e3f9c7565e88b1cf2413ba0a0e671e57b33"
     }
   },
   {
@@ -132330,6 +132512,14 @@
     "name": "Wrapped Cronos (Universal)",
     "platforms": {
       "base": "0xf653e8b6fcbd2a63246c6b7722d1e9d819611241"
+    }
+  },
+  {
+    "id": "wrapped-crowdstrike-xstock",
+    "symbol": "wcrwdx",
+    "name": "Wrapped CrowdStrike xStock",
+    "platforms": {
+      "arbitrum-one": "0xd71a6adbc40c2674591cdb11b8c7ae03a880b06e"
     }
   },
   {
@@ -133315,6 +133505,14 @@
     }
   },
   {
+    "id": "wrapped-nvidia-xstock",
+    "symbol": "wnvdax",
+    "name": "Wrapped NVIDIA xStock",
+    "platforms": {
+      "arbitrum-one": "0x93e62845c1dd5822ebc807ab71a5fb750decd15a"
+    }
+  },
+  {
     "id": "wrapped-nxm",
     "symbol": "wnxm",
     "name": "Wrapped NXM",
@@ -133579,6 +133777,14 @@
     "name": "Wrapped SAGA",
     "platforms": {
       "saga": "0xa19377761fed745723b90993988e04d641c2cffe"
+    }
+  },
+  {
+    "id": "wrapped-salesforce-xstock",
+    "symbol": "wcrmx",
+    "name": "Wrapped Salesforce xStock",
+    "platforms": {
+      "arbitrum-one": "0xc6b6b8d50a6673c04c495e30b411da5a7adf39f5"
     }
   },
   {
@@ -135858,6 +136064,14 @@
     "name": "yap",
     "platforms": {
       "solana": "3gcdoCBQMKAFVopsQ377X7JhkcNPg9fwPY4eW46Apump"
+    }
+  },
+  {
+    "id": "yapper",
+    "symbol": "yapper",
+    "name": "Yapper",
+    "platforms": {
+      "solana": "H1aoUqmp2vJu5o8w3o8LjrN6jKyWErS69PtYxGhfoXxf"
     }
   },
   {
