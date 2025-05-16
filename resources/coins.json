@@ -9541,14 +9541,6 @@
     "platforms": {}
   },
   {
-    "id": "athens",
-    "symbol": "ath",
-    "name": "Athens",
-    "platforms": {
-      "ethereum": "0x2f9411088cef82fd9fb904eb8092f28eb485c8f6"
-    }
-  },
-  {
     "id": "atlam",
     "symbol": "atlam",
     "name": "ATLAM",
@@ -19042,6 +19034,14 @@
     "name": "Bomb Crypto (BNB)",
     "platforms": {
       "binance-smart-chain": "0x00e1656e45f18ec6747f5a8496fd39b50b38396d"
+    }
+  },
+  {
+    "id": "bomberronin",
+    "symbol": "bomb",
+    "name": "Bomber Ronin",
+    "platforms": {
+      "ronin": "0xe06e0494b32752a28379ece6607739464c56c62f"
     }
   },
   {
@@ -34326,14 +34326,6 @@
     }
   },
   {
-    "id": "degenlayer",
-    "symbol": "delay",
-    "name": "DegenLayer",
-    "platforms": {
-      "ethereum": "0x40d4e93b888d5ee9ec61a29a018b199070ffc280"
-    }
-  },
-  {
     "id": "degenos",
     "symbol": "degenos",
     "name": "degenOS",
@@ -39778,7 +39770,7 @@
   {
     "id": "drx",
     "symbol": "drx",
-    "name": "DRX",
+    "name": "DRX Token",
     "platforms": {
       "ethereum": "0x83f4389ccce1cc044dd7441add33c4f28b967434"
     }
@@ -69899,7 +69891,7 @@
   },
   {
     "id": "liquidium-token",
-    "symbol": "liquidium",
+    "symbol": "liq",
     "name": "LIQUIDIUM•TOKEN (Runes)",
     "platforms": {
       "ordinals": "840010:907"
@@ -84551,6 +84543,14 @@
     }
   },
   {
+    "id": "niyoko-by-virtuals",
+    "symbol": "nyko",
+    "name": "NIYOKO by Virtuals",
+    "platforms": {
+      "base": "0x129966d7d25775b57e3c5b13b2e1c2045fbc4926"
+    }
+  },
+  {
     "id": "niza-global",
     "symbol": "niza",
     "name": "Niza Global",
@@ -90693,6 +90693,14 @@
     "symbol": "pci",
     "name": "Paycoin",
     "platforms": {}
+  },
+  {
+    "id": "paydon",
+    "symbol": "don",
+    "name": "Paydon",
+    "platforms": {
+      "polkadot": "50000111"
+    }
   },
   {
     "id": "payfi-strategy-token",
@@ -99484,7 +99492,9 @@
     "id": "reactive-network",
     "symbol": "react",
     "name": "Reactive Network",
-    "platforms": {}
+    "platforms": {
+      "ethereum": "0x817162975186d4d53dbf5a7377dd45376e2d2fc5"
+    }
   },
   {
     "id": "reactor-3",
@@ -114255,7 +114265,7 @@
   {
     "id": "stick-on-kaspa",
     "symbol": "stick",
-    "name": "Stick on Kaspa",
+    "name": "Stick",
     "platforms": {}
   },
   {
@@ -126230,6 +126240,7 @@
     "name": "Vanar Chain",
     "platforms": {
       "ethereum": "0x8de5b80a0c1b02fe4976851d030b36122dbb8624",
+      "vanar-chain": "0x8de5b80a0c1b02fe4976851d030b36122dbb8624",
       "polygon-pos": "0x8de5b80a0c1b02fe4976851d030b36122dbb8624"
     }
   },
@@ -131808,6 +131819,14 @@
     }
   },
   {
+    "id": "wrapped-alphabet-xstock",
+    "symbol": "wgooglx",
+    "name": "Wrapped Alphabet xStock",
+    "platforms": {
+      "arbitrum-one": "0x1630f08370917e79df0b7572395a5e907508bbbc"
+    }
+  },
+  {
     "id": "wrapped-amazon-xstock",
     "symbol": "wamznx",
     "name": "Wrapped Amazon xStock",
@@ -132439,6 +132458,14 @@
     }
   },
   {
+    "id": "wrapped-chevron-xstock",
+    "symbol": "wcvxx",
+    "name": "Wrapped Chevron xStock",
+    "platforms": {
+      "arbitrum-one": "0x7f88888b7a81546a036554aa67a289ea428b20d4"
+    }
+  },
+  {
     "id": "wrapped-chiliz-kayen",
     "symbol": "wchz",
     "name": "Wrapped Chiliz (Kayen)",
@@ -132500,6 +132527,14 @@
     "name": "Wrapped Club Tigres UANL (Kayen)",
     "platforms": {
       "chiliz": "0x2ea082e1053f05effeb8e28c350fa0ff8fe78538"
+    }
+  },
+  {
+    "id": "wrapped-coca-cola-xstock",
+    "symbol": "wkox",
+    "name": "Wrapped Coca-Cola xStock",
+    "platforms": {
+      "arbitrum-one": "0x9a2486fbe7bc17c9100be65c31abe7c9bf84c23c"
     }
   },
   {
@@ -132633,6 +132668,14 @@
     }
   },
   {
+    "id": "wrapped-danaher-xstock",
+    "symbol": "wdhrx",
+    "name": "Wrapped Danaher xStock",
+    "platforms": {
+      "arbitrum-one": "0x6c7ad1886a6da37766fed060d5f08ff43285dcdd"
+    }
+  },
+  {
     "id": "wrapped-davis-cup-kayen",
     "symbol": "wdavis",
     "name": "Wrapped Davis Cup (Kayen)",
@@ -132728,6 +132771,14 @@
     "name": "Wrapped Electroneum",
     "platforms": {
       "electroneum": "0x138dafbda0ccb3d8e39c19edb0510fc31b7c1c77"
+    }
+  },
+  {
+    "id": "wrapped-eli-lilly-xstock",
+    "symbol": "wllyx",
+    "name": "Wrapped Eli Lilly xStock",
+    "platforms": {
+      "arbitrum-one": "0x3644971a7e971f60e707f7e8716ccac5a0461290"
     }
   },
   {
@@ -133073,6 +133124,14 @@
     }
   },
   {
+    "id": "wrapped-gamestop-xstock",
+    "symbol": "wgmex",
+    "name": "Wrapped Gamestop xStock",
+    "platforms": {
+      "arbitrum-one": "0xb2f6ed0ed3eeb22bef7a648794ffc19b8af3761c"
+    }
+  },
+  {
     "id": "wrapped-gaziantep-f-k-kayen",
     "symbol": "wgfk",
     "name": "Wrapped Gaziantep F.K (Kayen)",
@@ -133102,6 +133161,14 @@
     "name": "Wrapped GLQ",
     "platforms": {
       "graphlinq-chain": "0xeb567ec41738c2bab2599a1070fc5b727721b3b6"
+    }
+  },
+  {
+    "id": "wrapped-goldman-sachs-xstock",
+    "symbol": "wgsx",
+    "name": "Wrapped Goldman Sachs xStock",
+    "platforms": {
+      "arbitrum-one": "0x6eed78e2780d82be4e37d9937c27bcf32c8da072"
     }
   },
   {
@@ -133161,6 +133228,22 @@
     }
   },
   {
+    "id": "wrapped-home-depot-xstock",
+    "symbol": "whdx",
+    "name": "Wrapped Home Depot xStock",
+    "platforms": {
+      "arbitrum-one": "0xc641e2ebf6e076e2ae53477c2e725b3c67c0fd94"
+    }
+  },
+  {
+    "id": "wrapped-honeywell-xstock",
+    "symbol": "whonx",
+    "name": "Wrapped Honeywell xStock",
+    "platforms": {
+      "arbitrum-one": "0xbd1b73b2e89967e83507b500d798998200a53380"
+    }
+  },
+  {
     "id": "wrapped-hype",
     "symbol": "whype",
     "name": "Wrapped HYPE",
@@ -133185,11 +133268,27 @@
     }
   },
   {
+    "id": "wrapped-intel-xstock",
+    "symbol": "wintcx",
+    "name": "Wrapped Intel xStock",
+    "platforms": {
+      "arbitrum-one": "0x6a2a68ca7fc793d8cea36326a6ec1ef7ac3d9742"
+    }
+  },
+  {
     "id": "wrapped-inter-milan-kayen",
     "symbol": "winter",
     "name": "Wrapped Inter Milan (Kayen)",
     "platforms": {
       "chiliz": "0xc587cf9ff27d7722ff4a3063abaff81551803730"
+    }
+  },
+  {
+    "id": "wrapped-international-business-machines-xstock",
+    "symbol": "wibmx",
+    "name": "Wrapped International Business Machines xStock",
+    "platforms": {
+      "arbitrum-one": "0xa8f31436ffe4e71f51b2d65b7d5a5c457ae2000f"
     }
   },
   {
@@ -133240,6 +133339,14 @@
     "platforms": {}
   },
   {
+    "id": "wrapped-johnson-johnson-xstock",
+    "symbol": "wjnjx",
+    "name": "Wrapped Johnson & Johnson xStock",
+    "platforms": {
+      "arbitrum-one": "0xcdb53a7cba9ec6d55dfe8f58bd6772826722d7bd"
+    }
+  },
+  {
     "id": "wrapped-johor-southern-tigers-kayen",
     "symbol": "wjdt",
     "name": "Wrapped JOHOR Southern Tigers (Kayen)",
@@ -133253,6 +133360,14 @@
     "name": "Wrapped Jones AURA",
     "platforms": {
       "ethereum": "0x198d7387fa97a73f05b8578cdeff8f2a1f34cd1f"
+    }
+  },
+  {
+    "id": "wrapped-jpmorgan-chase-xstock",
+    "symbol": "wjpmx",
+    "name": "Wrapped JPMorgan Chase xStock",
+    "platforms": {
+      "arbitrum-one": "0xab635f839f81a12dc8db8ab31006af14e26292fe"
     }
   },
   {
@@ -133340,6 +133455,14 @@
     }
   },
   {
+    "id": "wrapped-linde-xstock",
+    "symbol": "wlinx",
+    "name": "Wrapped Linde xStock",
+    "platforms": {
+      "arbitrum-one": "0x316ffea434348c2cb72024e62ae845770315351e"
+    }
+  },
+  {
     "id": "wrapped-lrs",
     "symbol": "wlrs",
     "name": "Wrapped LRS",
@@ -133402,6 +133525,14 @@
     }
   },
   {
+    "id": "wrapped-marvell-xstock",
+    "symbol": "wmrvlx",
+    "name": "Wrapped Marvell xStock",
+    "platforms": {
+      "arbitrum-one": "0x0d6fce45796d5c00689c0916b976645a0ff1f0ce"
+    }
+  },
+  {
     "id": "wrapped-massa",
     "symbol": "wmas",
     "name": "Wrapped Massa",
@@ -133410,11 +133541,35 @@
     }
   },
   {
+    "id": "wrapped-mastercard-xstock",
+    "symbol": "wmax",
+    "name": "Wrapped Mastercard xStock",
+    "platforms": {
+      "arbitrum-one": "0x5b32624f352d2fc6cc70889967a143ba1814f82b"
+    }
+  },
+  {
     "id": "wrappedm-by-m0",
     "symbol": "wm",
     "name": "WrappedM by M^0",
     "platforms": {
       "ethereum": "0x437cc33344a0b27a429f795ff6b469c72698b291"
+    }
+  },
+  {
+    "id": "wrapped-mcdonald-s-xstock",
+    "symbol": "wmcdx",
+    "name": "Wrapped McDonald's xStock",
+    "platforms": {
+      "arbitrum-one": "0x1717d8be2bcb27f4e8f36c817088fa6a2c0b3b30"
+    }
+  },
+  {
+    "id": "wrapped-medtronic-xstock",
+    "symbol": "wmdtx",
+    "name": "Wrapped Medtronic xStock",
+    "platforms": {
+      "arbitrum-one": "0x02c1b10e5329c4502469396b2ce9f200e60b4a77"
     }
   },
   {
@@ -133429,11 +133584,43 @@
     }
   },
   {
+    "id": "wrapped-merck-xstock",
+    "symbol": "wmrkx",
+    "name": "Wrapped Merck xStock",
+    "platforms": {
+      "arbitrum-one": "0x4728e48c2c201e32fe210aab68a71e419feac74a"
+    }
+  },
+  {
     "id": "wrapped-merit-circle",
     "symbol": "wbeam",
     "name": "Wrapped BEAM",
     "platforms": {
       "beam": "0xd51bfa777609213a653a2cd067c9a0132a2d316a"
+    }
+  },
+  {
+    "id": "wrapped-meta-xstock",
+    "symbol": "wmetax",
+    "name": "Wrapped Meta xStock",
+    "platforms": {
+      "arbitrum-one": "0x4e41a262caa93c6575d336e0a4eb79f3c67caa06"
+    }
+  },
+  {
+    "id": "wrapped-microsoft-xstock",
+    "symbol": "wmsftx",
+    "name": "Wrapped Microsoft xStock",
+    "platforms": {
+      "arbitrum-one": "0x63ad27614231767c8c489745b9145272de50d09b"
+    }
+  },
+  {
+    "id": "wrapped-microstrategy-xstock",
+    "symbol": "wmstrx",
+    "name": "Wrapped MicroStrategy xStock",
+    "platforms": {
+      "arbitrum-one": "0x266e5923f6118f8b340ca5a23ae7f71897361476"
     }
   },
   {
@@ -133537,6 +133724,14 @@
     }
   },
   {
+    "id": "wrapped-netflix-xstock",
+    "symbol": "wnflxx",
+    "name": "Wrapped Netflix xStock",
+    "platforms": {
+      "arbitrum-one": "0xfe0d2545f9e7f3678cb35ed3cdf70488c5570d11"
+    }
+  },
+  {
     "id": "wrapped-netz",
     "symbol": "wnetz",
     "name": "Wrapped NETZ",
@@ -133558,6 +133753,14 @@
     "name": "Wrapped Novara Calcio (Kayen)",
     "platforms": {
       "chiliz": "0x5667ddd9764d1873d7a1bc15bc091a8b8a88ef1d"
+    }
+  },
+  {
+    "id": "wrapped-novo-nordisk-xstock",
+    "symbol": "wnvox",
+    "name": "Wrapped Novo Nordisk xStock",
+    "platforms": {
+      "arbitrum-one": "0x16e443aebc83e2089aa90431a1c0d311854eec69"
     }
   },
   {
@@ -133644,11 +133847,27 @@
     }
   },
   {
+    "id": "wrapped-oracle-xstock",
+    "symbol": "worclx",
+    "name": "Wrapped Oracle xStock",
+    "platforms": {
+      "arbitrum-one": "0x54f34ceb15313caaee838f77c1c3c2fe2e94526a"
+    }
+  },
+  {
     "id": "wrapped-ousd",
     "symbol": "wousd",
     "name": "Wrapped OUSD",
     "platforms": {
       "ethereum": "0xd2af830e8cbdfed6cc11bab697bb25496ed6fa62"
+    }
+  },
+  {
+    "id": "wrapped-palantir-xstock",
+    "symbol": "wpltrx",
+    "name": "Wrapped Palantir xStock",
+    "platforms": {
+      "arbitrum-one": "0xa3b6fe1a923585bb828fcfaa460b78eefd5ae2ec"
     }
   },
   {
@@ -133668,6 +133887,14 @@
     }
   },
   {
+    "id": "wrapped-pepsico-xstock",
+    "symbol": "wpepx",
+    "name": "Wrapped PepsiCo xStock",
+    "platforms": {
+      "arbitrum-one": "0xa00a5538708b5aca7045f2ca15104707965bac94"
+    }
+  },
+  {
     "id": "wrapped-persatuan-sepakbola-indonesia-bandung-kayen",
     "symbol": "wpersib",
     "name": "Wrapped Persatuan Sepakbola Indonesia Bandung (Kayen)",
@@ -133684,6 +133911,22 @@
     }
   },
   {
+    "id": "wrapped-pfizer-xstock",
+    "symbol": "wpfex",
+    "name": "Wrapped Pfizer xStock",
+    "platforms": {
+      "arbitrum-one": "0x4e6894c3481b3a45393ce8ac9552945ad50a3758"
+    }
+  },
+  {
+    "id": "wrapped-philip-morris-xstock",
+    "symbol": "wpmx",
+    "name": "Wrapped Philip Morris xStock",
+    "platforms": {
+      "arbitrum-one": "0x7c2e00e6b0d519a8c492d20c2524342a4398ff34"
+    }
+  },
+  {
     "id": "wrapped-pokt",
     "symbol": "wpokt",
     "name": "Wrapped POKT",
@@ -133697,6 +133940,14 @@
     "name": "Wrapped Portugal National Team (Kayen)",
     "platforms": {
       "chiliz": "0x804c701c3d548d68773e4e06c76c03afa0e32d42"
+    }
+  },
+  {
+    "id": "wrapped-procter-gamble-xstock",
+    "symbol": "wpgx",
+    "name": "Wrapped Procter & Gamble xStock",
+    "platforms": {
+      "arbitrum-one": "0x0afc19943fa98e9e9e90fc4ab4d4d3c13e162232"
     }
   },
   {
@@ -133769,6 +134020,14 @@
     "name": "Wrapped Real Sociedad (Kayen)",
     "platforms": {
       "chiliz": "0xef571542dcf394da8b5190f75a20dacc07fac741"
+    }
+  },
+  {
+    "id": "wrapped-robinhood-xstock",
+    "symbol": "whoodx",
+    "name": "Wrapped Robinhood xStock",
+    "platforms": {
+      "arbitrum-one": "0x953707d7a1cb30cc5c636bda8eaebe410341eb14"
     }
   },
   {
@@ -134106,6 +134365,22 @@
     }
   },
   {
+    "id": "wrapped-tesla-xstock",
+    "symbol": "wtslax",
+    "name": "Wrapped Tesla xStock",
+    "platforms": {
+      "arbitrum-one": "0x43680abf18cf54898be84c6ef78237cfbd441883"
+    }
+  },
+  {
+    "id": "wrapped-thermo-fisher-xstock",
+    "symbol": "wtmox",
+    "name": "Wrapped Thermo Fisher xStock",
+    "platforms": {
+      "arbitrum-one": "0x89ea0284308deef33a22abd7ea33888b4349108c"
+    }
+  },
+  {
     "id": "wrapped-the-sharks-kayen",
     "symbol": "wsharks",
     "name": "Wrapped The Sharks (Kayen)",
@@ -134186,6 +134461,14 @@
     "name": "Wrapped Unit0",
     "platforms": {
       "units-network": "0xcf43f7703d9b4e8835f977ef364b4014fa7e856e"
+    }
+  },
+  {
+    "id": "wrapped-unitedhealth-xstock",
+    "symbol": "wunhx",
+    "name": "Wrapped UnitedHealth xStock",
+    "platforms": {
+      "arbitrum-one": "0xa0412ce46fe877b7f174b82acd95e70063bbaf2a"
     }
   },
   {
