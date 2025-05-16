@@ -4880,6 +4880,12 @@
     }
   },
   {
+    "id": "alaya-ai",
+    "symbol": "agt",
+    "name": "Alaya AI",
+    "platforms": {}
+  },
+  {
     "id": "albedo",
     "symbol": "albedo",
     "name": "ALBEDO",
@@ -105744,7 +105750,7 @@
   {
     "id": "sentio-protocol",
     "symbol": "sen",
-    "name": "Sentio Protocol",
+    "name": "Sentio AI",
     "platforms": {
       "ethereum": "0x421b05cf5ce28cb7347e73e2278e84472f0e4a88"
     }
@@ -132177,6 +132183,7 @@
     "name": "Wrapped Bitcoin",
     "platforms": {
       "ethereum": "0x2260fac5e5542a773aa44fbcfedf7c193bc2c599",
+      "solana": "5XZw2LKTyrfvfiskJ78AMpackRjPcyCif1WhUsPDuVqQ",
       "osmosis": "factory/osmo1z0qrq605sjgcqpylfl4aa6s90x738j7m58wyatt0tdzflg2ha26q67k743/wbtc"
     }
   },
@@ -135003,6 +135010,14 @@
       "ethereum": "0xeae00d6f9b16deb1bd584c7965e4c7d762f178a1",
       "arbitrum-one": "0x93fa0b88c0c78e45980fa74cdd87469311b7b3e4",
       "solana": "XBGdqJ9P175hCC1LangCEyXWNeCPHaKWA17tymz2PrY"
+    }
+  },
+  {
+    "id": "xbt",
+    "symbol": "xbt",
+    "name": "XBT",
+    "platforms": {
+      "solana": "A8YHuvQBMAxXoZAZE72FyC8B7jKHo8RJyByXRRffpump"
     }
   },
   {
