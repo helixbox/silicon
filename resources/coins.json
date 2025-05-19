@@ -7927,7 +7927,9 @@
     "id": "arbus",
     "symbol": "arbus",
     "name": "Arbus",
-    "platforms": {}
+    "platforms": {
+      "base": "0xbdc27118ca76b375c6887b0ff068afb03dfc21a0"
+    }
   },
   {
     "id": "arbuz",
@@ -84057,6 +84059,14 @@
     }
   },
   {
+    "id": "nexuschain",
+    "symbol": "nexus",
+    "name": "NexusChain",
+    "platforms": {
+      "ethereum": "0xa3e7aa0dcf8c7df9ee6d7bafadbaa7ee89ad2da2"
+    }
+  },
+  {
     "id": "nexus-dubai",
     "symbol": "nxd",
     "name": "Nexus Dubai",
@@ -135949,6 +135959,14 @@
     "platforms": {
       "ethereum": "0x24d7ad9402717f429a81925fe7643b78918eda8b",
       "base": "0xe4c3461a20f50dad7b9e88ca0222a255c4126fc0"
+    }
+  },
+  {
+    "id": "xitcoin",
+    "symbol": "$xtc",
+    "name": "Xitcoin",
+    "platforms": {
+      "cronos": "0xdd646291d2fff52c75f27ccdadd0d4c2a24f37dd"
     }
   },
   {
