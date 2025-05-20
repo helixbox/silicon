@@ -24967,8 +24967,16 @@
   {
     "id": "centrifuge",
     "symbol": "cfg",
-    "name": "Centrifuge",
+    "name": "Centrifuge [OLD]",
     "platforms": {}
+  },
+  {
+    "id": "centrifuge-2",
+    "symbol": "cfg",
+    "name": "Centrifuge",
+    "platforms": {
+      "ethereum": "0xcccccccccc33d538dbc2ee4feab0a7a1ff4e8a94"
+    }
   },
   {
     "id": "centurion-invest",
@@ -91594,6 +91602,14 @@
     "name": "Penguin Tariff",
     "platforms": {
       "solana": "4M4ypzyZA7Sp2weYEMfnWuJ6wBVpNaMgaGTanmTspump"
+    }
+  },
+  {
+    "id": "pengus-wife",
+    "symbol": "polly",
+    "name": "Pengus Wife",
+    "platforms": {
+      "abstract": "0x987cf44f3f5d854ec0703123d7fd003a8b56ebb4"
     }
   },
   {
