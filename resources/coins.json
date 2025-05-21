@@ -28542,6 +28542,14 @@
     }
   },
   {
+    "id": "commander",
+    "symbol": "cmdr",
+    "name": "Commander",
+    "platforms": {
+      "ronin": "0x60b65d6f275ce54a34a5bacad7a170fee55e8577"
+    }
+  },
+  {
     "id": "common",
     "symbol": "cmn",
     "name": "Common",
@@ -30546,14 +30554,6 @@
     }
   },
   {
-    "id": "cross",
-    "symbol": "cross",
-    "name": "CROSS",
-    "platforms": {
-      "binance-smart-chain": "0x6bf62ca91e397b5a7d1d6bce97d9092065d7a510"
-    }
-  },
-  {
     "id": "cross-chain-bridge",
     "symbol": "bridge",
     "name": "Cross-Chain Bridge",
@@ -31581,6 +31581,14 @@
     "name": "CSR",
     "platforms": {
       "ethereum": "0x75ecb52e403c617679fbd3e77a50f9d10a842387"
+    }
+  },
+  {
+    "id": "cswap",
+    "symbol": "cswap",
+    "name": "CSWAP",
+    "platforms": {
+      "cardano": "c863ceaa796d5429b526c336ab45016abd636859f331758e67204e5c"
     }
   },
   {
@@ -47584,14 +47592,6 @@
     "platforms": {
       "iota-evm": "0x30a1398cf11cb9e852e5d80ace7ffd5ec271169e",
       "base": "0x60833f3d219f52c0f694ad76a94d1aa06a63d64a"
-    }
-  },
-  {
-    "id": "fomoon",
-    "symbol": "fomoon",
-    "name": "FoMoon",
-    "platforms": {
-      "kasplex": "FOMOON"
     }
   },
   {
@@ -98965,14 +98965,6 @@
     }
   },
   {
-    "id": "qumva-network",
-    "symbol": "qmv",
-    "name": "Qumva Network",
-    "platforms": {
-      "the-open-network": "EQBUqHtbPkj-wW2IBZFdhxs_C11LpE4xb8Lc5UY64N2bJ0xI"
-    }
-  },
-  {
     "id": "quorium",
     "symbol": "qgold",
     "name": "Quorium",
@@ -115094,11 +115086,10 @@
   },
   {
     "id": "stp-network",
-    "symbol": "stpt",
-    "name": "STP",
+    "symbol": "awe",
+    "name": "AWE Network",
     "platforms": {
-      "ethereum": "0xde7d85157d9714eadf595045cc12ca4a5f3e2adb",
-      "base": "0x4489d0a0345ecb216a3994de780d453c7fa6312c"
+      "base": "0x1b4617734c43f6159f3a70b7e06d883647512778"
     }
   },
   {
@@ -136718,6 +136709,8 @@
     "name": "XSGD",
     "platforms": {
       "ethereum": "0x70e8de73ce538da2beed35d14187f6959a8eca96",
+      "arbitrum-one": "0xe333e7754a2dc1e020a162ecab019254b9dab653",
+      "xrp": "rK67JczCpaYXVtfw3qJVmqwpSfa1bYTptw",
       "hedera-hashgraph": "0x00000000000000000000000000000000001e4d82",
       "zilliqa": "zil180v66mlw007ltdv8tq5t240y7upwgf7djklmwh",
       "avalanche": "0xb2f85b7ab3c2b6f62df06de6ae7d09c010a5096e",
@@ -138004,14 +137997,6 @@
     "name": "Yukie",
     "platforms": {
       "solana": "EjTePVtuosSxn1bPbdk97WRZL7uVx6NYKDma6iMvpump"
-    }
-  },
-  {
-    "id": "yuko",
-    "symbol": "yuko",
-    "name": "YUKO",
-    "platforms": {
-      "base": "0x48de4b1826e83b77bcf62cb25bc30bd216d27745"
     }
   },
   {
