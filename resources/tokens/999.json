@@ -4,15 +4,15 @@
   "keywords": [
     "defi"
   ],
-  "timestamp": "2025-05-20T20:00:46.157+00:00",
+  "timestamp": "2025-05-21T20:00:45.325+00:00",
   "tokens": [
     {
       "chainId": 999,
-      "address": "0xca79db4b49f608ef54a5cb813fbed3a6387bc645",
-      "name": "Last USD",
-      "symbol": "USDXL",
+      "address": "0x5555555555555555555555555555555555555555",
+      "name": "Wrapped HYPE",
+      "symbol": "WHYPE",
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/55083/thumb/usdxl.jpg?1743648438"
+      "logoURI": "https://assets.coingecko.com/coins/images/54469/thumb/_UP3jBsi_400x400.jpg?1739905920"
     },
     {
       "chainId": 999,
@@ -24,30 +24,6 @@
     },
     {
       "chainId": 999,
-      "address": "0x5748ae796ae46a4f1348a1693de4b50560485562",
-      "name": "Looped Hype",
-      "symbol": "LHYPE",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/54816/thumb/loopedhype_logo_transparent.png?1741850425"
-    },
-    {
-      "chainId": 999,
-      "address": "0x02c6a2fa58cc01a18b8d9e00ea48d65e4df26c70",
-      "name": "Felix feUSD",
-      "symbol": "FEUSD",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/55068/thumb/feusd.jpg?1743581333"
-    },
-    {
-      "chainId": 999,
-      "address": "0xffaa4a3d97fe9107cef8a3f48c069f577ff76cc1",
-      "name": "Staked HYPE",
-      "symbol": "STHYPE",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/54509/thumb/hyperliquid.jpg?1740065301"
-    },
-    {
-      "chainId": 999,
       "address": "0x94e8396e0869c9f2200760af0621afd240e1cf38",
       "name": "Staked HYPE Shares",
       "symbol": "WSTHYPE",
@@ -56,11 +32,11 @@
     },
     {
       "chainId": 999,
-      "address": "0x5555555555555555555555555555555555555555",
-      "name": "Wrapped HYPE",
-      "symbol": "WHYPE",
+      "address": "0xca79db4b49f608ef54a5cb813fbed3a6387bc645",
+      "name": "Last USD",
+      "symbol": "USDXL",
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/54469/thumb/_UP3jBsi_400x400.jpg?1739905920"
+      "logoURI": "https://assets.coingecko.com/coins/images/55083/thumb/usdxl.jpg?1743648438"
     },
     {
       "chainId": 999,
@@ -72,11 +48,35 @@
     },
     {
       "chainId": 999,
-      "address": "0x47bb061c0204af921f43dc73c7d7768d2672ddee",
-      "name": "alright buddy",
-      "symbol": "BUDDY",
-      "decimals": 6,
-      "logoURI": "https://assets.coingecko.com/coins/images/54657/thumb/alright_buddy_pfp.png?1740895394"
+      "address": "0x02c6a2fa58cc01a18b8d9e00ea48d65e4df26c70",
+      "name": "Felix feUSD",
+      "symbol": "FEUSD",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/55068/thumb/feusd.jpg?1743581333"
+    },
+    {
+      "chainId": 999,
+      "address": "0x8ff0dd9f9c40a0d76ef1bcfaf5f98c1610c74bd8",
+      "name": "Hyperstable",
+      "symbol": "USH",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/55951/thumb/ushlogo.png?1747851688"
+    },
+    {
+      "chainId": 999,
+      "address": "0xffaa4a3d97fe9107cef8a3f48c069f577ff76cc1",
+      "name": "Staked HYPE",
+      "symbol": "STHYPE",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/54509/thumb/hyperliquid.jpg?1740065301"
+    },
+    {
+      "chainId": 999,
+      "address": "0x5748ae796ae46a4f1348a1693de4b50560485562",
+      "name": "Looped Hype",
+      "symbol": "LHYPE",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/54816/thumb/loopedhype_logo_transparent.png?1741850425"
     },
     {
       "chainId": 999,
@@ -93,6 +93,14 @@
       "symbol": "UBTC",
       "decimals": 8,
       "logoURI": "https://assets.coingecko.com/coins/images/55066/thumb/ubtc.jpg?1743580113"
+    },
+    {
+      "chainId": 999,
+      "address": "0x47bb061c0204af921f43dc73c7d7768d2672ddee",
+      "name": "alright buddy",
+      "symbol": "BUDDY",
+      "decimals": 6,
+      "logoURI": "https://assets.coingecko.com/coins/images/54657/thumb/alright_buddy_pfp.png?1740895394"
     },
     {
       "chainId": 999,
@@ -169,7 +177,7 @@
   ],
   "version": {
     "major": 1,
-    "minor": 3,
-    "patch": 1
+    "minor": 4,
+    "patch": 0
   }
 }
