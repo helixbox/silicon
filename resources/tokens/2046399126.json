@@ -4,8 +4,16 @@
   "keywords": [
     "defi"
   ],
-  "timestamp": "2025-04-15T08:00:36.838+00:00",
+  "timestamp": "2025-05-21T12:00:35.787+00:00",
   "tokens": [
+    {
+      "chainId": 2046399126,
+      "address": "0x31e0b85eff93fc3cb5423cd3e23868f5b18ff0bb",
+      "name": "Haven s Compass",
+      "symbol": "CMPS",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/38439/thumb/CompassLogo.png?1717539457"
+    },
     {
       "chainId": 2046399126,
       "address": "0x5f795bb52dac3085f578f4877d450e2929d2f13d",
@@ -16,19 +24,19 @@
     },
     {
       "chainId": 2046399126,
+      "address": "0x0cc139ba646e90828962159b9af7cec42dcfad1e",
+      "name": "MEEFIE",
+      "symbol": "MFT",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/55940/thumb/Logo200x200.png?1747825573"
+    },
+    {
+      "chainId": 2046399126,
       "address": "0xcb011e86df014a46f4e3ac3f3cbb114a4eb80870",
       "name": "Skale IMA Bridged WBTC",
       "symbol": "WBTC",
       "decimals": 8,
       "logoURI": "https://assets.coingecko.com/coins/images/39128/thumb/wbtc.png?1720668642"
-    },
-    {
-      "chainId": 2046399126,
-      "address": "0x31e0b85eff93fc3cb5423cd3e23868f5b18ff0bb",
-      "name": "Haven s Compass",
-      "symbol": "CMPS",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/38439/thumb/CompassLogo.png?1717539457"
     },
     {
       "chainId": 2046399126,
@@ -97,7 +105,7 @@
   ],
   "version": {
     "major": 3,
-    "minor": 1,
+    "minor": 2,
     "patch": 0
   }
 }
