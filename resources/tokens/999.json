@@ -4,15 +4,23 @@
   "keywords": [
     "defi"
   ],
-  "timestamp": "2025-05-23T10:00:41.367+00:00",
+  "timestamp": "2025-05-23T20:00:45.627+00:00",
   "tokens": [
     {
       "chainId": 999,
-      "address": "0x47bb061c0204af921f43dc73c7d7768d2672ddee",
-      "name": "alright buddy",
-      "symbol": "BUDDY",
-      "decimals": 6,
-      "logoURI": "https://assets.coingecko.com/coins/images/54657/thumb/alright_buddy_pfp.png?1740895394"
+      "address": "0x00fdbc53719604d924226215bc871d55e40a1009",
+      "name": "Looping Collective",
+      "symbol": "LOOP",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/55979/thumb/LOOP.png?1747918773"
+    },
+    {
+      "chainId": 999,
+      "address": "0x502ee789b448aa692901fe27ab03174c90f07dd1",
+      "name": "Staked LOOP",
+      "symbol": "STLOOP",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/56009/thumb/stLOOP.png?1748020765"
     },
     {
       "chainId": 999,
@@ -24,11 +32,11 @@
     },
     {
       "chainId": 999,
-      "address": "0x5748ae796ae46a4f1348a1693de4b50560485562",
-      "name": "Looped Hype",
-      "symbol": "LHYPE",
+      "address": "0x02c6a2fa58cc01a18b8d9e00ea48d65e4df26c70",
+      "name": "Felix feUSD",
+      "symbol": "FEUSD",
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/54816/thumb/loopedhype_logo_transparent.png?1741850425"
+      "logoURI": "https://assets.coingecko.com/coins/images/55068/thumb/feusd.jpg?1743581333"
     },
     {
       "chainId": 999,
@@ -37,14 +45,6 @@
       "symbol": "WSTHYPE",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/54722/thumb/hyperliquid.png?1741232793"
-    },
-    {
-      "chainId": 999,
-      "address": "0x8ff0dd9f9c40a0d76ef1bcfaf5f98c1610c74bd8",
-      "name": "Hyperstable",
-      "symbol": "USH",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/55951/thumb/ushlogo.png?1747851688"
     },
     {
       "chainId": 999,
@@ -64,19 +64,27 @@
     },
     {
       "chainId": 999,
-      "address": "0x02c6a2fa58cc01a18b8d9e00ea48d65e4df26c70",
-      "name": "Felix feUSD",
-      "symbol": "FEUSD",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/55068/thumb/feusd.jpg?1743581333"
+      "address": "0x47bb061c0204af921f43dc73c7d7768d2672ddee",
+      "name": "alright buddy",
+      "symbol": "BUDDY",
+      "decimals": 6,
+      "logoURI": "https://assets.coingecko.com/coins/images/54657/thumb/alright_buddy_pfp.png?1740895394"
     },
     {
       "chainId": 999,
-      "address": "0xb5fe77d323d69eb352a02006ea8ecc38d882620c",
-      "name": "KEI Stablecoin",
-      "symbol": "KEI",
+      "address": "0x8ff0dd9f9c40a0d76ef1bcfaf5f98c1610c74bd8",
+      "name": "Hyperstable",
+      "symbol": "USH",
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/55084/thumb/kei.jpg?1743648809"
+      "logoURI": "https://assets.coingecko.com/coins/images/55951/thumb/ushlogo.png?1747851688"
+    },
+    {
+      "chainId": 999,
+      "address": "0x5748ae796ae46a4f1348a1693de4b50560485562",
+      "name": "Looped Hype",
+      "symbol": "LHYPE",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/54816/thumb/loopedhype_logo_transparent.png?1741850425"
     },
     {
       "chainId": 999,
@@ -88,11 +96,11 @@
     },
     {
       "chainId": 999,
-      "address": "0x00fdbc53719604d924226215bc871d55e40a1009",
-      "name": "Looping Collective",
-      "symbol": "LOOP",
+      "address": "0xb5fe77d323d69eb352a02006ea8ecc38d882620c",
+      "name": "KEI Stablecoin",
+      "symbol": "KEI",
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/55979/thumb/LOOP.png?1747918773"
+      "logoURI": "https://assets.coingecko.com/coins/images/55084/thumb/kei.jpg?1743648809"
     },
     {
       "chainId": 999,
@@ -193,7 +201,7 @@
   ],
   "version": {
     "major": 1,
-    "minor": 6,
+    "minor": 7,
     "patch": 0
   }
 }
