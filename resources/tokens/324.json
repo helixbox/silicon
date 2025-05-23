@@ -4,7 +4,7 @@
   "keywords": [
     "defi"
   ],
-  "timestamp": "2025-05-21T05:00:40.352+00:00",
+  "timestamp": "2025-05-23T01:00:41.724+00:00",
   "tokens": [
     {
       "chainId": 324,
@@ -24,18 +24,18 @@
     },
     {
       "chainId": 324,
-      "address": "0x5165ec33b491d7b67260b3143f96bb4ac4736398",
-      "name": "Long",
-      "symbol": "LONG",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/36497/thumb/Logo_Long_square.png?1717541650"
-    },
-    {
-      "chainId": 324,
       "address": "0x2039bb4116b4efc145ec4f0e2ea75012d6c0f181",
       "name": "Celer Bridged BUSD  zkSync ",
       "symbol": "BUSD",
       "decimals": 18
+    },
+    {
+      "chainId": 324,
+      "address": "0x31c2c031fdc9d33e974f327ab0d9883eae06ca4a",
+      "name": "zkSwap Finance",
+      "symbol": "ZF",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/31633/thumb/200x200_Black.png?1747800050"
     },
     {
       "chainId": 324,
@@ -47,11 +47,19 @@
     },
     {
       "chainId": 324,
-      "address": "0x45656c02aae856443717c34159870b90d1288203",
-      "name": "HYPERCOMIC",
-      "symbol": "HYCO",
+      "address": "0x941fc398d9faebdd9f311011541045a1d66c748e",
+      "name": "Nop App",
+      "symbol": "NOP",
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/29407/thumb/coingecko_HYPERCOMIC_LOGO.png?1696528357"
+      "logoURI": "https://assets.coingecko.com/coins/images/36376/thumb/191.png?1711342125"
+    },
+    {
+      "chainId": 324,
+      "address": "0x5a7d6b2f92c77fad6ccabd7ee0624e64907eaf3e",
+      "name": "ZKsync",
+      "symbol": "ZK",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/38043/thumb/ZKTokenBlack.png?1718614502"
     },
     {
       "chainId": 324,
@@ -63,35 +71,11 @@
     },
     {
       "chainId": 324,
-      "address": "0x941fc398d9faebdd9f311011541045a1d66c748e",
-      "name": "Nop App",
-      "symbol": "NOP",
+      "address": "0xe05c58344b78bbbde021e3782487e73bb332c1ef",
+      "name": "Dappad",
+      "symbol": "APPA",
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/36376/thumb/191.png?1711342125"
-    },
-    {
-      "chainId": 324,
-      "address": "0x4b9eb6c0b6ea15176bbf62841c6b2a8a398cb656",
-      "name": "ZKsync ERC20 Bridged DAI  zkSync ",
-      "symbol": "DAI",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/39805/thumb/dai.png?1724126260"
-    },
-    {
-      "chainId": 324,
-      "address": "0x144b83555d8a3119b0a69a7bc2f0a0388308fee3",
-      "name": "AutoAir AI",
-      "symbol": "AAI",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/36165/thumb/AutoAir_AI_-_200x200.png?1712108994"
-    },
-    {
-      "chainId": 324,
-      "address": "0x5d0d7bca050e2e98fd4a5e8d3ba823b49f39868d",
-      "name": "Zyfi",
-      "symbol": "ZFI",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/39770/thumb/Zyfi_Favicon_HQ_1.png?1732011570"
+      "logoURI": "https://assets.coingecko.com/coins/images/36977/thumb/dappad_.png?1733811500"
     },
     {
       "chainId": 324,
@@ -108,6 +92,14 @@
       "symbol": "LMAO",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/35213/thumb/rsz_longmaopfpp.png?1707898201"
+    },
+    {
+      "chainId": 324,
+      "address": "0x47260090ce5e83454d5f05a0abbb2c953835f777",
+      "name": "SpaceFi",
+      "symbol": "SPACE",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/30822/thumb/aOwhiUUo_400x400.png?1696529676"
     },
     {
       "chainId": 324,
@@ -135,11 +127,11 @@
     },
     {
       "chainId": 324,
-      "address": "0x5a7d6b2f92c77fad6ccabd7ee0624e64907eaf3e",
-      "name": "ZKsync",
-      "symbol": "ZK",
+      "address": "0x5165ec33b491d7b67260b3143f96bb4ac4736398",
+      "name": "Long",
+      "symbol": "LONG",
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/38043/thumb/ZKTokenBlack.png?1718614502"
+      "logoURI": "https://assets.coingecko.com/coins/images/36497/thumb/Logo_Long_square.png?1717541650"
     },
     {
       "chainId": 324,
@@ -151,19 +143,11 @@
     },
     {
       "chainId": 324,
-      "address": "0x2ab105a3ead22731082b790ca9a00d9a3a7627f9",
-      "name": "Sygnum FIUSD Liquidity Fund",
-      "symbol": "FIUSD",
-      "decimals": 2,
-      "logoURI": "https://assets.coingecko.com/coins/images/50749/thumb/FIUDS_200x200px_%281%29.png?1728956878"
-    },
-    {
-      "chainId": 324,
-      "address": "0x10d967f46b06580c4a87b05c78f04e4df25c0db0",
-      "name": "Holdstation Utility GOLD",
-      "symbol": "UGOLD",
+      "address": "0x45656c02aae856443717c34159870b90d1288203",
+      "name": "HYPERCOMIC",
+      "symbol": "HYCO",
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/32647/thumb/uGOLD.png?1698893439"
+      "logoURI": "https://assets.coingecko.com/coins/images/29407/thumb/coingecko_HYPERCOMIC_LOGO.png?1696528357"
     },
     {
       "chainId": 324,
@@ -175,11 +159,27 @@
     },
     {
       "chainId": 324,
+      "address": "0x10d967f46b06580c4a87b05c78f04e4df25c0db0",
+      "name": "Holdstation Utility GOLD",
+      "symbol": "UGOLD",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/32647/thumb/uGOLD.png?1698893439"
+    },
+    {
+      "chainId": 324,
       "address": "0x61b41e0244133b9c9c47a57e51a5ef70be2c5dd4",
       "name": "Bolt Token",
       "symbol": "BOLT",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/30082/thumb/cropped-Group-75-300x258.png?1696529006"
+    },
+    {
+      "chainId": 324,
+      "address": "0x4b9eb6c0b6ea15176bbf62841c6b2a8a398cb656",
+      "name": "ZKsync ERC20 Bridged DAI  zkSync ",
+      "symbol": "DAI",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/39805/thumb/dai.png?1724126260"
     },
     {
       "chainId": 324,
@@ -207,11 +207,11 @@
     },
     {
       "chainId": 324,
-      "address": "0xe05c58344b78bbbde021e3782487e73bb332c1ef",
-      "name": "Dappad",
-      "symbol": "APPA",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/36977/thumb/dappad_.png?1733811500"
+      "address": "0x2ab105a3ead22731082b790ca9a00d9a3a7627f9",
+      "name": "Sygnum FIUSD Liquidity Fund",
+      "symbol": "FIUSD",
+      "decimals": 2,
+      "logoURI": "https://assets.coingecko.com/coins/images/50749/thumb/FIUDS_200x200px_%281%29.png?1728956878"
     },
     {
       "chainId": 324,
@@ -239,19 +239,19 @@
     },
     {
       "chainId": 324,
-      "address": "0x31c2c031fdc9d33e974f327ab0d9883eae06ca4a",
-      "name": "zkSwap Finance",
-      "symbol": "ZF",
+      "address": "0x144b83555d8a3119b0a69a7bc2f0a0388308fee3",
+      "name": "AutoAir AI",
+      "symbol": "AAI",
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/31633/thumb/200x200_Black.png?1747800050"
+      "logoURI": "https://assets.coingecko.com/coins/images/36165/thumb/AutoAir_AI_-_200x200.png?1712108994"
     },
     {
       "chainId": 324,
-      "address": "0x47260090ce5e83454d5f05a0abbb2c953835f777",
-      "name": "SpaceFi",
-      "symbol": "SPACE",
+      "address": "0x5d0d7bca050e2e98fd4a5e8d3ba823b49f39868d",
+      "name": "Zyfi",
+      "symbol": "ZFI",
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/30822/thumb/aOwhiUUo_400x400.png?1696529676"
+      "logoURI": "https://assets.coingecko.com/coins/images/39770/thumb/Zyfi_Favicon_HQ_1.png?1732011570"
     },
     {
       "chainId": 324,
@@ -436,6 +436,14 @@
       "symbol": "WOO",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/12921/thumb/WOO_Logos_2023_Profile_Pic_WOO.png?1696512709"
+    },
+    {
+      "chainId": 324,
+      "address": "0x39fe7a0dacce31bd90418e3e659fb0b5f0b3db0d",
+      "name": "Ethena USDe",
+      "symbol": "USDE",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/33613/thumb/usde.png?1733810059"
     },
     {
       "chainId": 324,
@@ -752,7 +760,7 @@
   ],
   "version": {
     "major": 26,
-    "minor": 0,
-    "patch": 1
+    "minor": 1,
+    "patch": 0
   }
 }
