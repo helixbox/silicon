@@ -17089,6 +17089,7 @@
     "symbol": "bpro",
     "name": "BitPRO",
     "platforms": {
+      "rootstock": "0x440cd83c160de5c96ddb20246815ea44c7abbca8",
       "arbitrum-one": "0xdbae615958708c0bc61234d2624b95077b017eb7"
     }
   },
@@ -17944,6 +17945,14 @@
     "platforms": {
       "ethereum": "0x4086e77c5e993fdb90a406285d00111a974f877a",
       "wax": "BRWL-wax-brawlertoken"
+    }
+  },
+  {
+    "id": "blockchain-capital",
+    "symbol": "bcap",
+    "name": "Blockchain Capital",
+    "platforms": {
+      "zksync": "0x57fd71a86522dc06d6255537521886057c1772a3"
     }
   },
   {
@@ -60164,7 +60173,8 @@
     "symbol": "imo",
     "name": "IMO",
     "platforms": {
-      "base": "0x5a7a2bf9ffae199f088b25837dcd7e115cf8e1bb"
+      "base": "0x5a7a2bf9ffae199f088b25837dcd7e115cf8e1bb",
+      "solana": "27oVJFWGCUpTZcrJyDsd9Ca13WNXFNcHu648XVxsGCnS"
     }
   },
   {
