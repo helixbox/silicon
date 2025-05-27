@@ -4,8 +4,16 @@
   "keywords": [
     "defi"
   ],
-  "timestamp": "2025-05-09T09:00:26.174+00:00",
+  "timestamp": "2025-05-27T16:00:23.212+00:00",
   "tokens": [
+    {
+      "chainId": 1868,
+      "address": "0x2cae934a1e84f693fbb78ca5ed3b0a6893259441",
+      "name": "Soneium Bridged ASTR  Soneium ",
+      "symbol": "ASTR",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/53778/thumb/astar.jpg?1737341226"
+    },
     {
       "chainId": 1868,
       "address": "0xc67476893c166c537afd9bc6bc87b3f228b44337",
@@ -16,11 +24,11 @@
     },
     {
       "chainId": 1868,
-      "address": "0x4200000000000000000000000000000000000006",
-      "name": "Superbridge Bridged WETH  Soneium ",
-      "symbol": "WETH",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/53777/thumb/weth_2.jpg?1737340348"
+      "address": "0xba9986d2381edf1da03b0b9c1f8b00dc4aacc369",
+      "name": "Soneium Bridged USDC  Soneium ",
+      "symbol": "USDCE",
+      "decimals": 6,
+      "logoURI": "https://assets.coingecko.com/coins/images/53776/thumb/usdc.jpg?1737340150"
     },
     {
       "chainId": 1868,
@@ -32,27 +40,11 @@
     },
     {
       "chainId": 1868,
-      "address": "0x2cae934a1e84f693fbb78ca5ed3b0a6893259441",
-      "name": "Soneium Bridged ASTR  Soneium ",
-      "symbol": "ASTR",
+      "address": "0x4200000000000000000000000000000000000006",
+      "name": "Superbridge Bridged WETH  Soneium ",
+      "symbol": "WETH",
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/53778/thumb/astar.jpg?1737341226"
-    },
-    {
-      "chainId": 1868,
-      "address": "0xf24e57b1cb00d98c31f04f86328e22e8fca457fb",
-      "name": "SONE",
-      "symbol": "SONE",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/53814/thumb/20250116-173015.png?1737432919"
-    },
-    {
-      "chainId": 1868,
-      "address": "0x3b0dc2dac9498a024003609031d973b1171de09e",
-      "name": "Wrapped stASTR",
-      "symbol": "WSTASTR",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/54782/thumb/wstASTR.png?1741570094"
+      "logoURI": "https://assets.coingecko.com/coins/images/53777/thumb/weth_2.jpg?1737340348"
     },
     {
       "chainId": 1868,
@@ -72,6 +64,14 @@
     },
     {
       "chainId": 1868,
+      "address": "0x3b0dc2dac9498a024003609031d973b1171de09e",
+      "name": "Wrapped stASTR",
+      "symbol": "WSTASTR",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/54782/thumb/wstASTR.png?1741570094"
+    },
+    {
+      "chainId": 1868,
       "address": "0x60336f9296c79da4294a19153ec87f8e52158e5f",
       "name": "Bifrost Voucher ASTR",
       "symbol": "VASTR",
@@ -80,11 +80,11 @@
     },
     {
       "chainId": 1868,
-      "address": "0xba9986d2381edf1da03b0b9c1f8b00dc4aacc369",
-      "name": "Soneium Bridged USDC  Soneium ",
-      "symbol": "USDCE",
-      "decimals": 6,
-      "logoURI": "https://assets.coingecko.com/coins/images/53776/thumb/usdc.jpg?1737340150"
+      "address": "0xf24e57b1cb00d98c31f04f86328e22e8fca457fb",
+      "name": "SONE",
+      "symbol": "SONE",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/53814/thumb/20250116-173015.png?1737432919"
     },
     {
       "chainId": 1868,
@@ -173,19 +173,11 @@
       "symbol": "UBTC",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/55079/thumb/uBTC.png?1743613297"
-    },
-    {
-      "chainId": 1868,
-      "address": "0x3d63825b0d8669307366e6c8202f656b9e91d368",
-      "name": "Wild Goat Coin",
-      "symbol": "WGC",
-      "decimals": 6,
-      "logoURI": "https://assets.coingecko.com/coins/images/37966/thumb/COIN_200x200.png?1716778831"
     }
   ],
   "version": {
-    "major": 0,
-    "minor": 17,
-    "patch": 2
+    "major": 1,
+    "minor": 0,
+    "patch": 0
   }
 }

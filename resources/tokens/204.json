@@ -1,19 +1,11 @@
 {
   "name": "CoinGecko",
-  "logoURI": "https://static.coingecko.com/s/thumbnail-007177f3eca19695592f0b8b0eabbdae282b54154e1be912285c9034ea6cbaf2.png",
+  "logoURI": "https://static.coingecko.com/gecko-new.svg",
   "keywords": [
     "defi"
   ],
-  "timestamp": "2025-04-07T09:00:04.793+00:00",
+  "timestamp": "2025-05-27T16:00:05.411+00:00",
   "tokens": [
-    {
-      "chainId": 204,
-      "address": "0x317bc431f7ef8b012dfbb563814de202f5469516",
-      "name": "WalkMining Governance",
-      "symbol": "WKG",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/38633/thumb/symbol_wkm_200.png?1718172340"
-    },
     {
       "chainId": 204,
       "address": "0x4200000000000000000000000000000000000006",
@@ -21,6 +13,14 @@
       "symbol": "WBNB",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/53120/thumb/wrapped_bnb.png?1735265071"
+    },
+    {
+      "chainId": 204,
+      "address": "0x317bc431f7ef8b012dfbb563814de202f5469516",
+      "name": "WalkMining Governance",
+      "symbol": "WKG",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/38633/thumb/symbol_wkm_200.png?1718172340"
     },
     {
       "chainId": 204,
@@ -68,14 +68,6 @@
       "symbol": "UBTC",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/55079/thumb/uBTC.png?1743613297"
-    },
-    {
-      "chainId": 204,
-      "address": "0xc53ac24320e3a54c7211e4993c8095078a0cb3cf",
-      "name": "Wild Goat Coin",
-      "symbol": "WGC",
-      "decimals": 6,
-      "logoURI": "https://assets.coingecko.com/coins/images/37966/thumb/COIN_200x200.png?1716778831"
     },
     {
       "chainId": 204,
@@ -135,8 +127,8 @@
     }
   ],
   "version": {
-    "major": 2,
-    "minor": 2,
+    "major": 3,
+    "minor": 0,
     "patch": 0
   }
 }

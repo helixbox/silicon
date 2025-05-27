@@ -1,19 +1,11 @@
 {
   "name": "CoinGecko",
-  "logoURI": "https://static.coingecko.com/s/thumbnail-007177f3eca19695592f0b8b0eabbdae282b54154e1be912285c9034ea6cbaf2.png",
+  "logoURI": "https://static.coingecko.com/gecko-new.svg",
   "keywords": [
     "defi"
   ],
-  "timestamp": "2025-04-07T08:00:36.348+00:00",
+  "timestamp": "2025-05-27T16:00:34.038+00:00",
   "tokens": [
-    {
-      "chainId": 196,
-      "address": "0xe538905cf8410324e03a5a23c1c177a474d59b2b",
-      "name": "Wrapped OKB",
-      "symbol": "WOKB",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/37278/thumb/okb.png?1713935642"
-    },
     {
       "chainId": 196,
       "address": "0xa8ce8aee21bc2a48a5ef670afcc9274c7bbbc035",
@@ -37,6 +29,14 @@
       "symbol": "PUFF",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/38331/thumb/PUFF.jpg?1717098970"
+    },
+    {
+      "chainId": 196,
+      "address": "0xe538905cf8410324e03a5a23c1c177a474d59b2b",
+      "name": "Wrapped OKB",
+      "symbol": "WOKB",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/37278/thumb/okb.png?1713935642"
     },
     {
       "chainId": 196,
@@ -96,14 +96,6 @@
     },
     {
       "chainId": 196,
-      "address": "0xc53ac24320e3a54c7211e4993c8095078a0cb3cf",
-      "name": "Wild Goat Coin",
-      "symbol": "WGC",
-      "decimals": 6,
-      "logoURI": "https://assets.coingecko.com/coins/images/37966/thumb/COIN_200x200.png?1716778831"
-    },
-    {
-      "chainId": 196,
       "address": "0x80137510979822322193fc997d400d5a6c747bf7",
       "name": "StakeStone ETH",
       "symbol": "STONE",
@@ -112,8 +104,8 @@
     }
   ],
   "version": {
-    "major": 9,
-    "minor": 1,
+    "major": 10,
+    "minor": 0,
     "patch": 0
   }
 }

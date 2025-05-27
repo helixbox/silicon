@@ -4,31 +4,15 @@
   "keywords": [
     "defi"
   ],
-  "timestamp": "2025-05-19T18:00:15.272+00:00",
+  "timestamp": "2025-05-27T16:00:14.999+00:00",
   "tokens": [
     {
       "chainId": 1923,
-      "address": "0x9ab96a4668456896d45c301bc3a15cee76aa7b8d",
-      "name": "Relend Network USDC  Swell ",
-      "symbol": "RUSDC",
-      "decimals": 6,
-      "logoURI": "https://assets.coingecko.com/coins/images/55341/thumb/rUSDC-_200x200.png?1745506753"
-    },
-    {
-      "chainId": 1923,
-      "address": "0x1cf7b5f266a0f39d6f9408b90340e3e71df8bf7b",
-      "name": "Layerzero Bridged swBTC  Swellchain ",
-      "symbol": "SWBTC",
-      "decimals": 8,
-      "logoURI": "https://assets.coingecko.com/coins/images/53657/thumb/66ff59725979d3c6635ecae5_swBTC.png?1737001044"
-    },
-    {
-      "chainId": 1923,
-      "address": "0x18d33689ae5d02649a859a1cf16c9f0563975258",
-      "name": "Layerzero Bridged rswETH  Swellchain ",
-      "symbol": "RSWETH",
+      "address": "0x4200000000000000000000000000000000000006",
+      "name": "Layerzero Bridged Wrapped Ether  Swellc",
+      "symbol": "WETH",
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/53474/thumb/image_%281%29.png?1736482080"
+      "logoURI": "https://assets.coingecko.com/coins/images/54515/thumb/weth_2.jpg?1740119347"
     },
     {
       "chainId": 1923,
@@ -40,6 +24,30 @@
     },
     {
       "chainId": 1923,
+      "address": "0x9ab96a4668456896d45c301bc3a15cee76aa7b8d",
+      "name": "Relend Network USDC  Swell ",
+      "symbol": "RUSDC",
+      "decimals": 6,
+      "logoURI": "https://assets.coingecko.com/coins/images/55341/thumb/rUSDC-_200x200.png?1745506753"
+    },
+    {
+      "chainId": 1923,
+      "address": "0xa6cb988942610f6731e664379d15ffcfbf282b44",
+      "name": "Layerzero Bridged weETH  Swellchain ",
+      "symbol": "WEETH",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/53659/thumb/65c5a7141f77e162be7af327_eETH.png?1737001248"
+    },
+    {
+      "chainId": 1923,
+      "address": "0x18d33689ae5d02649a859a1cf16c9f0563975258",
+      "name": "Layerzero Bridged rswETH  Swellchain ",
+      "symbol": "RSWETH",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/53474/thumb/image_%281%29.png?1736482080"
+    },
+    {
+      "chainId": 1923,
       "address": "0x2826d136f5630ada89c1678b64a61620aab77aea",
       "name": "Layerzero Bridged Swell",
       "symbol": "SWELL",
@@ -48,11 +56,11 @@
     },
     {
       "chainId": 1923,
-      "address": "0x4200000000000000000000000000000000000006",
-      "name": "Layerzero Bridged Wrapped Ether  Swellc",
-      "symbol": "WETH",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/54515/thumb/weth_2.jpg?1740119347"
+      "address": "0x1cf7b5f266a0f39d6f9408b90340e3e71df8bf7b",
+      "name": "Layerzero Bridged swBTC  Swellchain ",
+      "symbol": "SWBTC",
+      "decimals": 8,
+      "logoURI": "https://assets.coingecko.com/coins/images/53657/thumb/66ff59725979d3c6635ecae5_swBTC.png?1737001044"
     },
     {
       "chainId": 1923,
@@ -72,14 +80,6 @@
     },
     {
       "chainId": 1923,
-      "address": "0xa6cb988942610f6731e664379d15ffcfbf282b44",
-      "name": "Layerzero Bridged weETH  Swellchain ",
-      "symbol": "WEETH",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/53659/thumb/65c5a7141f77e162be7af327_eETH.png?1737001248"
-    },
-    {
-      "chainId": 1923,
       "address": "0xea34479f7d95341e5fd49b89936366d6da710824",
       "name": "Neptune Finance",
       "symbol": "NEP",
@@ -93,14 +93,6 @@
       "symbol": "LBTC",
       "decimals": 8,
       "logoURI": "https://assets.coingecko.com/coins/images/39969/thumb/LBTC_Logo.png?1724959872"
-    },
-    {
-      "chainId": 1923,
-      "address": "0x3d63825b0d8669307366e6c8202f656b9e91d368",
-      "name": "Wild Goat Coin",
-      "symbol": "WGC",
-      "decimals": 6,
-      "logoURI": "https://assets.coingecko.com/coins/images/37966/thumb/COIN_200x200.png?1716778831"
     },
     {
       "chainId": 1923,
@@ -120,8 +112,8 @@
     }
   ],
   "version": {
-    "major": 0,
-    "minor": 7,
+    "major": 1,
+    "minor": 0,
     "patch": 0
   }
 }
