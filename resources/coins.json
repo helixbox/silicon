@@ -633,7 +633,8 @@
     "symbol": "4ever",
     "name": "4EVERLAND",
     "platforms": {
-      "ethereum": "0xe355de6a6043b0580ff5a26b46051a4809b12793"
+      "ethereum": "0xe355de6a6043b0580ff5a26b46051a4809b12793",
+      "binance-smart-chain": "0x63ec886286f30ad392749b9e8f24f67f5b8ac394"
     }
   },
   {
@@ -8863,14 +8864,6 @@
     "name": "Artto AI",
     "platforms": {
       "base": "0x9239e9f9e325e706ef8b89936ece9d48896abbe3"
-    }
-  },
-  {
-    "id": "artx",
-    "symbol": "artx",
-    "name": "ARTX",
-    "platforms": {
-      "ethereum": "0x741b0428efdf4372a8df6fb54b018db5e5ab7710"
     }
   },
   {
@@ -17418,14 +17411,6 @@
       "the-open-network": "EQD-J6UqYQezuUm6SlPDnHwTxXqo4uHys_fle_zKvM5nYJkA",
       "ethereum": "0x8bcd06492416a749c9369009b3429861b7f27f6e",
       "polygon-pos": "0x8626264b6a1b4e920905efd381002aba52ea0eea"
-    }
-  },
-  {
-    "id": "black-hole-coin",
-    "symbol": "bhc",
-    "name": "Black Hole Coin",
-    "platforms": {
-      "binance-smart-chain": "0xb12186584f74195eedc7f5e3c274c6784a000000"
     }
   },
   {
@@ -48297,6 +48282,14 @@
     }
   },
   {
+    "id": "foxify",
+    "symbol": "fox",
+    "name": "Foxify",
+    "platforms": {
+      "sonic": "0x261dfa2528dfa19011f10b168c856e02baaf0eb6"
+    }
+  },
+  {
     "id": "foxsy-ai",
     "symbol": "foxsy",
     "name": "Foxsy AI",
@@ -59817,6 +59810,7 @@
     "platforms": {
       "polygon-pos": "0x649a2da7b28e0d54c13d5eff95d3a660652742cc",
       "binance-smart-chain": "0x649a2da7b28e0d54c13d5eff95d3a660652742cc",
+      "etherlink": "0x18bc5bcc660cf2b9ce3cd51a404afe1a0cbd3c22",
       "lisk": "0x18bc5bcc660cf2b9ce3cd51a404afe1a0cbd3c22",
       "base": "0x18bc5bcc660cf2b9ce3cd51a404afe1a0cbd3c22",
       "world-chain": "0x18bc5bcc660cf2b9ce3cd51a404afe1a0cbd3c22",
@@ -90392,12 +90386,6 @@
     "platforms": {}
   },
   {
-    "id": "pal",
-    "symbol": "pal",
-    "name": "PAL",
-    "platforms": {}
-  },
-  {
     "id": "paladeum",
     "symbol": "plb",
     "name": "Paladeum",
@@ -104850,7 +104838,8 @@
     "symbol": "sam",
     "name": "Samurai Starter",
     "platforms": {
-      "base": "0xed1779845520339693cdbffec49a74246e7d671b"
+      "base": "0xed1779845520339693cdbffec49a74246e7d671b",
+      "sonic": "0xcc5d9cc0d781d7f41f6809c0e8356c15942b775e"
     }
   },
   {
@@ -111976,14 +111965,6 @@
     }
   },
   {
-    "id": "soperme",
-    "symbol": "s",
-    "name": "Soperme",
-    "platforms": {
-      "solana": "8qnZbvQ6PvmuFrB7bUaQPybMX8JVybnoyYfMhfFaY4nV"
-    }
-  },
-  {
     "id": "sophia",
     "symbol": "sph",
     "name": "Sophia",
@@ -112810,14 +112791,6 @@
     "platforms": {
       "ergo": "9a06d9e545a41fd51eeffc5e20d818073bf820c635e2a9d922269913e0de369d",
       "cardano": "09f2d4e4a5c3662f4c1e6a7d9600e9605279dbdcedb22d4507cb6e75"
-    }
-  },
-  {
-    "id": "speculate",
-    "symbol": "spec",
-    "name": "Speculate",
-    "platforms": {
-      "base": "0xdce704a0622a8437200cb6076ee69b2cf573827c"
     }
   },
   {
@@ -129845,14 +129818,6 @@
     }
   },
   {
-    "id": "wagmi-3",
-    "symbol": "wagmi",
-    "name": "WAGMI",
-    "platforms": {
-      "base": "0x7466de7bb8b5e41ee572f4167de6be782a7fa75d"
-    }
-  },
-  {
     "id": "wagmi-4",
     "symbol": "wagmi",
     "name": "WAGMI",
@@ -136860,14 +136825,6 @@
     }
   },
   {
-    "id": "xl-bully",
-    "symbol": "xlbully",
-    "name": "XL BULLY",
-    "platforms": {
-      "solana": "5v19sm86F6mqEtPJZAoNEcQfFziBbbVBnmyN59w1N4Y5"
-    }
-  },
-  {
     "id": "xlink-bridged-btc-stacks",
     "symbol": "abtc",
     "name": "XLink Bridged BTC",
@@ -139826,14 +139783,6 @@
       "binance-smart-chain": "0x8c907e0a72c3d55627e853f4ec6a96b0c8771145",
       "polygon-pos": "0x7bebd226154e865954a87650faefa8f485d36081",
       "solana": "26f12PmBk77wQV1TzLe8XKkNBvMFggbuypxdtMLzNLzz"
-    }
-  },
-  {
-    "id": "zigzag-2",
-    "symbol": "zz",
-    "name": "ZigZag",
-    "platforms": {
-      "ethereum": "0xc91a71a1ffa3d8b22ba615ba1b9c01b2bbbf55ad"
     }
   },
   {
