@@ -9766,6 +9766,14 @@
     "platforms": {}
   },
   {
+    "id": "attention",
+    "symbol": "attn",
+    "name": "Attention",
+    "platforms": {
+      "sui": "0x0ef38abcdaaafedd1e2d88929068a3f65b59bf7ee07d7e8f573c71df02d27522::attn::ATTN"
+    }
+  },
+  {
     "id": "attila",
     "symbol": "att",
     "name": "Attila",
@@ -109139,6 +109147,14 @@
     }
   },
   {
+    "id": "skpanax",
+    "symbol": "skx",
+    "name": "SKPANAX",
+    "platforms": {
+      "polygon-pos": "0xa9a8eed4c7b91de6d6d2a6b2d21300ec162b1375"
+    }
+  },
+  {
     "id": "skrumble-network",
     "symbol": "skm",
     "name": "Skrumble Network",
@@ -138063,10 +138079,11 @@
     "symbol": "yusd",
     "name": "YieldFi yToken",
     "platforms": {
-      "ethereum": "0x1ce7d9942ff78c328a4181b9f3826fee6d845a97",
-      "base": "0x895e15020c3f52ddd4d8e9514eb83c39f53b1579",
-      "arbitrum-one": "0x895e15020c3f52ddd4d8e9514eb83c39f53b1579",
-      "optimistic-ethereum": "0x895e15020c3f52ddd4d8e9514eb83c39f53b1579"
+      "ethereum": "0x19ebd191f7a24ece672ba13a302212b5ef7f35cb",
+      "base": "0x4772d2e014f9fc3a820c444e3313968e9a5c8121",
+      "sonic": "0x4772d2e014f9fc3a820c444e3313968e9a5c8121",
+      "arbitrum-one": "0x4772d2e014f9fc3a820c444e3313968e9a5c8121",
+      "optimistic-ethereum": "0x4772d2e014f9fc3a820c444e3313968e9a5c8121"
     }
   },
   {
