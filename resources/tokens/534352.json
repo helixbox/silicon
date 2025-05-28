@@ -4,7 +4,7 @@
   "keywords": [
     "defi"
   ],
-  "timestamp": "2025-05-27T17:00:35.428+00:00",
+  "timestamp": "2025-05-28T14:02:00.971+00:00",
   "tokens": [
     {
       "chainId": 534352,
@@ -32,11 +32,19 @@
     },
     {
       "chainId": 534352,
-      "address": "0xf55bec9cafdbe8730f096aa55dad6d22d44099df",
-      "name": "Bridged Tether  Scroll ",
-      "symbol": "USDT",
+      "address": "0x06efdbff2a14a7c8e15944d1f4a48f9f95f663a4",
+      "name": "Bridged USD Coin  Scroll ",
+      "symbol": "USDC",
       "decimals": 6,
-      "logoURI": "https://assets.coingecko.com/coins/images/32610/thumb/usdt_%281%29.png?1698733524"
+      "logoURI": "https://assets.coingecko.com/coins/images/32611/thumb/USDC.png?1698733754"
+    },
+    {
+      "chainId": 534352,
+      "address": "0xdb9e8f82d6d45fff803161f2a5f75543972b229a",
+      "name": "Quill USDQ",
+      "symbol": "USDQ",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/66132/thumb/image_%289%29.png?1748439949"
     },
     {
       "chainId": 534352,
@@ -61,14 +69,6 @@
       "symbol": "WBTC",
       "decimals": 8,
       "logoURI": "https://assets.coingecko.com/coins/images/32614/thumb/wrapped_bitcoin_wbtc.png?1698735124"
-    },
-    {
-      "chainId": 534352,
-      "address": "0xd29687c813d741e2f938f4ac377128810e217b1b",
-      "name": "Scroll",
-      "symbol": "SCR",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/50571/thumb/scroll.jpg?1728376125"
     },
     {
       "chainId": 534352,
@@ -120,11 +120,27 @@
     },
     {
       "chainId": 534352,
+      "address": "0xd29687c813d741e2f938f4ac377128810e217b1b",
+      "name": "Scroll",
+      "symbol": "SCR",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/50571/thumb/scroll.jpg?1728376125"
+    },
+    {
+      "chainId": 534352,
       "address": "0xecc68d0451e20292406967fe7c04280e5238ac7d",
       "name": "Axelar Bridged Frax Ether",
       "symbol": "AXLFRXETH",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/38976/thumb/Screen_Shot_2024-06-18_at_12.55.54_PM_2.png?1719714886"
+    },
+    {
+      "chainId": 534352,
+      "address": "0xf55bec9cafdbe8730f096aa55dad6d22d44099df",
+      "name": "Bridged Tether  Scroll ",
+      "symbol": "USDT",
+      "decimals": 6,
+      "logoURI": "https://assets.coingecko.com/coins/images/32610/thumb/usdt_%281%29.png?1698733524"
     },
     {
       "chainId": 534352,
@@ -141,14 +157,6 @@
       "symbol": "AXLUSDC",
       "decimals": 6,
       "logoURI": "https://assets.coingecko.com/coins/images/32612/thumb/USDC.png?1698734090"
-    },
-    {
-      "chainId": 534352,
-      "address": "0x06efdbff2a14a7c8e15944d1f4a48f9f95f663a4",
-      "name": "Bridged USD Coin  Scroll ",
-      "symbol": "USDC",
-      "decimals": 6,
-      "logoURI": "https://assets.coingecko.com/coins/images/32611/thumb/USDC.png?1698733754"
     },
     {
       "chainId": 534352,
@@ -313,7 +321,7 @@
   ],
   "version": {
     "major": 11,
-    "minor": 0,
+    "minor": 1,
     "patch": 0
   }
 }
