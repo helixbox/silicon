@@ -4,8 +4,16 @@
   "keywords": [
     "defi"
   ],
-  "timestamp": "2025-05-27T21:00:43.453+00:00",
+  "timestamp": "2025-05-28T04:00:42.046+00:00",
   "tokens": [
+    {
+      "chainId": 999,
+      "address": "0x5555555555555555555555555555555555555555",
+      "name": "Wrapped HYPE",
+      "symbol": "WHYPE",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/54469/thumb/_UP3jBsi_400x400.jpg?1739905920"
+    },
     {
       "chainId": 999,
       "address": "0x5748ae796ae46a4f1348a1693de4b50560485562",
@@ -16,43 +24,11 @@
     },
     {
       "chainId": 999,
-      "address": "0x02c6a2fa58cc01a18b8d9e00ea48d65e4df26c70",
-      "name": "Felix feUSD",
-      "symbol": "FEUSD",
+      "address": "0x00fdbc53719604d924226215bc871d55e40a1009",
+      "name": "Looping Collective",
+      "symbol": "LOOP",
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/55068/thumb/feusd.jpg?1743581333"
-    },
-    {
-      "chainId": 999,
-      "address": "0xca79db4b49f608ef54a5cb813fbed3a6387bc645",
-      "name": "Last USD",
-      "symbol": "USDXL",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/55083/thumb/usdxl.jpg?1743648438"
-    },
-    {
-      "chainId": 999,
-      "address": "0x502ee789b448aa692901fe27ab03174c90f07dd1",
-      "name": "Staked LOOP",
-      "symbol": "STLOOP",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/56009/thumb/stLOOP.png?1748020765"
-    },
-    {
-      "chainId": 999,
-      "address": "0x28245ab01298eaef7933bc90d35bd9dbca5c89db",
-      "name": "Hyperstable",
-      "symbol": "PEG",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/55842/thumb/peglogo.png?1747766727"
-    },
-    {
-      "chainId": 999,
-      "address": "0x9fdbda0a5e284c32744d2f17ee5c74b284993463",
-      "name": "Unit Bitcoin",
-      "symbol": "UBTC",
-      "decimals": 8,
-      "logoURI": "https://assets.coingecko.com/coins/images/55066/thumb/ubtc.jpg?1743580113"
+      "logoURI": "https://assets.coingecko.com/coins/images/55979/thumb/LOOP.png?1747918773"
     },
     {
       "chainId": 999,
@@ -72,11 +48,19 @@
     },
     {
       "chainId": 999,
-      "address": "0x47bb061c0204af921f43dc73c7d7768d2672ddee",
-      "name": "alright buddy",
-      "symbol": "BUDDY",
-      "decimals": 6,
-      "logoURI": "https://assets.coingecko.com/coins/images/54657/thumb/alright_buddy_pfp.png?1740895394"
+      "address": "0xca79db4b49f608ef54a5cb813fbed3a6387bc645",
+      "name": "Last USD",
+      "symbol": "USDXL",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/55083/thumb/usdxl.jpg?1743648438"
+    },
+    {
+      "chainId": 999,
+      "address": "0x502ee789b448aa692901fe27ab03174c90f07dd1",
+      "name": "Staked LOOP",
+      "symbol": "STLOOP",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/56009/thumb/stLOOP.png?1748020765"
     },
     {
       "chainId": 999,
@@ -88,11 +72,27 @@
     },
     {
       "chainId": 999,
-      "address": "0x5555555555555555555555555555555555555555",
-      "name": "Wrapped HYPE",
-      "symbol": "WHYPE",
+      "address": "0x28245ab01298eaef7933bc90d35bd9dbca5c89db",
+      "name": "Hyperstable",
+      "symbol": "PEG",
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/54469/thumb/_UP3jBsi_400x400.jpg?1739905920"
+      "logoURI": "https://assets.coingecko.com/coins/images/55842/thumb/peglogo.png?1747766727"
+    },
+    {
+      "chainId": 999,
+      "address": "0x9fdbda0a5e284c32744d2f17ee5c74b284993463",
+      "name": "Unit Bitcoin",
+      "symbol": "UBTC",
+      "decimals": 8,
+      "logoURI": "https://assets.coingecko.com/coins/images/55066/thumb/ubtc.jpg?1743580113"
+    },
+    {
+      "chainId": 999,
+      "address": "0x47bb061c0204af921f43dc73c7d7768d2672ddee",
+      "name": "alright buddy",
+      "symbol": "BUDDY",
+      "decimals": 6,
+      "logoURI": "https://assets.coingecko.com/coins/images/54657/thumb/alright_buddy_pfp.png?1740895394"
     },
     {
       "chainId": 999,
@@ -120,11 +120,11 @@
     },
     {
       "chainId": 999,
-      "address": "0x00fdbc53719604d924226215bc871d55e40a1009",
-      "name": "Looping Collective",
-      "symbol": "LOOP",
+      "address": "0x02c6a2fa58cc01a18b8d9e00ea48d65e4df26c70",
+      "name": "Felix feUSD",
+      "symbol": "FEUSD",
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/55979/thumb/LOOP.png?1747918773"
+      "logoURI": "https://assets.coingecko.com/coins/images/55068/thumb/feusd.jpg?1743581333"
     },
     {
       "chainId": 999,
@@ -193,7 +193,7 @@
     {
       "chainId": 999,
       "address": "0x7bbcf1b600565ae023a1806ef637af4739de3255",
-      "name": "PrimeFi",
+      "name": "Prime Numbers Labs",
       "symbol": "PRFI",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/55355/thumb/Prime_Numbers_Icon_%281%29.png?1745589445"
@@ -218,6 +218,6 @@
   "version": {
     "major": 1,
     "minor": 9,
-    "patch": 0
+    "patch": 1
   }
 }
