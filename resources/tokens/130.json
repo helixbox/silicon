@@ -4,8 +4,16 @@
   "keywords": [
     "defi"
   ],
-  "timestamp": "2025-05-27T16:00:04.891+00:00",
+  "timestamp": "2025-05-29T08:00:07.434+00:00",
   "tokens": [
+    {
+      "chainId": 130,
+      "address": "0x4200000000000000000000000000000000000006",
+      "name": "Unichain Bridged WETH  Unichain ",
+      "symbol": "WETH",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/54331/thumb/weth_2.jpg?1739325052"
+    },
     {
       "chainId": 130,
       "address": "0xec4a56061d86955d0df883efb2e5791d99ea71f2",
@@ -32,27 +40,11 @@
     },
     {
       "chainId": 130,
-      "address": "0x4200000000000000000000000000000000000006",
-      "name": "Unichain Bridged WETH  Unichain ",
-      "symbol": "WETH",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/54331/thumb/weth_2.jpg?1739325052"
-    },
-    {
-      "chainId": 130,
       "address": "0x39538c45f6fd0b0dd3e595ed1c2671875fee9f17",
       "name": "Hooffather",
       "symbol": "HOOF",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/55345/thumb/Logo_%282%29.png?1745565191"
-    },
-    {
-      "chainId": 130,
-      "address": "0x2416092f143378750bb29b79ed961ab195cceea5",
-      "name": "Renzo Restaked ETH",
-      "symbol": "EZETH",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/50285/thumb/renzo-restaked-eth-logo.webp?1746354828"
     },
     {
       "chainId": 130,
@@ -96,6 +88,14 @@
     },
     {
       "chainId": 130,
+      "address": "0x2416092f143378750bb29b79ed961ab195cceea5",
+      "name": "Renzo Restaked ETH",
+      "symbol": "EZETH",
+      "decimals": 16,
+      "logoURI": "https://assets.coingecko.com/coins/images/34753/thumb/Ezeth_logo_circle.png?1713496404"
+    },
+    {
+      "chainId": 130,
       "address": "0x9151434b16b9763660705744891fa906f660ecc5",
       "name": "USDT0",
       "symbol": "USDT0",
@@ -114,6 +114,6 @@
   "version": {
     "major": 1,
     "minor": 0,
-    "patch": 0
+    "patch": 1
   }
 }
