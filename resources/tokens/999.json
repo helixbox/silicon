@@ -4,16 +4,8 @@
   "keywords": [
     "defi"
   ],
-  "timestamp": "2025-05-29T06:00:47.528+00:00",
+  "timestamp": "2025-06-02T08:00:42.855+00:00",
   "tokens": [
-    {
-      "chainId": 999,
-      "address": "0x8ff0dd9f9c40a0d76ef1bcfaf5f98c1610c74bd8",
-      "name": "Hyperstable USD",
-      "symbol": "USH",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/55951/thumb/ushlogo.png?1747851688"
-    },
     {
       "chainId": 999,
       "address": "0x5d3a1ff2b6bab83b63cd9ad0787074081a52ef34",
@@ -21,6 +13,14 @@
       "symbol": "USDE",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/66151/thumb/usde.jpg?1748491903"
+    },
+    {
+      "chainId": 999,
+      "address": "0x4ae080eccd89cf1dc2965dbd5198b7a4efdfa7b8",
+      "name": "GLO",
+      "symbol": "GLO",
+      "decimals": 6,
+      "logoURI": "https://assets.coingecko.com/coins/images/66222/thumb/MjLgDD39_400x400.png?1748846587"
     },
     {
       "chainId": 999,
@@ -32,11 +32,35 @@
     },
     {
       "chainId": 999,
+      "address": "0x00fdbc53719604d924226215bc871d55e40a1009",
+      "name": "Looping Collective",
+      "symbol": "LOOP",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/55979/thumb/LOOP.png?1747918773"
+    },
+    {
+      "chainId": 999,
+      "address": "0x9c84d78839ade4d3211a9b5fa73ef079eca4f739",
+      "name": "WET",
+      "symbol": "WET",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/56089/thumb/logo_wet.png?1748371556"
+    },
+    {
+      "chainId": 999,
       "address": "0xb5fe77d323d69eb352a02006ea8ecc38d882620c",
       "name": "KEI Stablecoin",
       "symbol": "KEI",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/55084/thumb/kei.jpg?1743648809"
+    },
+    {
+      "chainId": 999,
+      "address": "0x94e8396e0869c9f2200760af0621afd240e1cf38",
+      "name": "Staked HYPE Shares",
+      "symbol": "WSTHYPE",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/54722/thumb/hyperliquid.png?1741232793"
     },
     {
       "chainId": 999,
@@ -48,11 +72,11 @@
     },
     {
       "chainId": 999,
-      "address": "0x28245ab01298eaef7933bc90d35bd9dbca5c89db",
-      "name": "Hyperstable",
-      "symbol": "PEG",
+      "address": "0x502ee789b448aa692901fe27ab03174c90f07dd1",
+      "name": "Staked LOOP",
+      "symbol": "STLOOP",
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/55842/thumb/peglogo.png?1747766727"
+      "logoURI": "https://assets.coingecko.com/coins/images/56009/thumb/stLOOP.png?1748020765"
     },
     {
       "chainId": 999,
@@ -72,27 +96,19 @@
     },
     {
       "chainId": 999,
-      "address": "0x502ee789b448aa692901fe27ab03174c90f07dd1",
-      "name": "Staked LOOP",
-      "symbol": "STLOOP",
+      "address": "0x8ff0dd9f9c40a0d76ef1bcfaf5f98c1610c74bd8",
+      "name": "Hyperstable USD",
+      "symbol": "USH",
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/56009/thumb/stLOOP.png?1748020765"
+      "logoURI": "https://assets.coingecko.com/coins/images/55951/thumb/ushlogo.png?1747851688"
     },
     {
       "chainId": 999,
-      "address": "0x9c84d78839ade4d3211a9b5fa73ef079eca4f739",
-      "name": "WET",
-      "symbol": "WET",
+      "address": "0x28245ab01298eaef7933bc90d35bd9dbca5c89db",
+      "name": "Hyperstable",
+      "symbol": "PEG",
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/56089/thumb/logo_wet.png?1748371556"
-    },
-    {
-      "chainId": 999,
-      "address": "0x00fdbc53719604d924226215bc871d55e40a1009",
-      "name": "Looping Collective",
-      "symbol": "LOOP",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/55979/thumb/LOOP.png?1747918773"
+      "logoURI": "https://assets.coingecko.com/coins/images/55842/thumb/peglogo.png?1747766727"
     },
     {
       "chainId": 999,
@@ -125,14 +141,6 @@
       "symbol": "LHYPE",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/54816/thumb/loopedhype_logo_transparent.png?1741850425"
-    },
-    {
-      "chainId": 999,
-      "address": "0x94e8396e0869c9f2200760af0621afd240e1cf38",
-      "name": "Staked HYPE Shares",
-      "symbol": "WSTHYPE",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/54722/thumb/hyperliquid.png?1741232793"
     },
     {
       "chainId": 999,
@@ -249,7 +257,7 @@
   ],
   "version": {
     "major": 1,
-    "minor": 10,
+    "minor": 11,
     "patch": 0
   }
 }
