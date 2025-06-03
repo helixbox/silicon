@@ -21326,7 +21326,7 @@
   {
     "id": "bridged-usdc-stargate",
     "symbol": "usdc.e",
-    "name": "Bridged USDC (Stargate)",
+    "name": "Stargate Bridged USDC (Taiko)",
     "platforms": {
       "taiko": "0x19e26b0638bf63aa9fa4d14c6baf8d52ebe86c5c"
     }
@@ -81740,6 +81740,30 @@
     }
   },
   {
+    "id": "movement-bridged-usdc-movement",
+    "symbol": "usdc.e",
+    "name": "Movement Bridged USDC (Movement)",
+    "platforms": {
+      "movement": "0x83121c9f9b0527d1f056e21a950d6bf3b9e9e2e8353d0e95ccea726713cbea39"
+    }
+  },
+  {
+    "id": "movement-bridged-usdt-movement",
+    "symbol": "usdt.e",
+    "name": "Movement Bridged USDT (Movement)",
+    "platforms": {
+      "movement": "0x447721a30109c662dde9c73a0c2c9c9c459fb5e5a9c92f03c50fa69737f5d08d"
+    }
+  },
+  {
+    "id": "movement-bridged-wbtc-movement",
+    "symbol": "",
+    "name": "Movement Bridged WBTC (Movement)",
+    "platforms": {
+      "movement": "0xb06f29f24dde9c6daeec1f930f14a441a8d6c0fbea590725e88b340af3e1939c"
+    }
+  },
+  {
     "id": "movepump",
     "symbol": "movepump",
     "name": "MovePump",
@@ -114938,6 +114962,14 @@
     "name": "Stargate Bridged USDT (Iota EVM)",
     "platforms": {
       "iota-evm": "0xc1b8045a6ef2934cf0f78b0dbd489969fa9be7e4"
+    }
+  },
+  {
+    "id": "stargate-bridged-usdc-plume",
+    "symbol": "usdc.e",
+    "name": "Stargate Bridged USDC (Plume)",
+    "platforms": {
+      "plume-network": "0x78add880a697070c1e765ac44d65323a0dcce913"
     }
   },
   {
