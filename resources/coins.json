@@ -8821,12 +8821,6 @@
     }
   },
   {
-    "id": "arthera",
-    "symbol": "arthera",
-    "name": "Arthera",
-    "platforms": {}
-  },
-  {
     "id": "arthswap",
     "symbol": "arsw",
     "name": "ArthSwap",
@@ -19846,6 +19840,14 @@
     }
   },
   {
+    "id": "bookie-ai-by-virtuals",
+    "symbol": "bookie",
+    "name": "Bookie AI by Virtuals",
+    "platforms": {
+      "base": "0x5d54725b48d2c8badf5f6046c71c3ffb73e26228"
+    }
+  },
+  {
     "id": "bookiebot",
     "symbol": "bb",
     "name": "BookieBot",
@@ -22421,6 +22423,14 @@
     "symbol": "bga",
     "name": "Bugna",
     "platforms": {}
+  },
+  {
+    "id": "bugo",
+    "symbol": "bugo",
+    "name": "BUGO",
+    "platforms": {
+      "flare-network": "0x6c1490729ce19e809cf9f7e3e223c0490833de02"
+    }
   },
   {
     "id": "bugs-bunny",
@@ -27419,14 +27429,6 @@
     }
   },
   {
-    "id": "cindrum",
-    "symbol": "cind",
-    "name": "Cindrum",
-    "platforms": {
-      "ethereum": "0xac0968a3e2020ac8ca83e60ccf69081ebc6d3bc3"
-    }
-  },
-  {
     "id": "cinogames",
     "symbol": "$cino",
     "name": "Cinogames",
@@ -28503,6 +28505,14 @@
     }
   },
   {
+    "id": "coinbase-wrapped-doge",
+    "symbol": "cbdoge",
+    "name": "Coinbase Wrapped DOGE",
+    "platforms": {
+      "base": "0xcbd06e5a2b0c65597161de254aa074e489deb510"
+    }
+  },
+  {
     "id": "coinbase-wrapped-staked-eth",
     "symbol": "cbeth",
     "name": "Coinbase Wrapped Staked ETH",
@@ -28512,6 +28522,14 @@
       "optimistic-ethereum": "0xaddb6a0412de1ba0f936dcaeb8aaa24578dcf3b2",
       "base": "0x2ae3f1ec7f1f5012cfeab0185bfc7aa3cf0dec22",
       "polygon-pos": "0x4b4327db1600b8b1440163f667e199cef35385f5"
+    }
+  },
+  {
+    "id": "coinbase-wrapped-xrp",
+    "symbol": "cbxrp",
+    "name": "Coinbase Wrapped XRP",
+    "platforms": {
+      "base": "0xcb585250f852c6c6bf90434ab21a00f02833a4af"
     }
   },
   {
@@ -32820,8 +32838,8 @@
       "arbitrum-one": "0x47c337bd5b9344a6f3d6f58c474d9d8cd419d8ca",
       "scroll": "0xb9010964301326160173da694c0697a2fce82f39",
       "optimistic-ethereum": "0x47c337bd5b9344a6f3d6f58c474d9d8cd419d8ca",
-      "blast": "0x47c337bd5b9344a6f3d6f58c474d9d8cd419d8ca",
       "tomochain": "0xaedc38bd52b0380b2af4980948925734fd54fbf4",
+      "blast": "0x47c337bd5b9344a6f3d6f58c474d9d8cd419d8ca",
       "linea": "0x757cd583004400ee67e5cc3c7a60c6a62e3f6d30",
       "mode": "0xf15578bcdb3ccba8585c563af9aae200c1413bca"
     }
@@ -37905,6 +37923,14 @@
     "name": "DNAxCAT",
     "platforms": {
       "binance-smart-chain": "0x5b1baec64af6dc54e6e04349315919129a6d3c23"
+    }
+  },
+  {
+    "id": "dnd",
+    "symbol": "dnd",
+    "name": "DND",
+    "platforms": {
+      "solana": "AvuNqYe1Rj6eEzan78NYJ1nD3Ldt6CT8wpwGNrE2pump"
     }
   },
   {
@@ -44810,14 +44836,6 @@
     "symbol": "evr",
     "name": "Evernode",
     "platforms": {}
-  },
-  {
-    "id": "everreflect",
-    "symbol": "evrf",
-    "name": "EverReflect",
-    "platforms": {
-      "binance-smart-chain": "0x3c2e501b08cf5c16061468c96b19b32bae451da3"
-    }
   },
   {
     "id": "everrise",
@@ -57016,14 +57034,6 @@
     }
   },
   {
-    "id": "heli-doge",
-    "symbol": "hd",
-    "name": "HELI Doge",
-    "platforms": {
-      "hedera-hashgraph": "0.0.4545873"
-    }
-  },
-  {
     "id": "helio-2",
     "symbol": "helio",
     "name": "Helio",
@@ -58401,7 +58411,7 @@
     "symbol": "hoof",
     "name": "Hooffather",
     "platforms": {
-      "unichain": "0x39538c45f6fd0b0dd3e595ed1c2671875fee9f17"
+      "unichain": "0x849f05f7cfdc4215b16a3c5a58361445c4d56c8e"
     }
   },
   {
@@ -73081,14 +73091,6 @@
     }
   },
   {
-    "id": "lyfe-gold",
-    "symbol": "lgold",
-    "name": "Lyfe Gold",
-    "platforms": {
-      "ethereum": "0x27778e14ce36d3b85e1effeb43816a17bbb7088a"
-    }
-  },
-  {
     "id": "lylo-ai",
     "symbol": "lylo",
     "name": "Lylo.ai",
@@ -79145,8 +79147,8 @@
     "platforms": {
       "ethereum": "0x149cac67f1cd5d80651e7c9bb359ec285d821a05",
       "mantle": "0x5ecdb76feda945dc71f7d9ce62dfe7eafefffab4",
-      "tomochain": "0xbb0209e02b3cc33ef00321e8d20b78ca1cdcc8a0",
-      "taiko": "0x2bd26ba2ef62ff90f807365c2bf363fb3bee9979"
+      "taiko": "0x2bd26ba2ef62ff90f807365c2bf363fb3bee9979",
+      "tomochain": "0xbb0209e02b3cc33ef00321e8d20b78ca1cdcc8a0"
     }
   },
   {
@@ -93056,14 +93058,6 @@
     }
   },
   {
-    "id": "pepenomics",
-    "symbol": "pepenomics",
-    "name": "Pepenomics",
-    "platforms": {
-      "ethereum": "0x696969ade0cc455414fc4800ebea505d690b2429"
-    }
-  },
-  {
     "id": "pepe-on-base",
     "symbol": "pepe",
     "name": "Pepe on Base",
@@ -96687,14 +96681,6 @@
     "name": "POPEYE",
     "platforms": {
       "internet-computer": "6fvyi-faaaa-aaaam-qbiga-cai"
-    }
-  },
-  {
-    "id": "popfish",
-    "symbol": "popfish",
-    "name": "POPFISH",
-    "platforms": {
-      "sui": "0x0be2c79c5f3e165518e3b3a420a4e35c134e87d8d0f6034ecb5b633f02dd935c::popfish::POPFISH"
     }
   },
   {
@@ -104027,6 +104013,14 @@
     }
   },
   {
+    "id": "routine-coin",
+    "symbol": "rou",
+    "name": "Routine Coin",
+    "platforms": {
+      "polygon-pos": "0xcc44674022a792794d219847362bb95c661937a9"
+    }
+  },
+  {
     "id": "rover-staked-bitcoin",
     "symbol": "rovbtc",
     "name": "Rover Staked Bitcoin",
@@ -110577,6 +110571,14 @@
     }
   },
   {
+    "id": "snibbu-2",
+    "symbol": "snibbu",
+    "name": "Snibbu",
+    "platforms": {
+      "ethereum": "0x2a9db31f0f0329b03ddd7a8a4b5297815bba0124"
+    }
+  },
+  {
     "id": "snibbu-the-crab",
     "symbol": "snibbu",
     "name": "Snibbu the Crab",
@@ -114493,6 +114495,12 @@
     }
   },
   {
+    "id": "stake-dao-ynd",
+    "symbol": "sdynd",
+    "name": "Stake DAO YND",
+    "platforms": {}
+  },
+  {
     "id": "staked-aurora",
     "symbol": "staur",
     "name": "Staked Aurora",
@@ -118293,15 +118301,6 @@
     }
   },
   {
-    "id": "swiss-cash-coin-2",
-    "symbol": "swc",
-    "name": "Swiss Cash Coin",
-    "platforms": {
-      "binance-smart-chain": "0xd2f91b7e77580a6044e7897e7a7e2395aebe6c74",
-      "solana": "7iT1AJ5r24bJZPDVPJiWSUbJ5B95G88TePYqwKDPCHmX"
-    }
-  },
-  {
     "id": "swisscheese",
     "symbol": "swch",
     "name": "SwissCheese",
@@ -118957,6 +118956,14 @@
       "ethereum": "0x7c5b267ed81009aa7374b5ca7e5137da47045ba8",
       "base": "0x1287a235474e0331c0975e373bdd066444d1bd35",
       "polygon-pos": "0x8829d36f6680be993f5444198e8cbfa8f02ede96"
+    }
+  },
+  {
+    "id": "taiki-inu",
+    "symbol": "taiki",
+    "name": "TAIKI INU",
+    "platforms": {
+      "ethereum": "0xe533c2480983e46664b15717d6fc02c0a1dad537"
     }
   },
   {
@@ -121181,14 +121188,6 @@
     "name": "THE MEME GAME",
     "platforms": {
       "solana": "BfZm2yBtQFYnV7fLFboEJZbVDGcp29n685qVmgf5pump"
-    }
-  },
-  {
-    "id": "the-meme-of-the-future",
-    "symbol": "robo",
-    "name": "the meme of the future",
-    "platforms": {
-      "base": "0xd379002f26ce895d5c5095acb19afba92942c0cf"
     }
   },
   {
@@ -130104,6 +130103,14 @@
     "name": "VOPO",
     "platforms": {
       "binance-smart-chain": "0xee81ca267b8357ba30049d679027ebf65fcf7458"
+    }
+  },
+  {
+    "id": "vorilla",
+    "symbol": "vorilla",
+    "name": "Vorilla",
+    "platforms": {
+      "solana": "AFCWT9TWktpjYZgYBhFvdkMAHC4nEXKnPqVwqNdqpump"
     }
   },
   {
