@@ -18088,14 +18088,6 @@
     }
   },
   {
-    "id": "block-browser",
-    "symbol": "block",
-    "name": "Block Browser",
-    "platforms": {
-      "ethereum": "0x226d6d842d49b4d757bef1632053a198d5d9c8aa"
-    }
-  },
-  {
     "id": "blockcdn",
     "symbol": "bcdn",
     "name": "BlockCDN",
@@ -21658,14 +21650,6 @@
     "name": "x Layer Bridged WETH (x Layer)",
     "platforms": {
       "x-layer": "0x5a77f1443d16ee5761d310e38b62f77f726bc71c"
-    }
-  },
-  {
-    "id": "bridged-wrapped-hbar-heliswap",
-    "symbol": "whbar",
-    "name": "Wrapped HBAR (HeliSwap)",
-    "platforms": {
-      "hedera-hashgraph": "0x00000000000000000000000000000000002cc823"
     }
   },
   {
@@ -26212,7 +26196,7 @@
   },
   {
     "id": "checkerchain",
-    "symbol": "checkr",
+    "symbol": "crcn",
     "name": "CheckerChain",
     "platforms": {
       "elrond": "CHECKR-60108b"
@@ -36030,6 +36014,14 @@
     }
   },
   {
+    "id": "dextoro-2",
+    "symbol": "dtr",
+    "name": "dextoro",
+    "platforms": {
+      "solana": "FkqvTmDNgxgcdS7fPbZoQhPVuaYJPwSsP8mm4p7oNgf6"
+    }
+  },
+  {
     "id": "dez",
     "symbol": "dez",
     "name": "$DEZ",
@@ -41662,7 +41654,8 @@
     "symbol": "ecor",
     "name": "Ecorpay",
     "platforms": {
-      "the-open-network": "EQDc_nrm5oOVCVQM8GRJ5q_hr1jgpNQjsGkIGE-uztt26_Ep"
+      "the-open-network": "EQDc_nrm5oOVCVQM8GRJ5q_hr1jgpNQjsGkIGE-uztt26_Ep",
+      "solana": "6wQDzAZT17HYABu7rNXBDUSgNzDeGUUUzY2cS8wpEGAc"
     }
   },
   {
@@ -43007,14 +43000,6 @@
     "name": "Emorya Finance",
     "platforms": {
       "elrond": "EMR-d10ed9"
-    }
-  },
-  {
-    "id": "emoticoin",
-    "symbol": "emoti",
-    "name": "EmotiCoin",
-    "platforms": {
-      "ethereum": "0x9b0e1c344141fb361b842d397df07174e1cdb988"
     }
   },
   {
@@ -44819,14 +44804,6 @@
     "name": "EverETH",
     "platforms": {
       "ethereum": "0xe46a1d19962ea120765d3139c588ffd617be04a8"
-    }
-  },
-  {
-    "id": "evergrowcoin",
-    "symbol": "egc",
-    "name": "EverGrow Coin",
-    "platforms": {
-      "binance-smart-chain": "0xc001bbe2b87079294c63ece98bdd0a88d761434e"
     }
   },
   {
@@ -49307,9 +49284,17 @@
     }
   },
   {
-    "id": "friends-with-benefits-pro",
+    "id": "friends-with-benefit-pro",
     "symbol": "fwb",
     "name": "Friends With Benefits Pro",
+    "platforms": {
+      "base": "0xaa5ad1f869b910e5f794b9366e05e5f2cab4bfad"
+    }
+  },
+  {
+    "id": "friends-with-benefits-pro",
+    "symbol": "fwb",
+    "name": "Friends With Benefits Pro [OLD]",
     "platforms": {
       "ethereum": "0x35bd01fc9d6d5d81ca9e055db88dc49aa2c699a8"
     }
@@ -51105,6 +51090,12 @@
     "id": "gastrocoin",
     "symbol": "gtc",
     "name": "GastroCoin",
+    "platforms": {}
+  },
+  {
+    "id": "gata",
+    "symbol": "gata",
+    "name": "GATA",
     "platforms": {}
   },
   {
@@ -57137,14 +57128,6 @@
     "name": "HELIOS",
     "platforms": {
       "ethereum": "0x2614f29c39de46468a921fd0b41fdd99a01f2edf"
-    }
-  },
-  {
-    "id": "heliswap",
-    "symbol": "heli",
-    "name": "HeliSwap",
-    "platforms": {
-      "hedera-hashgraph": "0.0.1937609"
     }
   },
   {
@@ -65064,14 +65047,6 @@
     }
   },
   {
-    "id": "kasjak",
-    "symbol": "kasjak",
-    "name": "KASJAK",
-    "platforms": {
-      "kasplex": "KASJAK"
-    }
-  },
-  {
     "id": "kaspa",
     "symbol": "kas",
     "name": "Kaspa",
@@ -67630,6 +67605,14 @@
     }
   },
   {
+    "id": "kton-staked-kton",
+    "symbol": "kton",
+    "name": "KTON Staked $KTON",
+    "platforms": {
+      "the-open-network": "EQA9HwEZD_tONfVz6lJS0PVKR5viEiEGyj9AuQewGQVnXPg0"
+    }
+  },
+  {
     "id": "ktoshi",
     "symbol": "ktoshi",
     "name": "ktoshi",
@@ -67696,6 +67679,14 @@
       "ethereum": "0x96543ef8d2c75c26387c1a319ae69c0bee6f3fe7",
       "binance-smart-chain": "0x073690e6ce25be816e68f32dca3e11067c9fb5cc",
       "arbitrum-one": "0x3a18dcc9745edcd1ef33ecb93b0b6eba5671e7ca"
+    }
+  },
+  {
+    "id": "kuka",
+    "symbol": "kūka",
+    "name": "KŪKA",
+    "platforms": {
+      "ethereum": "0xe9942930a2e3a8a096a8a9637d62219f3159cf4d"
     }
   },
   {
@@ -72442,6 +72433,14 @@
     "name": "Love Power Coin",
     "platforms": {
       "ethereum": "0x504624040e0642921c2c266a9ac37cafbd8cda4e"
+    }
+  },
+  {
+    "id": "lowcap",
+    "symbol": "lowcap",
+    "name": "LOWCAP",
+    "platforms": {
+      "solana": "4EzbvuUVUFBf3gvtPu5js7sfMaDW7WQVTXdYXoM7pump"
     }
   },
   {
@@ -77840,15 +77839,6 @@
     "platforms": {
       "arbitrum-one": "0x0ae1bb2bc04308765a6b1215236cea8cfee8cab9",
       "polygon-pos": "0x17a011150e9feb7bec4cfada055c8df436eb730b"
-    }
-  },
-  {
-    "id": "metatoken-2",
-    "symbol": "mtk",
-    "name": "MetaToken",
-    "platforms": {
-      "ethereum": "0x0e7375c46a0552520ce6c976dc268ae1b341f45f",
-      "the-open-network": "EQBwai5QT5eb5WKmpDIf2s1BMeVp0lzpPaXRVroWNpdCdNa8"
     }
   },
   {
@@ -84292,6 +84282,14 @@
     }
   },
   {
+    "id": "nest-alpha-vault-lp",
+    "symbol": "inalpha",
+    "name": "Nest Alpha Vault (LP)",
+    "platforms": {
+      "plume-network": "0x64ab176c545bb85eca75d53c3ffcb361deafb855"
+    }
+  },
+  {
     "id": "nest-basis-vault",
     "symbol": "nbasis",
     "name": "Nest Basis Vault",
@@ -84379,6 +84377,14 @@
       "ethereum": "0xe72fe64840f4ef80e3ec73a1c749491b5c938cb9",
       "plume-network": "0xe72fe64840f4ef80e3ec73a1c749491b5c938cb9",
       "arbitrum-one": "0xe72fe64840f4ef80e3ec73a1c749491b5c938cb9"
+    }
+  },
+  {
+    "id": "nest-treasury-vault-lp",
+    "symbol": "intbill",
+    "name": "Nest Treasury Vault (LP)",
+    "platforms": {
+      "plume-network": "0xdea149f84859d1ec50480c209b71bffa482b0530"
     }
   },
   {
@@ -117099,7 +117105,7 @@
     "symbol": "suimon",
     "name": "Suimon",
     "platforms": {
-      "sui": "0x20b290ffc8c689918bad44c749ae8ffd0a08cfd771cc54b6e01bae53e26bc353::SUIMON::SUIMON"
+      "sui": "0xcb8fc6858b4d600611cb783a65459695711b8aaca0e949ef5aa1268d1e32f786::suimon::SUIMON"
     }
   },
   {
@@ -117536,14 +117542,6 @@
     }
   },
   {
-    "id": "super-athletes-token",
-    "symbol": "sat",
-    "name": "Super Athletes Token",
-    "platforms": {
-      "ethereum": "0x5abf88cf3444611d13f6d1b39f3f3ee8575c91a2"
-    }
-  },
-  {
     "id": "super-best-friends",
     "symbol": "subf",
     "name": "Super Best Friends",
@@ -117639,6 +117637,14 @@
     "name": "Super Connector",
     "platforms": {
       "base": "0xc797fc5ca8ef5502aaa0307b9bfc45e877d6caf5"
+    }
+  },
+  {
+    "id": "super-cycle-2",
+    "symbol": "cycle",
+    "name": "Super Cycle",
+    "platforms": {
+      "solana": "4kVZLRtcPvzngu23oxXqH4MyyRMaFyh875N4g4dWpump"
     }
   },
   {
@@ -119267,10 +119273,12 @@
   },
   {
     "id": "talos",
-    "symbol": "talos",
-    "name": "Talos",
+    "symbol": "agent",
+    "name": "AGENT",
     "platforms": {
-      "cardano": "97bbb7db0baef89caefce61b8107ac74c7a7340166b39d906f174bec"
+      "cardano": "97bbb7db0baef89caefce61b8107ac74c7a7340166b39d906f174bec",
+      "solana": "CwZNvjtai6E3z8mTH31wNLqjdDfepdQYppYVrsVpE7By",
+      "base": "0x7e5fe1e587a5c38b4a4a9ba38a35096f8ea35aac"
     }
   },
   {
@@ -123490,14 +123498,6 @@
     "name": "Tonstakers",
     "platforms": {
       "the-open-network": "EQC98_qAmNEptUtPc7W6xdHh_ZHrBUFpw5Ft_IzNU20QAJav"
-    }
-  },
-  {
-    "id": "ton-stars",
-    "symbol": "stars",
-    "name": "Ton Stars",
-    "platforms": {
-      "the-open-network": "EQC35pGY9erPOnN75wZpfpOyU5gwUnmLvUEE61oObpkoilgq"
     }
   },
   {
@@ -139602,6 +139602,14 @@
     }
   },
   {
+    "id": "yupfun-token",
+    "symbol": "yupfun",
+    "name": "YUPFUN Token",
+    "platforms": {
+      "solana": "4cp9JPLZBEAvw6KQbfxnQEEVHVd7wne1gD8FEZKupump"
+    }
+  },
+  {
     "id": "yuro-2024",
     "symbol": "yuro",
     "name": "Yuro 2024",
@@ -141422,9 +141430,10 @@
   {
     "id": "zyfi",
     "symbol": "zfi",
-    "name": "Zyfi",
+    "name": "ZyfAI",
     "platforms": {
-      "zksync": "0x5d0d7bca050e2e98fd4a5e8d3ba823b49f39868d"
+      "zksync": "0x5d0d7bca050e2e98fd4a5e8d3ba823b49f39868d",
+      "base": "0xd080ed3c74a20250a2c9821885203034acd2d5ae"
     }
   },
   {

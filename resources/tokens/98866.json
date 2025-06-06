@@ -4,8 +4,16 @@
   "keywords": [
     "defi"
   ],
-  "timestamp": "2025-06-05T08:00:47.456+00:00",
+  "timestamp": "2025-06-06T10:00:47.375+00:00",
   "tokens": [
+    {
+      "chainId": 98866,
+      "address": "0x64ab176c545bb85eca75d53c3ffcb361deafb855",
+      "name": "Nest Alpha Vault  LP ",
+      "symbol": "INALPHA",
+      "decimals": 6,
+      "logoURI": "https://assets.coingecko.com/coins/images/66319/thumb/nALPHA.png?1749197870"
+    },
     {
       "chainId": 98866,
       "address": "0x5107272921a750a20d492fb41acf0b770b09a624",
@@ -29,6 +37,14 @@
       "symbol": "PAYUSD",
       "decimals": 6,
       "logoURI": "https://assets.coingecko.com/coins/images/55876/thumb/PayUSD-token.png?1747555725"
+    },
+    {
+      "chainId": 98866,
+      "address": "0xdea149f84859d1ec50480c209b71bffa482b0530",
+      "name": "Nest Treasury Vault  LP ",
+      "symbol": "INTBILL",
+      "decimals": 6,
+      "logoURI": "https://assets.coingecko.com/coins/images/66318/thumb/inTbill.png?1749197830"
     },
     {
       "chainId": 98866,
@@ -153,7 +169,7 @@
   ],
   "version": {
     "major": 0,
-    "minor": 8,
+    "minor": 9,
     "patch": 0
   }
 }
