@@ -4,16 +4,8 @@
   "keywords": [
     "defi"
   ],
-  "timestamp": "2025-04-23T10:00:15.226+00:00",
+  "timestamp": "2025-06-09T07:00:13.389+00:00",
   "tokens": [
-    {
-      "chainId": 19,
-      "address": "0xd7565b16b65376e2ddb6c71e7971c7185a7ff3ff",
-      "name": "OracleSwap",
-      "symbol": "ORACLE",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/28123/thumb/OS_Logo_200.png?1696527131"
-    },
     {
       "chainId": 19,
       "address": "0xb2987753d1561570f726aa373f48e77e27aa5ff4",
@@ -24,11 +16,11 @@
     },
     {
       "chainId": 19,
-      "address": "0xc348f894d0e939fe72c467156e6d7dcbd6f16e21",
-      "name": "Flare Finance",
-      "symbol": "EXFI",
+      "address": "0xf810576a68c3731875bde07404be815b16fc0b4e",
+      "name": "Prophet",
+      "symbol": "PRO",
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/15134/thumb/rGTVPQaD_400x400.jpg?1696514791"
+      "logoURI": "https://assets.coingecko.com/coins/images/28124/thumb/PRO_Logo_200.png?1696527131"
     },
     {
       "chainId": 19,
@@ -40,11 +32,19 @@
     },
     {
       "chainId": 19,
-      "address": "0xf810576a68c3731875bde07404be815b16fc0b4e",
-      "name": "Prophet",
-      "symbol": "PRO",
+      "address": "0xc348f894d0e939fe72c467156e6d7dcbd6f16e21",
+      "name": "Experimental Finance",
+      "symbol": "EXFI",
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/28124/thumb/PRO_Logo_200.png?1696527131"
+      "logoURI": "https://assets.coingecko.com/coins/images/15134/thumb/exfi.png?1749448597"
+    },
+    {
+      "chainId": 19,
+      "address": "0xd7565b16b65376e2ddb6c71e7971c7185a7ff3ff",
+      "name": "OracleSwap",
+      "symbol": "ORACLE",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/28123/thumb/OS_Logo_200.png?1696527131"
     },
     {
       "chainId": 19,
@@ -66,6 +66,6 @@
   "version": {
     "major": 3,
     "minor": 0,
-    "patch": 0
+    "patch": 1
   }
 }
