@@ -26283,6 +26283,14 @@
     "platforms": {}
   },
   {
+    "id": "chatxzi-by-ai",
+    "symbol": "cxzi",
+    "name": "chatXZI by AI",
+    "platforms": {
+      "binance-smart-chain": "0x0cfc6333720194a1b8f3b7c87fcbd9f6497d4444"
+    }
+  },
+  {
     "id": "chax",
     "symbol": "chax",
     "name": "CHAX",
@@ -95449,6 +95457,12 @@
     }
   },
   {
+    "id": "plasma",
+    "symbol": "xpl",
+    "name": "Plasma",
+    "platforms": {}
+  },
+  {
     "id": "plasma-finance",
     "symbol": "ppay",
     "name": "Plasma Finance",
@@ -102695,7 +102709,10 @@
     "id": "resolv",
     "symbol": "resolv",
     "name": "Resolv",
-    "platforms": {}
+    "platforms": {
+      "ethereum": "0x259338656198ec7a76c729514d3cb45dfbf768a1",
+      "binance-smart-chain": "0xda6cef7f667d992a60eb823ab215493aa0c6b360"
+    }
   },
   {
     "id": "resolv-rlp",
@@ -117705,7 +117722,9 @@
     "id": "suiswap",
     "symbol": "sswp",
     "name": "Suiswap",
-    "platforms": {}
+    "platforms": {
+      "sui": "0x361dd589b98e8fcda9a7ee53b85efabef3569d00416640d2faa516e3801d7ffc::TOKEN::TOKEN"
+    }
   },
   {
     "id": "suitard",
