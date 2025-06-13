@@ -4,15 +4,23 @@
   "keywords": [
     "defi"
   ],
-  "timestamp": "2025-06-07T09:00:47.319+00:00",
+  "timestamp": "2025-06-13T19:00:46.287+00:00",
   "tokens": [
     {
       "chainId": 98866,
-      "address": "0x5107272921a750a20d492fb41acf0b770b09a624",
-      "name": "Mineral Vault Fund I",
-      "symbol": "MNRL",
+      "address": "0x15c09c0ffb3717325e60a564d1acfbfe999c2f88",
+      "name": "Dinari SRLN",
+      "symbol": "SRLND",
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/66290/thumb/mineral-vault.png?1749109942"
+      "logoURI": "https://assets.coingecko.com/coins/images/66390/thumb/d-token-200.png?1749284651"
+    },
+    {
+      "chainId": 98866,
+      "address": "0xe9e8330a71912f03e54e7d93795acd9a56f070aa",
+      "name": "Pay USD",
+      "symbol": "PAYUSD",
+      "decimals": 6,
+      "logoURI": "https://assets.coingecko.com/coins/images/55876/thumb/PayUSD-token.png?1747555725"
     },
     {
       "chainId": 98866,
@@ -24,19 +32,11 @@
     },
     {
       "chainId": 98866,
-      "address": "0x15c09c0ffb3717325e60a564d1acfbfe999c2f88",
-      "name": "Dinari SRLN",
-      "symbol": "SRLND",
+      "address": "0x5107272921a750a20d492fb41acf0b770b09a624",
+      "name": "Mineral Vault I Security Token",
+      "symbol": "MNRL",
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/66390/thumb/d-token-200.png?1749284651"
-    },
-    {
-      "chainId": 98866,
-      "address": "0x78add880a697070c1e765ac44d65323a0dcce913",
-      "name": "Stargate Bridged USDC  Plume ",
-      "symbol": "USDCE",
-      "decimals": 6,
-      "logoURI": "https://assets.coingecko.com/coins/images/66243/thumb/USDC_Token.png?1748919033"
+      "logoURI": "https://assets.coingecko.com/coins/images/66290/thumb/mineral-vault.png?1749109942"
     },
     {
       "chainId": 98866,
@@ -48,11 +48,11 @@
     },
     {
       "chainId": 98866,
-      "address": "0xe9e8330a71912f03e54e7d93795acd9a56f070aa",
-      "name": "Pay USD",
-      "symbol": "PAYUSD",
+      "address": "0x78add880a697070c1e765ac44d65323a0dcce913",
+      "name": "Stargate Bridged USDC  Plume ",
+      "symbol": "USDCE",
       "decimals": 6,
-      "logoURI": "https://assets.coingecko.com/coins/images/55876/thumb/PayUSD-token.png?1747555725"
+      "logoURI": "https://assets.coingecko.com/coins/images/66243/thumb/USDC_Token.png?1748919033"
     },
     {
       "chainId": 98866,
@@ -178,6 +178,6 @@
   "version": {
     "major": 0,
     "minor": 10,
-    "patch": 0
+    "patch": 1
   }
 }
