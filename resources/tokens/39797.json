@@ -4,7 +4,7 @@
   "keywords": [
     "defi"
   ],
-  "timestamp": "2025-05-20T20:00:22.660+00:00",
+  "timestamp": "2025-06-13T08:00:24.135+00:00",
   "tokens": [
     {
       "chainId": 39797,
@@ -16,11 +16,19 @@
     },
     {
       "chainId": 39797,
-      "address": "0x0ee5893f434017d8881750101ea2f7c49c0eb503",
-      "name": "Multichain Bridged DAI  Energi ",
-      "symbol": "DAI",
+      "address": "0x78b050d981d7f6e019bf6e361d0d1167de6b19da",
+      "name": "Multichain Bridged WETH  Energi ",
+      "symbol": "WETH",
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/39802/thumb/dai.png?1724125849"
+      "logoURI": "https://assets.coingecko.com/coins/images/39692/thumb/weth.png?1723670286"
+    },
+    {
+      "chainId": 39797,
+      "address": "0xffd7510ca0a3279c7a5f50018a26c21d5bc1dbcf",
+      "name": "Energi Bridged USDC  Energi ",
+      "symbol": "USDC",
+      "decimals": 6,
+      "logoURI": "https://assets.coingecko.com/coins/images/35323/thumb/USDC.jpg?1708178353"
     },
     {
       "chainId": 39797,
@@ -32,14 +40,6 @@
     },
     {
       "chainId": 39797,
-      "address": "0x78b050d981d7f6e019bf6e361d0d1167de6b19da",
-      "name": "Multichain Bridged WETH  Energi ",
-      "symbol": "WETH",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/39692/thumb/weth.png?1723670286"
-    },
-    {
-      "chainId": 39797,
       "address": "0x881145b61c604d4d27b8969b917bc4844cc8a9dc",
       "name": "Energiswap SOL  Energi ",
       "symbol": "ESOL",
@@ -48,11 +48,11 @@
     },
     {
       "chainId": 39797,
-      "address": "0xffd7510ca0a3279c7a5f50018a26c21d5bc1dbcf",
-      "name": "Energi Bridged USDC  Energi ",
-      "symbol": "USDC",
-      "decimals": 6,
-      "logoURI": "https://assets.coingecko.com/coins/images/35323/thumb/USDC.jpg?1708178353"
+      "address": "0x0ee5893f434017d8881750101ea2f7c49c0eb503",
+      "name": "Multichain Bridged DAI  Energi ",
+      "symbol": "DAI",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/39802/thumb/dai.png?1724125849"
     },
     {
       "chainId": 39797,
@@ -570,7 +570,7 @@
       "chainId": 39797,
       "address": "0xe99bbd3b25a014aac93127cf868d3de07386c4dd",
       "name": "Polymath",
-      "symbol": "POLY",
+      "symbol": "POLYX",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/2784/thumb/inKkF01.png?1696503553"
     },
@@ -938,6 +938,6 @@
   "version": {
     "major": 7,
     "minor": 0,
-    "patch": 2
+    "patch": 3
   }
 }
