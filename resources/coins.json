@@ -5412,14 +5412,6 @@
     }
   },
   {
-    "id": "alita-gold",
-    "symbol": "alita",
-    "name": "ALITA GOLD",
-    "platforms": {
-      "binance-smart-chain": "0x5525821d99d3c3892f7c9aa3fa752d48c8764668"
-    }
-  },
-  {
     "id": "alitas",
     "symbol": "alt",
     "name": "Alitas",
@@ -7732,14 +7724,6 @@
     "name": "AptosLaunch Token",
     "platforms": {
       "aptos": "0xd0b4efb4be7c3508d9a26a9b5405cf9f860d0b9e5fe2f498b90e68b8d2cedd3e::aptos_launch_token::AptosLaunchToken"
-    }
-  },
-  {
-    "id": "apu-apustaja-base",
-    "symbol": "apu",
-    "name": "Apu Apustaja",
-    "platforms": {
-      "base": "0x3159fb5589acd6bf9f82eb0efe8382ed55aed8fd"
     }
   },
   {
@@ -10235,12 +10219,6 @@
       "ethereum": "0xcb0d82f4dfa503c9e3b8abc7a3caa01175b2da39",
       "polygon-pos": "0x1a763170b96f23f15576d0fa0b2619d1254c437d"
     }
-  },
-  {
-    "id": "ausd-seed-acala",
-    "symbol": "aseed",
-    "name": "aUSD SEED (Acala)",
-    "platforms": {}
   },
   {
     "id": "ausd-seed-karura",
@@ -17634,18 +17612,6 @@
     }
   },
   {
-    "id": "blackhat-coin",
-    "symbol": "blkc",
-    "name": "BlackHat Coin",
-    "platforms": {
-      "binance-smart-chain": "0x8626264b6a1b4e920905efd381002aba52ea0eea",
-      "arbitrum-one": "0x8626264b6a1b4e920905efd381002aba52ea0eea",
-      "the-open-network": "EQD-J6UqYQezuUm6SlPDnHwTxXqo4uHys_fle_zKvM5nYJkA",
-      "ethereum": "0x8bcd06492416a749c9369009b3429861b7f27f6e",
-      "polygon-pos": "0x8626264b6a1b4e920905efd381002aba52ea0eea"
-    }
-  },
-  {
     "id": "blackhole-protocol",
     "symbol": "black",
     "name": "BlackHole Protocol",
@@ -20725,14 +20691,6 @@
     }
   },
   {
-    "id": "brandpad-finance",
-    "symbol": "brand",
-    "name": "BrandPad Finance",
-    "platforms": {
-      "binance-smart-chain": "0x4d993ec7b44276615bb2f6f20361ab34fbf0ec49"
-    }
-  },
-  {
     "id": "brandy",
     "symbol": "brandy",
     "name": "BRANDY",
@@ -21441,14 +21399,6 @@
     "name": "Stargate Bridged USDC (Taiko)",
     "platforms": {
       "taiko": "0x19e26b0638bf63aa9fa4d14c6baf8d52ebe86c5c"
-    }
-  },
-  {
-    "id": "bridged-usdc-world-chain",
-    "symbol": "usdc.e",
-    "name": "World Chain Bridged USDC (World Chain)",
-    "platforms": {
-      "world-chain": "0x79a02482a880bce3f13e09da970dc34db4cd24d1"
     }
   },
   {
@@ -25393,7 +25343,7 @@
   },
   {
     "id": "celo-japanese-yen",
-    "symbol": "cjy",
+    "symbol": "cjpy",
     "name": "Celo Japanese Yen",
     "platforms": {
       "celo": "0xc45ecf20f3cd864b32d9794d6f76814ae8892e20"
@@ -54027,14 +53977,6 @@
     }
   },
   {
-    "id": "goledo-2",
-    "symbol": "gol",
-    "name": "Goledo",
-    "platforms": {
-      "conflux": "0x19aae9e4269ab47ff291125b5c0c2f7296a635ab"
-    }
-  },
-  {
     "id": "golem",
     "symbol": "glm",
     "name": "Golem",
@@ -54673,7 +54615,8 @@
     "symbol": "gracy",
     "name": "Gracy",
     "platforms": {
-      "ethereum": "0x7c95e7ad2b349dc2f82d0f1117a44b561fa2699a"
+      "ethereum": "0x7c95e7ad2b349dc2f82d0f1117a44b561fa2699a",
+      "base": "0xc5449fafc8711b6fa68192586c9aa9302503b939"
     }
   },
   {
@@ -74629,15 +74572,6 @@
     "platforms": {}
   },
   {
-    "id": "mainstream-for-the-underground",
-    "symbol": "mftu",
-    "name": "Mainstream For The Underground",
-    "platforms": {
-      "ethereum": "0xba745513acebcbb977497c569d4f7d340f2a936b",
-      "polygon-pos": "0xc46a37fbbe433ef24bc7b9388c8728ddcf3ca87c"
-    }
-  },
-  {
     "id": "mai-optimism",
     "symbol": "mimatic",
     "name": "MAI (Optimism)",
@@ -76666,14 +76600,6 @@
     "symbol": "metis",
     "name": "Medusa",
     "platforms": {}
-  },
-  {
-    "id": "meeb-master",
-    "symbol": "meeb",
-    "name": "Meeb Master",
-    "platforms": {
-      "polygon-pos": "0x64afdf9e28946419e325d801fb3053d8b8ffdc23"
-    }
   },
   {
     "id": "meeb-vault-nftx",
@@ -84003,7 +83929,8 @@
     "symbol": "nasdaq420",
     "name": "Nasdaq420",
     "platforms": {
-      "ethereum": "0x615987d46003cc37387dbe544ff4f16fa1200077"
+      "ethereum": "0x615987d46003cc37387dbe544ff4f16fa1200077",
+      "solana": "GXUisEapYfHJe8oFoWSPPyiLSLYT6Em9iEeXTFxUHyUA"
     }
   },
   {
@@ -105243,14 +105170,6 @@
     }
   },
   {
-    "id": "ruufcoin",
-    "symbol": "ruuf",
-    "name": "RuufCoin",
-    "platforms": {
-      "polygon-pos": "0x182f1d39df9460d7aef29afbc80bbd68ed0a41d5"
-    }
-  },
-  {
     "id": "rwa-ai",
     "symbol": "rwa",
     "name": "RWA-AI",
@@ -118109,14 +118028,6 @@
     }
   },
   {
-    "id": "sully-the-shrimp",
-    "symbol": "sully",
-    "name": "Sully the shrimp",
-    "platforms": {
-      "sui": "0xf300d024edb85b05b8845937b05f6624058406908439e8ddd4e5796ca75efd6e::sully::SULLY"
-    }
-  },
-  {
     "id": "sumer-money-sueth",
     "symbol": "sueth",
     "name": "Sumer.Money suETH",
@@ -119316,14 +119227,6 @@
     "symbol": "swtr",
     "name": "Swisstronik",
     "platforms": {}
-  },
-  {
-    "id": "swiss-wine",
-    "symbol": "swine",
-    "name": "Swiss Wine",
-    "platforms": {
-      "airdao": "0xc410f3eb0c0f0e1efa188d38c366536d59a265ba"
-    }
   },
   {
     "id": "switcheo",
@@ -128493,6 +128396,7 @@
       "ethereum": "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
       "sonic": "0x29219dd400f2bf60e5a23d13be72b486d4038894",
       "unichain": "0x078d782b760474a361dda0af3839290b0ef57ad6",
+      "world-chain": "0x79a02482a880bce3f13e09da970dc34db4cd24d1",
       "zksync": "0x1d17cbcf0d6d143135ae902365d2e5e2a16538d4",
       "polkadot": "1337",
       "tron": "TEkxiTehnzSmSe2XqrBj4w32RUN966rdz8",
@@ -129098,14 +129002,6 @@
     "name": "Vader Protocol",
     "platforms": {
       "ethereum": "0x2602278ee1882889b946eb11dc0e810075650983"
-    }
-  },
-  {
-    "id": "vagabond-2",
-    "symbol": "vgb",
-    "name": "Vagabond",
-    "platforms": {
-      "xrp": "rhcyBrowwApgNonehKBj8Po5z4gTyRknaU"
     }
   },
   {
@@ -132221,14 +132117,6 @@
     "symbol": "wart",
     "name": "Warthog",
     "platforms": {}
-  },
-  {
-    "id": "war-three-kingdoms",
-    "symbol": "w3kt",
-    "name": "War Three Kingdoms",
-    "platforms": {
-      "the-open-network": "EQCXNSZ93jQmaN0I5E8lBYq1xKXWEsTDa5KkYLnthjzlPIsm"
-    }
   },
   {
     "id": "wasder",
@@ -136473,14 +136361,6 @@
     }
   },
   {
-    "id": "wrapped-jones-aura",
-    "symbol": "wjaura",
-    "name": "Wrapped Jones AURA",
-    "platforms": {
-      "ethereum": "0x198d7387fa97a73f05b8578cdeff8f2a1f34cd1f"
-    }
-  },
-  {
     "id": "wrapped-jpmorgan-chase-xstock",
     "symbol": "wjpmx",
     "name": "Wrapped JPMorgan Chase xStock",
@@ -140557,14 +140437,6 @@
     "name": "YU",
     "platforms": {
       "ethereum": "0xe868084cf08f3c3db11f4b73a95473762d9463f7"
-    }
-  },
-  {
-    "id": "yuge-meme",
-    "symbol": "yuge",
-    "name": "Yuge Meme",
-    "platforms": {
-      "solana": "5ve8Fw3gDFpdipxtk4UptKbrtimRLDy97KRKuLbQnECa"
     }
   },
   {
