@@ -352,8 +352,8 @@ class SyncTokenRuntime {
         continue;
       }
       for (const sc of chainIds) {
-        const chain = this.chainMap[sc];
-        const token = this.tokenMap[sc];
+        const chain: ChainRaw = this.chainMap[sc];
+        const token: HbToken = this.tokenMap[sc];
 
         if (!chain || !token) {
           continue;
