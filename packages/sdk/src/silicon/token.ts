@@ -4,7 +4,7 @@ import levenshtein from "fast-levenshtein";
 
 import { HbChain, HelixboxChain } from "./chain";
 
-const DEFAULT_LOAD_CHAINS = [
+const DEFAULT_LOAD_CHAINS: number[] = [
   1, // ethereum
   8453, // base
   10, // op
@@ -439,7 +439,7 @@ class SyncTokenRuntime {
             coinId = coin.id;
           } else {
             console.warn(
-              `can not found coin by ${foundedToken.address} from ${chain.id}`
+              `can not found coin by ${foundedToken.address} from ${chain.id} using coingeco`
             );
             coinId = `${chain.id}-${
               foundedToken.symbol
@@ -538,6 +538,7 @@ class SyncTokenRuntime {
       if (!platformAddress) {
         continue;
       }
+          // console.log('========>', platformAddress);
       if (platformAddress.toLowerCase() != _address) {
         continue;
       }
