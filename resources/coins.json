@@ -2102,14 +2102,6 @@
     }
   },
   {
-    "id": "ab",
-    "symbol": "ab",
-    "name": "AB",
-    "platforms": {
-      "binance-smart-chain": "0x95034f653d5d161890836ad2b6b8cc49d14e029a"
-    }
-  },
-  {
     "id": "abax",
     "symbol": "abax",
     "name": "Abax",
@@ -31075,6 +31067,14 @@
     "platforms": {
       "cronos": "0xd50f5739a09f36c6f97cc9a4849c5462ba6129a3",
       "base": "0x56f6f2a23ae5ef82d8dc46934f7cf8d0b15ddedd"
+    }
+  },
+  {
+    "id": "croin",
+    "symbol": "cr",
+    "name": "Croin",
+    "platforms": {
+      "tron": "TVzP8uYrFeynuZXhsHjgCxBd8CxPeP511e"
     }
   },
   {
@@ -85443,7 +85443,9 @@
     "id": "newton-project",
     "symbol": "ab",
     "name": "AB",
-    "platforms": {}
+    "platforms": {
+      "binance-smart-chain": "0x95034f653d5d161890836ad2b6b8cc49d14e029a"
+    }
   },
   {
     "id": "new-truth-terminal",
@@ -89203,8 +89205,8 @@
     "platforms": {
       "ethereum": "0x96f6ef951840721adbf46ac996b59e0235cb985c",
       "noble": "ausdy",
-      "mantra": "ibc/6749D16BC09F419C090C330FC751FFF1C96143DB7A4D2FCAEC2F348A3E17618A",
       "osmosis": "ibc/23104D411A6EB6031FA92FB75F227422B84989969E91DCAD56A535DD7FF0A373",
+      "mantra": "ibc/6749D16BC09F419C090C330FC751FFF1C96143DB7A4D2FCAEC2F348A3E17618A",
       "arbitrum-one": "0x35e050d3c0ec2d29d269a8ecea763a183bdf9a9d",
       "mantle": "0x5be26527e817998a7206475496fde1e68957c5a6",
       "aptos": "0xcfea864b32833f157f042618bd845145256b1bf4c0da34a7013b76e42daa53cc",
@@ -96941,7 +96943,7 @@
   },
   {
     "id": "polymath",
-    "symbol": "polyx",
+    "symbol": "poly",
     "name": "Polymath",
     "platforms": {
       "ethereum": "0x9992ec3cf6a55b00978cddf2b27bc6882d88d1ec",
