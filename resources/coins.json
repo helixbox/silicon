@@ -44690,6 +44690,14 @@
     }
   },
   {
+    "id": "etherlink-bridged-wbtc-etherlink",
+    "symbol": "wbtc",
+    "name": "Etherlink Bridged WBTC (Etherlink)",
+    "platforms": {
+      "etherlink": "0xbfc94cd2b1e55999cfc7347a9313e88702b83d0f"
+    }
+  },
+  {
     "id": "ethermax",
     "symbol": "maxx",
     "name": "Ethermax",
@@ -66430,9 +66438,18 @@
   {
     "id": "kilt-protocol",
     "symbol": "kilt",
+    "name": "KILT Protocol [OLD]",
+    "platforms": {
+      "polkadot": "",
+      "ethereum": "0x5d3d01fd6d2ad1169b17918eb4f153c6616288eb"
+    }
+  },
+  {
+    "id": "kilt-protocol-2",
+    "symbol": "kilt",
     "name": "KILT Protocol",
     "platforms": {
-      "polkadot": ""
+      "base": "0x5d0dd05bb095fdd6af4865a1adf97c39c85ad2d8"
     }
   },
   {
@@ -79072,6 +79089,7 @@
     "name": "Midas mBASIS",
     "platforms": {
       "ethereum": "0x2a8c22e3b10036f3aef5875d04f8441d4188b656",
+      "etherlink": "0x2247b5a46bb79421a314ab0f0b67ffd11dd37ee4",
       "base": "0x1c2757c1fef1038428b5bef062495ce94bbe92b2"
     }
   },
@@ -94098,9 +94116,17 @@
   {
     "id": "pepe-unchained",
     "symbol": "pepu",
-    "name": "Pepe Unchained",
+    "name": "Pepe Unchained [OLD]",
     "platforms": {
       "ethereum": "0xadd39272e83895e7d3f244f696b7a25635f34234"
+    }
+  },
+  {
+    "id": "pepe-unchained-2",
+    "symbol": "pepu",
+    "name": "Pepe Unchained",
+    "platforms": {
+      "ethereum": "0x93aa0ccd1e5628d3a841c4dbdf602d9eb04085d6"
     }
   },
   {
