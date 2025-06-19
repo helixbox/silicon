@@ -4,8 +4,16 @@
   "keywords": [
     "defi"
   ],
-  "timestamp": "2025-06-04T10:00:06.093+00:00",
+  "timestamp": "2025-06-19T09:00:05.104+00:00",
   "tokens": [
+    {
+      "chainId": 130,
+      "address": "0x588ce4f028d8e7b53b687865d6a67b3a54c75518",
+      "name": "Unichain Bridged USDT  Unichain ",
+      "symbol": "USDT",
+      "decimals": 6,
+      "logoURI": "https://assets.coingecko.com/coins/images/66726/thumb/usdt.jpg?1750318933"
+    },
     {
       "chainId": 130,
       "address": "0xec4a56061d86955d0df883efb2e5791d99ea71f2",
@@ -16,11 +24,11 @@
     },
     {
       "chainId": 130,
-      "address": "0x849f05f7cfdc4215b16a3c5a58361445c4d56c8e",
-      "name": "Hooffather",
-      "symbol": "HOOF",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/55345/thumb/Logo_%282%29.png?1745565191"
+      "address": "0x0555e30da8f98308edb960aa94c0db47230d2b9c",
+      "name": "LayerZero Bridged WBTC  Unichain ",
+      "symbol": "WBTC",
+      "decimals": 8,
+      "logoURI": "https://assets.coingecko.com/coins/images/66720/thumb/wbtc.jpg?1750312819"
     },
     {
       "chainId": 130,
@@ -32,11 +40,35 @@
     },
     {
       "chainId": 130,
+      "address": "0x849f05f7cfdc4215b16a3c5a58361445c4d56c8e",
+      "name": "Hooffather",
+      "symbol": "HOOF",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/55345/thumb/Logo_%282%29.png?1745565191"
+    },
+    {
+      "chainId": 130,
       "address": "0x4200000000000000000000000000000000000006",
       "name": "Unichain Bridged WETH  Unichain ",
       "symbol": "WETH",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/54331/thumb/weth_2.jpg?1739325052"
+    },
+    {
+      "chainId": 130,
+      "address": "0x7dcc39b4d1c53cb31e1abc0e358b43987fef80f7",
+      "name": "Ether fi Bridged weETH  Unichain ",
+      "symbol": "WEETH",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/66721/thumb/eeth.jpg?1750313748"
+    },
+    {
+      "chainId": 130,
+      "address": "0x927b51f251480a681271180da4de28d44ec4afb8",
+      "name": "Unichain Bridged WBTC  Unichain ",
+      "symbol": "WBTC",
+      "decimals": 8,
+      "logoURI": "https://assets.coingecko.com/coins/images/66722/thumb/wbtc.jpg?1750315958"
     },
     {
       "chainId": 130,
@@ -113,7 +145,7 @@
   ],
   "version": {
     "major": 2,
-    "minor": 0,
+    "minor": 2,
     "patch": 0
   }
 }
