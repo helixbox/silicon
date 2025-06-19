@@ -12353,6 +12353,14 @@
     }
   },
   {
+    "id": "backroom",
+    "symbol": "room",
+    "name": "Backroom",
+    "platforms": {
+      "base": "0x6555255b8ded3c538cb398d9e36769f45d7d3ea7"
+    }
+  },
+  {
     "id": "backstage-pass-notes",
     "symbol": "notes",
     "name": "Backstage Pass Notes",
@@ -23209,6 +23217,14 @@
     "name": "BUU",
     "platforms": {
       "solana": "28tVhteKZkzzWjrdHGXzxfm4SQkhrDrjLur9TYCDVULE"
+    }
+  },
+  {
+    "id": "buy-and-sleep",
+    "symbol": "sleepcoin",
+    "name": "buy and sleep",
+    "platforms": {
+      "solana": "FneWQD6Ycu4yn6gGGYK1BawrVu2Pf91B7Q8X5MUkpump"
     }
   },
   {
@@ -44610,6 +44626,14 @@
     "name": "ether.fi Bridged weETH (Base)",
     "platforms": {
       "base": "0x04c0599ae5a44757c0af6f9ec3b93da8976c150a"
+    }
+  },
+  {
+    "id": "etherfi-bridged-weeth-unichain",
+    "symbol": "weeth",
+    "name": "Ether.fi Bridged weETH (Unichain)",
+    "platforms": {
+      "unichain": "0x7dcc39b4d1c53cb31e1abc0e358b43987fef80f7"
     }
   },
   {
@@ -79132,6 +79156,7 @@
     "platforms": {
       "ethereum": "0xdd629e5241cbc5919847783e6c96b2de4754e438",
       "oasis-sapphire": "0xdd629e5241cbc5919847783e6c96b2de4754e438",
+      "etherlink": "0xdd629e5241cbc5919847783e6c96b2de4754e438",
       "base": "0xdd629e5241cbc5919847783e6c96b2de4754e438"
     }
   },
@@ -87755,6 +87780,14 @@
       "avalanche": "0x771c01e1917b5ab5b791f7b96f0cd69e22f6dbcf",
       "ethereum": "0x19193f450086d0442157b852081976d41657ad56",
       "binance-smart-chain": "0x3a2927e68749dd6ad0a568d7c05b587863c0bc10"
+    }
+  },
+  {
+    "id": "nura-labs",
+    "symbol": "nura",
+    "name": "Nura Labs",
+    "platforms": {
+      "ethereum": "0x926759a8eaecfadb5d8bdc7a9c7b193c5085f507"
     }
   },
   {
@@ -122718,7 +122751,10 @@
     "id": "the-p33l",
     "symbol": "p33l",
     "name": "THE P33L",
-    "platforms": {}
+    "platforms": {
+      "binance-smart-chain": "0x7528bd0f620d1568c307cc8d5db481a29e8d4e37",
+      "ethereum": "0x7528bd0f620d1568c307cc8d5db481a29e8d4e37"
+    }
   },
   {
     "id": "the-pea-guy-by-virtuals",
@@ -127643,6 +127679,30 @@
     "name": "UNICE",
     "platforms": {
       "binance-smart-chain": "0xa0cf89ee581313d84d28409eb6bb1d1f9b55d410"
+    }
+  },
+  {
+    "id": "unichain-bridged-usdt-unichain",
+    "symbol": "usdt",
+    "name": "Unichain Bridged USDT (Unichain)",
+    "platforms": {
+      "unichain": "0x588ce4f028d8e7b53b687865d6a67b3a54c75518"
+    }
+  },
+  {
+    "id": "unichain-bridged-wbtc-unichain",
+    "symbol": "wbtc",
+    "name": "LayerZero Bridged WBTC (Unichain)",
+    "platforms": {
+      "unichain": "0x0555e30da8f98308edb960aa94c0db47230d2b9c"
+    }
+  },
+  {
+    "id": "unichain-bridged-wbtc-unichain-2",
+    "symbol": "wbtc",
+    "name": "Unichain Bridged WBTC (Unichain)",
+    "platforms": {
+      "unichain": "0x927b51f251480a681271180da4de28d44ec4afb8"
     }
   },
   {
