@@ -4,7 +4,7 @@
   "keywords": [
     "defi"
   ],
-  "timestamp": "2025-05-31T06:00:02.901+00:00",
+  "timestamp": "2025-06-19T06:00:02.731+00:00",
   "tokens": [
     {
       "chainId": 42793,
@@ -13,6 +13,14 @@
       "symbol": "USDT",
       "decimals": 6,
       "logoURI": "https://assets.coingecko.com/coins/images/39662/thumb/tether.png?1723525619"
+    },
+    {
+      "chainId": 42793,
+      "address": "0xbfc94cd2b1e55999cfc7347a9313e88702b83d0f",
+      "name": "Etherlink Bridged WBTC  Etherlink ",
+      "symbol": "WBTC",
+      "decimals": 8,
+      "logoURI": "https://assets.coingecko.com/coins/images/66719/thumb/wbtc.jpg?1750306081"
     },
     {
       "chainId": 42793,
@@ -56,6 +64,22 @@
     },
     {
       "chainId": 42793,
+      "address": "0x2247b5a46bb79421a314ab0f0b67ffd11dd37ee4",
+      "name": "Midas mBASIS",
+      "symbol": "MBASIS",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/50593/thumb/mBASIS_logo.png?1728444389"
+    },
+    {
+      "chainId": 42793,
+      "address": "0xdd629e5241cbc5919847783e6c96b2de4754e438",
+      "name": "Midas mTBILL",
+      "symbol": "MTBILL",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/37839/thumb/mTBILL_token.png?1728417279"
+    },
+    {
+      "chainId": 42793,
       "address": "0xfc24f770f94edbca6d6f885e12d4317320bcb401",
       "name": "Bridged WETH",
       "symbol": "WETH",
@@ -65,7 +89,7 @@
   ],
   "version": {
     "major": 0,
-    "minor": 6,
+    "minor": 8,
     "patch": 0
   }
 }
