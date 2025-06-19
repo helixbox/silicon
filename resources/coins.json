@@ -3561,6 +3561,9 @@
       "solana": "AUSD1jCcCyPLybk1YnvPWsHQSrZ46dxwoMniN4N2UEB9",
       "injective": "factory/inj1n636d9gzrqggdk66n2f97th0x8yuhfrtx520e7/ausd",
       "polygon-pos": "0x00000000efe302beaa2b3e6e1b18d08d69a9012a",
+      "binance-smart-chain": "0x00000000efe302beaa2b3e6e1b18d08d69a9012a",
+      "core": "0x00000000efe302beaa2b3e6e1b18d08d69a9012a",
+      "immutable": "0x00000000efe302beaa2b3e6e1b18d08d69a9012a",
       "sui": "0x2053d08c1e2bd02791056171aab0fd12bd7cd7efad2ab8f6b9c8902f14df2ff2::ausd::AUSD",
       "avalanche": "0x00000000efe302beaa2b3e6e1b18d08d69a9012a"
     }
@@ -6841,7 +6844,7 @@
   {
     "id": "angel-twin",
     "symbol": "angl",
-    "name": "Angel Twin",
+    "name": "ANGL TOKEN",
     "platforms": {}
   },
   {
@@ -51686,6 +51689,14 @@
     "platforms": {}
   },
   {
+    "id": "geeked",
+    "symbol": "geeked",
+    "name": "geeked",
+    "platforms": {
+      "solana": "EbW1bx4NdjH4aTTUNAP9PRBYTu6qJE12d9vUhvHbpump"
+    }
+  },
+  {
     "id": "geeq",
     "symbol": "geeq",
     "name": "GEEQ",
@@ -57062,7 +57073,9 @@
     "id": "haust",
     "symbol": "haust",
     "name": "Haust",
-    "platforms": {}
+    "platforms": {
+      "ethereum": "0xec3502a9f98f151af52ee6cb423a0afe7bbf5a19"
+    }
   },
   {
     "id": "hava-coin",
@@ -58115,7 +58128,7 @@
   {
     "id": "hilo-2",
     "symbol": "hilo",
-    "name": "Hilo",
+    "name": "HILO",
     "platforms": {
       "ethereum": "0x6c3fe25a4de7fa243c653cfe1f165bf11d99704e"
     }
@@ -69713,6 +69726,14 @@
     "name": "League of Kingdoms",
     "platforms": {
       "ethereum": "0x61e90a50137e1f645c9ef4a0d3a4f01477738406"
+    }
+  },
+  {
+    "id": "league-of-traders",
+    "symbol": "lot",
+    "name": "League of Traders",
+    "platforms": {
+      "binance-smart-chain": "0xbfe78de7d1c51e0868501d5fa3e88e674c79acdd"
     }
   },
   {
@@ -131518,7 +131539,8 @@
     "name": "VNX British Pound",
     "platforms": {
       "solana": "5H4voZhzySsVvwVYDAKku8MZGuYBC7cXaBKDPW4YHWW1",
-      "celo": "0x7ae4265ecfc1f31bc0e112dfcfe3d78e01f4bb7f"
+      "celo": "0x7ae4265ecfc1f31bc0e112dfcfe3d78e01f4bb7f",
+      "base": "0xaeb4bb7debd1e5e82266f7c3b5cff56b3a7bf411"
     }
   },
   {
@@ -131533,6 +131555,7 @@
       "q-mainnet": "0x513f99dee650f529d7c65bb5679f092b64003520",
       "fraxtal": "0x4c0bd74da8237c08840984fdb33a84b4586aaee6",
       "arbitrum-one": "0x4883c8f0529f37e40ebea870f3c13cdfad5d01f8",
+      "base": "0x4ed9df25d38795a47f52614126e47f564d37f347",
       "stellar": "GDXLSLCOPPHTWOQXLLKSVN4VN3G67WD2ENU7UMVAROEYVJLSPSEWXIZN",
       "avalanche": "0x7678e162f38ec9ef2bfd1d0aaf9fd93355e5fa0b",
       "polygon-pos": "0xe4095d9372e68d108225c306a4491cacfb33b097",
@@ -131563,6 +131586,7 @@
       "arbitrum-one": "0x02cea97794d2cfb5f560e1ff4e9c59d1bec75969",
       "xrp": "VCHF-rLPtwF4FZi8bNVmbQ8JgoDUooozhwMNXr3",
       "fraxtal": "0x418126bb59457afdba1ecf376f97400b4157425d",
+      "base": "0x1fca74d9ef54a6ac80ffe7d3b14e76c4330fd5d8",
       "stellar": "VCHF-GDXLSLCOPPHTWOQXLLKSVN4VN3G67WD2ENU7UMVAROEYVJLSPSEWXIZN",
       "avalanche": "0x228a48df6819ccc2eca01e2192ebafffdad56c19",
       "polygon-pos": "0xcdb3867935247049e87c38ea270edd305d84c9ae",
@@ -134121,7 +134145,8 @@
       "ethereum": "0xc53ac24320e3a54c7211e4993c8095078a0cb3cf",
       "solana": "8aB8hdzyqjCJdtP1rfdLNX8bGDjjM8S42BZ3j4zNVtRN",
       "polygon-pos": "0xc53ac24320e3a54c7211e4993c8095078a0cb3cf",
-      "optimistic-ethereum": "0x3d63825b0d8669307366e6c8202f656b9e91d368"
+      "optimistic-ethereum": "0x3d63825b0d8669307366e6c8202f656b9e91d368",
+      "hyperevm": "0xc53ac24320e3a54c7211e4993c8095078a0cb3cf"
     }
   },
   {
