@@ -4,16 +4,8 @@
   "keywords": [
     "defi"
   ],
-  "timestamp": "2025-06-19T12:00:47.214+00:00",
+  "timestamp": "2025-06-21T10:00:47.557+00:00",
   "tokens": [
-    {
-      "chainId": 999,
-      "address": "0x28245ab01298eaef7933bc90d35bd9dbca5c89db",
-      "name": "Hyperstable",
-      "symbol": "PEG",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/55842/thumb/peglogo.png?1747766727"
-    },
     {
       "chainId": 999,
       "address": "0x5d3a1ff2b6bab83b63cd9ad0787074081a52ef34",
@@ -21,30 +13,6 @@
       "symbol": "USDE",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/66151/thumb/usde.jpg?1748491903"
-    },
-    {
-      "chainId": 999,
-      "address": "0x8ff0dd9f9c40a0d76ef1bcfaf5f98c1610c74bd8",
-      "name": "Hyperstable USD",
-      "symbol": "USH",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/55951/thumb/ushlogo.png?1747851688"
-    },
-    {
-      "chainId": 999,
-      "address": "0x738dd55c272b0b686382f62dd4a590056839f4f6",
-      "name": "Holy Liquid",
-      "symbol": "HL",
-      "decimals": 6,
-      "logoURI": "https://assets.coingecko.com/coins/images/66502/thumb/1500x500.jpeg?1749574229"
-    },
-    {
-      "chainId": 999,
-      "address": "0x502ee789b448aa692901fe27ab03174c90f07dd1",
-      "name": "Staked LOOP",
-      "symbol": "STLOOP",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/56009/thumb/stLOOP.png?1748020765"
     },
     {
       "chainId": 999,
@@ -56,11 +24,27 @@
     },
     {
       "chainId": 999,
-      "address": "0xcb0ac0aa94c67dde8688ac34c8e4d6c18e78b638",
-      "name": "LiquidScan",
-      "symbol": "LQSCAN",
+      "address": "0x00fdbc53719604d924226215bc871d55e40a1009",
+      "name": "Looping Collective",
+      "symbol": "LOOP",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/55979/thumb/LOOP.png?1747918773"
+    },
+    {
+      "chainId": 999,
+      "address": "0x211cc4dd073734da055fbf44a2b4667d5e5fe5d2",
+      "name": "HyperEVM Bridged SUSDE  HyperEVM ",
+      "symbol": "SUSDE",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/66153/thumb/susde.jpg?1748492340"
+    },
+    {
+      "chainId": 999,
+      "address": "0x1359b05241ca5076c9f59605214f4f84114c0de8",
+      "name": "Wrapped HLP",
+      "symbol": "WHLP",
       "decimals": 6,
-      "logoURI": "https://assets.coingecko.com/coins/images/55686/thumb/7210ad01-56a9-4ca5-9b71-466a43fe34ec.jpg?1747033308"
+      "logoURI": "https://assets.coingecko.com/coins/images/66783/thumb/image_%282%29.png?1750493063"
     },
     {
       "chainId": 999,
@@ -69,6 +53,14 @@
       "symbol": "HLGATO",
       "decimals": 6,
       "logoURI": "https://assets.coingecko.com/coins/images/66253/thumb/HlGato_%283%29_%281%29.png?1748972398"
+    },
+    {
+      "chainId": 999,
+      "address": "0xf4d9235269a96aadafc9adae454a0618ebe37949",
+      "name": "Tether Gold Tokens",
+      "symbol": "XAUT0",
+      "decimals": 6,
+      "logoURI": "https://assets.coingecko.com/coins/images/66560/thumb/XAUt0_Token_Icon_Gold.png?1749747942"
     },
     {
       "chainId": 999,
@@ -88,59 +80,19 @@
     },
     {
       "chainId": 999,
+      "address": "0x0ad339d66bf4aed5ce31c64bc37b3244b6394a77",
+      "name": "HyperEVM Bridged USR  HyperEVM ",
+      "symbol": "USR",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/66152/thumb/usr.jpg?1748492157"
+    },
+    {
+      "chainId": 999,
       "address": "0x9c84d78839ade4d3211a9b5fa73ef079eca4f739",
       "name": "WET",
       "symbol": "WET",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/56089/thumb/logo_wet.png?1748371556"
-    },
-    {
-      "chainId": 999,
-      "address": "0x00fdbc53719604d924226215bc871d55e40a1009",
-      "name": "Looping Collective",
-      "symbol": "LOOP",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/55979/thumb/LOOP.png?1747918773"
-    },
-    {
-      "chainId": 999,
-      "address": "0xbf7f2b530c073e21ea0627f36deeaec21a6adfec",
-      "name": "LICKO",
-      "symbol": "LICKO",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/66698/thumb/logo.jpg?1750267210"
-    },
-    {
-      "chainId": 999,
-      "address": "0x211cc4dd073734da055fbf44a2b4667d5e5fe5d2",
-      "name": "HyperEVM Bridged SUSDE  HyperEVM ",
-      "symbol": "SUSDE",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/66153/thumb/susde.jpg?1748492340"
-    },
-    {
-      "chainId": 999,
-      "address": "0xb50a96253abdf803d85efcdce07ad8becbc52bd5",
-      "name": "Hyper USD",
-      "symbol": "USDHL",
-      "decimals": 6,
-      "logoURI": "https://assets.coingecko.com/coins/images/66679/thumb/usdhl.jpg?1750242294"
-    },
-    {
-      "chainId": 999,
-      "address": "0xdabb040c428436d41cecd0fb06bcfdbaad3a9aa8",
-      "name": "Hyperpie Staked mHYPE",
-      "symbol": "MHYPE",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/55442/thumb/Hyperpie__mHYPE.png?1746029578"
-    },
-    {
-      "chainId": 999,
-      "address": "0x9fdbda0a5e284c32744d2f17ee5c74b284993463",
-      "name": "Unit Bitcoin",
-      "symbol": "UBTC",
-      "decimals": 8,
-      "logoURI": "https://assets.coingecko.com/coins/images/55066/thumb/ubtc.jpg?1743580113"
     },
     {
       "chainId": 999,
@@ -152,22 +104,6 @@
     },
     {
       "chainId": 999,
-      "address": "0x0ad339d66bf4aed5ce31c64bc37b3244b6394a77",
-      "name": "HyperEVM Bridged USR  HyperEVM ",
-      "symbol": "USR",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/66152/thumb/usr.jpg?1748492157"
-    },
-    {
-      "chainId": 999,
-      "address": "0xf4d9235269a96aadafc9adae454a0618ebe37949",
-      "name": "Tether Gold Tokens",
-      "symbol": "XAUT0",
-      "decimals": 6,
-      "logoURI": "https://assets.coingecko.com/coins/images/66560/thumb/XAUt0_Token_Icon_Gold.png?1749747942"
-    },
-    {
-      "chainId": 999,
       "address": "0x7dcffcb06b40344eeced2d1cbf096b299fe4b405",
       "name": "Reverse Unit Bias",
       "symbol": "RUB",
@@ -176,11 +112,83 @@
     },
     {
       "chainId": 999,
+      "address": "0x8ff0dd9f9c40a0d76ef1bcfaf5f98c1610c74bd8",
+      "name": "Hyperstable USD",
+      "symbol": "USH",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/55951/thumb/ushlogo.png?1747851688"
+    },
+    {
+      "chainId": 999,
+      "address": "0xb50a96253abdf803d85efcdce07ad8becbc52bd5",
+      "name": "Hyper USD",
+      "symbol": "USDHL",
+      "decimals": 6,
+      "logoURI": "https://assets.coingecko.com/coins/images/66679/thumb/usdhl.jpg?1750242294"
+    },
+    {
+      "chainId": 999,
+      "address": "0x738dd55c272b0b686382f62dd4a590056839f4f6",
+      "name": "Holy Liquid",
+      "symbol": "HL",
+      "decimals": 6,
+      "logoURI": "https://assets.coingecko.com/coins/images/66502/thumb/1500x500.jpeg?1749574229"
+    },
+    {
+      "chainId": 999,
       "address": "0x94e8396e0869c9f2200760af0621afd240e1cf38",
       "name": "Staked HYPE Shares",
       "symbol": "WSTHYPE",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/54722/thumb/hyperliquid.png?1741232793"
+    },
+    {
+      "chainId": 999,
+      "address": "0xdabb040c428436d41cecd0fb06bcfdbaad3a9aa8",
+      "name": "Hyperpie Staked mHYPE",
+      "symbol": "MHYPE",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/55442/thumb/Hyperpie__mHYPE.png?1746029578"
+    },
+    {
+      "chainId": 999,
+      "address": "0xcb0ac0aa94c67dde8688ac34c8e4d6c18e78b638",
+      "name": "LiquidScan",
+      "symbol": "LQSCAN",
+      "decimals": 6,
+      "logoURI": "https://assets.coingecko.com/coins/images/55686/thumb/7210ad01-56a9-4ca5-9b71-466a43fe34ec.jpg?1747033308"
+    },
+    {
+      "chainId": 999,
+      "address": "0x502ee789b448aa692901fe27ab03174c90f07dd1",
+      "name": "Staked LOOP",
+      "symbol": "STLOOP",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/56009/thumb/stLOOP.png?1748020765"
+    },
+    {
+      "chainId": 999,
+      "address": "0x9fdbda0a5e284c32744d2f17ee5c74b284993463",
+      "name": "Unit Bitcoin",
+      "symbol": "UBTC",
+      "decimals": 8,
+      "logoURI": "https://assets.coingecko.com/coins/images/55066/thumb/ubtc.jpg?1743580113"
+    },
+    {
+      "chainId": 999,
+      "address": "0xbf7f2b530c073e21ea0627f36deeaec21a6adfec",
+      "name": "LICKO",
+      "symbol": "LICKO",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/66698/thumb/logo.jpg?1750267210"
+    },
+    {
+      "chainId": 999,
+      "address": "0x28245ab01298eaef7933bc90d35bd9dbca5c89db",
+      "name": "Hyperstable",
+      "symbol": "PEG",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/55842/thumb/peglogo.png?1747766727"
     },
     {
       "chainId": 999,
@@ -345,7 +353,7 @@
   ],
   "version": {
     "major": 1,
-    "minor": 19,
+    "minor": 20,
     "patch": 0
   }
 }
