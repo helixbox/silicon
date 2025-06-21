@@ -4,7 +4,7 @@
   "keywords": [
     "defi"
   ],
-  "timestamp": "2025-06-18T07:00:21.846+00:00",
+  "timestamp": "2025-06-21T09:00:20.821+00:00",
   "tokens": [
     {
       "chainId": 39797,
@@ -16,27 +16,19 @@
     },
     {
       "chainId": 39797,
-      "address": "0x78b050d981d7f6e019bf6e361d0d1167de6b19da",
-      "name": "Multichain Bridged WETH  Energi ",
-      "symbol": "WETH",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/39692/thumb/weth.png?1723670286"
-    },
-    {
-      "chainId": 39797,
-      "address": "0xffd7510ca0a3279c7a5f50018a26c21d5bc1dbcf",
-      "name": "Energi Bridged USDC  Energi ",
-      "symbol": "USDC",
-      "decimals": 6,
-      "logoURI": "https://assets.coingecko.com/coins/images/35323/thumb/USDC.jpg?1708178353"
-    },
-    {
-      "chainId": 39797,
       "address": "0xd7b8710f5713d2739da301a5ecdb8b6ffb5ec60d",
       "name": "Energiswap WAVAX  Energi ",
       "symbol": "EAVAX",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/53087/thumb/wrapped-avax.png?1735205549"
+    },
+    {
+      "chainId": 39797,
+      "address": "0x78b050d981d7f6e019bf6e361d0d1167de6b19da",
+      "name": "Multichain Bridged WETH  Energi ",
+      "symbol": "WETH",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/39692/thumb/weth.png?1723670286"
     },
     {
       "chainId": 39797,
@@ -53,6 +45,14 @@
       "symbol": "DAI",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/39802/thumb/dai.png?1724125849"
+    },
+    {
+      "chainId": 39797,
+      "address": "0xffd7510ca0a3279c7a5f50018a26c21d5bc1dbcf",
+      "name": "Energi Bridged USDC  Energi ",
+      "symbol": "USDC",
+      "decimals": 6,
+      "logoURI": "https://assets.coingecko.com/coins/images/35323/thumb/USDC.jpg?1708178353"
     },
     {
       "chainId": 39797,
@@ -332,7 +332,7 @@
       "name": "Civic",
       "symbol": "CVC",
       "decimals": 8,
-      "logoURI": "https://assets.coingecko.com/coins/images/788/thumb/civic-orange.png?1696501939"
+      "logoURI": "https://assets.coingecko.com/coins/images/788/thumb/civic-icon-black-padding.png?1750494984"
     },
     {
       "chainId": 39797,
@@ -938,6 +938,6 @@
   "version": {
     "major": 7,
     "minor": 0,
-    "patch": 4
+    "patch": 5
   }
 }

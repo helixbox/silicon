@@ -3202,7 +3202,7 @@
   {
     "id": "agentcoin-tv",
     "symbol": "aitv",
-    "name": "Agentcoin.TV",
+    "name": "AITV",
     "platforms": {
       "ethereum": "0x04e69ff14a86e1ca9a155a8563e95887973ee175"
     }
@@ -4490,14 +4490,6 @@
     "name": "AI Supreme",
     "platforms": {
       "arbitrum-one": "0x493070ef5280e7a275a106a30b0414dbdb21febd"
-    }
-  },
-  {
-    "id": "aiswap",
-    "symbol": "aiswap",
-    "name": "AISwap",
-    "platforms": {
-      "binance-smart-chain": "0x8974769bcfc2715fcabcfe4341ba4fcc804abcd8"
     }
   },
   {
@@ -10576,6 +10568,7 @@
     "name": "Avail",
     "platforms": {
       "ethereum": "0xeeb4d8400aeefafc1b2953e0094134a887c76bd8",
+      "binance-smart-chain": "0x39702843a6733932ec7ce0dde404e5a6dbd8c989",
       "base": "0xd89d90d26b48940fa8f58385fe84625d468e057a"
     }
   },
@@ -16516,7 +16509,7 @@
   {
     "id": "bitads",
     "symbol": "sn16",
-    "name": "BitAds",
+    "name": "HashTensor",
     "platforms": {
       "bittensor": "16"
     }
@@ -25694,6 +25687,7 @@
     "name": "Etherfuse CETES",
     "platforms": {
       "solana": "CETES7CKqqKQizuSN6iWQwmTeFRjbJR6Vw2XRKfEDR8f",
+      "base": "0x834df4c1d8f51be24322e39e4766697be015512f",
       "stellar": "CETES-GCRYUGD5NVARGXT56XEZI5CIFCQETYHAPQQTHO2O3IQZTHDH4LATMYWC"
     }
   },
@@ -26153,14 +26147,6 @@
     "name": "ChainX",
     "platforms": {
       "polkadot": ""
-    }
-  },
-  {
-    "id": "chair",
-    "symbol": "chair",
-    "name": "chair",
-    "platforms": {
-      "solana": "GfLkhUs8cGAkCdZ1smJgj7cfejkm6ApnzgDHu6uipnXg"
     }
   },
   {
@@ -41884,15 +41870,6 @@
     }
   },
   {
-    "id": "echolinkv8",
-    "symbol": "eko",
-    "name": "EchoLinkV8",
-    "platforms": {
-      "ethereum": "0xb1f8302ee205bfe27514cd7185a3fc69bbbdb284",
-      "arbitrum-one": "0x370f01c998b583e7cc9a7ee79be8ed0bb27345e7"
-    }
-  },
-  {
     "id": "echo-of-the-horizon",
     "symbol": "eoth",
     "name": "Echo Of The Horizon",
@@ -42247,12 +42224,6 @@
     "platforms": {
       "ethereum": "0x63f718c15f4500326dd5015f95ccbde770ad21af"
     }
-  },
-  {
-    "id": "eeg",
-    "symbol": "eeg",
-    "name": "EEG",
-    "platforms": {}
   },
   {
     "id": "eesee",
@@ -72759,14 +72730,6 @@
     }
   },
   {
-    "id": "loon-network",
-    "symbol": "loon",
-    "name": "Loon Network",
-    "platforms": {
-      "ethereum": "0x7c5d5100b339fe7d995a893af6cb496b9474373c"
-    }
-  },
-  {
     "id": "loopburn",
     "symbol": "lbp",
     "name": "LoopBurn",
@@ -80490,7 +80453,8 @@
     "symbol": "nuum",
     "name": "MNet Continuum",
     "platforms": {
-      "solana": "nuumnQ637GtKPis16AeU3PhNru74S7tK9GdjYVATbxL"
+      "solana": "nuumnQ637GtKPis16AeU3PhNru74S7tK9GdjYVATbxL",
+      "base": "0x41485fa1ff3c677d1f09fc8b9576560e4a4c223c"
     }
   },
   {
@@ -92865,14 +92829,6 @@
     }
   },
   {
-    "id": "pastel",
-    "symbol": "psl",
-    "name": "Pastel",
-    "platforms": {
-      "ethereum": "0xc775c0c30840cb9f51e21061b054ebf1a00acc29"
-    }
-  },
-  {
     "id": "pat",
     "symbol": "pat",
     "name": "Pat",
@@ -98530,14 +98486,6 @@
     }
   },
   {
-    "id": "primas",
-    "symbol": "pst",
-    "name": "Primas",
-    "platforms": {
-      "ethereum": "0xe3fedaecd47aa8eab6b23227b0ee56f092c967a9"
-    }
-  },
-  {
     "id": "primate",
     "symbol": "primate",
     "name": "Primate",
@@ -99523,14 +99471,6 @@
     "name": "PUGGY",
     "platforms": {
       "solana": "ATDtCHJF6A5ourCyM3UxscrPQM1oUHMz5JFxd4iaCZ8W"
-    }
-  },
-  {
-    "id": "puggy-coin",
-    "symbol": "puggy",
-    "name": "PUGGY Coin",
-    "platforms": {
-      "polygon-pos": "0x762b56f3e36a4be65763056d6464668b4c7b2f49"
     }
   },
   {
@@ -101795,7 +101735,9 @@
     "id": "rank-2",
     "symbol": "ran",
     "name": "Rank",
-    "platforms": {}
+    "platforms": {
+      "binance-smart-chain": "0x978ab3d5a5c39bcbb2a15f2ad324187dd7cbf952"
+    }
   },
   {
     "id": "rankerdao",
@@ -119294,14 +119236,6 @@
     }
   },
   {
-    "id": "super-sushi-samurai",
-    "symbol": "sss",
-    "name": "Super Sushi Samurai",
-    "platforms": {
-      "blast": "0xfd4d19f9fbb9f730c3c88a21755832bd2455144e"
-    }
-  },
-  {
     "id": "super-trump",
     "symbol": "strump",
     "name": "Super Trump",
@@ -127480,7 +127414,8 @@
       "binance-smart-chain": "0x2a3dc2d5daf9c8c46c954b8669f4643c6b1c081a",
       "core": "0xbb4a26a053b217bb28766a4ed4b062c3b4de58ce",
       "opbnb": "0xf7fb2df9280eb0a76427dc3b34761db8b1441a49",
-      "soneium": "0x61f2993a644762a345b483adf0d6351c5edfb3b5"
+      "soneium": "0x61f2993a644762a345b483adf0d6351c5edfb3b5",
+      "goat": "0x78e26e8b953c7c78a58d69d8b9a91745c2bbb258"
     }
   },
   {
@@ -127771,14 +127706,6 @@
     "name": "Umi's Friends Unity",
     "platforms": {
       "binance-smart-chain": "0x0f6d3353914caafe18ab0c835a789afc886e7039"
-    }
-  },
-  {
-    "id": "umoja",
-    "symbol": "umja",
-    "name": "Umoja",
-    "platforms": {
-      "arbitrum-one": "0x16a500aec6c37f84447ef04e66c57cfc6254cf92"
     }
   },
   {
@@ -128449,14 +128376,6 @@
     "name": "Universal Basic Income",
     "platforms": {
       "ethereum": "0xdd1ad9a21ce722c151a836373babe42c868ce9a4"
-    }
-  },
-  {
-    "id": "universal-blockchan",
-    "symbol": "usbt",
-    "name": "Universal Blockchain",
-    "platforms": {
-      "binance-smart-chain": "0x43767d226ef1f5337d10382cd19d64b60a30c5fd"
     }
   },
   {
@@ -137053,6 +136972,14 @@
     }
   },
   {
+    "id": "wrapped-hlp",
+    "symbol": "whlp",
+    "name": "Wrapped HLP",
+    "platforms": {
+      "hyperevm": "0x1359b05241ca5076c9f59605214f4f84114c0de8"
+    }
+  },
+  {
     "id": "wrapped-hlusd",
     "symbol": "whlusd",
     "name": "Wrapped HLUSD",
@@ -139699,14 +139626,6 @@
     }
   },
   {
-    "id": "xpet-tech-bpet",
-    "symbol": "bpet",
-    "name": "xPet.tech BPET",
-    "platforms": {
-      "arbitrum-one": "0x6daf586b7370b14163171544fca24abcc0862ac5"
-    }
-  },
-  {
     "id": "xphere",
     "symbol": "xp",
     "name": "Xphere",
@@ -140846,6 +140765,14 @@
     "name": "YieldNest Restaked LSD - Eigenlayer",
     "platforms": {
       "ethereum": "0x35ec69a77b79c255e5d47d5a3bdbefefe342630c"
+    }
+  },
+  {
+    "id": "yieldnest-rwa-max",
+    "symbol": "ynrwax",
+    "name": "YieldNest RWA MAX",
+    "platforms": {
+      "ethereum": "0x01ba69727e2860b37bc1a2bd56999c1afb4c15d8"
     }
   },
   {
