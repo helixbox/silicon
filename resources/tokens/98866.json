@@ -4,7 +4,7 @@
   "keywords": [
     "defi"
   ],
-  "timestamp": "2025-06-13T19:00:46.287+00:00",
+  "timestamp": "2025-06-23T11:00:46.124+00:00",
   "tokens": [
     {
       "chainId": 98866,
@@ -13,22 +13,6 @@
       "symbol": "SRLND",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/66390/thumb/d-token-200.png?1749284651"
-    },
-    {
-      "chainId": 98866,
-      "address": "0xe9e8330a71912f03e54e7d93795acd9a56f070aa",
-      "name": "Pay USD",
-      "symbol": "PAYUSD",
-      "decimals": 6,
-      "logoURI": "https://assets.coingecko.com/coins/images/55876/thumb/PayUSD-token.png?1747555725"
-    },
-    {
-      "chainId": 98866,
-      "address": "0x64ab176c545bb85eca75d53c3ffcb361deafb855",
-      "name": "Nest Alpha Vault  LP ",
-      "symbol": "INALPHA",
-      "decimals": 6,
-      "logoURI": "https://assets.coingecko.com/coins/images/66319/thumb/nALPHA.png?1749197870"
     },
     {
       "chainId": 98866,
@@ -45,6 +29,22 @@
       "symbol": "INTBILL",
       "decimals": 6,
       "logoURI": "https://assets.coingecko.com/coins/images/66318/thumb/inTbill.png?1749197830"
+    },
+    {
+      "chainId": 98866,
+      "address": "0x64ab176c545bb85eca75d53c3ffcb361deafb855",
+      "name": "Nest Alpha Vault  LP ",
+      "symbol": "INALPHA",
+      "decimals": 6,
+      "logoURI": "https://assets.coingecko.com/coins/images/66319/thumb/nALPHA.png?1749197870"
+    },
+    {
+      "chainId": 98866,
+      "address": "0xe9e8330a71912f03e54e7d93795acd9a56f070aa",
+      "name": "Pay USD",
+      "symbol": "PAYUSD",
+      "decimals": 6,
+      "logoURI": "https://assets.coingecko.com/coins/images/55876/thumb/PayUSD-token.png?1747555725"
     },
     {
       "chainId": 98866,
@@ -173,11 +173,19 @@
       "symbol": "NELIXIR",
       "decimals": 6,
       "logoURI": "https://assets.coingecko.com/coins/images/55469/thumb/nELIXIR-token.png?1746604311"
+    },
+    {
+      "chainId": 98866,
+      "address": "0x1271656f45e251f588847721ba2c561dd1f0223f",
+      "name": "Elixir deUSD",
+      "symbol": "DEUSD",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/39494/thumb/deUSD_Logo_%281%29.png?1723689002"
     }
   ],
   "version": {
     "major": 0,
-    "minor": 10,
-    "patch": 1
+    "minor": 11,
+    "patch": 0
   }
 }
