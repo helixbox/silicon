@@ -4,16 +4,8 @@
   "keywords": [
     "defi"
   ],
-  "timestamp": "2025-06-19T08:00:02.392+00:00",
+  "timestamp": "2025-06-24T12:00:02.265+00:00",
   "tokens": [
-    {
-      "chainId": 42793,
-      "address": "0x2c03058c8afc06713be23e58d2febc8337dbfe6a",
-      "name": "Bridged USDT  Etherlink ",
-      "symbol": "USDT",
-      "decimals": 6,
-      "logoURI": "https://assets.coingecko.com/coins/images/39662/thumb/tether.png?1723525619"
-    },
     {
       "chainId": 42793,
       "address": "0xbfc94cd2b1e55999cfc7347a9313e88702b83d0f",
@@ -24,11 +16,11 @@
     },
     {
       "chainId": 42793,
-      "address": "0xc9b53ab2679f573e480d01e0f49e2b5cfb7a3eab",
-      "name": "Wrapped XTZ",
-      "symbol": "WXTZ",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/51172/thumb/WXTZ_Logo_black.png?1741099768"
+      "address": "0x2c03058c8afc06713be23e58d2febc8337dbfe6a",
+      "name": "Bridged USDT  Etherlink ",
+      "symbol": "USDT",
+      "decimals": 6,
+      "logoURI": "https://assets.coingecko.com/coins/images/39662/thumb/tether.png?1723525619"
     },
     {
       "chainId": 42793,
@@ -37,6 +29,14 @@
       "symbol": "TZPEPE",
       "decimals": 2,
       "logoURI": "https://assets.coingecko.com/coins/images/53279/thumb/tzPEPE_%281%29.jpeg?1735957333"
+    },
+    {
+      "chainId": 42793,
+      "address": "0xc9b53ab2679f573e480d01e0f49e2b5cfb7a3eab",
+      "name": "Wrapped XTZ",
+      "symbol": "WXTZ",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/51172/thumb/WXTZ_Logo_Black.png?1750764795"
     },
     {
       "chainId": 42793,
@@ -90,6 +90,6 @@
   "version": {
     "major": 0,
     "minor": 8,
-    "patch": 0
+    "patch": 1
   }
 }
