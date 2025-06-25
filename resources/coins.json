@@ -48196,7 +48196,7 @@
   {
     "id": "floppa-cat",
     "symbol": "floppa",
-    "name": "Floppa Cat",
+    "name": "Floppa",
     "platforms": {
       "base": "0x776aaef8d8760129a0398cf8674ee28cefc0eab9",
       "solana": "F6Aj973E5vGHyGnVsKC39rAFwnFukF11JmpPQ7xPUFF8"
@@ -70787,7 +70787,9 @@
     "id": "libfi",
     "symbol": "libfi",
     "name": "Liberty Finance",
-    "platforms": {}
+    "platforms": {
+      "arbitrum-one": "0x45cc3c0a3ae7355e0745de607691d188409f7a95"
+    }
   },
   {
     "id": "libra-3",
@@ -104145,7 +104147,11 @@
     "symbol": "rif",
     "name": "Rootstock Infrastructure Framework",
     "platforms": {
-      "rootstock": "0x2acc95758f8b5f583470ba265eb685a8f45fc9d5"
+      "rootstock": "0x2acc95758f8b5f583470ba265eb685a8f45fc9d5",
+      "ethereum": "0x01b603be3d545f096015741e6503440282bf45fb",
+      "arbitrum-one": "0xe5e851b01dd3eda24fde709a407db44555b6d1e0",
+      "base": "0xe5e851b01dd3eda24fde709a407db44555b6d1e0",
+      "solana": "AAeENcfHbTExuTvs4q7r9Bjax98Dg6BGX3aMph4bTLdK"
     }
   },
   {
@@ -105191,7 +105197,11 @@
     "symbol": "rbtc",
     "name": "Rootstock Smart Bitcoin",
     "platforms": {
-      "rootstock": "0x542fda317318ebf1d3deaf76e0b632741a7e677d"
+      "rootstock": "0x542fda317318ebf1d3deaf76e0b632741a7e677d",
+      "ethereum": "0x1e44f98cc78d505a61f63b26d13b116cf51dbb87",
+      "arbitrum-one": "0x441fcb23dfe8289cf572126fedcf450974adc891",
+      "base": "0x441fcb23dfe8289cf572126fedcf450974adc891",
+      "solana": "8yev7nLen2PFN2uYGhzsUbu243wMa9z4ZrCwuXs6DEQw"
     }
   },
   {
@@ -127987,6 +127997,14 @@
     "name": "UNICE",
     "platforms": {
       "binance-smart-chain": "0xa0cf89ee581313d84d28409eb6bb1d1f9b55d410"
+    }
+  },
+  {
+    "id": "unich",
+    "symbol": "un",
+    "name": "Unich",
+    "platforms": {
+      "solana": "FArDgWGo5ojumaA5BqFvGjGosZT1KaQM4qYBBYXFWNBo"
     }
   },
   {
