@@ -4,47 +4,23 @@
   "keywords": [
     "defi"
   ],
-  "timestamp": "2025-06-27T20:00:50.925+00:00",
+  "timestamp": "2025-06-27T22:00:47.915+00:00",
   "tokens": [
     {
       "chainId": 999,
-      "address": "0x5d3a1ff2b6bab83b63cd9ad0787074081a52ef34",
-      "name": "HyperEVM Bridged USDE  HyperEVM ",
-      "symbol": "USDE",
+      "address": "0xf4d9235269a96aadafc9adae454a0618ebe37949",
+      "name": "Tether Gold Tokens",
+      "symbol": "XAUT0",
+      "decimals": 6,
+      "logoURI": "https://assets.coingecko.com/coins/images/66560/thumb/XAUt0_Token_Icon_Gold.png?1749747942"
+    },
+    {
+      "chainId": 999,
+      "address": "0x0ad339d66bf4aed5ce31c64bc37b3244b6394a77",
+      "name": "HyperEVM Bridged USR  HyperEVM ",
+      "symbol": "USR",
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/66151/thumb/usde.jpg?1748491903"
-    },
-    {
-      "chainId": 999,
-      "address": "0xf2e6a23b1aa09565fdb3a77af7772709de3f4f95",
-      "name": "LILLY",
-      "symbol": "LILLY",
-      "decimals": 6,
-      "logoURI": "https://assets.coingecko.com/coins/images/66906/thumb/HL_CG.jpg?1751012423"
-    },
-    {
-      "chainId": 999,
-      "address": "0x9fd7466f987fd4c45a5bbde22ed8aba5bc8d72d1",
-      "name": "Hyperwave HLP",
-      "symbol": "HWHLP",
-      "decimals": 6,
-      "logoURI": "https://assets.coingecko.com/coins/images/66821/thumb/hwhlp.png?1750652862"
-    },
-    {
-      "chainId": 999,
-      "address": "0x1359b05241ca5076c9f59605214f4f84114c0de8",
-      "name": "Wrapped HLP",
-      "symbol": "WHLP",
-      "decimals": 6,
-      "logoURI": "https://assets.coingecko.com/coins/images/66783/thumb/image_%282%29.png?1750493063"
-    },
-    {
-      "chainId": 999,
-      "address": "0x94e8396e0869c9f2200760af0621afd240e1cf38",
-      "name": "Staked HYPE Shares",
-      "symbol": "WSTHYPE",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/54722/thumb/hyperliquid.png?1741232793"
+      "logoURI": "https://assets.coingecko.com/coins/images/66152/thumb/usr.jpg?1748492157"
     },
     {
       "chainId": 999,
@@ -53,6 +29,14 @@
       "symbol": "KEI",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/55084/thumb/kei.jpg?1743648809"
+    },
+    {
+      "chainId": 999,
+      "address": "0x1359b05241ca5076c9f59605214f4f84114c0de8",
+      "name": "Wrapped HLP",
+      "symbol": "WHLP",
+      "decimals": 6,
+      "logoURI": "https://assets.coingecko.com/coins/images/66783/thumb/image_%282%29.png?1750493063"
     },
     {
       "chainId": 999,
@@ -77,14 +61,6 @@
       "symbol": "LOOP",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/55979/thumb/LOOP.png?1747918773"
-    },
-    {
-      "chainId": 999,
-      "address": "0xf4d9235269a96aadafc9adae454a0618ebe37949",
-      "name": "Tether Gold Tokens",
-      "symbol": "XAUT0",
-      "decimals": 6,
-      "logoURI": "https://assets.coingecko.com/coins/images/66560/thumb/XAUt0_Token_Icon_Gold.png?1749747942"
     },
     {
       "chainId": 999,
@@ -128,11 +104,35 @@
     },
     {
       "chainId": 999,
+      "address": "0x9fd7466f987fd4c45a5bbde22ed8aba5bc8d72d1",
+      "name": "Hyperwave HLP",
+      "symbol": "HWHLP",
+      "decimals": 6,
+      "logoURI": "https://assets.coingecko.com/coins/images/66821/thumb/hwhlp.png?1750652862"
+    },
+    {
+      "chainId": 999,
       "address": "0x7dcffcb06b40344eeced2d1cbf096b299fe4b405",
       "name": "Reverse Unit Bias",
       "symbol": "RUB",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/66538/thumb/rubfinal.webp?1749708367"
+    },
+    {
+      "chainId": 999,
+      "address": "0xf2e6a23b1aa09565fdb3a77af7772709de3f4f95",
+      "name": "LILLY",
+      "symbol": "LILLY",
+      "decimals": 6,
+      "logoURI": "https://assets.coingecko.com/coins/images/66906/thumb/HL_CG.jpg?1751012423"
+    },
+    {
+      "chainId": 999,
+      "address": "0x5d3a1ff2b6bab83b63cd9ad0787074081a52ef34",
+      "name": "HyperEVM Bridged USDE  HyperEVM ",
+      "symbol": "USDE",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/66151/thumb/usde.jpg?1748491903"
     },
     {
       "chainId": 999,
@@ -184,11 +184,11 @@
     },
     {
       "chainId": 999,
-      "address": "0x0ad339d66bf4aed5ce31c64bc37b3244b6394a77",
-      "name": "HyperEVM Bridged USR  HyperEVM ",
-      "symbol": "USR",
+      "address": "0x94e8396e0869c9f2200760af0621afd240e1cf38",
+      "name": "Staked HYPE Shares",
+      "symbol": "WSTHYPE",
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/66152/thumb/usr.jpg?1748492157"
+      "logoURI": "https://assets.coingecko.com/coins/images/54722/thumb/hyperliquid.png?1741232793"
     },
     {
       "chainId": 999,
