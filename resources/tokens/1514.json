@@ -4,15 +4,23 @@
   "keywords": [
     "defi"
   ],
-  "timestamp": "2025-05-28T23:00:23.137+00:00",
+  "timestamp": "2025-06-28T08:00:47.936+00:00",
   "tokens": [
     {
       "chainId": 1514,
-      "address": "0x25f9c9715d1d700a50b2a9a06d80fe9f98ccb549",
-      "name": "BENJAMIN",
-      "symbol": "BENJI",
+      "address": "0x2460e95f24bbd21d1fba27a751970c2455e9d7e9",
+      "name": "IP Exchange",
+      "symbol": "IPX",
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/54990/thumb/benjaminn.png?1743059951"
+      "logoURI": "https://assets.coingecko.com/coins/images/55242/thumb/IPX.png?1744877414"
+    },
+    {
+      "chainId": 1514,
+      "address": "0xfe82012ecce57a188e5f9f3fc1cb2d335c58f1f5",
+      "name": "Aria Premier Launch",
+      "symbol": "APL",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/66927/thumb/download.png?1751093687"
     },
     {
       "chainId": 1514,
@@ -24,19 +32,11 @@
     },
     {
       "chainId": 1514,
-      "address": "0x2460e95f24bbd21d1fba27a751970c2455e9d7e9",
-      "name": "IP Exchange",
-      "symbol": "IPX",
+      "address": "0x25f9c9715d1d700a50b2a9a06d80fe9f98ccb549",
+      "name": "BENJAMIN",
+      "symbol": "BENJI",
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/55242/thumb/IPX.png?1744877414"
-    },
-    {
-      "chainId": 1514,
-      "address": "0x1514000000000000000000000000000000000000",
-      "name": "Wrapped IP",
-      "symbol": "WIP",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/54378/thumb/image.png?1739437755"
+      "logoURI": "https://assets.coingecko.com/coins/images/54990/thumb/benjaminn.png?1743059951"
     },
     {
       "chainId": 1514,
@@ -45,6 +45,14 @@
       "symbol": "USDCE",
       "decimals": 6,
       "logoURI": "https://assets.coingecko.com/coins/images/54377/thumb/usdc.png?1739437767"
+    },
+    {
+      "chainId": 1514,
+      "address": "0x1514000000000000000000000000000000000000",
+      "name": "Wrapped IP",
+      "symbol": "WIP",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/54378/thumb/image.png?1739437755"
     },
     {
       "chainId": 1514,
@@ -57,7 +65,7 @@
   ],
   "version": {
     "major": 0,
-    "minor": 4,
+    "minor": 5,
     "patch": 0
   }
 }
