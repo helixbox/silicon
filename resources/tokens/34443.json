@@ -4,23 +4,15 @@
   "keywords": [
     "defi"
   ],
-  "timestamp": "2025-06-20T11:00:12.249+00:00",
+  "timestamp": "2025-06-29T08:00:11.778+00:00",
   "tokens": [
     {
       "chainId": 34443,
-      "address": "0x18470019bf0e94611f15852f7e93cf5d65bc34ca",
-      "name": "Ionic Protocol",
-      "symbol": "ION",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/36713/thumb/Ionic-icon-green.png?1712127547"
-    },
-    {
-      "chainId": 34443,
-      "address": "0xfda619b6d20975be80a10332cd39b9a4b0faa8bb",
-      "name": "SwapMode",
-      "symbol": "SMD",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/36014/thumb/SMDPNG.png?1710326417"
+      "address": "0x3120b4907851cc9d780eef9af88ae4d5360175fd",
+      "name": "Ionic Tether USD",
+      "symbol": "IONUSDT",
+      "decimals": 6,
+      "logoURI": "https://assets.coingecko.com/coins/images/39225/thumb/ionUSDT.png?1721184701"
     },
     {
       "chainId": 34443,
@@ -29,6 +21,22 @@
       "symbol": "USDT",
       "decimals": 6,
       "logoURI": "https://assets.coingecko.com/coins/images/35808/thumb/usdt_%281%29.png?1709866389"
+    },
+    {
+      "chainId": 34443,
+      "address": "0x8b2eea0999876aab1e7955fe01a5d261b570452c",
+      "name": "BMX  Wrapped Mode Liquidity Token",
+      "symbol": "WMLT",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/39465/thumb/wmlt.png?1722399984"
+    },
+    {
+      "chainId": 34443,
+      "address": "0xd988097fb8612cc24eec14542bc03424c656005f",
+      "name": "Mode Bridged USDC  Mode ",
+      "symbol": "USDC",
+      "decimals": 6,
+      "logoURI": "https://assets.coingecko.com/coins/images/35809/thumb/usdc_%281%29.png?1709867043"
     },
     {
       "chainId": 34443,
@@ -48,11 +56,11 @@
     },
     {
       "chainId": 34443,
-      "address": "0x3120b4907851cc9d780eef9af88ae4d5360175fd",
-      "name": "Ionic Tether USD",
-      "symbol": "IONUSDT",
-      "decimals": 6,
-      "logoURI": "https://assets.coingecko.com/coins/images/39225/thumb/ionUSDT.png?1721184701"
+      "address": "0xfda619b6d20975be80a10332cd39b9a4b0faa8bb",
+      "name": "SwapMode",
+      "symbol": "SMD",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/36014/thumb/SMDPNG.png?1710326417"
     },
     {
       "chainId": 34443,
@@ -72,19 +80,11 @@
     },
     {
       "chainId": 34443,
-      "address": "0xd988097fb8612cc24eec14542bc03424c656005f",
-      "name": "Mode Bridged USDC  Mode ",
-      "symbol": "USDC",
-      "decimals": 6,
-      "logoURI": "https://assets.coingecko.com/coins/images/35809/thumb/usdc_%281%29.png?1709867043"
-    },
-    {
-      "chainId": 34443,
-      "address": "0x8b2eea0999876aab1e7955fe01a5d261b570452c",
-      "name": "BMX  Wrapped Mode Liquidity Token",
-      "symbol": "WMLT",
+      "address": "0x18470019bf0e94611f15852f7e93cf5d65bc34ca",
+      "name": "Ionic Protocol",
+      "symbol": "ION",
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/39465/thumb/wmlt.png?1722399984"
+      "logoURI": "https://assets.coingecko.com/coins/images/36713/thumb/Ionic-icon-green.png?1712127547"
     },
     {
       "chainId": 34443,
@@ -164,7 +164,7 @@
       "name": "Peapods Finance",
       "symbol": "PEAS",
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/33711/thumb/NAzHgbTW_400x400.png?1702856653"
+      "logoURI": "https://assets.coingecko.com/coins/images/33711/thumb/PEAS-icon-2025-200x200px.png?1751181210"
     },
     {
       "chainId": 34443,
@@ -274,6 +274,6 @@
   "version": {
     "major": 6,
     "minor": 0,
-    "patch": 0
+    "patch": 1
   }
 }
