@@ -1,18 +1,33 @@
 {
   "name": "CoinGecko",
-  "logoURI": "https://static.coingecko.com/s/thumbnail-007177f3eca19695592f0b8b0eabbdae282b54154e1be912285c9034ea6cbaf2.png",
+  "logoURI": "https://static.coingecko.com/gecko-new.svg",
   "keywords": [
     "defi"
   ],
-  "timestamp": "2025-02-20T11:00:15.319+00:00",
+  "timestamp": "2025-06-30T09:01:20.699+00:00",
   "tokens": [
     {
       "chainId": 7700,
-      "address": "0x5fd55a1b9fc24967c4db09c513c3ba0dfa7ff687",
-      "name": "Gravity Bridged WETH  Canto ",
-      "symbol": "WETH",
+      "address": "0xb5b060055f0d1ef5174329913ef861bc3addf029",
+      "name": "Velocimeter FLOW",
+      "symbol": "FLOW",
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/39696/thumb/weth.png?1723671125"
+      "logoURI": "https://assets.coingecko.com/coins/images/29232/thumb/Flow-circle-aqua.png?1696528189"
+    },
+    {
+      "chainId": 7700,
+      "address": "0x9f823d534954fc119e31257b3ddba0db9e2ff4ed",
+      "name": "Liquid Staked Canto",
+      "symbol": "SCANTO",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/30403/thumb/dsfaasd.png?1696529292"
+    },
+    {
+      "chainId": 7700,
+      "address": "0x45bafad5a6a531bc18cf6ce5b02c58ea4d20589b",
+      "name": "Fortunafi Tokenized Short term U S  Tre",
+      "symbol": "IFBILL",
+      "decimals": 18
     },
     {
       "chainId": 7700,
@@ -24,18 +39,11 @@
     },
     {
       "chainId": 7700,
-      "address": "0x80b5a32e4f032b2a058b4f29ec95eefeeb87adcd",
-      "name": "Synapse Bridged USDC  Canto ",
-      "symbol": "USDC",
-      "decimals": 6,
-      "logoURI": "https://assets.coingecko.com/coins/images/35258/thumb/USDC_Icon.png?1708006958"
-    },
-    {
-      "chainId": 7700,
-      "address": "0x45bafad5a6a531bc18cf6ce5b02c58ea4d20589b",
-      "name": "Fortunafi Tokenized Short term U S  Tre",
-      "symbol": "IFBILL",
-      "decimals": 18
+      "address": "0x826551890dc65655a0aceca109ab11abdbd7a07b",
+      "name": "CANTO",
+      "symbol": "CANTO",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/26959/thumb/canto-network.png?1696526014"
     },
     {
       "chainId": 7700,
@@ -47,35 +55,19 @@
     },
     {
       "chainId": 7700,
-      "address": "0xb5b060055f0d1ef5174329913ef861bc3addf029",
-      "name": "Velocimeter FLOW",
-      "symbol": "FLOW",
+      "address": "0x5fd55a1b9fc24967c4db09c513c3ba0dfa7ff687",
+      "name": "Gravity Bridged WETH  Canto ",
+      "symbol": "WETH",
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/29232/thumb/Flow-circle-aqua.png?1696528189"
+      "logoURI": "https://assets.coingecko.com/coins/images/39696/thumb/weth.png?1723671125"
     },
     {
       "chainId": 7700,
-      "address": "0x826551890dc65655a0aceca109ab11abdbd7a07b",
-      "name": "CANTO",
-      "symbol": "CANTO",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/26959/thumb/canto-network.png?1696526014"
-    },
-    {
-      "chainId": 7700,
-      "address": "0x7264610a66eca758a8ce95cf11ff5741e1fd0455",
-      "name": "Canto Inu",
-      "symbol": "CINU",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/26987/thumb/u6XXfLNc_400x400.png?1696526040"
-    },
-    {
-      "chainId": 7700,
-      "address": "0x9f823d534954fc119e31257b3ddba0db9e2ff4ed",
-      "name": "Liquid Staked Canto",
-      "symbol": "SCANTO",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/30403/thumb/dsfaasd.png?1696529292"
+      "address": "0x80b5a32e4f032b2a058b4f29ec95eefeeb87adcd",
+      "name": "Synapse Bridged USDC  Canto ",
+      "symbol": "USDC",
+      "decimals": 6,
+      "logoURI": "https://assets.coingecko.com/coins/images/35258/thumb/USDC_Icon.png?1708006958"
     },
     {
       "chainId": 7700,
@@ -127,7 +119,7 @@
     }
   ],
   "version": {
-    "major": 1,
+    "major": 2,
     "minor": 0,
     "patch": 0
   }
