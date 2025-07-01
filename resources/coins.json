@@ -62072,6 +62072,14 @@
     }
   },
   {
+    "id": "initia-bridged-usdc-initia",
+    "symbol": "usdc",
+    "name": "Initia Bridged USDC (Initia)",
+    "platforms": {
+      "initia": "0xe0e9394b24e53775d6af87934ac02d73536ad58b7894f6ccff3f5e7c0d548e55"
+    }
+  },
+  {
     "id": "injective-kings",
     "symbol": "ikings",
     "name": "Injective Kings",
@@ -86967,7 +86975,7 @@
   {
     "id": "node-2",
     "symbol": "node",
-    "name": "NODE",
+    "name": "NodeOps",
     "platforms": {
       "ethereum": "0x2f714d7b9a035d4ce24af8d9b6091c07e37f43fb"
     }
@@ -114535,7 +114543,8 @@
     "symbol": "spyx",
     "name": "SP500 xStock",
     "platforms": {
-      "arbitrum-one": "0x90a2a4c76b5d8c0bc892a69ea28aa775a8f2dd48"
+      "arbitrum-one": "0x90a2a4c76b5d8c0bc892a69ea28aa775a8f2dd48",
+      "solana": "XsoCS1TfEyfFhfvj8EtZ528L3CaKBDBRqRapnBbDF2W"
     }
   },
   {
