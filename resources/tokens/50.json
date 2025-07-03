@@ -4,7 +4,7 @@
   "keywords": [
     "defi"
   ],
-  "timestamp": "2025-07-03T07:01:00.306+00:00",
+  "timestamp": "2025-07-03T09:00:53.315+00:00",
   "tokens": [
     {
       "chainId": 50,
@@ -13,6 +13,14 @@
       "symbol": "PSXDC",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/54097/thumb/XDC-PNL-CIRCLE.png?1738224626"
+    },
+    {
+      "chainId": 50,
+      "address": "0x951857744785e80e2de051c32ee7b25f9c458c42",
+      "name": "Wrapped XDC",
+      "symbol": "WXDC",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/28268/thumb/xinfin.jpeg?1696527269"
     },
     {
       "chainId": 50,
@@ -32,27 +40,11 @@
     },
     {
       "chainId": 50,
-      "address": "0x678adf7955d8f6dcaa9e2fcc1c5ba70bccc464e6",
-      "name": "GAMA Coin",
-      "symbol": "GAMA",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/51308/thumb/Gama_Icon_%281%29.png?1730628523"
-    },
-    {
-      "chainId": 50,
       "address": "0x05940b2df33d6371201e7ae099ced4c363855dfe",
       "name": "Law Blocks",
       "symbol": "LBT",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/26266/thumb/photo_6264996132874731595_y.jpg?1717679177"
-    },
-    {
-      "chainId": 50,
-      "address": "xdcff7412ea7c8445c46a8254dfb557ac1e48094391",
-      "name": "Plugin",
-      "symbol": "PLI",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/19586/thumb/244800308_116216454152265_6257676145772128053_n.png?1696519017"
     },
     {
       "chainId": 50,
@@ -96,19 +88,27 @@
     },
     {
       "chainId": 50,
-      "address": "0x951857744785e80e2de051c32ee7b25f9c458c42",
-      "name": "Wrapped XDC",
-      "symbol": "WXDC",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/28268/thumb/xinfin.jpeg?1696527269"
-    },
-    {
-      "chainId": 50,
       "address": "xdc49d3f7543335cf38Fa10889CCFF10207e22110B5",
       "name": "Fathom Dollar",
       "symbol": "FXD",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/31113/thumb/fxd_200x200_%281%29.png?1696529943"
+    },
+    {
+      "chainId": 50,
+      "address": "xdcff7412ea7c8445c46a8254dfb557ac1e48094391",
+      "name": "Plugin",
+      "symbol": "PLI",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/19586/thumb/244800308_116216454152265_6257676145772128053_n.png?1696519017"
+    },
+    {
+      "chainId": 50,
+      "address": "0xcc0587aebda397146cc828b445db130a94486e74",
+      "name": "Stargate Bridged USDC  XDC ",
+      "symbol": "USDCE",
+      "decimals": 6,
+      "logoURI": "https://assets.coingecko.com/coins/images/66672/thumb/usdc.jpg?1750215181"
     },
     {
       "chainId": 50,
@@ -133,14 +133,6 @@
       "symbol": "XTT",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/28274/thumb/XTT.png?1696527275"
-    },
-    {
-      "chainId": 50,
-      "address": "0xcc0587aebda397146cc828b445db130a94486e74",
-      "name": "Stargate Bridged USDC  XDC ",
-      "symbol": "USDCE",
-      "decimals": 6,
-      "logoURI": "https://assets.coingecko.com/coins/images/66672/thumb/usdc.jpg?1750215181"
     },
     {
       "chainId": 50,
@@ -192,8 +184,8 @@
     }
   ],
   "version": {
-    "major": 8,
-    "minor": 1,
+    "major": 9,
+    "minor": 0,
     "patch": 0
   }
 }
