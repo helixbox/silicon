@@ -4,15 +4,39 @@
   "keywords": [
     "defi"
   ],
-  "timestamp": "2025-07-02T10:00:48.322+00:00",
+  "timestamp": "2025-07-03T07:01:00.306+00:00",
   "tokens": [
     {
       "chainId": 50,
-      "address": "0xcc0587aebda397146cc828b445db130a94486e74",
-      "name": "Stargate Bridged USDC  XDC ",
+      "address": "0x9b8e12b0bac165b86967e771d98b520ec3f665a6",
+      "name": "Prime Staked XDC",
+      "symbol": "PSXDC",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/54097/thumb/XDC-PNL-CIRCLE.png?1738224626"
+    },
+    {
+      "chainId": 50,
+      "address": "xdc34514748f86a8da01ef082306b6d6e738f777f5a",
+      "name": "Globiance Exchange",
+      "symbol": "GBEX",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/24859/thumb/gbex.png?1696524019"
+    },
+    {
+      "chainId": 50,
+      "address": "0x2a8e898b6242355c290e1f4fc966b8788729a4d4",
+      "name": "Bridged USDC  XDC Bridge ",
       "symbol": "USDCE",
       "decimals": 6,
-      "logoURI": "https://assets.coingecko.com/coins/images/66672/thumb/usdc.jpg?1750215181"
+      "logoURI": "https://assets.coingecko.com/coins/images/55016/thumb/usdc.png?1743167722"
+    },
+    {
+      "chainId": 50,
+      "address": "0x678adf7955d8f6dcaa9e2fcc1c5ba70bccc464e6",
+      "name": "GAMA Coin",
+      "symbol": "GAMA",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/51308/thumb/Gama_Icon_%281%29.png?1730628523"
     },
     {
       "chainId": 50,
@@ -48,14 +72,6 @@
     },
     {
       "chainId": 50,
-      "address": "xdc49d3f7543335cf38Fa10889CCFF10207e22110B5",
-      "name": "Fathom Dollar",
-      "symbol": "FXD",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/31113/thumb/fxd_200x200_%281%29.png?1696529943"
-    },
-    {
-      "chainId": 50,
       "address": "0xcda5b77e2e2268d9e09c874c1b9a4c3f07b37555",
       "name": "Stargate Bridged USDT  XDC ",
       "symbol": "USDT",
@@ -72,14 +88,6 @@
     },
     {
       "chainId": 50,
-      "address": "0x951857744785e80e2de051c32ee7b25f9c458c42",
-      "name": "Wrapped XDC",
-      "symbol": "WXDC",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/28268/thumb/xinfin.jpeg?1696527269"
-    },
-    {
-      "chainId": 50,
       "address": "0xa7348290de5cf01772479c48d50dec791c3fc212",
       "name": "XDC Bridged WETH  XDC ",
       "symbol": "WETH",
@@ -88,11 +96,27 @@
     },
     {
       "chainId": 50,
-      "address": "0x9b8e12b0bac165b86967e771d98b520ec3f665a6",
-      "name": "Prime Staked XDC",
-      "symbol": "PSXDC",
+      "address": "0x951857744785e80e2de051c32ee7b25f9c458c42",
+      "name": "Wrapped XDC",
+      "symbol": "WXDC",
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/54097/thumb/XDC-PNL-CIRCLE.png?1738224626"
+      "logoURI": "https://assets.coingecko.com/coins/images/28268/thumb/xinfin.jpeg?1696527269"
+    },
+    {
+      "chainId": 50,
+      "address": "xdc49d3f7543335cf38Fa10889CCFF10207e22110B5",
+      "name": "Fathom Dollar",
+      "symbol": "FXD",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/31113/thumb/fxd_200x200_%281%29.png?1696529943"
+    },
+    {
+      "chainId": 50,
+      "address": "xdce5F9AE9D32D93d3934007568B30B7A7cA489C486",
+      "name": "Circularity Finance",
+      "symbol": "CIFI",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/34072/thumb/Frame_238219.png?1703842554"
     },
     {
       "chainId": 50,
@@ -112,27 +136,11 @@
     },
     {
       "chainId": 50,
-      "address": "xdce5F9AE9D32D93d3934007568B30B7A7cA489C486",
-      "name": "Circularity Finance",
-      "symbol": "CIFI",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/34072/thumb/Frame_238219.png?1703842554"
-    },
-    {
-      "chainId": 50,
-      "address": "xdc34514748f86a8da01ef082306b6d6e738f777f5a",
-      "name": "Globiance Exchange",
-      "symbol": "GBEX",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/24859/thumb/gbex.png?1696524019"
-    },
-    {
-      "chainId": 50,
-      "address": "0x2a8e898b6242355c290e1f4fc966b8788729a4d4",
-      "name": "Bridged USDC  XDC Bridge ",
+      "address": "0xcc0587aebda397146cc828b445db130a94486e74",
+      "name": "Stargate Bridged USDC  XDC ",
       "symbol": "USDCE",
       "decimals": 6,
-      "logoURI": "https://assets.coingecko.com/coins/images/55016/thumb/usdc.png?1743167722"
+      "logoURI": "https://assets.coingecko.com/coins/images/66672/thumb/usdc.jpg?1750215181"
     },
     {
       "chainId": 50,
@@ -185,7 +193,7 @@
   ],
   "version": {
     "major": 8,
-    "minor": 0,
+    "minor": 1,
     "patch": 0
   }
 }

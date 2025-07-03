@@ -4,24 +4,8 @@
   "keywords": [
     "defi"
   ],
-  "timestamp": "2025-05-12T06:00:37.157+00:00",
+  "timestamp": "2025-07-03T08:00:01.656+00:00",
   "tokens": [
-    {
-      "chainId": 1329,
-      "address": "0x80eede496655fb9047dd39d9f418d5483ed600df",
-      "name": "LayerZero Bridged frxUSD",
-      "symbol": "FRXUSD",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/54454/thumb/frxusd.png?1739789465"
-    },
-    {
-      "chainId": 1329,
-      "address": "0xdd7d5e4ea2125d43c16eed8f1ffefffa2f4b4af6",
-      "name": "Jellyverse",
-      "symbol": "JLY",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/31805/thumb/short.png?1719199901"
-    },
     {
       "chainId": 1329,
       "address": "0x9faaea2cdd810b21594e54309dc847842ae301ce",
@@ -29,30 +13,6 @@
       "symbol": "SETH",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/51474/thumb/seiyanETH_%281%29.png?1731401763"
-    },
-    {
-      "chainId": 1329,
-      "address": "0xc18b6a15fb0ceaf5eb18696eefcb5bc7b9107149",
-      "name": "Popo The Cat",
-      "symbol": "POPO",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/39686/thumb/8a872ee5-dfc6-4139-a157-9cdcbbeb2f59.jpeg?1723658023"
-    },
-    {
-      "chainId": 1329,
-      "address": "0xe30fedd158a2e3b13e9badaeabafc5516e95e8c7",
-      "name": "Wrapped SEI",
-      "symbol": "WSEI",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/38470/thumb/sei.png?1717644025"
-    },
-    {
-      "chainId": 1329,
-      "address": "0x0555e30da8f98308edb960aa94c0db47230d2b9c",
-      "name": "Sei Bridged WBTC  Sei ",
-      "symbol": "",
-      "decimals": 8,
-      "logoURI": "https://assets.coingecko.com/coins/images/54960/thumb/wbtc.jpg?1742887259"
     },
     {
       "chainId": 1329,
@@ -64,19 +24,35 @@
     },
     {
       "chainId": 1329,
-      "address": "0x37a4dd9ced2b19cfe8fac251cd727b5787e45269",
-      "name": "Sei fastUSD",
-      "symbol": "FASTUSD",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/50766/thumb/2024-10-16_14.54.03.jpg?1729120051"
+      "address": "0x0555e30da8f98308edb960aa94c0db47230d2b9c",
+      "name": "Sei Bridged WBTC  Sei ",
+      "symbol": "",
+      "decimals": 8,
+      "logoURI": "https://assets.coingecko.com/coins/images/54960/thumb/wbtc.jpg?1742887259"
     },
     {
       "chainId": 1329,
-      "address": "0xb75d0b03c06a926e488e2659df1a861f860bd3d1",
-      "name": "IBC Bridged USDT",
-      "symbol": "USDT",
+      "address": "0x5f0e07dfee5832faa00c63f2d33a0d79150e8598",
+      "name": "SEIYAN",
+      "symbol": "SEIYAN",
       "decimals": 6,
-      "logoURI": "https://assets.coingecko.com/coins/images/38607/thumb/usdt_%281%29.png?1718099237"
+      "logoURI": "https://assets.coingecko.com/coins/images/33830/thumb/seiyanlogo.png?1703069383"
+    },
+    {
+      "chainId": 1329,
+      "address": "0xe30fedd158a2e3b13e9badaeabafc5516e95e8c7",
+      "name": "Wrapped SEI",
+      "symbol": "WSEI",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/38470/thumb/sei.png?1717644025"
+    },
+    {
+      "chainId": 1329,
+      "address": "0x372b2dc06478aa2c8182eee0f12ea0e9a15e2913",
+      "name": "Real GEM Token",
+      "symbol": "GEM",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/67033/thumb/Screenshot_2024-10-24_111012.png?1751525160"
     },
     {
       "chainId": 1329,
@@ -88,6 +64,14 @@
     },
     {
       "chainId": 1329,
+      "address": "0x805679729df385815c57c24b20f4161bd34b655f",
+      "name": "Fishwar",
+      "symbol": "FISHW",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/54843/thumb/logo_fishwar_no_bg200x200.png?1742019218"
+    },
+    {
+      "chainId": 1329,
       "address": "0x51121bcae92e302f19d06c193c95e1f7b81a444b",
       "name": "YAKA",
       "symbol": "YAKA",
@@ -96,11 +80,59 @@
     },
     {
       "chainId": 1329,
-      "address": "0x805679729df385815c57c24b20f4161bd34b655f",
-      "name": "Fishwar",
-      "symbol": "FISHW",
+      "address": "0x80eede496655fb9047dd39d9f418d5483ed600df",
+      "name": "LayerZero Bridged frxUSD",
+      "symbol": "FRXUSD",
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/54843/thumb/logo_fishwar_no_bg200x200.png?1742019218"
+      "logoURI": "https://assets.coingecko.com/coins/images/54454/thumb/frxusd.png?1739789465"
+    },
+    {
+      "chainId": 1329,
+      "address": "0x059a6b0ba116c63191182a0956cf697d0d2213ec",
+      "name": "Synnax Stablecoin",
+      "symbol": "SYUSD",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/50179/thumb/7.png?1726164913"
+    },
+    {
+      "chainId": 1329,
+      "address": "0xdd7d5e4ea2125d43c16eed8f1ffefffa2f4b4af6",
+      "name": "Jellyverse",
+      "symbol": "JLY",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/31805/thumb/short.png?1719199901"
+    },
+    {
+      "chainId": 1329,
+      "address": "0xb75d0b03c06a926e488e2659df1a861f860bd3d1",
+      "name": "IBC Bridged USDT",
+      "symbol": "USDT",
+      "decimals": 6,
+      "logoURI": "https://assets.coingecko.com/coins/images/38607/thumb/usdt_%281%29.png?1718099237"
+    },
+    {
+      "chainId": 1329,
+      "address": "0x5cf6826140c1c56ff49c808a1a75407cd1df9423",
+      "name": "Silo Staked SEI",
+      "symbol": "ISEI",
+      "decimals": 6,
+      "logoURI": "https://assets.coingecko.com/coins/images/38591/thumb/iSEI_logo_200_200.png?1718091709"
+    },
+    {
+      "chainId": 1329,
+      "address": "0x160345fc359604fc6e70e3c5facbde5f7a9342d8",
+      "name": "Sei Bridged WETH  Sei ",
+      "symbol": "WETH",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/54959/thumb/weth_2.jpg?1742886674"
+    },
+    {
+      "chainId": 1329,
+      "address": "0x37a4dd9ced2b19cfe8fac251cd727b5787e45269",
+      "name": "Sei fastUSD",
+      "symbol": "FASTUSD",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/50766/thumb/2024-10-16_14.54.03.jpg?1729120051"
     },
     {
       "chainId": 1329,
@@ -128,22 +160,6 @@
     },
     {
       "chainId": 1329,
-      "address": "0x5cf6826140c1c56ff49c808a1a75407cd1df9423",
-      "name": "Silo Staked SEI",
-      "symbol": "ISEI",
-      "decimals": 6,
-      "logoURI": "https://assets.coingecko.com/coins/images/38591/thumb/iSEI_logo_200_200.png?1718091709"
-    },
-    {
-      "chainId": 1329,
-      "address": "0x059a6b0ba116c63191182a0956cf697d0d2213ec",
-      "name": "Synnax Stablecoin",
-      "symbol": "SYUSD",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/50179/thumb/7.png?1726164913"
-    },
-    {
-      "chainId": 1329,
       "address": "0x3894085ef7ff0f0aedf52e2a2704928d1ec074f1",
       "name": "IBC Bridged USDC",
       "symbol": "USDC",
@@ -160,14 +176,6 @@
     },
     {
       "chainId": 1329,
-      "address": "0x160345fc359604fc6e70e3c5facbde5f7a9342d8",
-      "name": "Sei Bridged WETH  Sei ",
-      "symbol": "WETH",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/54959/thumb/weth_2.jpg?1742886674"
-    },
-    {
-      "chainId": 1329,
       "address": "0xbd82f3bfe1df0c84faec88a22ebc34c9a86595dc",
       "name": "Chips",
       "symbol": "CHIPS",
@@ -176,11 +184,11 @@
     },
     {
       "chainId": 1329,
-      "address": "0x5f0e07dfee5832faa00c63f2d33a0d79150e8598",
-      "name": "SEIYAN",
-      "symbol": "SEIYAN",
-      "decimals": 6,
-      "logoURI": "https://assets.coingecko.com/coins/images/33830/thumb/seiyanlogo.png?1703069383"
+      "address": "0xc18b6a15fb0ceaf5eb18696eefcb5bc7b9107149",
+      "name": "Popo The Cat",
+      "symbol": "POPO",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/39686/thumb/8a872ee5-dfc6-4139-a157-9cdcbbeb2f59.jpeg?1723658023"
     },
     {
       "chainId": 1329,
@@ -189,6 +197,22 @@
       "symbol": "MILLI",
       "decimals": 6,
       "logoURI": "https://assets.coingecko.com/coins/images/35724/thumb/milli_new.PNG?1731239997"
+    },
+    {
+      "chainId": 1329,
+      "address": "sei1apwupn8v5yzh246nlm699sy3mm6nysfcqtgzun",
+      "name": "Sake Inu",
+      "symbol": "SAKE",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/39946/thumb/SAKE.jpg?1724900941"
+    },
+    {
+      "chainId": 1329,
+      "address": "0x89aec21572f6637ccbd0d66861aaac46dd775ed1",
+      "name": "Kryptonite",
+      "symbol": "SEILOR",
+      "decimals": 6,
+      "logoURI": "https://assets.coingecko.com/coins/images/31252/thumb/Kryptonite_PFP-03.png?1696530076"
     },
     {
       "chainId": 1329,
@@ -288,22 +312,6 @@
     },
     {
       "chainId": 1329,
-      "address": "sei1apwupn8v5yzh246nlm699sy3mm6nysfcqtgzun",
-      "name": "Sake Inu",
-      "symbol": "SAKE",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/39946/thumb/SAKE.jpg?1724900941"
-    },
-    {
-      "chainId": 1329,
-      "address": "0x89aec21572f6637ccbd0d66861aaac46dd775ed1",
-      "name": "Kryptonite",
-      "symbol": "SEILOR",
-      "decimals": 6,
-      "logoURI": "https://assets.coingecko.com/coins/images/31252/thumb/Kryptonite_PFP-03.png?1696530076"
-    },
-    {
-      "chainId": 1329,
       "address": "0x95597eb8d227a7c4b4f5e807a815c5178ee6dbe1",
       "name": "MILLI",
       "symbol": "MILLI",
@@ -337,7 +345,7 @@
   ],
   "version": {
     "major": 4,
-    "minor": 3,
+    "minor": 4,
     "patch": 0
   }
 }
