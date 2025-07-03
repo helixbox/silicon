@@ -58025,6 +58025,22 @@
     }
   },
   {
+    "id": "hemi-bitcoin",
+    "symbol": "hemibtc",
+    "name": "Hemi Bitcoin",
+    "platforms": {
+      "hemi": "0xaa40c0c7644e0b2b224509571e10ad20d9c4ef28"
+    }
+  },
+  {
+    "id": "hemi-bridged-weth-hemi",
+    "symbol": "weth",
+    "name": "Hemi Bridged WETH (Hemi)",
+    "platforms": {
+      "hemi": "0x4200000000000000000000000000000000000006"
+    }
+  },
+  {
     "id": "hemis",
     "symbol": "hms",
     "name": "Hemis",
@@ -68504,7 +68520,7 @@
     "symbol": "kton",
     "name": "KTON",
     "platforms": {
-      "the-open-network": "EQA9HwEZD_tONfVz6lJS0PVKR5viEiEGyj9AuQewGQVnXPg0"
+      "the-open-network": "EQBuIhXNNkWf9AW9miNGNTSO_uFZ23ejfIWrieXge5f733mw"
     }
   },
   {
@@ -107423,8 +107439,8 @@
       "bsquared-network": "0x8dd8b12d55c73c08294664a5915475ed1c8b1f6f",
       "bitlayer": "0xba50ddac6b2f5482ca064efac621e0c7c0f6a783",
       "bevm": "0x2031c8848775a5efb7cff2a4edbe3f04c50a1478",
-      "hemi": "0xb4818bb69478730ef4e33cc068dd94278e2766cb",
-      "base": "0x70654aad8b7734dc319d0c3608ec7b32e03fa162"
+      "base": "0x70654aad8b7734dc319d0c3608ec7b32e03fa162",
+      "hemi": "0xb4818bb69478730ef4e33cc068dd94278e2766cb"
     }
   },
   {
@@ -116875,6 +116891,14 @@
     }
   },
   {
+    "id": "stargate-bridged-usdc-hemi",
+    "symbol": "usdc.e",
+    "name": "Stargate Bridged USDC (Hemi)",
+    "platforms": {
+      "hemi": "0xad11a8beb98bbf61dbb1aa0f6d6f2ecd87b35afa"
+    }
+  },
+  {
     "id": "stargate-bridged-usdc-ink",
     "symbol": "usdc.e",
     "name": "Stargate Bridged USDC (Ink)",
@@ -116912,6 +116936,14 @@
     "name": "Stargate Bridged USDC (Story)",
     "platforms": {
       "story": "0xf1815bd50389c46847f0bda824ec8da914045d14"
+    }
+  },
+  {
+    "id": "stargate-bridged-usdc-telos",
+    "symbol": "usdc.e",
+    "name": "Stargate Bridged USDC (Telos)",
+    "platforms": {
+      "telos": "0xf1815bd50389c46847f0bda824ec8da914045d14"
     }
   },
   {
@@ -121837,6 +121869,14 @@
       "binance-smart-chain": "0x193f4a4a6ea24102f49b931deeeb931f6e32405d",
       "avalanche": "0x193f4a4a6ea24102f49b931deeeb931f6e32405d",
       "polygon-pos": "0x193f4a4a6ea24102f49b931deeeb931f6e32405d"
+    }
+  },
+  {
+    "id": "telos-bridged-wbtc-telos",
+    "symbol": "wbtc",
+    "name": "Telos Bridged WBTC (Telos)",
+    "platforms": {
+      "telos": "0x0555e30da8f98308edb960aa94c0db47230d2b9c"
     }
   },
   {
@@ -132604,6 +132644,14 @@
     }
   },
   {
+    "id": "vusd",
+    "symbol": "vusd",
+    "name": "VUSD",
+    "platforms": {
+      "hemi": "0x7a06c4aef988e7925575c50261297a946ad204a8"
+    }
+  },
+  {
     "id": "vuzzmind",
     "symbol": "vuzz",
     "name": "VuzzMind",
@@ -136390,8 +136438,8 @@
     "name": "Wrapped Bitcoin",
     "platforms": {
       "ethereum": "0x2260fac5e5542a773aa44fbcfedf7c193bc2c599",
-      "solana": "5XZw2LKTyrfvfiskJ78AMpackRjPcyCif1WhUsPDuVqQ",
-      "osmosis": "factory/osmo1z0qrq605sjgcqpylfl4aa6s90x738j7m58wyatt0tdzflg2ha26q67k743/wbtc"
+      "osmosis": "factory/osmo1z0qrq605sjgcqpylfl4aa6s90x738j7m58wyatt0tdzflg2ha26q67k743/wbtc",
+      "solana": "5XZw2LKTyrfvfiskJ78AMpackRjPcyCif1WhUsPDuVqQ"
     }
   },
   {
