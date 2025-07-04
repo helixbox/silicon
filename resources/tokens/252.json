@@ -4,7 +4,7 @@
   "keywords": [
     "defi"
   ],
-  "timestamp": "2025-07-02T10:00:15.771+00:00",
+  "timestamp": "2025-07-04T18:00:18.602+00:00",
   "tokens": [
     {
       "chainId": 252,
@@ -56,19 +56,19 @@
     },
     {
       "chainId": 252,
-      "address": "0xc84c0f36e42d0100c6ff5e1d04e2978f0a5b63cf",
-      "name": "Real World Abs",
-      "symbol": "RWA",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/35798/thumb/_E-hXm9c_400x400.jpg?1709807509"
-    },
-    {
-      "chainId": 252,
       "address": "0xfc00000000000000000000000000000000000002",
       "name": "Wrapped FRAX",
       "symbol": "WFRAX",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/55432/thumb/wfrax_64.png?1745993624"
+    },
+    {
+      "chainId": 252,
+      "address": "0xc84c0f36e42d0100c6ff5e1d04e2978f0a5b63cf",
+      "name": "Real World Abs",
+      "symbol": "RWA",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/35798/thumb/_E-hXm9c_400x400.jpg?1709807509"
     },
     {
       "chainId": 252,
@@ -152,6 +152,14 @@
     },
     {
       "chainId": 252,
+      "address": "0x00000000efe302beaa2b3e6e1b18d08d69a9012a",
+      "name": "AUSD",
+      "symbol": "AUSD",
+      "decimals": 6,
+      "logoURI": "https://assets.coingecko.com/coins/images/39284/thumb/Circle_Agora_White_on_Olive_1080px.png?1722961274"
+    },
+    {
+      "chainId": 252,
       "address": "0xfc00000000000000000000000000000000000003",
       "name": "Frax Price Index",
       "symbol": "FPI",
@@ -161,7 +169,7 @@
   ],
   "version": {
     "major": 4,
-    "minor": 0,
+    "minor": 1,
     "patch": 0
   }
 }
