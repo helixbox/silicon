@@ -4,8 +4,16 @@
   "keywords": [
     "defi"
   ],
-  "timestamp": "2025-07-02T04:00:27.251+00:00",
+  "timestamp": "2025-07-04T10:00:28.126+00:00",
   "tokens": [
+    {
+      "chainId": 4488,
+      "address": "0xbbf6f2d2d462185df545c744974b7eb6ddadfcfd",
+      "name": "Hydra Bridged USDC  Hydra ",
+      "symbol": "USDC",
+      "decimals": 6,
+      "logoURI": "https://assets.coingecko.com/coins/images/66812/thumb/usdc_logo_200.png?1750582251"
+    },
     {
       "chainId": 4488,
       "address": "0x900e563a74be93807e8a4a3b52d72a351badd6bf",
@@ -21,22 +29,6 @@
       "symbol": "LYDRA",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/66977/thumb/lydra_logo_200.png?1751308094"
-    },
-    {
-      "chainId": 4488,
-      "address": "0xbbf6f2d2d462185df545c744974b7eb6ddadfcfd",
-      "name": "Hydra Bridged USDC  Hydra ",
-      "symbol": "USDC",
-      "decimals": 6,
-      "logoURI": "https://assets.coingecko.com/coins/images/66812/thumb/usdc_logo_200.png?1750582251"
-    },
-    {
-      "chainId": 4488,
-      "address": "6d9115a21863ce31b44cd231e4c4ccc87566222f",
-      "name": "Hydra",
-      "symbol": "HYDRA",
-      "decimals": 8,
-      "logoURI": "https://assets.coingecko.com/coins/images/13631/thumb/Logo_Hydra_200x200_Transparent.png?1719010995"
     },
     {
       "chainId": 4488,
@@ -64,8 +56,8 @@
     }
   ],
   "version": {
-    "major": 0,
-    "minor": 1,
+    "major": 1,
+    "minor": 0,
     "patch": 0
   }
 }

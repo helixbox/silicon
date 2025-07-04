@@ -4,7 +4,7 @@
   "keywords": [
     "defi"
   ],
-  "timestamp": "2025-05-31T10:00:07.754+00:00",
+  "timestamp": "2025-07-04T10:00:07.524+00:00",
   "tokens": [
     {
       "chainId": 1666600000,
@@ -16,11 +16,19 @@
     },
     {
       "chainId": 1666600000,
-      "address": "0xef977d2f931c1978db5f6747666fa1eacb0d0339",
-      "name": "Harmony Horizon Bridged DAI  Harmony Sh",
-      "symbol": "DAI",
+      "address": "0x09e6e20ff399c2134c14232e172ce8ba2b03017e",
+      "name": "Kilopi",
+      "symbol": "LOP",
+      "decimals": 6,
+      "logoURI": "https://assets.coingecko.com/coins/images/29496/thumb/logo_kilopi_200sq.png?1696528442"
+    },
+    {
+      "chainId": 1666600000,
+      "address": "0x2a719af848bf365489e548be5edbec1d65858e59",
+      "name": "FIRA",
+      "symbol": "FIRA",
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/39789/thumb/dai.png?1724111370"
+      "logoURI": "https://assets.coingecko.com/coins/images/23983/thumb/fira.png?1696523178"
     },
     {
       "chainId": 1666600000,
@@ -40,19 +48,11 @@
     },
     {
       "chainId": 1666600000,
-      "address": "0x09e6e20ff399c2134c14232e172ce8ba2b03017e",
-      "name": "Kilopi",
-      "symbol": "LOP",
-      "decimals": 6,
-      "logoURI": "https://assets.coingecko.com/coins/images/29496/thumb/logo_kilopi_200sq.png?1696528442"
-    },
-    {
-      "chainId": 1666600000,
-      "address": "0xcf664087a5bb0237a0bad6742852ec6c8d69a27a",
-      "name": "Wrapped One",
-      "symbol": "WONE",
+      "address": "0x6983d1e6def3690c4d616b13597a09e6193ea013",
+      "name": "Harmony Horizon Bridged cETH  Harmony S",
+      "symbol": "1ETH",
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/18183/thumb/wonelogo.png?1696517683"
+      "logoURI": "https://assets.coingecko.com/coins/images/39710/thumb/WETH.PNG?1723730735"
     },
     {
       "chainId": 1666600000,
@@ -64,11 +64,11 @@
     },
     {
       "chainId": 1666600000,
-      "address": "0x2a719af848bf365489e548be5edbec1d65858e59",
-      "name": "FIRA",
-      "symbol": "FIRA",
+      "address": "0xcf664087a5bb0237a0bad6742852ec6c8d69a27a",
+      "name": "Wrapped One",
+      "symbol": "WONE",
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/23983/thumb/fira.png?1696523178"
+      "logoURI": "https://assets.coingecko.com/coins/images/18183/thumb/wonelogo.png?1696517683"
     },
     {
       "chainId": 1666600000,
@@ -88,11 +88,18 @@
     },
     {
       "chainId": 1666600000,
-      "address": "0x6983d1e6def3690c4d616b13597a09e6193ea013",
-      "name": "Harmony Horizon Bridged cETH  Harmony S",
-      "symbol": "1ETH",
+      "address": "0xef977d2f931c1978db5f6747666fa1eacb0d0339",
+      "name": "Harmony Horizon Bridged DAI  Harmony Sh",
+      "symbol": "DAI",
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/39710/thumb/WETH.PNG?1723730735"
+      "logoURI": "https://assets.coingecko.com/coins/images/39789/thumb/dai.png?1724111370"
+    },
+    {
+      "chainId": 1666600000,
+      "address": "0xe176ebe47d621b984a73036b9da5d834411ef734",
+      "name": "Harmony Horizen Bridged BUSD  Harmony ",
+      "symbol": "BUSD",
+      "decimals": 18
     },
     {
       "chainId": 1666600000,
@@ -104,26 +111,11 @@
     },
     {
       "chainId": 1666600000,
-      "address": "0xe176ebe47d621b984a73036b9da5d834411ef734",
-      "name": "Harmony Horizen Bridged BUSD  Harmony ",
-      "symbol": "BUSD",
-      "decimals": 18
-    },
-    {
-      "chainId": 1666600000,
       "address": "0x9b68bf4bf89c115c721105eaf6bd5164afcc51e4",
       "name": "GameFi Crossing",
       "symbol": "XYA",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/17017/thumb/logo_gfx.png?1696516581"
-    },
-    {
-      "chainId": 1666600000,
-      "address": "0x0159ed2e06ddcd46a25e74eb8e159ce666b28687",
-      "name": "FoxSwap",
-      "symbol": "FOX",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/18792/thumb/FOX-Logo.png?1696518254"
     },
     {
       "chainId": 1666600000,
@@ -727,7 +719,7 @@
     }
   ],
   "version": {
-    "major": 19,
+    "major": 20,
     "minor": 0,
     "patch": 0
   }
