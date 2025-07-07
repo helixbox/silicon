@@ -4,7 +4,7 @@
   "keywords": [
     "defi"
   ],
-  "timestamp": "2025-07-04T10:00:07.524+00:00",
+  "timestamp": "2025-07-07T18:00:09.598+00:00",
   "tokens": [
     {
       "chainId": 1666600000,
@@ -21,22 +21,6 @@
       "symbol": "LOP",
       "decimals": 6,
       "logoURI": "https://assets.coingecko.com/coins/images/29496/thumb/logo_kilopi_200sq.png?1696528442"
-    },
-    {
-      "chainId": 1666600000,
-      "address": "0x2a719af848bf365489e548be5edbec1d65858e59",
-      "name": "FIRA",
-      "symbol": "FIRA",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/23983/thumb/fira.png?1696523178"
-    },
-    {
-      "chainId": 1666600000,
-      "address": "0x4f529873288668815d66eda11314f719b23dd846",
-      "name": "CougarSwap",
-      "symbol": "CGS",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/19402/thumb/logo.png?1696518842"
     },
     {
       "chainId": 1666600000,
@@ -72,14 +56,6 @@
     },
     {
       "chainId": 1666600000,
-      "address": "0x22fb638a010e922d53fd2671a598a3334c228b62",
-      "name": "Speed Star JOC",
-      "symbol": "JOC",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/24883/thumb/f2zOnAa4_400x400.jpg?1696524042"
-    },
-    {
-      "chainId": 1666600000,
       "address": "0x673d2ec54e0a6580fc7e098295b70e3ce0350d03",
       "name": "Bridged WBNB",
       "symbol": "WBNB",
@@ -88,11 +64,27 @@
     },
     {
       "chainId": 1666600000,
+      "address": "0x22fb638a010e922d53fd2671a598a3334c228b62",
+      "name": "Speed Star JOC",
+      "symbol": "JOC",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/24883/thumb/f2zOnAa4_400x400.jpg?1696524042"
+    },
+    {
+      "chainId": 1666600000,
       "address": "0xef977d2f931c1978db5f6747666fa1eacb0d0339",
       "name": "Harmony Horizon Bridged DAI  Harmony Sh",
       "symbol": "DAI",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/39789/thumb/dai.png?1724111370"
+    },
+    {
+      "chainId": 1666600000,
+      "address": "0x2a719af848bf365489e548be5edbec1d65858e59",
+      "name": "FIRA",
+      "symbol": "FIRA",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/23983/thumb/fira.png?1696523178"
     },
     {
       "chainId": 1666600000,
@@ -116,6 +108,14 @@
       "symbol": "XYA",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/17017/thumb/logo_gfx.png?1696516581"
+    },
+    {
+      "chainId": 1666600000,
+      "address": "0x4f529873288668815d66eda11314f719b23dd846",
+      "name": "CougarSwap",
+      "symbol": "CGS",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/19402/thumb/logo.png?1696518842"
     },
     {
       "chainId": 1666600000,
@@ -627,7 +627,7 @@
       "name": "Legacy Frax Dollar",
       "symbol": "FRAX",
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/13422/thumb/frax-logo.png?1739780303"
+      "logoURI": "https://assets.coingecko.com/coins/images/13422/thumb/LFRAX.png?1751911193"
     },
     {
       "chainId": 1666600000,
@@ -721,6 +721,6 @@
   "version": {
     "major": 20,
     "minor": 0,
-    "patch": 0
+    "patch": 1
   }
 }

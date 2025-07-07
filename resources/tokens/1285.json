@@ -4,7 +4,7 @@
   "keywords": [
     "defi"
   ],
-  "timestamp": "2025-06-24T10:00:30.254+00:00",
+  "timestamp": "2025-07-07T18:00:34.976+00:00",
   "tokens": [
     {
       "chainId": 1285,
@@ -16,14 +16,6 @@
     },
     {
       "chainId": 1285,
-      "address": "0x6bd193ee6d2104f14f94e2ca6efefae561a4334b",
-      "name": "Solarbeam",
-      "symbol": "SOLAR",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/18260/thumb/solarbeamlogo.png?1696517755"
-    },
-    {
-      "chainId": 1285,
       "address": "0xbd90a6125a84e5c512129d622a75cdde176ade5e",
       "name": "RiverBoat",
       "symbol": "RIB",
@@ -32,42 +24,10 @@
     },
     {
       "chainId": 1285,
-      "address": "0x98878b06940ae243284ca214f92bb71a2b032b8a",
-      "name": "Moonriver",
-      "symbol": "MOVR",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/17984/thumb/Moonriver_MOVR_ICON.png?1716647589"
-    },
-    {
-      "chainId": 1285,
-      "address": "0x0f47ba9d9bde3442b42175e51d6a367928a1173b",
-      "name": "Zenlink Network",
-      "symbol": "ZLK",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/20884/thumb/zenlink.PNG?1696520277"
-    },
-    {
-      "chainId": 1285,
       "address": "0x5d9ab5522c64e1f6ef5e3627eccc093f56167818",
       "name": "Multichain Bridged BUSD  Moonriver ",
       "symbol": "BUSD",
       "decimals": 18
-    },
-    {
-      "chainId": 1285,
-      "address": "0x2bf9b864cdc97b08b6d79ad4663e71b8ab65c45c",
-      "name": "Multichain Bridged WBNB  Moonriver ",
-      "symbol": "WBNB",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/53098/thumb/wrapped_bnb.png?1735265298"
-    },
-    {
-      "chainId": 1285,
-      "address": "0x80a16016cc4a2e6a2caca8a4a498b1699ff0f844",
-      "name": "Multichain Bridged DAI  Moonriver ",
-      "symbol": "DAI",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/39817/thumb/dai.png?1724190493"
     },
     {
       "chainId": 1285,
@@ -79,11 +39,27 @@
     },
     {
       "chainId": 1285,
+      "address": "0x2bf9b864cdc97b08b6d79ad4663e71b8ab65c45c",
+      "name": "Multichain Bridged WBNB  Moonriver ",
+      "symbol": "WBNB",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/53098/thumb/wrapped_bnb.png?1735265298"
+    },
+    {
+      "chainId": 1285,
       "address": "0x639a647fbe20b6c8ac19e48e2de44ea792c62c5c",
       "name": "Multichain Bridged WETH  Moonriver ",
       "symbol": "WETH",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/39714/thumb/WETH.PNG?1723731624"
+    },
+    {
+      "chainId": 1285,
+      "address": "0x0f47ba9d9bde3442b42175e51d6a367928a1173b",
+      "name": "Zenlink Network",
+      "symbol": "ZLK",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/20884/thumb/zenlink.PNG?1696520277"
     },
     {
       "chainId": 1285,
@@ -100,6 +76,30 @@
       "symbol": "FINN",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/19642/thumb/Finn_1_%28200x200%29.png?1696519071"
+    },
+    {
+      "chainId": 1285,
+      "address": "0x80a16016cc4a2e6a2caca8a4a498b1699ff0f844",
+      "name": "Multichain Bridged DAI  Moonriver ",
+      "symbol": "DAI",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/39817/thumb/dai.png?1724190493"
+    },
+    {
+      "chainId": 1285,
+      "address": "0x98878b06940ae243284ca214f92bb71a2b032b8a",
+      "name": "Moonriver",
+      "symbol": "MOVR",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/17984/thumb/Moonriver_MOVR_ICON.png?1716647589"
+    },
+    {
+      "chainId": 1285,
+      "address": "0x6bd193ee6d2104f14f94e2ca6efefae561a4334b",
+      "name": "Solarbeam",
+      "symbol": "SOLAR",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/18260/thumb/solarbeamlogo.png?1696517755"
     },
     {
       "chainId": 1285,
@@ -187,7 +187,7 @@
       "name": "Legacy Frax Dollar",
       "symbol": "FRAX",
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/13422/thumb/frax-logo.png?1739780303"
+      "logoURI": "https://assets.coingecko.com/coins/images/13422/thumb/LFRAX.png?1751911193"
     },
     {
       "chainId": 1285,
@@ -217,6 +217,6 @@
   "version": {
     "major": 3,
     "minor": 0,
-    "patch": 0
+    "patch": 1
   }
 }

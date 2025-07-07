@@ -4,16 +4,8 @@
   "keywords": [
     "defi"
   ],
-  "timestamp": "2025-05-01T10:00:20.759+00:00",
+  "timestamp": "2025-07-07T18:00:25.235+00:00",
   "tokens": [
-    {
-      "chainId": 1101,
-      "address": "0xc5015b9d9161dca7e18e32f6f25c4ad850731fd4",
-      "name": "Polygon zkEVM Bridged DAI  Polygon zkEV",
-      "symbol": "DAI",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/39806/thumb/dai.png?1724126469"
-    },
     {
       "chainId": 1101,
       "address": "0xd4e38eb4a9581e05de8aeb5f895916647b5933f1",
@@ -32,19 +24,27 @@
     },
     {
       "chainId": 1101,
-      "address": "0x1e4a5963abfd975d8c9021ce480b42188849d41d",
-      "name": "Polygon Hermez Bridged USDT  Polygon zk",
-      "symbol": "USDT",
-      "decimals": 6,
-      "logoURI": "https://assets.coingecko.com/coins/images/35143/thumb/usdt_logo.png?1707467554"
-    },
-    {
-      "chainId": 1101,
       "address": "0x4f9a0e7fd2bf6067db6994cf12e4495df938e6e9",
       "name": "Polygon Hermez Bridged WETH  Polygon zk",
       "symbol": "WETH",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/39698/thumb/weth.png?1723671580"
+    },
+    {
+      "chainId": 1101,
+      "address": "0xc5015b9d9161dca7e18e32f6f25c4ad850731fd4",
+      "name": "Polygon zkEVM Bridged DAI  Polygon zkEV",
+      "symbol": "DAI",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/39806/thumb/dai.png?1724126469"
+    },
+    {
+      "chainId": 1101,
+      "address": "0x1e4a5963abfd975d8c9021ce480b42188849d41d",
+      "name": "Polygon Hermez Bridged USDT  Polygon zk",
+      "symbol": "USDT",
+      "decimals": 6,
+      "logoURI": "https://assets.coingecko.com/coins/images/35143/thumb/usdt_logo.png?1707467554"
     },
     {
       "chainId": 1101,
@@ -92,7 +92,7 @@
       "name": "Legacy Frax Dollar",
       "symbol": "FRAX",
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/13422/thumb/frax-logo.png?1739780303"
+      "logoURI": "https://assets.coingecko.com/coins/images/13422/thumb/LFRAX.png?1751911193"
     },
     {
       "chainId": 1101,
@@ -218,6 +218,6 @@
   "version": {
     "major": 4,
     "minor": 0,
-    "patch": 3
+    "patch": 4
   }
 }
