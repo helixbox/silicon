@@ -3775,6 +3775,14 @@
     }
   },
   {
+    "id": "aiapis",
+    "symbol": "apis",
+    "name": "aiAPIS",
+    "platforms": {
+      "ethereum": "0x1078a104e8ae6a339db8e6c018b9a095423d47f7"
+    }
+  },
+  {
     "id": "aicat",
     "symbol": "aicat",
     "name": "AICAT",
@@ -49615,6 +49623,7 @@
     "platforms": {
       "ethereum": "0xc2544a32872a91f4a553b404c6950e89de901fdb",
       "arbitrum-one": "0x3405e88af759992937b84e58f2fe691ef0eea320",
+      "fraxtal": "0xfc00000000000000000000000000000000000004",
       "binance-smart-chain": "0xd1738eb733a636d1b8665f48bc8a24da889c2562"
     }
   },
@@ -111692,6 +111701,14 @@
     }
   },
   {
+    "id": "slisbnb-non-transferable-receipt",
+    "symbol": "slisbnbx",
+    "name": "slisBNB Non-Transferable Receipt",
+    "platforms": {
+      "binance-smart-chain": "0x4b30fcaa7945fe9fdefd2895aae539ba102ed6f6"
+    }
+  },
+  {
     "id": "slop",
     "symbol": "slop",
     "name": "Slop",
@@ -122645,6 +122662,14 @@
     "name": "Tharwa",
     "platforms": {
       "ethereum": "0x7b10d50b5885be4c7985a88408265c109bd1eec8"
+    }
+  },
+  {
+    "id": "tharwa-usd",
+    "symbol": "thusd",
+    "name": "Tharwa USD",
+    "platforms": {
+      "ethereum": "0x76972f054ab43829064d31ff5f3acc5fabe57fe8"
     }
   },
   {
@@ -137397,7 +137422,8 @@
     "symbol": "wfrax",
     "name": "Wrapped FRAX",
     "platforms": {
-      "fraxtal": "0xfc00000000000000000000000000000000000002"
+      "fraxtal": "0xfc00000000000000000000000000000000000002",
+      "ethereum": "0x04acaf8d2865c0714f79da09645c13fd2888977f"
     }
   },
   {
