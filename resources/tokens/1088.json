@@ -4,16 +4,8 @@
   "keywords": [
     "defi"
   ],
-  "timestamp": "2025-05-14T10:00:09.542+00:00",
+  "timestamp": "2025-07-07T10:00:11.821+00:00",
   "tokens": [
-    {
-      "chainId": 1088,
-      "address": "0x721532bc0da5ffaeb0a6a45fb24271e8098629a7",
-      "name": "BinaryDAO",
-      "symbol": "BYTE",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/24539/thumb/binarydao.PNG?1696523717"
-    },
     {
       "chainId": 1088,
       "address": "0xb0cf600a62c94451b844b5161a57f7cec4cef9ae",
@@ -21,38 +13,6 @@
       "symbol": "CERUS",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/36167/thumb/cerus-token-logo-small.jpg?1710745687"
-    },
-    {
-      "chainId": 1088,
-      "address": "0x186573b175adf5801cf95fb06b232ccab123c6f4",
-      "name": "Monkex",
-      "symbol": "MONKEX",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/28834/thumb/monkexlogo.png?1703415265"
-    },
-    {
-      "chainId": 1088,
-      "address": "0x69fdb77064ec5c84fa2f21072973eb28441f43f3",
-      "name": "Tethys Finance",
-      "symbol": "TETHYS",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/22141/thumb/wjoZJvzA_400x400.jpg?1696521487"
-    },
-    {
-      "chainId": 1088,
-      "address": "0x966b25d174be6ba703e0ff80c68bb6e167236ba2",
-      "name": "Revenant",
-      "symbol": "GAMEFI",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/26005/thumb/icon.png?1696525082"
-    },
-    {
-      "chainId": 1088,
-      "address": "0x6f05709bc91bad933346f9e159f0d3fdbc2c9dce",
-      "name": "Hera Finance",
-      "symbol": "HERA",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/24751/thumb/heraLogo-200px.png?1721043422"
     },
     {
       "chainId": 1088,
@@ -64,11 +24,19 @@
     },
     {
       "chainId": 1088,
-      "address": "0x2583a2538272f31e9a15dd12a432b8c96ab4821d",
-      "name": "Staked Metis Token",
-      "symbol": "ARTMETIS",
+      "address": "0x966b25d174be6ba703e0ff80c68bb6e167236ba2",
+      "name": "Revenant",
+      "symbol": "GAMEFI",
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/36629/thumb/artMETIS.png?1712021137"
+      "logoURI": "https://assets.coingecko.com/coins/images/26005/thumb/icon.png?1696525082"
+    },
+    {
+      "chainId": 1088,
+      "address": "0x69fdb77064ec5c84fa2f21072973eb28441f43f3",
+      "name": "Tethys Finance",
+      "symbol": "TETHYS",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/22141/thumb/wjoZJvzA_400x400.jpg?1696521487"
     },
     {
       "chainId": 1088,
@@ -80,6 +48,22 @@
     },
     {
       "chainId": 1088,
+      "address": "0xa5b55ab1daf0f8e1efc0eb1931a957fd89b918f4",
+      "name": "Metis Bridged WBTC  Metis Andromeda ",
+      "symbol": "WBTC",
+      "decimals": 8,
+      "logoURI": "https://assets.coingecko.com/coins/images/39556/thumb/wbtc.png?1722898064"
+    },
+    {
+      "chainId": 1088,
+      "address": "0xbb1676046c36bcd2f6fd08d8f60672c7087d9adf",
+      "name": "Hercules Token",
+      "symbol": "TORCH",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/36601/thumb/hercules_logo_transp_128px.png?1711953416"
+    },
+    {
+      "chainId": 1088,
       "address": "0x096a84536ab84e68ee210561ffd3a038e79736f1",
       "name": "ENKI Protocol",
       "symbol": "ENKI",
@@ -88,11 +72,35 @@
     },
     {
       "chainId": 1088,
-      "address": "0xa5b55ab1daf0f8e1efc0eb1931a957fd89b918f4",
-      "name": "Metis Bridged WBTC  Metis Andromeda ",
-      "symbol": "WBTC",
-      "decimals": 8,
-      "logoURI": "https://assets.coingecko.com/coins/images/39556/thumb/wbtc.png?1722898064"
+      "address": "0x721532bc0da5ffaeb0a6a45fb24271e8098629a7",
+      "name": "BinaryDAO",
+      "symbol": "BYTE",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/24539/thumb/binarydao.PNG?1696523717"
+    },
+    {
+      "chainId": 1088,
+      "address": "0x6f05709bc91bad933346f9e159f0d3fdbc2c9dce",
+      "name": "Hera Finance",
+      "symbol": "HERA",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/24751/thumb/heraLogo-200px.png?1721043422"
+    },
+    {
+      "chainId": 1088,
+      "address": "0x186573b175adf5801cf95fb06b232ccab123c6f4",
+      "name": "Monkex",
+      "symbol": "MONKEX",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/28834/thumb/monkexlogo.png?1703415265"
+    },
+    {
+      "chainId": 1088,
+      "address": "0x2583a2538272f31e9a15dd12a432b8c96ab4821d",
+      "name": "Staked Metis Token",
+      "symbol": "ARTMETIS",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/36629/thumb/artMETIS.png?1712021137"
     },
     {
       "chainId": 1088,
@@ -109,14 +117,6 @@
       "symbol": "WMETIS",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/34526/thumb/metis.jpeg?1705305707"
-    },
-    {
-      "chainId": 1088,
-      "address": "0xbb1676046c36bcd2f6fd08d8f60672c7087d9adf",
-      "name": "Hercules Token",
-      "symbol": "TORCH",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/36601/thumb/hercules_logo_transp_128px.png?1711953416"
     },
     {
       "chainId": 1088,
@@ -253,18 +253,10 @@
       "symbol": "ALM",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/15621/thumb/alium.png?1696515255"
-    },
-    {
-      "chainId": 1088,
-      "address": "0xdf020cbd1897133978c7fcdf04b07e69d8934efc",
-      "name": "zkEra Finance",
-      "symbol": "ZKE",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/33928/thumb/token_png.png?1715327053"
     }
   ],
   "version": {
-    "major": 18,
+    "major": 19,
     "minor": 0,
     "patch": 0
   }
