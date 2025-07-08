@@ -4,15 +4,31 @@
   "keywords": [
     "defi"
   ],
-  "timestamp": "2025-04-18T06:00:27.830+00:00",
+  "timestamp": "2025-07-08T04:00:30.033+00:00",
   "tokens": [
     {
       "chainId": 248,
-      "address": "0x804c0ab078e4810edbec24a4ffb35ceb3e5bd61b",
-      "name": "Staked Neptune OAS",
-      "symbol": "STOAS",
+      "address": "0x50c5725949a6f0c72e6c4a641f24049a917db0cb",
+      "name": "Wrapped BTC  DeFiVerse ",
+      "symbol": "WBTC",
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/55245/thumb/stOAS.png?1744946153"
+      "logoURI": "https://assets.coingecko.com/coins/images/54523/thumb/WBTC.png?1740123159"
+    },
+    {
+      "chainId": 248,
+      "address": "0xe7798f023fc62146e8aa1b36da45fb70855a77ea",
+      "name": "Wrapped ETH  DeFiVerse ",
+      "symbol": "WETH",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/54522/thumb/WETH.png?1740123010"
+    },
+    {
+      "chainId": 248,
+      "address": "0xc683da627ff9fd56740c72a703528861c33d3b3a",
+      "name": "PLANZ",
+      "symbol": "Z",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/54938/thumb/wpPY6JQo_400x400.png?1742634021"
     },
     {
       "chainId": 248,
@@ -32,19 +48,11 @@
     },
     {
       "chainId": 248,
-      "address": "0xc683da627ff9fd56740c72a703528861c33d3b3a",
-      "name": "PLANZ",
-      "symbol": "Z",
+      "address": "0x804c0ab078e4810edbec24a4ffb35ceb3e5bd61b",
+      "name": "Staked Neptune OAS",
+      "symbol": "STOAS",
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/54938/thumb/wpPY6JQo_400x400.png?1742634021"
-    },
-    {
-      "chainId": 248,
-      "address": "0xe1ab220e37ac55a4e2dd5ba148298a9c09fbd716",
-      "name": "Celer Bridged USDC  Oasys ",
-      "symbol": "USDC",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/35260/thumb/USDC_Icon.png?1708007921"
+      "logoURI": "https://assets.coingecko.com/coins/images/55245/thumb/stOAS.png?1744946153"
     },
     {
       "chainId": 248,
@@ -56,11 +64,11 @@
     },
     {
       "chainId": 248,
-      "address": "0xe7798f023fc62146e8aa1b36da45fb70855a77ea",
-      "name": "Wrapped ETH  DeFiVerse ",
-      "symbol": "WETH",
+      "address": "0xe1ab220e37ac55a4e2dd5ba148298a9c09fbd716",
+      "name": "Celer Bridged USDC  Oasys ",
+      "symbol": "USDC",
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/54522/thumb/WETH.png?1740123010"
+      "logoURI": "https://assets.coingecko.com/coins/images/35260/thumb/USDC_Icon.png?1708007921"
     },
     {
       "chainId": 248,
@@ -69,14 +77,6 @@
       "symbol": "WOAS",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/28493/thumb/Oasys_OAS_Token_Black_%281%29.png?1699333247"
-    },
-    {
-      "chainId": 248,
-      "address": "0x50c5725949a6f0c72e6c4a641f24049a917db0cb",
-      "name": "Wrapped BTC  DeFiVerse ",
-      "symbol": "WBTC",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/54523/thumb/WBTC.png?1740123159"
     },
     {
       "chainId": 248,
@@ -93,6 +93,14 @@
       "symbol": "MCHC",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/15399/thumb/MCHC.jpg?1696515045"
+    },
+    {
+      "chainId": 248,
+      "address": "0x5a2941b1b328adde8193cb8b0100787d7cba2f9a",
+      "name": "SGC",
+      "symbol": "SGC",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/66558/thumb/sgc.png?1749723417"
     },
     {
       "chainId": 248,
@@ -113,7 +121,7 @@
   ],
   "version": {
     "major": 3,
-    "minor": 6,
+    "minor": 7,
     "patch": 0
   }
 }
