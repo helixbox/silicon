@@ -53661,9 +53661,13 @@
   {
     "id": "glue",
     "symbol": "glue",
-    "name": "Base Bridged GLUE (Base)",
+    "name": "Glue",
     "platforms": {
-      "base": "0x840b20fa3d48ac709fd841fcd878c3e8aabd7087"
+      "base": "0x840b20fa3d48ac709fd841fcd878c3e8aabd7087",
+      "ethereum": "0x840b20fa3d48ac709fd841fcd878c3e8aabd7087",
+      "binance-smart-chain": "0x840b20fa3d48ac709fd841fcd878c3e8aabd7087",
+      "avalanche": "0x840b20fa3d48ac709fd841fcd878c3e8aabd7087",
+      "solana": "CiuH3kcRXJhdikbZsjfpvFaMaGVSCmFodWcwizjhhXcY"
     }
   },
   {
@@ -140248,6 +140252,14 @@
     "name": "XOXNO Staked EGLD",
     "platforms": {
       "elrond": "XEGLD-e413ed"
+    }
+  },
+  {
+    "id": "xoxo-monkey",
+    "symbol": "xoxo",
+    "name": "XOXO Monkey",
+    "platforms": {
+      "binance-smart-chain": "0x00f71afe867b2dbd2ad4ba14fd139bc6bc659ccd"
     }
   },
   {
