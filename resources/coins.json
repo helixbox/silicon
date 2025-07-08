@@ -51142,6 +51142,14 @@
     }
   },
   {
+    "id": "gama-token",
+    "symbol": "gama",
+    "name": "Gama Token",
+    "platforms": {
+      "xdc-network": "0x3a170c7c987f55c84f28733bfa27962d8cdd5d3b"
+    }
+  },
+  {
     "id": "gambex",
     "symbol": "gbe",
     "name": "Gambex",
@@ -128716,7 +128724,8 @@
     "symbol": "ubtc",
     "name": "Unit Bitcoin",
     "platforms": {
-      "hyperevm": "0x9fdbda0a5e284c32744d2f17ee5c74b284993463"
+      "hyperevm": "0x9fdbda0a5e284c32744d2f17ee5c74b284993463",
+      "hyperliquid": "0x8f254b963e8468305d409b33aa137c67"
     }
   },
   {
@@ -128774,7 +128783,8 @@
     "symbol": "ufart",
     "name": "Unit Fartcoin",
     "platforms": {
-      "hyperevm": "0x3b4575e689ded21caad31d64c4df1f10f3b2cedf"
+      "hyperevm": "0x3b4575e689ded21caad31d64c4df1f10f3b2cedf",
+      "hyperliquid": "0x7650808198966e4285687d3deb556ccc"
     }
   },
   {
@@ -128813,7 +128823,8 @@
     "symbol": "usol",
     "name": "Unit Solana",
     "platforms": {
-      "hyperevm": "0x068f321fa8fb9f0d135f290ef6a3e2813e1c8a29"
+      "hyperevm": "0x068f321fa8fb9f0d135f290ef6a3e2813e1c8a29",
+      "hyperliquid": "0x49b67c39f5566535de22b29b0e51e685"
     }
   },
   {
@@ -129831,6 +129842,7 @@
     "name": "USDT0",
     "platforms": {
       "ink": "0x0200c29006150606b650577bbe7b6248f58470c1",
+      "hyperliquid": "0x25faedc3f054130dbb4e4203aca63567",
       "berachain": "0x779ded0c9e1022225f8e0630b35a9b54be713736",
       "flare-network": "0xe7cd86e13ac4309349f30b3435a9d337750fc82d",
       "corn": "0xb8ce59fc3717ada4c02eadf9682a9e934f625ebb",
@@ -142640,6 +142652,14 @@
     "platforms": {
       "solana": "5VsPJ2EG7jjo3k2LPzQVriENKKQkNUTzujEzuaj4Aisf",
       "sei-v2": "0x83c82f0f959ad3eff528ee513b43808aa53f4b37"
+    }
+  },
+  {
+    "id": "zentium-tech",
+    "symbol": "zent",
+    "name": "Zentium Tech",
+    "platforms": {
+      "ethereum": "0x2b37127988e4e5e9576b7a533d873c23cfbdb1e9"
     }
   },
   {
