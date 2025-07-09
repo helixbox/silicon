@@ -4,8 +4,16 @@
   "keywords": [
     "defi"
   ],
-  "timestamp": "2025-07-07T09:01:21.972+00:00",
+  "timestamp": "2025-07-09T20:01:32.650+00:00",
   "tokens": [
+    {
+      "chainId": 7700,
+      "address": "0x826551890dc65655a0aceca109ab11abdbd7a07b",
+      "name": "CANTO",
+      "symbol": "CANTO",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/26959/thumb/canto-network.png?1696526014"
+    },
     {
       "chainId": 7700,
       "address": "0xb5b060055f0d1ef5174329913ef861bc3addf029",
@@ -13,6 +21,14 @@
       "symbol": "FLOW",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/29232/thumb/Flow-circle-aqua.png?1696528189"
+    },
+    {
+      "chainId": 7700,
+      "address": "0x9aeff862435cc243d12cee915e7129629c6a8d5d",
+      "name": "LeetSwap  Canto ",
+      "symbol": "LEET",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/31129/thumb/leet.png?1696529959"
     },
     {
       "chainId": 7700,
@@ -28,22 +44,6 @@
       "name": "Fortunafi Tokenized Short term U S  Tre",
       "symbol": "IFBILL",
       "decimals": 18
-    },
-    {
-      "chainId": 7700,
-      "address": "0x9aeff862435cc243d12cee915e7129629c6a8d5d",
-      "name": "LeetSwap  Canto ",
-      "symbol": "LEET",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/31129/thumb/leet.png?1696529959"
-    },
-    {
-      "chainId": 7700,
-      "address": "0x826551890dc65655a0aceca109ab11abdbd7a07b",
-      "name": "CANTO",
-      "symbol": "CANTO",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/26959/thumb/canto-network.png?1696526014"
     },
     {
       "chainId": 7700,
@@ -105,7 +105,7 @@
       "chainId": 7700,
       "address": "0x74ccbe53f77b08632ce0cb91d3a545bf6b8e0979",
       "name": "Fantom Bomb",
-      "symbol": "BOMB",
+      "symbol": "FBOMB",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/24109/thumb/fBomb_Brandmark_BlackBlue_%282%29.png?1751872081"
     },
@@ -121,6 +121,6 @@
   "version": {
     "major": 2,
     "minor": 0,
-    "patch": 1
+    "patch": 2
   }
 }

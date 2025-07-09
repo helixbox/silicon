@@ -4,15 +4,23 @@
   "keywords": [
     "defi"
   ],
-  "timestamp": "2025-07-08T20:00:03.365+00:00",
+  "timestamp": "2025-07-09T20:00:05.402+00:00",
   "tokens": [
     {
       "chainId": 8811,
-      "address": "0xb041be50694f3018912c18c710e7bbb931002598",
-      "name": "Wrapped H1",
-      "symbol": "WH1",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/66715/thumb/haven1.jpg?1750299016"
+      "address": "0x33b67ed2b733576572c19d744a365181d97f936c",
+      "name": "Haven1 Bridged USDC  Haven1 ",
+      "symbol": "HUSDC",
+      "decimals": 6,
+      "logoURI": "https://assets.coingecko.com/coins/images/66716/thumb/usdc.jpg?1750299196"
+    },
+    {
+      "chainId": 8811,
+      "address": "0x61cd868ee83319dbc16616d34084904a369d5338",
+      "name": "Haven1 Bridged Coinbase Wrapped BTC",
+      "symbol": "HCBBTC",
+      "decimals": 8,
+      "logoURI": "https://assets.coingecko.com/coins/images/67204/thumb/cbeth_logo_200x200.png?1752088242"
     },
     {
       "chainId": 8811,
@@ -24,16 +32,32 @@
     },
     {
       "chainId": 8811,
-      "address": "0x33b67ed2b733576572c19d744a365181d97f936c",
-      "name": "Haven1 Bridged USDC  Haven1 ",
-      "symbol": "HUSDC",
-      "decimals": 6,
-      "logoURI": "https://assets.coingecko.com/coins/images/66716/thumb/usdc.jpg?1750299196"
+      "address": "0x0a7a6384e0640c3efd5587635e201cb960819456",
+      "name": "Haven1 Bridged Coinbase Wrapped Staked ",
+      "symbol": "HCBETH",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/67206/thumb/eth_logo_200x200.png?1752088402"
+    },
+    {
+      "chainId": 8811,
+      "address": "0x750008544ce5a197ea88a6679962ada79210c194",
+      "name": "Haven1 Bridged Staked ETH",
+      "symbol": "HSETH",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/67205/thumb/eth_logo_200x200.png?1752088373"
+    },
+    {
+      "chainId": 8811,
+      "address": "0xb041be50694f3018912c18c710e7bbb931002598",
+      "name": "Wrapped H1",
+      "symbol": "WH1",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/66715/thumb/haven1.jpg?1750299016"
     }
   ],
   "version": {
     "major": 0,
-    "minor": 2,
+    "minor": 3,
     "patch": 0
   }
 }
