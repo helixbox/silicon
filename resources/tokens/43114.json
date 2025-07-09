@@ -4,7 +4,7 @@
   "keywords": [
     "defi"
   ],
-  "timestamp": "2025-07-09T11:00:53.437+00:00",
+  "timestamp": "2025-07-09T12:00:56.701+00:00",
   "tokens": [
     {
       "chainId": 43114,
@@ -32,11 +32,27 @@
     },
     {
       "chainId": 43114,
+      "address": "0x5e0e90e268bc247cc850c789a0db0d5c7621fb59",
+      "name": "Nexpace",
+      "symbol": "NXPC",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/55703/thumb/wk63iOZz_400x400.png?1747126039"
+    },
+    {
+      "chainId": 43114,
       "address": "0xe896cdeaac9615145c0ca09c8cd5c25bced6384c",
       "name": "Penguin Finance",
       "symbol": "PEFI",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/14643/thumb/pefi.png?1696514320"
+    },
+    {
+      "chainId": 43114,
+      "address": "0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7",
+      "name": "Wrapped AVAX",
+      "symbol": "WAVAX",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/15075/thumb/wrapped-avax.png?1696514734"
     },
     {
       "chainId": 43114,
@@ -117,14 +133,6 @@
       "symbol": "GAJ",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/15257/thumb/logo200x200.png?1696514910"
-    },
-    {
-      "chainId": 43114,
-      "address": "0x9261330c6a2b472c58dbc149ca9dfc20e6861d66",
-      "name": "SUMMIT",
-      "symbol": "SUMMIT",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/67197/thumb/SUMMIT.png?1752055918"
     },
     {
       "chainId": 43114,
@@ -269,14 +277,6 @@
       "symbol": "JUC",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/37367/thumb/juice-logomark-v2d-200x200.png?1733286791"
-    },
-    {
-      "chainId": 43114,
-      "address": "0xa77e70d0af1ac7ff86726740db1bd065c3566937",
-      "name": "PLAYA3ULL GAMES",
-      "symbol": "3ULL",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/30695/thumb/App_Icon_Round.png?1696529564"
     },
     {
       "chainId": 43114,
@@ -704,14 +704,6 @@
     },
     {
       "chainId": 43114,
-      "address": "0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7",
-      "name": "Wrapped AVAX",
-      "symbol": "WAVAX",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/15075/thumb/wrapped-avax.png?1696514734"
-    },
-    {
-      "chainId": 43114,
       "address": "0xb8d7710f7d8349a506b75dd184f05777c82dad0c",
       "name": "The Arena",
       "symbol": "ARENA",
@@ -904,14 +896,6 @@
     },
     {
       "chainId": 43114,
-      "address": "0x5e0e90e268bc247cc850c789a0db0d5c7621fb59",
-      "name": "Nexpace",
-      "symbol": "NXPC",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/55703/thumb/wk63iOZz_400x400.png?1747126039"
-    },
-    {
-      "chainId": 43114,
       "address": "0x502580fc390606b47fc3b741d6d49909383c28a9",
       "name": "HatchyPocket",
       "symbol": "HATCHY",
@@ -1032,11 +1016,27 @@
     },
     {
       "chainId": 43114,
+      "address": "0xa77e70d0af1ac7ff86726740db1bd065c3566937",
+      "name": "PLAYA3ULL GAMES",
+      "symbol": "3ULL",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/30695/thumb/App_Icon_Round.png?1696529564"
+    },
+    {
+      "chainId": 43114,
       "address": "0x1bfa7fd90de1285deb09a734112ab6bcd935fc6a",
       "name": "H4SHFund",
       "symbol": "H4SH",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/55490/thumb/H4SH_logo.png?1746347187"
+    },
+    {
+      "chainId": 43114,
+      "address": "0x735d8f3b6a5d2c96d0405230c50eaf96794fbb88",
+      "name": "XPowermine com XPOW  OLD ",
+      "symbol": "XPOW",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/35936/thumb/logo-xpower-360-round.png?1710231766"
     },
     {
       "chainId": 43114,
@@ -1296,14 +1296,6 @@
     },
     {
       "chainId": 43114,
-      "address": "0x735d8f3b6a5d2c96d0405230c50eaf96794fbb88",
-      "name": "XPowermine com XPOW  OLD ",
-      "symbol": "XPOW",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/35936/thumb/logo-xpower-360-round.png?1710231766"
-    },
-    {
-      "chainId": 43114,
       "address": "0xa1afcc973d44ce1c65a21d9e644cb82489d26503",
       "name": "RunBlox",
       "symbol": "RUX",
@@ -1341,6 +1333,14 @@
       "symbol": "COLS",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/55044/thumb/MJQlzeE-_400x400.png?1743433037"
+    },
+    {
+      "chainId": 43114,
+      "address": "0x9261330c6a2b472c58dbc149ca9dfc20e6861d66",
+      "name": "SUMMIT",
+      "symbol": "SUMMIT",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/67197/thumb/SUMMIT.png?1752055918"
     },
     {
       "chainId": 43114,
