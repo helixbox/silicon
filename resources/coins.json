@@ -7739,6 +7739,14 @@
     }
   },
   {
+    "id": "apix-2",
+    "symbol": "apix",
+    "name": "APIX",
+    "platforms": {
+      "avalanche": "0x1edf79e77693561e80072becbcce1e16dc356aca"
+    }
+  },
+  {
     "id": "apm-coin",
     "symbol": "apm",
     "name": "apM Coin",
@@ -13242,6 +13250,14 @@
     "name": "Baobao",
     "platforms": {
       "solana": "3Xu3Qf2NRrbcDsQjV1B8mndGndS2ATVSMVtgX2Tkpump"
+    }
+  },
+  {
+    "id": "baobao-2",
+    "symbol": "baobao",
+    "name": "BaoBao",
+    "platforms": {
+      "solana": "4bXCaDUciWA5Qj1zmcZ9ryJsoqv4rahKD4r8zYYsbonk"
     }
   },
   {
@@ -33561,6 +33577,14 @@
     }
   },
   {
+    "id": "daku-v2",
+    "symbol": "daku",
+    "name": "Daku V2",
+    "platforms": {
+      "solana": "7mwikw88GRsAHbFpbpyuM3QMq1hXH87d4rYNuM8Earay"
+    }
+  },
+  {
     "id": "dalgo",
     "symbol": "dalgo",
     "name": "DALGO",
@@ -34146,6 +34170,14 @@
     "symbol": "dmc",
     "name": "Datamall Coin",
     "platforms": {}
+  },
+  {
+    "id": "datamind",
+    "symbol": "dmind",
+    "name": "DataMind",
+    "platforms": {
+      "ethereum": "0xda1dcf1ceb9988442d8eb4ed980139d67afe65d6"
+    }
   },
   {
     "id": "datamine",
@@ -53491,6 +53523,14 @@
     }
   },
   {
+    "id": "glif-staked-icnt",
+    "symbol": "sticnt",
+    "name": "Glif Staked ICNT",
+    "platforms": {
+      "base": "0xaed7c2ed7bb84396afcb55ff72c8f8e87ffb68f3"
+    }
+  },
+  {
     "id": "glint-coin",
     "symbol": "glint",
     "name": "Glint Coin",
@@ -53727,6 +53767,7 @@
     "name": "Wrapped Glue",
     "platforms": {
       "base": "0x840b20fa3d48ac709fd841fcd878c3e8aabd7087",
+      "glue": "0x9a1691d500c54e1d79df2347d170987aa3e527ac",
       "ethereum": "0x840b20fa3d48ac709fd841fcd878c3e8aabd7087",
       "binance-smart-chain": "0x840b20fa3d48ac709fd841fcd878c3e8aabd7087",
       "avalanche": "0x840b20fa3d48ac709fd841fcd878c3e8aabd7087",
@@ -59771,7 +59812,8 @@
     "symbol": "hosico",
     "name": "Hosico Cat",
     "platforms": {
-      "solana": "9wK8yN6iz1ie5kEJkvZCTxyN1x5sTdNfx8yeMY8Ebonk"
+      "solana": "9wK8yN6iz1ie5kEJkvZCTxyN1x5sTdNfx8yeMY8Ebonk",
+      "glue": "0x8f799534708044e27ec8f834edca4e90a81a527d"
     }
   },
   {
@@ -82344,6 +82386,14 @@
     }
   },
   {
+    "id": "mooncat",
+    "symbol": "mooncat",
+    "name": "Mooncat",
+    "platforms": {
+      "solana": "FNP2Dw2GU5wPBZgVCcerbEemV9dVfvQrThEor1jmoon"
+    }
+  },
+  {
     "id": "moon-cat",
     "symbol": "mc",
     "name": "Moon Cat",
@@ -85663,6 +85713,7 @@
     "symbol": "inalpha",
     "name": "Nest Alpha Vault (LP)",
     "platforms": {
+      "ethereum": "0x64ab176c545bb85eca75d53c3ffcb361deafb855",
       "plume-network": "0x64ab176c545bb85eca75d53c3ffcb361deafb855"
     }
   },
@@ -86316,6 +86367,14 @@
     "name": "New XAI Gork",
     "platforms": {
       "solana": "38PgzpJYu2HkiYvV8qePFakB8tuobPdGm2FFEn7Dpump"
+    }
+  },
+  {
+    "id": "new-york",
+    "symbol": "nyc",
+    "name": "New York",
+    "platforms": {
+      "solana": "8PPvJgidj7XRy97U4jZm56rnecmk9ZMo2uh5XNQypump"
     }
   },
   {
@@ -95626,6 +95685,14 @@
     }
   },
   {
+    "id": "phi-protocol",
+    "symbol": "phi",
+    "name": "Phi Protocol",
+    "platforms": {
+      "solana": "C19J3fcXX9otmTjPuGNdZMQdfRG6SRhbnJv8EJnRpump"
+    }
+  },
+  {
     "id": "phnix",
     "symbol": "phnix",
     "name": "PHNIX",
@@ -99587,6 +99654,14 @@
     "name": "PrompTale AI",
     "platforms": {
       "binance-smart-chain": "0x37eff3ff1321fb9abc734761ca72fafdc044534a"
+    }
+  },
+  {
+    "id": "promptbidder",
+    "symbol": "prompt",
+    "name": "PromptBidder",
+    "platforms": {
+      "solana": "9NW7fiBu4uHpLx3rxiMccucyKwADwuptTpb8z2YYj9SH"
     }
   },
   {
@@ -114279,10 +114354,7 @@
     "symbol": "solvbtc.trading",
     "name": "SolvBTC Trading Strategies Vault",
     "platforms": {
-      "binance-smart-chain": "0x53e63a31fd1077f949204b94f431bcab98f72bce",
-      "ethereum": "0x325dc9ebcec31940c658acaca45f8293418d811e",
-      "arbitrum-one": "0xafafd68afe3fe65d376eec9eab1802616cfaccb8",
-      "merlin-chain": "0x88c618b2396c1a11a6aabd1bf89228a08462f2d2"
+      "binance-smart-chain": "0x53e63a31fd1077f949204b94f431bcab98f72bce"
     }
   },
   {
@@ -117219,6 +117291,14 @@
     "name": "Stargate Bridged USDC (Fuse)",
     "platforms": {
       "fuse": "0xc6bc407706b7140ee8eef2f86f9504651b63e7f9"
+    }
+  },
+  {
+    "id": "stargate-bridged-usdc-glue",
+    "symbol": "usdc.e",
+    "name": "Stargate Bridged USDC (Glue)",
+    "platforms": {
+      "glue": "0xee45ed3f6c675f319bb9de62991c1e78b484e0b8"
     }
   },
   {
