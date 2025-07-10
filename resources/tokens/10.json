@@ -4,7 +4,7 @@
   "keywords": [
     "defi"
   ],
-  "timestamp": "2025-07-09T21:01:09.148+00:00",
+  "timestamp": "2025-07-09T22:01:08.043+00:00",
   "tokens": [
     {
       "chainId": 10,
@@ -16,11 +16,11 @@
     },
     {
       "chainId": 10,
-      "address": "0x513c7e3a9c69ca3e22550ef58ac1c0088e918fff",
-      "name": "Aave v3 OP",
-      "symbol": "AOP",
+      "address": "0x4200000000000000000000000000000000000006",
+      "name": "L2 Standard Bridged WETH  Optimism ",
+      "symbol": "WETH",
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/32919/thumb/op.png?1699825542"
+      "logoURI": "https://assets.coingecko.com/coins/images/39715/thumb/WETH.PNG?1723731805"
     },
     {
       "chainId": 10,
@@ -29,14 +29,6 @@
       "symbol": "CFES",
       "decimals": 0,
       "logoURI": "https://assets.coingecko.com/coins/images/33365/thumb/CFES.png?1701613582"
-    },
-    {
-      "chainId": 10,
-      "address": "0x8c6f28f2f1a3c87f0f938b96d27520d9751ec8d9",
-      "name": "sUSD  Optimism ",
-      "symbol": "SUSD",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/37867/thumb/sus.png?1715815715"
     },
     {
       "chainId": 10,
@@ -72,6 +64,22 @@
     },
     {
       "chainId": 10,
+      "address": "0xef4461891dfb3ac8572ccf7c794664a8dd927945",
+      "name": "WalletConnect Token",
+      "symbol": "WCT",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/50390/thumb/wc-token1.png?1727569464"
+    },
+    {
+      "chainId": 10,
+      "address": "0x513c7e3a9c69ca3e22550ef58ac1c0088e918fff",
+      "name": "Aave v3 OP",
+      "symbol": "AOP",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/32919/thumb/op.png?1699825542"
+    },
+    {
+      "chainId": 10,
       "address": "0x74d5b4a317fffd3cbf8ed94327ff07e2884e84bc",
       "name": "Oracul Analytics",
       "symbol": "ORCL",
@@ -96,27 +104,11 @@
     },
     {
       "chainId": 10,
-      "address": "0x4200000000000000000000000000000000000042",
-      "name": "Optimism",
-      "symbol": "OP",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/25244/thumb/Optimism.png?1696524385"
-    },
-    {
-      "chainId": 10,
       "address": "0xda10009cbd5d07dd0cecc66161fc93d7c9000da1",
       "name": "MakerDAO Optimism Bridged DAI  Optimism",
       "symbol": "DAI",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/39818/thumb/dai.png?1724190656"
-    },
-    {
-      "chainId": 10,
-      "address": "0xef4461891dfb3ac8572ccf7c794664a8dd927945",
-      "name": "WalletConnect Token",
-      "symbol": "WCT",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/50390/thumb/wc-token1.png?1727569464"
     },
     {
       "chainId": 10,
@@ -133,6 +125,14 @@
       "symbol": "WOPTIDOGE",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/31066/thumb/Wrapped_OptiDoge_logo_200x200px_.png?1696529900"
+    },
+    {
+      "chainId": 10,
+      "address": "0x8c6f28f2f1a3c87f0f938b96d27520d9751ec8d9",
+      "name": "sUSD  Optimism ",
+      "symbol": "SUSD",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/37867/thumb/sus.png?1715815715"
     },
     {
       "chainId": 10,
@@ -184,14 +184,6 @@
     },
     {
       "chainId": 10,
-      "address": "0xa430a427bd00210506589906a71b54d6c256cedb",
-      "name": "Exactly Optimism",
-      "symbol": "EXAOP",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/31173/thumb/ExaOP_1.png?1696530001"
-    },
-    {
-      "chainId": 10,
       "address": "0xe64b4eb5eec6343887c4683da31f0ca62ea39ce3",
       "name": "Aktionariat BEE Digital Growth AG Token",
       "symbol": "BEES",
@@ -221,14 +213,6 @@
       "symbol": "VELO",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/25783/thumb/velo.png?1696524870"
-    },
-    {
-      "chainId": 10,
-      "address": "0x4200000000000000000000000000000000000006",
-      "name": "L2 Standard Bridged WETH  Optimism ",
-      "symbol": "WETH",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/39715/thumb/WETH.PNG?1723731805"
     },
     {
       "chainId": 10,
@@ -280,11 +264,27 @@
     },
     {
       "chainId": 10,
+      "address": "0xa430a427bd00210506589906a71b54d6c256cedb",
+      "name": "Exactly Optimism",
+      "symbol": "EXAOP",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/31173/thumb/ExaOP_1.png?1696530001"
+    },
+    {
+      "chainId": 10,
       "address": "0x4793405c2231d8646f8ee79e120c230c574b0c4b",
       "name": "NOI Token",
       "symbol": "NOI",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/66171/thumb/LOGO_200x200.png?1748538866"
+    },
+    {
+      "chainId": 10,
+      "address": "0x4200000000000000000000000000000000000042",
+      "name": "Optimism",
+      "symbol": "OP",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/25244/thumb/Optimism.png?1696524385"
     },
     {
       "chainId": 10,
