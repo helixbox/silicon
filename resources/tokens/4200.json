@@ -4,16 +4,8 @@
   "keywords": [
     "defi"
   ],
-  "timestamp": "2025-07-10T08:00:10.100+00:00",
+  "timestamp": "2025-07-11T10:00:11.417+00:00",
   "tokens": [
-    {
-      "chainId": 4200,
-      "address": "0x32a4b8b10222f85301874837f27f4c416117b811",
-      "name": "Bridged DOG GO TO THE MOON  Merlin Chai",
-      "symbol": "DOGGOTOTHEMOON",
-      "decimals": 5,
-      "logoURI": "https://assets.coingecko.com/coins/images/37383/thumb/dog.png?1714215910"
-    },
     {
       "chainId": 4200,
       "address": "0x6b4ecada640f1b30dbdb68f77821a03a5f282ebe",
@@ -29,6 +21,14 @@
       "symbol": "ING",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/36685/thumb/Logo-200px.png?1712071213"
+    },
+    {
+      "chainId": 4200,
+      "address": "0x5c46bff4b38dc1eae09c5bac65872a1d8bc87378",
+      "name": "Merlin Chain",
+      "symbol": "MERL",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/37118/thumb/merlin.jpeg?1713352230"
     },
     {
       "chainId": 4200,
@@ -48,11 +48,19 @@
     },
     {
       "chainId": 4200,
-      "address": "0x4fd67c2d9e8c4fdd9c66954bafe124ca50fc1819",
-      "name": "Mner Club",
-      "symbol": "LTMNER",
+      "address": "0x09401c470a76ec07512eeddef5477be74bac2338",
+      "name": "Star AI",
+      "symbol": "MSTAR",
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/52094/thumb/rmner.png?1732549755"
+      "logoURI": "https://assets.coingecko.com/coins/images/37120/thumb/Token_Logo.jpg?1746604944"
+    },
+    {
+      "chainId": 4200,
+      "address": "0x32a4b8b10222f85301874837f27f4c416117b811",
+      "name": "Bridged DOG GO TO THE MOON  Merlin Chai",
+      "symbol": "DOGGOTOTHEMOON",
+      "decimals": 5,
+      "logoURI": "https://assets.coingecko.com/coins/images/37383/thumb/dog.png?1714215910"
     },
     {
       "chainId": 4200,
@@ -85,22 +93,6 @@
       "symbol": "WBTC",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/35437/thumb/wbtc.png?1708590308"
-    },
-    {
-      "chainId": 4200,
-      "address": "0x09401c470a76ec07512eeddef5477be74bac2338",
-      "name": "Star AI",
-      "symbol": "MSTAR",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/37120/thumb/Token_Logo.jpg?1746604944"
-    },
-    {
-      "chainId": 4200,
-      "address": "0x5c46bff4b38dc1eae09c5bac65872a1d8bc87378",
-      "name": "Merlin Chain",
-      "symbol": "MERL",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/37118/thumb/merlin.jpeg?1713352230"
     },
     {
       "chainId": 4200,
@@ -184,7 +176,7 @@
     }
   ],
   "version": {
-    "major": 7,
+    "major": 8,
     "minor": 0,
     "patch": 0
   }
