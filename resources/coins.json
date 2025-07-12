@@ -10782,6 +10782,14 @@
     }
   },
   {
+    "id": "avalanche-bridged-wbtc-avalanche",
+    "symbol": "wbtc",
+    "name": "Avalanche Bridged WBTC (Avalanche)",
+    "platforms": {
+      "avalanche": "0x0555e30da8f98308edb960aa94c0db47230d2b9c"
+    }
+  },
+  {
     "id": "avalanche-bridged-weth-avalanche",
     "symbol": "weth",
     "name": "Avalanche Bridged WETH (Avalanche)",
@@ -10791,7 +10799,7 @@
   },
   {
     "id": "avalanche-old-bridged-wbtc-avalanche",
-    "symbol": "wbtc",
+    "symbol": "wbtc.e",
     "name": "Avalanche Bridged WBTC (Avalanche)",
     "platforms": {
       "avalanche": "0x50b7545627a5162f82a992c33b87adc75187b218"
@@ -26147,6 +26155,12 @@
     "platforms": {
       "ethereum": "0xc7f950271d118a5bdf250dffc39128dcced8472c"
     }
+  },
+  {
+    "id": "chainbase",
+    "symbol": "c",
+    "name": "Chainbase",
+    "platforms": {}
   },
   {
     "id": "chainbing",
@@ -48153,6 +48167,14 @@
     }
   },
   {
+    "id": "flare-bridged-weth-flare",
+    "symbol": "weth",
+    "name": "Flare Bridged WETH (Flare)",
+    "platforms": {
+      "flare-network": "0x1502fa4be69d526124d453619276faccab275d3d"
+    }
+  },
+  {
     "id": "flare-finance",
     "symbol": "exfi",
     "name": "Experimental Finance",
@@ -66478,6 +66500,14 @@
     }
   },
   {
+    "id": "katana-bridged-pol-katana",
+    "symbol": "pol",
+    "name": "Katana Bridged POL (Katana)",
+    "platforms": {
+      "katana": "0xb24e3035d1fcbc0e43cf3143c3fd92e53df2009b"
+    }
+  },
+  {
     "id": "katana-inu",
     "symbol": "kata",
     "name": "Katana Inu",
@@ -66881,6 +66911,14 @@
     "name": "KelpDAO Bridged rsETH (Scroll)",
     "platforms": {
       "scroll": "0x65421ba909200b81640d98b979d07487c9781b66"
+    }
+  },
+  {
+    "id": "kelpdao-bridged-rseth-unichain",
+    "symbol": "rseth",
+    "name": "KelpDAO Bridged rsETH (Unichain)",
+    "platforms": {
+      "unichain": "0xc3eacf0612346366db554c991d7858716db09f58"
     }
   },
   {
@@ -93395,8 +93433,8 @@
     "name": "Paribus",
     "platforms": {
       "ethereum": "0xd528cf2e081f72908e086f8800977df826b5a483",
-      "cardano": "cc8d1b026353022abbfcc2e1e71159f9e308d9c6e905ac1db24c7fb650617269627573",
-      "arbitrum-one": "0xbad58ed9b5f26a002ea250d7a60dc6729a4a2403"
+      "arbitrum-one": "0xbad58ed9b5f26a002ea250d7a60dc6729a4a2403",
+      "cardano": "cc8d1b026353022abbfcc2e1e71159f9e308d9c6e905ac1db24c7fb650617269627573"
     }
   },
   {
@@ -100224,7 +100262,8 @@
     "symbol": "pengu",
     "name": "Pudgy Penguins",
     "platforms": {
-      "solana": "2zMMhcVQEXDtdE6vsFS7S7D5oUodfJHE8vd1gnBouauv"
+      "solana": "2zMMhcVQEXDtdE6vsFS7S7D5oUodfJHE8vd1gnBouauv",
+      "abstract": "0x9ebe3a824ca958e4b3da772d2065518f009cba62"
     }
   },
   {
@@ -112869,7 +112908,7 @@
     "symbol": "snek",
     "name": "Snek",
     "platforms": {
-      "cardano": "279c909f348e533da5808898f87f9a14bb2c3dfbbacccd631d927a3f"
+      "cardano": "279c909f348e533da5808898f87f9a14bb2c3dfbbacccd631d927a3f534e454b"
     }
   },
   {
@@ -114737,6 +114776,14 @@
     "name": "Sonic",
     "platforms": {
       "sonic": "0x446649f0727621bdbb76644b1910be2163b62a11"
+    }
+  },
+  {
+    "id": "sonic-bridged-wbtc-sonic",
+    "symbol": "wbtc",
+    "name": "Sonic Bridged WBTC (Sonic)",
+    "platforms": {
+      "sonic": "0x0555e30da8f98308edb960aa94c0db47230d2b9c"
     }
   },
   {
@@ -117534,6 +117581,14 @@
     }
   },
   {
+    "id": "stargate-bridged-usdt0-soneium",
+    "symbol": "usdt0",
+    "name": "Stargate Bridged USDT0 (Soneium)",
+    "platforms": {
+      "soneium": "0x102d758f688a4c1c5a80b116bd945d4455460282"
+    }
+  },
+  {
     "id": "stargate-bridged-usdt-flare-network",
     "symbol": "usdt",
     "name": "Stargate Bridged USDT (Flare Network)",
@@ -118912,7 +118967,7 @@
     "symbol": "strike",
     "name": "Strike",
     "platforms": {
-      "cardano": "f13ac4d66b3ee19a6aa0f2a22298737bd907cc95121662fc971b5275"
+      "cardano": "f13ac4d66b3ee19a6aa0f2a22298737bd907cc95121662fc971b5275535452494b45"
     }
   },
   {
@@ -130089,7 +130144,8 @@
     "name": "USD1",
     "platforms": {
       "binance-smart-chain": "0x8d0d000ee44948fc98c9b98a4fa4921476f08b0d",
-      "ethereum": "0x8d0d000ee44948fc98c9b98a4fa4921476f08b0d"
+      "ethereum": "0x8d0d000ee44948fc98c9b98a4fa4921476f08b0d",
+      "tron": "TPFqcBAaaUMCSVRCqPaQ9QnzKhmuoLR6Rc"
     }
   },
   {
@@ -133729,6 +133785,14 @@
     "platforms": {}
   },
   {
+    "id": "wanchain-bridged-usdc-cardano",
+    "symbol": "usdc",
+    "name": "Wanchain Bridged USDC (Cardano)",
+    "platforms": {
+      "cardano": "25c5de5f5b286073c593edfd77b48abc7a48e5a4f3d4cd9d428ff93555534443"
+    }
+  },
+  {
     "id": "wanchain-bridged-usdt-xdc-network",
     "symbol": "xusdt",
     "name": "Wanchain Bridged USDT (XDC Network)",
@@ -136373,8 +136437,8 @@
     "name": "World Mobile Token",
     "platforms": {
       "ethereum": "0xdbb5cf12408a3ac17d668037ce289f9ea75439d7",
-      "cardano": "e5a42a1a1d3d1da71b0449663c32798725888d2eb0843c4dabeca05a576f726c644d6f62696c65546f6b656e58",
       "arbitrum-one": "0xdbb5cf12408a3ac17d668037ce289f9ea75439d7",
+      "cardano": "e5a42a1a1d3d1da71b0449663c32798725888d2eb0843c4dabeca05a576f726c644d6f62696c65546f6b656e58",
       "base": "0x3e31966d4f81c72d2a55310a6365a56a4393e98d",
       "binance-smart-chain": "0xdbb5cf12408a3ac17d668037ce289f9ea75439d7"
     }
@@ -138457,7 +138521,8 @@
     "name": "WrappedM by M^0",
     "platforms": {
       "ethereum": "0x437cc33344a0b27a429f795ff6b469c72698b291",
-      "plume-network": "0x437cc33344a0b27a429f795ff6b469c72698b291"
+      "plume-network": "0x437cc33344a0b27a429f795ff6b469c72698b291",
+      "arbitrum-one": "0x437cc33344a0b27a429f795ff6b469c72698b291"
     }
   },
   {
