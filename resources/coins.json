@@ -44872,6 +44872,7 @@
     "name": "Ethena USDe",
     "platforms": {
       "ethereum": "0x4c9edd5852cd905f086c759e8383e09bff1e68b3",
+      "hyperliquid": "0x2e6d84f2d7ca82e6581e03523e4389f7",
       "the-open-network": "EQAIb6KmdfdDR7CN1GBqVJuP25iCnLKCvBlJ07Evuu2dzP5f",
       "aptos": "0xf37a8864fe737eb8ec2c2931047047cbaed1beed3fb0e5b7c5526dafd3b9c2e9",
       "zircuit": "0x5d3a1ff2b6bab83b63cd9ad0787074081a52ef34",
@@ -119318,6 +119319,14 @@
     "name": "Sui Bridged USDT (Sui)",
     "platforms": {
       "sui": "0x375f70cf2ae4c00bf37117d0c85a2c71545e6ee05c4a5c7d282cd66a4504b068::usdt::USDT"
+    }
+  },
+  {
+    "id": "sui-bridged-wbtc-sui",
+    "symbol": "wbtc",
+    "name": "Sui Bridged WBTC (Sui)",
+    "platforms": {
+      "sui": "0xaafb102dd0902f5055cadecd687fb5b71ca82ef0e0285d90afde828ec58ca96b::btc::BTC"
     }
   },
   {
