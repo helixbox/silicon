@@ -7466,6 +7466,14 @@
     }
   },
   {
+    "id": "anzens-usda",
+    "symbol": "usda",
+    "name": "Anzens USDA",
+    "platforms": {
+      "cardano": "fe7c786ab321f41c654ef6c1af7b3250a613c24e4213e0425a7ae45655534441"
+    }
+  },
+  {
     "id": "anzen-usdz",
     "symbol": "usdz",
     "name": "Anzen USDz",
@@ -36522,8 +36530,7 @@
     "symbol": "dck",
     "name": "DexCheck AI",
     "platforms": {
-      "binance-smart-chain": "0x16faf9daa401aa42506af503aa3d80b871c467a3",
-      "ethereum": "0x672f4fa517894496b8a958b4b3fca068ce513a39"
+      "binance-smart-chain": "0x16faf9daa401aa42506af503aa3d80b871c467a3"
     }
   },
   {
@@ -43918,14 +43925,6 @@
     "id": "endur-fi-staked-strk",
     "symbol": "xstrk",
     "name": "Endur.Fi Staked STRK",
-    "platforms": {
-      "starknet": "0x028d709c875c0ceac3dce7065bec5328186dc89fe254527084d1689910954b0a"
-    }
-  },
-  {
-    "id": "endur-xstrk",
-    "symbol": "xstrk",
-    "name": "Endur xSTRK",
     "platforms": {
       "starknet": "0x28d709c875c0ceac3dce7065bec5328186dc89fe254527084d1689910954b0a"
     }
@@ -87708,7 +87707,7 @@
     "symbol": "nobl",
     "name": "NobleBlocks",
     "platforms": {
-      "ethereum": "0x88b9f5c66342ebaf661b3e2836b807c8cb1b3195"
+      "ethereum": "0xe3e72ae23dd5bb0efd7dfe733a58bf6ad57c3945"
     }
   },
   {
@@ -92969,7 +92968,8 @@
     "symbol": "palm",
     "name": "Palm Economy",
     "platforms": {
-      "cardano": "b7c5cd554f3e83c8aa0900a0c9053284a5348244d23d0406c28eaf4d"
+      "cardano": "b7c5cd554f3e83c8aa0900a0c9053284a5348244d23d0406c28eaf4d50414c4d0a",
+      "binance-smart-chain": "0x502a641decfe32b1e3d030e05effb8ae5146e64b"
     }
   },
   {
