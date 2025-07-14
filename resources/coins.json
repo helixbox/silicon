@@ -1046,10 +1046,10 @@
       "ethereum": "0x7fc66500c84a76ad7e9c93437bfc5ac33e2ddae9",
       "base": "0x63706e401c06ac8513145b7687a14804d17f814b",
       "hydration": "asset_registry%2F1000624",
-      "near-protocol": "7fc66500c84a76ad7e9c93437bfc5ac33e2ddae9.factory.bridge.near",
       "optimistic-ethereum": "0x76fb31fb4af56892a25e32cfc43de717950c9278",
       "arbitrum-one": "0xba5ddd1f9d7f570dc94a51479a000e3bce967196",
       "huobi-token": "0x202b4936fe1a82a4965220860ae46d7d3939bb25",
+      "near-protocol": "7fc66500c84a76ad7e9c93437bfc5ac33e2ddae9.factory.bridge.near",
       "harmony-shard-0": "0xcf323aad9e522b93f11c352caa519ad0e14eb40f",
       "energi": "0xa7f2f790355e0c32cab03f92f6eb7f488e6f049a",
       "sora": "0x0091bd8d8295b25cab5a7b8b0e44498e678cfc15d872ede3215f7d4c7635ba36",
@@ -38756,8 +38756,8 @@
     "name": "DODO",
     "platforms": {
       "ethereum": "0x43dfc4159d86f3a37a5a4b3d4580b888ad7d4ddd",
-      "near-protocol": "43dfc4159d86f3a37a5a4b3d4580b888ad7d4ddd.factory.bridge.near",
       "arbitrum-one": "0x69eb4fa4a2fbd498c257c57ea8b7655a2559a581",
+      "near-protocol": "43dfc4159d86f3a37a5a4b3d4580b888ad7d4ddd.factory.bridge.near",
       "aurora": "0xe301ed8c7630c9678c39e4e45193d1e7dfb914f7",
       "energi": "0x4fec4e046e6b8de5d22785c3fbdb104f14f5a306",
       "binance-smart-chain": "0x67ee3cb086f8a16f34bee3ca72fad36f7db929e2",
@@ -43912,6 +43912,14 @@
     "name": "Endur.Fi Staked STRK",
     "platforms": {
       "starknet": "0x028d709c875c0ceac3dce7065bec5328186dc89fe254527084d1689910954b0a"
+    }
+  },
+  {
+    "id": "endur-xstrk",
+    "symbol": "xstrk",
+    "name": "Endur xSTRK",
+    "platforms": {
+      "starknet": "0x28d709c875c0ceac3dce7065bec5328186dc89fe254527084d1689910954b0a"
     }
   },
   {
@@ -57896,10 +57904,10 @@
     "name": "Synthetix Network",
     "platforms": {
       "ethereum": "0xc011a73ee8576fb46f5e1c5751ca3b9fe0af2a6f",
-      "near-protocol": "c011a73ee8576fb46f5e1c5751ca3b9fe0af2a6f.factory.bridge.near",
       "huobi-token": "0x777850281719d5a96c29812ab72f822e0e09f3da",
       "base": "0x22e6966b799c4d5b13be962e1d117b56327fda66",
       "optimistic-ethereum": "0x8700daec35af8ff88c16bdf0418774cb3d7599b4",
+      "near-protocol": "c011a73ee8576fb46f5e1c5751ca3b9fe0af2a6f.factory.bridge.near",
       "harmony-shard-0": "0x7b9c523d59aefd362247bd5601a89722e3774dd2",
       "energi": "0xa255461ff545d6ece153283f421d67d2de5d0e29",
       "fantom": "0x56ee926bd8c72b2d5fa1af4d9e4cbb515a1e3adc",
@@ -72714,6 +72722,14 @@
     }
   },
   {
+    "id": "lisk-bridged-wsteth-lisk",
+    "symbol": "wsteth",
+    "name": "Lisk Bridged wstETH (Lisk)",
+    "platforms": {
+      "lisk": "0x76d8de471f54aaa87784119c60df1bbfc852c415"
+    }
+  },
+  {
     "id": "lista",
     "symbol": "lista",
     "name": "Lista DAO",
@@ -82613,6 +82629,14 @@
     "name": "MoonBag",
     "platforms": {
       "ethereum": "0xa7f4195f10f1a62b102bd683eab131d657a6c6e4"
+    }
+  },
+  {
+    "id": "moonbag-2",
+    "symbol": "bag",
+    "name": "Moonbag",
+    "platforms": {
+      "solana": "B9jYrBoCPN7FcXVHe56KXsYgJE5gbTxsadjvyFiVpump"
     }
   },
   {
@@ -120466,8 +120490,8 @@
     "name": "Sushi",
     "platforms": {
       "ethereum": "0x6b3595068778dd592e39a122f4f5a5cf09c90fe2",
-      "near-protocol": "6b3595068778dd592e39a122f4f5a5cf09c90fe2.factory.bridge.near",
       "arbitrum-one": "0xd4d42f0b6def4ce0383636770ef773390d85c61a",
+      "near-protocol": "6b3595068778dd592e39a122f4f5a5cf09c90fe2.factory.bridge.near",
       "base": "0x7d49a065d17d6d4a55dc13649901fdbb98b2afba",
       "harmony-shard-0": "0xbec775cb42abfa4288de81f387a9b1a3c4bc552a",
       "celo": "0xd15ec721c2a896512ad29c671997dd68f9593226",
@@ -120741,8 +120765,8 @@
       "polygon-pos": "0x0cc931c30f4fc7fa36d290a4cd8d94acd738826e",
       "avalanche": "0x1e4c0e060fba7d62fa9fbb1aa624e58f796b4efe",
       "arbitrum-one": "0xca7dec8550f43a5e46e3dfb95801f64280e75b27",
-      "near-protocol": "token.sweat",
-      "optimistic-ethereum": "0x38761749330c23d681d136e8ea3fc47d4bb93db3"
+      "optimistic-ethereum": "0x38761749330c23d681d136e8ea3fc47d4bb93db3",
+      "near-protocol": "token.sweat"
     }
   },
   {
@@ -130278,11 +130302,11 @@
       "world-chain": "0x79a02482a880bce3f13e09da970dc34db4cd24d1",
       "xrp": "5553444300000000000000000000000000000000.rGm7WCVp9gb4jZHWTEtGUr4dd74z2XuWhE",
       "tron": "TEkxiTehnzSmSe2XqrBj4w32RUN966rdz8",
-      "near-protocol": "17208628f84f5d6ad33f0da3bbbeb27ffcb398eac501a31bd6ad2011e36133a1",
       "hedera-hashgraph": "0.0.456858",
       "arbitrum-one": "0xaf88d065e77c8cc2239327c5edb3a432268e5831",
       "optimistic-ethereum": "0x0b2c639c533813f4aa9d7837caf62653d097ff85",
       "zksync": "0x1d17cbcf0d6d143135ae902365d2e5e2a16538d4",
+      "near-protocol": "17208628f84f5d6ad33f0da3bbbeb27ffcb398eac501a31bd6ad2011e36133a1",
       "aptos": "0xbae207659db88bea0cbead6da0ed00aac12edcdda169e591cd41c94180b46f3b",
       "base": "0x833589fcd6edb6e08f4c7c32d4f71b54bda02913",
       "algorand": "31566704",
@@ -141718,10 +141742,10 @@
       "ethereum": "0x0bc529c00c6401aef6d220be8c6ea1667f6ad93e",
       "xdai": "0xbf65bfcb5da067446cee6a706ba3fe2fb1a9fdfd",
       "optimistic-ethereum": "0x9046d36440290ffde54fe0dd84db8b1cfee9107b",
-      "near-protocol": "0bc529c00c6401aef6d220be8c6ea1667f6ad93e.factory.bridge.near",
       "energi": "0x2726dd5efb3a209a54c512e9562a2045b8f45dbc",
       "arbitrum-one": "0x82e3a8f066a6989666b031d916c43672085b1582",
       "huobi-token": "0xb4f019beac758abbee2f906033aaa2f0f6dacb35",
+      "near-protocol": "0bc529c00c6401aef6d220be8c6ea1667f6ad93e.factory.bridge.near",
       "base": "0x9eaf8c1e34f05a589eda6bafdf391cf6ad3cb239",
       "harmony-shard-0": "0xa0dc05f84a27fccbd341305839019ab86576bc07",
       "sora": "0x002676c3edea5b08bc0f9b6809a91aa313b7da35e28b190222e9dc032bf1e662",
