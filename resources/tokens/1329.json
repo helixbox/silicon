@@ -4,8 +4,16 @@
   "keywords": [
     "defi"
   ],
-  "timestamp": "2025-07-17T10:00:01.786+00:00",
+  "timestamp": "2025-07-18T04:00:03.723+00:00",
   "tokens": [
+    {
+      "chainId": 1329,
+      "address": "0x160345fc359604fc6e70e3c5facbde5f7a9342d8",
+      "name": "Sei Bridged WETH  Sei ",
+      "symbol": "WETH",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/54959/thumb/weth_2.jpg?1742886674"
+    },
     {
       "chainId": 1329,
       "address": "0xa8a3a5013104e093245164ea56588dbe10a3eb48",
@@ -24,6 +32,14 @@
     },
     {
       "chainId": 1329,
+      "address": "0x0555e30da8f98308edb960aa94c0db47230d2b9c",
+      "name": "Sei Bridged WBTC  Sei ",
+      "symbol": "",
+      "decimals": 8,
+      "logoURI": "https://assets.coingecko.com/coins/images/54960/thumb/wbtc.jpg?1742887259"
+    },
+    {
+      "chainId": 1329,
       "address": "0x37a4dd9ced2b19cfe8fac251cd727b5787e45269",
       "name": "Sei fastUSD",
       "symbol": "FASTUSD",
@@ -32,11 +48,11 @@
     },
     {
       "chainId": 1329,
-      "address": "0x0555e30da8f98308edb960aa94c0db47230d2b9c",
-      "name": "Sei Bridged WBTC  Sei ",
-      "symbol": "",
-      "decimals": 8,
-      "logoURI": "https://assets.coingecko.com/coins/images/54960/thumb/wbtc.jpg?1742887259"
+      "address": "sei10knxlv9e54z0xcywdhtycc63uf970aefeec73ycqwd75ep9nu45sh66m6a",
+      "name": "Kryptonite",
+      "symbol": "SEILOR",
+      "decimals": 6,
+      "logoURI": "https://assets.coingecko.com/coins/images/31252/thumb/Kryptonite_PFP-03.png?1696530076"
     },
     {
       "chainId": 1329,
@@ -64,27 +80,11 @@
     },
     {
       "chainId": 1329,
-      "address": "sei10knxlv9e54z0xcywdhtycc63uf970aefeec73ycqwd75ep9nu45sh66m6a",
-      "name": "Kryptonite",
-      "symbol": "SEILOR",
-      "decimals": 6,
-      "logoURI": "https://assets.coingecko.com/coins/images/31252/thumb/Kryptonite_PFP-03.png?1696530076"
-    },
-    {
-      "chainId": 1329,
       "address": "0x372b2dc06478aa2c8182eee0f12ea0e9a15e2913",
       "name": "Real GEM Token",
       "symbol": "GEM",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/67033/thumb/Screenshot_2024-10-24_111012.png?1751525160"
-    },
-    {
-      "chainId": 1329,
-      "address": "0xe30fedd158a2e3b13e9badaeabafc5516e95e8c7",
-      "name": "Wrapped SEI",
-      "symbol": "WSEI",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/38470/thumb/sei.png?1717644025"
     },
     {
       "chainId": 1329,
@@ -104,6 +104,14 @@
     },
     {
       "chainId": 1329,
+      "address": "0xdd7d5e4ea2125d43c16eed8f1ffefffa2f4b4af6",
+      "name": "Jellyverse",
+      "symbol": "JLY",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/31805/thumb/short.png?1719199901"
+    },
+    {
+      "chainId": 1329,
       "address": "0xb75d0b03c06a926e488e2659df1a861f860bd3d1",
       "name": "IBC Bridged USDT",
       "symbol": "USDT",
@@ -120,19 +128,19 @@
     },
     {
       "chainId": 1329,
-      "address": "0xdd7d5e4ea2125d43c16eed8f1ffefffa2f4b4af6",
-      "name": "Jellyverse",
-      "symbol": "JLY",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/31805/thumb/short.png?1719199901"
+      "address": "0x3894085ef7ff0f0aedf52e2a2704928d1ec074f1",
+      "name": "Noble USDC",
+      "symbol": "USDCN",
+      "decimals": 6,
+      "logoURI": "https://assets.coingecko.com/coins/images/38604/thumb/usdc.png?1718098770"
     },
     {
       "chainId": 1329,
-      "address": "0x160345fc359604fc6e70e3c5facbde5f7a9342d8",
-      "name": "Sei Bridged WETH  Sei ",
-      "symbol": "WETH",
+      "address": "0xe30fedd158a2e3b13e9badaeabafc5516e95e8c7",
+      "name": "Wrapped SEI",
+      "symbol": "WSEI",
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/54959/thumb/weth_2.jpg?1742886674"
+      "logoURI": "https://assets.coingecko.com/coins/images/38470/thumb/sei.png?1717644025"
     },
     {
       "chainId": 1329,
@@ -141,14 +149,6 @@
       "symbol": "SYUSD",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/50179/thumb/7.png?1726164913"
-    },
-    {
-      "chainId": 1329,
-      "address": "0x3894085ef7ff0f0aedf52e2a2704928d1ec074f1",
-      "name": "IBC Bridged USDC",
-      "symbol": "USDC",
-      "decimals": 6,
-      "logoURI": "https://assets.coingecko.com/coins/images/38604/thumb/usdc.png?1718098770"
     },
     {
       "chainId": 1329,
@@ -296,6 +296,14 @@
     },
     {
       "chainId": 1329,
+      "address": "0xe15fc38f6d8c56af07bbcbe3baf5708a2bf42392",
+      "name": "USDC",
+      "symbol": "USDC",
+      "decimals": 6,
+      "logoURI": "https://assets.coingecko.com/coins/images/6319/thumb/usdc.png?1696506694"
+    },
+    {
+      "chainId": 1329,
       "address": "sei19jwyc77ccfmm5p0tq7vvxk9dwks8n88dl5fq6ymlnjp44547t53qvpyfmc",
       "name": "Jellyverse",
       "symbol": "JLY",
@@ -329,7 +337,7 @@
   ],
   "version": {
     "major": 6,
-    "minor": 2,
+    "minor": 3,
     "patch": 0
   }
 }

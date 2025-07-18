@@ -4165,7 +4165,10 @@
     "symbol": "ain",
     "name": "AI Network",
     "platforms": {
-      "ethereum": "0x3a810ff7211b40c4fa76205a14efe161615d0385"
+      "ethereum": "0x3a810ff7211b40c4fa76205a14efe161615d0385",
+      "avalanche": "0xd4423795fd904d9b87554940a95fb7016f172773",
+      "binance-smart-chain": "0xd4423795fd904d9b87554940a95fb7016f172773",
+      "base": "0xd4423795fd904d9b87554940a95fb7016f172773"
     }
   },
   {
@@ -61277,8 +61280,8 @@
   },
   {
     "id": "ibc-bridged-usdc",
-    "symbol": "usdc",
-    "name": "IBC Bridged USDC",
+    "symbol": "usdc.n",
+    "name": "Noble USDC",
     "platforms": {
       "sei-v2": "0x3894085ef7ff0f0aedf52e2a2704928d1ec074f1",
       "osmosis": "B559A80D62249C8AA07A380E2A2BEA6E5CA9A6F079C912C3A9E9B494105E4F81"
@@ -66522,6 +66525,7 @@
     "name": "KardiaChain",
     "platforms": {
       "kardiachain": "0xaf984e23eaa3e7967f3c5e007fbe397d8566d23d",
+      "arbitrum-one": "0xa891b374942cde9061e044c1d19c5b5de06a68e1",
       "binance-smart-chain": "0x39ae8eefb05138f418bb27659c21632dc1ddab10"
     }
   },
@@ -67657,7 +67661,7 @@
   {
     "id": "kinetic-staked-hype",
     "symbol": "khype",
-    "name": "Kinetic Staked HYPE",
+    "name": "Kinetiq Staked HYPE",
     "platforms": {
       "hyperevm": "0xfd739d4e423301ce9385c1fb8850539d657c296d"
     }
@@ -90535,6 +90539,12 @@
     }
   },
   {
+    "id": "onefootball-club",
+    "symbol": "ofc",
+    "name": "OneFootball Club",
+    "platforms": {}
+  },
+  {
     "id": "one-hundred-million-inu",
     "symbol": "ohmi",
     "name": "One Hundred Million Inu",
@@ -91870,7 +91880,7 @@
   {
     "id": "orderly-network",
     "symbol": "order",
-    "name": "Orderly Network",
+    "name": "Orderly",
     "platforms": {
       "ethereum": "0xabd4c63d2616a5201454168269031355f4764337",
       "binance-smart-chain": "0x4e200fe2f3efb977d5fd9c430a41531fb04d97b8",
@@ -130358,6 +130368,7 @@
       "world-chain": "0x79a02482a880bce3f13e09da970dc34db4cd24d1",
       "xrp": "5553444300000000000000000000000000000000.rGm7WCVp9gb4jZHWTEtGUr4dd74z2XuWhE",
       "tron": "TEkxiTehnzSmSe2XqrBj4w32RUN966rdz8",
+      "sei-v2": "0xe15fc38f6d8c56af07bbcbe3baf5708a2bf42392",
       "hedera-hashgraph": "0.0.456858",
       "arbitrum-one": "0xaf88d065e77c8cc2239327c5edb3a432268e5831",
       "optimistic-ethereum": "0x0b2c639c533813f4aa9d7837caf62653d097ff85",
@@ -134767,7 +134778,7 @@
   {
     "id": "weecoins",
     "symbol": "wcs",
-    "name": "Weecoins",
+    "name": "WeeCoins",
     "platforms": {
       "binance-smart-chain": "0x4343e178c37556e708e65c1d7be0cb2537b50d7d"
     }
