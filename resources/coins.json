@@ -18506,6 +18506,7 @@
     "platforms": {
       "polygon-pos": "0x2075828cdedc356b5358d79cfd314548842e4a2e",
       "polygon-zkevm": "0x7320b543a4ce46a691a2cf317f1157a0b5059d43",
+      "base": "0x6f8c1de07c9e59a8289705b1033af383dc3681b1",
       "ethereum": "0x7df4122d3eae29fc8fb6be58d9177e8e560be4fb",
       "binance-smart-chain": "0x5db5efaea47662677f2d401504520ce2ea866638"
     }
@@ -88196,7 +88197,9 @@
     "id": "nonocoin",
     "symbol": "noc",
     "name": "NoNoCoin",
-    "platforms": {}
+    "platforms": {
+      "binance-smart-chain": "0x47b1db3d0dbb4757f908cc496ff50798d704efb9"
+    }
   },
   {
     "id": "non-of-us",
@@ -93129,6 +93132,7 @@
     "name": "PancakeSwap",
     "platforms": {
       "binance-smart-chain": "0x0e09fabb73bd3ade0a17ecc321fd13a19e81ce82",
+      "solana": "4qQeZ5LwSz6HuupUu8jCtgXyW1mYQcNbFAW1sWZp89HL",
       "arbitrum-one": "0x1b896893dfc86bb67cf57767298b9073d2c1ba2c",
       "polygon-zkevm": "0x0d1e753a25ebda689453309112904807625befbe",
       "opbnb": "0x2779106e4f4a8a28d77a24c18283651a2ae22d1c",
@@ -94164,6 +94168,7 @@
     "name": "PayPal USD",
     "platforms": {
       "ethereum": "0x6c3ea9036406852006290770bedfcaba0e23a0e8",
+      "arbitrum-one": "0x46850ad61c2b7d64d08c9c754f45254596696984",
       "solana": "2b1kV6DkPAnxd5ixfnxCpjxmKwqjjaYmCZfHsFu24GXo"
     }
   },
@@ -132319,7 +132324,8 @@
     "symbol": "vertai",
     "name": "Vertical AI",
     "platforms": {
-      "ethereum": "0xcdbddbdefb0ee3ef03a89afcd714aa4ef310d567"
+      "ethereum": "0xcdbddbdefb0ee3ef03a89afcd714aa4ef310d567",
+      "avalanche": "0x6edac263561da41ade155a992759260fafb87b43"
     }
   },
   {
