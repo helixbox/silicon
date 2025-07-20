@@ -4,7 +4,7 @@
   "keywords": [
     "defi"
   ],
-  "timestamp": "2025-06-21T09:00:20.821+00:00",
+  "timestamp": "2025-07-20T09:00:24.254+00:00",
   "tokens": [
     {
       "chainId": 39797,
@@ -13,6 +13,14 @@
       "symbol": "USDE",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/25463/thumb/USDE.png?1696524593"
+    },
+    {
+      "chainId": 39797,
+      "address": "0xffd7510ca0a3279c7a5f50018a26c21d5bc1dbcf",
+      "name": "Energi Bridged USDC  Energi ",
+      "symbol": "USDC",
+      "decimals": 6,
+      "logoURI": "https://assets.coingecko.com/coins/images/35323/thumb/USDC.jpg?1708178353"
     },
     {
       "chainId": 39797,
@@ -48,14 +56,6 @@
     },
     {
       "chainId": 39797,
-      "address": "0xffd7510ca0a3279c7a5f50018a26c21d5bc1dbcf",
-      "name": "Energi Bridged USDC  Energi ",
-      "symbol": "USDC",
-      "decimals": 6,
-      "logoURI": "https://assets.coingecko.com/coins/images/35323/thumb/USDC.jpg?1708178353"
-    },
-    {
-      "chainId": 39797,
       "address": "0xc3c19ee91cf3c1f7fbf3716a09d21dc35de0bd6d",
       "name": "Multichain Bridged WBNB  Energi ",
       "symbol": "WBNB",
@@ -85,14 +85,6 @@
       "symbol": "WCRO",
       "decimals": 8,
       "logoURI": "https://assets.coingecko.com/coins/images/20401/thumb/cro.jpg?1696519810"
-    },
-    {
-      "chainId": 39797,
-      "address": "0x8bc2b030b299964eefb5e1e0b36991352e56d2d3",
-      "name": "Wrapped ROSE",
-      "symbol": "WROSE",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/24486/thumb/oasis.PNG?1696523667"
     },
     {
       "chainId": 39797,
@@ -936,8 +928,8 @@
     }
   ],
   "version": {
-    "major": 7,
+    "major": 8,
     "minor": 0,
-    "patch": 5
+    "patch": 0
   }
 }
