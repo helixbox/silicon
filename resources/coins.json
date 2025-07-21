@@ -58914,6 +58914,7 @@
       "metis-andromeda": "0x79bbf4508b1391af3a0f4b30bb5fc4aa9ab0e07c",
       "iota-evm": "0x79bbf4508b1391af3a0f4b30bb5fc4aa9ab0e07c",
       "kava": "0x79bbf4508b1391af3a0f4b30bb5fc4aa9ab0e07c",
+      "avalanche": "0x79bbf4508b1391af3a0f4b30bb5fc4aa9ab0e07c",
       "base": "0x79bbf4508b1391af3a0f4b30bb5fc4aa9ab0e07c",
       "ethereum": "0x79bbf4508b1391af3a0f4b30bb5fc4aa9ab0e07c",
       "binance-smart-chain": "0x79bbf4508b1391af3a0f4b30bb5fc4aa9ab0e07c",
@@ -78741,6 +78742,14 @@
     "name": "MEOW",
     "platforms": {
       "sui": "0x06b145d0322e389d6225f336ab57bba4c67e4e701bd6c6bc959d90675900a17e::meow::MEOW"
+    }
+  },
+  {
+    "id": "meow-5",
+    "symbol": "meow",
+    "name": "Meow",
+    "platforms": {
+      "avalanche": "0x9209e7ebd056d72c5996220e99df6049253debcf"
     }
   },
   {
@@ -102595,6 +102604,15 @@
     }
   },
   {
+    "id": "raiinmaker",
+    "symbol": "raiin",
+    "name": "Raiinmaker",
+    "platforms": {
+      "base": "0x60a5aa13d4c3046cf75e05ee1d5ce59025be000c",
+      "sei-v2": "0x481fe356df88169f5f38203dd7f3c67b7559fda5"
+    }
+  },
+  {
     "id": "railgun",
     "symbol": "rail",
     "name": "Railgun",
@@ -120271,6 +120289,7 @@
     "name": "Super Champs",
     "platforms": {
       "base": "0xeb6d78148f001f3aa2f588997c5e102e489ad341",
+      "avalanche": "0x6aa38edd7f32a28b7b2c2dc86fc5b0bf2ae61579",
       "ethereum": "0x4af1bc87e43ddb22188bb3791ae00341586fe8fc"
     }
   },
@@ -135943,7 +135962,8 @@
     "name": "Wilder World",
     "platforms": {
       "ethereum": "0x2a3bff78b79a009976eea096a51a948a3dc00e34",
-      "solana": "FVvd3s9dZYzsgitkJyWbmycSc8MkYZjyF7oqAEvmSxTZ"
+      "solana": "FVvd3s9dZYzsgitkJyWbmycSc8MkYZjyF7oqAEvmSxTZ",
+      "avalanche": "0x153374c6d6786b6ca2c4bc96f9c3a471428f2bc7"
     }
   },
   {
