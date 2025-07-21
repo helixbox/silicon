@@ -56725,7 +56725,8 @@
     "symbol": "gun",
     "name": "Gunz",
     "platforms": {
-      "solana": "3jUf2RTyXp867piSB2dt8uUcNiLDW58asjGtXkRAkBbe"
+      "solana": "3jUf2RTyXp867piSB2dt8uUcNiLDW58asjGtXkRAkBbe",
+      "avalanche": "0x26debd39d5ed069770406fca10a0e4f8d2c743eb"
     }
   },
   {
@@ -63357,8 +63358,8 @@
       "polygon-zkevm": "0x2b1d36f5b61addaf7da7ebbd11b35fd8cfb0de31",
       "arbitrum-one": "0x2b1d36f5b61addaf7da7ebbd11b35fd8cfb0de31",
       "scroll": "0x2b1d36f5b61addaf7da7ebbd11b35fd8cfb0de31",
-      "zksync": "0xd03465338226ea0178337f4abb16fdd6df529f57",
       "optimistic-ethereum": "0x2b1d36f5b61addaf7da7ebbd11b35fd8cfb0de31",
+      "zksync": "0xd03465338226ea0178337f4abb16fdd6df529f57",
       "base": "0x2b1d36f5b61addaf7da7ebbd11b35fd8cfb0de31",
       "opbnb": "0x2b1d36f5b61addaf7da7ebbd11b35fd8cfb0de31",
       "binance-smart-chain": "0x2b1d36f5b61addaf7da7ebbd11b35fd8cfb0de31",
@@ -69542,8 +69543,8 @@
       "ethereum": "0xdefa4e8a7bcba345f687a2f1456f5edd9ce97202",
       "polygon-zkevm": "0x6a80a465409ce8d36c513129c0feea61bed579ba",
       "arbitrum-one": "0xe4dddfe67e7164b0fe14e218d80dc4c08edc01cb",
-      "zksync": "0x6ee46cb7cd2f15ee1ec9534cf29a5b51c83283e6",
       "optimistic-ethereum": "0xa00e3a3511aac35ca78530c85007afcd31753819",
+      "zksync": "0x6ee46cb7cd2f15ee1ec9534cf29a5b51c83283e6",
       "linea": "0x3b2f62d42db19b30588648bf1c184865d4c3b1d6",
       "binance-smart-chain": "0xfe56d5892bdffc7bf58f2e84be1b2c32d21c308b",
       "fantom": "0x1e1085efaa63edfe74aad7c05a28eae4ef917c3f",
@@ -78931,9 +78932,9 @@
       "merlin-chain": "0xb880fd278198bd590252621d4cd071b1842e9bcd",
       "sei-v2": "0x9bfa177621119e64cecbeabe184ab9993e2ef727",
       "klay-token": "0x0f921c39efd98809fe6d20a88a4357454578987a",
-      "zksync": "0xe757355edba7ced7b8c0271bba4efda184ad75ab",
       "duckchain": "0x9bfa177621119e64cecbeabe184ab9993e2ef727",
       "kava": "kava1txyfkuppys7mtv0qv5u9lyvrzmxep4rvh0ne4g",
+      "zksync": "0xe757355edba7ced7b8c0271bba4efda184ad75ab",
       "lisk": "0x9bfa177621119e64cecbeabe184ab9993e2ef727",
       "taiko": "0xf7fb2df9280eb0a76427dc3b34761db8b1441a49",
       "linea": "0xe4d584ae9b753e549cae66200a6475d2f00705f7",
@@ -93162,8 +93163,8 @@
       "arbitrum-one": "0x1b896893dfc86bb67cf57767298b9073d2c1ba2c",
       "polygon-zkevm": "0x0d1e753a25ebda689453309112904807625befbe",
       "opbnb": "0x2779106e4f4a8a28d77a24c18283651a2ae22d1c",
-      "zksync": "0x3a287a06c66f9e95a56327185ca2bdf5f031cecd",
       "base": "0x3055913c90fcc1a6ce9a358911721eeb942013a1",
+      "zksync": "0x3a287a06c66f9e95a56327185ca2bdf5f031cecd",
       "aptos": "0x159df6b7689437016108a019fd5bef736bac692b6d4a1f10c941f6fbb9a74ca6::oft::CakeOFT",
       "linea": "0x0d1e753a25ebda689453309112904807625befbe",
       "ethereum": "0x152649ea73beab28c5b49b26eb48f7ead6d4c898"
@@ -97509,6 +97510,22 @@
     "name": "Plume",
     "platforms": {
       "ethereum": "0x4c1746a800d224393fe2470c70a35717ed4ea5f1"
+    }
+  },
+  {
+    "id": "plume-bridged-weth-plume",
+    "symbol": "weth",
+    "name": "Plume Bridged WETH (Plume)",
+    "platforms": {
+      "plume-network": "0xca59ca09e5602fae8b629dee83ffa819741f14be"
+    }
+  },
+  {
+    "id": "plume-staked-eth",
+    "symbol": "peth",
+    "name": "Plume Staked ETH",
+    "platforms": {
+      "plume-network": "0x39d1f90ef89c52dda276194e9a832b484ee45574"
     }
   },
   {
@@ -114706,10 +114723,10 @@
       "corn": "0x541fd749419ca806a8bc7da8ac23d346f2df8b77",
       "ink": "0xae4efbc7736f963982aacb17efa37fcbab924cb3",
       "polygon-pos": "0xae4efbc7736f963982aacb17efa37fcbab924cb3",
-      "zksync": "0x74ed17608cc2b5f30a59d6af07c9ad1b1ab3a5b1",
       "arbitrum-one": "0x3647c54c4c2c65bc7a2d63c0da2809b399dbbdc0",
       "merlin-chain": "0x41d9036454be47d3745a823c4aacd0e29cfb0f71",
       "hyperevm": "0xae4efbc7736f963982aacb17efa37fcbab924cb3",
+      "zksync": "0x74ed17608cc2b5f30a59d6af07c9ad1b1ab3a5b1",
       "base": "0x3b86ad95859b6ab773f55f8d94b4b9d443ee931f",
       "mantle": "0xa68d25fc2af7278db4bcdcaabce31814252642a9",
       "bob-network": "0x541fd749419ca806a8bc7da8ac23d346f2df8b77",
@@ -130518,8 +130535,8 @@
       "hedera-hashgraph": "0.0.456858",
       "arbitrum-one": "0xaf88d065e77c8cc2239327c5edb3a432268e5831",
       "optimistic-ethereum": "0x0b2c639c533813f4aa9d7837caf62653d097ff85",
-      "zksync": "0x1d17cbcf0d6d143135ae902365d2e5e2a16538d4",
       "near-protocol": "17208628f84f5d6ad33f0da3bbbeb27ffcb398eac501a31bd6ad2011e36133a1",
+      "zksync": "0x1d17cbcf0d6d143135ae902365d2e5e2a16538d4",
       "aptos": "0xbae207659db88bea0cbead6da0ed00aac12edcdda169e591cd41c94180b46f3b",
       "base": "0x833589fcd6edb6e08f4c7c32d4f71b54bda02913",
       "algorand": "31566704",
@@ -138529,14 +138546,6 @@
     "name": "Wrapped GSYS (BlueLotusDAO)",
     "platforms": {
       "genesys-network": "0xaa7ae83eb30dddd14a017d4222121776317ea8ba"
-    }
-  },
-  {
-    "id": "wrapped-gun",
-    "symbol": "wgun",
-    "name": "Wrapped GUN",
-    "platforms": {
-      "avalanche": "0x26debd39d5ed069770406fca10a0e4f8d2c743eb"
     }
   },
   {

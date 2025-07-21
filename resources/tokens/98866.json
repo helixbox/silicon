@@ -4,16 +4,8 @@
   "keywords": [
     "defi"
   ],
-  "timestamp": "2025-07-09T11:00:48.001+00:00",
+  "timestamp": "2025-07-21T04:00:54.316+00:00",
   "tokens": [
-    {
-      "chainId": 98866,
-      "address": "0xda6087e69c51e7d31b6dbad276a3c44703dfdcad",
-      "name": "Stargate Bridged USDT  Plume ",
-      "symbol": "USDT",
-      "decimals": 6,
-      "logoURI": "https://assets.coingecko.com/coins/images/67009/thumb/usdt.jpg?1751459215"
-    },
     {
       "chainId": 98866,
       "address": "0xdea149f84859d1ec50480c209b71bffa482b0530",
@@ -24,11 +16,11 @@
     },
     {
       "chainId": 98866,
-      "address": "0x64ab176c545bb85eca75d53c3ffcb361deafb855",
-      "name": "Nest Alpha Vault  LP ",
-      "symbol": "INALPHA",
-      "decimals": 6,
-      "logoURI": "https://assets.coingecko.com/coins/images/66319/thumb/nALPHA.png?1749197870"
+      "address": "0x39d1f90ef89c52dda276194e9a832b484ee45574",
+      "name": "Plume Staked ETH",
+      "symbol": "PETH",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/67514/thumb/peth.png?1753068541"
     },
     {
       "chainId": 98866,
@@ -40,11 +32,35 @@
     },
     {
       "chainId": 98866,
+      "address": "0xda6087e69c51e7d31b6dbad276a3c44703dfdcad",
+      "name": "Stargate Bridged USDT  Plume ",
+      "symbol": "USDT",
+      "decimals": 6,
+      "logoURI": "https://assets.coingecko.com/coins/images/67009/thumb/usdt.jpg?1751459215"
+    },
+    {
+      "chainId": 98866,
+      "address": "0xca59ca09e5602fae8b629dee83ffa819741f14be",
+      "name": "Plume Bridged WETH  Plume ",
+      "symbol": "WETH",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/67515/thumb/weth_2.jpg?1753069298"
+    },
+    {
+      "chainId": 98866,
       "address": "0x5107272921a750a20d492fb41acf0b770b09a624",
       "name": "Mineral Vault I Security Token",
       "symbol": "MNRL",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/66290/thumb/mineral-vault.png?1749109942"
+    },
+    {
+      "chainId": 98866,
+      "address": "0xe9e8330a71912f03e54e7d93795acd9a56f070aa",
+      "name": "Pay USD",
+      "symbol": "PAYUSD",
+      "decimals": 6,
+      "logoURI": "https://assets.coingecko.com/coins/images/55876/thumb/PayUSD-token.png?1747555725"
     },
     {
       "chainId": 98866,
@@ -56,11 +72,11 @@
     },
     {
       "chainId": 98866,
-      "address": "0xe9e8330a71912f03e54e7d93795acd9a56f070aa",
-      "name": "Pay USD",
-      "symbol": "PAYUSD",
+      "address": "0x64ab176c545bb85eca75d53c3ffcb361deafb855",
+      "name": "Nest Alpha Vault  LP ",
+      "symbol": "INALPHA",
       "decimals": 6,
-      "logoURI": "https://assets.coingecko.com/coins/images/55876/thumb/PayUSD-token.png?1747555725"
+      "logoURI": "https://assets.coingecko.com/coins/images/66319/thumb/nALPHA.png?1749197870"
     },
     {
       "chainId": 98866,
@@ -217,7 +233,7 @@
   ],
   "version": {
     "major": 0,
-    "minor": 14,
+    "minor": 15,
     "patch": 0
   }
 }
