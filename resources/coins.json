@@ -10112,14 +10112,6 @@
     }
   },
   {
-    "id": "atoll-eth",
-    "symbol": "ateth",
-    "name": "Atoll ETH (Sonic)",
-    "platforms": {
-      "sonic": "0x284d81e48fbc782aa9186a03a226690aea5cbe0e"
-    }
-  },
-  {
     "id": "atomone",
     "symbol": "atone",
     "name": "AtomOne",
@@ -29252,14 +29244,6 @@
     }
   },
   {
-    "id": "coinbot",
-    "symbol": "coinbt",
-    "name": "CoinBot",
-    "platforms": {
-      "ethereum": "0x6fa5e1c43b5a466cbd1cae7993b67c982400d481"
-    }
-  },
-  {
     "id": "coinbread",
     "symbol": "bread",
     "name": "Coinbread",
@@ -31832,7 +31816,8 @@
     "symbol": "cta",
     "name": "Cross The Ages",
     "platforms": {
-      "ethereum": "0x90685e300a4c4532efcefe91202dfe1dfd572f47"
+      "ethereum": "0x90685e300a4c4532efcefe91202dfe1dfd572f47",
+      "solana": "CTAyri1T4d1QRfnmtSRpEsPS5tyH6shA1WTskhybmrMT"
     }
   },
   {
@@ -39284,6 +39269,14 @@
     }
   },
   {
+    "id": "doge-grok-companion",
+    "symbol": "doge",
+    "name": "Doge Grok Companion",
+    "platforms": {
+      "solana": "5bXVGNnGhCFAK9KPh1S9whFkhVxZy1mREWFbqB499xUP"
+    }
+  },
+  {
     "id": "dogegrow",
     "symbol": "dgr",
     "name": "DogeGrow",
@@ -45031,14 +45024,6 @@
     }
   },
   {
-    "id": "eth-bull",
-    "symbol": "bull",
-    "name": "ETH BULL",
-    "platforms": {
-      "ethereum": "0x8c41455aaa8d6aba3150058d4964349294bf78a3"
-    }
-  },
-  {
     "id": "ethdown",
     "symbol": "ethdown",
     "name": "ETHDOWN",
@@ -46500,12 +46485,6 @@
     "platforms": {
       "ethereum": "0x2ecba91da63c29ea80fbe7b52632ca2d1f8e5be0"
     }
-  },
-  {
-    "id": "fairspin",
-    "symbol": "tfs",
-    "name": "FairSpin",
-    "platforms": {}
   },
   {
     "id": "fairwitness",
@@ -63697,7 +63676,9 @@
     "id": "iostoken",
     "symbol": "iost",
     "name": "IOST",
-    "platforms": {}
+    "platforms": {
+      "binance-smart-chain": "0xaf48b7e315a52518cfbf7d96c455d9dfad94cb48"
+    }
   },
   {
     "id": "iota",
@@ -71751,14 +71732,6 @@
     "name": "Liberty Finance",
     "platforms": {
       "arbitrum-one": "0x45cc3c0a3ae7355e0745de607691d188409f7a95"
-    }
-  },
-  {
-    "id": "libra-3",
-    "symbol": "comswapwlibra",
-    "name": "Comswap Wrapped LIBRA",
-    "platforms": {
-      "base": "0x01edbffa4f61404458e22ff45deffef1c62228b5"
     }
   },
   {
@@ -84580,6 +84553,14 @@
     "platforms": {}
   },
   {
+    "id": "munky",
+    "symbol": "munky",
+    "name": "Munky",
+    "platforms": {
+      "ethereum": "0x6992e2f8e29139cc16683228a4a4ca602e49e048"
+    }
+  },
+  {
     "id": "muon",
     "symbol": "muon",
     "name": "Muon",
@@ -88414,14 +88395,6 @@
       "binance-smart-chain": "0x6e9730ecffbed43fd876a264c982e254ef05a0de",
       "fantom": "0xeaf26191ac1d35ae30baa19a5ad5558dd8156aef",
       "polygon-pos": "0xf6f85b3f9fd581c2ee717c404f7684486f057f95"
-    }
-  },
-  {
-    "id": "nordic-ai",
-    "symbol": "nrdc",
-    "name": "Nordic Ai",
-    "platforms": {
-      "ethereum": "0x1eb7bd905855c483db19f53c8c4d42db42a159fc"
     }
   },
   {
@@ -94322,14 +94295,6 @@
     "name": "PCM",
     "platforms": {
       "optimistic-ethereum": "0xd0cf4de352ac8dcce00bd6b93ee73d3cb272edc3"
-    }
-  },
-  {
-    "id": "pco-metaverse",
-    "symbol": "pme",
-    "name": "PCO Metaverse",
-    "platforms": {
-      "polygon-pos": "0xfd1eeb2f3399872735f3df735816c4fc607e12c4"
     }
   },
   {
@@ -100480,6 +100445,14 @@
     "platforms": {}
   },
   {
+    "id": "psyopcoin",
+    "symbol": "psyop",
+    "name": "PsyopCoin",
+    "platforms": {
+      "solana": "EFkiR1hE91BkqbxA3YxvYuvDxXTTEMea3zQs8ndbyTQY"
+    }
+  },
+  {
     "id": "psyoptions",
     "symbol": "psy",
     "name": "PsyFi",
@@ -101658,6 +101631,14 @@
     "platforms": {
       "ethereum": "0x22514ffb0d7232a56f0c24090e7b68f179faa940",
       "binance-smart-chain": "0x22514ffb0d7232a56f0c24090e7b68f179faa940"
+    }
+  },
+  {
+    "id": "qoryn",
+    "symbol": "qor",
+    "name": "Qoryn",
+    "platforms": {
+      "solana": "HydiN3AwN6s3DLqZo86UTgovoHNxRFqE2MpDdVuXbonk"
     }
   },
   {
@@ -134577,14 +134558,6 @@
     }
   },
   {
-    "id": "wat-bnb",
-    "symbol": "wat",
-    "name": "Wat BNB",
-    "platforms": {
-      "binance-smart-chain": "0x0b1d4c430de9fc309e38826729ac9cff7070d0a5"
-    }
-  },
-  {
     "id": "watchdogs",
     "symbol": "watch",
     "name": "WATCHDOGS",
@@ -140737,14 +140710,6 @@
     }
   },
   {
-    "id": "xdoge-3",
-    "symbol": "xdoge",
-    "name": "XDOGE",
-    "platforms": {
-      "binance-smart-chain": "0x0093f72b900c0b526aa0ef736048a916010a02d1"
-    }
-  },
-  {
     "id": "xdoge-4",
     "symbol": "xd",
     "name": "XDoge",
@@ -142530,7 +142495,8 @@
     "symbol": "ybtc.b",
     "name": "Yield BTC.B",
     "platforms": {
-      "avalanche": "0x2cd3cdb3bd68eea0d3be81da707bc0c8743d7335"
+      "avalanche": "0x2cd3cdb3bd68eea0d3be81da707bc0c8743d7335",
+      "plume-network": "0x2cd3cdb3bd68eea0d3be81da707bc0c8743d7335"
     }
   },
   {
