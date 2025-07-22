@@ -4,7 +4,7 @@
   "keywords": [
     "defi"
   ],
-  "timestamp": "2025-07-07T18:00:25.235+00:00",
+  "timestamp": "2025-07-22T10:00:24.829+00:00",
   "tokens": [
     {
       "chainId": 1101,
@@ -24,6 +24,14 @@
     },
     {
       "chainId": 1101,
+      "address": "0x1e4a5963abfd975d8c9021ce480b42188849d41d",
+      "name": "Polygon Hermez Bridged USDT  Polygon zk",
+      "symbol": "USDT",
+      "decimals": 6,
+      "logoURI": "https://assets.coingecko.com/coins/images/35143/thumb/usdt_logo.png?1707467554"
+    },
+    {
+      "chainId": 1101,
       "address": "0x4f9a0e7fd2bf6067db6994cf12e4495df938e6e9",
       "name": "Polygon Hermez Bridged WETH  Polygon zk",
       "symbol": "WETH",
@@ -37,14 +45,6 @@
       "symbol": "DAI",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/39806/thumb/dai.png?1724126469"
-    },
-    {
-      "chainId": 1101,
-      "address": "0x1e4a5963abfd975d8c9021ce480b42188849d41d",
-      "name": "Polygon Hermez Bridged USDT  Polygon zk",
-      "symbol": "USDT",
-      "decimals": 6,
-      "logoURI": "https://assets.coingecko.com/coins/images/35143/thumb/usdt_logo.png?1707467554"
     },
     {
       "chainId": 1101,
@@ -144,14 +144,6 @@
     },
     {
       "chainId": 1101,
-      "address": "0x3b6564b5da73a41d3a66e6558a98fd0e9e1e77ad",
-      "name": "Unitus",
-      "symbol": "UTS",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/33178/thumb/IMG_0051.jpeg?1700924333"
-    },
-    {
-      "chainId": 1101,
       "address": "0x819d1daa794c1c46b841981b61cc978d95a17b8e",
       "name": "Davos xyz USD",
       "symbol": "DUSD",
@@ -216,8 +208,8 @@
     }
   ],
   "version": {
-    "major": 4,
+    "major": 5,
     "minor": 0,
-    "patch": 4
+    "patch": 0
   }
 }
