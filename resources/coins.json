@@ -20754,6 +20754,22 @@
     }
   },
   {
+    "id": "botanix-pegged-bitcoin",
+    "symbol": "pbtc",
+    "name": "Botanix Pegged Bitcoin",
+    "platforms": {
+      "botanix": "0x0d2437f93fed6ea64ef01ccde385fb1263910c56"
+    }
+  },
+  {
+    "id": "botanix-staked-bitcoin",
+    "symbol": "stbtc",
+    "name": "Botanix Staked Bitcoin",
+    "platforms": {
+      "botanix": "0xf4586028ffda7eca636864f80f8a3f2589e33795"
+    }
+  },
+  {
     "id": "bot-compiler",
     "symbol": "botc",
     "name": "Bot Compiler",
@@ -40566,7 +40582,8 @@
     "symbol": "dood",
     "name": "Doodles",
     "platforms": {
-      "solana": "DvjbEsdca43oQcw2h3HW1CT7N3x5vRcr3QrvTUHnXvgV"
+      "solana": "DvjbEsdca43oQcw2h3HW1CT7N3x5vRcr3QrvTUHnXvgV",
+      "binance-smart-chain": "0x722294f6c97102fb0ddb5b907c8d16bdeab3f6d9"
     }
   },
   {
@@ -88036,7 +88053,8 @@
     "symbol": "node",
     "name": "NodeOps",
     "platforms": {
-      "ethereum": "0x2f714d7b9a035d4ce24af8d9b6091c07e37f43fb"
+      "ethereum": "0x2f714d7b9a035d4ce24af8d9b6091c07e37f43fb",
+      "binance-smart-chain": "0x2f714d7b9a035d4ce24af8d9b6091c07e37f43fb"
     }
   },
   {
@@ -117946,6 +117964,14 @@
     }
   },
   {
+    "id": "stargate-bridged-usdc-botanix",
+    "symbol": "usdc.e",
+    "name": "Stargate Bridged USDC (Botanix)",
+    "platforms": {
+      "botanix": "0x29ee6138dd4c9815f46d34a4a1ed48f46758a402"
+    }
+  },
+  {
     "id": "stargate-bridged-usdc-flare",
     "symbol": "usdc.e",
     "name": "Stargate Bridged USDC (Flare)",
@@ -120571,6 +120597,14 @@
     "name": "SuperGrok",
     "platforms": {
       "ethereum": "0x00869e8e2e0343edd11314e6ccb0d78d51547ee5"
+    }
+  },
+  {
+    "id": "superior",
+    "symbol": "$superior",
+    "name": "SUPERIOR",
+    "platforms": {
+      "cardano": "a967738feca0f92afa0f781f2db4ec318ee6f06cb515fecf988fabfb0014df105355504552494f52"
     }
   },
   {
