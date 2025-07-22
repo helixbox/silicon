@@ -4174,9 +4174,12 @@
     "name": "AI Network",
     "platforms": {
       "ethereum": "0x3a810ff7211b40c4fa76205a14efe161615d0385",
+      "polygon-pos": "0xd4423795fd904d9b87554940a95fb7016f172773",
       "avalanche": "0xd4423795fd904d9b87554940a95fb7016f172773",
       "binance-smart-chain": "0xd4423795fd904d9b87554940a95fb7016f172773",
-      "base": "0xd4423795fd904d9b87554940a95fb7016f172773"
+      "base": "0xd4423795fd904d9b87554940a95fb7016f172773",
+      "arbitrum-one": "0xd4423795fd904d9b87554940a95fb7016f172773",
+      "optimistic-ethereum": "0xd4423795fd904d9b87554940a95fb7016f172773"
     }
   },
   {
@@ -14493,14 +14496,6 @@
     }
   },
   {
-    "id": "bearcoin",
-    "symbol": "bear",
-    "name": "Bearcoin",
-    "platforms": {
-      "the-open-network": "EQBtv7I3pZpMAUChef2Vrk-U1GcCE00rROuHgMJ9CvjodRZW"
-    }
-  },
-  {
     "id": "beardy-dragon",
     "symbol": "beardy",
     "name": "Bearded Dragon",
@@ -14766,7 +14761,7 @@
     "symbol": "beevo",
     "name": "Beevo",
     "platforms": {
-      "solana": "5tmsiuCDPdjq4nA4GVjAgayL7ehgGPJ47mNmNvBboop"
+      "solana": "DuQsaeyYtoqHTsgQjpf3i7xjG3yp3F4K2CzMnqStbFWc"
     }
   },
   {
@@ -19472,7 +19467,7 @@
   {
     "id": "bobo-coin",
     "symbol": "bobo",
-    "name": "BOBO Coin",
+    "name": "Bobo Coin",
     "platforms": {
       "ethereum": "0xb90b2a35c65dbc466b04240097ca756ad2005295",
       "base": "0x570b1533f6daa82814b25b62b5c7c4c55eb83947"
@@ -30131,6 +30126,14 @@
     }
   },
   {
+    "id": "conspiracy-guy",
+    "symbol": "cguy",
+    "name": "Conspiracy Guy",
+    "platforms": {
+      "base": "0x205344efad0a46329b752fb6e33cb6f28d6db2f4"
+    }
+  },
+  {
     "id": "constellation-labs",
     "symbol": "dag",
     "name": "Constellation",
@@ -30241,14 +30244,6 @@
     "name": "Convergence",
     "platforms": {
       "ethereum": "0xc834fa996fa3bec7aad3693af486ae53d8aa8b50"
-    }
-  },
-  {
-    "id": "convergence-finance",
-    "symbol": "cvg",
-    "name": "Convergence Finance",
-    "platforms": {
-      "ethereum": "0x97effb790f2fbb701d88f89db4521348a2b77be8"
     }
   },
   {
@@ -32812,6 +32807,14 @@
     "name": "Cthulhu Finance",
     "platforms": {
       "optimistic-ethereum": "0xf8e943f646816e4b51279b8934753821ed832dca"
+    }
+  },
+  {
+    "id": "ctoc",
+    "symbol": "ctoc",
+    "name": "CTOC",
+    "platforms": {
+      "ethereum": "0xe6423de1f06e3f0af27d3ca776e9446ecbdc354b"
     }
   },
   {
@@ -45778,14 +45781,6 @@
     }
   },
   {
-    "id": "evanesco-network",
-    "symbol": "eva",
-    "name": "Evanesco Network",
-    "platforms": {
-      "ethereum": "0xd6caf5bd23cf057f5fccce295dcc50c01c198707"
-    }
-  },
-  {
     "id": "eve-ai",
     "symbol": "eveai",
     "name": "Eve AI",
@@ -56321,14 +56316,6 @@
     "name": "GROK",
     "platforms": {
       "solana": "BQ3F72yt9FVRgYrqCVCG3YohyBesDZ9bTuhGdmQ7GNEF"
-    }
-  },
-  {
-    "id": "grok-ai",
-    "symbol": "grok ai",
-    "name": "Grok Ai",
-    "platforms": {
-      "binance-smart-chain": "0x00f2b1d536485f3493fe7609249128027951d87e"
     }
   },
   {
@@ -76855,6 +76842,14 @@
     }
   },
   {
+    "id": "mars-4",
+    "symbol": "mars",
+    "name": "MARS",
+    "platforms": {
+      "ethereum": "0x407eca46ff515cde14410cdc868c7f82e8c4f41d"
+    }
+  },
+  {
     "id": "marscoin",
     "symbol": "mars",
     "name": "Marscoin",
@@ -83416,7 +83411,7 @@
   {
     "id": "mooxmoo",
     "symbol": "moox",
-    "name": "MOOxMOO",
+    "name": "MOOxMOO [OLD]",
     "platforms": {
       "ethereum": "0x77ebcf0659bbf4e68d8ce6d84bb25c5cde207b97"
     }
@@ -100896,6 +100891,14 @@
     "name": "PulseReflections",
     "platforms": {
       "pulsechain": "0xb6b57227150a7097723e0c013752001aad01248f"
+    }
+  },
+  {
+    "id": "pulsesend",
+    "symbol": "send",
+    "name": "PulseSend",
+    "platforms": {
+      "pulsechain": "0xd42b6cfa7a62d54124c5d78dd631fd4606bb3825"
     }
   },
   {
@@ -130015,18 +130018,6 @@
     "platforms": {}
   },
   {
-    "id": "unitus-2",
-    "symbol": "uts",
-    "name": "Unitus",
-    "platforms": {
-      "ethereum": "0x3b6564b5da73a41d3a66e6558a98fd0e9e1e77ad",
-      "polygon-zkevm": "0x3b6564b5da73a41d3a66e6558a98fd0e9e1e77ad",
-      "optimistic-ethereum": "0x3b6564b5da73a41d3a66e6558a98fd0e9e1e77ad",
-      "arbitrum-one": "0x3b6564b5da73a41d3a66e6558a98fd0e9e1e77ad",
-      "binance-smart-chain": "0x3b6564b5da73a41d3a66e6558a98fd0e9e1e77ad"
-    }
-  },
-  {
     "id": "unity-2",
     "symbol": "uty",
     "name": "Unity",
@@ -137033,14 +137024,6 @@
     }
   },
   {
-    "id": "work-for-your-bags-2",
-    "symbol": "work",
-    "name": "WORK FOR YOUR BAGS",
-    "platforms": {
-      "solana": "worKkeanQ64MasnD7h6w1iCM1h4QhLWNteMRWLuyRPm"
-    }
-  },
-  {
     "id": "workie",
     "symbol": "workie",
     "name": "Workie",
@@ -141316,12 +141299,6 @@
     }
   },
   {
-    "id": "xlist",
-    "symbol": "xlist",
-    "name": "XList",
-    "platforms": {}
-  },
-  {
     "id": "xllm2",
     "symbol": "xllm2",
     "name": "xLLM2",
@@ -141599,14 +141576,6 @@
     "name": "XPowermine.com APOW",
     "platforms": {
       "avalanche": "0xf3dd4e0a1db7c5dcbf3b225698cb6a916aeb24d9"
-    }
-  },
-  {
-    "id": "xpowermine-com-xpow",
-    "symbol": "xpow",
-    "name": "XPowermine.com XPOW [OLD]",
-    "platforms": {
-      "avalanche": "0x735d8f3b6a5d2c96d0405230c50eaf96794fbb88"
     }
   },
   {
