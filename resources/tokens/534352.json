@@ -4,7 +4,7 @@
   "keywords": [
     "defi"
   ],
-  "timestamp": "2025-06-23T11:00:32.788+00:00",
+  "timestamp": "2025-07-23T10:00:51.542+00:00",
   "tokens": [
     {
       "chainId": 534352,
@@ -16,11 +16,11 @@
     },
     {
       "chainId": 534352,
-      "address": "0x06efdbff2a14a7c8e15944d1f4a48f9f95f663a4",
-      "name": "Bridged USD Coin  Scroll ",
-      "symbol": "USDC",
-      "decimals": 6,
-      "logoURI": "https://assets.coingecko.com/coins/images/32611/thumb/USDC.png?1698733754"
+      "address": "0x2147a89fb4608752807216d5070471c09a0dce32",
+      "name": "Z Protocol",
+      "symbol": "ZP",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/36011/thumb/about_img01.png?1710324761"
     },
     {
       "chainId": 534352,
@@ -32,11 +32,11 @@
     },
     {
       "chainId": 534352,
-      "address": "0xdb9e8f82d6d45fff803161f2a5f75543972b229a",
-      "name": "Quill USDQ",
-      "symbol": "USDQ",
+      "address": "0x01f0a31698c4d065659b9bdc21b3610292a1c506",
+      "name": "Stargate Bridged weETH  Scroll ",
+      "symbol": "WEETH",
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/66132/thumb/image_%289%29.png?1748439949"
+      "logoURI": "https://assets.coingecko.com/coins/images/67609/thumb/weeth.png?1753260224"
     },
     {
       "chainId": 534352,
@@ -48,35 +48,19 @@
     },
     {
       "chainId": 534352,
-      "address": "0x2147a89fb4608752807216d5070471c09a0dce32",
-      "name": "Z Protocol",
-      "symbol": "ZP",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/36011/thumb/about_img01.png?1710324761"
-    },
-    {
-      "chainId": 534352,
-      "address": "0x3c1bca5a656e69edcd0d4e36bebb3fcdaca60cf1",
-      "name": "Bridged Wrapped Bitcoin  Scroll ",
-      "symbol": "WBTC",
-      "decimals": 8,
-      "logoURI": "https://assets.coingecko.com/coins/images/32614/thumb/wrapped_bitcoin_wbtc.png?1698735124"
-    },
-    {
-      "chainId": 534352,
-      "address": "0x65421ba909200b81640d98b979d07487c9781b66",
-      "name": "KelpDAO Bridged rsETH  Scroll ",
-      "symbol": "RSETH",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/39545/thumb/rseth.png?1722849918"
-    },
-    {
-      "chainId": 534352,
       "address": "0xfec65bfb6e5bbcc9ab8ae98f62a8aab2ea51c495",
       "name": "Perseid Finance",
       "symbol": "PED",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/32805/thumb/perseid.png?1704711269"
+    },
+    {
+      "chainId": 534352,
+      "address": "0x95a52ec1d60e74cd3eb002fe54a2c74b185a4c16",
+      "name": "Skydrome",
+      "symbol": "SKY",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/33902/thumb/icon_200x200.png?1703237670"
     },
     {
       "chainId": 534352,
@@ -88,11 +72,19 @@
     },
     {
       "chainId": 534352,
-      "address": "0xdd6a49995ad38fe7409b5d5cb5539261bd1bc901",
-      "name": "Danjuan Scroll Cat",
-      "symbol": "CAT",
+      "address": "0x330c43d22bd65a60ffea93a197f04e87faa27b70",
+      "name": "abcNURI",
+      "symbol": "ABCNURI",
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/34637/thumb/200x200.jpg?1705555969"
+      "logoURI": "https://assets.coingecko.com/coins/images/40074/thumb/abcNURI.png?1725511281"
+    },
+    {
+      "chainId": 534352,
+      "address": "0x3c1bca5a656e69edcd0d4e36bebb3fcdaca60cf1",
+      "name": "Bridged Wrapped Bitcoin  Scroll ",
+      "symbol": "WBTC",
+      "decimals": 8,
+      "logoURI": "https://assets.coingecko.com/coins/images/32614/thumb/wrapped_bitcoin_wbtc.png?1698735124"
     },
     {
       "chainId": 534352,
@@ -104,6 +96,30 @@
     },
     {
       "chainId": 534352,
+      "address": "0x65421ba909200b81640d98b979d07487c9781b66",
+      "name": "KelpDAO Bridged rsETH  Scroll ",
+      "symbol": "RSETH",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/39545/thumb/rseth.png?1722849918"
+    },
+    {
+      "chainId": 534352,
+      "address": "0xdb9e8f82d6d45fff803161f2a5f75543972b229a",
+      "name": "Quill USDQ",
+      "symbol": "USDQ",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/66132/thumb/image_%289%29.png?1748439949"
+    },
+    {
+      "chainId": 534352,
+      "address": "0xdd6a49995ad38fe7409b5d5cb5539261bd1bc901",
+      "name": "Danjuan Scroll Cat",
+      "symbol": "CAT",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/34637/thumb/200x200.jpg?1705555969"
+    },
+    {
+      "chainId": 534352,
       "address": "0x61a9cc561b6c1f9c31bcdeb447afecf25f33bbf9",
       "name": "Pandacoin Inu",
       "symbol": "PANDA",
@@ -112,19 +128,11 @@
     },
     {
       "chainId": 534352,
-      "address": "0x330c43d22bd65a60ffea93a197f04e87faa27b70",
-      "name": "abcNURI",
-      "symbol": "ABCNURI",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/40074/thumb/abcNURI.png?1725511281"
-    },
-    {
-      "chainId": 534352,
-      "address": "0x95a52ec1d60e74cd3eb002fe54a2c74b185a4c16",
-      "name": "Skydrome",
-      "symbol": "SKY",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/33902/thumb/icon_200x200.png?1703237670"
+      "address": "0x06efdbff2a14a7c8e15944d1f4a48f9f95f663a4",
+      "name": "Bridged USD Coin  Scroll ",
+      "symbol": "USDC",
+      "decimals": 6,
+      "logoURI": "https://assets.coingecko.com/coins/images/32611/thumb/USDC.png?1698733754"
     },
     {
       "chainId": 534352,
@@ -313,7 +321,7 @@
   ],
   "version": {
     "major": 12,
-    "minor": 0,
+    "minor": 1,
     "patch": 0
   }
 }
