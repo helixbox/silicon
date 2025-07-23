@@ -3622,14 +3622,6 @@
     }
   },
   {
-    "id": "agora-ausd-katana",
-    "symbol": "ausd",
-    "name": "Agora AUSD (Katana)",
-    "platforms": {
-      "katana": "0x00000000efe302beaa2b3e6e1b18d08d69a9012a"
-    }
-  },
-  {
     "id": "agora-by-virtuals",
     "symbol": "agora",
     "name": "Agora by Virtuals",
@@ -3651,6 +3643,9 @@
       "binance-smart-chain": "0x00000000efe302beaa2b3e6e1b18d08d69a9012a",
       "core": "0x00000000efe302beaa2b3e6e1b18d08d69a9012a",
       "immutable": "0x00000000efe302beaa2b3e6e1b18d08d69a9012a",
+      "katana": "0x00000000efe302beaa2b3e6e1b18d08d69a9012a",
+      "arbitrum-one": "0x00000000efe302beaa2b3e6e1b18d08d69a9012a",
+      "plume-network": "0x00000000efe302beaa2b3e6e1b18d08d69a9012a",
       "sui": "0x2053d08c1e2bd02791056171aab0fd12bd7cd7efad2ab8f6b9c8902f14df2ff2::ausd::AUSD",
       "avalanche": "0x00000000efe302beaa2b3e6e1b18d08d69a9012a"
     }
@@ -11891,14 +11886,6 @@
     "name": "Baby Goatseus Maximus",
     "platforms": {
       "solana": "F4aLcMxQy6CPcXAuER3J5QgB89n4fqBMs2bcrqQBpump"
-    }
-  },
-  {
-    "id": "baby-grok",
-    "symbol": "babygrok",
-    "name": "Baby Grok",
-    "platforms": {
-      "binance-smart-chain": "0x88da9901b3a02fe24e498e1ed683d2310383e295"
     }
   },
   {
@@ -25067,7 +25054,9 @@
     "id": "catex-2",
     "symbol": "catx",
     "name": "Catex",
-    "platforms": {}
+    "platforms": {
+      "unichain": "0x756ee6857f915a2b5366f2ef56d8d13857aef8ad"
+    }
   },
   {
     "id": "catex-token",
@@ -79548,7 +79537,7 @@
   {
     "id": "metahub-finance",
     "symbol": "men",
-    "name": "MetaHub",
+    "name": "DAC Platform",
     "platforms": {
       "polygon-pos": "0x94b959c93761835f634b8d6e655070c58e2caa12"
     }
