@@ -4,16 +4,8 @@
   "keywords": [
     "defi"
   ],
-  "timestamp": "2025-07-20T13:00:06.713+00:00",
+  "timestamp": "2025-07-23T05:00:07.585+00:00",
   "tokens": [
-    {
-      "chainId": 747474,
-      "address": "0xb24e3035d1fcbc0e43cf3143c3fd92e53df2009b",
-      "name": "Katana Bridged POL  Katana ",
-      "symbol": "POL",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/67279/thumb/polygon.jpg?1752293315"
-    },
     {
       "chainId": 747474,
       "address": "0xee7d8bcfb72bc1880d0cf19822eb0a2e6577ab62",
@@ -24,11 +16,11 @@
     },
     {
       "chainId": 747474,
-      "address": "0x203a662b0bd271a6ed5a60edfbd04bfce608fd36",
-      "name": "VaultBridge Bridged USDC  Katana ",
-      "symbol": "VBUSDC",
-      "decimals": 6,
-      "logoURI": "https://assets.coingecko.com/coins/images/67043/thumb/usdc1.png?1751581304"
+      "address": "0x0913da6da4b42f538b445599b46bb4622342cf52",
+      "name": "VaultBridge Bridged WBTC  Katana ",
+      "symbol": "VBWBTC",
+      "decimals": 8,
+      "logoURI": "https://assets.coingecko.com/coins/images/67045/thumb/btc.png?1751581679"
     },
     {
       "chainId": 747474,
@@ -40,19 +32,27 @@
     },
     {
       "chainId": 747474,
-      "address": "0x00000000efe302beaa2b3e6e1b18d08d69a9012a",
-      "name": "Agora AUSD  Katana ",
-      "symbol": "AUSD",
-      "decimals": 6,
-      "logoURI": "https://assets.coingecko.com/coins/images/67047/thumb/ausd.png?1751587801"
+      "address": "0xb24e3035d1fcbc0e43cf3143c3fd92e53df2009b",
+      "name": "Katana Bridged POL  Katana ",
+      "symbol": "POL",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/67279/thumb/polygon.jpg?1752293315"
     },
     {
       "chainId": 747474,
-      "address": "0x0913da6da4b42f538b445599b46bb4622342cf52",
-      "name": "VaultBridge Bridged WBTC  Katana ",
-      "symbol": "VBWBTC",
-      "decimals": 8,
-      "logoURI": "https://assets.coingecko.com/coins/images/67045/thumb/btc.png?1751581679"
+      "address": "0x203a662b0bd271a6ed5a60edfbd04bfce608fd36",
+      "name": "VaultBridge Bridged USDC  Katana ",
+      "symbol": "VBUSDC",
+      "decimals": 6,
+      "logoURI": "https://assets.coingecko.com/coins/images/67043/thumb/usdc1.png?1751581304"
+    },
+    {
+      "chainId": 747474,
+      "address": "0x00000000efe302beaa2b3e6e1b18d08d69a9012a",
+      "name": "AUSD",
+      "symbol": "AUSD",
+      "decimals": 6,
+      "logoURI": "https://assets.coingecko.com/coins/images/39284/thumb/Circle_Agora_White_on_Olive_1080px.png?1722961274"
     },
     {
       "chainId": 747474,
@@ -66,6 +66,6 @@
   "version": {
     "major": 0,
     "minor": 3,
-    "patch": 0
+    "patch": 1
   }
 }

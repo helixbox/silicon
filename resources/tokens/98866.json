@@ -4,8 +4,16 @@
   "keywords": [
     "defi"
   ],
-  "timestamp": "2025-07-21T11:00:52.172+00:00",
+  "timestamp": "2025-07-23T05:00:53.340+00:00",
   "tokens": [
+    {
+      "chainId": 98866,
+      "address": "0x78add880a697070c1e765ac44d65323a0dcce913",
+      "name": "Stargate Bridged USDC  Plume ",
+      "symbol": "USDCE",
+      "decimals": 6,
+      "logoURI": "https://assets.coingecko.com/coins/images/66243/thumb/USDC_Token.png?1748919033"
+    },
     {
       "chainId": 98866,
       "address": "0xdea149f84859d1ec50480c209b71bffa482b0530",
@@ -13,22 +21,6 @@
       "symbol": "INTBILL",
       "decimals": 6,
       "logoURI": "https://assets.coingecko.com/coins/images/66318/thumb/inTbill.png?1749197830"
-    },
-    {
-      "chainId": 98866,
-      "address": "0xe9e8330a71912f03e54e7d93795acd9a56f070aa",
-      "name": "Pay USD",
-      "symbol": "PAYUSD",
-      "decimals": 6,
-      "logoURI": "https://assets.coingecko.com/coins/images/55876/thumb/PayUSD-token.png?1747555725"
-    },
-    {
-      "chainId": 98866,
-      "address": "0x5107272921a750a20d492fb41acf0b770b09a624",
-      "name": "Mineral Vault I Security Token",
-      "symbol": "MNRL",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/66290/thumb/mineral-vault.png?1749109942"
     },
     {
       "chainId": 98866,
@@ -40,11 +32,27 @@
     },
     {
       "chainId": 98866,
-      "address": "0x39d1f90ef89c52dda276194e9a832b484ee45574",
-      "name": "Plume Staked ETH",
-      "symbol": "PETH",
+      "address": "0x5107272921a750a20d492fb41acf0b770b09a624",
+      "name": "Mineral Vault I Security Token",
+      "symbol": "MNRL",
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/67514/thumb/peth.png?1753068541"
+      "logoURI": "https://assets.coingecko.com/coins/images/66290/thumb/mineral-vault.png?1749109942"
+    },
+    {
+      "chainId": 98866,
+      "address": "0xe9e8330a71912f03e54e7d93795acd9a56f070aa",
+      "name": "Pay USD",
+      "symbol": "PAYUSD",
+      "decimals": 6,
+      "logoURI": "https://assets.coingecko.com/coins/images/55876/thumb/PayUSD-token.png?1747555725"
+    },
+    {
+      "chainId": 98866,
+      "address": "0xda6087e69c51e7d31b6dbad276a3c44703dfdcad",
+      "name": "Stargate Bridged USDT  Plume ",
+      "symbol": "USDT",
+      "decimals": 6,
+      "logoURI": "https://assets.coingecko.com/coins/images/67009/thumb/usdt.jpg?1751459215"
     },
     {
       "chainId": 98866,
@@ -56,19 +64,11 @@
     },
     {
       "chainId": 98866,
-      "address": "0x78add880a697070c1e765ac44d65323a0dcce913",
-      "name": "Stargate Bridged USDC  Plume ",
-      "symbol": "USDCE",
-      "decimals": 6,
-      "logoURI": "https://assets.coingecko.com/coins/images/66243/thumb/USDC_Token.png?1748919033"
-    },
-    {
-      "chainId": 98866,
-      "address": "0xda6087e69c51e7d31b6dbad276a3c44703dfdcad",
-      "name": "Stargate Bridged USDT  Plume ",
-      "symbol": "USDT",
-      "decimals": 6,
-      "logoURI": "https://assets.coingecko.com/coins/images/67009/thumb/usdt.jpg?1751459215"
+      "address": "0x39d1f90ef89c52dda276194e9a832b484ee45574",
+      "name": "Plume Staked ETH",
+      "symbol": "PETH",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/67514/thumb/peth.png?1753068541"
     },
     {
       "chainId": 98866,
@@ -232,6 +232,14 @@
     },
     {
       "chainId": 98866,
+      "address": "0x00000000efe302beaa2b3e6e1b18d08d69a9012a",
+      "name": "AUSD",
+      "symbol": "AUSD",
+      "decimals": 6,
+      "logoURI": "https://assets.coingecko.com/coins/images/39284/thumb/Circle_Agora_White_on_Olive_1080px.png?1722961274"
+    },
+    {
+      "chainId": 98866,
       "address": "0x2cd3cdb3bd68eea0d3be81da707bc0c8743d7335",
       "name": "Yield BTC B",
       "symbol": "YBTCB",
@@ -241,7 +249,7 @@
   ],
   "version": {
     "major": 0,
-    "minor": 16,
+    "minor": 17,
     "patch": 0
   }
 }
