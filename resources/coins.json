@@ -60967,6 +60967,14 @@
     "platforms": {}
   },
   {
+    "id": "hushr",
+    "symbol": "hushr",
+    "name": "hushr",
+    "platforms": {
+      "ethereum": "0x8079751edb6bf16078b07585ee60010f430617d5"
+    }
+  },
+  {
     "id": "husky-2",
     "symbol": "$husky",
     "name": "Husky",
@@ -77889,7 +77897,9 @@
     "id": "mbg-by-multibank-group",
     "symbol": "$mbg",
     "name": "MBG By Multibank Group",
-    "platforms": {}
+    "platforms": {
+      "ethereum": "0x45e02bc2875a2914c4f585bbf92a6f28bc07cb70"
+    }
   },
   {
     "id": "mbp-coin",
@@ -112478,14 +112488,7 @@
     "symbol": "sipher",
     "name": "SIPHER",
     "platforms": {
-      "ethereum": "0x9f52c8ecbee10e00d9faaac5ee9ba0ff6550f511"
-    }
-  },
-  {
-    "id": "sipher-2",
-    "symbol": "sipher",
-    "name": "Sipher",
-    "platforms": {
+      "ethereum": "0x9f52c8ecbee10e00d9faaac5ee9ba0ff6550f511",
       "funki": "0x7d8b6cec10165119c4ac7843a1e02184789585d8"
     }
   },
@@ -131887,7 +131890,7 @@
     "symbol": "vdo",
     "name": "ValiDAO",
     "platforms": {
-      "ethereum": "0x2ef8a2ccb058915e00e16aa13cc6e36f19d8893b"
+      "hyperevm": "0xb5ee887259f792e613edbd20dde8970c10fefda1"
     }
   },
   {
@@ -144321,7 +144324,9 @@
     "id": "zencash",
     "symbol": "zen",
     "name": "Horizen",
-    "platforms": {}
+    "platforms": {
+      "base": "0xf43eb8de897fbc7f2502483b2bef7bb9ea179229"
+    }
   },
   {
     "id": "zenc-coin",
