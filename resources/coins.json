@@ -2689,14 +2689,6 @@
     }
   },
   {
-    "id": "adaswap",
-    "symbol": "asw",
-    "name": "AdaSwap",
-    "platforms": {
-      "ethereum": "0x56694577564fdd577a0abb20fe95c1e2756c2a11"
-    }
-  },
-  {
     "id": "ada-the-dog",
     "symbol": "adasol",
     "name": "ADA",
@@ -9137,12 +9129,6 @@
     }
   },
   {
-    "id": "artery",
-    "symbol": "artr",
-    "name": "Artery",
-    "platforms": {}
-  },
-  {
     "id": "artfi",
     "symbol": "artfi",
     "name": "ARTFI",
@@ -9484,7 +9470,9 @@
     "id": "aspecta",
     "symbol": "asp",
     "name": "Aspecta",
-    "platforms": {}
+    "platforms": {
+      "binance-smart-chain": "0xad8c787992428cd158e451aab109f724b6bc36de"
+    }
   },
   {
     "id": "aspo-world",
@@ -10552,15 +10540,6 @@
     "name": "AurumTrust",
     "platforms": {
       "cronos": "0xd896aa25da8e3832d68d1c05fee9c851d42f1dc1"
-    }
-  },
-  {
-    "id": "aurusx",
-    "symbol": "ax",
-    "name": "AurusX",
-    "platforms": {
-      "ethereum": "0xcb0d82f4dfa503c9e3b8abc7a3caa01175b2da39",
-      "polygon-pos": "0x1a763170b96f23f15576d0fa0b2619d1254c437d"
     }
   },
   {
@@ -16934,14 +16913,6 @@
     }
   },
   {
-    "id": "bitcastle",
-    "symbol": "castle",
-    "name": "bitcastle",
-    "platforms": {
-      "ethereum": "0xf9d4daae1300cff251979722c4a3c45857973079"
-    }
-  },
-  {
     "id": "bitcat",
     "symbol": "bitcat",
     "name": "Bitcat",
@@ -21638,14 +21609,6 @@
     }
   },
   {
-    "id": "bridged-tether-bevm",
-    "symbol": "usdt",
-    "name": "Bridged Tether (BEVM)",
-    "platforms": {
-      "bevm": "0xa67ed736649f2958a35fd249a584151056b4b745"
-    }
-  },
-  {
     "id": "bridged-tether-fuse",
     "symbol": "usdt",
     "name": "Bridged Tether (Fuse)",
@@ -23871,14 +23834,6 @@
     "symbol": "bcn",
     "name": "Bytecoin",
     "platforms": {}
-  },
-  {
-    "id": "bytenext",
-    "symbol": "bnu",
-    "name": "ByteNext",
-    "platforms": {
-      "binance-smart-chain": "0x4954e0062e0a7668a2fe3df924cd20e6440a7b77"
-    }
   },
   {
     "id": "bzedge",
@@ -43782,14 +43737,6 @@
       "ethereum": "0x69420e3a3aa9e17dea102bb3a9b3b73dcddb9528",
       "base": "0xb770fad3b3d059162a357047ddcf97fbe9fd7982",
       "solana": "ACWJRei2VGU4tru1oxKHnfoJ3iachwpTeXfEPUNg5Tv"
-    }
-  },
-  {
-    "id": "elon-2024",
-    "symbol": "elon2024",
-    "name": "ELON 2024",
-    "platforms": {
-      "binance-smart-chain": "0x02bafcec586ad22ce409dadb2d2a1af11f8fc112"
     }
   },
   {
@@ -71262,6 +71209,14 @@
     }
   },
   {
+    "id": "legend-3",
+    "symbol": "$legend",
+    "name": "Legend",
+    "platforms": {
+      "base": "0xaaa9a3bc81fe7951fe0c3755837b40749ce0c894"
+    }
+  },
+  {
     "id": "legendary-meme",
     "symbol": "lme",
     "name": "Legendary MEME",
@@ -74744,14 +74699,6 @@
     "name": "Lumerin",
     "platforms": {
       "ethereum": "0x4b1d0b9f081468d780ca1d5d79132b64301085d1"
-    }
-  },
-  {
-    "id": "lumi",
-    "symbol": "lumi",
-    "name": "LUMI",
-    "platforms": {
-      "bitkub-chain": "0x95013dcb6a561e6c003aed9c43fb8b64008aa361"
     }
   },
   {
@@ -78467,14 +78414,6 @@
       "meld": "0x333000333528b1e38884a5d1ef13615b0c17a301",
       "ethereum": "0x333000333b26ee30214b4af6419d9ab07a450400",
       "avalanche": "0x333000333b26ee30214b4af6419d9ab07a450400"
-    }
-  },
-  {
-    "id": "meld-gold",
-    "symbol": "mcau",
-    "name": "Meld Gold",
-    "platforms": {
-      "algorand": "6547014"
     }
   },
   {
@@ -100278,12 +100217,6 @@
     }
   },
   {
-    "id": "procyon-coon-coin",
-    "symbol": "prco",
-    "name": "Procyon Coon Coin",
-    "platforms": {}
-  },
-  {
     "id": "prodigi-connect",
     "symbol": "pdg",
     "name": "Prodigi Connect",
@@ -113155,14 +113088,6 @@
     "name": "SMARDEX WRAPPED USDN",
     "platforms": {
       "ethereum": "0x99999999999999cc837c997b882957dafdcb1af9"
-    }
-  },
-  {
-    "id": "smart-ai",
-    "symbol": "smart",
-    "name": "Smart AI",
-    "platforms": {
-      "ethereum": "0xfe7290b932cd0d5aec29c57394e87cdaa41cc054"
     }
   },
   {
@@ -128615,6 +128540,14 @@
     }
   },
   {
+    "id": "trust-in-nom",
+    "symbol": "nom",
+    "name": "Trust in Nom",
+    "platforms": {
+      "solana": "2MDr15dTn6km3NWusFcnZyhq3vWpYDg7vWprghpzbonk"
+    }
+  },
+  {
     "id": "trust-inspect",
     "symbol": "$trust",
     "name": "Trust Inspect",
@@ -130784,14 +130717,6 @@
     }
   },
   {
-    "id": "upload",
-    "symbol": "upload",
-    "name": "UPLOAD",
-    "platforms": {
-      "ethereum": "0xd3cc3b3e226cf187181c57f8bcc2fa84250df651"
-    }
-  },
-  {
     "id": "upmax",
     "symbol": "max",
     "name": "UPMAX",
@@ -131890,7 +131815,8 @@
     "symbol": "vdo",
     "name": "ValiDAO",
     "platforms": {
-      "hyperevm": "0xb5ee887259f792e613edbd20dde8970c10fefda1"
+      "hyperevm": "0xb5ee887259f792e613edbd20dde8970c10fefda1",
+      "ethereum": "0x2ef8a2ccb058915e00e16aa13cc6e36f19d8893b"
     }
   },
   {
