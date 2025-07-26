@@ -3214,7 +3214,7 @@
   {
     "id": "agenius",
     "symbol": "agns",
-    "name": "Madness.fun (Agenius)",
+    "name": "Agenius",
     "platforms": {
       "solana": "9g78Mv7JGsGCmnf7gJiEvVJNAn7fRLqjvJLMRMHbpump"
     }
@@ -36454,7 +36454,10 @@
     "id": "dephy-network",
     "symbol": "phy",
     "name": "DePHY Network",
-    "platforms": {}
+    "platforms": {
+      "binance-smart-chain": "0xd029b392580d555f35cca1987f27d248cf883716",
+      "solana": "DEpHYkW6nEm3Sxhb2rwftatrSAV3AP3ac6MgAWBbnsS8"
+    }
   },
   {
     "id": "depin",
@@ -45801,7 +45804,11 @@
     "symbol": "eul",
     "name": "Euler",
     "platforms": {
-      "ethereum": "0xd9fcd98c322942075a5c3860693e9f4f03aae07b"
+      "ethereum": "0xd9fcd98c322942075a5c3860693e9f4f03aae07b",
+      "avalanche": "0x9ceed3a7f753608372eeab300486cc7c2f38ac68",
+      "unichain": "0xe9c43e09c5fa733bcc2aeaa96063a4a60147aa09",
+      "arbitrum-one": "0x462cd9e0247b2e63831c3189ae738e5e9a5a4b64",
+      "base": "0xa153ad732f831a79b5575fa02e793ec4e99181b0"
     }
   },
   {
@@ -51283,6 +51290,14 @@
     }
   },
   {
+    "id": "furi",
+    "symbol": "furi",
+    "name": "FURI",
+    "platforms": {
+      "polygon-pos": "0x5742fe477b2afed92c25d092418bac06cd076cea"
+    }
+  },
+  {
     "id": "furmula",
     "symbol": "furm",
     "name": "Furmula",
@@ -52618,7 +52633,8 @@
     "name": "GCoin",
     "platforms": {
       "hedera-hashgraph": "0x0000000000000000000000000000000000317609",
-      "base": "0x2a6eb279117bfdcc069c3a272cd3911d88635162"
+      "base": "0x2a6eb279117bfdcc069c3a272cd3911d88635162",
+      "binance-smart-chain": "0x1bb2191ff6f49ba1008398bc9fa882db62c878b9"
     }
   },
   {
@@ -72465,7 +72481,8 @@
     "symbol": "limbo",
     "name": "LIMBO",
     "platforms": {
-      "solana": "5UAMZkfNmuVcKzr2wo8Jqw4R1k8vfdAVJNN6h3bVpump"
+      "solana": "5UAMZkfNmuVcKzr2wo8Jqw4R1k8vfdAVJNN6h3bVpump",
+      "avalanche": "0x3e5b9c8930ecab017e16c3b7a2d0cb746d8bcdcf"
     }
   },
   {
@@ -92335,6 +92352,14 @@
     "name": "Orbitt Token",
     "platforms": {
       "solana": "BGyjasmSzYM9hHiZ1LBU4EJ7KCtRjMSpbN4zTru3W5vf"
+    }
+  },
+  {
+    "id": "orbitx",
+    "symbol": "rtx",
+    "name": "ORBITX",
+    "platforms": {
+      "binance-smart-chain": "0x6c44dc4c1df6469ef31887154acd7a672469f88e"
     }
   },
   {
@@ -117547,7 +117572,8 @@
     "name": "Stabull Finance",
     "platforms": {
       "ethereum": "0x6a43795941113c2f58eb487001f4f8ee74b6938a",
-      "polygon-pos": "0xc4420347a4791832bb7b16bf070d5c017d9fabc4"
+      "polygon-pos": "0xc4420347a4791832bb7b16bf070d5c017d9fabc4",
+      "base": "0x6722f882cc3a1b1034893efa9764397c88897892"
     }
   },
   {
