@@ -4,7 +4,7 @@
   "keywords": [
     "defi"
   ],
-  "timestamp": "2025-07-23T04:00:05.505+00:00",
+  "timestamp": "2025-07-26T08:00:05.824+00:00",
   "tokens": [
     {
       "chainId": 130,
@@ -16,19 +16,11 @@
     },
     {
       "chainId": 130,
-      "address": "0xc3eacf0612346366db554c991d7858716db09f58",
-      "name": "KelpDAO Bridged rsETH  Unichain ",
-      "symbol": "RSETH",
+      "address": "0x4200000000000000000000000000000000000006",
+      "name": "Unichain Bridged WETH  Unichain ",
+      "symbol": "WETH",
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/67283/thumb/rseth.jpg?1752298197"
-    },
-    {
-      "chainId": 130,
-      "address": "0x0555e30da8f98308edb960aa94c0db47230d2b9c",
-      "name": "LayerZero Bridged WBTC  Unichain ",
-      "symbol": "WBTC",
-      "decimals": 8,
-      "logoURI": "https://assets.coingecko.com/coins/images/66720/thumb/wbtc.jpg?1750312819"
+      "logoURI": "https://assets.coingecko.com/coins/images/54331/thumb/weth_2.jpg?1739325052"
     },
     {
       "chainId": 130,
@@ -40,22 +32,6 @@
     },
     {
       "chainId": 130,
-      "address": "0xd4390b4a41a1057ae0acdd4b9435a0c7555ab464",
-      "name": "ABE CTO",
-      "symbol": "ABE",
-      "decimals": 9,
-      "logoURI": "https://assets.coingecko.com/coins/images/54953/thumb/200x200.jpg?1742809697"
-    },
-    {
-      "chainId": 130,
-      "address": "0x4200000000000000000000000000000000000006",
-      "name": "Unichain Bridged WETH  Unichain ",
-      "symbol": "WETH",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/54331/thumb/weth_2.jpg?1739325052"
-    },
-    {
-      "chainId": 130,
       "address": "0x7dcc39b4d1c53cb31e1abc0e358b43987fef80f7",
       "name": "Ether fi Bridged weETH  Unichain ",
       "symbol": "WEETH",
@@ -64,11 +40,35 @@
     },
     {
       "chainId": 130,
+      "address": "0xd4390b4a41a1057ae0acdd4b9435a0c7555ab464",
+      "name": "ABE CTO",
+      "symbol": "ABE",
+      "decimals": 9,
+      "logoURI": "https://assets.coingecko.com/coins/images/54953/thumb/200x200.jpg?1742809697"
+    },
+    {
+      "chainId": 130,
       "address": "0x927b51f251480a681271180da4de28d44ec4afb8",
       "name": "Unichain Bridged WBTC  Unichain ",
       "symbol": "WBTC",
       "decimals": 8,
       "logoURI": "https://assets.coingecko.com/coins/images/66722/thumb/wbtc.jpg?1750315958"
+    },
+    {
+      "chainId": 130,
+      "address": "0x0555e30da8f98308edb960aa94c0db47230d2b9c",
+      "name": "LayerZero Bridged WBTC  Unichain ",
+      "symbol": "WBTC",
+      "decimals": 8,
+      "logoURI": "https://assets.coingecko.com/coins/images/66720/thumb/wbtc.jpg?1750312819"
+    },
+    {
+      "chainId": 130,
+      "address": "0xc3eacf0612346366db554c991d7858716db09f58",
+      "name": "KelpDAO Bridged rsETH  Unichain ",
+      "symbol": "RSETH",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/67283/thumb/rseth.jpg?1752298197"
     },
     {
       "chainId": 130,
@@ -152,6 +152,14 @@
     },
     {
       "chainId": 130,
+      "address": "0xe9c43e09c5fa733bcc2aeaa96063a4a60147aa09",
+      "name": "Euler",
+      "symbol": "EUL",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/26149/thumb/Coingecko_logo_%281%29.png?1706026067"
+    },
+    {
+      "chainId": 130,
       "address": "0xc02fe7317d4eb8753a02c35fe019786854a92001",
       "name": "Wrapped stETH",
       "symbol": "WSTETH",
@@ -161,7 +169,7 @@
   ],
   "version": {
     "major": 2,
-    "minor": 4,
+    "minor": 5,
     "patch": 0
   }
 }
