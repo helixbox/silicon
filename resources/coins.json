@@ -37326,7 +37326,8 @@
     "symbol": "dlb",
     "name": "DiemLibre",
     "platforms": {
-      "ethereum": "0x87c22615435998d69aca34889d03155b694a94fc"
+      "ethereum": "0x87c22615435998d69aca34889d03155b694a94fc",
+      "binance-smart-chain": "0x87c22615435998d69aca34889d03155b694a94fc"
     }
   },
   {
@@ -46747,7 +46748,8 @@
     "symbol": "usdf",
     "name": "Falcon USD",
     "platforms": {
-      "ethereum": "0xfa2b947eec368f42195f24f36d2af29f7c24cec2"
+      "ethereum": "0xfa2b947eec368f42195f24f36d2af29f7c24cec2",
+      "binance-smart-chain": "0xb3b02e4a9fb2bd28cc2ff97b0ab3f6b3ec1ee9d2"
     }
   },
   {
@@ -73836,6 +73838,9 @@
       "sui": "0x3e8e9423d80e1774a7ca128fccd8bf5f1f7753be658c5e645929037f7c819040::lbtc::LBTC",
       "swellchain": "0xecac9c5f704e954931349da37f60e39f515c11c1",
       "corn": "0xecac9c5f704e954931349da37f60e39f515c11c1",
+      "tac": "0xecac9c5f704e954931349da37f60e39f515c11c1",
+      "katana": "0xecac9c5f704e954931349da37f60e39f515c11c1",
+      "etherlink": "0xecac9c5f704e954931349da37f60e39f515c11c1",
       "base": "0xecac9c5f704e954931349da37f60e39f515c11c1",
       "binance-smart-chain": "0xecac9c5f704e954931349da37f60e39f515c11c1"
     }
@@ -105565,6 +105570,14 @@
     }
   },
   {
+    "id": "rezerve-money",
+    "symbol": "rzr",
+    "name": "Rezerve Money",
+    "platforms": {
+      "sonic": "0xb4444468e444f89e1c2cac2f1d3ee7e336cbd1f5"
+    }
+  },
+  {
     "id": "rezor",
     "symbol": "rzr",
     "name": "Rezor",
@@ -120523,6 +120536,7 @@
     "name": "SUKU",
     "platforms": {
       "ethereum": "0x0763fdccf1ae541a5961815c0872a8c5bc6de4d7",
+      "solana": "4DxUsKzkzPEsPd2QFrba4VYK5wQFKTEQia6TxpkFnubm",
       "polygon-pos": "0x60ea918fc64360269da4efbda11d8fc6514617c6"
     }
   },
@@ -123465,6 +123479,7 @@
     "name": "Telos",
     "platforms": {
       "arbitrum-one": "0x193f4a4a6ea24102f49b931deeeb931f6e32405d",
+      "base": "0x7252c865c05378ffc15120f428dd65804dd0ce63",
       "ethereum": "0x193f4a4a6ea24102f49b931deeeb931f6e32405d",
       "binance-smart-chain": "0x193f4a4a6ea24102f49b931deeeb931f6e32405d",
       "avalanche": "0x193f4a4a6ea24102f49b931deeeb931f6e32405d",

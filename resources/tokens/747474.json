@@ -4,8 +4,16 @@
   "keywords": [
     "defi"
   ],
-  "timestamp": "2025-07-23T05:00:07.585+00:00",
+  "timestamp": "2025-07-26T06:00:05.011+00:00",
   "tokens": [
+    {
+      "chainId": 747474,
+      "address": "0xb24e3035d1fcbc0e43cf3143c3fd92e53df2009b",
+      "name": "Katana Bridged POL  Katana ",
+      "symbol": "POL",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/67279/thumb/polygon.jpg?1752293315"
+    },
     {
       "chainId": 747474,
       "address": "0xee7d8bcfb72bc1880d0cf19822eb0a2e6577ab62",
@@ -13,6 +21,14 @@
       "symbol": "VBETH",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/67044/thumb/eth1.png?1751581519"
+    },
+    {
+      "chainId": 747474,
+      "address": "0x203a662b0bd271a6ed5a60edfbd04bfce608fd36",
+      "name": "VaultBridge Bridged USDC  Katana ",
+      "symbol": "VBUSDC",
+      "decimals": 6,
+      "logoURI": "https://assets.coingecko.com/coins/images/67043/thumb/usdc1.png?1751581304"
     },
     {
       "chainId": 747474,
@@ -32,27 +48,19 @@
     },
     {
       "chainId": 747474,
-      "address": "0xb24e3035d1fcbc0e43cf3143c3fd92e53df2009b",
-      "name": "Katana Bridged POL  Katana ",
-      "symbol": "POL",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/67279/thumb/polygon.jpg?1752293315"
-    },
-    {
-      "chainId": 747474,
-      "address": "0x203a662b0bd271a6ed5a60edfbd04bfce608fd36",
-      "name": "VaultBridge Bridged USDC  Katana ",
-      "symbol": "VBUSDC",
-      "decimals": 6,
-      "logoURI": "https://assets.coingecko.com/coins/images/67043/thumb/usdc1.png?1751581304"
-    },
-    {
-      "chainId": 747474,
       "address": "0x00000000efe302beaa2b3e6e1b18d08d69a9012a",
       "name": "AUSD",
       "symbol": "AUSD",
       "decimals": 6,
       "logoURI": "https://assets.coingecko.com/coins/images/39284/thumb/Circle_Agora_White_on_Olive_1080px.png?1722961274"
+    },
+    {
+      "chainId": 747474,
+      "address": "0xecac9c5f704e954931349da37f60e39f515c11c1",
+      "name": "Lombard Staked BTC",
+      "symbol": "LBTC",
+      "decimals": 8,
+      "logoURI": "https://assets.coingecko.com/coins/images/39969/thumb/LBTC_Logo.png?1724959872"
     },
     {
       "chainId": 747474,
@@ -65,7 +73,7 @@
   ],
   "version": {
     "major": 0,
-    "minor": 3,
-    "patch": 1
+    "minor": 4,
+    "patch": 0
   }
 }
