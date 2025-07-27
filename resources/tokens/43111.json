@@ -4,16 +4,8 @@
   "keywords": [
     "defi"
   ],
-  "timestamp": "2025-07-26T10:00:34.562+00:00",
+  "timestamp": "2025-07-27T08:00:31.909+00:00",
   "tokens": [
-    {
-      "chainId": 43111,
-      "address": "0x4200000000000000000000000000000000000006",
-      "name": "Hemi Bridged WETH  Hemi ",
-      "symbol": "WETH",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/67025/thumb/weth_2.jpg?1751514061"
-    },
     {
       "chainId": 43111,
       "address": "0xad11a8beb98bbf61dbb1aa0f6d6f2ecd87b35afa",
@@ -21,6 +13,14 @@
       "symbol": "USDCE",
       "decimals": 6,
       "logoURI": "https://assets.coingecko.com/coins/images/67024/thumb/usdc.jpg?1751513981"
+    },
+    {
+      "chainId": 43111,
+      "address": "0x7a06c4aef988e7925575c50261297a946ad204a8",
+      "name": "VUSD",
+      "symbol": "VUSD",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/67026/thumb/vusd.jpg?1751514327"
     },
     {
       "chainId": 43111,
@@ -32,11 +32,11 @@
     },
     {
       "chainId": 43111,
-      "address": "0x7a06c4aef988e7925575c50261297a946ad204a8",
-      "name": "VUSD",
-      "symbol": "VUSD",
+      "address": "0x4200000000000000000000000000000000000006",
+      "name": "Hemi Bridged WETH  Hemi ",
+      "symbol": "WETH",
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/67026/thumb/vusd.jpg?1751514327"
+      "logoURI": "https://assets.coingecko.com/coins/images/67025/thumb/weth_2.jpg?1751514061"
     },
     {
       "chainId": 43111,
@@ -53,11 +53,19 @@
       "symbol": "ESBTC",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/67691/thumb/esbtc_logo-_1_.png?1753521998"
+    },
+    {
+      "chainId": 43111,
+      "address": "0x78e26e8b953c7c78a58d69d8b9a91745c2bbb258",
+      "name": "uBTC",
+      "symbol": "UBTC",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/55079/thumb/uBTC.png?1743613297"
     }
   ],
   "version": {
     "major": 0,
-    "minor": 3,
+    "minor": 4,
     "patch": 0
   }
 }
