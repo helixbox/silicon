@@ -6494,14 +6494,6 @@
     }
   },
   {
-    "id": "american-bitcoin",
-    "symbol": "abtc",
-    "name": "American Bitcoin",
-    "platforms": {
-      "ethereum": "0x64b3b21ee104f434380270749d8d5bfd481fdcf6"
-    }
-  },
-  {
     "id": "american-coin",
     "symbol": "usa",
     "name": "American Coin",
@@ -16183,9 +16175,15 @@
   {
     "id": "billy-bets-by-virtuals",
     "symbol": "$billy",
+    "name": "Billy Bets by Virtuals [OLD]",
+    "platforms": {}
+  },
+  {
+    "id": "billy-bets-by-virtuals-2",
+    "symbol": "$billy",
     "name": "Billy Bets by Virtuals",
     "platforms": {
-      "solana": "9Rhbn9G5poLvgnFzuYBtJgbzmiipNra35QpnUek9virt"
+      "base": "0xcfc8e8a4d2246dec68115ae24abbca0d2b1e6bf2"
     }
   },
   {
@@ -62273,7 +62271,9 @@
     "id": "ika",
     "symbol": "ika",
     "name": "Ika",
-    "platforms": {}
+    "platforms": {
+      "sui": "0x7262fb2f7a3a14c888c438a3cd9b912469a58cf60f367352c46584262e8299aa::ika::IKA"
+    }
   },
   {
     "id": "ikigai",
@@ -141732,7 +141732,7 @@
     "symbol": "xgrok",
     "name": "XGrok",
     "platforms": {
-      "binance-smart-chain": "0x19ae49ca682581403729f4b2ea72a2af8bbf8619"
+      "binance-smart-chain": "0xf2962a60a33f6f5c3f9cfcd6d4d25a01f92adf8b"
     }
   },
   {
