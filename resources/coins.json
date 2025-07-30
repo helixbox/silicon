@@ -93588,6 +93588,22 @@
     }
   },
   {
+    "id": "paimon-stripe-spv-token",
+    "symbol": "strp",
+    "name": "Paimon Stripe SPV Token",
+    "platforms": {
+      "binance-smart-chain": "0x13578c16e3dc631737e93ed6bbef428faa9bbaf7"
+    }
+  },
+  {
+    "id": "paimon-xai-spv-token",
+    "symbol": "xai",
+    "name": "Paimon xAI SPV Token",
+    "platforms": {
+      "binance-smart-chain": "0x43ff4cf60f75fbcc91be7d5036710ffcf2a80459"
+    }
+  },
+  {
     "id": "pain",
     "symbol": "pain",
     "name": "Pain",
@@ -139937,7 +139953,9 @@
     "id": "wrapped-minotari",
     "symbol": "wxtm",
     "name": "Wrapped MinoTari",
-    "platforms": {}
+    "platforms": {
+      "ethereum": "0xfd36fa88bb3fea8d1264fc89d70723b6a2b56958"
+    }
   },
   {
     "id": "wrapped-mistcoin",
