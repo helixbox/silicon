@@ -4,7 +4,7 @@
   "keywords": [
     "defi"
   ],
-  "timestamp": "2025-07-26T10:00:51.385+00:00",
+  "timestamp": "2025-07-31T07:00:51.807+00:00",
   "tokens": [
     {
       "chainId": 98866,
@@ -16,19 +16,11 @@
     },
     {
       "chainId": 98866,
-      "address": "0xca59ca09e5602fae8b629dee83ffa819741f14be",
-      "name": "Plume Bridged WETH  Plume ",
-      "symbol": "WETH",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/67515/thumb/weth_2.jpg?1753069298"
-    },
-    {
-      "chainId": 98866,
-      "address": "0x5107272921a750a20d492fb41acf0b770b09a624",
-      "name": "Mineral Vault I Security Token",
-      "symbol": "MNRL",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/66290/thumb/mineral-vault.png?1749109942"
+      "address": "0xda6087e69c51e7d31b6dbad276a3c44703dfdcad",
+      "name": "Stargate Bridged USDT  Plume ",
+      "symbol": "USDT",
+      "decimals": 6,
+      "logoURI": "https://assets.coingecko.com/coins/images/67009/thumb/usdt.jpg?1751459215"
     },
     {
       "chainId": 98866,
@@ -40,11 +32,19 @@
     },
     {
       "chainId": 98866,
-      "address": "0x78add880a697070c1e765ac44d65323a0dcce913",
-      "name": "Stargate Bridged USDC  Plume ",
-      "symbol": "USDCE",
-      "decimals": 6,
-      "logoURI": "https://assets.coingecko.com/coins/images/66243/thumb/USDC_Token.png?1748919033"
+      "address": "0x5107272921a750a20d492fb41acf0b770b09a624",
+      "name": "Mineral Vault I Security Token",
+      "symbol": "MNRL",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/66290/thumb/mineral-vault.png?1749109942"
+    },
+    {
+      "chainId": 98866,
+      "address": "0xca59ca09e5602fae8b629dee83ffa819741f14be",
+      "name": "Plume Bridged WETH  Plume ",
+      "symbol": "WETH",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/67515/thumb/weth_2.jpg?1753069298"
     },
     {
       "chainId": 98866,
@@ -64,11 +64,11 @@
     },
     {
       "chainId": 98866,
-      "address": "0xda6087e69c51e7d31b6dbad276a3c44703dfdcad",
-      "name": "Stargate Bridged USDT  Plume ",
-      "symbol": "USDT",
+      "address": "0x78add880a697070c1e765ac44d65323a0dcce913",
+      "name": "Stargate Bridged USDC  Plume ",
+      "symbol": "USDCE",
       "decimals": 6,
-      "logoURI": "https://assets.coingecko.com/coins/images/67009/thumb/usdt.jpg?1751459215"
+      "logoURI": "https://assets.coingecko.com/coins/images/66243/thumb/USDC_Token.png?1748919033"
     },
     {
       "chainId": 98866,
@@ -253,11 +253,19 @@
       "symbol": "YBTCB",
       "decimals": 8,
       "logoURI": "https://assets.coingecko.com/coins/images/67087/thumb/20250703-152236.png?1751702269"
+    },
+    {
+      "chainId": 98866,
+      "address": "0x139450c2dcef827c9a2a0bb1cb5506260940c9fd",
+      "name": "SuperReturn sSuperUSD",
+      "symbol": "SSUPERUSD",
+      "decimals": 6,
+      "logoURI": "https://assets.coingecko.com/coins/images/67821/thumb/sSuperUSD_200x200.png?1753943152"
     }
   ],
   "version": {
     "major": 0,
-    "minor": 18,
+    "minor": 19,
     "patch": 0
   }
 }

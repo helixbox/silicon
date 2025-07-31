@@ -4,8 +4,16 @@
   "keywords": [
     "defi"
   ],
-  "timestamp": "2025-07-31T05:00:31.506+00:00",
+  "timestamp": "2025-07-31T07:00:30.937+00:00",
   "tokens": [
+    {
+      "chainId": 80094,
+      "address": "0x6d4223dae2a8744a85a6d44e97f3f61679f87ee6",
+      "name": "USDbr",
+      "symbol": "USDBR",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/55096/thumb/USDbr.png?1743699568"
+    },
     {
       "chainId": 80094,
       "address": "0x9ea30078bc52740f10812539e77b6502a2a5387a",
@@ -24,38 +32,6 @@
     },
     {
       "chainId": 80094,
-      "address": "0x0555e30da8f98308edb960aa94c0db47230d2b9c",
-      "name": "Berachain Bridged WBTC  Berachain ",
-      "symbol": "WBTC",
-      "decimals": 8,
-      "logoURI": "https://assets.coingecko.com/coins/images/54335/thumb/wbtc.jpg?1739334808"
-    },
-    {
-      "chainId": 80094,
-      "address": "0x656b95e550c07a9ffe548bd4085c72418ceb1dba",
-      "name": "Berachain Governance Token",
-      "symbol": "BGT",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/54193/thumb/BGT.png?1738742690"
-    },
-    {
-      "chainId": 80094,
-      "address": "0xe5a08b6f213a7c530e03ad40522befcbaa1a7f8c",
-      "name": "TWIN ASSET TOKEN iMSTR",
-      "symbol": "IMSTR",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/66280/thumb/TWIN_Asset_Token_Logo_iMSTR_CG.png?1749054879"
-    },
-    {
-      "chainId": 80094,
-      "address": "0x6d4223dae2a8744a85a6d44e97f3f61679f87ee6",
-      "name": "USDbr",
-      "symbol": "USDBR",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/55096/thumb/USDbr.png?1743699568"
-    },
-    {
-      "chainId": 80094,
       "address": "0x549943e04f40284185054145c6e4e9568c1d3241",
       "name": "Stargate Bridged USDC  Berachain ",
       "symbol": "USDCE",
@@ -64,11 +40,35 @@
     },
     {
       "chainId": 80094,
-      "address": "0xd2c41bf4033a83c0fc3a7f58a392bf37d6dcdb58",
-      "name": "OpenState BGT",
-      "symbol": "OSBGT",
+      "address": "0x0555e30da8f98308edb960aa94c0db47230d2b9c",
+      "name": "Berachain Bridged WBTC  Berachain ",
+      "symbol": "WBTC",
+      "decimals": 8,
+      "logoURI": "https://assets.coingecko.com/coins/images/54335/thumb/wbtc.jpg?1739334808"
+    },
+    {
+      "chainId": 80094,
+      "address": "0x688e72142674041f8f6af4c808a4045ca1d6ac82",
+      "name": "BYUSD",
+      "symbol": "BYUSD",
+      "decimals": 6,
+      "logoURI": "https://assets.coingecko.com/coins/images/67819/thumb/byusd.png?1753942382"
+    },
+    {
+      "chainId": 80094,
+      "address": "0x804cf700de1e18f2411bd05aad5fa10d60e1900f",
+      "name": "aSUGAR",
+      "symbol": "ASUGAR",
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/67157/thumb/osbgt.jpg?1751938475"
+      "logoURI": "https://assets.coingecko.com/coins/images/66395/thumb/aSUGAR.png?1749286870"
+    },
+    {
+      "chainId": 80094,
+      "address": "0xe5a08b6f213a7c530e03ad40522befcbaa1a7f8c",
+      "name": "TWIN ASSET TOKEN iMSTR",
+      "symbol": "IMSTR",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/66280/thumb/TWIN_Asset_Token_Logo_iMSTR_CG.png?1749054879"
     },
     {
       "chainId": 80094,
@@ -96,19 +96,19 @@
     },
     {
       "chainId": 80094,
-      "address": "0xbaadcc2962417c01af99fb2b7c75706b9bd6babe",
-      "name": "Liquid BGT",
-      "symbol": "LBGT",
+      "address": "0xd2c41bf4033a83c0fc3a7f58a392bf37d6dcdb58",
+      "name": "OpenState BGT",
+      "symbol": "OSBGT",
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/54878/thumb/lbgt.png?1742327918"
+      "logoURI": "https://assets.coingecko.com/coins/images/67157/thumb/osbgt.jpg?1751938475"
     },
     {
       "chainId": 80094,
-      "address": "0x804cf700de1e18f2411bd05aad5fa10d60e1900f",
-      "name": "aSUGAR",
-      "symbol": "ASUGAR",
+      "address": "0x0f81001ef0a83ecce5ccebf63eb302c70a39a654",
+      "name": "Dolomite",
+      "symbol": "DOLO",
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/66395/thumb/aSUGAR.png?1749286870"
+      "logoURI": "https://assets.coingecko.com/coins/images/54710/thumb/DOLO-small.png?1745398535"
     },
     {
       "chainId": 80094,
@@ -141,14 +141,6 @@
       "symbol": "AAPL",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/66276/thumb/TWIN_Asset_Token_Logo_AAPL_CG.png?1749050463"
-    },
-    {
-      "chainId": 80094,
-      "address": "0x0f81001ef0a83ecce5ccebf63eb302c70a39a654",
-      "name": "Dolomite",
-      "symbol": "DOLO",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/54710/thumb/DOLO-small.png?1745398535"
     },
     {
       "chainId": 80094,
@@ -229,6 +221,14 @@
       "symbol": "NOME",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/55095/thumb/Nome_400x400.jpg?1743699482"
+    },
+    {
+      "chainId": 80094,
+      "address": "0xbaadcc2962417c01af99fb2b7c75706b9bd6babe",
+      "name": "Liquid BGT",
+      "symbol": "LBGT",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/54878/thumb/lbgt.png?1742327918"
     },
     {
       "chainId": 80094,
@@ -365,6 +365,14 @@
       "symbol": "WIZZ",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/55049/thumb/20250402-155339.png?1743583075"
+    },
+    {
+      "chainId": 80094,
+      "address": "0x656b95e550c07a9ffe548bd4085c72418ceb1dba",
+      "name": "Berachain Governance Token",
+      "symbol": "BGT",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/54193/thumb/BGT.png?1738742690"
     },
     {
       "chainId": 80094,
@@ -569,7 +577,7 @@
   ],
   "version": {
     "major": 4,
-    "minor": 3,
+    "minor": 4,
     "patch": 0
   }
 }
