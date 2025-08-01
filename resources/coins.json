@@ -9725,14 +9725,6 @@
     }
   },
   {
-    "id": "astherus-staked-btc",
-    "symbol": "asbtc",
-    "name": "Aster Staked BTC",
-    "platforms": {
-      "binance-smart-chain": "0x184b72289c0992bdf96751354680985a7c4825d6"
-    }
-  },
-  {
     "id": "astherus-staked-cake",
     "symbol": "ascake",
     "name": "Aster Staked CAKE",
@@ -19448,6 +19440,15 @@
     }
   },
   {
+    "id": "bnpl-pay",
+    "symbol": "bnpl",
+    "name": "BNPL Pay",
+    "platforms": {
+      "ethereum": "0x84d821f7fbdd595c4c4a50842913e6b1e07d7a53",
+      "avalanche": "0x1263fea931b86f3e8ce8afbf29f66631b7be9347"
+    }
+  },
+  {
     "id": "bnsd-finance",
     "symbol": "bnsd",
     "name": "BNSD Finance",
@@ -20854,14 +20855,6 @@
       "base": "0x0002bcdaf53f4889bf2f43a3252d7c03fe1b80bc",
       "ethereum": "0xff33a6b3dc0127862eedd3978609404b22298a54",
       "binance-smart-chain": "0x0002bcdaf53f4889bf2f43a3252d7c03fe1b80bc"
-    }
-  },
-  {
-    "id": "bosagora",
-    "symbol": "boa",
-    "name": "BOSagora [OLD]",
-    "platforms": {
-      "ethereum": "0x746dda2ea243400d5a63e0700f190ab79f06489e"
     }
   },
   {
@@ -46618,15 +46611,6 @@
     }
   },
   {
-    "id": "exorde",
-    "symbol": "exd",
-    "name": "Exorde",
-    "platforms": {
-      "ethereum": "0x02de007d412266a2e0fa9287c103474170f06560",
-      "skale": "0xcfeba92bd362b2f76fc30a89c433de50a1d62bca"
-    }
-  },
-  {
     "id": "exosama-network",
     "symbol": "sama",
     "name": "Moonsama",
@@ -57309,8 +57293,8 @@
     "symbol": "gun",
     "name": "Gunz",
     "platforms": {
-      "solana": "3jUf2RTyXp867piSB2dt8uUcNiLDW58asjGtXkRAkBbe",
-      "avalanche": "0x26debd39d5ed069770406fca10a0e4f8d2c743eb"
+      "avalanche": "0x26debd39d5ed069770406fca10a0e4f8d2c743eb",
+      "solana": "3jUf2RTyXp867piSB2dt8uUcNiLDW58asjGtXkRAkBbe"
     }
   },
   {
@@ -57604,14 +57588,6 @@
     "platforms": {
       "ethereum": "0x2a7e415c169ce3a580c6f374dc26f6aaad1eccfe",
       "shibarium": "0xabe27f4d040b448fba19e387b5f5707a75c4a66b"
-    }
-  },
-  {
-    "id": "hachi-inu",
-    "symbol": "hachi inu",
-    "name": "Hachi Inu",
-    "platforms": {
-      "binance-smart-chain": "0xab1a91541e38999622dcb5d7c744484c1bf2c3a7"
     }
   },
   {
@@ -62761,14 +62737,6 @@
     "name": "IMMORTAL.COM",
     "platforms": {
       "solana": "AnnyAUDoKXn5f7hWDsywsqchv1pTMu5JiPK8WcWqpump"
-    }
-  },
-  {
-    "id": "immortaldao",
-    "symbol": "immo",
-    "name": "ImmortalDAO",
-    "platforms": {
-      "celo": "0xe685d21b7b0fc7a248a6a8e03b8db22d013aa2ee"
     }
   },
   {
@@ -69866,30 +69834,6 @@
     "name": "Kroma",
     "platforms": {
       "kroma": "0x25500000d700bbe27104577cccce8eabcc96c8ad"
-    }
-  },
-  {
-    "id": "kroma-bridged-usdc-kroma",
-    "symbol": "usdc",
-    "name": "Kroma Bridged USDC (Kroma)",
-    "platforms": {
-      "kroma": "0x0257e4d92c00c9efcca1d641b224d7d09cfa4522"
-    }
-  },
-  {
-    "id": "kroma-bridged-usdt-kroma",
-    "symbol": "usdt",
-    "name": "Kroma Bridged USDT (Kroma)",
-    "platforms": {
-      "kroma": "0x0cf7c2a584988871b654bd79f96899e4cd6c41c0"
-    }
-  },
-  {
-    "id": "kroma-staked-eth",
-    "symbol": "speth",
-    "name": "Kroma Staked ETH",
-    "platforms": {
-      "kroma": "0x61e0d34b5206fa8005ec1de8000df9b9ddee23db"
     }
   },
   {
@@ -85201,14 +85145,6 @@
     "name": "Multichain Bridged WBTC (Energi)",
     "platforms": {
       "energi": "0x29a791703e5a5a8d1578f8611b4d3691377cebc0"
-    }
-  },
-  {
-    "id": "multichain-bridged-wbtc-milkomeda",
-    "symbol": "wbtc",
-    "name": "Multichain Bridged WBTC (Milkomeda)",
-    "platforms": {
-      "milkomeda-cardano": "0x6ab6d61428fde76768d7b45d8bfeec19c6ef91a8"
     }
   },
   {
@@ -130037,14 +129973,6 @@
     }
   },
   {
-    "id": "tyrel-derpden",
-    "symbol": "tyrel",
-    "name": "Tyrel Derpden",
-    "platforms": {
-      "solana": "6tHCkrCTyqZQfyG9B73HFKcjixQSi3ezWW5E4sfc7UxT"
-    }
-  },
-  {
     "id": "tyz-token",
     "symbol": "tyz",
     "name": "TYZ Token",
@@ -139575,14 +139503,6 @@
     "name": "Wrapped Ethereum (Sollet)",
     "platforms": {
       "solana": "2FPyTwcZLUg1MDrwsyoP4D6s1tM7hAkHYRjkNb5w6Pxk"
-    }
-  },
-  {
-    "id": "wrapped-ether-kroma",
-    "symbol": "weth",
-    "name": "Wrapped Ether (Kroma)",
-    "platforms": {
-      "kroma": "0x4200000000000000000000000000000000000001"
     }
   },
   {
