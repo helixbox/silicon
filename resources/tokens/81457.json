@@ -4,24 +4,8 @@
   "keywords": [
     "defi"
   ],
-  "timestamp": "2025-07-31T11:00:23.784+00:00",
+  "timestamp": "2025-08-03T10:00:22.053+00:00",
   "tokens": [
-    {
-      "chainId": 81457,
-      "address": "0x5ffd9ebd27f2fcab044c0f0a26a45cb62fa29c06",
-      "name": "PacMoon",
-      "symbol": "PAC",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/36459/thumb/pacmoon.png?1711501114"
-    },
-    {
-      "chainId": 81457,
-      "address": "0x30c7b9f4cd589203d250ad165651e82e338cb5bb",
-      "name": "Few Wrapped Juice",
-      "symbol": "FWJUICE",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/55677/thumb/juice-logo.png?1746978537"
-    },
     {
       "chainId": 81457,
       "address": "0x67fa2887914fa3729e9eed7630294fe124f417a0",
@@ -40,27 +24,27 @@
     },
     {
       "chainId": 81457,
-      "address": "0x35b1cd11b684c7a9e1aa8d34e6b2a500310ec35c",
-      "name": "Few Wrapped Orbit Protocol",
-      "symbol": "FWORBIT",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/55676/thumb/orbit-protocol-logo.png?1746978419"
-    },
-    {
-      "chainId": 81457,
-      "address": "0xb1a5700fa2358173fe465e6ea4ff52e36e88e2ad",
-      "name": "Blast",
-      "symbol": "BLAST",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/35494/thumb/Blast.jpg?1719385662"
-    },
-    {
-      "chainId": 81457,
       "address": "0x818a92bc81aad0053d72ba753fb5bc3d0c5c0923",
       "name": "Juice Finance",
       "symbol": "JUICE",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/36503/thumb/juice-logo-purple-200x200_%281%29.png?1711619018"
+    },
+    {
+      "chainId": 81457,
+      "address": "0x59c159e5a4f4d1c86f7abdc94b7907b7473477f6",
+      "name": "BlastUP",
+      "symbol": "BLASTUP",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/36054/thumb/blastup_icon_logo.png?1710403683"
+    },
+    {
+      "chainId": 81457,
+      "address": "0x5ffd9ebd27f2fcab044c0f0a26a45cb62fa29c06",
+      "name": "PacMoon",
+      "symbol": "PAC",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/36459/thumb/pacmoon.png?1711501114"
     },
     {
       "chainId": 81457,
@@ -72,27 +56,11 @@
     },
     {
       "chainId": 81457,
-      "address": "0x9306fc95b8becdc9166112fd6cf86b39e2335f09",
-      "name": "DigiCask Token",
-      "symbol": "DCASK",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/36591/thumb/logo-black-removebg-preview.png?1720047847"
-    },
-    {
-      "chainId": 81457,
       "address": "0x52f847356b38720b55ee18cb3e094ca11c85a192",
       "name": "Fenix",
       "symbol": "FNX",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/51406/thumb/Orange_logo.png?1731087837"
-    },
-    {
-      "chainId": 81457,
-      "address": "0x59c159e5a4f4d1c86f7abdc94b7907b7473477f6",
-      "name": "BlastUP",
-      "symbol": "BLASTUP",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/36054/thumb/blastup_icon_logo.png?1710403683"
     },
     {
       "chainId": 81457,
@@ -112,11 +80,19 @@
     },
     {
       "chainId": 81457,
-      "address": "0x8c3ede5db70719ab9191655994880b088dd03917",
-      "name": "yYOLO",
-      "symbol": "YYOLO",
-      "decimals": 24,
-      "logoURI": "https://assets.coingecko.com/coins/images/38866/thumb/yYOLO.png?1719277542"
+      "address": "0xb1a5700fa2358173fe465e6ea4ff52e36e88e2ad",
+      "name": "Blast",
+      "symbol": "BLAST",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/35494/thumb/Blast.jpg?1719385662"
+    },
+    {
+      "chainId": 81457,
+      "address": "0x35b1cd11b684c7a9e1aa8d34e6b2a500310ec35c",
+      "name": "Few Wrapped Orbit Protocol",
+      "symbol": "FWORBIT",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/55676/thumb/orbit-protocol-logo.png?1746978419"
     },
     {
       "chainId": 81457,
@@ -141,6 +117,30 @@
       "symbol": "USD+",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/39627/thumb/usd_plus.png?1723181444"
+    },
+    {
+      "chainId": 81457,
+      "address": "0x9306fc95b8becdc9166112fd6cf86b39e2335f09",
+      "name": "DigiCask Token",
+      "symbol": "DCASK",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/36591/thumb/logo-black-removebg-preview.png?1720047847"
+    },
+    {
+      "chainId": 81457,
+      "address": "0xb0de93a54da8a2cfcde44a06f797ab2fb9d39fb8",
+      "name": "Few Wrapped Duo ETH",
+      "symbol": "FWDETH",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/55680/thumb/duo-eth-logo.png?1746978931"
+    },
+    {
+      "chainId": 81457,
+      "address": "0x30c7b9f4cd589203d250ad165651e82e338cb5bb",
+      "name": "Few Wrapped Juice",
+      "symbol": "FWJUICE",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/55677/thumb/juice-logo.png?1746978537"
     },
     {
       "chainId": 81457,
@@ -184,11 +184,11 @@
     },
     {
       "chainId": 81457,
-      "address": "0xb0de93a54da8a2cfcde44a06f797ab2fb9d39fb8",
-      "name": "Few Wrapped Duo ETH",
-      "symbol": "FWDETH",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/55680/thumb/duo-eth-logo.png?1746978931"
+      "address": "0x8c3ede5db70719ab9191655994880b088dd03917",
+      "name": "yYOLO",
+      "symbol": "YYOLO",
+      "decimals": 24,
+      "logoURI": "https://assets.coingecko.com/coins/images/38866/thumb/yYOLO.png?1719277542"
     },
     {
       "chainId": 81457,
@@ -253,14 +253,6 @@
       "symbol": "YETH",
       "decimals": 24,
       "logoURI": "https://assets.coingecko.com/coins/images/38871/thumb/yETH.png?1719286818"
-    },
-    {
-      "chainId": 81457,
-      "address": "0x6cc87c5ab2cfac0f2d582286f5ba69ca555fecb0",
-      "name": "AIRcoin On Blast",
-      "symbol": "AIR",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/38647/thumb/IMG_3988.png?1718213220"
     },
     {
       "chainId": 81457,
@@ -1191,7 +1183,7 @@
     }
   ],
   "version": {
-    "major": 36,
+    "major": 37,
     "minor": 0,
     "patch": 0
   }
