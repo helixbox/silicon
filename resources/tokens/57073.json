@@ -4,16 +4,8 @@
   "keywords": [
     "defi"
   ],
-  "timestamp": "2025-07-11T09:01:14.551+00:00",
+  "timestamp": "2025-08-03T13:01:18.619+00:00",
   "tokens": [
-    {
-      "chainId": 57073,
-      "address": "0xca5f2ccbd9c40b32657df57c716de44237f80f05",
-      "name": "Kraken",
-      "symbol": "KRAKEN",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/52919/thumb/kraken.jpg?1734685461"
-    },
     {
       "chainId": 57073,
       "address": "0x53eb0098d09b8d1008f382bbd2a5d4f649111710",
@@ -21,6 +13,14 @@
       "symbol": "WATCH",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/67089/thumb/GkveKRgXcAESEPj_%281%29.png?1751702681"
+    },
+    {
+      "chainId": 57073,
+      "address": "0xca5f2ccbd9c40b32657df57c716de44237f80f05",
+      "name": "Kraken",
+      "symbol": "KRAKEN",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/52919/thumb/kraken.jpg?1734685461"
     },
     {
       "chainId": 57073,
@@ -32,19 +32,11 @@
     },
     {
       "chainId": 57073,
-      "address": "0xa802bccd14f7e78e48ffe0c9cf9ad0273c77d4b0",
-      "name": "Ink USDT Veda Vault",
-      "symbol": "INKEDUSDT",
-      "decimals": 6,
-      "logoURI": "https://assets.coingecko.com/coins/images/66510/thumb/usdt.png?1749593577"
-    },
-    {
-      "chainId": 57073,
-      "address": "0x0c5e2d1c98cd265c751e02f8f3293bc5764f9111",
-      "name": "Shroomy",
-      "symbol": "SHROOMY",
+      "address": "0x7160644365e7011fa96ce60706743b434df32690",
+      "name": "KEK",
+      "symbol": "KEK",
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/54002/thumb/1000000182.jpg?1737942213"
+      "logoURI": "https://assets.coingecko.com/coins/images/67904/thumb/200x200.jpg?1754222647"
     },
     {
       "chainId": 57073,
@@ -56,11 +48,27 @@
     },
     {
       "chainId": 57073,
+      "address": "0x0c5e2d1c98cd265c751e02f8f3293bc5764f9111",
+      "name": "Shroomy",
+      "symbol": "SHROOMY",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/54002/thumb/1000000182.jpg?1737942213"
+    },
+    {
+      "chainId": 57073,
       "address": "0xd642b49d10cc6e1bc1c6945725667c35e0875f22",
       "name": "Purple",
       "symbol": "PURPLE",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/53880/thumb/ink_purple.png?1738227741"
+    },
+    {
+      "chainId": 57073,
+      "address": "0xa802bccd14f7e78e48ffe0c9cf9ad0273c77d4b0",
+      "name": "Ink USDT Veda Vault",
+      "symbol": "INKEDUSDT",
+      "decimals": 6,
+      "logoURI": "https://assets.coingecko.com/coins/images/66510/thumb/usdt.png?1749593577"
     },
     {
       "chainId": 57073,
@@ -129,7 +137,7 @@
   ],
   "version": {
     "major": 3,
-    "minor": 0,
+    "minor": 1,
     "patch": 0
   }
 }
