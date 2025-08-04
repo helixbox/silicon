@@ -12503,6 +12503,14 @@
     }
   },
   {
+    "id": "bachi-on-base",
+    "symbol": "bachi",
+    "name": "Bachi on Base",
+    "platforms": {
+      "base": "0xeecc15f24b8fe65cfd18d4095f91a7adefdd53d5"
+    }
+  },
+  {
     "id": "backbone-labs-staked-juno",
     "symbol": "bjuno",
     "name": "Backbone Labs Staked JUNO",
@@ -32824,9 +32832,15 @@
   {
     "id": "crypto-hub",
     "symbol": "hub",
-    "name": "Crypto Hub",
+    "name": "Crypto Hub[Old]",
+    "platforms": {}
+  },
+  {
+    "id": "crypto-hub-2",
+    "symbol": "hub",
+    "name": "CryptoHub",
     "platforms": {
-      "ethereum": "0x6923f9b683111dcc0e20124e9a031deeae5dad93"
+      "base": "0xd9dfaf47f491161898ca1baeecacdc5bf9ef082c"
     }
   },
   {
@@ -34637,6 +34651,15 @@
     "name": "DarkShield",
     "platforms": {
       "binance-smart-chain": "0x121235cff4c59eec80b14c1d38b44e7de3a18287"
+    }
+  },
+  {
+    "id": "darkstar",
+    "symbol": "dark",
+    "name": "DarkStar",
+    "platforms": {
+      "binance-smart-chain": "0xb05f4747eb3d18a3fa4aa3e5c627f02ccc70d005",
+      "klay-token": "0x06053d778ea9200605bd3bcec374368fbcc0e3d6"
     }
   },
   {
@@ -73390,6 +73413,14 @@
     "name": "Lion Scrub Money",
     "platforms": {
       "kava": "0x990e157fc8a492c28f5b50022f000183131b9026"
+    }
+  },
+  {
+    "id": "liora",
+    "symbol": "liora",
+    "name": "Liora",
+    "platforms": {
+      "tron": "TW8617uDAUBe3mGeGZo5mkaV8RhN6YfozN"
     }
   },
   {
@@ -132500,7 +132531,8 @@
     "symbol": "useless",
     "name": "Useless Coin",
     "platforms": {
-      "solana": "Dz9mQ9NzkBcCsuGPFJ3r1bS4wgqKMHBPiVuniW8Mbonk"
+      "solana": "Dz9mQ9NzkBcCsuGPFJ3r1bS4wgqKMHBPiVuniW8Mbonk",
+      "binance-smart-chain": "0xba38b3c706f7a515ff7c8db04daa0a134ec46d2b"
     }
   },
   {
@@ -134961,12 +134993,12 @@
     "name": "VNX EURO",
     "platforms": {
       "xrp": "VEUR-rLPtwF4FZi8bNVmbQ8JgoDUooozhwMNXr3",
-      "celo": "0x9346f43c1588b6df1d52bdd6bf846064f92d9cba",
       "tezos": "KT1FenS7BCUjn1otfFyfrfxguiGnL4UTF3aG",
       "internet-computer": "wu6g4-6qaaa-aaaan-qmrza-cai",
+      "arbitrum-one": "0x4883c8f0529f37e40ebea870f3c13cdfad5d01f8",
+      "celo": "0x9346f43c1588b6df1d52bdd6bf846064f92d9cba",
       "q-mainnet": "0x513f99dee650f529d7c65bb5679f092b64003520",
       "fraxtal": "0x4c0bd74da8237c08840984fdb33a84b4586aaee6",
-      "arbitrum-one": "0x4883c8f0529f37e40ebea870f3c13cdfad5d01f8",
       "base": "0x4ed9df25d38795a47f52614126e47f564d37f347",
       "stellar": "GDXLSLCOPPHTWOQXLLKSVN4VN3G67WD2ENU7UMVAROEYVJLSPSEWXIZN",
       "avalanche": "0x7678e162f38ec9ef2bfd1d0aaf9fd93355e5fa0b",
