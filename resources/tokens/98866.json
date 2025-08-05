@@ -4,8 +4,16 @@
   "keywords": [
     "defi"
   ],
-  "timestamp": "2025-07-31T07:00:51.807+00:00",
+  "timestamp": "2025-08-05T14:01:03.098+00:00",
   "tokens": [
+    {
+      "chainId": 98866,
+      "address": "0x39d1f90ef89c52dda276194e9a832b484ee45574",
+      "name": "Plume Staked ETH",
+      "symbol": "PETH",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/67514/thumb/peth.png?1753068541"
+    },
     {
       "chainId": 98866,
       "address": "0xdea149f84859d1ec50480c209b71bffa482b0530",
@@ -16,35 +24,11 @@
     },
     {
       "chainId": 98866,
-      "address": "0xda6087e69c51e7d31b6dbad276a3c44703dfdcad",
-      "name": "Stargate Bridged USDT  Plume ",
-      "symbol": "USDT",
+      "address": "0x78add880a697070c1e765ac44d65323a0dcce913",
+      "name": "Stargate Bridged USDC  Plume ",
+      "symbol": "USDCE",
       "decimals": 6,
-      "logoURI": "https://assets.coingecko.com/coins/images/67009/thumb/usdt.jpg?1751459215"
-    },
-    {
-      "chainId": 98866,
-      "address": "0x15c09c0ffb3717325e60a564d1acfbfe999c2f88",
-      "name": "Dinari SRLN",
-      "symbol": "SRLND",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/66390/thumb/d-token-200.png?1749284651"
-    },
-    {
-      "chainId": 98866,
-      "address": "0x5107272921a750a20d492fb41acf0b770b09a624",
-      "name": "Mineral Vault I Security Token",
-      "symbol": "MNRL",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/66290/thumb/mineral-vault.png?1749109942"
-    },
-    {
-      "chainId": 98866,
-      "address": "0xca59ca09e5602fae8b629dee83ffa819741f14be",
-      "name": "Plume Bridged WETH  Plume ",
-      "symbol": "WETH",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/67515/thumb/weth_2.jpg?1753069298"
+      "logoURI": "https://assets.coingecko.com/coins/images/66243/thumb/USDC_Token.png?1748919033"
     },
     {
       "chainId": 98866,
@@ -64,19 +48,35 @@
     },
     {
       "chainId": 98866,
-      "address": "0x78add880a697070c1e765ac44d65323a0dcce913",
-      "name": "Stargate Bridged USDC  Plume ",
-      "symbol": "USDCE",
-      "decimals": 6,
-      "logoURI": "https://assets.coingecko.com/coins/images/66243/thumb/USDC_Token.png?1748919033"
+      "address": "0xca59ca09e5602fae8b629dee83ffa819741f14be",
+      "name": "Plume Bridged WETH  Plume ",
+      "symbol": "WETH",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/67515/thumb/weth_2.jpg?1753069298"
     },
     {
       "chainId": 98866,
-      "address": "0x39d1f90ef89c52dda276194e9a832b484ee45574",
-      "name": "Plume Staked ETH",
-      "symbol": "PETH",
+      "address": "0x5107272921a750a20d492fb41acf0b770b09a624",
+      "name": "Mineral Vault I Security Token",
+      "symbol": "MNRL",
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/67514/thumb/peth.png?1753068541"
+      "logoURI": "https://assets.coingecko.com/coins/images/66290/thumb/mineral-vault.png?1749109942"
+    },
+    {
+      "chainId": 98866,
+      "address": "0x15c09c0ffb3717325e60a564d1acfbfe999c2f88",
+      "name": "Dinari SRLN",
+      "symbol": "SRLND",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/66390/thumb/d-token-200.png?1749284651"
+    },
+    {
+      "chainId": 98866,
+      "address": "0xda6087e69c51e7d31b6dbad276a3c44703dfdcad",
+      "name": "Stargate Bridged USDT  Plume ",
+      "symbol": "USDT",
+      "decimals": 6,
+      "logoURI": "https://assets.coingecko.com/coins/images/67009/thumb/usdt.jpg?1751459215"
     },
     {
       "chainId": 98866,
@@ -261,11 +261,19 @@
       "symbol": "SSUPERUSD",
       "decimals": 6,
       "logoURI": "https://assets.coingecko.com/coins/images/67821/thumb/sSuperUSD_200x200.png?1753943152"
+    },
+    {
+      "chainId": 98866,
+      "address": "0x4772d2e014f9fc3a820c444e3313968e9a5c8121",
+      "name": "YieldFi yToken",
+      "symbol": "YUSD",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/53607/thumb/yUSD.png?1739862886"
     }
   ],
   "version": {
     "major": 0,
-    "minor": 19,
+    "minor": 20,
     "patch": 0
   }
 }

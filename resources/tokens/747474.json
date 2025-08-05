@@ -4,7 +4,7 @@
   "keywords": [
     "defi"
   ],
-  "timestamp": "2025-08-02T05:00:04.699+00:00",
+  "timestamp": "2025-08-05T14:00:08.632+00:00",
   "tokens": [
     {
       "chainId": 747474,
@@ -13,6 +13,14 @@
       "symbol": "VBETH",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/67044/thumb/eth1.png?1751581519"
+    },
+    {
+      "chainId": 747474,
+      "address": "0x203a662b0bd271a6ed5a60edfbd04bfce608fd36",
+      "name": "VaultBridge Bridged USDC  Katana ",
+      "symbol": "VBUSDC",
+      "decimals": 6,
+      "logoURI": "https://assets.coingecko.com/coins/images/67043/thumb/usdc1.png?1751581304"
     },
     {
       "chainId": 747474,
@@ -48,14 +56,6 @@
     },
     {
       "chainId": 747474,
-      "address": "0x203a662b0bd271a6ed5a60edfbd04bfce608fd36",
-      "name": "VaultBridge Bridged USDC  Katana ",
-      "symbol": "VBUSDC",
-      "decimals": 6,
-      "logoURI": "https://assets.coingecko.com/coins/images/67043/thumb/usdc1.png?1751581304"
-    },
-    {
-      "chainId": 747474,
       "address": "0x00000000efe302beaa2b3e6e1b18d08d69a9012a",
       "name": "AUSD",
       "symbol": "AUSD",
@@ -77,11 +77,19 @@
       "symbol": "USOL",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/39987/thumb/UA-SOL_1.png?1725027946"
+    },
+    {
+      "chainId": 747474,
+      "address": "0x4772d2e014f9fc3a820c444e3313968e9a5c8121",
+      "name": "YieldFi yToken",
+      "symbol": "YUSD",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/53607/thumb/yUSD.png?1739862886"
     }
   ],
   "version": {
     "major": 0,
-    "minor": 5,
+    "minor": 6,
     "patch": 0
   }
 }
