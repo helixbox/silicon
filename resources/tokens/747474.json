@@ -4,7 +4,7 @@
   "keywords": [
     "defi"
   ],
-  "timestamp": "2025-08-05T16:00:05.804+00:00",
+  "timestamp": "2025-08-07T07:00:05.070+00:00",
   "tokens": [
     {
       "chainId": 747474,
@@ -16,11 +16,19 @@
     },
     {
       "chainId": 747474,
-      "address": "0x203a662b0bd271a6ed5a60edfbd04bfce608fd36",
-      "name": "VaultBridge Bridged USDC  Katana ",
-      "symbol": "VBUSDC",
+      "address": "0x2dca96907fde857dd3d816880a0df407eeb2d2f2",
+      "name": "VaultBridge Bridged USDT  Katana ",
+      "symbol": "VBUSDT",
       "decimals": 6,
-      "logoURI": "https://assets.coingecko.com/coins/images/67043/thumb/usdc1.png?1751581304"
+      "logoURI": "https://assets.coingecko.com/coins/images/67046/thumb/usdt.png?1751581786"
+    },
+    {
+      "chainId": 747474,
+      "address": "0xee7d8bcfb72bc1880d0cf19822eb0a2e6577ab62",
+      "name": "VaultBridge Bridged ETH  Katana ",
+      "symbol": "VBETH",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/67044/thumb/eth1.png?1751581519"
     },
     {
       "chainId": 747474,
@@ -32,11 +40,11 @@
     },
     {
       "chainId": 747474,
-      "address": "0x2dca96907fde857dd3d816880a0df407eeb2d2f2",
-      "name": "VaultBridge Bridged USDT  Katana ",
-      "symbol": "VBUSDT",
+      "address": "0x203a662b0bd271a6ed5a60edfbd04bfce608fd36",
+      "name": "VaultBridge Bridged USDC  Katana ",
+      "symbol": "VBUSDC",
       "decimals": 6,
-      "logoURI": "https://assets.coingecko.com/coins/images/67046/thumb/usdt.png?1751581786"
+      "logoURI": "https://assets.coingecko.com/coins/images/67043/thumb/usdc1.png?1751581304"
     },
     {
       "chainId": 747474,
@@ -45,14 +53,6 @@
       "symbol": "POL",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/67279/thumb/polygon.jpg?1752293315"
-    },
-    {
-      "chainId": 747474,
-      "address": "0xee7d8bcfb72bc1880d0cf19822eb0a2e6577ab62",
-      "name": "VaultBridge Bridged ETH  Katana ",
-      "symbol": "VBETH",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/67044/thumb/eth1.png?1751581519"
     },
     {
       "chainId": 747474,
@@ -85,11 +85,27 @@
       "symbol": "YUSD",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/53607/thumb/yUSD.png?1739862886"
+    },
+    {
+      "chainId": 747474,
+      "address": "0x09d4214c03d01f49544c0448dbe3a27f768f2b34",
+      "name": "Reservoir rUSD",
+      "symbol": "RUSD",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/54117/thumb/rusd_bera2.png?1738311629"
+    },
+    {
+      "chainId": 747474,
+      "address": "0x4809010926aec940b550d34a46a52739f996d75d",
+      "name": "Wrapped Savings rUSD",
+      "symbol": "WSRUSD",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/66163/thumb/wsrUSD.png?1748500965"
     }
   ],
   "version": {
     "major": 0,
-    "minor": 6,
+    "minor": 7,
     "patch": 0
   }
 }

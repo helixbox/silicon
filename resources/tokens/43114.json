@@ -4,16 +4,8 @@
   "keywords": [
     "defi"
   ],
-  "timestamp": "2025-08-07T04:00:58.878+00:00",
+  "timestamp": "2025-08-07T06:01:01.857+00:00",
   "tokens": [
-    {
-      "chainId": 43114,
-      "address": "0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7",
-      "name": "Wrapped AVAX",
-      "symbol": "WAVAX",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/15075/thumb/wrapped-avax.png?1696514734"
-    },
     {
       "chainId": 43114,
       "address": "0xf3dd4e0a1db7c5dcbf3b225698cb6a916aeb24d9",
@@ -504,14 +496,6 @@
     },
     {
       "chainId": 43114,
-      "address": "0x45c13620b55c35a5f539d26e88247011eb10fdbd",
-      "name": "HurricaneSwap",
-      "symbol": "HCT",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/18912/thumb/hurricane.PNG?1696518369"
-    },
-    {
-      "chainId": 43114,
       "address": "0xbbaaa0420d474b34be197f95a323c2ff3829e811",
       "name": "LOD3 Token",
       "symbol": "LOD3",
@@ -541,6 +525,22 @@
       "symbol": "GRAMS",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/34370/thumb/grams.png?1704795270"
+    },
+    {
+      "chainId": 43114,
+      "address": "0x580d5e1399157fd0d58218b7a514b60974f2ab01",
+      "name": "Staked UTY",
+      "symbol": "YUTY",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/67386/thumb/yuty.jpg?1752630041"
+    },
+    {
+      "chainId": 43114,
+      "address": "0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7",
+      "name": "Wrapped AVAX",
+      "symbol": "WAVAX",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/15075/thumb/wrapped-avax.png?1696514734"
     },
     {
       "chainId": 43114,
@@ -808,14 +808,6 @@
     },
     {
       "chainId": 43114,
-      "address": "0x420fca0121dc28039145009570975747295f2329",
-      "name": "Coq Inu",
-      "symbol": "COQ",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/33511/thumb/Coin_CoqInu_1200px.png?1702041053"
-    },
-    {
-      "chainId": 43114,
       "address": "0xae6241f806f0e1af82bf9b16b83447ab1f62283e",
       "name": "Solar Dex",
       "symbol": "SOLAR",
@@ -1053,6 +1045,14 @@
       "symbol": "YEET",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/52519/thumb/LOGO_%281%29.png?1733501730"
+    },
+    {
+      "chainId": 43114,
+      "address": "0x45c13620b55c35a5f539d26e88247011eb10fdbd",
+      "name": "HurricaneSwap",
+      "symbol": "HCT",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/18912/thumb/hurricane.PNG?1696518369"
     },
     {
       "chainId": 43114,
@@ -1520,14 +1520,6 @@
     },
     {
       "chainId": 43114,
-      "address": "0x580d5e1399157fd0d58218b7a514b60974f2ab01",
-      "name": "Staked UTY",
-      "symbol": "YUTY",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/67386/thumb/yuty.jpg?1752630041"
-    },
-    {
-      "chainId": 43114,
       "address": "0x35a7341ae0adb31cb210524d4d02563c061feac5",
       "name": "Woof",
       "symbol": "WOOF",
@@ -1557,6 +1549,14 @@
       "symbol": "EGG",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/21811/thumb/EggToken_200_Transparent.png?1696521162"
+    },
+    {
+      "chainId": 43114,
+      "address": "0x420fca0121dc28039145009570975747295f2329",
+      "name": "Coq Inu",
+      "symbol": "COQ",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/33511/thumb/Coin_CoqInu_1200px.png?1702041053"
     },
     {
       "chainId": 43114,
@@ -2381,6 +2381,22 @@
       "symbol": "ZCHF",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/37150/thumb/Coin_Logo_Frankencoin_1024px.png?1728679791"
+    },
+    {
+      "chainId": 43114,
+      "address": "0x09d4214c03d01f49544c0448dbe3a27f768f2b34",
+      "name": "Reservoir rUSD",
+      "symbol": "RUSD",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/54117/thumb/rusd_bera2.png?1738311629"
+    },
+    {
+      "chainId": 43114,
+      "address": "0x4809010926aec940b550d34a46a52739f996d75d",
+      "name": "Wrapped Savings rUSD",
+      "symbol": "WSRUSD",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/66163/thumb/wsrUSD.png?1748500965"
     },
     {
       "chainId": 43114,
@@ -4025,7 +4041,7 @@
   ],
   "version": {
     "major": 78,
-    "minor": 10,
+    "minor": 11,
     "patch": 0
   }
 }

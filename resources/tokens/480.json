@@ -4,7 +4,7 @@
   "keywords": [
     "defi"
   ],
-  "timestamp": "2025-07-10T11:00:37.071+00:00",
+  "timestamp": "2025-08-07T06:00:41.642+00:00",
   "tokens": [
     {
       "chainId": 480,
@@ -109,11 +109,27 @@
       "symbol": "WLD",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/31069/thumb/worldcoin.jpeg?1696529903"
+    },
+    {
+      "chainId": 480,
+      "address": "0x09d4214c03d01f49544c0448dbe3a27f768f2b34",
+      "name": "Reservoir rUSD",
+      "symbol": "RUSD",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/54117/thumb/rusd_bera2.png?1738311629"
+    },
+    {
+      "chainId": 480,
+      "address": "0x4809010926aec940b550d34a46a52739f996d75d",
+      "name": "Wrapped Savings rUSD",
+      "symbol": "WSRUSD",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/66163/thumb/wsrUSD.png?1748500965"
     }
   ],
   "version": {
     "major": 1,
-    "minor": 1,
+    "minor": 2,
     "patch": 0
   }
 }
