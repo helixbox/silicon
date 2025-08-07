@@ -10088,6 +10088,14 @@
     }
   },
   {
+    "id": "asymmetry-usdaf-2",
+    "symbol": "usdaf",
+    "name": "Asymmetry USDaf",
+    "platforms": {
+      "ethereum": "0x9cf12ccd6020b6888e4d4c4e4c7aca33c1eb91f8"
+    }
+  },
+  {
     "id": "asynchronus-by-virtuals",
     "symbol": "async",
     "name": "ASYNCHRONUS by Virtuals",
@@ -41525,6 +41533,14 @@
     }
   },
   {
+    "id": "doubt",
+    "symbol": "doubt",
+    "name": "DOUBT",
+    "platforms": {
+      "pulsechain": "0x6ba0876e30cce2a9afc4b82d8bd8a8349df4ca96"
+    }
+  },
+  {
     "id": "doug-2",
     "symbol": "doug",
     "name": "Doug",
@@ -52567,7 +52583,8 @@
     "symbol": "game",
     "name": "GameBuild",
     "platforms": {
-      "ethereum": "0x825459139c897d769339f295e962396c4f9e4a4d"
+      "ethereum": "0x825459139c897d769339f295e962396c4f9e4a4d",
+      "binance-smart-chain": "0x825459139c897d769339f295e962396c4f9e4a4d"
     }
   },
   {
@@ -54901,6 +54918,14 @@
     "name": "Glorp",
     "platforms": {
       "solana": "FkBF9u1upwEMUPxnXjcydxxVSxgr8f3k1YXbz7G7bmtA"
+    }
+  },
+  {
+    "id": "glow-staked-sol",
+    "symbol": "glowsol",
+    "name": "Glow Staked SOL",
+    "platforms": {
+      "solana": "7wBBPnj2TA5XhB3ADm8D1odSKh9fDqAWMPaUqaMPH17e"
     }
   },
   {
@@ -61966,6 +61991,7 @@
     "name": "Polkadot Bridged DOT",
     "platforms": {
       "ethereum": "0x8d010bf9c26881788b4e6bf5fd1bdc358c8f90b8",
+      "optimistic-ethereum": "0x8d010bf9c26881788b4e6bf5fd1bdc358c8f90b8",
       "binance-smart-chain": "0x8d010bf9c26881788b4e6bf5fd1bdc358c8f90b8",
       "base": "0x8d010bf9c26881788b4e6bf5fd1bdc358c8f90b8",
       "arbitrum-one": "0x8d010bf9c26881788b4e6bf5fd1bdc358c8f90b8"
@@ -106074,7 +106100,19 @@
     "name": "Reservoir rUSD",
     "platforms": {
       "ethereum": "0x09d4214c03d01f49544c0448dbe3a27f768f2b34",
-      "berachain": "0x09d4214c03d01f49544c0448dbe3a27f768f2b34"
+      "berachain": "0x09d4214c03d01f49544c0448dbe3a27f768f2b34",
+      "base": "0x09d4214c03d01f49544c0448dbe3a27f768f2b34",
+      "plume-network": "0x09d4214c03d01f49544c0448dbe3a27f768f2b34",
+      "sonic": "0x09d4214c03d01f49544c0448dbe3a27f768f2b34",
+      "world-chain": "0x09d4214c03d01f49544c0448dbe3a27f768f2b34",
+      "arbitrum-one": "0x09d4214c03d01f49544c0448dbe3a27f768f2b34",
+      "unichain": "0x09d4214c03d01f49544c0448dbe3a27f768f2b34",
+      "sei-v2": "0x09d4214c03d01f49544c0448dbe3a27f768f2b34",
+      "binance-smart-chain": "0x09d4214c03d01f49544c0448dbe3a27f768f2b34",
+      "avalanche": "0x09d4214c03d01f49544c0448dbe3a27f768f2b34",
+      "katana": "0x09d4214c03d01f49544c0448dbe3a27f768f2b34",
+      "solana": "Ejqkht2dyN1BaaEtK92zBKY6S8HbVH8APB5sDK9Rmokt",
+      "hyperevm": "0x866d66f64fb81461903e1e38d998e747ecf35e78"
     }
   },
   {
@@ -126153,7 +126191,11 @@
     "id": "theo-short-duration-us-treasury-fund",
     "symbol": "thbill",
     "name": "Theo Short Duration US Treasury Fund",
-    "platforms": {}
+    "platforms": {
+      "arbitrum-one": "0xfdd22ce6d1f66bc0ec89b20bf16ccb6670f55a5a",
+      "base": "0xfdd22ce6d1f66bc0ec89b20bf16ccb6670f55a5a",
+      "hyperevm": "0xfdd22ce6d1f66bc0ec89b20bf16ccb6670f55a5a"
+    }
   },
   {
     "id": "the-other-party",
@@ -131374,7 +131416,8 @@
     "symbol": "w🍖",
     "name": "Unicorn Meat",
     "platforms": {
-      "ethereum": "0xdfa208bb0b811cfbb5fa3ea98ec37aa86180e668"
+      "ethereum": "0xdfa208bb0b811cfbb5fa3ea98ec37aa86180e668",
+      "base": "0xa0ff877e3d4f3a108b1b3d5eb3e4369301d2b2d7"
     }
   },
   {
@@ -135160,7 +135203,8 @@
     "symbol": "vita",
     "name": "VitaDAO",
     "platforms": {
-      "ethereum": "0x81f8f0bb1cb2a06649e51913a151f0e7ef6fa321"
+      "ethereum": "0x81f8f0bb1cb2a06649e51913a151f0e7ef6fa321",
+      "base": "0x490a4b510d0ea9f835d2df29eb73b4fca5071937"
     }
   },
   {
@@ -141563,7 +141607,19 @@
     "symbol": "wsrusd",
     "name": "Wrapped Savings rUSD",
     "platforms": {
-      "ethereum": "0xd3fd63209fa2d55b07a0f6db36c2f43900be3094"
+      "ethereum": "0xd3fd63209fa2d55b07a0f6db36c2f43900be3094",
+      "base": "0x62344be8ca1c339b46274a4017dd87af436900b1",
+      "plume-network": "0x0bbcc2c1991d0af8ec6a5ed922e6f5606923fe15",
+      "sonic": "0x4809010926aec940b550d34a46a52739f996d75d",
+      "world-chain": "0x4809010926aec940b550d34a46a52739f996d75d",
+      "binance-smart-chain": "0x4809010926aec940b550d34a46a52739f996d75d",
+      "avalanche": "0x4809010926aec940b550d34a46a52739f996d75d",
+      "katana": "0x4809010926aec940b550d34a46a52739f996d75d",
+      "solana": "7bxM8cRFZpzonzZtzmrcWHNX1dijrEVU4VkjjtVyBmqE",
+      "arbitrum-one": "0x4809010926aec940b550d34a46a52739f996d75d",
+      "unichain": "0x4809010926aec940b550d34a46a52739f996d75d",
+      "sei-v2": "0x4809010926aec940b550d34a46a52739f996d75d",
+      "hyperevm": "0x04716db62c085d9e08050fcf6f7d775a03d07720"
     }
   },
   {
@@ -143433,6 +143489,14 @@
     "symbol": "pot",
     "name": "X Protocol",
     "platforms": {}
+  },
+  {
+    "id": "x-protocol-2",
+    "symbol": "x",
+    "name": "X Protocol",
+    "platforms": {
+      "pulsechain": "0xa6c4790cc7aa22ca27327cb83276f2abd687b55b"
+    }
   },
   {
     "id": "xpunk-labs",
