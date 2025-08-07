@@ -19607,7 +19607,10 @@
     "symbol": "bob",
     "name": "BOB",
     "platforms": {
-      "internet-computer": "7pail-xaaaa-aaaas-aabmq-cai"
+      "internet-computer": "7pail-xaaaa-aaaas-aabmq-cai",
+      "ethereum": "0xecc5f868add75f4ff9fd00bbbde12c35ba2c9c89",
+      "arbitrum-one": "0xecc5f868add75f4ff9fd00bbbde12c35ba2c9c89",
+      "base": "0xecc5f868add75f4ff9fd00bbbde12c35ba2c9c89"
     }
   },
   {
@@ -55206,6 +55209,14 @@
     }
   },
   {
+    "id": "goat-bridged-binance-bitcoin-goat",
+    "symbol": "btcb",
+    "name": "Goat Bridged Binance Bitcoin (Goat)",
+    "platforms": {
+      "goat": "0xfe41e7e5cb3460c483ab2a38eb605cda9e2d248e"
+    }
+  },
+  {
     "id": "goat-gains",
     "symbol": "ggains",
     "name": "GOAT GAINS",
@@ -55997,7 +56008,8 @@
     "name": "Good Game US Dollar",
     "platforms": {
       "polygon-pos": "0xffffff9936bd58a008855b0812b44d2c8dffe2aa",
-      "binance-smart-chain": "0xffffff9936bd58a008855b0812b44d2c8dffe2aa"
+      "binance-smart-chain": "0xffffff9936bd58a008855b0812b44d2c8dffe2aa",
+      "solana": "GGUSDyBUPFg5RrgWwqEqhXoha85iYGs6cL57SyK4G2Y7"
     }
   },
   {
@@ -63590,7 +63602,7 @@
   {
     "id": "infinit",
     "symbol": "in",
-    "name": "Infinit",
+    "name": "INFINIT",
     "platforms": {
       "ethereum": "0x61fac5f038515572d6f42d4bcb6b581642753d50",
       "binance-smart-chain": "0x61fac5f038515572d6f42d4bcb6b581642753d50"
@@ -119428,6 +119440,14 @@
     }
   },
   {
+    "id": "stargate-bridged-usdc-goat",
+    "symbol": "usdc.e",
+    "name": "Stargate Bridged USDC (Goat)",
+    "platforms": {
+      "goat": "0x3022b87ac063de95b1570f46f5e470f8b53112d8"
+    }
+  },
+  {
     "id": "stargate-bridged-usdc-gravity",
     "symbol": "usdc.e",
     "name": "Stargate Bridged USDC (Gravity)",
@@ -140571,6 +140591,14 @@
     "name": "Wrapped GLQ",
     "platforms": {
       "graphlinq-chain": "0xeb567ec41738c2bab2599a1070fc5b727721b3b6"
+    }
+  },
+  {
+    "id": "wrapped-goat-bitcoin",
+    "symbol": "wgbtc",
+    "name": "Wrapped Goat Bitcoin",
+    "platforms": {
+      "goat": "0xbc10000000000000000000000000000000000000"
     }
   },
   {
