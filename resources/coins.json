@@ -42365,6 +42365,15 @@
     }
   },
   {
+    "id": "dtrinity-staked-dusd",
+    "symbol": "sdusd",
+    "name": "dTrinity Staked dUSD",
+    "platforms": {
+      "sonic": "0x41a5477364bf60d8936b90310fecfda79593304e",
+      "fraxtal": "0x58acc2600835211dcb5847c5fa422791fd492409"
+    }
+  },
+  {
     "id": "dtrinity-usd",
     "symbol": "dusd",
     "name": "dTRINITY USD",
@@ -48546,6 +48555,18 @@
     }
   },
   {
+    "id": "fiamma-btc",
+    "symbol": "fiabtc",
+    "name": "Fiamma BTC",
+    "platforms": {
+      "ethereum": "0x22f0e0a4c97ff43546dad16d43ef854c773f0e08",
+      "aptos": "0x75de592a7e62e6224d13763c392190fda8635ebb79c798a5e9dd0840102f3f93",
+      "sei-v2": "0x60c230c38af6d86b0277a98a1caeaa345a7b061f",
+      "base": "0x60c230c38af6d86b0277a98a1caeaa345a7b061f",
+      "core": "0x60c230c38af6d86b0277a98a1caeaa345a7b061f"
+    }
+  },
+  {
     "id": "fias",
     "symbol": "fias",
     "name": "FIAS",
@@ -48810,14 +48831,6 @@
     "name": "FINE",
     "platforms": {
       "ethereum": "0x75c97384ca209f915381755c582ec0e2ce88c1ba"
-    }
-  },
-  {
-    "id": "fine-2",
-    "symbol": "fine",
-    "name": "FINE",
-    "platforms": {
-      "avalanche": "0x5478b121ceb140f8114e16b16d1752f3b29d514f"
     }
   },
   {
@@ -82887,14 +82900,6 @@
     }
   },
   {
-    "id": "miw-musk",
-    "symbol": "miw",
-    "name": "Miw Musk",
-    "platforms": {
-      "solana": "HwEhWyEpWvELT7H8apzCGyCPq6QtPMyxhNxB5Tgzpump"
-    }
-  },
-  {
     "id": "mixie",
     "symbol": "mixie",
     "name": "Mixie",
@@ -104050,6 +104055,12 @@
     }
   },
   {
+    "id": "raa-vision",
+    "symbol": "raa",
+    "name": "RAA Vision",
+    "platforms": {}
+  },
+  {
     "id": "rabbi-schlomo-by-virtuals",
     "symbol": "shekel",
     "name": "Rabbi Schlomo by Virtuals",
@@ -110505,15 +110516,6 @@
     }
   },
   {
-    "id": "scaleswap-token",
-    "symbol": "sca",
-    "name": "Scaleswap",
-    "platforms": {
-      "ethereum": "0x1fbd3df007eb8a7477a1eab2c63483dcc24effd6",
-      "polygon-pos": "0x11a819beb0aa3327e39f52f90d65cc9bca499f33"
-    }
-  },
-  {
     "id": "scaleton",
     "symbol": "dust",
     "name": "DeDust",
@@ -111863,6 +111865,14 @@
       "optimistic-ethereum": "0xea50f402653c41cadbafd1f788341db7b7f37816",
       "avalanche": "0xea50f402653c41cadbafd1f788341db7b7f37816",
       "polygon-pos": "0xea50f402653c41cadbafd1f788341db7b7f37816"
+    }
+  },
+  {
+    "id": "shack-token",
+    "symbol": "shack",
+    "name": "Shack Token",
+    "platforms": {
+      "solana": "BHvPQ9dFAiZJUSYJFpEmdfMmgz48iLohyxyixBfZjups"
     }
   },
   {
@@ -116815,6 +116825,12 @@
       "osmosis": "ibc/9BBA9A1C257E971E38C1422780CE6F0B0686F0A3085E2D61118D904BFE0F5F5E",
       "ethereum": "0xa670d7237398238de01267472c6f13e5b8010fd1"
     }
+  },
+  {
+    "id": "somnia",
+    "symbol": "somi",
+    "name": "Somnia",
+    "platforms": {}
   },
   {
     "id": "somnium-space-cubes",
@@ -125375,12 +125391,6 @@
     "platforms": {
       "binance-smart-chain": "0x86bb94ddd16efc8bc58e6b056e8df71d9e666429"
     }
-  },
-  {
-    "id": "testbug",
-    "symbol": "testbug",
-    "name": "testbug",
-    "platforms": {}
   },
   {
     "id": "test-token-please-ignore",
