@@ -4,7 +4,7 @@
   "keywords": [
     "defi"
   ],
-  "timestamp": "2025-07-17T11:00:14.465+00:00",
+  "timestamp": "2025-08-08T04:00:16.387+00:00",
   "tokens": [
     {
       "chainId": 34443,
@@ -16,19 +16,35 @@
     },
     {
       "chainId": 34443,
-      "address": "0xc53edeafb6d502daec5a7015d67936cea0cd0f52",
-      "name": "Ionic USD Coin",
-      "symbol": "IONUSDC",
-      "decimals": 7,
-      "logoURI": "https://assets.coingecko.com/coins/images/39224/thumb/ionUSDC.png?1721184505"
-    },
-    {
-      "chainId": 34443,
       "address": "0xa70266c8f8cf33647dcfee763961aff418d9e1e4",
       "name": "Ironclad USD",
       "symbol": "IUSD",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/50841/thumb/iUSD.png?1729295402"
+    },
+    {
+      "chainId": 34443,
+      "address": "0xfda619b6d20975be80a10332cd39b9a4b0faa8bb",
+      "name": "SwapMode",
+      "symbol": "SMD",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/36014/thumb/SMDPNG.png?1710326417"
+    },
+    {
+      "chainId": 34443,
+      "address": "0x8b2eea0999876aab1e7955fe01a5d261b570452c",
+      "name": "BMX  Wrapped Mode Liquidity Token",
+      "symbol": "WMLT",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/39465/thumb/wmlt.png?1722399984"
+    },
+    {
+      "chainId": 34443,
+      "address": "0xd988097fb8612cc24eec14542bc03424c656005f",
+      "name": "Mode Bridged USDC  Mode ",
+      "symbol": "USDC",
+      "decimals": 6,
+      "logoURI": "https://assets.coingecko.com/coins/images/35809/thumb/usdc_%281%29.png?1709867043"
     },
     {
       "chainId": 34443,
@@ -40,19 +56,11 @@
     },
     {
       "chainId": 34443,
-      "address": "0xf0f161fda2712db8b566946122a5af183995e2ed",
-      "name": "Mode Bridged USDT  Mode ",
-      "symbol": "USDT",
-      "decimals": 6,
-      "logoURI": "https://assets.coingecko.com/coins/images/35808/thumb/usdt_%281%29.png?1709866389"
-    },
-    {
-      "chainId": 34443,
-      "address": "0x8b2eea0999876aab1e7955fe01a5d261b570452c",
-      "name": "BMX  Wrapped Mode Liquidity Token",
-      "symbol": "WMLT",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/39465/thumb/wmlt.png?1722399984"
+      "address": "0xc53edeafb6d502daec5a7015d67936cea0cd0f52",
+      "name": "Ionic USD Coin",
+      "symbol": "IONUSDC",
+      "decimals": 7,
+      "logoURI": "https://assets.coingecko.com/coins/images/39224/thumb/ionUSDC.png?1721184505"
     },
     {
       "chainId": 34443,
@@ -72,22 +80,6 @@
     },
     {
       "chainId": 34443,
-      "address": "0x4200000000000000000000000000000000000006",
-      "name": "L2 Standard Bridged WETH  Mode ",
-      "symbol": "WETH",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/39726/thumb/weth.png?1723757432"
-    },
-    {
-      "chainId": 34443,
-      "address": "0xd988097fb8612cc24eec14542bc03424c656005f",
-      "name": "Mode Bridged USDC  Mode ",
-      "symbol": "USDC",
-      "decimals": 6,
-      "logoURI": "https://assets.coingecko.com/coins/images/35809/thumb/usdc_%281%29.png?1709867043"
-    },
-    {
-      "chainId": 34443,
       "address": "0xcdd475325d6f564d27247d1dddbb0dac6fa0a5cf",
       "name": "Mode Bridged WBTC  Mode ",
       "symbol": "WBTC",
@@ -96,19 +88,27 @@
     },
     {
       "chainId": 34443,
-      "address": "0xfda619b6d20975be80a10332cd39b9a4b0faa8bb",
-      "name": "SwapMode",
-      "symbol": "SMD",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/36014/thumb/SMDPNG.png?1710326417"
-    },
-    {
-      "chainId": 34443,
       "address": "0xdfc7c877a950e49d2610114102175a06c2e3167a",
       "name": "Mode",
       "symbol": "MODE",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/34979/thumb/MODE.jpg?1714561871"
+    },
+    {
+      "chainId": 34443,
+      "address": "0xf0f161fda2712db8b566946122a5af183995e2ed",
+      "name": "Mode Bridged USDT  Mode ",
+      "symbol": "USDT",
+      "decimals": 6,
+      "logoURI": "https://assets.coingecko.com/coins/images/35808/thumb/usdt_%281%29.png?1709866389"
+    },
+    {
+      "chainId": 34443,
+      "address": "0x4200000000000000000000000000000000000006",
+      "name": "L2 Standard Bridged WETH  Mode ",
+      "symbol": "WETH",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/39726/thumb/weth.png?1723757432"
     },
     {
       "chainId": 34443,
@@ -252,7 +252,7 @@
       "name": "Ankr Network",
       "symbol": "ANKR",
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/4324/thumb/U85xTl2.png?1696504928"
+      "logoURI": "https://assets.coingecko.com/coins/images/4324/thumb/Ankr_Blue_Symbol.png?1754623142"
     },
     {
       "chainId": 34443,
@@ -282,6 +282,6 @@
   "version": {
     "major": 6,
     "minor": 1,
-    "patch": 0
+    "patch": 1
   }
 }

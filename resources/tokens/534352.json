@@ -4,16 +4,8 @@
   "keywords": [
     "defi"
   ],
-  "timestamp": "2025-07-23T10:00:51.542+00:00",
+  "timestamp": "2025-08-08T04:00:39.561+00:00",
   "tokens": [
-    {
-      "chainId": 534352,
-      "address": "0xd29687c813d741e2f938f4ac377128810e217b1b",
-      "name": "Scroll",
-      "symbol": "SCR",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/50571/thumb/scroll.jpg?1728376125"
-    },
     {
       "chainId": 534352,
       "address": "0x2147a89fb4608752807216d5070471c09a0dce32",
@@ -21,38 +13,6 @@
       "symbol": "ZP",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/36011/thumb/about_img01.png?1710324761"
-    },
-    {
-      "chainId": 534352,
-      "address": "0x750351a9f75f98f2c2e91d4edb3beb14e719557e",
-      "name": "Scribes",
-      "symbol": "SCRIBES",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/38185/thumb/scribes.png?1716788481"
-    },
-    {
-      "chainId": 534352,
-      "address": "0x01f0a31698c4d065659b9bdc21b3610292a1c506",
-      "name": "Stargate Bridged weETH  Scroll ",
-      "symbol": "WEETH",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/67609/thumb/weeth.png?1753260224"
-    },
-    {
-      "chainId": 534352,
-      "address": "0xf610a9dfb7c89644979b4a0f27063e9e7d7cda32",
-      "name": "Bridged Wrapped Lido Staked Ether  Scro",
-      "symbol": "WSTETH",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/32615/thumb/wsteth.png?1698735772"
-    },
-    {
-      "chainId": 534352,
-      "address": "0xfec65bfb6e5bbcc9ab8ae98f62a8aab2ea51c495",
-      "name": "Perseid Finance",
-      "symbol": "PED",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/32805/thumb/perseid.png?1704711269"
     },
     {
       "chainId": 534352,
@@ -64,19 +24,59 @@
     },
     {
       "chainId": 534352,
+      "address": "0xfec65bfb6e5bbcc9ab8ae98f62a8aab2ea51c495",
+      "name": "Perseid Finance",
+      "symbol": "PED",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/32805/thumb/perseid.png?1704711269"
+    },
+    {
+      "chainId": 534352,
+      "address": "0xdb9e8f82d6d45fff803161f2a5f75543972b229a",
+      "name": "Quill USDQ",
+      "symbol": "USDQ",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/66132/thumb/image_%289%29.png?1748439949"
+    },
+    {
+      "chainId": 534352,
+      "address": "0xf610a9dfb7c89644979b4a0f27063e9e7d7cda32",
+      "name": "Bridged Wrapped Lido Staked Ether  Scro",
+      "symbol": "WSTETH",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/32615/thumb/wsteth.png?1698735772"
+    },
+    {
+      "chainId": 534352,
+      "address": "0xd29687c813d741e2f938f4ac377128810e217b1b",
+      "name": "Scroll",
+      "symbol": "SCR",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/50571/thumb/scroll.jpg?1728376125"
+    },
+    {
+      "chainId": 534352,
+      "address": "0x06efdbff2a14a7c8e15944d1f4a48f9f95f663a4",
+      "name": "Bridged USD Coin  Scroll ",
+      "symbol": "USDC",
+      "decimals": 6,
+      "logoURI": "https://assets.coingecko.com/coins/images/32611/thumb/USDC.png?1698733754"
+    },
+    {
+      "chainId": 534352,
+      "address": "0x65421ba909200b81640d98b979d07487c9781b66",
+      "name": "KelpDAO Bridged rsETH  Scroll ",
+      "symbol": "RSETH",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/39545/thumb/rseth.png?1722849918"
+    },
+    {
+      "chainId": 534352,
       "address": "0x0fc479e2f9b7310bfb1db606cf565dea6910eedc",
       "name": "Papyrus Swap",
       "symbol": "PAPYRUS",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/32479/thumb/PapyrusLogo.png?1698286849"
-    },
-    {
-      "chainId": 534352,
-      "address": "0x330c43d22bd65a60ffea93a197f04e87faa27b70",
-      "name": "abcNURI",
-      "symbol": "ABCNURI",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/40074/thumb/abcNURI.png?1725511281"
     },
     {
       "chainId": 534352,
@@ -96,27 +96,11 @@
     },
     {
       "chainId": 534352,
-      "address": "0x65421ba909200b81640d98b979d07487c9781b66",
-      "name": "KelpDAO Bridged rsETH  Scroll ",
-      "symbol": "RSETH",
+      "address": "0x01f0a31698c4d065659b9bdc21b3610292a1c506",
+      "name": "Stargate Bridged weETH  Scroll ",
+      "symbol": "WEETH",
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/39545/thumb/rseth.png?1722849918"
-    },
-    {
-      "chainId": 534352,
-      "address": "0xdb9e8f82d6d45fff803161f2a5f75543972b229a",
-      "name": "Quill USDQ",
-      "symbol": "USDQ",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/66132/thumb/image_%289%29.png?1748439949"
-    },
-    {
-      "chainId": 534352,
-      "address": "0xdd6a49995ad38fe7409b5d5cb5539261bd1bc901",
-      "name": "Danjuan Scroll Cat",
-      "symbol": "CAT",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/34637/thumb/200x200.jpg?1705555969"
+      "logoURI": "https://assets.coingecko.com/coins/images/67609/thumb/weeth.png?1753260224"
     },
     {
       "chainId": 534352,
@@ -128,11 +112,27 @@
     },
     {
       "chainId": 534352,
-      "address": "0x06efdbff2a14a7c8e15944d1f4a48f9f95f663a4",
-      "name": "Bridged USD Coin  Scroll ",
-      "symbol": "USDC",
-      "decimals": 6,
-      "logoURI": "https://assets.coingecko.com/coins/images/32611/thumb/USDC.png?1698733754"
+      "address": "0x330c43d22bd65a60ffea93a197f04e87faa27b70",
+      "name": "abcNURI",
+      "symbol": "ABCNURI",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/40074/thumb/abcNURI.png?1725511281"
+    },
+    {
+      "chainId": 534352,
+      "address": "0x750351a9f75f98f2c2e91d4edb3beb14e719557e",
+      "name": "Scribes",
+      "symbol": "SCRIBES",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/38185/thumb/scribes.png?1716788481"
+    },
+    {
+      "chainId": 534352,
+      "address": "0xdd6a49995ad38fe7409b5d5cb5539261bd1bc901",
+      "name": "Danjuan Scroll Cat",
+      "symbol": "CAT",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/34637/thumb/200x200.jpg?1705555969"
     },
     {
       "chainId": 534352,
@@ -204,7 +204,7 @@
       "name": "Ankr Network",
       "symbol": "ANKR",
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/4324/thumb/U85xTl2.png?1696504928"
+      "logoURI": "https://assets.coingecko.com/coins/images/4324/thumb/Ankr_Blue_Symbol.png?1754623142"
     },
     {
       "chainId": 534352,
@@ -322,6 +322,6 @@
   "version": {
     "major": 12,
     "minor": 1,
-    "patch": 0
+    "patch": 1
   }
 }
