@@ -7230,14 +7230,6 @@
     }
   },
   {
-    "id": "angryslerf",
-    "symbol": "angryslerf",
-    "name": "AngrySlerf",
-    "platforms": {
-      "solana": "2QagM8UBq81JZ2yvdGsJCG1MVXUxihaVxajXCAXpFJsF"
-    }
-  },
-  {
     "id": "ani-grok-companion",
     "symbol": "ani",
     "name": "Ani Grok Companion",
@@ -18950,6 +18942,14 @@
     "symbol": "block",
     "name": "Blocknet",
     "platforms": {}
+  },
+  {
+    "id": "block-raccoon-s-a",
+    "symbol": "brs",
+    "name": "Block Raccoon S.A.",
+    "platforms": {
+      "solana": "F1By3oDsf4YY4WTNAMznXwsBgGt7KBQPFfoMA2BEjups"
+    }
   },
   {
     "id": "blocksmith-labs-forge",
@@ -43912,6 +43912,14 @@
     }
   },
   {
+    "id": "eggle-energy",
+    "symbol": "eng",
+    "name": "Eggle Energy",
+    "platforms": {
+      "base": "0x8a0e751e5d7a2861ca7cf16d9720337e40604982"
+    }
+  },
+  {
     "id": "egg-n-partners",
     "symbol": "eggt",
     "name": "Egg N Partners",
@@ -47191,8 +47199,8 @@
     "name": "exSat Staking BTC",
     "platforms": {
       "plume-network": "0xafb068838136358cfa6b54bea580b86df70bba7f",
-      "goat": "0xafb068838136358cfa6b54bea580b86df70bba7f",
-      "hemi": "0xafb068838136358cfa6b54bea580b86df70bba7f"
+      "hemi": "0xafb068838136358cfa6b54bea580b86df70bba7f",
+      "goat": "0xafb068838136358cfa6b54bea580b86df70bba7f"
     }
   },
   {
@@ -49027,14 +49035,6 @@
     "symbol": "fio",
     "name": "FIO Protocol",
     "platforms": {}
-  },
-  {
-    "id": "fira",
-    "symbol": "fira",
-    "name": "FIRA",
-    "platforms": {
-      "harmony-shard-0": "0x2a719af848bf365489e548be5edbec1d65858e59"
-    }
   },
   {
     "id": "fira-cronos",
@@ -82559,14 +82559,6 @@
     }
   },
   {
-    "id": "mine-btc",
-    "symbol": "minebtc",
-    "name": "MINE BTC",
-    "platforms": {
-      "binance-smart-chain": "0xf73800472abe97e92ac5ed1f9d00a3c31101b250"
-    }
-  },
-  {
     "id": "mine-coin",
     "symbol": "mih",
     "name": "MINE COIN",
@@ -83969,14 +83961,6 @@
     "symbol": "mon",
     "name": "Moneybyte",
     "platforms": {}
-  },
-  {
-    "id": "money-dogs",
-    "symbol": "mdogs",
-    "name": "Money Dogs",
-    "platforms": {
-      "the-open-network": "EQBr3sh4w1nNUZnIA8w7CwH95dm1qy3GG-zlJWA_FuDQFIrR"
-    }
   },
   {
     "id": "moneyglitch-fun",
@@ -110276,12 +110260,6 @@
     }
   },
   {
-    "id": "sardis-network",
-    "symbol": "srds",
-    "name": "Sardis Network",
-    "platforms": {}
-  },
-  {
     "id": "saronic-prestocks",
     "symbol": "saronic",
     "name": "Saronic PreStocks",
@@ -114089,7 +114067,8 @@
     "symbol": "sfi",
     "name": "Singularity Finance",
     "platforms": {
-      "ethereum": "0x7636d8722fdf7cd34232a915e48e96aa3eb386bf"
+      "ethereum": "0x7636d8722fdf7cd34232a915e48e96aa3eb386bf",
+      "binance-smart-chain": "0x7636d8722fdf7cd34232a915e48e96aa3eb386bf"
     }
   },
   {
@@ -122275,12 +122254,6 @@
     "platforms": {
       "wemix-network": "0xcd47647d94ef20ff75d112820fd44ce218441712"
     }
-  },
-  {
-    "id": "sumokoin",
-    "symbol": "sumo",
-    "name": "Sumokoin",
-    "platforms": {}
   },
   {
     "id": "sunbeans",
@@ -131393,8 +131366,8 @@
       "core": "0xbb4a26a053b217bb28766a4ed4b062c3b4de58ce",
       "opbnb": "0xf7fb2df9280eb0a76427dc3b34761db8b1441a49",
       "soneium": "0x61f2993a644762a345b483adf0d6351c5edfb3b5",
-      "goat": "0x78e26e8b953c7c78a58d69d8b9a91745c2bbb258",
-      "hemi": "0x78e26e8b953c7c78a58d69d8b9a91745c2bbb258"
+      "hemi": "0x78e26e8b953c7c78a58d69d8b9a91745c2bbb258",
+      "goat": "0x78e26e8b953c7c78a58d69d8b9a91745c2bbb258"
     }
   },
   {
@@ -132980,14 +132953,6 @@
     "name": "URANUS (SOL)",
     "platforms": {
       "solana": "9hjZ8UTNrNWt3YUTHVpvzdQjNbp64NbKSDsbLqKR6BZc"
-    }
-  },
-  {
-    "id": "urdex-finance",
-    "symbol": "urd",
-    "name": "UrDEX Finance",
-    "platforms": {
-      "arbitrum-one": "0x842216e0aa2ae608699f7b1063f26ce6b30c5311"
     }
   },
   {
@@ -143824,6 +143789,15 @@
     "name": "xLLM2",
     "platforms": {
       "base": "0xe4c94c578f53b58bdb580f15fc438ff10c7343a8"
+    }
+  },
+  {
+    "id": "xmaquina",
+    "symbol": "deus",
+    "name": "XMAQUINA",
+    "platforms": {
+      "peaq": "0x940a319b75861014a220d9c6c144d108552b089b",
+      "base": "0x940a319b75861014a220d9c6c144d108552b089b"
     }
   },
   {
