@@ -4,15 +4,31 @@
   "keywords": [
     "defi"
   ],
-  "timestamp": "2025-08-06T10:01:01.994+00:00",
+  "timestamp": "2025-08-12T19:01:39.503+00:00",
   "tokens": [
     {
       "chainId": 1284,
-      "address": "0xffffffffea09fb06d082fd1275cd48b191cbcd1d",
-      "name": "xcUSDT",
-      "symbol": "XCUSDT",
-      "decimals": 6,
-      "logoURI": "https://assets.coingecko.com/coins/images/29019/thumb/usdt.png?1696527990"
+      "address": "0xcd3b51d98478d53f4515a306be565c6eebef1d58",
+      "name": "BeamSwap",
+      "symbol": "GLINT",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/22893/thumb/glint.png?1696522190"
+    },
+    {
+      "chainId": 1284,
+      "address": "0xe8e8bd89a429526561e1283cb789719864ffd0b4",
+      "name": "Gu",
+      "symbol": "GU",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/68189/thumb/GU-logo.png?1755024305"
+    },
+    {
+      "chainId": 1284,
+      "address": "0x0e358838ce72d5e61e0018a2ffac4bec5f4c88d2",
+      "name": "StellaSwap",
+      "symbol": "STELLA",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/22801/thumb/stellaswap.jpg?1696522104"
     },
     {
       "chainId": 1284,
@@ -24,11 +40,19 @@
     },
     {
       "chainId": 1284,
-      "address": "0x0e358838ce72d5e61e0018a2ffac4bec5f4c88d2",
-      "name": "StellaSwap",
-      "symbol": "STELLA",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/22801/thumb/stellaswap.jpg?1696522104"
+      "address": "0xffffffff43b4560bc0c451a3386e082bff50ac90",
+      "name": "Subsocial",
+      "symbol": "SUB",
+      "decimals": 10,
+      "logoURI": "https://assets.coingecko.com/coins/images/15880/thumb/icon___gradient_1.png?1696515495"
+    },
+    {
+      "chainId": 1284,
+      "address": "0x8f552a71efe5eefc207bf75485b356a0b3f01ec9",
+      "name": "Nomad Bridged USDC  Moonbeam ",
+      "symbol": "USDC",
+      "decimals": 6,
+      "logoURI": "https://assets.coingecko.com/coins/images/35231/thumb/USDC.jpg?1707925331"
     },
     {
       "chainId": 1284,
@@ -48,19 +72,11 @@
     },
     {
       "chainId": 1284,
-      "address": "0xffffffff43b4560bc0c451a3386e082bff50ac90",
-      "name": "Subsocial",
-      "symbol": "SUB",
-      "decimals": 10,
-      "logoURI": "https://assets.coingecko.com/coins/images/15880/thumb/icon___gradient_1.png?1696515495"
-    },
-    {
-      "chainId": 1284,
-      "address": "0xcd3b51d98478d53f4515a306be565c6eebef1d58",
-      "name": "BeamSwap",
-      "symbol": "GLINT",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/22893/thumb/glint.png?1696522190"
+      "address": "0xffffffffea09fb06d082fd1275cd48b191cbcd1d",
+      "name": "xcUSDT",
+      "symbol": "XCUSDT",
+      "decimals": 6,
+      "logoURI": "https://assets.coingecko.com/coins/images/29019/thumb/usdt.png?1696527990"
     },
     {
       "chainId": 1284,
@@ -72,35 +88,11 @@
     },
     {
       "chainId": 1284,
-      "address": "0x765277eebeca2e31912c9946eae1021199b39c61",
-      "name": "Multichain Bridged DAI  Moonbeam ",
-      "symbol": "DAI",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/39799/thumb/dai.png?1724125463"
-    },
-    {
-      "chainId": 1284,
-      "address": "0xffffffff1fcacbd218edc0eba20fc2308c778080",
-      "name": "xcDOT",
-      "symbol": "DOT",
-      "decimals": 10,
-      "logoURI": "https://assets.coingecko.com/coins/images/26044/thumb/polkadot-asset_32.png?1696525125"
-    },
-    {
-      "chainId": 1284,
       "address": "0xbc7e02c4178a7df7d3e564323a5c359dc96c4db4",
       "name": "StellaSwap Staked DOT",
       "symbol": "STDOT",
       "decimals": 10,
       "logoURI": "https://assets.coingecko.com/coins/images/33872/thumb/stDOT.png?1703132036"
-    },
-    {
-      "chainId": 1284,
-      "address": "0x8f552a71efe5eefc207bf75485b356a0b3f01ec9",
-      "name": "Nomad Bridged USDC  Moonbeam ",
-      "symbol": "USDC",
-      "decimals": 6,
-      "logoURI": "https://assets.coingecko.com/coins/images/35231/thumb/USDC.jpg?1707925331"
     },
     {
       "chainId": 1284,
@@ -117,6 +109,22 @@
       "symbol": "WETH",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/39720/thumb/WETH.PNG?1723732514"
+    },
+    {
+      "chainId": 1284,
+      "address": "0xffffffff1fcacbd218edc0eba20fc2308c778080",
+      "name": "xcDOT",
+      "symbol": "DOT",
+      "decimals": 10,
+      "logoURI": "https://assets.coingecko.com/coins/images/26044/thumb/polkadot-asset_32.png?1696525125"
+    },
+    {
+      "chainId": 1284,
+      "address": "0x765277eebeca2e31912c9946eae1021199b39c61",
+      "name": "Multichain Bridged DAI  Moonbeam ",
+      "symbol": "DAI",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/39799/thumb/dai.png?1724125463"
     },
     {
       "chainId": 1284,
@@ -257,7 +265,7 @@
   ],
   "version": {
     "major": 12,
-    "minor": 0,
+    "minor": 1,
     "patch": 0
   }
 }
