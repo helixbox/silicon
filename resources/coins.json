@@ -8537,7 +8537,7 @@
   {
     "id": "arc",
     "symbol": "arc",
-    "name": "Arc",
+    "name": "ARC",
     "platforms": {
       "ethereum": "0x672fdba7055bddfa8fd6bd45b1455ce5eb97f499"
     }
@@ -10839,6 +10839,14 @@
     "name": "Automatic Treasury Machine",
     "platforms": {
       "solana": "8QhSMvYfXome11VgxFMD75hNbGQXW5QTnjA8khENkY2c"
+    }
+  },
+  {
+    "id": "automation",
+    "symbol": "auto",
+    "name": "automation",
+    "platforms": {
+      "base": "0xbc1017f13e14b828461ae2b02821351c6edb9b07"
     }
   },
   {
@@ -56219,7 +56227,10 @@
     "symbol": "gldt",
     "name": "Gold Token",
     "platforms": {
-      "internet-computer": "6c7su-kiaaa-aaaar-qaira-cai"
+      "internet-computer": "6c7su-kiaaa-aaaar-qaira-cai",
+      "base": "0x86856814e74456893cfc8946bedcbb472b5fa856",
+      "ethereum": "0x86856814e74456893cfc8946bedcbb472b5fa856",
+      "arbitrum-one": "0x86856814e74456893cfc8946bedcbb472b5fa856"
     }
   },
   {
@@ -63430,6 +63441,14 @@
     "name": "Illusion of Life",
     "platforms": {
       "solana": "5zCETicUCJqJ5Z3wbfFPZqtSpHPYqnggs1wX7ZRpump"
+    }
+  },
+  {
+    "id": "illusion-of-trader",
+    "symbol": "retard",
+    "name": "Illusion of Trader",
+    "platforms": {
+      "solana": "BzggRTH4TQb8x3MeensGffz7NUa6wWCETcDA79Ptbonk"
     }
   },
   {
@@ -89963,6 +89982,14 @@
     "name": "Noike",
     "platforms": {
       "solana": "29377Uz8eu6CeXmnMXJJge3gdaycyCbrubnLiUva75AA"
+    }
+  },
+  {
+    "id": "no-internet",
+    "symbol": "rex",
+    "name": "no internet",
+    "platforms": {
+      "solana": "FTggXu7nYowpXjScSw7BZjtZDXywLNjK88CGhydDGgMS"
     }
   },
   {
@@ -119904,7 +119931,8 @@
     "symbol": "oseth",
     "name": "StakeWise Staked ETH",
     "platforms": {
-      "ethereum": "0xf1c9acdc66974dfb6decb12aa385b9cd01190e38"
+      "ethereum": "0xf1c9acdc66974dfb6decb12aa385b9cd01190e38",
+      "arbitrum-one": "0xf7d4e7273e5015c96728a6b02f31c505ee184603"
     }
   },
   {
@@ -139946,11 +139974,51 @@
     }
   },
   {
+    "id": "wrapped-aave-arbitrum-weth",
+    "symbol": "waarbweth",
+    "name": "Wrapped Aave Arbitrum WETH",
+    "platforms": {
+      "arbitrum-one": "0x4ce13a79f45c1be00bdabd38b764ac28c082704e"
+    }
+  },
+  {
     "id": "wrapped-aave-arbitrum-wsteth",
     "symbol": "waarbwsteth",
     "name": "Wrapped Aave Arbitrum wstETH",
     "platforms": {
       "arbitrum-one": "0xe98fc055c99decd8da0c111b090885d5d15c774e"
+    }
+  },
+  {
+    "id": "wrapped-aave-avalanche-btcb",
+    "symbol": "waavabtc.b",
+    "name": "Wrapped Aave Avalanche BTC.b",
+    "platforms": {
+      "avalanche": "0x2d324fd1ca86d90f61b0965d2db2f86d22ea4b74"
+    }
+  },
+  {
+    "id": "wrapped-aave-avalanche-usdc",
+    "symbol": "waavausdc",
+    "name": "Wrapped Aave Avalanche USDC",
+    "platforms": {
+      "avalanche": "0xe1bfc96d95badcb10ff013cb0c9c6c737ca07009"
+    }
+  },
+  {
+    "id": "wrapped-aave-avalanche-usdt",
+    "symbol": "waavausdt",
+    "name": "Wrapped Aave Avalanche USDT",
+    "platforms": {
+      "avalanche": "0x59933c571d200dc6a7fd1cda22495db442082e34"
+    }
+  },
+  {
+    "id": "wrapped-aave-avalanche-wavax",
+    "symbol": "waavawavax",
+    "name": "Wrapped Aave Avalanche WAVAX",
+    "platforms": {
+      "avalanche": "0xd7da0de6ef4f51d6206bf2a35fcd2030f54c3f7b"
     }
   },
   {
