@@ -19661,10 +19661,18 @@
   {
     "id": "bnpl-pay",
     "symbol": "bnpl",
-    "name": "BNPL Pay",
+    "name": "BNPL Pay [OLD]",
     "platforms": {
       "ethereum": "0x84d821f7fbdd595c4c4a50842913e6b1e07d7a53",
       "avalanche": "0x1263fea931b86f3e8ce8afbf29f66631b7be9347"
+    }
+  },
+  {
+    "id": "bnpl-pay-2",
+    "symbol": "bnpl",
+    "name": "BNPL Pay",
+    "platforms": {
+      "ethereum": "0x28a062b8cd62a219210211f2085281c0aca2b2b9"
     }
   },
   {
