@@ -416,14 +416,6 @@
     }
   },
   {
-    "id": "21x",
-    "symbol": "21x",
-    "name": "21X Diamonds",
-    "platforms": {
-      "solana": "6r4PCVaX4rYN9WdbXwVWAQL4djFoUaeBMsq8Cxc6NApZ"
-    }
-  },
-  {
     "id": "23-turtles",
     "symbol": "ai23t",
     "name": "23 Turtles",
@@ -10203,14 +10195,6 @@
     }
   },
   {
-    "id": "athena-finance",
-    "symbol": "ath",
-    "name": "Athena Finance",
-    "platforms": {
-      "metis-andromeda": "0xa4ee142e34d0676edc2b760dd0016003d99a4cec"
-    }
-  },
-  {
     "id": "athena-returns-olea",
     "symbol": "olea",
     "name": "Olea Token",
@@ -16727,14 +16711,6 @@
     }
   },
   {
-    "id": "binance-printer",
-    "symbol": "printr",
-    "name": "Binance Printer",
-    "platforms": {
-      "binance-smart-chain": "0x87f89b95b507e628905535ba6b13f852e4e0e887"
-    }
-  },
-  {
     "id": "binance-staked-sol",
     "symbol": "bnsol",
     "name": "Binance Staked SOL",
@@ -21620,15 +21596,6 @@
     }
   },
   {
-    "id": "brc-app",
-    "symbol": "brct",
-    "name": "BRC App",
-    "platforms": {
-      "ethereum": "0x455ad1bc4e18fd4e369234b6e11d88acbc416758",
-      "binance-smart-chain": "0x455ad1bc4e18fd4e369234b6e11d88acbc416758"
-    }
-  },
-  {
     "id": "brcstarter",
     "symbol": "brcst",
     "name": "BRCStarter",
@@ -24909,14 +24876,6 @@
     }
   },
   {
-    "id": "captain-planet",
-    "symbol": "ctp",
-    "name": "Captain Planet",
-    "platforms": {
-      "elrond": "CTP-298075"
-    }
-  },
-  {
     "id": "captain-tsubasa",
     "symbol": "tsugt",
     "name": "Captain Tsubasa",
@@ -27371,14 +27330,6 @@
       "ethereum": "0xcdb37a4fbc2da5b78aa4e41a432792f9533e85cc",
       "polygon-pos": "0x26c80854c36ff62bba7414a358c8c23bbb8dec39",
       "solana": "Ak3ovnWQnAxPSFoSNCoNYJLnJtQDCKRBH4HwhWkb6hFm"
-    }
-  },
-  {
-    "id": "checkerchain",
-    "symbol": "checkr",
-    "name": "CheckerChain",
-    "platforms": {
-      "elrond": "CHECKR-60108b"
     }
   },
   {
@@ -46619,7 +46570,9 @@
     "id": "eth-strategy",
     "symbol": "strat",
     "name": "ETH Strategy",
-    "platforms": {}
+    "platforms": {
+      "ethereum": "0x14cf922aa1512adfc34409b63e18d391e4a86a2f"
+    }
   },
   {
     "id": "ethup",
@@ -47000,15 +46953,6 @@
     "name": "Evmos",
     "platforms": {
       "osmosis": "ibc/6AE98883D4D5D5FF9E50D7130F1305DA2FFA0C652D1DD9C123657C6B4EB2DF8A"
-    }
-  },
-  {
-    "id": "evoload",
-    "symbol": "evld",
-    "name": "Evoload",
-    "platforms": {
-      "elrond": "EVLD-43f56f",
-      "binance-smart-chain": "0x928f64d31186a0a341b38624177e911d746dc6b6"
     }
   },
   {
@@ -54515,6 +54459,14 @@
     "name": "Ghislaine Network",
     "platforms": {
       "solana": "DXQwx4gwfMa2qTpeatyxve4WrxAVhHbSWLoFi7HQymsA"
+    }
+  },
+  {
+    "id": "ghkan",
+    "symbol": "gkn",
+    "name": "GHKAN",
+    "platforms": {
+      "solana": "Exw8YLyWbZfF9KTVhemcJrkSr7abUQCa7mLowgj3x9EC"
     }
   },
   {
@@ -70852,14 +70804,6 @@
     }
   },
   {
-    "id": "kronos-bot",
-    "symbol": "kron",
-    "name": "Kronos Bot",
-    "platforms": {
-      "ethereum": "0x37f5ac1b0c1a07d19270983d6889c181a0a3d6f7"
-    }
-  },
-  {
     "id": "krown",
     "symbol": "krw",
     "name": "KROWN",
@@ -81333,14 +81277,6 @@
     "name": "Meta Monopoly",
     "platforms": {
       "ethereum": "0x7d4a7be025652995364e0e232063abd9e8d65e6e"
-    }
-  },
-  {
-    "id": "metamoon",
-    "symbol": "metamoon",
-    "name": "MetaMoon",
-    "platforms": {
-      "binance-smart-chain": "0xa1a0c7849e6916945a78f8af843738c051ab15f3"
     }
   },
   {
@@ -92663,23 +92599,6 @@
     "name": "One Cash",
     "platforms": {
       "ethereum": "0xd90e69f67203ebe02c917b5128629e77b4cd92dc"
-    }
-  },
-  {
-    "id": "onedex",
-    "symbol": "one",
-    "name": "OneFinity",
-    "platforms": {
-      "elrond": "ONE-f9954f",
-      "solana": "CEm2Fg6k1o9GKFnfzXqZyTE1UcfUw6dGt3Dsn37UHBwJ"
-    }
-  },
-  {
-    "id": "onedex-rone",
-    "symbol": "rone-bb2e",
-    "name": "OneDex rONE",
-    "platforms": {
-      "elrond": "RONE-bb2e69"
     }
   },
   {
@@ -111665,14 +111584,6 @@
     }
   },
   {
-    "id": "secured-on-blockchain-2",
-    "symbol": "sob",
-    "name": "Secured On Blockchain",
-    "platforms": {
-      "ethereum": "0x142f4330ab3eda738cb373791c2e99cc325bed20"
-    }
-  },
-  {
     "id": "security-token-offering",
     "symbol": "stoos",
     "name": "STO Operating System Token",
@@ -118798,14 +118709,6 @@
     }
   },
   {
-    "id": "sponstar",
-    "symbol": "star",
-    "name": "Sponstar",
-    "platforms": {
-      "ethereum": "0x04cd37283e0f921b4a8838fee72e4264c87a692b"
-    }
-  },
-  {
     "id": "spoofify",
     "symbol": "spoof",
     "name": "Spoofify",
@@ -120614,6 +120517,14 @@
     "platforms": {
       "ethereum": "0xa7de087329bfcda5639247f96140f9dabe3deed1",
       "fantom": "0x89d5e71e275b4be094df9551627bcf4e3b24ce22"
+    }
+  },
+  {
+    "id": "static-hyperlend-hyperevm-whype-v2",
+    "symbol": "stathhyperevmwhypev2",
+    "name": "Static HyperLend HyperEVM WHYPE v2",
+    "platforms": {
+      "hyperevm": "0xd704254eb350e0d3baecd194d095862267897ae0"
     }
   },
   {
@@ -125486,6 +125397,14 @@
     }
   },
   {
+    "id": "temple-key",
+    "symbol": "tkey",
+    "name": "Temple Key",
+    "platforms": {
+      "tezos": "KT1VaEsVNiBoA56eToEK6n6BcPgh1tdx9eXi"
+    }
+  },
+  {
     "id": "temporal-3022",
     "symbol": "3022",
     "name": "Temporal 3022",
@@ -126055,14 +125974,6 @@
     "symbol": "txc",
     "name": "TEXITcoin",
     "platforms": {}
-  },
-  {
-    "id": "textopia",
-    "symbol": "txt",
-    "name": "Textopia",
-    "platforms": {
-      "solana": "7XzYCSB3QCh4Qb7d8cX6G9ZhEjtQPAZnvX6S7k9Q5DUD"
-    }
   },
   {
     "id": "tezos",
@@ -131785,14 +131696,6 @@
     "name": "Uhive",
     "platforms": {
       "ethereum": "0xd487892bb4c57edbe7ab401d9fe801c8fe6473f5"
-    }
-  },
-  {
-    "id": "uhosu",
-    "symbol": "uhosu",
-    "name": "Uhosu",
-    "platforms": {
-      "ethereum": "0xd537e3fc08f6d966a0f024c924f358fb15ed2dd9"
     }
   },
   {
@@ -140113,6 +140016,14 @@
     }
   },
   {
+    "id": "wrapped-aave-avalanche-savax",
+    "symbol": "waavasavax",
+    "name": "Wrapped Aave Avalanche SAVAX",
+    "platforms": {
+      "avalanche": "0x7d0394f8898fba73836bf12bd606228887705895"
+    }
+  },
+  {
     "id": "wrapped-aave-avalanche-usdc",
     "symbol": "waavausdc",
     "name": "Wrapped Aave Avalanche USDC",
@@ -144198,14 +144109,6 @@
     "name": "xJEWEL",
     "platforms": {
       "defi-kingdoms-blockchain": "0x77f2656d04e158f915bc22f07b779d94c1dc47ff"
-    }
-  },
-  {
-    "id": "xlauncher",
-    "symbol": "xlh",
-    "name": "xLauncher",
-    "platforms": {
-      "elrond": ""
     }
   },
   {
