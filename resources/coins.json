@@ -112789,6 +112789,12 @@
     }
   },
   {
+    "id": "shibacoin",
+    "symbol": "shic",
+    "name": "ShibaCoin",
+    "platforms": {}
+  },
+  {
     "id": "shibacorgi",
     "symbol": "shico",
     "name": "ShibaCorgi",
@@ -116418,6 +116424,14 @@
     "symbol": "cloud",
     "name": "SolCloud",
     "platforms": {}
+  },
+  {
+    "id": "solcontrol",
+    "symbol": "sctrl",
+    "name": "SolControl",
+    "platforms": {
+      "solana": "CTRLb9PmyRL2fQZ4amRKw6ydJXbTLc5LWvw83RqyjxBk"
+    }
   },
   {
     "id": "solcypher",
@@ -140048,6 +140062,46 @@
     }
   },
   {
+    "id": "wrapped-aave-base-ezeth",
+    "symbol": "wabasezeth",
+    "name": "Wrapped Aave Base ezETH",
+    "platforms": {
+      "base": "0xf8f10f39116716e89498c1c5e94137ada11b2bc7"
+    }
+  },
+  {
+    "id": "wrapped-aave-base-gho",
+    "symbol": "wabasgho",
+    "name": "Wrapped Aave Base GHO",
+    "platforms": {
+      "base": "0x88b1cd4b430d95b406e382c3cdbae54697a0286e"
+    }
+  },
+  {
+    "id": "wrapped-aave-base-usdc",
+    "symbol": "wabasusdc",
+    "name": "Wrapped Aave Base USDC",
+    "platforms": {
+      "base": "0xc768c589647798a6ee01a91fde98ef2ed046dbd6"
+    }
+  },
+  {
+    "id": "wrapped-aave-base-weth",
+    "symbol": "wabasweth",
+    "name": "Wrapped Aave Base WETH",
+    "platforms": {
+      "base": "0xe298b938631f750dd409fb18227c4a23dcdaab9b"
+    }
+  },
+  {
+    "id": "wrapped-aave-base-wsteth",
+    "symbol": "wabaswsteth",
+    "name": "Wrapped Aave Base wstETH",
+    "platforms": {
+      "base": "0x0830820d1a9aa1554364752d6d8f55c836871b74"
+    }
+  },
+  {
     "id": "wrapped-aave-ethereum-lido-gho",
     "symbol": "waethlidogho",
     "name": "Wrapped Aave Ethereum Lido GHO",
@@ -140093,6 +140147,38 @@
     "name": "Wrapped Aave Ethereum WETH",
     "platforms": {
       "ethereum": "0x0bfc9d54fc184518a81162f8fb99c2eaca081202"
+    }
+  },
+  {
+    "id": "wrapped-aave-gnosis-gno",
+    "symbol": "wagnogno",
+    "name": "Wrapped Aave Gnosis GNO",
+    "platforms": {
+      "xdai": "0x7c16f0185a26db0ae7a9377f23bc18ea7ce5d644"
+    }
+  },
+  {
+    "id": "wrapped-aave-gnosis-weth",
+    "symbol": "wagnoweth",
+    "name": "Wrapped Aave Gnosis WETH",
+    "platforms": {
+      "xdai": "0x57f664882f762fa37903fc864e2b633d384b411a"
+    }
+  },
+  {
+    "id": "wrapped-aave-gnosis-wsteth",
+    "symbol": "wagnowsteth",
+    "name": "Wrapped Aave Gnosis wstETH",
+    "platforms": {
+      "xdai": "0x773cda0cade2a3d86e6d4e30699d40bb95174ff2"
+    }
+  },
+  {
+    "id": "wrapped-aave-optimism-weth",
+    "symbol": "waoptweth",
+    "name": "Wrapped Aave Optimism WETH",
+    "platforms": {
+      "optimistic-ethereum": "0x464b808c2c7e04b07e860fdf7a91870620246148"
     }
   },
   {
@@ -141330,6 +141416,22 @@
     "name": "Wrapped Everton (Kayen)",
     "platforms": {
       "chiliz": "0xfc8799e0895b3b92936075f3b1a4d1bf5f183166"
+    }
+  },
+  {
+    "id": "wrapped-extrafi-x-base-usdc",
+    "symbol": "wexbaseusdc",
+    "name": "Wrapped ExtraFi X Base USDC",
+    "platforms": {
+      "base": "0x589a7339c6d0c8777e7429f57f2f95c069c37288"
+    }
+  },
+  {
+    "id": "wrapped-extrax-base-usr",
+    "symbol": "wexbaseusr",
+    "name": "Wrapped ExtraX Base USR",
+    "platforms": {
+      "base": "0x98efe85735f253a0ed0be8e2915ff39f9e4aff0f"
     }
   },
   {
