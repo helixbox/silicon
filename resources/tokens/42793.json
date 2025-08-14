@@ -4,8 +4,16 @@
   "keywords": [
     "defi"
   ],
-  "timestamp": "2025-08-14T08:00:49.447+00:00",
+  "timestamp": "2025-08-14T10:00:46.314+00:00",
   "tokens": [
+    {
+      "chainId": 42793,
+      "address": "0xc9b53ab2679f573e480d01e0f49e2b5cfb7a3eab",
+      "name": "Wrapped XTZ",
+      "symbol": "WXTZ",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/51172/thumb/WXTZ_Logo_Black.png?1750764795"
+    },
     {
       "chainId": 42793,
       "address": "0x9121b153bbcf8c23f20ee43b494f08760b91ad64",
@@ -29,14 +37,6 @@
       "symbol": "USDT",
       "decimals": 6,
       "logoURI": "https://assets.coingecko.com/coins/images/39662/thumb/tether.png?1723525619"
-    },
-    {
-      "chainId": 42793,
-      "address": "0xc9b53ab2679f573e480d01e0f49e2b5cfb7a3eab",
-      "name": "Wrapped XTZ",
-      "symbol": "WXTZ",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/51172/thumb/WXTZ_Logo_Black.png?1750764795"
     },
     {
       "chainId": 42793,
@@ -104,14 +104,6 @@
     },
     {
       "chainId": 42793,
-      "address": "0x790c6fcc916db20ab180d3d3666d51a6662a1a3c",
-      "name": "Temple Key",
-      "symbol": "TKEY",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/30958/thumb/200x200_tkey_token_logo.png?1696529797"
-    },
-    {
-      "chainId": 42793,
       "address": "0x6b43732a9ae9f8654d496c0a075aa4aa43057a0b",
       "name": "Sugarverse",
       "symbol": "CNDY",
@@ -120,8 +112,8 @@
     }
   ],
   "version": {
-    "major": 0,
-    "minor": 12,
+    "major": 1,
+    "minor": 0,
     "patch": 0
   }
 }
