@@ -4,8 +4,16 @@
   "keywords": [
     "defi"
   ],
-  "timestamp": "2025-08-13T13:01:23.383+00:00",
+  "timestamp": "2025-08-14T21:01:32.429+00:00",
   "tokens": [
+    {
+      "chainId": 10,
+      "address": "0x68f180fcce6836688e9084f035309e29bf0a2095",
+      "name": "Optimism Bridged WBTC  Optimism ",
+      "symbol": "WBTC",
+      "decimals": 8,
+      "logoURI": "https://assets.coingecko.com/coins/images/39553/thumb/wbtc.png?1722897341"
+    },
     {
       "chainId": 10,
       "address": "0xc3864f98f2a61a7caeb95b039d031b4e2f55e0e9",
@@ -32,27 +40,35 @@
     },
     {
       "chainId": 10,
-      "address": "0x513c7e3a9c69ca3e22550ef58ac1c0088e918fff",
-      "name": "Aave v3 OP",
-      "symbol": "AOP",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/32919/thumb/op.png?1699825542"
+      "address": "0xc02b55bb2fe3643e1955b13515396ce23b110f80",
+      "name": "Aktionariat Axelra Early Stage AG Token",
+      "symbol": "AXRAS",
+      "decimals": 0,
+      "logoURI": "https://assets.coingecko.com/coins/images/33333/thumb/AXRAS.png?1701519079"
     },
     {
       "chainId": 10,
-      "address": "0x10398abc267496e49106b07dd6be13364d10dc71",
-      "name": "Let s Get HAI",
-      "symbol": "HAI",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/35863/thumb/hai-logo-200x200.png?1711190591"
+      "address": "0xd6c67ff71a82f1d994d94fa01295467d273d7324",
+      "name": "Aktionariat DDC Schweiz AG Tokenized Sh",
+      "symbol": "DDCS",
+      "decimals": 0,
+      "logoURI": "https://assets.coingecko.com/coins/images/33354/thumb/DDC.png?1701563532"
     },
     {
       "chainId": 10,
-      "address": "0x68f180fcce6836688e9084f035309e29bf0a2095",
-      "name": "Optimism Bridged WBTC  Optimism ",
-      "symbol": "WBTC",
-      "decimals": 8,
-      "logoURI": "https://assets.coingecko.com/coins/images/39553/thumb/wbtc.png?1722897341"
+      "address": "0xda10009cbd5d07dd0cecc66161fc93d7c9000da1",
+      "name": "MakerDAO Optimism Bridged DAI  Optimism",
+      "symbol": "DAI",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/39818/thumb/dai.png?1724190656"
+    },
+    {
+      "chainId": 10,
+      "address": "0xef4461891dfb3ac8572ccf7c794664a8dd927945",
+      "name": "WalletConnect Token",
+      "symbol": "WCT",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/50390/thumb/wc-token1.png?1727569464"
     },
     {
       "chainId": 10,
@@ -64,11 +80,11 @@
     },
     {
       "chainId": 10,
-      "address": "0xc02b55bb2fe3643e1955b13515396ce23b110f80",
-      "name": "Aktionariat Axelra Early Stage AG Token",
-      "symbol": "AXRAS",
-      "decimals": 0,
-      "logoURI": "https://assets.coingecko.com/coins/images/33333/thumb/AXRAS.png?1701519079"
+      "address": "0x8c6f28f2f1a3c87f0f938b96d27520d9751ec8d9",
+      "name": "sUSD  Optimism ",
+      "symbol": "SUSD",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/37867/thumb/sus.png?1715815715"
     },
     {
       "chainId": 10,
@@ -80,11 +96,11 @@
     },
     {
       "chainId": 10,
-      "address": "0xd6c67ff71a82f1d994d94fa01295467d273d7324",
-      "name": "Aktionariat DDC Schweiz AG Tokenized Sh",
-      "symbol": "DDCS",
-      "decimals": 0,
-      "logoURI": "https://assets.coingecko.com/coins/images/33354/thumb/DDC.png?1701563532"
+      "address": "0x7f5c764cbc14f9669b88837ca1490cca17c31607",
+      "name": "Standard Bridged USDC e  Optimism ",
+      "symbol": "USDCE",
+      "decimals": 6,
+      "logoURI": "https://assets.coingecko.com/coins/images/31580/thumb/USDC-icon.png?1696530397"
     },
     {
       "chainId": 10,
@@ -104,27 +120,11 @@
     },
     {
       "chainId": 10,
-      "address": "0xda10009cbd5d07dd0cecc66161fc93d7c9000da1",
-      "name": "MakerDAO Optimism Bridged DAI  Optimism",
-      "symbol": "DAI",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/39818/thumb/dai.png?1724190656"
-    },
-    {
-      "chainId": 10,
       "address": "0x8b21e9b7daf2c4325bf3d18c1beb79a347fe902a",
       "name": "Collab Land",
       "symbol": "COLLAB",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/29098/thumb/collab.png?1696528061"
-    },
-    {
-      "chainId": 10,
-      "address": "0xe3b3a464ee575e8e25d2508918383b89c832f275",
-      "name": "PoolTogether Prize USD Coin",
-      "symbol": "PUSDCE",
-      "decimals": 6,
-      "logoURI": "https://assets.coingecko.com/coins/images/32455/thumb/prizeUSDCIcon_200.png?1698241065"
     },
     {
       "chainId": 10,
@@ -144,14 +144,6 @@
     },
     {
       "chainId": 10,
-      "address": "0x3b08fcd15280e7b5a6e404c4abb87f7c774d1b2e",
-      "name": "Overnight Finance",
-      "symbol": "OVN",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/31970/thumb/OVN.png?1696959174"
-    },
-    {
-      "chainId": 10,
       "address": "0xe061aa40be525a13296cb4bf69f513242349d708",
       "name": "XVGOPT",
       "symbol": "XVGOPT",
@@ -160,11 +152,27 @@
     },
     {
       "chainId": 10,
+      "address": "0xb5090d514bcaca7dafb7e52763658844121f346d",
+      "name": "Binary Holdings",
+      "symbol": "BNRY",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/37521/thumb/Vector-1.png?1714634222"
+    },
+    {
+      "chainId": 10,
       "address": "0x139052115f8b1773cf7dcba6a553f922a2e54f69",
       "name": "Nekocoin",
       "symbol": "",
       "decimals": 6,
       "logoURI": "https://assets.coingecko.com/coins/images/50449/thumb/Token-160px.png?1727772379"
+    },
+    {
+      "chainId": 10,
+      "address": "0x22ab31cd55130435b5efbf9224b6a9d5ec36533f",
+      "name": "Exactly Wrapped stETH",
+      "symbol": "EXAWSTETH",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/31172/thumb/ExawstETH_1.png?1696530000"
     },
     {
       "chainId": 10,
@@ -208,11 +216,27 @@
     },
     {
       "chainId": 10,
-      "address": "0x464b808c2c7e04b07e860fdf7a91870620246148",
-      "name": "Wrapped Aave Optimism WETH",
-      "symbol": "WAOPTWETH",
+      "address": "0xe3b3a464ee575e8e25d2508918383b89c832f275",
+      "name": "PoolTogether Prize USD Coin",
+      "symbol": "PUSDCE",
+      "decimals": 6,
+      "logoURI": "https://assets.coingecko.com/coins/images/32455/thumb/prizeUSDCIcon_200.png?1698241065"
+    },
+    {
+      "chainId": 10,
+      "address": "0x3b08fcd15280e7b5a6e404c4abb87f7c774d1b2e",
+      "name": "Overnight Finance",
+      "symbol": "OVN",
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/68212/thumb/eth.jpg?1755084184"
+      "logoURI": "https://assets.coingecko.com/coins/images/31970/thumb/OVN.png?1696959174"
+    },
+    {
+      "chainId": 10,
+      "address": "0x10398abc267496e49106b07dd6be13364d10dc71",
+      "name": "Let s Get HAI",
+      "symbol": "HAI",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/35863/thumb/hai-logo-200x200.png?1711190591"
     },
     {
       "chainId": 10,
@@ -224,14 +248,6 @@
     },
     {
       "chainId": 10,
-      "address": "0x8c6f28f2f1a3c87f0f938b96d27520d9751ec8d9",
-      "name": "sUSD  Optimism ",
-      "symbol": "SUSD",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/37867/thumb/sus.png?1715815715"
-    },
-    {
-      "chainId": 10,
       "address": "0x8fb94e08bc984497aaaf1a545ed455be89f8c675",
       "name": "Aktionariat TV PLUS AG Tokenized Shares",
       "symbol": "TVPLS",
@@ -240,19 +256,11 @@
     },
     {
       "chainId": 10,
-      "address": "0x22ab31cd55130435b5efbf9224b6a9d5ec36533f",
-      "name": "Exactly Wrapped stETH",
-      "symbol": "EXAWSTETH",
+      "address": "0x4200000000000000000000000000000000000042",
+      "name": "Optimism",
+      "symbol": "OP",
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/31172/thumb/ExawstETH_1.png?1696530000"
-    },
-    {
-      "chainId": 10,
-      "address": "0xa430a427bd00210506589906a71b54d6c256cedb",
-      "name": "Exactly Optimism",
-      "symbol": "EXAOP",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/31173/thumb/ExaOP_1.png?1696530001"
+      "logoURI": "https://assets.coingecko.com/coins/images/25244/thumb/Optimism.png?1696524385"
     },
     {
       "chainId": 10,
@@ -264,11 +272,35 @@
     },
     {
       "chainId": 10,
-      "address": "0x69420f9e38a4e60a62224c489be4bf7a94402496",
-      "name": "Defi money",
-      "symbol": "MONEY",
+      "address": "0xd0cf4de352ac8dcce00bd6b93ee73d3cb272edc3",
+      "name": "PCM",
+      "symbol": "PCM",
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/39230/thumb/Token_2x-1.png?1725438128"
+      "logoURI": "https://assets.coingecko.com/coins/images/50402/thumb/pcmlabs_32.png?1727591862"
+    },
+    {
+      "chainId": 10,
+      "address": "0x4200000000000000000000000000000000000006",
+      "name": "L2 Standard Bridged WETH  Optimism ",
+      "symbol": "WETH",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/39715/thumb/WETH.PNG?1723731805"
+    },
+    {
+      "chainId": 10,
+      "address": "0xa430a427bd00210506589906a71b54d6c256cedb",
+      "name": "Exactly Optimism",
+      "symbol": "EXAOP",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/31173/thumb/ExaOP_1.png?1696530001"
+    },
+    {
+      "chainId": 10,
+      "address": "0x5df7abe3c51c01dcf6d1f1f9a0ab4dc3759869b9",
+      "name": "SoonChain",
+      "symbol": "SOONX",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/53140/thumb/Logo_Mark_White_on_Blue_Background_1.png?1735375710"
     },
     {
       "chainId": 10,
@@ -288,22 +320,6 @@
     },
     {
       "chainId": 10,
-      "address": "0xef4461891dfb3ac8572ccf7c794664a8dd927945",
-      "name": "WalletConnect Token",
-      "symbol": "WCT",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/50390/thumb/wc-token1.png?1727569464"
-    },
-    {
-      "chainId": 10,
-      "address": "0x5df7abe3c51c01dcf6d1f1f9a0ab4dc3759869b9",
-      "name": "SoonChain",
-      "symbol": "SOONX",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/53140/thumb/Logo_Mark_White_on_Blue_Background_1.png?1735375710"
-    },
-    {
-      "chainId": 10,
       "address": "0xc26921b5b9ee80773774d36c84328ccb22c3a819",
       "name": "Wrapped OptiDoge",
       "symbol": "WOPTIDOGE",
@@ -312,19 +328,11 @@
     },
     {
       "chainId": 10,
-      "address": "0x4200000000000000000000000000000000000042",
-      "name": "Optimism",
-      "symbol": "OP",
+      "address": "0x464b808c2c7e04b07e860fdf7a91870620246148",
+      "name": "Wrapped Aave Optimism WETH",
+      "symbol": "WAOPTWETH",
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/25244/thumb/Optimism.png?1696524385"
-    },
-    {
-      "chainId": 10,
-      "address": "0x7f5c764cbc14f9669b88837ca1490cca17c31607",
-      "name": "Standard Bridged USDC e  Optimism ",
-      "symbol": "USDCE",
-      "decimals": 6,
-      "logoURI": "https://assets.coingecko.com/coins/images/31580/thumb/USDC-icon.png?1696530397"
+      "logoURI": "https://assets.coingecko.com/coins/images/68212/thumb/eth.jpg?1755084184"
     },
     {
       "chainId": 10,
@@ -336,30 +344,6 @@
     },
     {
       "chainId": 10,
-      "address": "0xb5090d514bcaca7dafb7e52763658844121f346d",
-      "name": "Binary Holdings",
-      "symbol": "BNRY",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/37521/thumb/Vector-1.png?1714634222"
-    },
-    {
-      "chainId": 10,
-      "address": "0x4200000000000000000000000000000000000006",
-      "name": "L2 Standard Bridged WETH  Optimism ",
-      "symbol": "WETH",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/39715/thumb/WETH.PNG?1723731805"
-    },
-    {
-      "chainId": 10,
-      "address": "0x4793405c2231d8646f8ee79e120c230c574b0c4b",
-      "name": "NOI Token",
-      "symbol": "NOI",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/66171/thumb/LOGO_200x200.png?1748538866"
-    },
-    {
-      "chainId": 10,
       "address": "0x17aabf6838a6303fc6e9c5a227dc1eb6d95c829a",
       "name": "Magicaltux",
       "symbol": "TUX",
@@ -368,11 +352,27 @@
     },
     {
       "chainId": 10,
-      "address": "0xd0cf4de352ac8dcce00bd6b93ee73d3cb272edc3",
-      "name": "PCM",
-      "symbol": "PCM",
+      "address": "0x69420f9e38a4e60a62224c489be4bf7a94402496",
+      "name": "Defi money",
+      "symbol": "MONEY",
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/50402/thumb/pcmlabs_32.png?1727591862"
+      "logoURI": "https://assets.coingecko.com/coins/images/39230/thumb/Token_2x-1.png?1725438128"
+    },
+    {
+      "chainId": 10,
+      "address": "0x513c7e3a9c69ca3e22550ef58ac1c0088e918fff",
+      "name": "Aave v3 OP",
+      "symbol": "AOP",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/32919/thumb/op.png?1699825542"
+    },
+    {
+      "chainId": 10,
+      "address": "0x4793405c2231d8646f8ee79e120c230c574b0c4b",
+      "name": "NOI Token",
+      "symbol": "NOI",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/66171/thumb/LOGO_200x200.png?1748538866"
     },
     {
       "chainId": 10,
@@ -516,6 +516,14 @@
       "symbol": "EXTRA",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/30973/thumb/Ex_logo-white-blue_ring_288x.png?1696529812"
+    },
+    {
+      "chainId": 10,
+      "address": "0xf4f447e6afa04c9d11ef0e2fc0d7f19c24ee55de",
+      "name": "YieldFi vyUSD",
+      "symbol": "VYUSD",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/68253/thumb/vyUSD_image.png?1755201198"
     },
     {
       "chainId": 10,
@@ -1092,6 +1100,14 @@
       "symbol": "AXLUSDT",
       "decimals": 6,
       "logoURI": "https://assets.coingecko.com/coins/images/31002/thumb/uusdt_D_3x.png?1696529840"
+    },
+    {
+      "chainId": 10,
+      "address": "0x720f86f4b5b5d5d0ea3e5718ec43071d4d05134b",
+      "name": "Hamilton Lane Senior Credit Opportuniti",
+      "symbol": "HLSCOPE",
+      "decimals": 6,
+      "logoURI": "https://assets.coingecko.com/coins/images/54810/thumb/HLSCOPE.png?1755203168"
     },
     {
       "chainId": 10,
@@ -2080,7 +2096,7 @@
   ],
   "version": {
     "major": 43,
-    "minor": 4,
+    "minor": 6,
     "patch": 0
   }
 }
