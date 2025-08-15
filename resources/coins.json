@@ -25475,8 +25475,15 @@
     "name": "Catcoin",
     "platforms": {
       "binance-smart-chain": "0x59f4f336bf3d0c49dbfba4a74ebd2a6ace40539a",
-      "ethereum": "0x59f4f336bf3d0c49dbfba4a74ebd2a6ace40539a",
       "solana": "7hWcHohzwtLddDUG81H2PkWq6KEkMtSDNkYXsso18Fy3"
+    }
+  },
+  {
+    "id": "catcoin-eth",
+    "symbol": "cat",
+    "name": "Catcoin (ETH)",
+    "platforms": {
+      "ethereum": "0x59f4f336bf3d0c49dbfba4a74ebd2a6ace40539a"
     }
   },
   {
@@ -82131,6 +82138,14 @@
     }
   },
   {
+    "id": "mev-capital-usdt0",
+    "symbol": "mcusdt0",
+    "name": "MEV Capital USDT0",
+    "platforms": {
+      "hyperevm": "0x3bcc0a5a66bb5bdceef5dd8a659a4ec75f3834d8"
+    }
+  },
+  {
     "id": "mev-capital-usual-boosted-usdc-morpho-vault",
     "symbol": "usualusdc+",
     "name": "MEV Capital Usual Boosted USDC Morpho Vault",
@@ -107798,6 +107813,12 @@
     }
   },
   {
+    "id": "rice-ai",
+    "symbol": "rice",
+    "name": "Rice AI",
+    "platforms": {}
+  },
+  {
     "id": "rich",
     "symbol": "rch",
     "name": "Rich",
@@ -125517,7 +125538,9 @@
     "id": "tcom-global",
     "symbol": "tcom",
     "name": "TCOM Global",
-    "platforms": {}
+    "platforms": {
+      "binance-smart-chain": "0xc23db46993f643f1fa0494cd30f9f43505885d84"
+    }
   },
   {
     "id": "tcy",
@@ -138052,6 +138075,14 @@
     "platforms": {
       "wax": "WAX-wax-eosio.token",
       "ethereum": "0x2a79324c19ef2b89ea98b23bc669b7e7c9f8a517"
+    }
+  },
+  {
+    "id": "wax-bridged-usdc-wax",
+    "symbol": "waxusdc",
+    "name": "Wax Bridged USDC (Wax)",
+    "platforms": {
+      "wax": "WAXUSDC-wax-eth.token"
     }
   },
   {
