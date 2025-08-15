@@ -4,15 +4,23 @@
   "keywords": [
     "defi"
   ],
-  "timestamp": "2025-06-23T11:00:32.658+00:00",
+  "timestamp": "2025-08-15T06:00:36.741+00:00",
   "tokens": [
     {
       "chainId": 196,
-      "address": "0xe538905cf8410324e03a5a23c1c177a474d59b2b",
-      "name": "Wrapped OKB",
-      "symbol": "WOKB",
+      "address": "0xa8ce8aee21bc2a48a5ef670afcc9274c7bbbc035",
+      "name": "X Layer Bridged USDC  X Layer ",
+      "symbol": "USDCE",
+      "decimals": 6,
+      "logoURI": "https://assets.coingecko.com/coins/images/38355/thumb/usdc.png?1721299316"
+    },
+    {
+      "chainId": 196,
+      "address": "0x0cc24c51bf89c00c5affbfcf5e856c25ecbdb48e",
+      "name": "XDOG",
+      "symbol": "XDOG",
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/37278/thumb/okb.png?1713935642"
+      "logoURI": "https://assets.coingecko.com/coins/images/68279/thumb/xdog.png?1755236450"
     },
     {
       "chainId": 196,
@@ -24,19 +32,19 @@
     },
     {
       "chainId": 196,
-      "address": "0xa8ce8aee21bc2a48a5ef670afcc9274c7bbbc035",
-      "name": "X Layer Bridged USDC  X Layer ",
-      "symbol": "USDCE",
-      "decimals": 6,
-      "logoURI": "https://assets.coingecko.com/coins/images/38355/thumb/usdc.png?1721299316"
-    },
-    {
-      "chainId": 196,
       "address": "0x4d87750a795b0ae310a24349fa9108585100a90e",
       "name": "HOW TO FLY",
       "symbol": "PUFF",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/38331/thumb/PUFF.jpg?1717098970"
+    },
+    {
+      "chainId": 196,
+      "address": "0xe538905cf8410324e03a5a23c1c177a474d59b2b",
+      "name": "Wrapped OKB",
+      "symbol": "WOKB",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/37278/thumb/okb.png?1713935642"
     },
     {
       "chainId": 196,
@@ -97,7 +105,7 @@
   ],
   "version": {
     "major": 11,
-    "minor": 0,
+    "minor": 1,
     "patch": 0
   }
 }
