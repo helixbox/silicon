@@ -4,16 +4,8 @@
   "keywords": [
     "defi"
   ],
-  "timestamp": "2025-08-15T20:01:00.645+00:00",
+  "timestamp": "2025-08-15T21:01:08.082+00:00",
   "tokens": [
-    {
-      "chainId": 999,
-      "address": "0x96c6cbb6251ee1c257b2162ca0f39aa5fa44b1fb",
-      "name": "Hyperbeat Ultra HYPE",
-      "symbol": "HBHYPE",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/67160/thumb/hyperbeat_hype.jpg?1751940550"
-    },
     {
       "chainId": 999,
       "address": "0x8fdcac157fa99c67015a44f39b2662976bb90d68",
@@ -29,6 +21,22 @@
       "symbol": "HSTR",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/67686/thumb/HyperStrategy_%28dragged%29_copy.png?1753519592"
+    },
+    {
+      "chainId": 999,
+      "address": "0xfd739d4e423301ce9385c1fb8850539d657c296d",
+      "name": "Kinetiq Staked HYPE",
+      "symbol": "KHYPE",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/67388/thumb/khype.png?1752632397"
+    },
+    {
+      "chainId": 999,
+      "address": "0x5d3a1ff2b6bab83b63cd9ad0787074081a52ef34",
+      "name": "HyperEVM Bridged USDE  HyperEVM ",
+      "symbol": "USDE",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/66151/thumb/usde.jpg?1748491903"
     },
     {
       "chainId": 999,
@@ -69,14 +77,6 @@
       "symbol": "USR",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/66152/thumb/usr.jpg?1748492157"
-    },
-    {
-      "chainId": 999,
-      "address": "0x8ff0dd9f9c40a0d76ef1bcfaf5f98c1610c74bd8",
-      "name": "Hyperstable USD",
-      "symbol": "USH",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/55951/thumb/ushlogo.png?1747851688"
     },
     {
       "chainId": 999,
@@ -136,11 +136,11 @@
     },
     {
       "chainId": 999,
-      "address": "0x5d3a1ff2b6bab83b63cd9ad0787074081a52ef34",
-      "name": "HyperEVM Bridged USDE  HyperEVM ",
-      "symbol": "USDE",
+      "address": "0xca79db4b49f608ef54a5cb813fbed3a6387bc645",
+      "name": "Last USD",
+      "symbol": "USDXL",
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/66151/thumb/usde.jpg?1748491903"
+      "logoURI": "https://assets.coingecko.com/coins/images/55083/thumb/usdxl.jpg?1743648438"
     },
     {
       "chainId": 999,
@@ -152,27 +152,19 @@
     },
     {
       "chainId": 999,
-      "address": "0x9c84d78839ade4d3211a9b5fa73ef079eca4f739",
-      "name": "WET",
-      "symbol": "WET",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/56089/thumb/logo_wet.png?1748371556"
-    },
-    {
-      "chainId": 999,
-      "address": "0xca79db4b49f608ef54a5cb813fbed3a6387bc645",
-      "name": "Last USD",
-      "symbol": "USDXL",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/55083/thumb/usdxl.jpg?1743648438"
-    },
-    {
-      "chainId": 999,
       "address": "0x02c6a2fa58cc01a18b8d9e00ea48d65e4df26c70",
       "name": "Felix feUSD",
       "symbol": "FEUSD",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/55068/thumb/feusd.jpg?1743581333"
+    },
+    {
+      "chainId": 999,
+      "address": "0x9c84d78839ade4d3211a9b5fa73ef079eca4f739",
+      "name": "WET",
+      "symbol": "WET",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/56089/thumb/logo_wet.png?1748371556"
     },
     {
       "chainId": 999,
@@ -189,14 +181,6 @@
       "symbol": "GLO",
       "decimals": 6,
       "logoURI": "https://assets.coingecko.com/coins/images/66222/thumb/image.png?1749836552"
-    },
-    {
-      "chainId": 999,
-      "address": "0x9fd7466f987fd4c45a5bbde22ed8aba5bc8d72d1",
-      "name": "Hyperwave HLP",
-      "symbol": "HWHLP",
-      "decimals": 6,
-      "logoURI": "https://assets.coingecko.com/coins/images/66821/thumb/hwhlp.png?1750652862"
     },
     {
       "chainId": 999,
@@ -224,6 +208,22 @@
     },
     {
       "chainId": 999,
+      "address": "0x9fd7466f987fd4c45a5bbde22ed8aba5bc8d72d1",
+      "name": "Hyperwave HLP",
+      "symbol": "HWHLP",
+      "decimals": 6,
+      "logoURI": "https://assets.coingecko.com/coins/images/66821/thumb/hwhlp.png?1750652862"
+    },
+    {
+      "chainId": 999,
+      "address": "0x96c6cbb6251ee1c257b2162ca0f39aa5fa44b1fb",
+      "name": "Hyperbeat Ultra HYPE",
+      "symbol": "HBHYPE",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/67160/thumb/hyperbeat_hype.jpg?1751940550"
+    },
+    {
+      "chainId": 999,
       "address": "0x9b530b0ac8817f4b6c29cff236df85ed33ece660",
       "name": "HarryPotterHyperMarioLiquidFentJeffSpec",
       "symbol": "HYPE",
@@ -240,27 +240,11 @@
     },
     {
       "chainId": 999,
-      "address": "0x1359b05241ca5076c9f59605214f4f84114c0de8",
-      "name": "Wrapped HLP",
-      "symbol": "WHLP",
-      "decimals": 6,
-      "logoURI": "https://assets.coingecko.com/coins/images/66783/thumb/image_%282%29.png?1750493063"
-    },
-    {
-      "chainId": 999,
       "address": "0xdabb040c428436d41cecd0fb06bcfdbaad3a9aa8",
       "name": "Hyperpie Staked mHYPE",
       "symbol": "MHYPE",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/55442/thumb/Hyperpie__mHYPE.png?1746029578"
-    },
-    {
-      "chainId": 999,
-      "address": "0x5e105266db42f78fa814322bce7f388b4c2e61eb",
-      "name": "Hyperbeat USDT",
-      "symbol": "HBUSDT",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/67161/thumb/hyperbeat_usdt.jpg?1751940634"
     },
     {
       "chainId": 999,
@@ -312,11 +296,11 @@
     },
     {
       "chainId": 999,
-      "address": "0xfd739d4e423301ce9385c1fb8850539d657c296d",
-      "name": "Kinetiq Staked HYPE",
-      "symbol": "KHYPE",
+      "address": "0x8ff0dd9f9c40a0d76ef1bcfaf5f98c1610c74bd8",
+      "name": "Hyperstable USD",
+      "symbol": "USH",
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/67388/thumb/khype.png?1752632397"
+      "logoURI": "https://assets.coingecko.com/coins/images/55951/thumb/ushlogo.png?1747851688"
     },
     {
       "chainId": 999,
@@ -325,6 +309,14 @@
       "symbol": "STLOOP",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/56009/thumb/stLOOP.png?1748020765"
+    },
+    {
+      "chainId": 999,
+      "address": "0x1359b05241ca5076c9f59605214f4f84114c0de8",
+      "name": "Wrapped HLP",
+      "symbol": "WHLP",
+      "decimals": 6,
+      "logoURI": "https://assets.coingecko.com/coins/images/66783/thumb/image_%282%29.png?1750493063"
     },
     {
       "chainId": 999,
@@ -349,6 +341,14 @@
       "symbol": "HAHYPE",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/67796/thumb/HMN_Logo_-_Square_-_Light_%281%29.png?1753906923"
+    },
+    {
+      "chainId": 999,
+      "address": "0x5e105266db42f78fa814322bce7f388b4c2e61eb",
+      "name": "Hyperbeat USDT",
+      "symbol": "HBUSDT",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/67161/thumb/hyperbeat_usdt.jpg?1751940634"
     },
     {
       "chainId": 999,
