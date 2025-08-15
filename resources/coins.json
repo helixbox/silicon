@@ -528,14 +528,6 @@
     }
   },
   {
-    "id": "404ver",
-    "symbol": "top",
-    "name": "404ver",
-    "platforms": {
-      "alephium": "utDzMDHq8fygNzqZjCgRjhJbj1Rew14ExohxngeRKA1D"
-    }
-  },
-  {
     "id": "42069coin",
     "symbol": "42069coin",
     "name": "42069COIN",
@@ -13486,14 +13478,6 @@
     }
   },
   {
-    "id": "bankera",
-    "symbol": "bnk",
-    "name": "Bankera",
-    "platforms": {
-      "ethereum": "0x7707aada3ce7722ac63b91727daf1999849f6835"
-    }
-  },
-  {
     "id": "bankercoin",
     "symbol": "$bank",
     "name": "Bankercoin",
@@ -17533,6 +17517,14 @@
     }
   },
   {
+    "id": "bitcoin-on-katana",
+    "symbol": "btck",
+    "name": "Bitcoin on Katana",
+    "platforms": {
+      "katana": "0xb0f70c0bd6fd87dbeb7c10dc692a2a6106817072"
+    }
+  },
+  {
     "id": "bitcoin-pay",
     "symbol": "btcpay",
     "name": "Bitcoin Pay",
@@ -18361,14 +18353,6 @@
     "name": "BlackRack",
     "platforms": {
       "solana": "D7yP4ycfsRWUGYionGpi64sLF2ddZ2JXxuRAti2M7uck"
-    }
-  },
-  {
-    "id": "blackrocktradingcurrency",
-    "symbol": "btc",
-    "name": "BlackrockTradingCurrency",
-    "platforms": {
-      "ethereum": "0xbd6323a83b613f668687014e8a5852079494fb68"
     }
   },
   {
@@ -44202,7 +44186,8 @@
     "symbol": "eigen",
     "name": "EigenCloud (prev. EigenLayer)",
     "platforms": {
-      "ethereum": "0xec53bf9167f50cdeb3ae105f56099aaab9061f83"
+      "ethereum": "0xec53bf9167f50cdeb3ae105f56099aaab9061f83",
+      "base": "0x2081ab0d9ec9e4303234ab26d86b20b3367946ee"
     }
   },
   {
@@ -46201,7 +46186,8 @@
     "symbol": "ena",
     "name": "Ethena",
     "platforms": {
-      "ethereum": "0x57e114b691db790c35207b2e685d4a43181e6061"
+      "ethereum": "0x57e114b691db790c35207b2e685d4a43181e6061",
+      "base": "0x58538e6a46e07434d7e7375bc268d3cb839c0133"
     }
   },
   {
@@ -46573,14 +46559,6 @@
     "name": "Ethernity Cloud",
     "platforms": {
       "polygon-pos": "0xc6920888988caceea7acca0c96f2d65b05ee22ba"
-    }
-  },
-  {
-    "id": "etherparty",
-    "symbol": "fuel",
-    "name": "Etherparty",
-    "platforms": {
-      "ethereum": "0xea38eaa3c86c8f9b751533ba2e562deb9acded40"
     }
   },
   {
@@ -69473,14 +69451,6 @@
     }
   },
   {
-    "id": "kichi",
-    "symbol": "kichi",
-    "name": "Kichi",
-    "platforms": {
-      "solana": "2XW7Qx12j6djvB5Dea2d4jJFNu927CtutaVjm887pump"
-    }
-  },
-  {
     "id": "kick",
     "symbol": "kick",
     "name": "Kick",
@@ -74738,6 +74708,14 @@
     "symbol": "stflow",
     "name": "Increment Staked FLOW",
     "platforms": {}
+  },
+  {
+    "id": "liquid-staked-sol",
+    "symbol": "lssol",
+    "name": "Liquid Staked SOL",
+    "platforms": {
+      "solana": "3sfANVyJiq5uZCZvyizaDzBtHQQTNBr6RBGdXVmFcN5p"
+    }
   },
   {
     "id": "liquid-staking-derivative",
@@ -93628,7 +93606,8 @@
       "lisk": "0x1217bfe6c773eec6cc4a38b5dc45b92292b6e189",
       "superseed": "0x1217bfe6c773eec6cc4a38b5dc45b92292b6e189",
       "optimistic-ethereum": "0x1217bfe6c773eec6cc4a38b5dc45b92292b6e189",
-      "unichain": "0x1217bfe6c773eec6cc4a38b5dc45b92292b6e189"
+      "unichain": "0x1217bfe6c773eec6cc4a38b5dc45b92292b6e189",
+      "ink": "0x1217bfe6c773eec6cc4a38b5dc45b92292b6e189"
     }
   },
   {
@@ -117938,7 +117917,8 @@
     "name": "SOON",
     "platforms": {
       "solana": "4eDf52YYzL6i6gbZ6FXqrLUPXbtP61f1gPSFM66M4XHe",
-      "binance-smart-chain": "0xb9e1fd5a02d3a33b25a14d661414e6ed6954a721"
+      "binance-smart-chain": "0xb9e1fd5a02d3a33b25a14d661414e6ed6954a721",
+      "base": "0xb9e1fd5a02d3a33b25a14d661414e6ed6954a721"
     }
   },
   {
@@ -134509,14 +134489,6 @@
     "name": "V2EX",
     "platforms": {
       "solana": "9raUVuzeWUk53co63M4WXLWPWE4Xc6Lpn7RS9dnkpump"
-    }
-  },
-  {
-    "id": "v3s-share",
-    "symbol": "vshare",
-    "name": "V3S Share",
-    "platforms": {
-      "cronos": "0xdcc261c03cd2f33ebea404318cdc1d9f8b78e1ad"
     }
   },
   {
