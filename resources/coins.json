@@ -2554,6 +2554,14 @@
     }
   },
   {
+    "id": "acore-ai-token",
+    "symbol": "acore",
+    "name": "ACORE AI Token",
+    "platforms": {
+      "ethereum": "0x7849241ccff81511f26c2a86ef9d96624e948975"
+    }
+  },
+  {
     "id": "acquire-fi",
     "symbol": "acq",
     "name": "Acquire.Fi",
@@ -17401,14 +17409,6 @@
     "name": "Bitcoin Bit",
     "platforms": {
       "ethereum": "0x4cf896ac977d07d91626fed71c20f3185b0cb177"
-    }
-  },
-  {
-    "id": "bitcoin-black-credit-card",
-    "symbol": "bbcc",
-    "name": "Bitcoin Black Credit Card",
-    "platforms": {
-      "ethereum": "0xbbcc7c16d56fc3b0c0a9a2ced36c74bcf73e683e"
     }
   },
   {
@@ -35292,12 +35292,6 @@
     }
   },
   {
-    "id": "data-trade-token",
-    "symbol": "dtt",
-    "name": "Data Trade Token",
-    "platforms": {}
-  },
-  {
     "id": "data-universe",
     "symbol": "sn13",
     "name": "Data Universe",
@@ -37322,6 +37316,14 @@
     "name": "Deployyyyer",
     "platforms": {
       "ethereum": "0x3914bdb4130306f80f5d8ee099c180442d19680d"
+    }
+  },
+  {
+    "id": "depot",
+    "symbol": "depot",
+    "name": "Depot",
+    "platforms": {
+      "ethereum": "0x8c174ac036c40941291f5eaadf2555fd6fb6a8df"
     }
   },
   {
@@ -46200,14 +46202,6 @@
     }
   },
   {
-    "id": "ethane",
-    "symbol": "c2h6",
-    "name": "Ethane",
-    "platforms": {
-      "ethereum": "0x6ad9a31f02f1e790ff85584ea3c3d0001e45cd64"
-    }
-  },
-  {
     "id": "ethardio",
     "symbol": "ethardio",
     "name": "ETHARDIO",
@@ -48050,14 +48044,6 @@
     "name": "FarmAI",
     "platforms": {
       "binance-smart-chain": "0x26b5555377c2943408e2eda15a5a05091a1789c1"
-    }
-  },
-  {
-    "id": "farmers-world-wood",
-    "symbol": "fww",
-    "name": "Farmers World Wood",
-    "platforms": {
-      "wax": "FWW-wax-farmerstoken"
     }
   },
   {
@@ -65687,6 +65673,14 @@
     }
   },
   {
+    "id": "iris-ai",
+    "symbol": "iris",
+    "name": "IRIS AI",
+    "platforms": {
+      "ethereum": "0xf392dc113ec3168923512750b57a4fabfb4789ba"
+    }
+  },
+  {
     "id": "iris-chain",
     "symbol": "irc",
     "name": "IRIS Chain",
@@ -69654,14 +69648,6 @@
     "name": "Kimbo",
     "platforms": {
       "avalanche": "0x184ff13b3ebcb25be44e860163a5d8391dd568c1"
-    }
-  },
-  {
-    "id": "kimchi",
-    "symbol": "kimchi",
-    "name": "Kimchi",
-    "platforms": {
-      "solana": "8RpTEVxrfRtJj1BbW8LwTjVyiZ76v6y3wpeaV6jTW3PD"
     }
   },
   {
@@ -80001,15 +79987,6 @@
     }
   },
   {
-    "id": "mechachain",
-    "symbol": "$mecha",
-    "name": "Mechanium",
-    "platforms": {
-      "ethereum": "0xc5bcc8ba3f33ab0d64f3473e861bdc0685b19ef5",
-      "polygon-pos": "0xacd4e2d936be9b16c01848a3742a34b3d5a5bdfa"
-    }
-  },
-  {
     "id": "mecha-morphing",
     "symbol": "mape",
     "name": "Mecha Morphing",
@@ -81326,9 +81303,15 @@
   {
     "id": "meta-2",
     "symbol": "meta",
-    "name": "META",
+    "name": "META[Old]",
+    "platforms": {}
+  },
+  {
+    "id": "meta-2-2",
+    "symbol": "meta",
+    "name": "MetaDAO",
     "platforms": {
-      "solana": "METADDFL6wWMWEoKTFJwcThTbUmtarRJZjRpzUvkxhr"
+      "solana": "METAwkXcqyXKy1AtsSgJ8JiUHwGCafnZL38n3vYmeta"
     }
   },
   {
@@ -83105,6 +83088,14 @@
     "platforms": {
       "ethereum": "0xb26631c6dda06ad89b93c71400d25692de89c068",
       "base": "0x686015ebf044a1b8a4be750346be00293a996071"
+    }
+  },
+  {
+    "id": "mindshare",
+    "symbol": "mindshare",
+    "name": "mindshare",
+    "platforms": {
+      "solana": "2eTJqpK4QqWofGLSoirWNdC3Goyxp81KC3JDMqcupump"
     }
   },
   {
@@ -111256,6 +111247,14 @@
     }
   },
   {
+    "id": "satoshitcoin",
+    "symbol": "satoshit",
+    "name": "SatoshitCoin",
+    "platforms": {
+      "ethereum": "0xaccfd598ef801178ed6c816c234b16ec51ae9f32"
+    }
+  },
+  {
     "id": "satoshivm",
     "symbol": "savm",
     "name": "SatoshiVM",
@@ -114629,14 +114628,6 @@
     "name": "Silo Staked SEI",
     "platforms": {
       "sei-v2": "factory/sei1e3gttzq5e5k49f9f5gzvrl0rltlav65xu6p9xc0aj7e84lantdjqp7cncc/isei"
-    }
-  },
-  {
-    "id": "silva-token",
-    "symbol": "silva",
-    "name": "Silva",
-    "platforms": {
-      "binance-smart-chain": "0x68b5edb385b59e30a7a7db1e681a449e94df0213"
     }
   },
   {
@@ -126966,6 +126957,14 @@
     }
   },
   {
+    "id": "the-bubbleheads",
+    "symbol": "bubble",
+    "name": "The Bubbleheads",
+    "platforms": {
+      "solana": "3G1yVFfKzZxsvTnAnJMQzZBtyTpfWUTY6G7685nRjups"
+    }
+  },
+  {
     "id": "thecat",
     "symbol": "thecat",
     "name": "TheCat",
@@ -126979,6 +126978,14 @@
     "name": "The Cat Is Blue",
     "platforms": {
       "solana": "Fzo4d3toWjH7aFioUaMWWDNkmGh1BbHKSWAgXpHb2pf4"
+    }
+  },
+  {
+    "id": "the-coin",
+    "symbol": "the",
+    "name": "the coin",
+    "platforms": {
+      "solana": "CuM7jCNGFLQpFfnV7ZeUUbBpRWnCsPgTaNj6fgq4pump"
     }
   },
   {
@@ -145044,6 +145051,14 @@
     "name": "Xociety",
     "platforms": {
       "sui": "0x90f9eb95f62d31fbe2179313547e360db86d88d2399103a94286291b63f469ba::xo::XO"
+    }
+  },
+  {
+    "id": "xonxrp",
+    "symbol": "x",
+    "name": "XonXRP",
+    "platforms": {
+      "xrp": "5800000000000000000000000000000000000000.ruxT12tH2mrccHFDjnjqWyGfAxYxYMHLA"
     }
   },
   {
