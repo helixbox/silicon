@@ -24862,6 +24862,14 @@
     }
   },
   {
+    "id": "capapult",
+    "symbol": "capa",
+    "name": "Solid",
+    "platforms": {
+      "terra-2": "terra1t4p3u8khpd7f8qzurwyafxt648dya6mp6vur3vaapswt6m24gkuqrfdhar"
+    }
+  },
+  {
     "id": "capital-dao-starter-token",
     "symbol": "cds",
     "name": "Capital DAO Starter",
@@ -26643,7 +26651,8 @@
     "symbol": "cere",
     "name": "Cere Network",
     "platforms": {
-      "ethereum": "0x2da719db753dfa10a62e140f436e1d67f2ddb0d6"
+      "ethereum": "0x2da719db753dfa10a62e140f436e1d67f2ddb0d6",
+      "base": "0x9886447ff4c350f4600e4bf95db756bdc629b1ca"
     }
   },
   {
@@ -67681,7 +67690,8 @@
     "symbol": "juris",
     "name": "Juris Protocol",
     "platforms": {
-      "terra": "terra1vhgq25vwuhdhn9xjll0rhl2s67jzw78a4g2t78y5kz89q9lsdskq2pxcj2"
+      "terra": "terra1vhgq25vwuhdhn9xjll0rhl2s67jzw78a4g2t78y5kz89q9lsdskq2pxcj2",
+      "osmosis": "ibc/46579C587A0B8CF8B0A1FF6B0EFA2082F11876578E47FC81A9CAAD31F424AF98"
     }
   },
   {
@@ -87603,7 +87613,8 @@
     "symbol": "nami",
     "name": "NAMI Protocol",
     "platforms": {
-      "kujira": "factory/kujira13x2l25mpkhwnwcwdzzd34cr8fyht9jlj7xu9g4uffe36g3fmln8qkvm3qn/unami"
+      "kujira": "factory/kujira13x2l25mpkhwnwcwdzzd34cr8fyht9jlj7xu9g4uffe36g3fmln8qkvm3qn/unami",
+      "thorchain": "thor.nami"
     }
   },
   {
@@ -110965,7 +110976,7 @@
   {
     "id": "sapein",
     "symbol": "sapien",
-    "name": "SAPIEN",
+    "name": "Sapien",
     "platforms": {}
   },
   {
