@@ -5715,9 +5715,17 @@
   {
     "id": "alkimi",
     "symbol": "$ads",
-    "name": "Alkimi",
+    "name": "Alkimi [OLD]",
     "platforms": {
       "ethereum": "0x3106a0a076bedae847652f42ef07fd58589e001f"
+    }
+  },
+  {
+    "id": "alkimi-2",
+    "symbol": "alkimi",
+    "name": "ALKIMI",
+    "platforms": {
+      "sui": "0x1a8f4bc33f8ef7fbc851f156857aa65d397a6a6fd27a7ac2ca717b51f2fd9489::alkimi::ALKIMI"
     }
   },
   {
@@ -103239,6 +103247,14 @@
     }
   },
   {
+    "id": "psol",
+    "symbol": "psol",
+    "name": "pSOL",
+    "platforms": {
+      "solana": "pSoL47GE52V2bgUUyQvs9LSdWQZsokarp2yNsWQaLYy"
+    }
+  },
+  {
     "id": "pssymonstr",
     "symbol": "pssymonstr",
     "name": "PssyMonstr",
@@ -117831,6 +117847,14 @@
     "name": "SOL Roulette",
     "platforms": {
       "solana": "RRiB8JNqJvSQ3YJqFASQ3h5BBHPK1KHFrHgCFhxHjoM"
+    }
+  },
+  {
+    "id": "sol-runner",
+    "symbol": "solrunner",
+    "name": "SOL Runner",
+    "platforms": {
+      "solana": "9dEcM4kpKW7tupAA1Y4QVGVDhL6rwDrWZ3ogs7kpump"
     }
   },
   {
