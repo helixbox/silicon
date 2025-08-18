@@ -4,16 +4,8 @@
   "keywords": [
     "defi"
   ],
-  "timestamp": "2025-08-07T06:00:37.998+00:00",
+  "timestamp": "2025-08-18T19:01:15.689+00:00",
   "tokens": [
-    {
-      "chainId": 130,
-      "address": "0x849f05f7cfdc4215b16a3c5a58361445c4d56c8e",
-      "name": "Hooffather",
-      "symbol": "HOOF",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/55345/thumb/Logo_%282%29.png?1745565191"
-    },
     {
       "chainId": 130,
       "address": "0xd4390b4a41a1057ae0acdd4b9435a0c7555ab464",
@@ -29,14 +21,6 @@
       "symbol": "HOONI",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/54996/thumb/hooni-logo-fixed.png?1743095425"
-    },
-    {
-      "chainId": 130,
-      "address": "0xc3eacf0612346366db554c991d7858716db09f58",
-      "name": "KelpDAO Bridged rsETH  Unichain ",
-      "symbol": "RSETH",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/67283/thumb/rseth.jpg?1752298197"
     },
     {
       "chainId": 130,
@@ -56,27 +40,27 @@
     },
     {
       "chainId": 130,
-      "address": "0x4200000000000000000000000000000000000006",
-      "name": "Unichain Bridged WETH  Unichain ",
-      "symbol": "WETH",
+      "address": "0xc3eacf0612346366db554c991d7858716db09f58",
+      "name": "KelpDAO Bridged rsETH  Unichain ",
+      "symbol": "RSETH",
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/54331/thumb/weth_2.jpg?1739325052"
+      "logoURI": "https://assets.coingecko.com/coins/images/67283/thumb/rseth.jpg?1752298197"
     },
     {
       "chainId": 130,
-      "address": "0x7dcc39b4d1c53cb31e1abc0e358b43987fef80f7",
-      "name": "Ether fi Bridged weETH  Unichain ",
-      "symbol": "WEETH",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/66721/thumb/eeth.jpg?1750313748"
+      "address": "0x0555e30da8f98308edb960aa94c0db47230d2b9c",
+      "name": "LayerZero Bridged WBTC  Unichain ",
+      "symbol": "WBTC",
+      "decimals": 8,
+      "logoURI": "https://assets.coingecko.com/coins/images/66720/thumb/wbtc.jpg?1750312819"
     },
     {
       "chainId": 130,
-      "address": "0x756ee6857f915a2b5366f2ef56d8d13857aef8ad",
-      "name": "Catex",
-      "symbol": "CATX",
+      "address": "0x849f05f7cfdc4215b16a3c5a58361445c4d56c8e",
+      "name": "Hooffather",
+      "symbol": "HOOF",
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/67331/thumb/Catex_logo_Coinbgecko.png?1752402945"
+      "logoURI": "https://assets.coingecko.com/coins/images/55345/thumb/Logo_%282%29.png?1745565191"
     },
     {
       "chainId": 130,
@@ -88,11 +72,27 @@
     },
     {
       "chainId": 130,
-      "address": "0x0555e30da8f98308edb960aa94c0db47230d2b9c",
-      "name": "LayerZero Bridged WBTC  Unichain ",
-      "symbol": "WBTC",
-      "decimals": 8,
-      "logoURI": "https://assets.coingecko.com/coins/images/66720/thumb/wbtc.jpg?1750312819"
+      "address": "0x4200000000000000000000000000000000000006",
+      "name": "Unichain Bridged WETH  Unichain ",
+      "symbol": "WETH",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/54331/thumb/weth_2.jpg?1739325052"
+    },
+    {
+      "chainId": 130,
+      "address": "0x756ee6857f915a2b5366f2ef56d8d13857aef8ad",
+      "name": "Catex",
+      "symbol": "CATX",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/67331/thumb/Catex_logo_Coinbgecko.png?1752402945"
+    },
+    {
+      "chainId": 130,
+      "address": "0x7dcc39b4d1c53cb31e1abc0e358b43987fef80f7",
+      "name": "Ether fi Bridged weETH  Unichain ",
+      "symbol": "WEETH",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/66721/thumb/eeth.jpg?1750313748"
     },
     {
       "chainId": 130,
@@ -136,14 +136,6 @@
     },
     {
       "chainId": 130,
-      "address": "0x2416092f143378750bb29b79ed961ab195cceea5",
-      "name": "Renzo Restaked ETH",
-      "symbol": "EZETH",
-      "decimals": 16,
-      "logoURI": "https://assets.coingecko.com/coins/images/34753/thumb/Ezeth_logo_circle.png?1713496404"
-    },
-    {
-      "chainId": 130,
       "address": "0x9151434b16b9763660705744891fa906f660ecc5",
       "name": "USDT0",
       "symbol": "USDT0",
@@ -181,11 +173,19 @@
       "symbol": "WSRUSD",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/66163/thumb/wsrUSD.png?1748500965"
+    },
+    {
+      "chainId": 130,
+      "address": "0x2416092f143378750bb29b79ed961ab195cceea5",
+      "name": "Renzo Restaked ETH",
+      "symbol": "EZETH",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/34753/thumb/Ezeth_logo_circle.png?1713496404"
     }
   ],
   "version": {
     "major": 2,
     "minor": 6,
-    "patch": 0
+    "patch": 1
   }
 }
