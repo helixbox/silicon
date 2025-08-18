@@ -4,7 +4,7 @@
   "keywords": [
     "defi"
   ],
-  "timestamp": "2025-08-18T09:01:24.368+00:00",
+  "timestamp": "2025-08-18T12:01:27.321+00:00",
   "tokens": [
     {
       "chainId": 59144,
@@ -16,11 +16,11 @@
     },
     {
       "chainId": 59144,
-      "address": "0xefd81eec32b9a8222d1842ec3d99c7532c31e348",
-      "name": "Etherex",
-      "symbol": "REX",
+      "address": "0xe4eeb461ad1e4ef8b8ef71a33694ccd84af051c4",
+      "name": "Etherex Liquid Staking Token",
+      "symbol": "REX33",
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/68009/thumb/etherex.jpg?1754560098"
+      "logoURI": "https://assets.coingecko.com/coins/images/68282/thumb/rex33.png?1755242075"
     },
     {
       "chainId": 59144,
@@ -37,6 +37,14 @@
       "symbol": "WAVAX",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/53094/thumb/celer-bridged-wavax-linea.png?1735220790"
+    },
+    {
+      "chainId": 59144,
+      "address": "0x3aab2285ddcddad8edf438c1bab47e1a9d05a9b4",
+      "name": "Linea Bridged WBTC  Linea ",
+      "symbol": "WBTC",
+      "decimals": 8,
+      "logoURI": "https://assets.coingecko.com/coins/images/50164/thumb/wbtc.png?1726136135"
     },
     {
       "chainId": 59144,
@@ -64,11 +72,11 @@
     },
     {
       "chainId": 59144,
-      "address": "0xa219439258ca9da29e9cc4ce5596924745e12b93",
-      "name": "Bridged Tether  Linea ",
-      "symbol": "USDT",
-      "decimals": 6,
-      "logoURI": "https://assets.coingecko.com/coins/images/31271/thumb/usdt.jpeg?1696530095"
+      "address": "0x12bbdc004a0e9085ff94df1717336ecbc9f9e5fe",
+      "name": "RustyAI",
+      "symbol": "RUSTY",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/68367/thumb/photo_2025-08-16_14-15-37.jpg?1755513766"
     },
     {
       "chainId": 59144,
@@ -144,19 +152,27 @@
     },
     {
       "chainId": 59144,
+      "address": "0x880a3ae90f989030708a529abd841589053c1dc2",
+      "name": "Beaver Coin",
+      "symbol": "BEAVER",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/68370/thumb/IMG_2705.jpeg?1755514493"
+    },
+    {
+      "chainId": 59144,
+      "address": "0xefd81eec32b9a8222d1842ec3d99c7532c31e348",
+      "name": "Etherex",
+      "symbol": "REX",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/68009/thumb/etherex.jpg?1754560098"
+    },
+    {
+      "chainId": 59144,
       "address": "0xf3b001d64c656e30a62fbaaca003b1336b4ce12a",
       "name": "MAI  Linea ",
       "symbol": "MIMATIC",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/35569/thumb/mimatic-red.png?1709192002"
-    },
-    {
-      "chainId": 59144,
-      "address": "0x3aab2285ddcddad8edf438c1bab47e1a9d05a9b4",
-      "name": "Linea Bridged WBTC  Linea ",
-      "symbol": "WBTC",
-      "decimals": 8,
-      "logoURI": "https://assets.coingecko.com/coins/images/50164/thumb/wbtc.png?1726136135"
     },
     {
       "chainId": 59144,
@@ -192,11 +208,11 @@
     },
     {
       "chainId": 59144,
-      "address": "0xe4eeb461ad1e4ef8b8ef71a33694ccd84af051c4",
-      "name": "Etherex Liquid Staking Token",
-      "symbol": "REX33",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/68282/thumb/rex33.png?1755242075"
+      "address": "0xa219439258ca9da29e9cc4ce5596924745e12b93",
+      "name": "Bridged Tether  Linea ",
+      "symbol": "USDT",
+      "decimals": 6,
+      "logoURI": "https://assets.coingecko.com/coins/images/31271/thumb/usdt.jpeg?1696530095"
     },
     {
       "chainId": 59144,
@@ -665,7 +681,7 @@
   ],
   "version": {
     "major": 23,
-    "minor": 0,
+    "minor": 1,
     "patch": 0
   }
 }

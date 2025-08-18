@@ -4,16 +4,8 @@
   "keywords": [
     "defi"
   ],
-  "timestamp": "2025-07-25T10:01:11.878+00:00",
+  "timestamp": "2025-08-18T09:01:23.413+00:00",
   "tokens": [
-    {
-      "chainId": 5000,
-      "address": "0x51cfe5b1e764dc253f4c8c1f19a081ff4c3517ed",
-      "name": "Mantle Inu",
-      "symbol": "MINU",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/31014/thumb/mantle-inu.jpeg?1696529851"
-    },
     {
       "chainId": 5000,
       "address": "0x211cc4dd073734da055fbf44a2b4667d5e5fe5d2",
@@ -40,19 +32,27 @@
     },
     {
       "chainId": 5000,
+      "address": "0xabbeed1d173541e0546b38b1c0394975be200000",
+      "name": "Slash Vision Labs",
+      "symbol": "SVL",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/37444/thumb/svl.jpeg?1714443652"
+    },
+    {
+      "chainId": 5000,
+      "address": "0x4515a45337f461a11ff0fe8abf3c606ae5dc00c9",
+      "name": "MOE",
+      "symbol": "MOE",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/34422/thumb/MOE.png?1704821927"
+    },
+    {
+      "chainId": 5000,
       "address": "0x671642ac281c760e34251d51bc9eef27026f3b7a",
       "name": "Mantle Index Four Fund",
       "symbol": "MI4",
       "decimals": 6,
       "logoURI": "https://assets.coingecko.com/coins/images/66570/thumb/mi4.png?1749795929"
-    },
-    {
-      "chainId": 5000,
-      "address": "0x201eba5cc46d216ce6dc03f6a759e8e766e956ae",
-      "name": "Mantle Bridged USDT  Mantle ",
-      "symbol": "USDT",
-      "decimals": 6,
-      "logoURI": "https://assets.coingecko.com/coins/images/35069/thumb/logo.png?1707291114"
     },
     {
       "chainId": 5000,
@@ -71,19 +71,19 @@
     },
     {
       "chainId": 5000,
-      "address": "0xabbeed1d173541e0546b38b1c0394975be200000",
-      "name": "Slash Vision Labs",
-      "symbol": "SVL",
+      "address": "0x51cfe5b1e764dc253f4c8c1f19a081ff4c3517ed",
+      "name": "Mantle Inu",
+      "symbol": "MINU",
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/37444/thumb/svl.jpeg?1714443652"
+      "logoURI": "https://assets.coingecko.com/coins/images/31014/thumb/mantle-inu.jpeg?1696529851"
     },
     {
       "chainId": 5000,
-      "address": "0x4515a45337f461a11ff0fe8abf3c606ae5dc00c9",
-      "name": "MOE",
-      "symbol": "MOE",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/34422/thumb/MOE.png?1704821927"
+      "address": "0x201eba5cc46d216ce6dc03f6a759e8e766e956ae",
+      "name": "Mantle Bridged USDT  Mantle ",
+      "symbol": "USDT",
+      "decimals": 6,
+      "logoURI": "https://assets.coingecko.com/coins/images/35069/thumb/logo.png?1707291114"
     },
     {
       "chainId": 5000,
@@ -140,14 +140,6 @@
       "symbol": "MINTY",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/29455/thumb/MINTY.png?1706817774"
-    },
-    {
-      "chainId": 5000,
-      "address": "0x406cde76a3fd20e48bc1e0f60651e60ae204b040",
-      "name": "Bridged FRAX",
-      "symbol": "FRAX",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/53060/thumb/frax.jpg?1735171829"
     },
     {
       "chainId": 5000,
@@ -383,7 +375,7 @@
     }
   ],
   "version": {
-    "major": 16,
+    "major": 17,
     "minor": 0,
     "patch": 0
   }
