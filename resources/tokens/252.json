@@ -4,24 +4,8 @@
   "keywords": [
     "defi"
   ],
-  "timestamp": "2025-08-12T21:00:20.621+00:00",
+  "timestamp": "2025-08-19T23:00:17.912+00:00",
   "tokens": [
-    {
-      "chainId": 252,
-      "address": "0x788d96f655735f52c676a133f4dfc53cec614d4a",
-      "name": "dTRINITY USD",
-      "symbol": "DUSD",
-      "decimals": 6,
-      "logoURI": "https://assets.coingecko.com/coins/images/53290/thumb/dUSD_Logo.png?1735997462"
-    },
-    {
-      "chainId": 252,
-      "address": "0xdcc0f2d8f90fde85b10ac1c8ab57dc0ae946a543",
-      "name": "Fraxtal Bridged USDC  Fraxtal ",
-      "symbol": "USDC",
-      "decimals": 6,
-      "logoURI": "https://assets.coingecko.com/coins/images/52655/thumb/usdc.jpg?1733995749"
-    },
     {
       "chainId": 252,
       "address": "0x6e58089d8e8f664823d26454f49a5a0f2ff697fe",
@@ -40,27 +24,19 @@
     },
     {
       "chainId": 252,
+      "address": "0xdcc0f2d8f90fde85b10ac1c8ab57dc0ae946a543",
+      "name": "Fraxtal Bridged USDC  Fraxtal ",
+      "symbol": "USDC",
+      "decimals": 6,
+      "logoURI": "https://assets.coingecko.com/coins/images/52655/thumb/usdc.jpg?1733995749"
+    },
+    {
+      "chainId": 252,
       "address": "0xfc00000000000000000000000000000000000005",
       "name": "L2 Standard Bridged sfrxETH  Fraxtal ",
       "symbol": "SFRXETH",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/40044/thumb/sfrxeth.webp?1725419973"
-    },
-    {
-      "chainId": 252,
-      "address": "0xc84c0f36e42d0100c6ff5e1d04e2978f0a5b63cf",
-      "name": "Real World Abs",
-      "symbol": "RWA",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/35798/thumb/_E-hXm9c_400x400.jpg?1709807509"
-    },
-    {
-      "chainId": 252,
-      "address": "0xfc00000000000000000000000000000000000001",
-      "name": "L2 Standard Bridged frxUSD",
-      "symbol": "FRXUSD",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/54455/thumb/frxusd.png?1739790094"
     },
     {
       "chainId": 252,
@@ -72,11 +48,19 @@
     },
     {
       "chainId": 252,
-      "address": "0xcc15f0f1e81e4a90cc2faa918842e19f2ea2ee03",
-      "name": "Krypto Fraxtal Chicken",
-      "symbol": "KFC",
+      "address": "0x788d96f655735f52c676a133f4dfc53cec614d4a",
+      "name": "dTRINITY USD",
+      "symbol": "DUSD",
+      "decimals": 6,
+      "logoURI": "https://assets.coingecko.com/coins/images/53290/thumb/dUSD_Logo.png?1735997462"
+    },
+    {
+      "chainId": 252,
+      "address": "0xc84c0f36e42d0100c6ff5e1d04e2978f0a5b63cf",
+      "name": "Real World Abs",
+      "symbol": "RWA",
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/36048/thumb/kfc.jpg?1710401920"
+      "logoURI": "https://assets.coingecko.com/coins/images/35798/thumb/_E-hXm9c_400x400.jpg?1709807509"
     },
     {
       "chainId": 252,
@@ -85,6 +69,14 @@
       "symbol": "WFRAX",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/55432/thumb/wfrax_64.png?1745993624"
+    },
+    {
+      "chainId": 252,
+      "address": "0xcc15f0f1e81e4a90cc2faa918842e19f2ea2ee03",
+      "name": "Krypto Fraxtal Chicken",
+      "symbol": "KFC",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/36048/thumb/kfc.jpg?1710401920"
     },
     {
       "chainId": 252,
@@ -176,6 +168,14 @@
     },
     {
       "chainId": 252,
+      "address": "0xfc00000000000000000000000000000000000001",
+      "name": "Frax USD",
+      "symbol": "FRXUSD",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/53963/thumb/frxUSD.png?1737792154"
+    },
+    {
+      "chainId": 252,
       "address": "0x4c0bd74da8237c08840984fdb33a84b4586aaee6",
       "name": "VNX EURO",
       "symbol": "VEUR",
@@ -202,6 +202,6 @@
   "version": {
     "major": 4,
     "minor": 4,
-    "patch": 1
+    "patch": 2
   }
 }

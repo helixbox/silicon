@@ -43751,6 +43751,14 @@
     }
   },
   {
+    "id": "eblockstock",
+    "symbol": "ebso",
+    "name": "eBlockStock",
+    "platforms": {
+      "ethereum": "0x866f8a50a64e68ca66e97e032c5da99538b3f942"
+    }
+  },
+  {
     "id": "ebtc",
     "symbol": "ebtc",
     "name": "eBTC",
@@ -51642,7 +51650,11 @@
     "name": "Frax USD",
     "platforms": {
       "ethereum": "0xcacd6fd266af91b8aed52accc382b4e165586e29",
-      "sonic": "0x80eede496655fb9047dd39d9f418d5483ed600df"
+      "sonic": "0x80eede496655fb9047dd39d9f418d5483ed600df",
+      "fraxtal": "0xfc00000000000000000000000000000000000001",
+      "sei-v2": "0x80eede496655fb9047dd39d9f418d5483ed600df",
+      "mode": "0x80eede496655fb9047dd39d9f418d5483ed600df",
+      "x-layer": "0x80eede496655fb9047dd39d9f418d5483ed600df"
     }
   },
   {
@@ -72007,14 +72019,6 @@
     }
   },
   {
-    "id": "l2-standard-bridged-frxusd",
-    "symbol": "frxusd",
-    "name": "L2 Standard Bridged frxUSD",
-    "platforms": {
-      "fraxtal": "0xfc00000000000000000000000000000000000001"
-    }
-  },
-  {
     "id": "l2-standard-bridged-sfrxeth-fraxtal",
     "symbol": "sfrxeth",
     "name": "L2 Standard Bridged sfrxETH (Fraxtal)",
@@ -72937,16 +72941,6 @@
       "avalanche": "0x6985884c4392d348587b19cb9eaaf157f13271cd",
       "binance-smart-chain": "0x6985884c4392d348587b19cb9eaaf157f13271cd",
       "polygon-pos": "0x6985884c4392d348587b19cb9eaaf157f13271cd"
-    }
-  },
-  {
-    "id": "layerzero-bridged-frxusd",
-    "symbol": "frxusd",
-    "name": "LayerZero Bridged frxUSD",
-    "platforms": {
-      "sei-v2": "0x80eede496655fb9047dd39d9f418d5483ed600df",
-      "mode": "0x80eede496655fb9047dd39d9f418d5483ed600df",
-      "x-layer": "0x80eede496655fb9047dd39d9f418d5483ed600df"
     }
   },
   {
