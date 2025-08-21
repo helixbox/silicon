@@ -4,24 +4,8 @@
   "keywords": [
     "defi"
   ],
-  "timestamp": "2025-08-12T19:01:39.503+00:00",
+  "timestamp": "2025-08-21T02:01:49.173+00:00",
   "tokens": [
-    {
-      "chainId": 1284,
-      "address": "0xcd3b51d98478d53f4515a306be565c6eebef1d58",
-      "name": "BeamSwap",
-      "symbol": "GLINT",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/22893/thumb/glint.png?1696522190"
-    },
-    {
-      "chainId": 1284,
-      "address": "0xe8e8bd89a429526561e1283cb789719864ffd0b4",
-      "name": "Gu",
-      "symbol": "GU",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/68189/thumb/GU-logo.png?1755024305"
-    },
     {
       "chainId": 1284,
       "address": "0x0e358838ce72d5e61e0018a2ffac4bec5f4c88d2",
@@ -56,14 +40,6 @@
     },
     {
       "chainId": 1284,
-      "address": "0x818ec0a7fe18ff94269904fced6ae3dae6d6dc0b",
-      "name": "Multichain Bridged USDC  Moonbeam ",
-      "symbol": "USDC",
-      "decimals": 6,
-      "logoURI": "https://assets.coingecko.com/coins/images/35230/thumb/USDC.jpg?1707924914"
-    },
-    {
-      "chainId": 1284,
       "address": "0xffffffff8a9736b44ebf188972725bed67bf694e",
       "name": "Apillon",
       "symbol": "NCTR",
@@ -72,11 +48,19 @@
     },
     {
       "chainId": 1284,
-      "address": "0xffffffffea09fb06d082fd1275cd48b191cbcd1d",
-      "name": "xcUSDT",
-      "symbol": "XCUSDT",
+      "address": "0x818ec0a7fe18ff94269904fced6ae3dae6d6dc0b",
+      "name": "Multichain Bridged USDC  Moonbeam ",
+      "symbol": "USDC",
       "decimals": 6,
-      "logoURI": "https://assets.coingecko.com/coins/images/29019/thumb/usdt.png?1696527990"
+      "logoURI": "https://assets.coingecko.com/coins/images/35230/thumb/USDC.jpg?1707924914"
+    },
+    {
+      "chainId": 1284,
+      "address": "0xffffffff1fcacbd218edc0eba20fc2308c778080",
+      "name": "xcDOT",
+      "symbol": "DOT",
+      "decimals": 10,
+      "logoURI": "https://assets.coingecko.com/coins/images/26044/thumb/polkadot-asset_32.png?1696525125"
     },
     {
       "chainId": 1284,
@@ -85,6 +69,22 @@
       "symbol": "FLARE",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/24310/thumb/Solarflare.png?1696523491"
+    },
+    {
+      "chainId": 1284,
+      "address": "0xcd3b51d98478d53f4515a306be565c6eebef1d58",
+      "name": "BeamSwap",
+      "symbol": "GLINT",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/22893/thumb/glint.png?1696522190"
+    },
+    {
+      "chainId": 1284,
+      "address": "0xffffffffea09fb06d082fd1275cd48b191cbcd1d",
+      "name": "xcUSDT",
+      "symbol": "XCUSDT",
+      "decimals": 6,
+      "logoURI": "https://assets.coingecko.com/coins/images/29019/thumb/usdt.png?1696527990"
     },
     {
       "chainId": 1284,
@@ -104,19 +104,11 @@
     },
     {
       "chainId": 1284,
-      "address": "0x30d2a9f5fdf90ace8c17952cbb4ee48a55d916a7",
-      "name": "Nomad Bridged WETH  Moonbeam ",
-      "symbol": "WETH",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/39720/thumb/WETH.PNG?1723732514"
-    },
-    {
-      "chainId": 1284,
-      "address": "0xffffffff1fcacbd218edc0eba20fc2308c778080",
-      "name": "xcDOT",
-      "symbol": "DOT",
-      "decimals": 10,
-      "logoURI": "https://assets.coingecko.com/coins/images/26044/thumb/polkadot-asset_32.png?1696525125"
+      "address": "0xffffffff7d2b0b761af01ca8e25242976ac0ad7d",
+      "name": "xcUSDC",
+      "symbol": "XCUSDC",
+      "decimals": 6,
+      "logoURI": "https://assets.coingecko.com/coins/images/68438/thumb/usdc.jpg?1755740037"
     },
     {
       "chainId": 1284,
@@ -125,6 +117,22 @@
       "symbol": "DAI",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/39799/thumb/dai.png?1724125463"
+    },
+    {
+      "chainId": 1284,
+      "address": "0x30d2a9f5fdf90ace8c17952cbb4ee48a55d916a7",
+      "name": "Nomad Bridged WETH  Moonbeam ",
+      "symbol": "WETH",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/39720/thumb/WETH.PNG?1723732514"
+    },
+    {
+      "chainId": 1284,
+      "address": "0xe8e8bd89a429526561e1283cb789719864ffd0b4",
+      "name": "Gu",
+      "symbol": "GU",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/68189/thumb/GU-logo.png?1755024305"
     },
     {
       "chainId": 1284,
@@ -265,7 +273,7 @@
   ],
   "version": {
     "major": 12,
-    "minor": 1,
+    "minor": 2,
     "patch": 0
   }
 }
