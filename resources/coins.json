@@ -20547,6 +20547,7 @@
       "solana": "DezXAZ8z7PnrnRJjz3wXBoRgixCa6xjnB7YaB1pPB263",
       "neon-evm": "0xd4b6520f7fb78e1ee75639f3376c581a71bcdb0e",
       "arbitrum-one": "0x09199d9a5f4448d0848e4395d065e1ad9c4a1f74",
+      "unichain": "0xbbe97f3522101e5b6976cbf77376047097ba837f",
       "aptos": "0x2a90fae71afc7460ee42b20ee49a9c9b29272905ad71fef92fbd8b3905a24b56",
       "ethereum": "0x1151cb3d861920e07a38e03eead12c32178567f6",
       "binance-smart-chain": "0xa697e272a73744b343528c3bc4702f2565b2f422",
@@ -41247,7 +41248,8 @@
     "symbol": "wif",
     "name": "dogwifhat",
     "platforms": {
-      "solana": "EKpQGSJtjMFqKZ9KQanSqYXRcF8fBopzLHYxdM65zcjm"
+      "solana": "EKpQGSJtjMFqKZ9KQanSqYXRcF8fBopzLHYxdM65zcjm",
+      "unichain": "0x97fadb3d000b953360fd011e173f12cddb5d70fa"
     }
   },
   {
@@ -68081,7 +68083,8 @@
     "symbol": "jup",
     "name": "Jupiter",
     "platforms": {
-      "solana": "JUPyiwrYJFskUPiHa7hkeR8VUtAeFoSYbKedZNsDvCN"
+      "solana": "JUPyiwrYJFskUPiHa7hkeR8VUtAeFoSYbKedZNsDvCN",
+      "unichain": "0xbe51a5e8fa434f09663e8fb4cce79d0b2381afad"
     }
   },
   {
@@ -118431,6 +118434,7 @@
       "osmosis": "ibc/1E43D59E565D41FB4E54CA639B838FFD5BCFC20003D330A56CB1396231AA1CBA",
       "oasis": "0xd17ddac91670274f7ba1590a06eca0f2fd2b12bc",
       "avalanche": "0xfe6b19286885a4f7f55adad09c3cd1f906d2478f",
+      "unichain": "0xbde8a5331e8ac4831cf8ea9e42e229219eafab97",
       "terra": "terra190tqwgqx7s8qrknz6kckct7v607cu068gfujpk",
       "binance-smart-chain": "0xfa54ff1a158b5189ebba6ae130ced6bbd3aea76e",
       "polygon-pos": "0xd93f7e271cb87c23aaa73edc008a79646d1f9912"
@@ -141275,6 +141279,14 @@
       "arbitrum-one": "0xb0ffa8000886e57f86dd5264b9582b2ad87b2b91",
       "base": "0xb0ffa8000886e57f86dd5264b9582b2ad87b2b91",
       "ethereum": "0xb0ffa8000886e57f86dd5264b9582b2ad87b2b91"
+    }
+  },
+  {
+    "id": "wormhole-bridged-hype",
+    "symbol": "hype",
+    "name": "Wormhole Bridged HYPE",
+    "platforms": {
+      "unichain": "0x15d0e0c55a3e7ee67152ad7e89acf164253ff68d"
     }
   },
   {
