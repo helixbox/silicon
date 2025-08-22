@@ -47170,6 +47170,8 @@
       "ethereum": "0xa0769f7a8fc65e47de93797b4e21c073c117fc80",
       "starknet": "0x04f5e0de717daa6aa8de63b1bf2e8d7823ec5b21a88461b1519d9dbc956fb7f2",
       "arbitrum-one": "0xcbeb19549054cc0a6257a77736fc78c367216ce7",
+      "base": "0xa260d72df8ff2696f3a8d0be46b7bc4d743be764",
+      "etherlink": "0xa0769f7a8fc65e47de93797b4e21c073c117fc80",
       "polygon-pos": "0xa0769f7a8fc65e47de93797b4e21c073c117fc80"
     }
   },
@@ -51874,6 +51876,14 @@
     "name": "Free Speech",
     "platforms": {
       "ethereum": "0x140007c65535aa9c3801ea3bbd3f83c378c7f457"
+    }
+  },
+  {
+    "id": "freestyle-classic",
+    "symbol": "fst",
+    "name": "FreeStyle Classic",
+    "platforms": {
+      "binance-smart-chain": "0xfa35e2250e376c23955247383dc32c79082e7fcc"
     }
   },
   {
@@ -60642,6 +60652,12 @@
     "platforms": {
       "binance-smart-chain": "0xd48d639f72ef29458b72cdc9a47a95fa46101529"
     }
+  },
+  {
+    "id": "hemi",
+    "symbol": "hemi",
+    "name": "Hemi",
+    "platforms": {}
   },
   {
     "id": "hemi-bitcoin",
@@ -97603,6 +97619,14 @@
     }
   },
   {
+    "id": "peengu",
+    "symbol": "peengu",
+    "name": "Peengu",
+    "platforms": {
+      "abstract": "0xe768efeb8b570775e26222dfdca5670250ed9522"
+    }
+  },
+  {
     "id": "peeno",
     "symbol": "peeno",
     "name": "PEENO",
@@ -111781,7 +111805,12 @@
     "id": "satlayer-restaked-unibtc",
     "symbol": "satunibtc",
     "name": "SatLayer Restaked uniBTC",
-    "platforms": {}
+    "platforms": {
+      "ethereum": "0xf7de2b7afdb07aa5dd143180ed758165821e076e",
+      "berachain": "0x2a5fc05f71cfc54ddcad19457cee79e3aaf415c9",
+      "bitlayer": "0x4fdb0511f1e5c6c215596570f855cb1f9924b8b6",
+      "bob-network": "0x4cbe838e2bd3b46247f80519b6ac79363298aa09"
+    }
   },
   {
     "id": "sato",
@@ -119853,6 +119882,8 @@
       "ethereum": "0xe4880249745eac5f1ed9d8f7df844792d560e750",
       "starknet": "0x020ff2f6021ada9edbceaf31b96f9f67b746662a6e6b2bc9d30c0d3e290a71f6",
       "arbitrum-one": "0x021289588cd81dc1ac87ea91e91607eef68303f5",
+      "base": "0xe4880249745eac5f1ed9d8f7df844792d560e750",
+      "etherlink": "0xe4880249745eac5f1ed9d8f7df844792d560e750",
       "polygon-pos": "0xe4880249745eac5f1ed9d8f7df844792d560e750"
     }
   },
@@ -145035,7 +145066,9 @@
     "id": "xbo-xom",
     "symbol": "xbo",
     "name": "$XBO Token",
-    "platforms": {}
+    "platforms": {
+      "ethereum": "0x167e6fcd728cdd00d012d8862934c2c333cb0839"
+    }
   },
   {
     "id": "xbt",
