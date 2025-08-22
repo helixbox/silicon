@@ -4022,9 +4022,17 @@
   {
     "id": "aicrostrategy",
     "symbol": "aistr",
-    "name": "AicroStrategy",
+    "name": "AicroStrategy [Old]",
     "platforms": {
       "base": "0x20ef84969f6d81ff74ae4591c331858b20ad82cd"
+    }
+  },
+  {
+    "id": "aicrostrategy-2",
+    "symbol": "aistr",
+    "name": "AicroStrategy",
+    "platforms": {
+      "base": "0x323ac72a3a6267d97427944989b896fb411fdcbb"
     }
   },
   {
@@ -16628,7 +16636,9 @@
     "id": "billy-bets-by-virtuals",
     "symbol": "$billy",
     "name": "Billy Bets by Virtuals [OLD]",
-    "platforms": {}
+    "platforms": {
+      "solana": "9Rhbn9G5poLvgnFzuYBtJgbzmiipNra35QpnUek9virt"
+    }
   },
   {
     "id": "billy-bets-by-virtuals-2",
@@ -21137,7 +21147,9 @@
     "id": "boots",
     "symbol": "boots",
     "name": "boots [OLD]",
-    "platforms": {}
+    "platforms": {
+      "base": "0x1d69c205416c683e3d0efc93b76a78ee7755945c"
+    }
   },
   {
     "id": "boots-2",
@@ -33422,8 +33434,10 @@
   {
     "id": "crypto-hub",
     "symbol": "hub",
-    "name": "Crypto Hub[Old]",
-    "platforms": {}
+    "name": "Crypto Hub [Old]",
+    "platforms": {
+      "ethereum": "0x6923f9b683111dcc0e20124e9a031deeae5dad93"
+    }
   },
   {
     "id": "crypto-hub-2",
@@ -81751,8 +81765,10 @@
   {
     "id": "meta-2",
     "symbol": "meta",
-    "name": "META[Old]",
-    "platforms": {}
+    "name": "META [Old]",
+    "platforms": {
+      "solana": "METADDFL6wWMWEoKTFJwcThTbUmtarRJZjRpzUvkxhr"
+    }
   },
   {
     "id": "meta-2-2",
@@ -120038,6 +120054,7 @@
     "symbol": "boo",
     "name": "SpookySwap [Old]",
     "platforms": {
+      "fantom": "0x841fad6eae12c286d1fd18d1d525dffa75c7effe",
       "avalanche": "0xbd83010eb60f12112908774998f65761cf9f6f9a",
       "ethereum": "0x55af5865807b196bd0197e0902746f31fbccfa58"
     }
