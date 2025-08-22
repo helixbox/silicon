@@ -4,16 +4,8 @@
   "keywords": [
     "defi"
   ],
-  "timestamp": "2025-07-13T11:00:17.647+00:00",
+  "timestamp": "2025-08-22T08:00:18.987+00:00",
   "tokens": [
-    {
-      "chainId": 200901,
-      "address": "0x0e4cf4affdb72b39ea91fa726d291781cbd020bf",
-      "name": "Bitlayer",
-      "symbol": "BTR",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/55177/thumb/App_Logo.png?1744368194"
-    },
     {
       "chainId": 200901,
       "address": "0x2729868df87d062020e4a4867ff507fb52ee697c",
@@ -21,6 +13,14 @@
       "symbol": "CBD",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/39947/thumb/CDB.jpg?1724901392"
+    },
+    {
+      "chainId": 200901,
+      "address": "0x0e4cf4affdb72b39ea91fa726d291781cbd020bf",
+      "name": "Bitlayer",
+      "symbol": "BTR",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/55177/thumb/App_Logo.png?1744368194"
     },
     {
       "chainId": 200901,
@@ -61,11 +61,19 @@
       "symbol": "SATUSD",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/37760/thumb/Instagram_post_-_25.png?1715475306"
+    },
+    {
+      "chainId": 200901,
+      "address": "0x4fdb0511f1e5c6c215596570f855cb1f9924b8b6",
+      "name": "SatLayer Restaked uniBTC",
+      "symbol": "SATUNIBTC",
+      "decimals": 8,
+      "logoURI": "https://assets.coingecko.com/coins/images/67943/thumb/satUniBTC.png?1754391309"
     }
   ],
   "version": {
     "major": 1,
-    "minor": 0,
+    "minor": 1,
     "patch": 0
   }
 }
