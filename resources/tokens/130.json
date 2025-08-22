@@ -4,7 +4,7 @@
   "keywords": [
     "defi"
   ],
-  "timestamp": "2025-08-18T20:01:10.271+00:00",
+  "timestamp": "2025-08-22T16:00:54.509+00:00",
   "tokens": [
     {
       "chainId": 130,
@@ -24,14 +24,6 @@
     },
     {
       "chainId": 130,
-      "address": "0x588ce4f028d8e7b53b687865d6a67b3a54c75518",
-      "name": "Unichain Bridged USDT  Unichain ",
-      "symbol": "USDT",
-      "decimals": 6,
-      "logoURI": "https://assets.coingecko.com/coins/images/66726/thumb/usdt.jpg?1750318933"
-    },
-    {
-      "chainId": 130,
       "address": "0x927b51f251480a681271180da4de28d44ec4afb8",
       "name": "Unichain Bridged WBTC  Unichain ",
       "symbol": "WBTC",
@@ -40,11 +32,19 @@
     },
     {
       "chainId": 130,
-      "address": "0xc3eacf0612346366db554c991d7858716db09f58",
-      "name": "KelpDAO Bridged rsETH  Unichain ",
-      "symbol": "RSETH",
+      "address": "0x588ce4f028d8e7b53b687865d6a67b3a54c75518",
+      "name": "Unichain Bridged USDT  Unichain ",
+      "symbol": "USDT",
+      "decimals": 6,
+      "logoURI": "https://assets.coingecko.com/coins/images/66726/thumb/usdt.jpg?1750318933"
+    },
+    {
+      "chainId": 130,
+      "address": "0x756ee6857f915a2b5366f2ef56d8d13857aef8ad",
+      "name": "Catex",
+      "symbol": "CATX",
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/67283/thumb/rseth.jpg?1752298197"
+      "logoURI": "https://assets.coingecko.com/coins/images/67331/thumb/Catex_logo_Coinbgecko.png?1752402945"
     },
     {
       "chainId": 130,
@@ -53,6 +53,22 @@
       "symbol": "WBTC",
       "decimals": 8,
       "logoURI": "https://assets.coingecko.com/coins/images/66720/thumb/wbtc.jpg?1750312819"
+    },
+    {
+      "chainId": 130,
+      "address": "0x4200000000000000000000000000000000000006",
+      "name": "Unichain Bridged WETH  Unichain ",
+      "symbol": "WETH",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/54331/thumb/weth_2.jpg?1739325052"
+    },
+    {
+      "chainId": 130,
+      "address": "0x7dcc39b4d1c53cb31e1abc0e358b43987fef80f7",
+      "name": "Ether fi Bridged weETH  Unichain ",
+      "symbol": "WEETH",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/66721/thumb/eeth.jpg?1750313748"
     },
     {
       "chainId": 130,
@@ -72,27 +88,11 @@
     },
     {
       "chainId": 130,
-      "address": "0x756ee6857f915a2b5366f2ef56d8d13857aef8ad",
-      "name": "Catex",
-      "symbol": "CATX",
+      "address": "0xc3eacf0612346366db554c991d7858716db09f58",
+      "name": "KelpDAO Bridged rsETH  Unichain ",
+      "symbol": "RSETH",
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/67331/thumb/Catex_logo_Coinbgecko.png?1752402945"
-    },
-    {
-      "chainId": 130,
-      "address": "0x4200000000000000000000000000000000000006",
-      "name": "Unichain Bridged WETH  Unichain ",
-      "symbol": "WETH",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/54331/thumb/weth_2.jpg?1739325052"
-    },
-    {
-      "chainId": 130,
-      "address": "0x7dcc39b4d1c53cb31e1abc0e358b43987fef80f7",
-      "name": "Ether fi Bridged weETH  Unichain ",
-      "symbol": "WEETH",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/66721/thumb/eeth.jpg?1750313748"
+      "logoURI": "https://assets.coingecko.com/coins/images/67283/thumb/rseth.jpg?1752298197"
     },
     {
       "chainId": 130,
@@ -181,11 +181,19 @@
       "symbol": "EZETH",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/34753/thumb/Ezeth_logo_circle.png?1713496404"
+    },
+    {
+      "chainId": 130,
+      "address": "0xbde8a5331e8ac4831cf8ea9e42e229219eafab97",
+      "name": "Wormhole Bridged SOL",
+      "symbol": "SOL",
+      "decimals": 9,
+      "logoURI": "https://assets.coingecko.com/coins/images/22876/thumb/SOL_wh_small.png?1696522175"
     }
   ],
   "version": {
     "major": 2,
-    "minor": 6,
-    "patch": 1
+    "minor": 7,
+    "patch": 0
   }
 }
