@@ -4,31 +4,15 @@
   "keywords": [
     "defi"
   ],
-  "timestamp": "2025-08-22T17:01:04.276+00:00",
+  "timestamp": "2025-08-24T13:00:35.791+00:00",
   "tokens": [
     {
       "chainId": 130,
-      "address": "0x7dcc39b4d1c53cb31e1abc0e358b43987fef80f7",
-      "name": "Ether fi Bridged weETH  Unichain ",
-      "symbol": "WEETH",
+      "address": "0x15d0e0c55a3e7ee67152ad7e89acf164253ff68d",
+      "name": "Wormhole Bridged HYPE",
+      "symbol": "HYPE",
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/66721/thumb/eeth.jpg?1750313748"
-    },
-    {
-      "chainId": 130,
-      "address": "0xec4a56061d86955d0df883efb2e5791d99ea71f2",
-      "name": "hoonicorn lol",
-      "symbol": "HOONI",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/54996/thumb/hooni-logo-fixed.png?1743095425"
-    },
-    {
-      "chainId": 130,
-      "address": "0x927b51f251480a681271180da4de28d44ec4afb8",
-      "name": "Unichain Bridged WBTC  Unichain ",
-      "symbol": "WBTC",
-      "decimals": 8,
-      "logoURI": "https://assets.coingecko.com/coins/images/66722/thumb/wbtc.jpg?1750315958"
+      "logoURI": "https://assets.coingecko.com/coins/images/68481/thumb/hype.png?1755878697"
     },
     {
       "chainId": 130,
@@ -40,11 +24,35 @@
     },
     {
       "chainId": 130,
+      "address": "0x4200000000000000000000000000000000000006",
+      "name": "Unichain Bridged WETH  Unichain ",
+      "symbol": "WETH",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/54331/thumb/weth_2.jpg?1739325052"
+    },
+    {
+      "chainId": 130,
+      "address": "0xc3eacf0612346366db554c991d7858716db09f58",
+      "name": "KelpDAO Bridged rsETH  Unichain ",
+      "symbol": "RSETH",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/67283/thumb/rseth.jpg?1752298197"
+    },
+    {
+      "chainId": 130,
       "address": "0x0555e30da8f98308edb960aa94c0db47230d2b9c",
       "name": "LayerZero Bridged WBTC  Unichain ",
       "symbol": "WBTC",
       "decimals": 8,
       "logoURI": "https://assets.coingecko.com/coins/images/66720/thumb/wbtc.jpg?1750312819"
+    },
+    {
+      "chainId": 130,
+      "address": "0x7dcc39b4d1c53cb31e1abc0e358b43987fef80f7",
+      "name": "Ether fi Bridged weETH  Unichain ",
+      "symbol": "WEETH",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/66721/thumb/eeth.jpg?1750313748"
     },
     {
       "chainId": 130,
@@ -64,6 +72,22 @@
     },
     {
       "chainId": 130,
+      "address": "0xabe69c550ea6ec22bed4b92614511c4f31bb0f64",
+      "name": "Abe",
+      "symbol": "ABE",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/68514/thumb/Abe.jpg?1756038375"
+    },
+    {
+      "chainId": 130,
+      "address": "0x927b51f251480a681271180da4de28d44ec4afb8",
+      "name": "Unichain Bridged WBTC  Unichain ",
+      "symbol": "WBTC",
+      "decimals": 8,
+      "logoURI": "https://assets.coingecko.com/coins/images/66722/thumb/wbtc.jpg?1750315958"
+    },
+    {
+      "chainId": 130,
       "address": "0x926dc7b96bb2f4a91c2a67e291faf482691a3001",
       "name": "Unicorn",
       "symbol": "UNICORN",
@@ -72,27 +96,11 @@
     },
     {
       "chainId": 130,
-      "address": "0x4200000000000000000000000000000000000006",
-      "name": "Unichain Bridged WETH  Unichain ",
-      "symbol": "WETH",
+      "address": "0xec4a56061d86955d0df883efb2e5791d99ea71f2",
+      "name": "hoonicorn lol",
+      "symbol": "HOONI",
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/54331/thumb/weth_2.jpg?1739325052"
-    },
-    {
-      "chainId": 130,
-      "address": "0x15d0e0c55a3e7ee67152ad7e89acf164253ff68d",
-      "name": "Wormhole Bridged HYPE",
-      "symbol": "HYPE",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/68481/thumb/hype.png?1755878697"
-    },
-    {
-      "chainId": 130,
-      "address": "0xc3eacf0612346366db554c991d7858716db09f58",
-      "name": "KelpDAO Bridged rsETH  Unichain ",
-      "symbol": "RSETH",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/67283/thumb/rseth.jpg?1752298197"
+      "logoURI": "https://assets.coingecko.com/coins/images/54996/thumb/hooni-logo-fixed.png?1743095425"
     },
     {
       "chainId": 130,
@@ -225,7 +233,7 @@
   ],
   "version": {
     "major": 2,
-    "minor": 7,
+    "minor": 8,
     "patch": 0
   }
 }

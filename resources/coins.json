@@ -420,9 +420,15 @@
   {
     "id": "2dai-io",
     "symbol": "2dai",
+    "name": "2DAI.io[Old]",
+    "platforms": {}
+  },
+  {
+    "id": "2dai-io-2",
+    "symbol": "2dai",
     "name": "2DAI.io",
     "platforms": {
-      "ethereum": "0xb44b653f147569d88a684cbf6549e1968e8b2a1d"
+      "base": "0xa46447afe60bdbf271bb05ea70d56aee1c4a4094"
     }
   },
   {
@@ -1025,7 +1031,7 @@
     "symbol": "atvusdc",
     "name": "aarna atv USDC (Ethereum)",
     "platforms": {
-      "ethereum": "0xd018a9ba579d3882748c1f1e4dad7203926dc43b"
+      "ethereum": "0xf30f62963cce132f32306d7f18a8587958b30ea9"
     }
   },
   {
@@ -2215,6 +2221,16 @@
     "name": "ABE",
     "platforms": {
       "base": "0xca09aa7b4f5a9380754f7e46037e3a383044bca3"
+    }
+  },
+  {
+    "id": "abe-2",
+    "symbol": "abe",
+    "name": "Abe",
+    "platforms": {
+      "unichain": "0xabe69c550ea6ec22bed4b92614511c4f31bb0f64",
+      "ethereum": "0x475b72cb2a45324329d16d4ddf14240a1f35b159",
+      "base": "0x33dce4097b75b3c35dd8149e3efb6d9486c950cd"
     }
   },
   {
@@ -11409,6 +11425,14 @@
     "name": "Awkward Monkey",
     "platforms": {
       "base": "0x16cec756a0fcba1d7ce95df5a46406c469a9128a"
+    }
+  },
+  {
+    "id": "awoke-2",
+    "symbol": "awoke",
+    "name": "Awoke",
+    "platforms": {
+      "solana": "ovutZfkUMXRBEH4hAXJE42j2GK3Az9ZjTdbG5taWoKe"
     }
   },
   {
@@ -21123,6 +21147,14 @@
     "name": "Boopa",
     "platforms": {
       "solana": "JmMRbLcKgNCu17yHZDAn4strE5NjmWJ4pCeJ7s7boop"
+    }
+  },
+  {
+    "id": "boopi",
+    "symbol": "boopi",
+    "name": "BOOPI",
+    "platforms": {
+      "solana": "7fodN5Vn21kZdGfvA178ZNctqsZ2kCGVRHfFNEkboop"
     }
   },
   {
@@ -60183,6 +60215,14 @@
     }
   },
   {
+    "id": "hazmat",
+    "symbol": "hzmt",
+    "name": "Hazmat",
+    "platforms": {
+      "binance-smart-chain": "0xbd286d1df30e35a084bf1320d4d88da0b1724444"
+    }
+  },
+  {
     "id": "hbarbarian",
     "symbol": "hbarbarian",
     "name": "HBARbarian",
@@ -61650,6 +61690,14 @@
       "ethereum": "0xe87e15b9c7d989474cb6d8c56b3db4efad5b21e8",
       "huobi-token": "0x4ebf49cc2d2dd029e5cfdf868316385dffd94c6a",
       "binance-smart-chain": "0xe87e15b9c7d989474cb6d8c56b3db4efad5b21e8"
+    }
+  },
+  {
+    "id": "hokkaidu-inu-2",
+    "symbol": "hokk",
+    "name": "Hokkaidu Inu",
+    "platforms": {
+      "ethereum": "0x4f2cef6f39114ade3d8af4020fa1de1d064cadaf"
     }
   },
   {
@@ -77781,6 +77829,14 @@
     "name": "Maek Amuraca Graet Agun",
     "platforms": {
       "solana": "TrumptpNNBEgVjDc8bnemRTNYZKhdsst9ujNAnTSHqp"
+    }
+  },
+  {
+    "id": "mafia-ai-by-virtuals",
+    "symbol": "mafia",
+    "name": "MAFIA AI by Virtuals",
+    "platforms": {
+      "base": "0xd53deb03d6de5f355c0b8de57b8f37179ff60b81"
     }
   },
   {
@@ -96340,7 +96396,6 @@
     "name": "PancakeSwap",
     "platforms": {
       "binance-smart-chain": "0x0e09fabb73bd3ade0a17ecc321fd13a19e81ce82",
-      "solana": "4qQeZ5LwSz6HuupUu8jCtgXyW1mYQcNbFAW1sWZp89HL",
       "arbitrum-one": "0x1b896893dfc86bb67cf57767298b9073d2c1ba2c",
       "polygon-zkevm": "0x0d1e753a25ebda689453309112904807625befbe",
       "opbnb": "0x2779106e4f4a8a28d77a24c18283651a2ae22d1c",
@@ -96348,6 +96403,7 @@
       "zksync": "0x3a287a06c66f9e95a56327185ca2bdf5f031cecd",
       "aptos": "0x159df6b7689437016108a019fd5bef736bac692b6d4a1f10c941f6fbb9a74ca6::oft::CakeOFT",
       "linea": "0x0d1e753a25ebda689453309112904807625befbe",
+      "solana": "4qQeZ5LwSz6HuupUu8jCtgXyW1mYQcNbFAW1sWZp89HL",
       "ethereum": "0x152649ea73beab28c5b49b26eb48f7ead6d4c898"
     }
   },
@@ -96481,6 +96537,14 @@
     "name": "Pangolin",
     "platforms": {
       "avalanche": "0x60781c2586d68229fde47564546784ab3faca982"
+    }
+  },
+  {
+    "id": "pangolin-2",
+    "symbol": "pang",
+    "name": "Pangolin",
+    "platforms": {
+      "abstract": "0xd5cc17f92b41d57a4b34d4b08587bf55342d4bc1"
     }
   },
   {
@@ -119152,6 +119216,14 @@
     "name": "Soulja Coin",
     "platforms": {
       "solana": "G3ukjeHBrDJ1zUFr6KandnW4bPcjmvK3qL2uATRb3F63"
+    }
+  },
+  {
+    "id": "soulonsol",
+    "symbol": "sos",
+    "name": "SOULONSOL",
+    "platforms": {
+      "solana": "FNj16zAMFERd4w2nKfjfVn51aW38m56jcfNHzpVQmoon"
     }
   },
   {
@@ -149620,6 +149692,14 @@
     "name": "ZOA AI",
     "platforms": {
       "solana": "AwcCFuJgUYNYHXm6tHhr7DsXDY6FKvXUt2DFjmgHpump"
+    }
+  },
+  {
+    "id": "zodia",
+    "symbol": "zodia",
+    "name": "ZODIA",
+    "platforms": {
+      "ethereum": "0xe1270268fa6fcef965958bf2f24e09d70deed06f"
     }
   },
   {
