@@ -6503,7 +6503,9 @@
     "id": "alt-town",
     "symbol": "town",
     "name": "alt.town",
-    "platforms": {}
+    "platforms": {
+      "binance-smart-chain": "0x973253d0c12366e0fa5afb9f9e2e9486eca69c01"
+    }
   },
   {
     "id": "altura",
@@ -80594,6 +80596,8 @@
     "name": "Matrixdock Gold",
     "platforms": {
       "ethereum": "0x2103e845c5e135493bb6c2a4f0b8651956ea8682",
+      "sui": "0x49770a2252e167d1238104681ea6943902f3cb9cde04692911d6d9543df615de",
+      "plume-network": "0xa0c4f78a29ead4abf6b7f5b3f0d05c0f3eab8ddf",
       "binance-smart-chain": "0x23ae4fd8e7844cdbc97775496ebd0e8248656028"
     }
   },
@@ -82926,6 +82930,14 @@
     "symbol": "musd",
     "name": "MetaMask USD",
     "platforms": {}
+  },
+  {
+    "id": "metamask-usd-test",
+    "symbol": "musd",
+    "name": "MetaMask USD (Test)",
+    "platforms": {
+      "ethereum": "0x6c3d37daa6779728123d98d9b58758fa60700b94"
+    }
   },
   {
     "id": "meta-monopoly",
