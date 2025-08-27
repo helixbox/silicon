@@ -56665,6 +56665,14 @@
     }
   },
   {
+    "id": "gnosis-bridged-reth-gnosis",
+    "symbol": "reth",
+    "name": "Gnosis Bridged rETH (Gnosis)",
+    "platforms": {
+      "xdai": "0xc791240d1f2def5938e2031364ff4ed887133c3d"
+    }
+  },
+  {
     "id": "gnosis-xdai-bridged-usdc-gnosis",
     "symbol": "usdc",
     "name": "Gnosis xDAI Bridged USDC (Gnosis)",
@@ -59711,6 +59719,14 @@
     "name": "Haedal Staked SUI",
     "platforms": {
       "sui": "0xbde4ba4c2e274a60ce15c1cfff9e5c42e41654ac8b6d906a57efa4bd3c29f47d::hasui::HASUI"
+    }
+  },
+  {
+    "id": "haedal-staked-wal",
+    "symbol": "hawal",
+    "name": "Haedal Staked WAL",
+    "platforms": {
+      "sui": "0x8b4d553839b219c3fd47608a0cc3d5fcc572cb25d41b7df3833208586a8d2470::hawal::HAWAL"
     }
   },
   {
@@ -147031,6 +147047,12 @@
     "platforms": {
       "defi-kingdoms-blockchain": "0x77f2656d04e158f915bc22f07b779d94c1dc47ff"
     }
+  },
+  {
+    "id": "xl1",
+    "symbol": "xl1",
+    "name": "XL1",
+    "platforms": {}
   },
   {
     "id": "xlink-bridged-btc-stacks",
