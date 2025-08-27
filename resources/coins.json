@@ -17736,6 +17736,14 @@
     }
   },
   {
+    "id": "bitcoin-ai-2",
+    "symbol": "btc",
+    "name": "Bitcoin AI",
+    "platforms": {
+      "binance-smart-chain": "0xf22aac87e08d7fc60aa89eb21110ddfe59c20854"
+    }
+  },
+  {
     "id": "bitcoin-atom",
     "symbol": "bca",
     "name": "Bitcoin Atom",
@@ -18215,7 +18223,8 @@
     "name": "Bitlayer",
     "platforms": {
       "bitlayer": "0x0e4cf4affdb72b39ea91fa726d291781cbd020bf",
-      "ethereum": "0x6c76de483f1752ac8473e2b4983a873991e70da7"
+      "ethereum": "0x6c76de483f1752ac8473e2b4983a873991e70da7",
+      "binance-smart-chain": "0xfed13d0c40790220fbde712987079eda1ed75c51"
     }
   },
   {
@@ -25255,7 +25264,9 @@
     "id": "camp-network",
     "symbol": "camp",
     "name": "Camp Network",
-    "platforms": {}
+    "platforms": {
+      "ethereum": "0x84eaac1b2dc3f84d92ff84c3ec205b1fa74671fc"
+    }
   },
   {
     "id": "canada-ecoin",
