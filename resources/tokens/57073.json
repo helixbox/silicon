@@ -4,16 +4,8 @@
   "keywords": [
     "defi"
   ],
-  "timestamp": "2025-08-15T09:01:21.784+00:00",
+  "timestamp": "2025-08-28T22:01:17.112+00:00",
   "tokens": [
-    {
-      "chainId": 57073,
-      "address": "0x7160644365e7011fa96ce60706743b434df32690",
-      "name": "KEK",
-      "symbol": "KEK",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/67904/thumb/200x200.jpg?1754222647"
-    },
     {
       "chainId": 57073,
       "address": "0x20c69c12abf2b6f8d8ca33604dd25c700c7e70a5",
@@ -24,11 +16,11 @@
     },
     {
       "chainId": 57073,
-      "address": "0xa802bccd14f7e78e48ffe0c9cf9ad0273c77d4b0",
-      "name": "Ink USDT Veda Vault",
-      "symbol": "INKEDUSDT",
-      "decimals": 6,
-      "logoURI": "https://assets.coingecko.com/coins/images/66510/thumb/usdt.png?1749593577"
+      "address": "0x0606fc632ee812ba970af72f8489baaa443c4b98",
+      "name": "ANITA",
+      "symbol": "ANITA",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/68173/thumb/_L_L.png?1754996486"
     },
     {
       "chainId": 57073,
@@ -40,35 +32,11 @@
     },
     {
       "chainId": 57073,
-      "address": "0xca5f2ccbd9c40b32657df57c716de44237f80f05",
-      "name": "Kraken",
-      "symbol": "KRAKEN",
+      "address": "0x7160644365e7011fa96ce60706743b434df32690",
+      "name": "KEK",
+      "symbol": "KEK",
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/52919/thumb/kraken.jpg?1734685461"
-    },
-    {
-      "chainId": 57073,
-      "address": "0x0200c29006150606b650577bbe7b6248f58470c1",
-      "name": "USDT0",
-      "symbol": "USDT0",
-      "decimals": 6,
-      "logoURI": "https://assets.coingecko.com/coins/images/53705/thumb/usdt0.jpg?1737086183"
-    },
-    {
-      "chainId": 57073,
-      "address": "0xd642b49d10cc6e1bc1c6945725667c35e0875f22",
-      "name": "Purple",
-      "symbol": "PURPLE",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/53880/thumb/ink_purple.png?1738227741"
-    },
-    {
-      "chainId": 57073,
-      "address": "0x0606fc632ee812ba970af72f8489baaa443c4b98",
-      "name": "ANITA",
-      "symbol": "ANITA",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/68173/thumb/_L_L.png?1754996486"
+      "logoURI": "https://assets.coingecko.com/coins/images/67904/thumb/200x200.jpg?1754222647"
     },
     {
       "chainId": 57073,
@@ -85,6 +53,38 @@
       "symbol": "SHROOMY",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/54002/thumb/1000000182.jpg?1737942213"
+    },
+    {
+      "chainId": 57073,
+      "address": "0xa802bccd14f7e78e48ffe0c9cf9ad0273c77d4b0",
+      "name": "Ink USDT Veda Vault",
+      "symbol": "INKEDUSDT",
+      "decimals": 6,
+      "logoURI": "https://assets.coingecko.com/coins/images/66510/thumb/usdt.png?1749593577"
+    },
+    {
+      "chainId": 57073,
+      "address": "0x0200c29006150606b650577bbe7b6248f58470c1",
+      "name": "USDT0",
+      "symbol": "USDT0",
+      "decimals": 6,
+      "logoURI": "https://assets.coingecko.com/coins/images/53705/thumb/usdt0.jpg?1737086183"
+    },
+    {
+      "chainId": 57073,
+      "address": "0xca5f2ccbd9c40b32657df57c716de44237f80f05",
+      "name": "Kraken",
+      "symbol": "KRAKEN",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/52919/thumb/kraken.jpg?1734685461"
+    },
+    {
+      "chainId": 57073,
+      "address": "0xd642b49d10cc6e1bc1c6945725667c35e0875f22",
+      "name": "Purple",
+      "symbol": "PURPLE",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/53880/thumb/ink_purple.png?1738227741"
     },
     {
       "chainId": 57073,
@@ -157,11 +157,19 @@
       "symbol": "OUSDT",
       "decimals": 6,
       "logoURI": "https://assets.coingecko.com/coins/images/54815/thumb/ousdt.jpg?1741848258"
+    },
+    {
+      "chainId": 57073,
+      "address": "0x71052bae71c25c78e37fd12e5ff1101a71d9018f",
+      "name": "Chainlink",
+      "symbol": "LINK",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/877/thumb/chainlink-new-logo.png?1696502009"
     }
   ],
   "version": {
     "major": 3,
-    "minor": 4,
+    "minor": 5,
     "patch": 0
   }
 }
