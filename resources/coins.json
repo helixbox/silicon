@@ -47074,15 +47074,16 @@
     "symbol": "susde",
     "name": "Ethena Staked USDe",
     "platforms": {
-      "ethereum": "0x9d39a5de30e57443bff2a8307a4256c8797a3497"
-    }
-  },
-  {
-    "id": "ethena-stake-usde-fraxtal",
-    "symbol": "susde",
-    "name": "Ethena Staked USDe (Fraxtal)",
-    "platforms": {
-      "fraxtal": "0x211cc4dd073734da055fbf44a2b4667d5e5fe5d2"
+      "ethereum": "0x9d39a5de30e57443bff2a8307a4256c8797a3497",
+      "aptos": "0xb30a694a344edee467d9f82330bbe7c3b89f440a1ecd2da1f3bca266560fce69",
+      "arbitrum-one": "0x211cc4dd073734da055fbf44a2b4667d5e5fe5d2",
+      "fraxtal": "0x211cc4dd073734da055fbf44a2b4667d5e5fe5d2",
+      "hyperevm": "0x211cc4dd073734da055fbf44a2b4667d5e5fe5d2",
+      "berachain": "0x211cc4dd073734da055fbf44a2b4667d5e5fe5d2",
+      "base": "0x211cc4dd073734da055fbf44a2b4667d5e5fe5d2",
+      "optimistic-ethereum": "0x211cc4dd073734da055fbf44a2b4667d5e5fe5d2",
+      "manta-pacific": "0x211cc4dd073734da055fbf44a2b4667d5e5fe5d2",
+      "metis-andromeda": "0x211cc4dd073734da055fbf44a2b4667d5e5fe5d2"
     }
   },
   {
@@ -63770,14 +63771,6 @@
     "platforms": {}
   },
   {
-    "id": "hyperevm-bridged-susde-hyperevm",
-    "symbol": "susde",
-    "name": "HyperEVM Bridged SUSDE (HyperEVM)",
-    "platforms": {
-      "hyperevm": "0x211cc4dd073734da055fbf44a2b4667d5e5fe5d2"
-    }
-  },
-  {
     "id": "hyperevm-bridged-usde-hyperevm",
     "symbol": "usde",
     "name": "HyperEVM Bridged USDE (HyperEVM)",
@@ -76619,6 +76612,7 @@
     "name": "Loaded Lions",
     "platforms": {
       "cronos": "0x9d8c68f185a04314ddc8b8216732455e8dbb7e45",
+      "arbitrum-one": "0x527e8d368298dea5a53be257e5300f4dbafb7a97",
       "solana": "7kN5FQMD8ja4bzysEgc5FXmryKd6gCgjiWnhksjHCFb3"
     }
   },
