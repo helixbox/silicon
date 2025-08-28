@@ -4,7 +4,7 @@
   "keywords": [
     "defi"
   ],
-  "timestamp": "2025-08-28T07:00:17.336+00:00",
+  "timestamp": "2025-08-28T20:00:22.835+00:00",
   "tokens": [
     {
       "chainId": 252,
@@ -24,14 +24,6 @@
     },
     {
       "chainId": 252,
-      "address": "0xfc00000000000000000000000000000000000002",
-      "name": "Wrapped FRAX",
-      "symbol": "WFRAX",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/55432/thumb/wfrax_64.png?1745993624"
-    },
-    {
-      "chainId": 252,
       "address": "0x6e58089d8e8f664823d26454f49a5a0f2ff697fe",
       "name": "Leviathan Points",
       "symbol": "SQUID",
@@ -48,19 +40,19 @@
     },
     {
       "chainId": 252,
+      "address": "0xfc00000000000000000000000000000000000002",
+      "name": "Wrapped FRAX",
+      "symbol": "WFRAX",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/55432/thumb/wfrax_64.png?1745993624"
+    },
+    {
+      "chainId": 252,
       "address": "0xfc00000000000000000000000000000000000005",
       "name": "L2 Standard Bridged sfrxETH  Fraxtal ",
       "symbol": "SFRXETH",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/40044/thumb/sfrxeth.webp?1725419973"
-    },
-    {
-      "chainId": 252,
-      "address": "0xdcc0f2d8f90fde85b10ac1c8ab57dc0ae946a543",
-      "name": "Fraxtal Bridged USDC  Fraxtal ",
-      "symbol": "USDC",
-      "decimals": 6,
-      "logoURI": "https://assets.coingecko.com/coins/images/52655/thumb/usdc.jpg?1733995749"
     },
     {
       "chainId": 252,
@@ -77,6 +69,14 @@
       "symbol": "KFC",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/36048/thumb/kfc.jpg?1710401920"
+    },
+    {
+      "chainId": 252,
+      "address": "0xdcc0f2d8f90fde85b10ac1c8ab57dc0ae946a543",
+      "name": "Fraxtal Bridged USDC  Fraxtal ",
+      "symbol": "USDC",
+      "decimals": 6,
+      "logoURI": "https://assets.coingecko.com/coins/images/52655/thumb/usdc.jpg?1733995749"
     },
     {
       "chainId": 252,
@@ -184,6 +184,14 @@
     },
     {
       "chainId": 252,
+      "address": "0xd6a6ba37faac229b9665e86739ca501401f5a940",
+      "name": "Chainlink",
+      "symbol": "LINK",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/877/thumb/chainlink-new-logo.png?1696502009"
+    },
+    {
+      "chainId": 252,
       "address": "0xfc00000000000000000000000000000000000004",
       "name": "Frax Price Index Share",
       "symbol": "FPIS",
@@ -201,7 +209,7 @@
   ],
   "version": {
     "major": 4,
-    "minor": 4,
-    "patch": 3
+    "minor": 5,
+    "patch": 0
   }
 }
