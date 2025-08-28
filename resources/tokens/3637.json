@@ -4,16 +4,8 @@
   "keywords": [
     "defi"
   ],
-  "timestamp": "2025-07-22T10:00:34.521+00:00",
+  "timestamp": "2025-08-28T08:00:28.666+00:00",
   "tokens": [
-    {
-      "chainId": 3637,
-      "address": "0xf4586028ffda7eca636864f80f8a3f2589e33795",
-      "name": "Botanix Staked Bitcoin",
-      "symbol": "STBTC",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/67554/thumb/stbtc.png?1753169152"
-    },
     {
       "chainId": 3637,
       "address": "0x0d2437f93fed6ea64ef01ccde385fb1263910c56",
@@ -24,16 +16,32 @@
     },
     {
       "chainId": 3637,
+      "address": "0xf4586028ffda7eca636864f80f8a3f2589e33795",
+      "name": "Botanix Staked Bitcoin",
+      "symbol": "STBTC",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/67554/thumb/stbtc.png?1753169152"
+    },
+    {
+      "chainId": 3637,
       "address": "0x29ee6138dd4c9815f46d34a4a1ed48f46758a402",
       "name": "Stargate Bridged USDC  Botanix ",
       "symbol": "USDCE",
       "decimals": 6,
       "logoURI": "https://assets.coingecko.com/coins/images/67555/thumb/usdc.jpg?1753169261"
+    },
+    {
+      "chainId": 3637,
+      "address": "0x30e85a5c9525ad9a7a0fa5c74df4baf0b01ad241",
+      "name": "Chainlink",
+      "symbol": "LINK",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/877/thumb/chainlink-new-logo.png?1696502009"
     }
   ],
   "version": {
     "major": 0,
-    "minor": 1,
+    "minor": 2,
     "patch": 0
   }
 }

@@ -4,23 +4,23 @@
   "keywords": [
     "defi"
   ],
-  "timestamp": "2025-08-26T04:00:27.731+00:00",
+  "timestamp": "2025-08-28T08:00:21.998+00:00",
   "tokens": [
     {
       "chainId": 592,
-      "address": "0xffffffffffffffffffffffffffffffffffffffff",
-      "name": "WDOT",
-      "symbol": "WDOT",
-      "decimals": 10,
-      "logoURI": "https://assets.coingecko.com/coins/images/26650/thumb/polkadot.png?1696525722"
+      "address": "0x81ecac0d6be0550a00ff064a4f9dd2400585fe9c",
+      "name": "Celer Bridged WETH  Astar ",
+      "symbol": "WETH",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/39691/thumb/weth.png?1723670097"
     },
     {
       "chainId": 592,
-      "address": "0xde2578edec4669ba7f41c5d5d2386300bcea4678",
-      "name": "ArthSwap",
-      "symbol": "ARSW",
+      "address": "0x6de33698e9e9b787e09d3bd7771ef63557e148bb",
+      "name": "Celer Bridged DAI  Astar ",
+      "symbol": "DAI",
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/26048/thumb/arsw.png?1696525133"
+      "logoURI": "https://assets.coingecko.com/coins/images/39801/thumb/dai.png?1724125754"
     },
     {
       "chainId": 592,
@@ -40,14 +40,6 @@
     },
     {
       "chainId": 592,
-      "address": "0x81ecac0d6be0550a00ff064a4f9dd2400585fe9c",
-      "name": "Celer Bridged WETH  Astar ",
-      "symbol": "WETH",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/39691/thumb/weth.png?1723670097"
-    },
-    {
-      "chainId": 592,
       "address": "0x3795c36e7d12a8c252a20c5a7b455f7c57b60283",
       "name": "Celer Bridged USDT  Astar ",
       "symbol": "USDT",
@@ -56,11 +48,19 @@
     },
     {
       "chainId": 592,
-      "address": "0x6de33698e9e9b787e09d3bd7771ef63557e148bb",
-      "name": "Celer Bridged DAI  Astar ",
-      "symbol": "DAI",
+      "address": "0xffffffffffffffffffffffffffffffffffffffff",
+      "name": "WDOT",
+      "symbol": "WDOT",
+      "decimals": 10,
+      "logoURI": "https://assets.coingecko.com/coins/images/26650/thumb/polkadot.png?1696525722"
+    },
+    {
+      "chainId": 592,
+      "address": "0xde2578edec4669ba7f41c5d5d2386300bcea4678",
+      "name": "ArthSwap",
+      "symbol": "ARSW",
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/39801/thumb/dai.png?1724125754"
+      "logoURI": "https://assets.coingecko.com/coins/images/26048/thumb/arsw.png?1696525133"
     },
     {
       "chainId": 592,
@@ -128,6 +128,14 @@
     },
     {
       "chainId": 592,
+      "address": "0x31efb841d5e0b4082f7e1267dab8de1b853f2a9d",
+      "name": "Chainlink",
+      "symbol": "LINK",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/877/thumb/chainlink-new-logo.png?1696502009"
+    },
+    {
+      "chainId": 592,
       "address": "0x431d5dff03120afa4bdf332c61a6e1766ef37bdb",
       "name": "JPY Coin",
       "symbol": "JPYC",
@@ -144,7 +152,7 @@
   ],
   "version": {
     "major": 4,
-    "minor": 0,
-    "patch": 1
+    "minor": 1,
+    "patch": 0
   }
 }
