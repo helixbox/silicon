@@ -4109,12 +4109,6 @@
     }
   },
   {
-    "id": "ai-depin",
-    "symbol": "aidp",
-    "name": "AI-DePIN",
-    "platforms": {}
-  },
-  {
     "id": "ai-dev-agent",
     "symbol": "aidev",
     "name": "AI Dev Agent",
@@ -27129,7 +27123,9 @@
     "id": "celuvplay",
     "symbol": "celb",
     "name": "CeluvPlay",
-    "platforms": {}
+    "platforms": {
+      "binance-smart-chain": "0xda67fbf4e6fa4bb78f62533b7264e1b13295fdf3"
+    }
   },
   {
     "id": "centaur",
@@ -61552,6 +61548,14 @@
     }
   },
   {
+    "id": "hermes-2",
+    "symbol": "hermes",
+    "name": "HERMES",
+    "platforms": {
+      "base": "0x3862ae86889a39d6dd5850e5f467086141834d7b"
+    }
+  },
+  {
     "id": "hermes-ai-investment-fund",
     "symbol": "hermes",
     "name": "Hermes AI Investment Fund",
@@ -64095,12 +64099,6 @@
     "platforms": {
       "ethereum": "0x8ada9bf2d08b484cb9dee67caccd04b991d88145"
     }
-  },
-  {
-    "id": "hypra",
-    "symbol": "hyp",
-    "name": "HYPRA",
-    "platforms": {}
   },
   {
     "id": "hypurr-fun",
@@ -67698,15 +67696,6 @@
     }
   },
   {
-    "id": "jam",
-    "symbol": "jam",
-    "name": "JAM",
-    "platforms": {
-      "binance-smart-chain": "0xf8252c05ec4cb2fdf1e0398bae049d454ddba3ad",
-      "base": "0xf8252c05ec4cb2fdf1e0398bae049d454ddba3ad"
-    }
-  },
-  {
     "id": "jambo",
     "symbol": "j",
     "name": "Jambo",
@@ -70072,12 +70061,6 @@
     "id": "kaspa",
     "symbol": "kas",
     "name": "Kaspa",
-    "platforms": {}
-  },
-  {
-    "id": "kaspa-classic",
-    "symbol": "cas",
-    "name": "Kaspa Classic",
     "platforms": {}
   },
   {
@@ -76467,12 +76450,6 @@
     }
   },
   {
-    "id": "litecash",
-    "symbol": "cash",
-    "name": "Litecash",
-    "platforms": {}
-  },
-  {
     "id": "litecoin",
     "symbol": "ltc",
     "name": "Litecoin",
@@ -80615,12 +80592,6 @@
     }
   },
   {
-    "id": "masari",
-    "symbol": "msr",
-    "name": "Masari",
-    "platforms": {}
-  },
-  {
     "id": "mascot-of-the-unholy-year",
     "symbol": "buio",
     "name": "Mascot of the Unholy Year",
@@ -80661,14 +80632,6 @@
     "name": "MaskNumber",
     "platforms": {
       "solana": "6rD7wQeQpN2PpozQ177kbppGnJnxJEt5WAFcvRX4pump"
-    }
-  },
-  {
-    "id": "masks",
-    "symbol": "masks",
-    "name": "Masks",
-    "platforms": {
-      "optimistic-ethereum": "0x3925f9820c312d968644f12ebd314c13558a7c05"
     }
   },
   {
@@ -90145,12 +90108,6 @@
     }
   },
   {
-    "id": "nerva",
-    "symbol": "xnv",
-    "name": "Nerva",
-    "platforms": {}
-  },
-  {
     "id": "nerve-finance",
     "symbol": "nrv",
     "name": "Nerve Finance",
@@ -91094,12 +91051,6 @@
       "polygon-pos": "0xc88640b734fea3b35c132fe757aeb5ca6c8cdc66",
       "binance-smart-chain": "0xfa37e513e6cd506c4694b992825a8b614c035581"
     }
-  },
-  {
-    "id": "nexus",
-    "symbol": "nxs",
-    "name": "Nexus",
-    "platforms": {}
   },
   {
     "id": "nexus-2",
@@ -95633,12 +95584,6 @@
     "platforms": {
       "ethereum": "0x2e1cb26689a0b8763d15ffe9d7b1c637cd9282d4"
     }
-  },
-  {
-    "id": "optical-bitcoin",
-    "symbol": "obtc",
-    "name": "Optical Bitcoin",
-    "platforms": {}
   },
   {
     "id": "opticash",
@@ -103855,14 +103800,6 @@
     }
   },
   {
-    "id": "ppizza",
-    "symbol": "ppizza",
-    "name": "PPizza",
-    "platforms": {
-      "ethereum": "0xab306326bc72c2335bd08f42cbec383691ef8446"
-    }
-  },
-  {
     "id": "ppkas",
     "symbol": "ppkas",
     "name": "PPKAS",
@@ -103884,6 +103821,14 @@
     "name": "Praist",
     "platforms": {
       "solana": "AW8u4LiMo1SKcGiMBPYzHcWynirZYQA5KwsoFUMJpump"
+    }
+  },
+  {
+    "id": "praxis",
+    "symbol": "prxs",
+    "name": "Praxis",
+    "platforms": {
+      "ethereum": "0x9f49034409ae6813d2c70ae5117fd23cdff2d190"
     }
   },
   {
@@ -113166,14 +113111,6 @@
     }
   },
   {
-    "id": "sathosi-airlines-token",
-    "symbol": "jet",
-    "name": "Satoshi Airline",
-    "platforms": {
-      "polygon-pos": "0xb02ef03245fc7df987bbd876768e6d441b7099b6"
-    }
-  },
-  {
     "id": "satin-exchange",
     "symbol": "satin",
     "name": "Satin Exchange",
@@ -118948,14 +118885,6 @@
     "name": "Solar Swap",
     "platforms": {
       "solana": "GNJrBUuUnExsQYBAFy22Hw1qSmSJdWEgy8VawAn3uzUb"
-    }
-  },
-  {
-    "id": "solarsx",
-    "symbol": "sx",
-    "name": "SolarSx",
-    "platforms": {
-      "binance-smart-chain": "0x2ed9f293e9fa17123435f817754d322cfaccf909"
     }
   },
   {
@@ -135871,6 +135800,14 @@
     }
   },
   {
+    "id": "unstable-tether",
+    "symbol": "usdut",
+    "name": "Unstable Tether",
+    "platforms": {
+      "solana": "3vz82EWYv8xnc7Cm7qSgERcpMeqw92PcX8PBz88npump"
+    }
+  },
+  {
     "id": "unstake-fi",
     "symbol": "nstk",
     "name": "Unstake",
@@ -138928,16 +138865,6 @@
     "name": "Virtu Network",
     "platforms": {
       "ethereum": "0x520140d71129434635899eca07f845bb23b27987"
-    }
-  },
-  {
-    "id": "virtuswap",
-    "symbol": "vrsw",
-    "name": "VirtuSwap",
-    "platforms": {
-      "ethereum": "0x99a01a4d6a4d621094983050d9a2f10b2912e53d",
-      "polygon-pos": "0x57999936fc9a9ec0751a8d146cce11901be8bed0",
-      "arbitrum-one": "0xd1e094cabc5acb9d3b0599c3f76f2d01ff8d3563"
     }
   },
   {
