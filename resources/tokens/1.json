@@ -4,7 +4,7 @@
   "keywords": [
     "defi"
   ],
-  "timestamp": "2025-08-28T17:02:50.322+00:00",
+  "timestamp": "2025-08-29T04:02:44.588+00:00",
   "tokens": [
     {
       "chainId": 1,
@@ -16675,7 +16675,7 @@
       "name": "World Liberty Financial",
       "symbol": "WLFI",
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/50767/thumb/wlfi.jpg?1729123752"
+      "logoURI": "https://assets.coingecko.com/coins/images/50767/thumb/wlfi.png?1756438915"
     },
     {
       "chainId": 1,
@@ -21358,14 +21358,6 @@
     },
     {
       "chainId": 1,
-      "address": "0x514910771af9ca656af840dff83e8264ecf986ca",
-      "name": "Chainlink",
-      "symbol": "LINK",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/877/thumb/chainlink-new-logo.png?1696502009"
-    },
-    {
-      "chainId": 1,
       "address": "0x923b83c26b3809d960ff80332ed00aa46d7ed375",
       "name": "Creator Platform",
       "symbol": "CTR",
@@ -22019,14 +22011,6 @@
       "symbol": "RGP",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/15837/thumb/A_qRYvB2_400x400.png?1696515455"
-    },
-    {
-      "chainId": 1,
-      "address": "0x83f4389ccce1cc044dd7441add33c4f28b967434",
-      "name": "DRX Token",
-      "symbol": "DRX",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/55734/thumb/Logo_DRX_Token_-_3D_Gold_200_x_200_%282%29.png?1747386988"
     },
     {
       "chainId": 1,
@@ -24846,6 +24830,14 @@
     },
     {
       "chainId": 1,
+      "address": "0x514910771af9ca656af840dff83e8264ecf986ca",
+      "name": "Chainlink",
+      "symbol": "LINK",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/877/thumb/chainlink-new-logo.png?1696502009"
+    },
+    {
+      "chainId": 1,
       "address": "0xd073e6341a3aa6c4d94c4f8f20fbd1ede572b0da",
       "name": "MetaCene",
       "symbol": "MAK",
@@ -25131,6 +25123,14 @@
       "symbol": "CRADLE",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/54089/thumb/cradle_dext.jpg?1738219929"
+    },
+    {
+      "chainId": 1,
+      "address": "0x83f4389ccce1cc044dd7441add33c4f28b967434",
+      "name": "DRX Token",
+      "symbol": "DRX",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/55734/thumb/Logo_DRX_Token_-_3D_Gold_200_x_200_%282%29.png?1747386988"
     },
     {
       "chainId": 1,
@@ -38534,6 +38534,22 @@
     },
     {
       "chainId": 1,
+      "address": "0x00f3c42833c3170159af4e92dbb451fb3f708917",
+      "name": "Internet Computer",
+      "symbol": "ICP",
+      "decimals": 8,
+      "logoURI": "https://assets.coingecko.com/coins/images/14495/thumb/Internet_Computer_logo.png?1696514180"
+    },
+    {
+      "chainId": 1,
+      "address": "0x4ed257678fc4e76df9642a416b223729fdedbefd",
+      "name": "StrikeX",
+      "symbol": "STRX",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/15839/thumb/StrikeX-Icon-200px.png?1696515456"
+    },
+    {
+      "chainId": 1,
       "address": "0xdec933e2392ad908263e70a386fbf34e703ffe8f",
       "name": "Wrapped Backed Coinbase Global",
       "symbol": "WBCOIN",
@@ -42566,7 +42582,7 @@
   ],
   "version": {
     "major": 1075,
-    "minor": 1,
+    "minor": 2,
     "patch": 0
   }
 }

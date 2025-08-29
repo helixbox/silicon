@@ -18043,7 +18043,8 @@
     "symbol": "btcusd",
     "name": "Bitcoin USD (BTCFi)",
     "platforms": {
-      "bifrost-network": "0x6906ccda405926fc3f04240187dd4fad5df6d555"
+      "bifrost-network": "0x6906ccda405926fc3f04240187dd4fad5df6d555",
+      "base": "0xe4b20925d9e9a62f1e492e15a81dc0de62804dd4"
     }
   },
   {
@@ -52342,6 +52343,10 @@
     "name": "Frax USD",
     "platforms": {
       "ethereum": "0xcacd6fd266af91b8aed52accc382b4e165586e29",
+      "unichain": "0x80eede496655fb9047dd39d9f418d5483ed600df",
+      "linea": "0xc7346783f5e645aa998b106ef9e7f499528673d8",
+      "base": "0xe5020a6d073a794b6e7f05678707de47986fb0b6",
+      "binance-smart-chain": "0x80eede496655fb9047dd39d9f418d5483ed600df",
       "fraxtal": "0xfc00000000000000000000000000000000000001",
       "sei-v2": "0x80eede496655fb9047dd39d9f418d5483ed600df",
       "mode": "0x80eede496655fb9047dd39d9f418d5483ed600df",
@@ -66267,7 +66272,9 @@
     "symbol": "icp",
     "name": "Internet Computer",
     "platforms": {
-      "internet-computer": "ryjl3-tyaaa-aaaaa-aaaba-cai"
+      "internet-computer": "ryjl3-tyaaa-aaaaa-aaaba-cai",
+      "ethereum": "0x00f3c42833c3170159af4e92dbb451fb3f708917",
+      "base": "0x00f3c42833c3170159af4e92dbb451fb3f708917"
     }
   },
   {
@@ -124441,7 +124448,9 @@
     "symbol": "strx",
     "name": "StrikeX",
     "platforms": {
-      "binance-smart-chain": "0xd6fdde76b8c1c45b33790cc8751d5b88984c44ec"
+      "binance-smart-chain": "0xd6fdde76b8c1c45b33790cc8751d5b88984c44ec",
+      "ethereum": "0x4ed257678fc4e76df9642a416b223729fdedbefd",
+      "solana": "9HCRyuqrFDt1kUrwuUF7xjb2eqCgFmC5433MjqJ3STRX"
     }
   },
   {
@@ -125902,6 +125911,7 @@
     "name": "sUSDS",
     "platforms": {
       "ethereum": "0xa3931d71877c0e7a3148cb7eb4463524fec27fbd",
+      "optimistic-ethereum": "0xb5b2dc7fd34c249f4be7fb1fcea07950784229e0",
       "arbitrum-one": "0xddb46999f8891663a8f2828d25298f70416d7610",
       "base": "0x5875eee11cf8398102fdad704c9e96607675467a"
     }
