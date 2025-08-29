@@ -4,15 +4,15 @@
   "keywords": [
     "defi"
   ],
-  "timestamp": "2025-08-20T10:01:19.865+00:00",
+  "timestamp": "2025-08-29T04:01:10.197+00:00",
   "tokens": [
     {
       "chainId": 5000,
-      "address": "0x211cc4dd073734da055fbf44a2b4667d5e5fe5d2",
-      "name": "Mantle Bridged sUSDE  Mantle ",
-      "symbol": "SUSDE",
+      "address": "0x5d3a1ff2b6bab83b63cd9ad0787074081a52ef34",
+      "name": "Mantle Bridged USDe  Mantle ",
+      "symbol": "USDE",
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/67307/thumb/susde.jpg?1752375850"
+      "logoURI": "https://assets.coingecko.com/coins/images/66730/thumb/usde.jpg?1750321863"
     },
     {
       "chainId": 5000,
@@ -21,6 +21,22 @@
       "symbol": "USDT",
       "decimals": 6,
       "logoURI": "https://assets.coingecko.com/coins/images/35069/thumb/logo.png?1707291114"
+    },
+    {
+      "chainId": 5000,
+      "address": "0xabbeed1d173541e0546b38b1c0394975be200000",
+      "name": "Slash Vision Labs",
+      "symbol": "SVL",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/37444/thumb/svl.jpeg?1714443652"
+    },
+    {
+      "chainId": 5000,
+      "address": "0x51cfe5b1e764dc253f4c8c1f19a081ff4c3517ed",
+      "name": "Mantle Inu",
+      "symbol": "MINU",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/31014/thumb/mantle-inu.jpeg?1696529851"
     },
     {
       "chainId": 5000,
@@ -47,35 +63,19 @@
     },
     {
       "chainId": 5000,
-      "address": "0xabbeed1d173541e0546b38b1c0394975be200000",
-      "name": "Slash Vision Labs",
-      "symbol": "SVL",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/37444/thumb/svl.jpeg?1714443652"
-    },
-    {
-      "chainId": 5000,
-      "address": "0x51cfe5b1e764dc253f4c8c1f19a081ff4c3517ed",
-      "name": "Mantle Inu",
-      "symbol": "MINU",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/31014/thumb/mantle-inu.jpeg?1696529851"
-    },
-    {
-      "chainId": 5000,
-      "address": "0x25356aeca4210ef7553140edb9b8026089e49396",
-      "name": "Lendle",
-      "symbol": "LEND",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/31588/thumb/lendle_logo_200_200_cg.png?1696530405"
-    },
-    {
-      "chainId": 5000,
       "address": "0x26a6b0dcdcfb981362afa56d581e4a7dba3be140",
       "name": "Puff The Dragon",
       "symbol": "PUFF",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/35950/thumb/photo_2024-03-11_10.18.27.jpeg?1710240090"
+    },
+    {
+      "chainId": 5000,
+      "address": "0x211cc4dd073734da055fbf44a2b4667d5e5fe5d2",
+      "name": "Mantle Bridged sUSDE  Mantle ",
+      "symbol": "SUSDE",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/67307/thumb/susde.jpg?1752375850"
     },
     {
       "chainId": 5000,
@@ -87,11 +87,11 @@
     },
     {
       "chainId": 5000,
-      "address": "0x5d3a1ff2b6bab83b63cd9ad0787074081a52ef34",
-      "name": "Mantle Bridged USDe  Mantle ",
-      "symbol": "USDE",
+      "address": "0x25356aeca4210ef7553140edb9b8026089e49396",
+      "name": "Lendle",
+      "symbol": "LEND",
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/66730/thumb/usde.jpg?1750321863"
+      "logoURI": "https://assets.coingecko.com/coins/images/31588/thumb/lendle_logo_200_200_cg.png?1696530405"
     },
     {
       "chainId": 5000,
@@ -228,6 +228,14 @@
       "symbol": "USDA",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/51599/thumb/SUSDA.png?1731604761"
+    },
+    {
+      "chainId": 5000,
+      "address": "0xfe36cf0b43aae49fbc5cfc5c0af22a623114e043",
+      "name": "Chainlink",
+      "symbol": "LINK",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/877/thumb/chainlink-new-logo.png?1696502009"
     },
     {
       "chainId": 5000,
@@ -368,7 +376,7 @@
   ],
   "version": {
     "major": 18,
-    "minor": 0,
+    "minor": 1,
     "patch": 0
   }
 }

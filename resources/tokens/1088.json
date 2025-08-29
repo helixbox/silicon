@@ -4,7 +4,7 @@
   "keywords": [
     "defi"
   ],
-  "timestamp": "2025-08-28T06:00:08.431+00:00",
+  "timestamp": "2025-08-29T03:00:08.630+00:00",
   "tokens": [
     {
       "chainId": 1088,
@@ -24,22 +24,6 @@
     },
     {
       "chainId": 1088,
-      "address": "0x420000000000000000000000000000000000000a",
-      "name": "Metis Bridged WETH  Metis Andromeda ",
-      "symbol": "WETH",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/39719/thumb/WETH.PNG?1723732336"
-    },
-    {
-      "chainId": 1088,
-      "address": "0x2583a2538272f31e9a15dd12a432b8c96ab4821d",
-      "name": "Staked Metis Token",
-      "symbol": "ARTMETIS",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/36629/thumb/artMETIS.png?1712021137"
-    },
-    {
-      "chainId": 1088,
       "address": "0x75cb093e4d61d2a2e65d8e0bbb01de8d89b53481",
       "name": "Wrapped Metis",
       "symbol": "WMETIS",
@@ -53,6 +37,22 @@
       "symbol": "MONKEX",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/28834/thumb/monkexlogo.png?1703415265"
+    },
+    {
+      "chainId": 1088,
+      "address": "0x420000000000000000000000000000000000000a",
+      "name": "Metis Bridged WETH  Metis Andromeda ",
+      "symbol": "WETH",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/39719/thumb/WETH.PNG?1723732336"
+    },
+    {
+      "chainId": 1088,
+      "address": "0x2583a2538272f31e9a15dd12a432b8c96ab4821d",
+      "name": "Staked Metis Token",
+      "symbol": "ARTMETIS",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/36629/thumb/artMETIS.png?1712021137"
     },
     {
       "chainId": 1088,
@@ -157,6 +157,14 @@
       "symbol": "USDC",
       "decimals": 6,
       "logoURI": "https://assets.coingecko.com/coins/images/35218/thumb/USDC_Icon.png?1707908537"
+    },
+    {
+      "chainId": 1088,
+      "address": "0xd2fe54d1e5f568eb710ba9d898bf4bd02c7c0353",
+      "name": "Chainlink",
+      "symbol": "LINK",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/877/thumb/chainlink-new-logo.png?1696502009"
     },
     {
       "chainId": 1088,
@@ -265,7 +273,7 @@
   ],
   "version": {
     "major": 21,
-    "minor": 1,
+    "minor": 2,
     "patch": 0
   }
 }
