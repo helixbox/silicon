@@ -62035,6 +62035,8 @@
     "name": "Hey Anon",
     "platforms": {
       "sonic": "0x79bbf4508b1391af3a0f4b30bb5fc4aa9ab0e07c",
+      "hyperevm": "0x79bbf4508b1391af3a0f4b30bb5fc4aa9ab0e07c",
+      "hyperliquid": "0x5b56ac883c628df1fe24d463b3ac82ac",
       "arbitrum-one": "0x79bbf4508b1391af3a0f4b30bb5fc4aa9ab0e07c",
       "metis-andromeda": "0x79bbf4508b1391af3a0f4b30bb5fc4aa9ab0e07c",
       "iota-evm": "0x79bbf4508b1391af3a0f4b30bb5fc4aa9ab0e07c",
@@ -137008,6 +137010,12 @@
     "platforms": {
       "near-protocol": "a0b86991c6218b36c1d19d4a2e9eb0ce3606eb48.factory.bridge.near"
     }
+  },
+  {
+    "id": "usdc-reflect",
+    "symbol": "usdc+",
+    "name": "Reflect USDC+",
+    "platforms": {}
   },
   {
     "id": "usdc-yvault",
