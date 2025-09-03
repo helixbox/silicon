@@ -83719,16 +83719,16 @@
     "id": "metamask-usd",
     "symbol": "musd",
     "name": "MetaMask USD",
-    "platforms": {}
+    "platforms": {
+      "ethereum": "0xaca92e438df0b2401ff60da7e4337b687a2435da",
+      "linea": "0xaca92e438df0b2401ff60da7e4337b687a2435da"
+    }
   },
   {
     "id": "metamask-usd-test",
     "symbol": "musd",
     "name": "MetaMask USD (Test)",
-    "platforms": {
-      "ethereum": "0xaca92e438df0b2401ff60da7e4337b687a2435da",
-      "linea": "0xaca92e438df0b2401ff60da7e4337b687a2435da"
-    }
+    "platforms": {}
   },
   {
     "id": "meta-monopoly",
@@ -103258,6 +103258,14 @@
     "name": "PolyDoge",
     "platforms": {
       "polygon-pos": "0x8a953cfe442c5e8855cc6c61b1293fa648bae472"
+    }
+  },
+  {
+    "id": "polyfactual",
+    "symbol": "polyfacts",
+    "name": "Polyfactual",
+    "platforms": {
+      "solana": "FfixAeHevSKBZWoXPTbLk4U4X9piqvzGKvQaFo3cpump"
     }
   },
   {
