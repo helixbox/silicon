@@ -21690,7 +21690,9 @@
     "symbol": "boost",
     "name": "Boost",
     "platforms": {
-      "ethereum": "0xbe7e12b2e128bc955a0130ffb168f031d7dd8d58"
+      "ethereum": "0xbe7e12b2e128bc955a0130ffb168f031d7dd8d58",
+      "abstract": "0xed595068950d07fb7973f21917835471cb9499e9",
+      "binance-smart-chain": "0xbe7e12b2e128bc955a0130ffb168f031d7dd8d58"
     }
   },
   {
@@ -27001,6 +27003,14 @@
     }
   },
   {
+    "id": "cdog-community",
+    "symbol": "cdog",
+    "name": "CDOG-community",
+    "platforms": {
+      "cronos": "0xc9bc831cd26073762fb5d6eb3382d9847a83daa1"
+    }
+  },
+  {
     "id": "cedar",
     "symbol": "cdr",
     "name": "Cedar",
@@ -27943,10 +27953,20 @@
       "plume-network": "0xb549b375da0c76f8b3877b9adfdd28378f087a64",
       "polygon-zkevm": "0xdb7a504cf869484dd6ac5faf925c8386cbf7573d",
       "ronin": "0x3902228d6a3d2dc44731fd9d45fee6a61c722d0b",
+      "rootstock": "0x938d84942f5d924070a6bb82f8e56a5e2b3098a4",
+      "scroll": "0x548c6944cba02b9d1c0570102c89de64d258d3ac",
+      "shibarium": "0x71052bae71c25c78e37fd12e5ff1101a71d9018f",
+      "soneium": "0x32d8f819c8080ae44375f8d383ffd39fc642f3ec",
       "arbitrum-one": "0xf97f4df75117a78c1a5a0dbb814af92458539fb4",
       "huobi-token": "0x9e004545c59d359f6b7bfb06a26390b087717b42",
       "xdai": "0xe2e73a1c69ecf83f464efce6a5be353a37ca09b2",
+      "sonic": "0x71052bae71c25c78e37fd12e5ff1101a71d9018f",
       "optimistic-ethereum": "0x350a791bfc2c21f9ed5d10980dad2e2638ffa7f6",
+      "starknet": "0x060f47b96b525c1014fed595e87e98edc3ce0731627a0670e1804ee1a3ca0ee9",
+      "superseed": "0x41ccf59e3f30eb624ef8e5ea34b2da96bee472d9",
+      "taiko": "0x917a3964c37993e99a47c779beb5db1e9d13804d",
+      "unichain": "0xef66491eab4bbb582c57b14778afd8dfb70d8a1a",
+      "wemix-network": "0x80f1fcdc96b55e459bf52b998abbe2c364935d69",
       "abstract": "0x2ea38d6cdb6774992d4a62fe622f4405663729dd",
       "apechain": "0xf575731b78981b86d34321d875a3d25a48479be6",
       "astar": "0x31efb841d5e0b4082f7e1267dab8de1b853f2a9d",
@@ -27958,6 +27978,8 @@
       "bsquared-network": "0x709229d9587886a1edfee6b5ce636e1d70d1ce39",
       "celo": "0xd07294e6e917e07dfdcee882dd1e2565085c2ae0",
       "core": "0x3902228d6a3d2dc44731fd9d45fee6a61c722d0b",
+      "world-chain": "0x915b648e994d5f31059b38223b9fbe98ae185473",
+      "x-layer": "0x8af9711b44695a5a081f25ab9903ddb73acf8fa9",
       "corn": "0x7311ded199cc28d80e58e81e8589aa160199fcd2",
       "cronos": "0x8c80a01f461f297df7f9da3a4f740d7297c8ac85",
       "cronos-zkevm": "0x61170ca9fb9cf98d4c7d684e07be6d969d59667e",
@@ -27965,6 +27987,8 @@
       "fraxtal": "0xd6a6ba37faac229b9665e86739ca501401f5a940",
       "hashkey-chain": "0x71052bae71c25c78e37fd12e5ff1101a71d9018f",
       "hedera-hashgraph": "0x7ce6bb2cc2d3fd45a974da6a0f29236cb9513a98",
+      "sei-v2": "0x71052bae71c25c78e37fd12e5ff1101a71d9018f",
+      "katana": "0xc2c447b04e0ed3476ddbdae8e9e39be7159d27b6",
       "hemi": "0x63dbe12a6381d64ade47bc3d92abf4393dff4bc8",
       "hyperevm": "0x1ac2ee68b8d038c982c1e1f73f596927dd70de59",
       "ink": "0x71052bae71c25c78e37fd12e5ff1101a71d9018f",
@@ -27972,6 +27996,9 @@
       "avalanche": "0x5947bb275c521040051d82396192181b413227a3",
       "harmony-shard-0": "0x218532a12a389a4a92fc0c5fb22901d1c19198aa",
       "solana": "LinkhB3afbBKb2EQQu7s7umdZceV3wcvAUJhQAfQ23L",
+      "zircuit": "0xdee94506570ca186bc1e3516fcf4fd719c312ccd",
+      "zksync": "0x52869bae3e091e36b0915941577f2d47d8d8b534",
+      "zora-network": "0x3662b6f73c5560229d1a98af6e59e6649d568374",
       "osmosis": "ibc/D3327A763C23F01EC43D1F0DB3CEFEC390C362569B6FD191F40A5192F8960049",
       "polygon-pos": "0x53e0bca35ec356bd5dddfebbd1fc0fd03fabad39",
       "milkomeda-cardano": "0xf390830df829cf22c53c8840554b98eafc5dcbc2",
@@ -48179,6 +48206,12 @@
     "platforms": {
       "ethereum": "0xdda31d354a519ecfb0bc2a536b5e7be147c0f7f4"
     }
+  },
+  {
+    "id": "everlyn",
+    "symbol": "lyn",
+    "name": "Everlyn",
+    "platforms": {}
   },
   {
     "id": "evermoon-erc",
@@ -70072,6 +70105,14 @@
     }
   },
   {
+    "id": "kairos-sniper-bot",
+    "symbol": "kairos",
+    "name": "Kairos Sniper Bot",
+    "platforms": {
+      "solana": "B6dvdDUUYBinNDUT4xsHBSCNu2SKb9P33Z79ySakLREV"
+    }
+  },
+  {
     "id": "kaito",
     "symbol": "kaito",
     "name": "KAITO",
@@ -83445,6 +83486,14 @@
     "name": "Metacade",
     "platforms": {
       "base": "0xc48823ec67720a04a9dfd8c7d109b2c3d6622094"
+    }
+  },
+  {
+    "id": "metacademax",
+    "symbol": "metacademax",
+    "name": "MetacadeMax",
+    "platforms": {
+      "base": "0xbb2db41e62abf596b7f8ca7bd4733a7b357f5ab9"
     }
   },
   {
@@ -100954,6 +101003,14 @@
     "name": "Pharaohs",
     "platforms": {
       "solana": "8fJCtfbuAaFzdwTnQP84nNhSpZdVy4Uc929eXZRBN8H4"
+    }
+  },
+  {
+    "id": "pharmachain-ai",
+    "symbol": "phai",
+    "name": "Pharmachain AI",
+    "platforms": {
+      "base": "0x3513e4a7d27d18c2c894d98bc5a55406360b9ba3"
     }
   },
   {
@@ -127814,6 +127871,14 @@
     }
   },
   {
+    "id": "taix",
+    "symbol": "taix",
+    "name": "TAIX",
+    "platforms": {
+      "base": "0x3394a562a38cebd02afc56380a108bb98c5ac3b7"
+    }
+  },
+  {
     "id": "tajcoin",
     "symbol": "taj",
     "name": "TajCoin",
@@ -131955,6 +132020,14 @@
     "platforms": {
       "base": "0xd758916365b361cf833bb9c4c465ecd501ddd984",
       "solana": "Ch2veYHxMWBDgw77nxWvJeGz6YjBD2g9cm21fNriGjGE"
+    }
+  },
+  {
+    "id": "token6900",
+    "symbol": "t6900",
+    "name": "Token6900",
+    "platforms": {
+      "ethereum": "0xdf4c0665e67cf0698447ca9e454ed56cc6f2df1e"
     }
   },
   {
@@ -140134,6 +140207,14 @@
     "name": "Volo Staked SUI",
     "platforms": {
       "sui": "0x549e8b69270defbfafd4f94e17ec44cdbdd99820b33bda2278dea3b9a32d3f55::cert::CERT"
+    }
+  },
+  {
+    "id": "volt-2",
+    "symbol": "xvm",
+    "name": "VOLT",
+    "platforms": {
+      "solana": "FRsV3m924aGpLMuEekoo3JkkMt1oopaM4JY9ki5YLXrp"
     }
   },
   {

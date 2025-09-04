@@ -4,7 +4,7 @@
   "keywords": [
     "defi"
   ],
-  "timestamp": "2025-05-23T00:00:06.087+00:00",
+  "timestamp": "2025-09-04T07:00:06.693+00:00",
   "tokens": [
     {
       "chainId": 48900,
@@ -24,19 +24,19 @@
     },
     {
       "chainId": 48900,
-      "address": "0x4200000000000000000000000000000000000006",
-      "name": "Zircuit Bridged WETH  Zircuit ",
-      "symbol": "WETH",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/52628/thumb/wETH_32.png?1733823830"
-    },
-    {
-      "chainId": 48900,
       "address": "0x46dda6a5a559d861c06ec9a95fb395f5c3db0742",
       "name": "Zircuit Bridged USDT  Zircuit ",
       "symbol": "USDT",
       "decimals": 6,
       "logoURI": "https://assets.coingecko.com/coins/images/52629/thumb/USDT.png?1733824032"
+    },
+    {
+      "chainId": 48900,
+      "address": "0x4200000000000000000000000000000000000006",
+      "name": "Zircuit Bridged WETH  Zircuit ",
+      "symbol": "WETH",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/52628/thumb/wETH_32.png?1733823830"
     },
     {
       "chainId": 48900,
@@ -61,11 +61,19 @@
       "symbol": "STONE",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/33103/thumb/200_200.png?1702602672"
+    },
+    {
+      "chainId": 48900,
+      "address": "0xdee94506570ca186bc1e3516fcf4fd719c312ccd",
+      "name": "Chainlink",
+      "symbol": "LINK",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/877/thumb/chainlink-new-logo.png?1696502009"
     }
   ],
   "version": {
     "major": 1,
-    "minor": 6,
+    "minor": 7,
     "patch": 0
   }
 }

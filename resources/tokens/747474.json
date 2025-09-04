@@ -4,7 +4,7 @@
   "keywords": [
     "defi"
   ],
-  "timestamp": "2025-08-27T04:00:05.630+00:00",
+  "timestamp": "2025-09-04T08:00:07.297+00:00",
   "tokens": [
     {
       "chainId": 747474,
@@ -13,14 +13,6 @@
       "symbol": "VBUSDC",
       "decimals": 6,
       "logoURI": "https://assets.coingecko.com/coins/images/67043/thumb/usdc1.png?1751581304"
-    },
-    {
-      "chainId": 747474,
-      "address": "0xfba805659e5050544e185cccdf592fd77f8c7210",
-      "name": "Kitsu",
-      "symbol": "KITSU",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/67868/thumb/KitsuPNG2.png?1754110292"
     },
     {
       "chainId": 747474,
@@ -48,11 +40,11 @@
     },
     {
       "chainId": 747474,
-      "address": "0xb0f70c0bd6fd87dbeb7c10dc692a2a6106817072",
-      "name": "Bitcoin on Katana",
-      "symbol": "BTCK",
-      "decimals": 8,
-      "logoURI": "https://assets.coingecko.com/coins/images/68287/thumb/btc.png?1755248096"
+      "address": "0xfba805659e5050544e185cccdf592fd77f8c7210",
+      "name": "Kitsu",
+      "symbol": "KITSU",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/67868/thumb/KitsuPNG2.png?1754110292"
     },
     {
       "chainId": 747474,
@@ -64,6 +56,14 @@
     },
     {
       "chainId": 747474,
+      "address": "0xb0f70c0bd6fd87dbeb7c10dc692a2a6106817072",
+      "name": "Bitcoin on Katana",
+      "symbol": "BTCK",
+      "decimals": 8,
+      "logoURI": "https://assets.coingecko.com/coins/images/68287/thumb/btc.png?1755248096"
+    },
+    {
+      "chainId": 747474,
       "address": "0x1e5efca3d0db2c6d5c67a4491845c43253eb9e4e",
       "name": "Morpho",
       "symbol": "MORPHO",
@@ -72,19 +72,19 @@
     },
     {
       "chainId": 747474,
-      "address": "0x00000000efe302beaa2b3e6e1b18d08d69a9012a",
-      "name": "AUSD",
-      "symbol": "AUSD",
-      "decimals": 6,
-      "logoURI": "https://assets.coingecko.com/coins/images/39284/thumb/Circle_Agora_White_on_Olive_1080px.png?1722961274"
-    },
-    {
-      "chainId": 747474,
       "address": "0xecac9c5f704e954931349da37f60e39f515c11c1",
       "name": "Lombard Staked BTC",
       "symbol": "LBTC",
       "decimals": 8,
       "logoURI": "https://assets.coingecko.com/coins/images/39969/thumb/LBTC_Logo.png?1724959872"
+    },
+    {
+      "chainId": 747474,
+      "address": "0x00000000efe302beaa2b3e6e1b18d08d69a9012a",
+      "name": "AUSD",
+      "symbol": "AUSD",
+      "decimals": 6,
+      "logoURI": "https://assets.coingecko.com/coins/images/39284/thumb/Circle_Agora_White_on_Olive_1080px.png?1722961274"
     },
     {
       "chainId": 747474,
@@ -125,11 +125,19 @@
       "symbol": "JITOSOL",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/28046/thumb/JitoSOL-200.png?1696527060"
+    },
+    {
+      "chainId": 747474,
+      "address": "0xc2c447b04e0ed3476ddbdae8e9e39be7159d27b6",
+      "name": "Chainlink",
+      "symbol": "LINK",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/877/thumb/chainlink-new-logo.png?1696502009"
     }
   ],
   "version": {
     "major": 0,
-    "minor": 10,
+    "minor": 11,
     "patch": 0
   }
 }
