@@ -4,32 +4,8 @@
   "keywords": [
     "defi"
   ],
-  "timestamp": "2025-09-04T04:00:31.736+00:00",
+  "timestamp": "2025-09-04T05:00:36.086+00:00",
   "tokens": [
-    {
-      "chainId": 43111,
-      "address": "0x4200000000000000000000000000000000000006",
-      "name": "Hemi Bridged WETH  Hemi ",
-      "symbol": "WETH",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/67025/thumb/weth_2.jpg?1751514061"
-    },
-    {
-      "chainId": 43111,
-      "address": "0xbb0d083fb1be0a9f6157ec484b6c79e0a4e31c2e",
-      "name": "Hemi Bridged USDT  Hemi ",
-      "symbol": "USDT",
-      "decimals": 6,
-      "logoURI": "https://assets.coingecko.com/coins/images/68905/thumb/usdt.jpg?1756951459"
-    },
-    {
-      "chainId": 43111,
-      "address": "0xad11a8beb98bbf61dbb1aa0f6d6f2ecd87b35afa",
-      "name": "Stargate Bridged USDC  Hemi ",
-      "symbol": "USDCE",
-      "decimals": 6,
-      "logoURI": "https://assets.coingecko.com/coins/images/67024/thumb/usdc.jpg?1751513981"
-    },
     {
       "chainId": 43111,
       "address": "0xaa40c0c7644e0b2b224509571e10ad20d9c4ef28",
@@ -48,11 +24,35 @@
     },
     {
       "chainId": 43111,
+      "address": "0xbb0d083fb1be0a9f6157ec484b6c79e0a4e31c2e",
+      "name": "Hemi Bridged USDT  Hemi ",
+      "symbol": "USDT",
+      "decimals": 6,
+      "logoURI": "https://assets.coingecko.com/coins/images/68905/thumb/usdt.jpg?1756951459"
+    },
+    {
+      "chainId": 43111,
       "address": "0x6a9a65b84843f5fd4ac9a0471c4fc11afffbce4a",
       "name": "Lorenzo Wrapped Bitcoin",
       "symbol": "ENZOBTC",
       "decimals": 8,
       "logoURI": "https://assets.coingecko.com/coins/images/54447/thumb/enzo_btc.png?1739773963"
+    },
+    {
+      "chainId": 43111,
+      "address": "0xad11a8beb98bbf61dbb1aa0f6d6f2ecd87b35afa",
+      "name": "Stargate Bridged USDC  Hemi ",
+      "symbol": "USDCE",
+      "decimals": 6,
+      "logoURI": "https://assets.coingecko.com/coins/images/67024/thumb/usdc.jpg?1751513981"
+    },
+    {
+      "chainId": 43111,
+      "address": "0x4200000000000000000000000000000000000006",
+      "name": "Hemi Bridged WETH  Hemi ",
+      "symbol": "WETH",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/67025/thumb/weth_2.jpg?1751514061"
     },
     {
       "chainId": 43111,
@@ -105,7 +105,7 @@
   ],
   "version": {
     "major": 0,
-    "minor": 8,
+    "minor": 9,
     "patch": 0
   }
 }
