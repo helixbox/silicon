@@ -61774,6 +61774,14 @@
     }
   },
   {
+    "id": "hemi-bridged-usdt-hemi",
+    "symbol": "usdt",
+    "name": "Hemi Bridged USDT (Hemi)",
+    "platforms": {
+      "hemi": "0xbb0d083fb1be0a9f6157ec484b6c79e0a4e31c2e"
+    }
+  },
+  {
     "id": "hemi-bridged-wbtc-hemi",
     "symbol": "wbtc",
     "name": "Hemi Bridged WBTC (Hemi)",
@@ -77961,7 +77969,9 @@
     "id": "lorenzo-wrapped-bitcoin",
     "symbol": "enzobtc",
     "name": "Lorenzo Wrapped Bitcoin",
-    "platforms": {}
+    "platforms": {
+      "hemi": "0x6a9a65b84843f5fd4ac9a0471c4fc11afffbce4a"
+    }
   },
   {
     "id": "lormhole",
@@ -115997,7 +116007,7 @@
   {
     "id": "shft",
     "symbol": "shft",
-    "name": "SHFT",
+    "name": "SHIFT",
     "platforms": {}
   },
   {
