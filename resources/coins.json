@@ -10639,7 +10639,7 @@
   },
   {
     "id": "atomic-meta",
-    "symbol": "atm",
+    "symbol": "atmc",
     "name": "Atomic Meta",
     "platforms": {}
   },
@@ -32308,6 +32308,14 @@
     }
   },
   {
+    "id": "coremind",
+    "symbol": "core",
+    "name": "Coremind",
+    "platforms": {
+      "ethereum": "0x95665780ef4fafe7822f6915a17b6d1b2d3e93d0"
+    }
+  },
+  {
     "id": "core-ordinals",
     "symbol": "core",
     "name": "CORE (Ordinals)",
@@ -50891,6 +50899,14 @@
     }
   },
   {
+    "id": "fixme-ai",
+    "symbol": "fix",
+    "name": "FixMe AI",
+    "platforms": {
+      "ethereum": "0x41b3a4d2819ffd82139d36c9c14a4de759662749"
+    }
+  },
+  {
     "id": "fjord-foundry",
     "symbol": "fjo",
     "name": "Fjord Foundry",
@@ -52313,6 +52329,8 @@
     "name": "Forta",
     "platforms": {
       "ethereum": "0x41545f8b9472d758bb669ed8eaeeecd7a9c4ec29",
+      "arbitrum-one": "0x3a1429d50e0cbbc45c997af600541fe1cc3d2923",
+      "base": "0x7588310a7abf34dc608ac98a1c4432f85e194df5",
       "polygon-pos": "0x9ff62d1fc52a907b6dcba8077c2ddca6e6a9d3e1"
     }
   },
@@ -114066,6 +114084,8 @@
       "bevm": "0x2031c8848775a5efb7cff2a4edbe3f04c50a1478",
       "base": "0x70654aad8b7734dc319d0c3608ec7b32e03fa162",
       "hemi": "0xb4818bb69478730ef4e33cc068dd94278e2766cb",
+      "arbitrum-one": "0xb4818bb69478730ef4e33cc068dd94278e2766cb",
+      "ethereum": "0x1958853a8be062dc4f401750eb233f5850f0d0d2",
       "sonic": "0xb4818bb69478730ef4e33cc068dd94278e2766cb"
     }
   },
@@ -120125,6 +120145,14 @@
       "binance-smart-chain": "0x2d060ef4d6bf7f9e5edde373ab735513c0e4f944",
       "base": "0xd71552d9e08e5351adb52163b3bbbc4d7de53ce1",
       "solana": "FUW4poh6s7uychceF8u1mo7NS65vzjX5vmS7Yi7GYQnz"
+    }
+  },
+  {
+    "id": "solid-usd-sousd",
+    "symbol": "sousd",
+    "name": "Solid USD (soUSD)",
+    "platforms": {
+      "fuse": "0x75333830e7014e909535389a6e5b0c02aa62ca27"
     }
   },
   {
@@ -133678,6 +133706,14 @@
     }
   },
   {
+    "id": "trashy-by-matt-furie",
+    "symbol": "trashy",
+    "name": "Trashy By Matt Furie",
+    "platforms": {
+      "solana": "C7AxK6ZdbmN9RmLnmV95vE2MrmAU77ftQZz5RVhcpump"
+    }
+  },
+  {
     "id": "trava-finance",
     "symbol": "trava",
     "name": "Trava Finance",
@@ -140509,6 +140545,14 @@
     "name": "Vortex Protocol",
     "platforms": {
       "polygon-pos": "0xf46cb10e8c5fb9368bbf497a3176b80c0af66d44"
+    }
+  },
+  {
+    "id": "vouch",
+    "symbol": "vouch",
+    "name": "Vouch",
+    "platforms": {
+      "pulsechain": "0xd34f5adc24d8cc55c1e832bdf65fffdf80d1314f"
     }
   },
   {
