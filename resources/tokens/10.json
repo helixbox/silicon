@@ -4,7 +4,7 @@
   "keywords": [
     "defi"
   ],
-  "timestamp": "2025-09-05T05:01:05.981+00:00",
+  "timestamp": "2025-09-05T07:01:07.546+00:00",
   "tokens": [
     {
       "chainId": 10,
@@ -13,14 +13,6 @@
       "symbol": "SONNE",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/27540/thumb/Token1.png?1696526577"
-    },
-    {
-      "chainId": 10,
-      "address": "0x0a7b751fcdbbaa8bb988b9217ad5fb5cfe7bf7a0",
-      "name": "Infinite Trading Protocol",
-      "symbol": "ITP",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/68308/thumb/itplogo.png?1755327311"
     },
     {
       "chainId": 10,
@@ -48,19 +40,19 @@
     },
     {
       "chainId": 10,
+      "address": "0xef4461891dfb3ac8572ccf7c794664a8dd927945",
+      "name": "WalletConnect Token",
+      "symbol": "WCT",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/50390/thumb/wc-token1.png?1727569464"
+    },
+    {
+      "chainId": 10,
       "address": "0x81c9a7b55a4df39a9b7b5f781ec0e53539694873",
       "name": "Exactly USD e Coin",
       "symbol": "EXAUSDCE",
       "decimals": 6,
       "logoURI": "https://assets.coingecko.com/coins/images/31175/thumb/ExaUSDC_1.png?1696530003"
-    },
-    {
-      "chainId": 10,
-      "address": "0x7f5c764cbc14f9669b88837ca1490cca17c31607",
-      "name": "Standard Bridged USDC e  Optimism ",
-      "symbol": "USDCE",
-      "decimals": 6,
-      "logoURI": "https://assets.coingecko.com/coins/images/31580/thumb/USDC-icon.png?1696530397"
     },
     {
       "chainId": 10,
@@ -80,11 +72,11 @@
     },
     {
       "chainId": 10,
-      "address": "0x4200000000000000000000000000000000000006",
-      "name": "L2 Standard Bridged WETH  Optimism ",
-      "symbol": "WETH",
+      "address": "0x513c7e3a9c69ca3e22550ef58ac1c0088e918fff",
+      "name": "Aave v3 OP",
+      "symbol": "AOP",
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/39715/thumb/WETH.PNG?1723731805"
+      "logoURI": "https://assets.coingecko.com/coins/images/32919/thumb/op.png?1699825542"
     },
     {
       "chainId": 10,
@@ -93,14 +85,6 @@
       "symbol": "PUSDCE",
       "decimals": 6,
       "logoURI": "https://assets.coingecko.com/coins/images/32455/thumb/prizeUSDCIcon_200.png?1698241065"
-    },
-    {
-      "chainId": 10,
-      "address": "0x9560e827af36c94d2ac33a39bce1fe78631088db",
-      "name": "Velodrome Finance",
-      "symbol": "VELO",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/25783/thumb/velo.png?1696524870"
     },
     {
       "chainId": 10,
@@ -120,6 +104,14 @@
     },
     {
       "chainId": 10,
+      "address": "0x7f5c764cbc14f9669b88837ca1490cca17c31607",
+      "name": "Standard Bridged USDC e  Optimism ",
+      "symbol": "USDCE",
+      "decimals": 6,
+      "logoURI": "https://assets.coingecko.com/coins/images/31580/thumb/USDC-icon.png?1696530397"
+    },
+    {
+      "chainId": 10,
       "address": "0xf8e943f646816e4b51279b8934753821ed832dca",
       "name": "Cthulhu Finance",
       "symbol": "CTH",
@@ -132,6 +124,14 @@
       "name": "Exactly WBTC",
       "symbol": "EXAWBTC",
       "decimals": 8
+    },
+    {
+      "chainId": 10,
+      "address": "0x4200000000000000000000000000000000000006",
+      "name": "L2 Standard Bridged WETH  Optimism ",
+      "symbol": "WETH",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/39715/thumb/WETH.PNG?1723731805"
     },
     {
       "chainId": 10,
@@ -207,14 +207,6 @@
     },
     {
       "chainId": 10,
-      "address": "0xc26921b5b9ee80773774d36c84328ccb22c3a819",
-      "name": "Wrapped OptiDoge",
-      "symbol": "WOPTIDOGE",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/31066/thumb/Wrapped_OptiDoge_logo_200x200px_.png?1696529900"
-    },
-    {
-      "chainId": 10,
       "address": "0x29cb69d4780b53c1e5cd4d2b817142d2e9890715",
       "name": "PoolTogether Prize WETH   Aave",
       "symbol": "PWETH",
@@ -228,6 +220,14 @@
       "symbol": "WSTETH",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/53104/thumb/superbridge-bridged-wsteth-optimism.webp?1735228418"
+    },
+    {
+      "chainId": 10,
+      "address": "0xc26921b5b9ee80773774d36c84328ccb22c3a819",
+      "name": "Wrapped OptiDoge",
+      "symbol": "WOPTIDOGE",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/31066/thumb/Wrapped_OptiDoge_logo_200x200px_.png?1696529900"
     },
     {
       "chainId": 10,
@@ -303,6 +303,14 @@
     },
     {
       "chainId": 10,
+      "address": "0x9560e827af36c94d2ac33a39bce1fe78631088db",
+      "name": "Velodrome Finance",
+      "symbol": "VELO",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/25783/thumb/velo.png?1696524870"
+    },
+    {
+      "chainId": 10,
       "address": "0x69420f9e38a4e60a62224c489be4bf7a94402496",
       "name": "Defi money",
       "symbol": "MONEY",
@@ -367,6 +375,14 @@
     },
     {
       "chainId": 10,
+      "address": "0x0a7b751fcdbbaa8bb988b9217ad5fb5cfe7bf7a0",
+      "name": "Infinite Trading Protocol",
+      "symbol": "ITP",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/68308/thumb/itplogo.png?1755327311"
+    },
+    {
+      "chainId": 10,
       "address": "0xf467c7d5a4a9c4687ffc7986ac6ad5a4c81e1404",
       "name": "Kite",
       "symbol": "KITE",
@@ -383,27 +399,11 @@
     },
     {
       "chainId": 10,
-      "address": "0xef4461891dfb3ac8572ccf7c794664a8dd927945",
-      "name": "WalletConnect Token",
-      "symbol": "WCT",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/50390/thumb/wc-token1.png?1727569464"
-    },
-    {
-      "chainId": 10,
       "address": "0xa72f7df6c1454096387dbb74f70b3dac4f0a61f5",
       "name": "Aktionariat Carnault AG Tokenized Share",
       "symbol": "CAS",
       "decimals": 0,
       "logoURI": "https://assets.coingecko.com/coins/images/33334/thumb/CAS.png?1701519269"
-    },
-    {
-      "chainId": 10,
-      "address": "0x513c7e3a9c69ca3e22550ef58ac1c0088e918fff",
-      "name": "Aave v3 OP",
-      "symbol": "AOP",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/32919/thumb/op.png?1699825542"
     },
     {
       "chainId": 10,
@@ -1991,6 +1991,14 @@
     },
     {
       "chainId": 10,
+      "address": "0xaf1d71bf947709315655514467d5158e5d3046d5",
+      "name": "Shutter",
+      "symbol": "SHU",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/35524/thumb/shu_token.png?1756346819"
+    },
+    {
+      "chainId": 10,
       "address": "0xea50f402653c41cadbafd1f788341db7b7f37816",
       "name": "sGYD",
       "symbol": "SGYD",
@@ -2136,7 +2144,7 @@
   ],
   "version": {
     "major": 45,
-    "minor": 1,
+    "minor": 2,
     "patch": 0
   }
 }

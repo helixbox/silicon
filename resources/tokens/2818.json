@@ -4,8 +4,16 @@
   "keywords": [
     "defi"
   ],
-  "timestamp": "2025-05-13T16:00:31.782+00:00",
+  "timestamp": "2025-09-05T06:01:18.350+00:00",
   "tokens": [
+    {
+      "chainId": 2818,
+      "address": "0xc7d67a9cbb121b3b0b9c053dd9f469523243379a",
+      "name": "Morph L2 Bridged USDT  Morph L2 ",
+      "symbol": "USDT",
+      "decimals": 6,
+      "logoURI": "https://assets.coingecko.com/coins/images/52915/thumb/usdt.jpg?1734682309"
+    },
     {
       "chainId": 2818,
       "address": "0xe4635e9cd1f719c37523a80c0fb0b95a445a788a",
@@ -21,14 +29,6 @@
       "symbol": "BAI",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/55062/thumb/bai.png?1743526627"
-    },
-    {
-      "chainId": 2818,
-      "address": "0xc7d67a9cbb121b3b0b9c053dd9f469523243379a",
-      "name": "Morph L2 Bridged USDT  Morph L2 ",
-      "symbol": "USDT",
-      "decimals": 6,
-      "logoURI": "https://assets.coingecko.com/coins/images/52915/thumb/usdt.jpg?1734682309"
     },
     {
       "chainId": 2818,
@@ -61,11 +61,19 @@
       "symbol": "MX",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/8545/thumb/mexc.jpg?1747142259"
+    },
+    {
+      "chainId": 2818,
+      "address": "0x211cc4dd073734da055fbf44a2b4667d5e5fe5d2",
+      "name": "Ethena Staked USDe",
+      "symbol": "SUSDE",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/33669/thumb/sUSDe-Symbol-Color.png?1716307680"
     }
   ],
   "version": {
     "major": 0,
-    "minor": 4,
-    "patch": 3
+    "minor": 5,
+    "patch": 0
   }
 }
