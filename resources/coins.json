@@ -23128,14 +23128,6 @@
     }
   },
   {
-    "id": "bridged-usde",
-    "symbol": "usde",
-    "name": "Bridged USDe",
-    "platforms": {
-      "arbitrum-one": "0x5d3a1ff2b6bab83b63cd9ad0787074081a52ef34"
-    }
-  },
-  {
     "id": "bridged-usdt",
     "symbol": "usdt",
     "name": "Bridged USDT",
@@ -47155,6 +47147,14 @@
     }
   },
   {
+    "id": "eris-amplified-luna",
+    "symbol": "ampluna",
+    "name": "Eris Amplified Luna",
+    "platforms": {
+      "terra-2": "terra1ecgazyd0waaj3g7l9cmy5gulhxkps2gmxu9ghducvuypjq68mq2s5lvsct"
+    }
+  },
+  {
     "id": "eris-amplified-mnta",
     "symbol": "ampmnta",
     "name": "Eris Amplified MNTA",
@@ -47497,13 +47497,16 @@
       "fraxtal": "0x211cc4dd073734da055fbf44a2b4667d5e5fe5d2",
       "hyperevm": "0x211cc4dd073734da055fbf44a2b4667d5e5fe5d2",
       "berachain": "0x211cc4dd073734da055fbf44a2b4667d5e5fe5d2",
+      "zircuit": "0x211cc4dd073734da055fbf44a2b4667d5e5fe5d2",
       "base": "0x211cc4dd073734da055fbf44a2b4667d5e5fe5d2",
       "optimistic-ethereum": "0x211cc4dd073734da055fbf44a2b4667d5e5fe5d2",
       "manta-pacific": "0x211cc4dd073734da055fbf44a2b4667d5e5fe5d2",
       "metis-andromeda": "0x211cc4dd073734da055fbf44a2b4667d5e5fe5d2",
+      "zksync": "0xad17da2f6ac76746ef261e835c50b2651ce36da8",
       "blast": "0x211cc4dd073734da055fbf44a2b4667d5e5fe5d2",
       "avalanche": "0x211cc4dd073734da055fbf44a2b4667d5e5fe5d2",
       "binance-smart-chain": "0x211cc4dd073734da055fbf44a2b4667d5e5fe5d2",
+      "mantle": "0x211cc4dd073734da055fbf44a2b4667d5e5fe5d2",
       "solana": "Eh6XEPhSwoLv5wFApukmnaVSHQ6sAnoD9BmgmwQoN2sN"
     }
   },
@@ -47518,7 +47521,11 @@
       "zircuit": "0x5d3a1ff2b6bab83b63cd9ad0787074081a52ef34",
       "hyperliquid": "0x2e6d84f2d7ca82e6581e03523e4389f7",
       "zksync": "0x39fe7a0dacce31bd90418e3e659fb0b5f0b3db0d",
-      "solana": "DEkqHyPN7GMRJ5cArtQFAWefqbZb33Hyf6s5iCwjEonT"
+      "mantle": "0x5d3a1ff2b6bab83b63cd9ad0787074081a52ef34",
+      "binance-smart-chain": "0x5d3a1ff2b6bab83b63cd9ad0787074081a52ef34",
+      "hyperevm": "0x5d3a1ff2b6bab83b63cd9ad0787074081a52ef34",
+      "solana": "DEkqHyPN7GMRJ5cArtQFAWefqbZb33Hyf6s5iCwjEonT",
+      "arbitrum-one": "0x5d3a1ff2b6bab83b63cd9ad0787074081a52ef34"
     }
   },
   {
@@ -64333,14 +64340,6 @@
     "platforms": {}
   },
   {
-    "id": "hyperevm-bridged-usde-hyperevm",
-    "symbol": "usde",
-    "name": "HyperEVM Bridged USDE (HyperEVM)",
-    "platforms": {
-      "hyperevm": "0x5d3a1ff2b6bab83b63cd9ad0787074081a52ef34"
-    }
-  },
-  {
     "id": "hyperevm-bridged-usr-hyperevm",
     "symbol": "usr",
     "name": "HyperEVM Bridged USR (HyperEVM)",
@@ -74502,6 +74501,14 @@
     }
   },
   {
+    "id": "laura-ai",
+    "symbol": "laura",
+    "name": "Laura AI",
+    "platforms": {
+      "ethereum": "0xa39819b999b2471bfdf03d1d8b6f93c83fe8caba"
+    }
+  },
+  {
     "id": "lava",
     "symbol": "lava",
     "name": "Lava",
@@ -80521,27 +80528,11 @@
     }
   },
   {
-    "id": "mantle-bridged-susde-mantle",
-    "symbol": "susde",
-    "name": "Mantle Bridged sUSDE (Mantle)",
-    "platforms": {
-      "mantle": "0x211cc4dd073734da055fbf44a2b4667d5e5fe5d2"
-    }
-  },
-  {
     "id": "mantle-bridged-usdc-mantle",
     "symbol": "usdc",
     "name": "Mantle Bridged USDC (Mantle)",
     "platforms": {
       "mantle": "0x09bc4e0d864854c6afb6eb9a9cdf58ac190d0df9"
-    }
-  },
-  {
-    "id": "mantle-bridged-usde-mantle",
-    "symbol": "usde",
-    "name": "Mantle Bridged USDe (Mantle)",
-    "platforms": {
-      "mantle": "0x5d3a1ff2b6bab83b63cd9ad0787074081a52ef34"
     }
   },
   {
@@ -98279,6 +98270,14 @@
     "name": "Pandora Finance",
     "platforms": {
       "binance-smart-chain": "0x6c1efbed2f57dd486ec091dffd08ee5235a570b1"
+    }
+  },
+  {
+    "id": "pandu-pandas",
+    "symbol": "pandu",
+    "name": "Pandu Pandas",
+    "platforms": {
+      "solana": "4NGbC4RRrUjS78ooSN53Up7gSg4dGrj6F6dxpMWHbonk"
     }
   },
   {
@@ -122647,6 +122646,14 @@
     "name": "Squill",
     "platforms": {
       "ethereum": "0x7ebab7190d3d574ce82d29f2fa1422f18e29969c"
+    }
+  },
+  {
+    "id": "squirrel-by",
+    "symbol": "squirrel",
+    "name": "Squirrel By 𝓜𝓪𝓽𝓽 𝓕𝓾𝓻𝓲𝓮",
+    "platforms": {
+      "ethereum": "0xf32d61b55a0704e52a12963c4b71315847b0d04e"
     }
   },
   {
