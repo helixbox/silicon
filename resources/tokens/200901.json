@@ -4,16 +4,8 @@
   "keywords": [
     "defi"
   ],
-  "timestamp": "2025-08-28T08:00:16.782+00:00",
+  "timestamp": "2025-09-07T06:00:21.435+00:00",
   "tokens": [
-    {
-      "chainId": 200901,
-      "address": "0x0e4cf4affdb72b39ea91fa726d291781cbd020bf",
-      "name": "Bitlayer",
-      "symbol": "BTR",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/55177/thumb/App_Logo.png?1744368194"
-    },
     {
       "chainId": 200901,
       "address": "0x2729868df87d062020e4a4867ff507fb52ee697c",
@@ -24,11 +16,19 @@
     },
     {
       "chainId": 200901,
+      "address": "0x0e4cf4affdb72b39ea91fa726d291781cbd020bf",
+      "name": "Bitlayer",
+      "symbol": "BTR",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/55177/thumb/App_Logo.png?1744368194"
+    },
+    {
+      "chainId": 200901,
       "address": "0xdfd0660032c2d0d38a9092a43d1669d6568caf71",
       "name": "XLink Bridged BTC",
       "symbol": "ABTC",
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/33363/thumb/abtc_%281%29.png?1701606956"
+      "logoURI": "https://assets.coingecko.com/coins/images/33363/thumb/aBTC.png?1757222917"
     },
     {
       "chainId": 200901,
@@ -82,6 +82,6 @@
   "version": {
     "major": 1,
     "minor": 2,
-    "patch": 0
+    "patch": 1
   }
 }
