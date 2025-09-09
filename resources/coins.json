@@ -3794,6 +3794,7 @@
     "platforms": {
       "ethereum": "0x00000000efe302beaa2b3e6e1b18d08d69a9012a",
       "mantle": "0x00000000efe302beaa2b3e6e1b18d08d69a9012a",
+      "sui": "0x2053d08c1e2bd02791056171aab0fd12bd7cd7efad2ab8f6b9c8902f14df2ff2::ausd::AUSD",
       "polygon-pos": "0x00000000efe302beaa2b3e6e1b18d08d69a9012a",
       "fraxtal": "0x00000000efe302beaa2b3e6e1b18d08d69a9012a",
       "binance-smart-chain": "0x00000000efe302beaa2b3e6e1b18d08d69a9012a",
@@ -3804,8 +3805,7 @@
       "plume-network": "0x00000000efe302beaa2b3e6e1b18d08d69a9012a",
       "avalanche": "0x00000000efe302beaa2b3e6e1b18d08d69a9012a",
       "injective": "factory/inj1n636d9gzrqggdk66n2f97th0x8yuhfrtx520e7/ausd",
-      "solana": "AUSD1jCcCyPLybk1YnvPWsHQSrZ46dxwoMniN4N2UEB9",
-      "sui": "0x2053d08c1e2bd02791056171aab0fd12bd7cd7efad2ab8f6b9c8902f14df2ff2::ausd::AUSD"
+      "solana": "AUSD1jCcCyPLybk1YnvPWsHQSrZ46dxwoMniN4N2UEB9"
     }
   },
   {
@@ -11444,10 +11444,10 @@
     "name": "Avalanche (Wormhole)",
     "platforms": {
       "solana": "KgV1GvrHQmRBY8sHQQeUKwTm2r2h8t4C8qt12Cw1HVE",
+      "sui": "0x1e8b532cca6569cab9f9b9ebc73f8c13885012ade714729aa3b450e0339ac766::coin::COIN",
       "terra": "terra1hj8de24c3yqvcsv9r8chr03fzwsak3hgd8gv3m",
       "oasis": "0x32847e63e99d3a044908763056e25694490082f8",
       "polygon-pos": "0x7bb11e7f8b10e9e571e5d8eace04735fdfb2358a",
-      "sui": "0x1e8b532cca6569cab9f9b9ebc73f8c13885012ade714729aa3b450e0339ac766::coin::COIN",
       "ethereum": "0x85f138bfee4ef8e540890cfb48f620571d67eda3",
       "binance-smart-chain": "0x96412902aa9aff61e13f085e70d3152c6ef2a817"
     }
@@ -13683,8 +13683,8 @@
     "name": "Balanced",
     "platforms": {
       "icon": "cxf61cd5a45dc9f91c15aa65831a30a90d59a09619",
-      "binance-smart-chain": "0x94cf269d63c4140ed481cb0b149dae03c4620cdf",
       "sui": "0x3ae6be8e58c0e0715764971b750709e67c6de33e38bbecafe25b5f3dd5080a39::balanced_token::BALANCED_TOKEN",
+      "binance-smart-chain": "0x94cf269d63c4140ed481cb0b149dae03c4620cdf",
       "arbitrum-one": "0xac7952d30850c9d214b0f44cbe213781b4dacf05",
       "optimistic-ethereum": "0xd336c74b840f9962cf2c666f8666d6d61ec24440",
       "avalanche": "0x542245f2b93b30994a4670121541b38226f1208c",
@@ -15004,6 +15004,7 @@
     "name": "Basket",
     "platforms": {
       "solana": "6gnCPhXtLnUD76HjQuSYPENLSZdG8RvDB1pTLM5aLSJA",
+      "sui": "0xd4d52a6bf452401c0c70a1d19ff6cec2933f22a548eae552f3e514f64f61703a::coin::COIN",
       "arbitrum-one": "0xa3210cd727fe6daf8386af5623ba51a367e46263",
       "polygon-pos": "0x9a6a40cdf21a0af417f1b815223fd92c85636c58",
       "avalanche": "0x6ac048ae05e7e015acca2aa7abd0ec013e8e3a59",
@@ -15011,7 +15012,6 @@
       "acala": "0xdd10e83916878aa18e26e0ad6d3432f0df7d310e",
       "algorand": "1595607242",
       "aptos": "0x38d486f4257fb7861a527bc848acb749b3fa8bea9113799a30a2e17467316202::coin::T",
-      "sui": "0xd4d52a6bf452401c0c70a1d19ff6cec2933f22a548eae552f3e514f64f61703a::coin::COIN",
       "base": "0x7ccdba6198db389cf37b714fd6573b73f3670236",
       "ethereum": "0xbc0899e527007f1b8ced694508fcb7a2b9a46f53",
       "binance-smart-chain": "0xaf42a5df3c1c1427da8fc0326bd7b030a9367e78",
@@ -17204,10 +17204,10 @@
     "name": "Binance Coin (Wormhole)",
     "platforms": {
       "ethereum": "0x418d75f65a02b3d53b2418fb8e1fe493759c7605",
+      "sui": "0xb848cce11ef3a8f62eccea6eb5b35a12c4c2b1ee1af7755d02d7bd6218e8226f::coin::COIN",
       "solana": "9gP2kCy3wA1ctvYWQk75guqXuHfrEomqydHLtcTCqiLa",
       "terra": "terra1cetg5wruw2wsdjp7j46rj44xdel00z006e9yg8",
       "polygon-pos": "0xecdcb5b88f8e3c15f95c720c51c71c9e2080525d",
-      "sui": "0xb848cce11ef3a8f62eccea6eb5b35a12c4c2b1ee1af7755d02d7bd6218e8226f::coin::COIN",
       "avalanche": "0x442f7f22b1ee2c842beaff52880d4573e9201158"
     }
   },
@@ -47889,11 +47889,11 @@
     "name": "Ethereum (Wormhole)",
     "platforms": {
       "solana": "7vfCXTUXx5WJV5JADk17DUJ4ksgau7utNKj4b963voxs",
+      "sui": "0xaf8cd5edc19c4512f4259f0bee101a40d41ebed738ade5874359610ef8eeced5::coin::COIN",
       "oasis": "0x3223f17957ba502cbe71401d55a0db26e5f7c68f",
       "aptos": "0xcc8a89c8dce9693d354449f1f73e60e14e347417854f029db5bc8e7454008abb::coin::T",
       "terra": "terra14tl83xcwqjy0ken9peu4pjjuu755lrry2uy25r",
       "polygon-pos": "0x11cd37bb86f65419713f30673a480ea33c826872",
-      "sui": "0xaf8cd5edc19c4512f4259f0bee101a40d41ebed738ade5874359610ef8eeced5::coin::COIN",
       "avalanche": "0x8b82a291f83ca07af22120aba21632088fc92931",
       "binance-smart-chain": "0x4db5a66e937a9f4473fa95b1caf1d1e1d62e29ea"
     }
@@ -50885,9 +50885,9 @@
     "platforms": {
       "ethereum": "0xc5f0f7b66764f6ec8c8dff7ba683102295e16409",
       "the-open-network": "EQD0Evpk4timFOHmy4Sv3l_KEUXlM-dN1_KhroTCfB2wkO89",
+      "sui": "0xf16e6b723f242ec745dfd7634ad072c42d5c1d9ac9d62a39c381303eaa57693a::fdusd::FDUSD",
       "arbitrum-one": "0x93c9932e4afa59201f0b5e63f7d816516f1669fe",
       "solana": "9zNQRsGLjNKwCUU5Gq5LR8beUCPzQMVMqKAi3SSZh54u",
-      "sui": "0xf16e6b723f242ec745dfd7634ad072c42d5c1d9ac9d62a39c381303eaa57693a::fdusd::FDUSD",
       "binance-smart-chain": "0xc5f0f7b66764f6ec8c8dff7ba683102295e16409"
     }
   },
@@ -77975,8 +77975,8 @@
     "platforms": {
       "ethereum": "0x8236a87084f8b84306f72007f36f2618a5634494",
       "sonic": "0xecac9c5f704e954931349da37f60e39f515c11c1",
-      "berachain": "0xecac9c5f704e954931349da37f60e39f515c11c1",
       "sui": "0x3e8e9423d80e1774a7ca128fccd8bf5f1f7753be658c5e645929037f7c819040::lbtc::LBTC",
+      "berachain": "0xecac9c5f704e954931349da37f60e39f515c11c1",
       "swellchain": "0xecac9c5f704e954931349da37f60e39f515c11c1",
       "corn": "0xecac9c5f704e954931349da37f60e39f515c11c1",
       "tac": "0xecac9c5f704e954931349da37f60e39f515c11c1",
@@ -78410,9 +78410,9 @@
     "name": "Lorenzo stBTC",
     "platforms": {
       "binance-smart-chain": "0xf6718b2701d4a6498ef77d7c152b2137ab28b8a3",
+      "sui": "0x5f496ed5d9d045c5b788dc1bb85f54100f2ede11e46f6a232c29daada4c5bdb6::coin::COIN",
       "taiko": "0xf6718b2701d4a6498ef77d7c152b2137ab28b8a3",
-      "swellchain": "0xf6718b2701d4a6498ef77d7c152b2137ab28b8a3",
-      "sui": "0x5f496ed5d9d045c5b788dc1bb85f54100f2ede11e46f6a232c29daada4c5bdb6::coin::COIN"
+      "swellchain": "0xf6718b2701d4a6498ef77d7c152b2137ab28b8a3"
     }
   },
   {
@@ -81779,9 +81779,9 @@
     "name": "MATIC (Wormhole)",
     "platforms": {
       "solana": "Gz7VkD4MacbEB6yC5XD3HcumEiYx2EtDYYrfikGsvopG",
+      "sui": "0xdbe380b13a6d0f5cdedd58de8f04625263f113b3f9db32b3e1983f49e2841676::coin::COIN",
       "avalanche": "0xf2f13f0b7008ab2fa4a2418f4ccc3684e49d20eb",
       "terra": "terra1dtqlfecglk47yplfrtwjzyagkgcqqngd5lgjp8",
-      "sui": "0xdbe380b13a6d0f5cdedd58de8f04625263f113b3f9db32b3e1983f49e2841676::coin::COIN",
       "ethereum": "0x7c9f4c87d911613fe9ca58b579f737911aad2d43",
       "binance-smart-chain": "0xc836d8dc361e44dbe64c4862d55ba041f88ddd39"
     }
@@ -83668,6 +83668,7 @@
     "name": "Merlin's Seal BTC",
     "platforms": {
       "merlin-chain": "0xb880fd278198bd590252621d4cd071b1842e9bcd",
+      "sui": "0xd1a91b46bd6d966b62686263609074ad16cfdffc63c31a4775870a2d54d20c6b::mbtc::MBTC",
       "sei-v2": "0x9bfa177621119e64cecbeabe184ab9993e2ef727",
       "klay-token": "0x0f921c39efd98809fe6d20a88a4357454578987a",
       "duckchain": "0x9bfa177621119e64cecbeabe184ab9993e2ef727",
@@ -83676,7 +83677,6 @@
       "lisk": "0x9bfa177621119e64cecbeabe184ab9993e2ef727",
       "taiko": "0xf7fb2df9280eb0a76427dc3b34761db8b1441a49",
       "linea": "0xe4d584ae9b753e549cae66200a6475d2f00705f7",
-      "sui": "0xd1a91b46bd6d966b62686263609074ad16cfdffc63c31a4775870a2d54d20c6b::mbtc::MBTC",
       "mode": "0x59889b7021243db5b1e065385f918316cd90d46c",
       "ethereum": "0x2f913c820ed3beb3a67391a6eff64e70c4b20b19",
       "binance-smart-chain": "0x9bfa177621119e64cecbeabe184ab9993e2ef727"
@@ -95849,13 +95849,13 @@
     "platforms": {
       "ethereum": "0x96f6ef951840721adbf46ac996b59e0235cb985c",
       "noble": "ausdy",
+      "sui": "0x960b531667636f39e85867775f52f6b1f220a058c4de786905bdf761e06a56bb::usdy::USDY",
       "osmosis": "ibc/23104D411A6EB6031FA92FB75F227422B84989969E91DCAD56A535DD7FF0A373",
       "mantra": "ibc/6749D16BC09F419C090C330FC751FFF1C96143DB7A4D2FCAEC2F348A3E17618A",
       "arbitrum-one": "0x35e050d3c0ec2d29d269a8ecea763a183bdf9a9d",
       "mantle": "0x5be26527e817998a7206475496fde1e68957c5a6",
       "solana": "A1KLoBrKBde8Ty9qtNQUtq3C2ortoC3u7twggz7sEto6",
-      "aptos": "0xcfea864b32833f157f042618bd845145256b1bf4c0da34a7013b76e42daa53cc",
-      "sui": "0x960b531667636f39e85867775f52f6b1f220a058c4de786905bdf761e06a56bb::usdy::USDY"
+      "aptos": "0xcfea864b32833f157f042618bd845145256b1bf4c0da34a7013b76e42daa53cc"
     }
   },
   {
@@ -106007,10 +106007,10 @@
     "name": "pSTAKE Finance",
     "platforms": {
       "ethereum": "0xfb5c6815ca3ac72ce9f5006869ae67f18bf77006",
+      "sui": "0xb66e9e1cd25e8be90091c4f20b42f0472ea22d4244f3bc2241891ed7ad2d80de::celer_pstake_coin::CELER_PSTAKE_COIN",
       "persistence": "ibc/A6E3AF63B3C906416A9AF7A556C59EA4BD50E617EFFE6299B99700CCB780E444",
       "optimistic-ethereum": "0x023550adde4fa2f90d63a41d9282bee0294c04cd",
       "blast": "0xcbf7b47e9da345812e3bd732e3ee369a7203b5ae",
-      "sui": "0xb66e9e1cd25e8be90091c4f20b42f0472ea22d4244f3bc2241891ed7ad2d80de::celer_pstake_coin::CELER_PSTAKE_COIN",
       "base": "0x38815a4455921667d673b4cb3d48f0383ee93400",
       "binance-smart-chain": "0x4c882ec256823ee773b25b414d36f92ef58a7c0c"
     }
@@ -127510,9 +127510,9 @@
       "ethereum": "0xb4b9dc1c77bdbb135ea907fd5a08094d98883a35",
       "celo": "0x718aa4f7f026fd16086c842a68ce9ef55203b54f",
       "binance-smart-chain": "0x510ad22d8c956dcc20f68932861f54a591001283",
+      "sui": "0xf0b202ef3e107ff4fc0142bbb9a607bf73b8f6460c5026d5c21c6f2e0a9a1083::coin::COIN",
       "polygon-pos": "0x0cc931c30f4fc7fa36d290a4cd8d94acd738826e",
       "aptos": "0x9aa4c03344444b53f4d9b1bca229ed2ac47504e3ea6cd0683ebdc0c5ecefd693::coin::T",
-      "sui": "0xf0b202ef3e107ff4fc0142bbb9a607bf73b8f6460c5026d5c21c6f2e0a9a1083::coin::COIN",
       "arbitrum-one": "0xca7dec8550f43a5e46e3dfb95801f64280e75b27",
       "optimistic-ethereum": "0x38761749330c23d681d136e8ea3fc47d4bb93db3",
       "near-protocol": "token.sweat",
@@ -130047,10 +130047,10 @@
     "name": "Wormhole Bridged USDT (Sui)",
     "platforms": {
       "solana": "Dn4noZ5jgGfkntzcQSUZ8czkreiZ1ForXYoV2H8Dm7S1",
+      "sui": "0xc060006111016b8a020ad5b33834984a437aaa7d3c74c18e09a95d48aceab08c::coin::COIN",
       "oasis": "0xdc19a122e268128b5ee20366299fc7b5b199c8e3",
       "terra": "terra1ce06wkrdm4vl6t0hvc0g86rsy27pu8yadg3dva",
       "polygon-pos": "0x9417669fbf23357d2774e9d421307bd5ea1006d2",
-      "sui": "0xc060006111016b8a020ad5b33834984a437aaa7d3c74c18e09a95d48aceab08c::coin::COIN",
       "binance-smart-chain": "0x524bc91dc82d6b90ef29f76a3ecaabafffd490bc"
     }
   },
@@ -137798,6 +137798,7 @@
       "sonic": "0x29219dd400f2bf60e5a23d13be72b486d4038894",
       "tron": "TEkxiTehnzSmSe2XqrBj4w32RUN966rdz8",
       "moonriver": "0xffffffff7d2b0b761af01ca8e25242976ac0ad7d",
+      "sui": "0xdba34672e30cb065b1f93e3ab55318768fd6fef66c15942c9f7cb846e2f900e7::usdc::USDC",
       "polkadot": "1337",
       "world-chain": "0x79a02482a880bce3f13e09da970dc34db4cd24d1",
       "xrp": "5553444300000000000000000000000000000000.rGm7WCVp9gb4jZHWTEtGUr4dd74z2XuWhE",
@@ -137815,7 +137816,6 @@
       "solana": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
       "polygon-pos": "0x3c499c542cef5e3811e1192ce70d8cc03d5c3359",
       "celo": "0xceba9300f2b948710d2653dd7b07f33a8b32118c",
-      "sui": "0xdba34672e30cb065b1f93e3ab55318768fd6fef66c15942c9f7cb846e2f900e7::usdc::USDC",
       "base": "0x833589fcd6edb6e08f4c7c32d4f71b54bda02913"
     }
   },
@@ -137876,12 +137876,12 @@
     "name": "Bridged USD Coin (Wormhole Ethereum)",
     "platforms": {
       "solana": "A9mUU4qviSctJVPJdBJWkb28deg915LYJKrzQ19ji3FM",
+      "sui": "0x5d4b302506645c37ff133b98c4b50a5ae14841659738d6d733d59d0d217a93bf::coin::COIN",
       "aptos": "0x5e156f1207d0ebfa19a9eeff00d62a282278fb8719f4fab3a586a0a2c0fffbea::coin::T",
       "oasis": "0xe8a638b3b7565ee7c5eb9755e58552afc87b94dd",
       "celo": "0x37f750b7cc259a2f741af45294f6a16572cf5cad",
       "terra": "terra1pepwcav40nvj3kh60qqgrk8k07ydmc00xyat06",
       "polygon-pos": "0x4318cb63a2b8edf2de971e2f17f77097e499459d",
-      "sui": "0x5d4b302506645c37ff133b98c4b50a5ae14841659738d6d733d59d0d217a93bf::coin::COIN",
       "avalanche": "0xb24ca28d4e2742907115fecda335b40dbda07a4c",
       "binance-smart-chain": "0xb04906e95ab5d797ada81508115611fee694c2b3"
     }
@@ -145540,11 +145540,11 @@
     "name": "Wrapped BTC (Wormhole)",
     "platforms": {
       "solana": "3NZ9JMVBmGAqocybic2c7LQCJScmgsAZ6vQqTDzcqmJh",
+      "sui": "0x027792d9fed7f9844eb4839566001bb6f6cb4804f66aa2da6fe1ee242d896881::coin::COIN",
       "neon-evm": "0x16a3fe59080d6944a42b441e44450432c1445372",
       "oasis": "0xd43ce0aa2a29dcb75bdb83085703dc589de6c7eb",
       "terra": "terra1aa7upykmmqqc63l924l5qfap8mrmx5rfdm0v55",
-      "polygon-pos": "0x5d49c278340655b56609fdf8976eb0612af3a0c3",
-      "sui": "0x027792d9fed7f9844eb4839566001bb6f6cb4804f66aa2da6fe1ee242d896881::coin::COIN"
+      "polygon-pos": "0x5d49c278340655b56609fdf8976eb0612af3a0c3"
     }
   },
   {
