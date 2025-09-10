@@ -4,23 +4,15 @@
   "keywords": [
     "defi"
   ],
-  "timestamp": "2025-08-28T09:00:43.427+00:00",
+  "timestamp": "2025-09-10T04:00:48.176+00:00",
   "tokens": [
     {
       "chainId": 42793,
-      "address": "0x2c03058c8afc06713be23e58d2febc8337dbfe6a",
-      "name": "Bridged USDT  Etherlink ",
-      "symbol": "USDT",
-      "decimals": 6,
-      "logoURI": "https://assets.coingecko.com/coins/images/39662/thumb/tether.png?1723525619"
-    },
-    {
-      "chainId": 42793,
-      "address": "0x79052ab3c166d4899a1e0dd033ac3b379af0b1fd",
-      "name": "Uranium",
-      "symbol": "XU3O8",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/67758/thumb/xu.png?1753733711"
+      "address": "0xbfc94cd2b1e55999cfc7347a9313e88702b83d0f",
+      "name": "Etherlink Bridged WBTC  Etherlink ",
+      "symbol": "WBTC",
+      "decimals": 8,
+      "logoURI": "https://assets.coingecko.com/coins/images/66719/thumb/wbtc.jpg?1750306081"
     },
     {
       "chainId": 42793,
@@ -40,11 +32,19 @@
     },
     {
       "chainId": 42793,
-      "address": "0xbfc94cd2b1e55999cfc7347a9313e88702b83d0f",
-      "name": "Etherlink Bridged WBTC  Etherlink ",
-      "symbol": "WBTC",
-      "decimals": 8,
-      "logoURI": "https://assets.coingecko.com/coins/images/66719/thumb/wbtc.jpg?1750306081"
+      "address": "0x79052ab3c166d4899a1e0dd033ac3b379af0b1fd",
+      "name": "Uranium",
+      "symbol": "XU3O8",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/67758/thumb/xu.png?1753733711"
+    },
+    {
+      "chainId": 42793,
+      "address": "0x2c03058c8afc06713be23e58d2febc8337dbfe6a",
+      "name": "Bridged USDT  Etherlink ",
+      "symbol": "USDT",
+      "decimals": 6,
+      "logoURI": "https://assets.coingecko.com/coins/images/39662/thumb/tether.png?1723525619"
     },
     {
       "chainId": 42793,
@@ -53,6 +53,30 @@
       "symbol": "USDC",
       "decimals": 6,
       "logoURI": "https://assets.coingecko.com/coins/images/39584/thumb/USDC-icon.webp?1723013425"
+    },
+    {
+      "chainId": 42793,
+      "address": "0x733d504435a49fc8c4e9759e756c2846c92f0160",
+      "name": "Midas mRe7YIELD",
+      "symbol": "MRE7YIELD",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/54660/thumb/mre7yield_logo.png?1740896178"
+    },
+    {
+      "chainId": 42793,
+      "address": "0x5542f82389b76c23f5848268893234d8a63fd5c8",
+      "name": "Midas mMEV",
+      "symbol": "MMEV",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/54592/thumb/mmev_logo.png?1740565795"
+    },
+    {
+      "chainId": 42793,
+      "address": "0xecac9c5f704e954931349da37f60e39f515c11c1",
+      "name": "Lombard Staked BTC",
+      "symbol": "LBTC",
+      "decimals": 8,
+      "logoURI": "https://assets.coingecko.com/coins/images/39969/thumb/LBTC_Logo.png?1724959872"
     },
     {
       "chainId": 42793,
@@ -112,14 +136,6 @@
     },
     {
       "chainId": 42793,
-      "address": "0xecac9c5f704e954931349da37f60e39f515c11c1",
-      "name": "Lombard Staked BTC",
-      "symbol": "LBTC",
-      "decimals": 8,
-      "logoURI": "https://assets.coingecko.com/coins/images/39969/thumb/LBTC_Logo.png?1724959872"
-    },
-    {
-      "chainId": 42793,
       "address": "0xfc24f770f94edbca6d6f885e12d4317320bcb401",
       "name": "Bridged WETH",
       "symbol": "WETH",
@@ -137,7 +153,7 @@
   ],
   "version": {
     "major": 1,
-    "minor": 2,
+    "minor": 3,
     "patch": 0
   }
 }

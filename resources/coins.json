@@ -7968,6 +7968,7 @@
     "name": "ApeCoin",
     "platforms": {
       "ethereum": "0x4d224452801aced8b2f0aebe155379bb5d594381",
+      "solana": "C1MHyoTJpRTeS9AQCyspNVu2EWAYCZwmJ1jNkEArFP1f",
       "arbitrum-one": "0x7f9fbf9bdd3f4105c478b996b648fe6e828a1e98",
       "polygon-pos": "0xb7b31a6bc18e48888545ce79e83e06003be70930"
     }
@@ -10476,7 +10477,8 @@
     "symbol": "asf",
     "name": "Asymmetry Finance",
     "platforms": {
-      "ethereum": "0x59a529070fbb61e6d6c91f952ccb7f35c34cf8aa"
+      "ethereum": "0x59a529070fbb61e6d6c91f952ccb7f35c34cf8aa",
+      "base": "0x7543e3829ecdd61a5fd7c187ff88c4cf46e30f73"
     }
   },
   {
@@ -16239,7 +16241,8 @@
     "symbol": "money",
     "name": "BESC MONEY",
     "platforms": {
-      "binance-smart-chain": "0x4ffe5ec4d8b9822e01c9e49678884baec17f60d9"
+      "binance-smart-chain": "0x4ffe5ec4d8b9822e01c9e49678884baec17f60d9",
+      "besc-hyperchain": "0xf794e0b0c0a91099ccacac296193e04fb860442a"
     }
   },
   {
@@ -18997,6 +19000,7 @@
     "name": "Black Mirror",
     "platforms": {
       "binance-smart-chain": "0x297eb2cd0e0af48dd2241d1fe2eae8d9d5188e87",
+      "solana": "8dmHzuMkdssGeycyiJFDhkmeuViLBn4GNdH8w6qkPp7i",
       "base": "0xe1bfa25468af64e366ddafc9d91bcc6c97439a14"
     }
   },
@@ -20609,6 +20613,14 @@
     "name": "Bobby The Cat",
     "platforms": {
       "solana": "2XYgocKz9MvkNVVyj85kdM2VxsUwrJeQUZVD4qmD4dYT"
+    }
+  },
+  {
+    "id": "bobby-the-cat-2",
+    "symbol": "btc",
+    "name": "Bobby The Cat",
+    "platforms": {
+      "solana": "BoBBYtpE2kpAJwh5TPPky72KND2cWmtdYa63bqo2yiKs"
     }
   },
   {
@@ -24192,6 +24204,14 @@
     "name": "Bucket Token",
     "platforms": {
       "sui": "0xbc858cb910b9914bee64fff0f9b38855355a040c49155a17b265d9086d256545::but::BUT"
+    }
+  },
+  {
+    "id": "bucket-usd",
+    "symbol": "usdb",
+    "name": "Bucket USD",
+    "platforms": {
+      "sui": "0xe14726c336e81b32328e92afc37345d159f5b550b09fa92bd43640cfdd0a0cfd::usdb::USDB"
     }
   },
   {
@@ -36872,7 +36892,9 @@
     "id": "debtcoin-2",
     "symbol": "$dbt",
     "name": "$Debtcoin",
-    "platforms": {}
+    "platforms": {
+      "ethereum": "0x1e3f20bee9884aececee4bc2e83926cf612d48ff"
+    }
   },
   {
     "id": "debtreliefbot",
@@ -47809,6 +47831,14 @@
     }
   },
   {
+    "id": "ethereal",
+    "symbol": "ethereal",
+    "name": "Ethereal",
+    "platforms": {
+      "ethereum": "0xca4d0892f1d7a0f5e2dcdf490d879a15c866bf27"
+    }
+  },
+  {
     "id": "ethereans",
     "symbol": "os",
     "name": "Ethereans",
@@ -58366,7 +58396,7 @@
     "symbol": "good",
     "name": "goodcryptoX",
     "platforms": {
-      "ethereum": ""
+      "solana": "goodX4LG92UAcRdFRUykfP2fAfzQAVttrToEPxtxSkp"
     }
   },
   {
@@ -64602,6 +64632,14 @@
     "name": "Hyperbeat USDT",
     "platforms": {
       "hyperevm": "0x5e105266db42f78fa814322bce7f388b4c2e61eb"
+    }
+  },
+  {
+    "id": "hyperbeat-x-ether-fi-hype",
+    "symbol": "behype",
+    "name": "Hyperbeat x Ether.fi HYPE",
+    "platforms": {
+      "hyperevm": "0xd8fc8f0b03eba61f64d08b0bef69d80916e5dda9"
     }
   },
   {
@@ -78873,7 +78911,7 @@
   {
     "id": "luck-3",
     "symbol": "luck",
-    "name": "LUCK",
+    "name": "Luckify",
     "platforms": {
       "binance-smart-chain": "0x5bc247a5fc7dc148b682787c58f6f764ce27581b"
     }
@@ -81607,14 +81645,6 @@
     "name": "Mascot of the Unholy Year",
     "platforms": {
       "solana": "CaPS8EpC78RsnDdjNfZGd7Wjdg9156ijvC1aFcA1pump"
-    }
-  },
-  {
-    "id": "masha-and-the-bear",
-    "symbol": "masha",
-    "name": "Masha and the Bear",
-    "platforms": {
-      "solana": "mae8vJGf8Wju8Ron1oDTQVaTGGBpcpWDwoRQJALMMf2"
     }
   },
   {
@@ -85271,7 +85301,8 @@
     "symbol": "medge",
     "name": "Midas mEDGE",
     "platforms": {
-      "ethereum": "0xbb51e2a15a9158ebe2b0ceb8678511e063ab7a55"
+      "ethereum": "0xbb51e2a15a9158ebe2b0ceb8678511e063ab7a55",
+      "plume-network": "0x69020311836d29ba7d38c1d3578736fd3ded03ed"
     }
   },
   {
@@ -85295,7 +85326,9 @@
     "symbol": "mmev",
     "name": "Midas mMEV",
     "platforms": {
-      "ethereum": "0x030b69280892c888670edcdcd8b69fd8026a0bf3"
+      "ethereum": "0x030b69280892c888670edcdcd8b69fd8026a0bf3",
+      "plume-network": "0x7d611dc23267f508de90724731dc88ca28ef7473",
+      "etherlink": "0x5542f82389b76c23f5848268893234d8a63fd5c8"
     }
   },
   {
@@ -85303,7 +85336,8 @@
     "symbol": "mre7yield",
     "name": "Midas mRe7YIELD",
     "platforms": {
-      "ethereum": "0x87c9053c819bb28e0d73d33059e1b3da80afb0cf"
+      "ethereum": "0x87c9053c819bb28e0d73d33059e1b3da80afb0cf",
+      "etherlink": "0x733d504435a49fc8c4e9759e756c2846c92f0160"
     }
   },
   {
@@ -85312,6 +85346,8 @@
     "name": "Midas mTBILL",
     "platforms": {
       "ethereum": "0xdd629e5241cbc5919847783e6c96b2de4754e438",
+      "plume-network": "0xe85f2b707ec5ae8e07238f99562264f304e30109",
+      "rootstock": "0xdd629e5241cbc5919847783e6c96b2de4754e438",
       "oasis-sapphire": "0xdd629e5241cbc5919847783e6c96b2de4754e438",
       "etherlink": "0xdd629e5241cbc5919847783e6c96b2de4754e438",
       "base": "0xdd629e5241cbc5919847783e6c96b2de4754e438"
@@ -95478,7 +95514,7 @@
     "symbol": "aio",
     "name": "OlaXBT",
     "platforms": {
-      "binance-smart-chain": "0xa22159faca8bf5c57a48888a2d4ddafc88e4ddeb"
+      "binance-smart-chain": "0x81a7da4074b8e0ed51bea40f9dcbdf4d9d4832b4"
     }
   },
   {
@@ -104842,7 +104878,8 @@
     "symbol": "ptb",
     "name": "Portal to Bitcoin",
     "platforms": {
-      "ethereum": "0x30a25cc9c9eade4d4d9e9349be6e68c3411367d3"
+      "ethereum": "0x30a25cc9c9eade4d4d9e9349be6e68c3411367d3",
+      "binance-smart-chain": "0x95c9b514566fbd224dc2037f5914eb8ab91c9201"
     }
   },
   {
@@ -114106,6 +114143,14 @@
     "name": "San Chan",
     "platforms": {
       "solana": "2z1p8xCEjRzpBHjXWrx4tJnz7BFL6z7NnvbCxH7bpump"
+    }
+  },
+  {
+    "id": "san-chan-2",
+    "symbol": "sanchan",
+    "name": "San Chan",
+    "platforms": {
+      "ethereum": "0xb1c491f833b6ddb7a67b1dbad37d58715439de07"
     }
   },
   {
@@ -128329,7 +128374,7 @@
   {
     "id": "syrupusdc",
     "symbol": "syrupusdc",
-    "name": "SyrupUSDC",
+    "name": "syrupUSDC",
     "platforms": {
       "ethereum": "0x80ac24aa929eaf5013f6436cda2a7ba190f5cc0b",
       "solana": "AvZZF1YaZDziPY2RCK4oJrRVrbN3mTD9NL24hPeaZeUj",
@@ -137166,6 +137211,7 @@
       "mantle": "0x93919784c523f39cacaa98ee0a9d96c3f32b593e",
       "mode": "0x6b2a01a5f79deb4c2f3c0eda7b01df456fbd726a",
       "bob-network": "0x236f8c0a61da474db21b693fb2ea7aab0c803894",
+      "tac": "0xf9775085d726e782e83585033b58606f7731ab18",
       "rootstock": "0xd3c8da379d71a33bfee8875f87ac2748beb1d58d",
       "merlin-chain": "0x93919784c523f39cacaa98ee0a9d96c3f32b593e",
       "berachain": "0xc3827a4bc8224ee2d116637023b124ced6db6e90",
@@ -143795,6 +143841,14 @@
     }
   },
   {
+    "id": "winter-walrus-staked-wal",
+    "symbol": "wwal",
+    "name": "Winter Walrus Staked WAL",
+    "platforms": {
+      "sui": "0xb1b0650a8862e30e3f604fd6c5838bc25464b8d3d827fbd58af7cb9685b832bf::wwal::WWAL"
+    }
+  },
+  {
     "id": "wipemyass",
     "symbol": "wipe",
     "name": "WipeMyAss",
@@ -145458,7 +145512,8 @@
     "symbol": "wbesc",
     "name": "Wrapped BESC",
     "platforms": {
-      "binance-smart-chain": "0x45df6533f2c874027cf1cd6275823e34dbde906d"
+      "binance-smart-chain": "0x45df6533f2c874027cf1cd6275823e34dbde906d",
+      "besc-hyperchain": "0x33e22f85cc1877697773ca5c85988663388883a0"
     }
   },
   {
@@ -147325,6 +147380,14 @@
     "name": "Wrapped Pulse",
     "platforms": {
       "pulsechain": "0xa1077a294dde1b09bb078844df40758a5d0f9a27"
+    }
+  },
+  {
+    "id": "wrapped-pump-universal",
+    "symbol": "upump",
+    "name": "Wrapped PUMP (Universal)",
+    "platforms": {
+      "base": "0x20fbd133897ef802e0235db77bb19a071e257d41"
     }
   },
   {

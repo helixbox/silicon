@@ -4,7 +4,7 @@
   "keywords": [
     "defi"
   ],
-  "timestamp": "2025-08-13T16:00:12.061+00:00",
+  "timestamp": "2025-09-10T05:00:11.711+00:00",
   "tokens": [
     {
       "chainId": 239,
@@ -16,14 +16,6 @@
     },
     {
       "chainId": 239,
-      "address": "0x61d66bc21fed820938021b06e9b2291f3fb91945",
-      "name": "TAC Bridged WETH  TAC ",
-      "symbol": "WETH",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/67550/thumb/weth.png?1753153758"
-    },
-    {
-      "chainId": 239,
       "address": "0xb76d91340f5ce3577f0a056d29f6e3eb4e88b140",
       "name": "TAC Bridged TON  TAC ",
       "symbol": "TON",
@@ -32,11 +24,27 @@
     },
     {
       "chainId": 239,
+      "address": "0x61d66bc21fed820938021b06e9b2291f3fb91945",
+      "name": "TAC Bridged WETH  TAC ",
+      "symbol": "WETH",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/67550/thumb/weth.png?1753153758"
+    },
+    {
+      "chainId": 239,
       "address": "0xb63b9f0eb4a6e6f191529d71d4d88cc8900df2c9",
       "name": "Wrapped TAC",
       "symbol": "WTAC",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/67549/thumb/tac.jpeg?1753153627"
+    },
+    {
+      "chainId": 239,
+      "address": "0xf9775085d726e782e83585033b58606f7731ab18",
+      "name": "Universal BTC",
+      "symbol": "UNIBTC",
+      "decimals": 8,
+      "logoURI": "https://assets.coingecko.com/coins/images/39599/thumb/uniBTC_200px.png?1723064455"
     },
     {
       "chainId": 239,
@@ -73,7 +81,7 @@
   ],
   "version": {
     "major": 0,
-    "minor": 3,
+    "minor": 4,
     "patch": 0
   }
 }

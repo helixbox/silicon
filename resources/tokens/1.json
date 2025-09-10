@@ -4,7 +4,7 @@
   "keywords": [
     "defi"
   ],
-  "timestamp": "2025-09-09T21:02:46.144+00:00",
+  "timestamp": "2025-09-10T04:02:37.684+00:00",
   "tokens": [
     {
       "chainId": 1,
@@ -4798,14 +4798,6 @@
     },
     {
       "chainId": 1,
-      "address": "0x80ac24aa929eaf5013f6436cda2a7ba190f5cc0b",
-      "name": "SyrupUSDC",
-      "symbol": "SYRUPUSDC",
-      "decimals": 6,
-      "logoURI": "https://assets.coingecko.com/coins/images/54658/thumb/SyrupUSDCO.png?1748850129"
-    },
-    {
-      "chainId": 1,
       "address": "0xb4371da53140417cbb3362055374b10d97e420bb",
       "name": "Carbon Protocol",
       "symbol": "SWTH",
@@ -5091,6 +5083,14 @@
       "symbol": "SANSHU",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/35739/thumb/blobid0.png?1710233593"
+    },
+    {
+      "chainId": 1,
+      "address": "0x30a25cc9c9eade4d4d9e9349be6e68c3411367d3",
+      "name": "Portal to Bitcoin",
+      "symbol": "PTB",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/68774/thumb/portal.png?1756547114"
     },
     {
       "chainId": 1,
@@ -29520,14 +29520,6 @@
     },
     {
       "chainId": 1,
-      "address": "0x004e9c3ef86bc1ca1f0bb5c7662861ee93350568",
-      "name": "Universal BTC",
-      "symbol": "UNIBTC",
-      "decimals": 8,
-      "logoURI": "https://assets.coingecko.com/coins/images/39599/thumb/uniBTC_200px.png?1723064455"
-    },
-    {
-      "chainId": 1,
       "address": "0x7cf9dec92ca9fd46f8d86e7798b72624bc116c05",
       "name": "Midas mAPOLLO",
       "symbol": "MAPOLLO",
@@ -30176,14 +30168,6 @@
     },
     {
       "chainId": 1,
-      "address": "0x30a25cc9c9eade4d4d9e9349be6e68c3411367d3",
-      "name": "Portal to Bitcoin",
-      "symbol": "PTB",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/68774/thumb/portal.png?1756547114"
-    },
-    {
-      "chainId": 1,
       "address": "0x42ae1f83694f453ba2f31dfc2206c9b044eaacb2",
       "name": "Bro",
       "symbol": "BRO",
@@ -30421,6 +30405,22 @@
       "symbol": "MAXI",
       "decimals": 9,
       "logoURI": "https://assets.coingecko.com/coins/images/69085/thumb/logo.png?1757448062"
+    },
+    {
+      "chainId": 1,
+      "address": "0x004e9c3ef86bc1ca1f0bb5c7662861ee93350568",
+      "name": "Universal BTC",
+      "symbol": "UNIBTC",
+      "decimals": 8,
+      "logoURI": "https://assets.coingecko.com/coins/images/39599/thumb/uniBTC_200px.png?1723064455"
+    },
+    {
+      "chainId": 1,
+      "address": "0x80ac24aa929eaf5013f6436cda2a7ba190f5cc0b",
+      "name": "syrupUSDC",
+      "symbol": "SYRUPUSDC",
+      "decimals": 6,
+      "logoURI": "https://assets.coingecko.com/coins/images/54658/thumb/SyrupUSDCO.png?1748850129"
     },
     {
       "chainId": 1,
@@ -38792,6 +38792,14 @@
     },
     {
       "chainId": 1,
+      "address": "0x1e3f20bee9884aececee4bc2e83926cf612d48ff",
+      "name": " Debtcoin",
+      "symbol": "DBT",
+      "decimals": 8,
+      "logoURI": "https://assets.coingecko.com/coins/images/69064/thumb/20250826_191736.png?1757412203"
+    },
+    {
+      "chainId": 1,
       "address": "0x4cbf89ed7bb30b8a860fa86d3c96e9c72931299b",
       "name": "TBLL xStock",
       "symbol": "TBLLX",
@@ -42992,7 +43000,7 @@
   ],
   "version": {
     "major": 1096,
-    "minor": 3,
+    "minor": 4,
     "patch": 0
   }
 }
