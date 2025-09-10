@@ -43688,10 +43688,10 @@
   },
   {
     "id": "draiftking",
-    "symbol": "dking",
-    "name": "draiftking",
+    "symbol": "sire",
+    "name": "SIRE",
     "platforms": {
-      "base": "0x57edc3f1fd42c0d48230e964b1c5184b9c89b2ed"
+      "base": "0x7ce02e86354ea0cc3b302aeadc0ab56bc7eb44b8"
     }
   },
   {
@@ -64469,7 +64469,8 @@
     "symbol": "bridge",
     "name": "HyBridge",
     "platforms": {
-      "hyperevm": "0x29dbf86a8c48ea4331e28b3c1eae824a2a45996a"
+      "hyperevm": "0x29dbf86a8c48ea4331e28b3c1eae824a2a45996a",
+      "hyperliquid": "0xc196d2b7598991bd0425fc959bc1a40f"
     }
   },
   {
@@ -74158,6 +74159,14 @@
     "name": "L2 Standard Bridged WETH (Optimism)",
     "platforms": {
       "optimistic-ethereum": "0x4200000000000000000000000000000000000006"
+    }
+  },
+  {
+    "id": "l2token",
+    "symbol": "l2t",
+    "name": "L2 Token",
+    "platforms": {
+      "ethereum": "0x3f79e800db889dabdd998c071ced6a0d11e307e0"
     }
   },
   {
@@ -115055,6 +115064,14 @@
     }
   },
   {
+    "id": "schizodio",
+    "symbol": "schizodio",
+    "name": "Schizodio",
+    "platforms": {
+      "starknet": "0xacc2fa3bb7f6a6726c14d9e142d51fe3984dbfa32b5907e1e76425177875e2"
+    }
+  },
+  {
     "id": "schizoid",
     "symbol": "zoid",
     "name": "SCHIZOID",
@@ -150990,7 +151007,7 @@
     "symbol": "yoex",
     "name": "YO EXCHANGE",
     "platforms": {
-      "binance-smart-chain": "0x26c98b27ab51af12c616d2d2eb99909b6bde6dde"
+      "binance-smart-chain": "0x4e842b78e401078a09319b73f5bcd9916ecb1699"
     }
   },
   {
@@ -152288,6 +152305,12 @@
       "avalanche": "0x008e26068b3eb40b443d3ea88c1ff99b789c10f7",
       "binance-smart-chain": "0x1f534d2b1ee2933f1fdf8e4b63a44b2249d77eaf"
     }
+  },
+  {
+    "id": "zero-gravity",
+    "symbol": "0g",
+    "name": "Zero Gravity",
+    "platforms": {}
   },
   {
     "id": "zerolend",
