@@ -4,24 +4,8 @@
   "keywords": [
     "defi"
   ],
-  "timestamp": "2025-09-04T07:00:34.222+00:00",
+  "timestamp": "2025-09-10T10:00:36.423+00:00",
   "tokens": [
-    {
-      "chainId": 130,
-      "address": "0x15d0e0c55a3e7ee67152ad7e89acf164253ff68d",
-      "name": "Wormhole Bridged HYPE",
-      "symbol": "HYPE",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/68481/thumb/hype.png?1755878697"
-    },
-    {
-      "chainId": 130,
-      "address": "0x926dc7b96bb2f4a91c2a67e291faf482691a3001",
-      "name": "Unicorn",
-      "symbol": "UNICORN",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/54332/thumb/unicorn.jpg?1739325321"
-    },
     {
       "chainId": 130,
       "address": "0x0555e30da8f98308edb960aa94c0db47230d2b9c",
@@ -29,14 +13,6 @@
       "symbol": "WBTC",
       "decimals": 8,
       "logoURI": "https://assets.coingecko.com/coins/images/66720/thumb/wbtc.jpg?1750312819"
-    },
-    {
-      "chainId": 130,
-      "address": "0x588ce4f028d8e7b53b687865d6a67b3a54c75518",
-      "name": "Unichain Bridged USDT  Unichain ",
-      "symbol": "USDT",
-      "decimals": 6,
-      "logoURI": "https://assets.coingecko.com/coins/images/66726/thumb/usdt.jpg?1750318933"
     },
     {
       "chainId": 130,
@@ -64,6 +40,38 @@
     },
     {
       "chainId": 130,
+      "address": "0x15d0e0c55a3e7ee67152ad7e89acf164253ff68d",
+      "name": "Wormhole Bridged HYPE",
+      "symbol": "HYPE",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/68481/thumb/hype.png?1755878697"
+    },
+    {
+      "chainId": 130,
+      "address": "0x4200000000000000000000000000000000000006",
+      "name": "Unichain Bridged WETH  Unichain ",
+      "symbol": "WETH",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/54331/thumb/weth_2.jpg?1739325052"
+    },
+    {
+      "chainId": 130,
+      "address": "0x588ce4f028d8e7b53b687865d6a67b3a54c75518",
+      "name": "Unichain Bridged USDT  Unichain ",
+      "symbol": "USDT",
+      "decimals": 6,
+      "logoURI": "https://assets.coingecko.com/coins/images/66726/thumb/usdt.jpg?1750318933"
+    },
+    {
+      "chainId": 130,
+      "address": "0xabe69c550ea6ec22bed4b92614511c4f31bb0f64",
+      "name": "Abe",
+      "symbol": "ABE",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/68514/thumb/logo_circle_200.png?1756440524"
+    },
+    {
+      "chainId": 130,
       "address": "0x756ee6857f915a2b5366f2ef56d8d13857aef8ad",
       "name": "Catex",
       "symbol": "CATX",
@@ -80,19 +88,11 @@
     },
     {
       "chainId": 130,
-      "address": "0xabe69c550ea6ec22bed4b92614511c4f31bb0f64",
-      "name": "Abe",
-      "symbol": "ABE",
+      "address": "0x926dc7b96bb2f4a91c2a67e291faf482691a3001",
+      "name": "Unicorn",
+      "symbol": "UNICORN",
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/68514/thumb/logo_circle_200.png?1756440524"
-    },
-    {
-      "chainId": 130,
-      "address": "0x4200000000000000000000000000000000000006",
-      "name": "Unichain Bridged WETH  Unichain ",
-      "symbol": "WETH",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/54331/thumb/weth_2.jpg?1739325052"
+      "logoURI": "https://assets.coingecko.com/coins/images/54332/thumb/unicorn.jpg?1739325321"
     },
     {
       "chainId": 130,
@@ -104,19 +104,19 @@
     },
     {
       "chainId": 130,
-      "address": "0x7dcc39b4d1c53cb31e1abc0e358b43987fef80f7",
-      "name": "Ether fi Bridged weETH  Unichain ",
-      "symbol": "WEETH",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/66721/thumb/eeth.jpg?1750313748"
-    },
-    {
-      "chainId": 130,
       "address": "0x80eede496655fb9047dd39d9f418d5483ed600df",
       "name": "Frax USD",
       "symbol": "FRXUSD",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/53963/thumb/frxUSD.png?1737792154"
+    },
+    {
+      "chainId": 130,
+      "address": "0x7dcc39b4d1c53cb31e1abc0e358b43987fef80f7",
+      "name": "Wrapped eETH",
+      "symbol": "WEETH",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/33033/thumb/weETH.png?1701438396"
     },
     {
       "chainId": 130,
@@ -250,6 +250,6 @@
   "version": {
     "major": 2,
     "minor": 10,
-    "patch": 0
+    "patch": 1
   }
 }

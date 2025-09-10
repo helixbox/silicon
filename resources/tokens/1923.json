@@ -4,7 +4,7 @@
   "keywords": [
     "defi"
   ],
-  "timestamp": "2025-09-05T06:00:17.695+00:00",
+  "timestamp": "2025-09-10T10:00:15.320+00:00",
   "tokens": [
     {
       "chainId": 1923,
@@ -13,22 +13,6 @@
       "symbol": "SWBTC",
       "decimals": 8,
       "logoURI": "https://assets.coingecko.com/coins/images/53657/thumb/66ff59725979d3c6635ecae5_swBTC.png?1737001044"
-    },
-    {
-      "chainId": 1923,
-      "address": "0x5d3a1ff2b6bab83b63cd9ad0787074081a52ef34",
-      "name": "Layerzero Bridged USDE  Swellchain ",
-      "symbol": "USDE",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/54751/thumb/usde.jpg?1741337054"
-    },
-    {
-      "chainId": 1923,
-      "address": "0x18d33689ae5d02649a859a1cf16c9f0563975258",
-      "name": "Layerzero Bridged rswETH  Swellchain ",
-      "symbol": "RSWETH",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/53474/thumb/image_%281%29.png?1736482080"
     },
     {
       "chainId": 1923,
@@ -48,11 +32,11 @@
     },
     {
       "chainId": 1923,
-      "address": "0xa6cb988942610f6731e664379d15ffcfbf282b44",
-      "name": "Layerzero Bridged weETH  Swellchain ",
-      "symbol": "WEETH",
+      "address": "0x18d33689ae5d02649a859a1cf16c9f0563975258",
+      "name": "Layerzero Bridged rswETH  Swellchain ",
+      "symbol": "RSWETH",
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/53659/thumb/65c5a7141f77e162be7af327_eETH.png?1737001248"
+      "logoURI": "https://assets.coingecko.com/coins/images/53474/thumb/image_%281%29.png?1736482080"
     },
     {
       "chainId": 1923,
@@ -69,6 +53,22 @@
       "symbol": "WETH",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/54515/thumb/weth_2.jpg?1740119347"
+    },
+    {
+      "chainId": 1923,
+      "address": "0x5d3a1ff2b6bab83b63cd9ad0787074081a52ef34",
+      "name": "Ethena USDe",
+      "symbol": "USDE",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/33613/thumb/usde.png?1733810059"
+    },
+    {
+      "chainId": 1923,
+      "address": "0xa6cb988942610f6731e664379d15ffcfbf282b44",
+      "name": "Wrapped eETH",
+      "symbol": "WEETH",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/33033/thumb/weETH.png?1701438396"
     },
     {
       "chainId": 1923,
@@ -106,6 +106,6 @@
   "version": {
     "major": 3,
     "minor": 1,
-    "patch": 0
+    "patch": 1
   }
 }

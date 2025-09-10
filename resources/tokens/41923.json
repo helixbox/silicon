@@ -1,26 +1,18 @@
 {
   "name": "CoinGecko",
-  "logoURI": "https://static.coingecko.com/s/thumbnail-007177f3eca19695592f0b8b0eabbdae282b54154e1be912285c9034ea6cbaf2.png",
+  "logoURI": "https://static.coingecko.com/gecko-new.svg",
   "keywords": [
     "defi"
   ],
-  "timestamp": "2025-03-09T13:00:36.753+00:00",
+  "timestamp": "2025-09-10T10:01:34.713+00:00",
   "tokens": [
     {
       "chainId": 41923,
-      "address": "0xd02e8c38a8e3db71f8b2ae30b8186d7874934e12",
-      "name": "Wrapped EDU",
-      "symbol": "WEDU",
+      "address": "0x526e8a66e357ffeaeeec6d7be1e5ea44a788dd1d",
+      "name": "BLEND",
+      "symbol": "BLEND",
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/54753/thumb/edu.jpg?1741347179"
-    },
-    {
-      "chainId": 41923,
-      "address": "0x836d275563bab5e93fd6ca62a95db7065da94342",
-      "name": "EDU Chain Bridged USDC  EDU Chain ",
-      "symbol": "USDC",
-      "decimals": 6,
-      "logoURI": "https://assets.coingecko.com/coins/images/54754/thumb/usdc.jpg?1741347403"
+      "logoURI": "https://assets.coingecko.com/coins/images/54778/thumb/Blend0.png?1741517155"
     },
     {
       "chainId": 41923,
@@ -32,11 +24,19 @@
     },
     {
       "chainId": 41923,
-      "address": "0x526e8a66e357ffeaeeec6d7be1e5ea44a788dd1d",
-      "name": "BLEND",
-      "symbol": "BLEND",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/54778/thumb/Blend0.png?1741517155"
+      "address": "0x12a272a581fee5577a5dfa371afeb4b2f3a8c2f8",
+      "name": "Stargate Bridged USDC  EDU Chain ",
+      "symbol": "USDCE",
+      "decimals": 6,
+      "logoURI": "https://assets.coingecko.com/coins/images/69099/thumb/USDC_Token.png?1757497003"
+    },
+    {
+      "chainId": 41923,
+      "address": "0x836d275563bab5e93fd6ca62a95db7065da94342",
+      "name": "EDU Chain Bridged USDC  EDU Chain ",
+      "symbol": "USDC",
+      "decimals": 6,
+      "logoURI": "https://assets.coingecko.com/coins/images/54754/thumb/usdc.jpg?1741347403"
     },
     {
       "chainId": 41923,
@@ -45,11 +45,19 @@
       "symbol": "USDT",
       "decimals": 6,
       "logoURI": "https://assets.coingecko.com/coins/images/54755/thumb/usdt.jpg?1741347488"
+    },
+    {
+      "chainId": 41923,
+      "address": "0xd02e8c38a8e3db71f8b2ae30b8186d7874934e12",
+      "name": "Wrapped EDU",
+      "symbol": "WEDU",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/54753/thumb/edu.jpg?1741347179"
     }
   ],
   "version": {
     "major": 0,
-    "minor": 1,
+    "minor": 2,
     "patch": 0
   }
 }

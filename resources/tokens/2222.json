@@ -4,16 +4,8 @@
   "keywords": [
     "defi"
   ],
-  "timestamp": "2025-09-05T06:00:07.728+00:00",
+  "timestamp": "2025-09-10T10:00:06.077+00:00",
   "tokens": [
-    {
-      "chainId": 2222,
-      "address": "0xd86c8d4279ccafbec840c782bcc50d201f277419",
-      "name": "Mare Finance",
-      "symbol": "MARE",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/29288/thumb/mare-icon.png?1696528240"
-    },
     {
       "chainId": 2222,
       "address": "0xc86c7c0efbd6a49b35e8714c5f59d99de09a225b",
@@ -21,22 +13,6 @@
       "symbol": "WKAVA",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/26387/thumb/kava.jpeg?1696525465"
-    },
-    {
-      "chainId": 2222,
-      "address": "0x471f79616569343e8e84a66f342b7b433b958154",
-      "name": "Tiger Scrub Money",
-      "symbol": "TIGER",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/28277/thumb/Tiger.png?1696527278"
-    },
-    {
-      "chainId": 2222,
-      "address": "0x38481fdc1af61e6e72e0ff46f069315a59779c65",
-      "name": "Bear Scrub Money",
-      "symbol": "BEAR",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/29960/thumb/Bear.png?1696528886"
     },
     {
       "chainId": 2222,
@@ -56,11 +32,27 @@
     },
     {
       "chainId": 2222,
-      "address": "0xe5274e38e91b615d8822e8512a29a16ff1b9c4af",
-      "name": "Pinjam Kava",
-      "symbol": "PINKAV",
+      "address": "0x471f79616569343e8e84a66f342b7b433b958154",
+      "name": "Tiger Scrub Money",
+      "symbol": "TIGER",
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/30803/thumb/PINKAV_Logo_%28200x200%29.png?1696529661"
+      "logoURI": "https://assets.coingecko.com/coins/images/28277/thumb/Tiger.png?1696527278"
+    },
+    {
+      "chainId": 2222,
+      "address": "0x38481fdc1af61e6e72e0ff46f069315a59779c65",
+      "name": "Bear Scrub Money",
+      "symbol": "BEAR",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/29960/thumb/Bear.png?1696528886"
+    },
+    {
+      "chainId": 2222,
+      "address": "0xd86c8d4279ccafbec840c782bcc50d201f277419",
+      "name": "Mare Finance",
+      "symbol": "MARE",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/29288/thumb/mare-icon.png?1696528240"
     },
     {
       "chainId": 2222,
@@ -69,6 +61,14 @@
       "symbol": "LION",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/28276/thumb/Lion.png?1696527277"
+    },
+    {
+      "chainId": 2222,
+      "address": "0xe5274e38e91b615d8822e8512a29a16ff1b9c4af",
+      "name": "Pinjam Kava",
+      "symbol": "PINKAV",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/30803/thumb/PINKAV_Logo_%28200x200%29.png?1696529661"
     },
     {
       "chainId": 2222,
@@ -85,6 +85,22 @@
       "symbol": "HKAVA",
       "decimals": 8,
       "logoURI": "https://assets.coingecko.com/coins/images/36101/thumb/hover.jpeg?1710483234"
+    },
+    {
+      "chainId": 2222,
+      "address": "0x5d3a1ff2b6bab83b63cd9ad0787074081a52ef34",
+      "name": "Ethena USDe",
+      "symbol": "USDE",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/33613/thumb/usde.png?1733810059"
+    },
+    {
+      "chainId": 2222,
+      "address": "0x83c30eb8bc9ad7c56532895840039e62659896ea",
+      "name": "Stargate Finance",
+      "symbol": "STG",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/24413/thumb/STG_LOGO.png?1696523595"
     },
     {
       "chainId": 2222,
@@ -233,7 +249,7 @@
   ],
   "version": {
     "major": 7,
-    "minor": 1,
+    "minor": 2,
     "patch": 0
   }
 }
