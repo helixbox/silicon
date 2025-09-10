@@ -73152,7 +73152,9 @@
     "id": "kong-2",
     "symbol": "kong",
     "name": "CyberKongz",
-    "platforms": {}
+    "platforms": {
+      "ethereum": "0x8db036f007841c21b97eff7dfc2c187241d59baf"
+    }
   },
   {
     "id": "kong-sui",
@@ -76669,6 +76671,7 @@
     "symbol": "linea",
     "name": "Linea",
     "platforms": {
+      "linea": "0x1789e0043623282d5dcc7f213d703c6d8bafbb04",
       "ethereum": "0x1789e0043623282d5dcc7f213d703c6d8bafbb04"
     }
   },
@@ -84626,6 +84629,12 @@
     "platforms": {
       "ethereum": "0x61b57bdc01e3072fab3e9e2f3c7b88d482734e05"
     }
+  },
+  {
+    "id": "meteora",
+    "symbol": "met",
+    "name": "Meteora",
+    "platforms": {}
   },
   {
     "id": "meter",
