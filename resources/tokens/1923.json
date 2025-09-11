@@ -4,15 +4,15 @@
   "keywords": [
     "defi"
   ],
-  "timestamp": "2025-09-10T10:00:15.320+00:00",
+  "timestamp": "2025-09-11T12:00:17.220+00:00",
   "tokens": [
     {
       "chainId": 1923,
-      "address": "0x1cf7b5f266a0f39d6f9408b90340e3e71df8bf7b",
-      "name": "Layerzero Bridged swBTC  Swellchain ",
-      "symbol": "SWBTC",
-      "decimals": 8,
-      "logoURI": "https://assets.coingecko.com/coins/images/53657/thumb/66ff59725979d3c6635ecae5_swBTC.png?1737001044"
+      "address": "0x2826d136f5630ada89c1678b64a61620aab77aea",
+      "name": "Layerzero Bridged Swell",
+      "symbol": "SWELL",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/53670/thumb/66ff8288d441ad252025f769_swellToken.png?1737007034"
     },
     {
       "chainId": 1923,
@@ -40,11 +40,11 @@
     },
     {
       "chainId": 1923,
-      "address": "0x2826d136f5630ada89c1678b64a61620aab77aea",
-      "name": "Layerzero Bridged Swell",
-      "symbol": "SWELL",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/53670/thumb/66ff8288d441ad252025f769_swellToken.png?1737007034"
+      "address": "0x1cf7b5f266a0f39d6f9408b90340e3e71df8bf7b",
+      "name": "Layerzero Bridged swBTC  Swellchain ",
+      "symbol": "SWBTC",
+      "decimals": 8,
+      "logoURI": "https://assets.coingecko.com/coins/images/53657/thumb/66ff59725979d3c6635ecae5_swBTC.png?1737001044"
     },
     {
       "chainId": 1923,
@@ -88,6 +88,14 @@
     },
     {
       "chainId": 1923,
+      "address": "0x0555e30da8f98308edb960aa94c0db47230d2b9c",
+      "name": "Wrapped Bitcoin",
+      "symbol": "WBTC",
+      "decimals": 8,
+      "logoURI": "https://assets.coingecko.com/coins/images/7598/thumb/wrapped_bitcoin_wbtc.png?1696507857"
+    },
+    {
+      "chainId": 1923,
       "address": "0xf6718b2701d4a6498ef77d7c152b2137ab28b8a3",
       "name": "Lorenzo stBTC",
       "symbol": "STBTC",
@@ -105,7 +113,7 @@
   ],
   "version": {
     "major": 3,
-    "minor": 1,
-    "patch": 1
+    "minor": 2,
+    "patch": 0
   }
 }

@@ -4,15 +4,23 @@
   "keywords": [
     "defi"
   ],
-  "timestamp": "2025-09-11T10:00:34.267+00:00",
+  "timestamp": "2025-09-11T13:00:33.972+00:00",
   "tokens": [
     {
       "chainId": 80094,
-      "address": "0xab7e0f3d69de8061aa46d7c9964dbc11878468eb",
-      "name": "Berally Token",
-      "symbol": "BRLY",
+      "address": "0x118d2ceee9785eaf70c15cd74cd84c9f8c3eec9a",
+      "name": "POL Staked WBERA",
+      "symbol": "SWBERA",
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/54295/thumb/Dex-01_%282%29.png?1739085758"
+      "logoURI": "https://assets.coingecko.com/coins/images/68010/thumb/swbera.png?1754573891"
+    },
+    {
+      "chainId": 80094,
+      "address": "0x2cec7f1ac87f5345ced3d6c74bbb61bfae231ffb",
+      "name": "stBGT",
+      "symbol": "STBGT",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/69129/thumb/stBGT.PNG?1757582178"
     },
     {
       "chainId": 80094,
@@ -32,19 +40,27 @@
     },
     {
       "chainId": 80094,
-      "address": "0xd2c41bf4033a83c0fc3a7f58a392bf37d6dcdb58",
-      "name": "OpenState BGT",
-      "symbol": "OSBGT",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/67157/thumb/osbgt.jpg?1751938475"
+      "address": "0x549943e04f40284185054145c6e4e9568c1d3241",
+      "name": "Stargate Bridged USDC  Berachain ",
+      "symbol": "USDCE",
+      "decimals": 6,
+      "logoURI": "https://assets.coingecko.com/coins/images/54336/thumb/usdc.jpg?1739335056"
     },
     {
       "chainId": 80094,
-      "address": "0x656b95e550c07a9ffe548bd4085c72418ceb1dba",
-      "name": "Berachain Governance Token",
-      "symbol": "BGT",
+      "address": "0x0f81001ef0a83ecce5ccebf63eb302c70a39a654",
+      "name": "Dolomite",
+      "symbol": "DOLO",
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/54193/thumb/BGT.png?1738742690"
+      "logoURI": "https://assets.coingecko.com/coins/images/54710/thumb/DOLO-small.png?1745398535"
+    },
+    {
+      "chainId": 80094,
+      "address": "0x804cf700de1e18f2411bd05aad5fa10d60e1900f",
+      "name": "aSUGAR",
+      "symbol": "ASUGAR",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/66395/thumb/aSUGAR.png?1749286870"
     },
     {
       "chainId": 80094,
@@ -72,14 +88,6 @@
     },
     {
       "chainId": 80094,
-      "address": "0x2cec7f1ac87f5345ced3d6c74bbb61bfae231ffb",
-      "name": "stBGT",
-      "symbol": "STBGT",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/69129/thumb/stBGT.PNG?1757582178"
-    },
-    {
-      "chainId": 80094,
       "address": "0xedb5180661f56077292c92ab40b1ac57a279a396",
       "name": "Mead",
       "symbol": "MEAD",
@@ -104,11 +112,11 @@
     },
     {
       "chainId": 80094,
-      "address": "0x118d2ceee9785eaf70c15cd74cd84c9f8c3eec9a",
-      "name": "POL Staked WBERA",
-      "symbol": "SWBERA",
+      "address": "0xd2c41bf4033a83c0fc3a7f58a392bf37d6dcdb58",
+      "name": "OpenState BGT",
+      "symbol": "OSBGT",
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/68010/thumb/swbera.png?1754573891"
+      "logoURI": "https://assets.coingecko.com/coins/images/67157/thumb/osbgt.jpg?1751938475"
     },
     {
       "chainId": 80094,
@@ -160,14 +168,6 @@
     },
     {
       "chainId": 80094,
-      "address": "0x6fc6545d5cde268d5c7f1e476d444f39c995120d",
-      "name": "Berachain Staked ETH",
-      "symbol": "BERAETH",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/54260/thumb/beraETH.png?1738952010"
-    },
-    {
-      "chainId": 80094,
       "address": "0x047b41a14f0bef681b94f570479ae7208e577a0c",
       "name": "Honey Is Money",
       "symbol": "HIM",
@@ -184,14 +184,6 @@
     },
     {
       "chainId": 80094,
-      "address": "0x804cf700de1e18f2411bd05aad5fa10d60e1900f",
-      "name": "aSUGAR",
-      "symbol": "ASUGAR",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/66395/thumb/aSUGAR.png?1749286870"
-    },
-    {
-      "chainId": 80094,
       "address": "0xb749584f9fc418cf905d54f462fdbfdc7462011b",
       "name": "bm",
       "symbol": "BM",
@@ -200,11 +192,27 @@
     },
     {
       "chainId": 80094,
+      "address": "0x656b95e550c07a9ffe548bd4085c72418ceb1dba",
+      "name": "Berachain Governance Token",
+      "symbol": "BGT",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/54193/thumb/BGT.png?1738742690"
+    },
+    {
+      "chainId": 80094,
       "address": "0x147c9a7f5265d7ca9a671c3817b212a0cf88856e",
       "name": "BeraXBT",
       "symbol": "BIXBT",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/55022/thumb/BeraLogo-200px.jpg?1743243276"
+    },
+    {
+      "chainId": 80094,
+      "address": "0xbaadcc2962417c01af99fb2b7c75706b9bd6babe",
+      "name": "Liquid BGT",
+      "symbol": "LBGT",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/54878/thumb/lbgt.png?1742327918"
     },
     {
       "chainId": 80094,
@@ -264,6 +272,22 @@
     },
     {
       "chainId": 80094,
+      "address": "0xab7e0f3d69de8061aa46d7c9964dbc11878468eb",
+      "name": "Berally Token",
+      "symbol": "BRLY",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/54295/thumb/Dex-01_%282%29.png?1739085758"
+    },
+    {
+      "chainId": 80094,
+      "address": "0x009af46df68db0e76bfe9ea35663f6ed17877956",
+      "name": "Ooga Booga",
+      "symbol": "OOGA",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/55119/thumb/Ooga_Booga_Listing_Icon_200x200.png?1743839384"
+    },
+    {
+      "chainId": 80094,
       "address": "0x6d4223dae2a8744a85a6d44e97f3f61679f87ee6",
       "name": "USDbr",
       "symbol": "USDBR",
@@ -277,6 +301,14 @@
       "symbol": "POLLEN",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/54929/thumb/Pollen_200x200.png?1742578406"
+    },
+    {
+      "chainId": 80094,
+      "address": "0x6fc6545d5cde268d5c7f1e476d444f39c995120d",
+      "name": "Berachain Staked ETH",
+      "symbol": "BERAETH",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/54260/thumb/beraETH.png?1738952010"
     },
     {
       "chainId": 80094,
@@ -312,43 +344,11 @@
     },
     {
       "chainId": 80094,
-      "address": "0x009af46df68db0e76bfe9ea35663f6ed17877956",
-      "name": "Ooga Booga",
-      "symbol": "OOGA",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/55119/thumb/Ooga_Booga_Listing_Icon_200x200.png?1743839384"
-    },
-    {
-      "chainId": 80094,
-      "address": "0xbaadcc2962417c01af99fb2b7c75706b9bd6babe",
-      "name": "Liquid BGT",
-      "symbol": "LBGT",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/54878/thumb/lbgt.png?1742327918"
-    },
-    {
-      "chainId": 80094,
       "address": "0x65967109401506222609bdc86e3039f910c4d08b",
       "name": "TWIN ASSET TOKEN COIN",
       "symbol": "COIN",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/66282/thumb/TWIN_Asset_Token_Logo_COIN_CG.png?1749056586"
-    },
-    {
-      "chainId": 80094,
-      "address": "0x0f81001ef0a83ecce5ccebf63eb302c70a39a654",
-      "name": "Dolomite",
-      "symbol": "DOLO",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/54710/thumb/DOLO-small.png?1745398535"
-    },
-    {
-      "chainId": 80094,
-      "address": "0x0555e30da8f98308edb960aa94c0db47230d2b9c",
-      "name": "Berachain Bridged WBTC  Berachain ",
-      "symbol": "WBTC",
-      "decimals": 8,
-      "logoURI": "https://assets.coingecko.com/coins/images/54335/thumb/wbtc.jpg?1739334808"
     },
     {
       "chainId": 80094,
@@ -389,14 +389,6 @@
       "symbol": "MSTR",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/66278/thumb/TWIN_Asset_Token_Logo_MSTR_CG.png?1749051204"
-    },
-    {
-      "chainId": 80094,
-      "address": "0x549943e04f40284185054145c6e4e9568c1d3241",
-      "name": "Stargate Bridged USDC  Berachain ",
-      "symbol": "USDCE",
-      "decimals": 6,
-      "logoURI": "https://assets.coingecko.com/coins/images/54336/thumb/usdc.jpg?1739335056"
     },
     {
       "chainId": 80094,
@@ -560,6 +552,14 @@
     },
     {
       "chainId": 80094,
+      "address": "0x0555e30da8f98308edb960aa94c0db47230d2b9c",
+      "name": "Wrapped Bitcoin",
+      "symbol": "WBTC",
+      "decimals": 8,
+      "logoURI": "https://assets.coingecko.com/coins/images/7598/thumb/wrapped_bitcoin_wbtc.png?1696507857"
+    },
+    {
+      "chainId": 80094,
       "address": "0xff9c599d51c407a45d631c6e89cb047efb88aef6",
       "name": "Pendle",
       "symbol": "PENDLE",
@@ -666,6 +666,6 @@
   "version": {
     "major": 4,
     "minor": 14,
-    "patch": 0
+    "patch": 1
   }
 }
