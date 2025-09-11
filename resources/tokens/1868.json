@@ -4,16 +4,8 @@
   "keywords": [
     "defi"
   ],
-  "timestamp": "2025-09-04T08:00:26.806+00:00",
+  "timestamp": "2025-09-11T11:00:27.747+00:00",
   "tokens": [
-    {
-      "chainId": 1868,
-      "address": "0x0555e30da8f98308edb960aa94c0db47230d2b9c",
-      "name": "LayerZero Bridged WBTC  Soneium ",
-      "symbol": "WBTC",
-      "decimals": 8,
-      "logoURI": "https://assets.coingecko.com/coins/images/54974/thumb/wrapped_bitcoin_wbtc.png?1742962734"
-    },
     {
       "chainId": 1868,
       "address": "0x3a337a6ada9d885b6ad95ec48f9b75f197b5ae35",
@@ -21,30 +13,6 @@
       "symbol": "USDT",
       "decimals": 6,
       "logoURI": "https://assets.coingecko.com/coins/images/53779/thumb/usdt.jpg?1737341724"
-    },
-    {
-      "chainId": 1868,
-      "address": "0xa8feaae65c44b458a16ea4e709036a2ee85d073a",
-      "name": "Mother of Memes",
-      "symbol": "HAHA",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/36245/thumb/HAHA_Logo.png?1710921482"
-    },
-    {
-      "chainId": 1868,
-      "address": "0xf24e57b1cb00d98c31f04f86328e22e8fca457fb",
-      "name": "SONE",
-      "symbol": "SONE",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/53814/thumb/20250116-173015.png?1737432919"
-    },
-    {
-      "chainId": 1868,
-      "address": "0x60336f9296c79da4294a19153ec87f8e52158e5f",
-      "name": "Bifrost Voucher ASTR",
-      "symbol": "VASTR",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/34706/thumb/vASTR.png?1705893008"
     },
     {
       "chainId": 1868,
@@ -56,11 +24,19 @@
     },
     {
       "chainId": 1868,
-      "address": "0x102d758f688a4c1c5a80b116bd945d4455460282",
-      "name": "Stargate Bridged USDT0  Soneium ",
-      "symbol": "USDT0",
-      "decimals": 6,
-      "logoURI": "https://assets.coingecko.com/coins/images/67284/thumb/usdt0.jpg?1752298536"
+      "address": "0x60336f9296c79da4294a19153ec87f8e52158e5f",
+      "name": "Bifrost Voucher ASTR",
+      "symbol": "VASTR",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/34706/thumb/vASTR.png?1705893008"
+    },
+    {
+      "chainId": 1868,
+      "address": "0xf24e57b1cb00d98c31f04f86328e22e8fca457fb",
+      "name": "SONE",
+      "symbol": "SONE",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/53814/thumb/20250116-173015.png?1737432919"
     },
     {
       "chainId": 1868,
@@ -69,6 +45,22 @@
       "symbol": "USDCE",
       "decimals": 6,
       "logoURI": "https://assets.coingecko.com/coins/images/53776/thumb/usdc.jpg?1737340150"
+    },
+    {
+      "chainId": 1868,
+      "address": "0x102d758f688a4c1c5a80b116bd945d4455460282",
+      "name": "Stargate Bridged USDT0  Soneium ",
+      "symbol": "USDT0",
+      "decimals": 6,
+      "logoURI": "https://assets.coingecko.com/coins/images/67284/thumb/usdt0.jpg?1752298536"
+    },
+    {
+      "chainId": 1868,
+      "address": "0xa8feaae65c44b458a16ea4e709036a2ee85d073a",
+      "name": "Mother of Memes",
+      "symbol": "HAHA",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/36245/thumb/HAHA_Logo.png?1710921482"
     },
     {
       "chainId": 1868,
@@ -192,6 +184,14 @@
     },
     {
       "chainId": 1868,
+      "address": "0x0555e30da8f98308edb960aa94c0db47230d2b9c",
+      "name": "Wrapped Bitcoin",
+      "symbol": "WBTC",
+      "decimals": 8,
+      "logoURI": "https://assets.coingecko.com/coins/images/7598/thumb/wrapped_bitcoin_wbtc.png?1696507857"
+    },
+    {
+      "chainId": 1868,
       "address": "0x32d8f819c8080ae44375f8d383ffd39fc642f3ec",
       "name": "Chainlink",
       "symbol": "LINK",
@@ -234,6 +234,6 @@
   "version": {
     "major": 1,
     "minor": 5,
-    "patch": 0
+    "patch": 1
   }
 }

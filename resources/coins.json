@@ -8406,14 +8406,6 @@
     }
   },
   {
-    "id": "aptos-bridged-wbtc-aptos",
-    "symbol": "wbtc",
-    "name": "Aptos Bridged WBTC (Aptos)",
-    "platforms": {
-      "aptos": "0x68844a0d7f2587e726ad0579f3d640865bb4162c08a4589eeda3f9689ec52a3d"
-    }
-  },
-  {
     "id": "aptos-futures",
     "symbol": "apf",
     "name": "Aptos Futures",
@@ -11399,14 +11391,6 @@
     "name": "Avalanche Bridged GHO (Avalanche)",
     "platforms": {
       "avalanche": "0xfc421ad3c883bf9e7c4f42de845c4e4405799e73"
-    }
-  },
-  {
-    "id": "avalanche-bridged-wbtc-avalanche",
-    "symbol": "wbtc",
-    "name": "Avalanche Bridged WBTC (Avalanche)",
-    "platforms": {
-      "avalanche": "0x0555e30da8f98308edb960aa94c0db47230d2b9c"
     }
   },
   {
@@ -16087,14 +16071,6 @@
     "symbol": "bera",
     "name": "Berachain",
     "platforms": {}
-  },
-  {
-    "id": "berachain-bridged-wbtc-berachain",
-    "symbol": "wbtc",
-    "name": "Berachain Bridged WBTC (Berachain)",
-    "platforms": {
-      "berachain": "0x0555e30da8f98308edb960aa94c0db47230d2b9c"
-    }
   },
   {
     "id": "berachain-governance-token",
@@ -41845,6 +41821,14 @@
     "name": "Dogenarii coin",
     "platforms": {
       "solana": "8LFpoJWGS65GMDL7jPKPPgvns3g6vEDg15BmcUSsezuR"
+    }
+  },
+  {
+    "id": "dogenarii-coin-2",
+    "symbol": "dogenarii",
+    "name": "Dogenarii coin",
+    "platforms": {
+      "ethereum": "0x17c5ac827ec8c4ec55b6e572f6d22c151c302c2f"
     }
   },
   {
@@ -75200,14 +75184,6 @@
     }
   },
   {
-    "id": "layerzero-bridged-wbtc-soneium",
-    "symbol": "wbtc",
-    "name": "LayerZero Bridged WBTC (Soneium)",
-    "platforms": {
-      "soneium": "0x0555e30da8f98308edb960aa94c0db47230d2b9c"
-    }
-  },
-  {
     "id": "layerzero-bridged-weth-aptos",
     "symbol": "weth",
     "name": "LayerZero Bridged WETH (Aptos)",
@@ -96844,14 +96820,6 @@
     }
   },
   {
-    "id": "optimism-bridged-wbtc-optimism",
-    "symbol": "wbtc",
-    "name": "Optimism Bridged WBTC (Optimism)",
-    "platforms": {
-      "optimistic-ethereum": "0x68f180fcce6836688e9084f035309e29bf0a2095"
-    }
-  },
-  {
     "id": "optim-oada",
     "symbol": "oada",
     "name": "Optim OADA",
@@ -108620,6 +108588,14 @@
     }
   },
   {
+    "id": "rain",
+    "symbol": "rain",
+    "name": "Rain",
+    "platforms": {
+      "arbitrum-one": "0x25118290e6a5f4139381d072181157035864099d"
+    }
+  },
+  {
     "id": "rainbow-2",
     "symbol": "rainbow",
     "name": "Rainbow",
@@ -115766,14 +115742,6 @@
     }
   },
   {
-    "id": "sei-bridged-wbtc-sei",
-    "symbol": "wbtc",
-    "name": "Sei Bridged WBTC (Sei)",
-    "platforms": {
-      "sei-v2": "0x0555e30da8f98308edb960aa94c0db47230d2b9c"
-    }
-  },
-  {
     "id": "sei-bridged-weth-sei",
     "symbol": "weth",
     "name": "Sei Bridged WETH (Sei)",
@@ -121481,14 +121449,6 @@
     "name": "Sonic Bridged USDT (Sonic)",
     "platforms": {
       "sonic": "0x6047828dc181963ba44974801ff68e538da5eaf9"
-    }
-  },
-  {
-    "id": "sonic-bridged-wbtc-sonic",
-    "symbol": "wbtc",
-    "name": "Sonic Bridged WBTC (Sonic)",
-    "platforms": {
-      "sonic": "0x0555e30da8f98308edb960aa94c0db47230d2b9c"
     }
   },
   {
@@ -137617,7 +137577,10 @@
     "id": "uomi",
     "symbol": "uomi",
     "name": "UOMI",
-    "platforms": {}
+    "platforms": {
+      "ethereum": "0x6b4bcfeccf80ab79eae40475af34cd986e583090",
+      "base": "0x3628d69aa2d66e9efe95ab1267d440dec24389b6"
+    }
   },
   {
     "id": "up",
@@ -145627,6 +145590,17 @@
       "osmosis": "factory/osmo1z0qrq605sjgcqpylfl4aa6s90x738j7m58wyatt0tdzflg2ha26q67k743/wbtc",
       "unichain": "0x0555e30da8f98308edb960aa94c0db47230d2b9c",
       "base": "0x0555e30da8f98308edb960aa94c0db47230d2b9c",
+      "berachain": "0x0555e30da8f98308edb960aa94c0db47230d2b9c",
+      "sonic": "0x0555e30da8f98308edb960aa94c0db47230d2b9c",
+      "optimistic-ethereum": "0x68f180fcce6836688e9084f035309e29bf0a2095",
+      "sei-v2": "0x0555e30da8f98308edb960aa94c0db47230d2b9c",
+      "aptos": "0x68844a0d7f2587e726ad0579f3d640865bb4162c08a4589eeda3f9689ec52a3d",
+      "avalanche": "0x0555e30da8f98308edb960aa94c0db47230d2b9c",
+      "binance-smart-chain": "0x0555e30da8f98308edb960aa94c0db47230d2b9c",
+      "bob-network": "0x0555e30da8f98308edb960aa94c0db47230d2b9c",
+      "telos": "0x7627b27594bc71e6ab0fce755ae8931eb1e12dac",
+      "soneium": "0x0555e30da8f98308edb960aa94c0db47230d2b9c",
+      "swellchain": "0x0555e30da8f98308edb960aa94c0db47230d2b9c",
       "solana": "5XZw2LKTyrfvfiskJ78AMpackRjPcyCif1WhUsPDuVqQ"
     }
   },
