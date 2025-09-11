@@ -7958,12 +7958,7 @@
     "id": "apecoin",
     "symbol": "ape",
     "name": "ApeCoin",
-    "platforms": {
-      "ethereum": "0x4d224452801aced8b2f0aebe155379bb5d594381",
-      "solana": "C1MHyoTJpRTeS9AQCyspNVu2EWAYCZwmJ1jNkEArFP1f",
-      "arbitrum-one": "0x7f9fbf9bdd3f4105c478b996b648fe6e828a1e98",
-      "polygon-pos": "0xb7b31a6bc18e48888545ce79e83e06003be70930"
-    }
+    "platforms": {}
   },
   {
     "id": "aped",
@@ -8751,6 +8746,14 @@
     "name": "Arbitrum Bridged WETH (Arbitrum One)",
     "platforms": {
       "arbitrum-one": "0x82af49447d8a07e3bd95bd0d56f35241523fbab1"
+    }
+  },
+  {
+    "id": "arbitrum-bridged-wrapped-eeth",
+    "symbol": "weeth",
+    "name": "Arbitrum Bridged Wrapped eETH (Arbitrum)",
+    "platforms": {
+      "arbitrum-one": "0x35751007a407ca6feffe80b3cb397736d2cf4dbe"
     }
   },
   {
@@ -13080,6 +13083,14 @@
     "name": "Backbone Labs Staked JUNO",
     "platforms": {
       "juno": "juno1mvkgcr5uce2rnpzr4qrzf50hx4qreuwzlt7fzsjrhjud3xnjmttq5mkh2m"
+    }
+  },
+  {
+    "id": "backbone-labs-staked-luna",
+    "symbol": "bluna",
+    "name": "Backbone Labs Staked LUNA",
+    "platforms": {
+      "terra-2": "terra17aj4ty4sz4yhgm08na8drc0v03v2jwr3waxcqrwhajj729zhl7zqnpc0ml"
     }
   },
   {
@@ -32429,14 +32440,6 @@
     }
   },
   {
-    "id": "core-ordinals",
-    "symbol": "core",
-    "name": "CORE (Ordinals)",
-    "platforms": {
-      "ordinals": "757638545a6c759911b97a5e5a40ea1bb64722c2363e184793760649592a0f18i0"
-    }
-  },
-  {
     "id": "corepound",
     "symbol": "corp",
     "name": "Corepound",
@@ -32450,14 +32453,6 @@
     "name": "Coresky",
     "platforms": {
       "binance-smart-chain": "0x79a4baa491fecc00a3b81a281bd97abca932f5f6"
-    }
-  },
-  {
-    "id": "corestarter",
-    "symbol": "cstr",
-    "name": "CoreStarter",
-    "platforms": {
-      "solana": "G7uYedVqFy97mzjygebnmmaMUVxWHFhNZotY6Zzsprvf"
     }
   },
   {
@@ -35698,6 +35693,14 @@
     }
   },
   {
+    "id": "dadi-insight-token",
+    "symbol": "dit",
+    "name": "DADI Insight Token",
+    "platforms": {
+      "binance-smart-chain": "0x807bd464144f68b7a431fad41c5769a66d972eca"
+    }
+  },
+  {
     "id": "daeta",
     "symbol": "daeta",
     "name": "DÆTA",
@@ -36688,6 +36691,14 @@
     "name": "Dawkoins",
     "platforms": {
       "solana": "7cb67ev3jvBKaAH1tnVM8FL8WfQ96sa2TYByEXajqx8N"
+    }
+  },
+  {
+    "id": "dawn",
+    "symbol": "dawn",
+    "name": "Dawn",
+    "platforms": {
+      "solana": "CAJ4iqYG9dMueHaQyfBGkb5SJUw2awkMvKTansAupump"
     }
   },
   {
@@ -39375,6 +39386,14 @@
     }
   },
   {
+    "id": "diamond-token-2",
+    "symbol": "$dit",
+    "name": "DIAMOND TOKEN 💎",
+    "platforms": {
+      "binance-smart-chain": "0xbfa362937bfd11ec22a023abf83b6df4e5e303d4"
+    }
+  },
+  {
     "id": "dibs-share",
     "symbol": "dshare",
     "name": "Dibs Share",
@@ -41401,6 +41420,14 @@
     "name": "DOGE-1SATELLITE",
     "platforms": {
       "binance-smart-chain": "0x6f9320833d85a63c6a187cf9ada0f87930e61690"
+    }
+  },
+  {
+    "id": "doge-1-satellite",
+    "symbol": "doge-1",
+    "name": "DOGE-1 Satellite",
+    "platforms": {
+      "solana": "DpBzjtgGLF7QA9Ug3eUVGbnqa6j3jvYBn1XuQuktvfhm"
     }
   },
   {
@@ -56806,6 +56833,14 @@
     }
   },
   {
+    "id": "ging-gong-kaew",
+    "symbol": "ggk",
+    "name": "Ging Gong Kaew",
+    "platforms": {
+      "solana": "4SXJJw2GKVTeoxqjrcrFNb3S59632wXjVRSJN8kFpump"
+    }
+  },
+  {
     "id": "gini",
     "symbol": "$gini",
     "name": "GINI",
@@ -59276,6 +59311,14 @@
     "name": "Gravity Finance",
     "platforms": {
       "sonic": "0xbf5899166ac476370b3117c9256b7fc45624f4ea"
+    }
+  },
+  {
+    "id": "grdm",
+    "symbol": "grdm",
+    "name": "GRDM",
+    "platforms": {
+      "binance-smart-chain": "0xdc5d7f9e812d7575239bb03ab3823416fff04444"
     }
   },
   {
@@ -63321,7 +63364,10 @@
     "id": "holoworld",
     "symbol": "holo",
     "name": "Holoworld",
-    "platforms": {}
+    "platforms": {
+      "binance-smart-chain": "0x1a5d7e4c3a7f940b240b7357a4bfed30d17f9497",
+      "solana": "69RX85eQoEsnZvXGmLNjYcWgVkp9r2JjahVm99KbJETU"
+    }
   },
   {
     "id": "holozone",
@@ -64877,6 +64923,14 @@
     "name": "HyperSwap AI",
     "platforms": {
       "solana": "7sYAhEucFNkme29jHqSeFYNenAgD8krH9KmJeUs8Un43"
+    }
+  },
+  {
+    "id": "hypertrics",
+    "symbol": "hytr",
+    "name": "Hypertrics",
+    "platforms": {
+      "hyperevm": "0x125d8c0fa5707e928cda279195313f0ad6e9fefe"
     }
   },
   {
@@ -66817,14 +66871,6 @@
     "name": "Insane Labz (Base)",
     "platforms": {
       "base": "0x30121d81f4407474a6d93f5c3060f14aaa098a61"
-    }
-  },
-  {
-    "id": "insc",
-    "symbol": "insc",
-    "name": "INSC (Ordinals)",
-    "platforms": {
-      "ordinals": "d4a1974c634f9faca449680510dcba314a5419c08df6e5851b80491929b5d1bei0"
     }
   },
   {
@@ -74274,14 +74320,6 @@
     "platforms": {}
   },
   {
-    "id": "laifu",
-    "symbol": "laifu",
-    "name": "LAIFU",
-    "platforms": {
-      "solana": "AbEzY71vww6UK7hcY88CAxHN4Cnz4W6LgHgv7R17pump"
-    }
-  },
-  {
     "id": "laika",
     "symbol": "laika",
     "name": "Laika",
@@ -75159,14 +75197,6 @@
     "name": "LayerZero Bridged WBTC (Aptos)",
     "platforms": {
       "aptos": "0XF22BEDE237A07E121B56D91A491EB7BCDFD1F5907926A9E58338F964A01B17FA::ASSET::WBTC"
-    }
-  },
-  {
-    "id": "layerzero-bridged-wbtc-base",
-    "symbol": "wbtc",
-    "name": "LayerZero Bridged WBTC (Base)",
-    "platforms": {
-      "base": "0x0555e30da8f98308edb960aa94c0db47230d2b9c"
     }
   },
   {
@@ -91816,14 +91846,6 @@
     }
   },
   {
-    "id": "nevacoin",
-    "symbol": "neva",
-    "name": "NevaCoin",
-    "platforms": {
-      "binance-smart-chain": "0xe7498f332c35a346b486f3f6a68f05934e92a228"
-    }
-  },
-  {
     "id": "never-go-full",
     "symbol": "retard",
     "name": "Never Go Full",
@@ -94395,16 +94417,6 @@
     "name": "nunu",
     "platforms": {
       "solana": "q29umWshmh2fmm1CdRb4cBKhqtW9xX25ezNQi7Bpump"
-    }
-  },
-  {
-    "id": "nunu-spirits",
-    "symbol": "nnt",
-    "name": "Nunu Spirits",
-    "platforms": {
-      "avalanche": "0x771c01e1917b5ab5b791f7b96f0cd69e22f6dbcf",
-      "ethereum": "0x19193f450086d0442157b852081976d41657ad56",
-      "binance-smart-chain": "0x3a2927e68749dd6ad0a568d7c05b587863c0bc10"
     }
   },
   {
@@ -97086,6 +97098,8 @@
     "platforms": {
       "ethereum": "0x33333333fede34409fb7f67c6585047e1f653333",
       "binance-smart-chain": "0x333333c465a19c85f85c6cfbed7b16b0b26e3333",
+      "arbitrum-one": "0x333333c465a19c85f85c6cfbed7b16b0b26e3333",
+      "unichain": "0x2d1b035ca47e04a119dff0fac828f4a57a67e4de",
       "hyperliquid": "0xd7a5b9b760fd758d2e3f6f3ecd2ae5bb",
       "solana": "BPYhCMNao2XG4UR771LurHrwUg3rcp76jmg4XFfAacvg",
       "base": "0x333333c465a19c85f85c6cfbed7b16b0b26e3333"
@@ -102393,6 +102407,14 @@
     "name": "Pinto",
     "platforms": {
       "base": "0xb170000aeefa790fa61d6e837d1035906839a3c8"
+    }
+  },
+  {
+    "id": "pinto-coin",
+    "symbol": "$pinto",
+    "name": "Pinto Coin",
+    "platforms": {
+      "solana": "v1G66wZM51Kjp5YFw3mws5MyQGK2ry5MHRrArZipump"
     }
   },
   {
@@ -112106,14 +112128,6 @@
     }
   },
   {
-    "id": "robust-token",
-    "symbol": "rbt",
-    "name": "Robust",
-    "platforms": {
-      "binance-smart-chain": "0x891e4554227385c5c740f9b483e935e3cbc29f01"
-    }
-  },
-  {
     "id": "rock-2",
     "symbol": "rock",
     "name": "Rock",
@@ -115356,6 +115370,14 @@
     "name": "Screaming Hyrax",
     "platforms": {
       "solana": "7qBKePC5SqZKDRNsbNhqD6Y6S8JW2CM3KoRv3ztDpump"
+    }
+  },
+  {
+    "id": "screx",
+    "symbol": "scrx",
+    "name": "Screx",
+    "platforms": {
+      "ethereum": "0xa20f1b74822f0c88f1bbff3bfd7ccd535a8ae6b8"
     }
   },
   {
@@ -121318,11 +121340,7 @@
     "id": "somnia",
     "symbol": "somi",
     "name": "Somnia",
-    "platforms": {
-      "ethereum": "0x1b0f6590d21dc02b92ad3a7d00f8884dc4f1aed9",
-      "binance-smart-chain": "0xa9616e5e23ec1582c2828b025becf3ef610e266f",
-      "base": "0x47636b3188774a3e7273d85a537b9ba4ee7b2535"
-    }
+    "platforms": {}
   },
   {
     "id": "somnium-space-cubes",
@@ -124865,6 +124883,14 @@
     "name": "StaySAFU",
     "platforms": {
       "binance-smart-chain": "0x890cc7d14948478c98a6cd7f511e1f7f7f99f397"
+    }
+  },
+  {
+    "id": "stbgt",
+    "symbol": "stbgt",
+    "name": "stBGT",
+    "platforms": {
+      "berachain": "0x2cec7f1ac87f5345ced3d6c74bbb61bfae231ffb"
     }
   },
   {
@@ -130054,7 +130080,8 @@
     "symbol": "luna",
     "name": "Terra",
     "platforms": {
-      "osmosis": "ibc/785AFEC6B3741100D15E7AF01374E3C4C36F24888E96479B1C33F5C71F364EF9"
+      "osmosis": "ibc/785AFEC6B3741100D15E7AF01374E3C4C36F24888E96479B1C33F5C71F364EF9",
+      "terra-2": "uluna"
     }
   },
   {
@@ -136724,14 +136751,6 @@
     "name": "Unichain Bridged USDT (Unichain)",
     "platforms": {
       "unichain": "0x588ce4f028d8e7b53b687865d6a67b3a54c75518"
-    }
-  },
-  {
-    "id": "unichain-bridged-wbtc-unichain",
-    "symbol": "wbtc",
-    "name": "LayerZero Bridged WBTC (Unichain)",
-    "platforms": {
-      "unichain": "0x0555e30da8f98308edb960aa94c0db47230d2b9c"
     }
   },
   {
@@ -145262,7 +145281,12 @@
     "symbol": "wape",
     "name": "Wrapped ApeCoin",
     "platforms": {
-      "apechain": "0x48b62137edfa95a428d35c09e44256a739f6b557"
+      "apechain": "0x48b62137edfa95a428d35c09e44256a739f6b557",
+      "solana": "C1MHyoTJpRTeS9AQCyspNVu2EWAYCZwmJ1jNkEArFP1f",
+      "arbitrum-one": "0x7f9fbf9bdd3f4105c478b996b648fe6e828a1e98",
+      "polygon-pos": "0xb7b31a6bc18e48888545ce79e83e06003be70930",
+      "ethereum": "0x4d224452801aced8b2f0aebe155379bb5d594381",
+      "hyperevm": "0xab11329560fa9c9c860bb21a9342215a1265bbb0"
     }
   },
   {
@@ -145601,6 +145625,8 @@
     "platforms": {
       "ethereum": "0x2260fac5e5542a773aa44fbcfedf7c193bc2c599",
       "osmosis": "factory/osmo1z0qrq605sjgcqpylfl4aa6s90x738j7m58wyatt0tdzflg2ha26q67k743/wbtc",
+      "unichain": "0x0555e30da8f98308edb960aa94c0db47230d2b9c",
+      "base": "0x0555e30da8f98308edb960aa94c0db47230d2b9c",
       "solana": "5XZw2LKTyrfvfiskJ78AMpackRjPcyCif1WhUsPDuVqQ"
     }
   },
@@ -146169,8 +146195,7 @@
       "initia": "0xb14774f27e0ccea61f68fd522d20058c285a68a1b45d9a581ff754b326e186cc",
       "zksync": "0xc1fa6e2e8667d9be0ca938a54c7e0285e9df924a",
       "morph-l2": "0x7dcc39b4d1c53cb31e1abc0e358b43987fef80f7",
-      "linea": "0x1bf74c010e6320bab11e2e5a532b5ac15e0b8aa6",
-      "arbitrum-one": "0x35751007a407ca6feffe80b3cb397736d2cf4dbe"
+      "linea": "0x1bf74c010e6320bab11e2e5a532b5ac15e0b8aa6"
     }
   },
   {
@@ -147728,7 +147753,10 @@
     "symbol": "wsomi",
     "name": "Wrapped SOMI",
     "platforms": {
-      "somnia": "0x046ede9564a72571df6f5e44d0405360c0f4dcab"
+      "somnia": "0x046ede9564a72571df6f5e44d0405360c0f4dcab",
+      "binance-smart-chain": "0xa9616e5e23ec1582c2828b025becf3ef610e266f",
+      "base": "0x47636b3188774a3e7273d85a537b9ba4ee7b2535",
+      "ethereum": "0x1b0f6590d21dc02b92ad3a7d00f8884dc4f1aed9"
     }
   },
   {
