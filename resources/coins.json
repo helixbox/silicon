@@ -3787,8 +3787,8 @@
       "ethereum": "0x00000000efe302beaa2b3e6e1b18d08d69a9012a",
       "mantle": "0x00000000efe302beaa2b3e6e1b18d08d69a9012a",
       "sui": "0x2053d08c1e2bd02791056171aab0fd12bd7cd7efad2ab8f6b9c8902f14df2ff2::ausd::AUSD",
-      "polygon-pos": "0x00000000efe302beaa2b3e6e1b18d08d69a9012a",
       "fraxtal": "0x00000000efe302beaa2b3e6e1b18d08d69a9012a",
+      "polygon-pos": "0x00000000efe302beaa2b3e6e1b18d08d69a9012a",
       "binance-smart-chain": "0x00000000efe302beaa2b3e6e1b18d08d69a9012a",
       "core": "0x00000000efe302beaa2b3e6e1b18d08d69a9012a",
       "immutable": "0x00000000efe302beaa2b3e6e1b18d08d69a9012a",
@@ -11876,9 +11876,9 @@
     "name": "Axelar Bridged USDC",
     "platforms": {
       "fantom": "0x1b6382dbdea11d97f24495c9a90b7c88469134a4",
-      "fraxtal": "0xeb466342c4d449bc9f53a865d5cb90586f405215",
       "filecoin": "0xeb466342c4d449bc9f53a865d5cb90586f405215",
       "osmosis": "ibc/D189335C6E4A68B513C10AB227BF1C1D38C746766278BA3EEB4FB14124F1D858",
+      "fraxtal": "0xeb466342c4d449bc9f53a865d5cb90586f405215",
       "evmos": "0x15c3eb3b621d1bff62cba1c9536b7c1ae9149b57",
       "optimistic-ethereum": "0xeb466342c4d449bc9f53a865d5cb90586f405215",
       "arbitrum-one": "0xeb466342c4d449bc9f53a865d5cb90586f405215",
@@ -17040,6 +17040,7 @@
     "name": "BiLira",
     "platforms": {
       "ethereum": "0x2c537e5624e4af88a7ae4060c022609376c8d0eb",
+      "codex": "0x92932acf15928c2007912bb9f90094a5b6fe7160",
       "avalanche": "0x564a341df6c126f90cf3ecb92120fd7190acb401",
       "solana": "A94X2fRy3wydNShU4dRaDyap2UuoeWJGWyATtyp61WZf",
       "polygon-pos": "0x4fb71290ac171e1d144f7221d882becac7196eb5",
@@ -28124,11 +28125,11 @@
       "cronos": "0x8c80a01f461f297df7f9da3a4f740d7297c8ac85",
       "cronos-zkevm": "0x61170ca9fb9cf98d4c7d684e07be6d969d59667e",
       "etherlink": "0x8ce7618e8f8e514d13889283f58ff03b794e6cc3",
-      "fraxtal": "0xd6a6ba37faac229b9665e86739ca501401f5a940",
       "hashkey-chain": "0x71052bae71c25c78e37fd12e5ff1101a71d9018f",
       "hedera-hashgraph": "0x7ce6bb2cc2d3fd45a974da6a0f29236cb9513a98",
       "sei-v2": "0x71052bae71c25c78e37fd12e5ff1101a71d9018f",
       "katana": "0xc2c447b04e0ed3476ddbdae8e9e39be7159d27b6",
+      "fraxtal": "0xd6a6ba37faac229b9665e86739ca501401f5a940",
       "hemi": "0x63dbe12a6381d64ade47bc3d92abf4393dff4bc8",
       "hyperevm": "0x1ac2ee68b8d038c982c1e1f73f596927dd70de59",
       "ink": "0x71052bae71c25c78e37fd12e5ff1101a71d9018f",
@@ -53028,8 +53029,8 @@
     "name": "Frax Price Index",
     "platforms": {
       "ethereum": "0x5ca135cb8527d76e932f34b5145575f9d8cbe08e",
-      "arbitrum-one": "0x1b01514a2b3cdef16fd3c680a818a0ab97da8a09",
       "fraxtal": "0xfc00000000000000000000000000000000000003",
+      "arbitrum-one": "0x1b01514a2b3cdef16fd3c680a818a0ab97da8a09",
       "binance-smart-chain": "0x2dd1b4d4548accea497050619965f91f78b3b532"
     }
   },
@@ -96648,8 +96649,8 @@
     "platforms": {
       "base": "0x1217bfe6c773eec6cc4a38b5dc45b92292b6e189",
       "mode": "0x1217bfe6c773eec6cc4a38b5dc45b92292b6e189",
-      "fraxtal": "0x1217bfe6c773eec6cc4a38b5dc45b92292b6e189",
       "soneium": "0x1217bfe6c773eec6cc4a38b5dc45b92292b6e189",
+      "fraxtal": "0x1217bfe6c773eec6cc4a38b5dc45b92292b6e189",
       "lisk": "0x1217bfe6c773eec6cc4a38b5dc45b92292b6e189",
       "superseed": "0x1217bfe6c773eec6cc4a38b5dc45b92292b6e189",
       "optimistic-ethereum": "0x1217bfe6c773eec6cc4a38b5dc45b92292b6e189",
@@ -107162,7 +107163,7 @@
   {
     "id": "purrcoin",
     "symbol": "purr",
-    "name": "Purrcoin",
+    "name": "purrcoin",
     "platforms": {
       "base": "0xe4fcf2d991505089bbb36275570757c1f9800cb0"
     }
@@ -118912,7 +118913,7 @@
   },
   {
     "id": "slopana",
-    "symbol": "slopana",
+    "symbol": "slop",
     "name": "Slopana",
     "platforms": {
       "solana": "AkdtuaKVDpsZyeZ8LvcVf4G4L3nJ1Jmd7npmF5mpbonk"
@@ -123794,9 +123795,9 @@
       "ethereum": "0xcf62f905562626cfcdd2261162a51fd02fc9c5b6",
       "sonic": "0x5bff88ca1442c2496f7e475e9e7786383bc070c0",
       "sei-v2": "0x5bff88ca1442c2496f7e475e9e7786383bc070c0",
-      "fraxtal": "0xfc00000000000000000000000000000000000008",
       "mode": "0x5bff88ca1442c2496f7e475e9e7786383bc070c0",
       "x-layer": "0x5bff88ca1442c2496f7e475e9e7786383bc070c0",
+      "fraxtal": "0xfc00000000000000000000000000000000000008",
       "arbitrum-one": "0x5bff88ca1442c2496f7e475e9e7786383bc070c0"
     }
   },
@@ -134453,8 +134454,8 @@
     "symbol": "tree",
     "name": "Treehouse",
     "platforms": {
-      "binance-smart-chain": "0x77146784315ba81904d654466968e3a7c196d1f3",
-      "ethereum": "0x77146784315ba81904d654466968e3a7c196d1f3"
+      "ethereum": "0x77146784315ba81904d654466968e3a7c196d1f3",
+      "binance-smart-chain": "0x77146784315ba81904d654466968e3a7c196d1f3"
     }
   },
   {
@@ -140983,9 +140984,9 @@
       "internet-computer": "wu6g4-6qaaa-aaaan-qmrza-cai",
       "arbitrum-one": "0x4883c8f0529f37e40ebea870f3c13cdfad5d01f8",
       "polygon-pos": "0xe4095d9372e68d108225c306a4491cacfb33b097",
+      "fraxtal": "0x4c0bd74da8237c08840984fdb33a84b4586aaee6",
       "celo": "0x9346f43c1588b6df1d52bdd6bf846064f92d9cba",
       "q-mainnet": "0x513f99dee650f529d7c65bb5679f092b64003520",
-      "fraxtal": "0x4c0bd74da8237c08840984fdb33a84b4586aaee6",
       "avalanche": "0x7678e162f38ec9ef2bfd1d0aaf9fd93355e5fa0b",
       "stellar": "GDXLSLCOPPHTWOQXLLKSVN4VN3G67WD2ENU7UMVAROEYVJLSPSEWXIZN",
       "solana": "C4Kkr9NZU3VbyedcgutU6LKmi6MKz81sx6gRmk5pX519",
@@ -151038,9 +151039,9 @@
     "name": "ynETH MAX",
     "platforms": {
       "ethereum": "0x657d9aba1dbb59e53f9f3ecaa878447dcfc96dcb",
-      "fraxtal": "0xe231db5f348d709239ef1741ea30961b3b635a61",
       "berachain": "0xe231db5f348d709239ef1741ea30961b3b635a61",
       "binance-smart-chain": "0xe231db5f348d709239ef1741ea30961b3b635a61",
+      "fraxtal": "0xe231db5f348d709239ef1741ea30961b3b635a61",
       "scroll": "0xe231db5f348d709239ef1741ea30961b3b635a61",
       "taiko": "0xe231db5f348d709239ef1741ea30961b3b635a61",
       "blast": "0xe231db5f348d709239ef1741ea30961b3b635a61",
