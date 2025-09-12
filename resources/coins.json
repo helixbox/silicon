@@ -64762,14 +64762,6 @@
     "platforms": {}
   },
   {
-    "id": "hyperevm-bridged-usr-hyperevm",
-    "symbol": "usr",
-    "name": "HyperEVM Bridged USR (HyperEVM)",
-    "platforms": {
-      "hyperevm": "0x0ad339d66bf4aed5ce31c64bc37b3244b6394a77"
-    }
-  },
-  {
     "id": "hyperfly",
     "symbol": "fly",
     "name": "HyperFly",
@@ -106483,7 +106475,10 @@
     "name": "Pudgy Penguins",
     "platforms": {
       "solana": "2zMMhcVQEXDtdE6vsFS7S7D5oUodfJHE8vd1gnBouauv",
-      "abstract": "0x9ebe3a824ca958e4b3da772d2065518f009cba62"
+      "abstract": "0x9ebe3a824ca958e4b3da772d2065518f009cba62",
+      "ethereum": "0x6418c0dd099a9fda397c766304cdd918233e8847",
+      "hyperevm": "0xfa44c2634ff17cbe26dc3007d36bd61c79068c14",
+      "binance-smart-chain": "0x6418c0dd099a9fda397c766304cdd918233e8847"
     }
   },
   {
@@ -110811,6 +110806,8 @@
     "platforms": {
       "ethereum": "0x66a1e37c9b0eaddca17d3662d6c05f4decf3e110",
       "arbitrum-one": "0x2492d0006411af6c8bbb1c8afc1b0197350a79e9",
+      "hyperevm": "0x0ad339d66bf4aed5ce31c64bc37b3244b6394a77",
+      "berachain": "0x2492d0006411af6c8bbb1c8afc1b0197350a79e9",
       "binance-smart-chain": "0x2492d0006411af6c8bbb1c8afc1b0197350a79e9",
       "soneium": "0xb1b385542b6e80f77b94393ba8342c3af699f15c",
       "tac": "0xb1b385542b6e80f77b94393ba8342c3af699f15c",
@@ -143856,6 +143853,8 @@
     "name": "Wilder World",
     "platforms": {
       "ethereum": "0x2a3bff78b79a009976eea096a51a948a3dc00e34",
+      "base": "0xafde2490236bc64950def5472296aa0d9758db0d",
+      "polygon-pos": "0xafde2490236bc64950def5472296aa0d9758db0d",
       "binance-smart-chain": "0x6685906b75c61c57772c335402f594f855c1b0e3",
       "avalanche": "0x153374c6d6786b6ca2c4bc96f9c3a471428f2bc7",
       "solana": "FVvd3s9dZYzsgitkJyWbmycSc8MkYZjyF7oqAEvmSxTZ"
