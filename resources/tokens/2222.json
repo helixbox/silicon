@@ -4,16 +4,8 @@
   "keywords": [
     "defi"
   ],
-  "timestamp": "2025-09-10T10:00:06.077+00:00",
+  "timestamp": "2025-09-12T17:00:06.846+00:00",
   "tokens": [
-    {
-      "chainId": 2222,
-      "address": "0xc86c7c0efbd6a49b35e8714c5f59d99de09a225b",
-      "name": "Wrapped Kava",
-      "symbol": "WKAVA",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/26387/thumb/kava.jpeg?1696525465"
-    },
     {
       "chainId": 2222,
       "address": "0xce82db637a2d750380ef27063518eaa263fbe10e",
@@ -24,11 +16,11 @@
     },
     {
       "chainId": 2222,
-      "address": "0xb84df10966a5d7e1ab46d9276f55d57bd336afc7",
-      "name": "MAI  Kava ",
-      "symbol": "MIMATIC",
+      "address": "0xc86c7c0efbd6a49b35e8714c5f59d99de09a225b",
+      "name": "Wrapped Kava",
+      "symbol": "WKAVA",
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/35574/thumb/mimatic-red.png?1709193822"
+      "logoURI": "https://assets.coingecko.com/coins/images/26387/thumb/kava.jpeg?1696525465"
     },
     {
       "chainId": 2222,
@@ -48,11 +40,19 @@
     },
     {
       "chainId": 2222,
-      "address": "0xd86c8d4279ccafbec840c782bcc50d201f277419",
-      "name": "Mare Finance",
-      "symbol": "MARE",
+      "address": "0xb84df10966a5d7e1ab46d9276f55d57bd336afc7",
+      "name": "MAI  Kava ",
+      "symbol": "MIMATIC",
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/29288/thumb/mare-icon.png?1696528240"
+      "logoURI": "https://assets.coingecko.com/coins/images/35574/thumb/mimatic-red.png?1709193822"
+    },
+    {
+      "chainId": 2222,
+      "address": "0xe5274e38e91b615d8822e8512a29a16ff1b9c4af",
+      "name": "Pinjam Kava",
+      "symbol": "PINKAV",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/30803/thumb/PINKAV_Logo_%28200x200%29.png?1696529661"
     },
     {
       "chainId": 2222,
@@ -64,11 +64,11 @@
     },
     {
       "chainId": 2222,
-      "address": "0xe5274e38e91b615d8822e8512a29a16ff1b9c4af",
-      "name": "Pinjam Kava",
-      "symbol": "PINKAV",
+      "address": "0xd86c8d4279ccafbec840c782bcc50d201f277419",
+      "name": "Mare Finance",
+      "symbol": "MARE",
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/30803/thumb/PINKAV_Logo_%28200x200%29.png?1696529661"
+      "logoURI": "https://assets.coingecko.com/coins/images/29288/thumb/mare-icon.png?1696528240"
     },
     {
       "chainId": 2222,
@@ -101,6 +101,14 @@
       "symbol": "STG",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/24413/thumb/STG_LOGO.png?1696523595"
+    },
+    {
+      "chainId": 2222,
+      "address": "0x58538e6a46e07434d7e7375bc268d3cb839c0133",
+      "name": "Ethena",
+      "symbol": "ENA",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/36530/thumb/ethena.png?1711701436"
     },
     {
       "chainId": 2222,
@@ -249,7 +257,7 @@
   ],
   "version": {
     "major": 7,
-    "minor": 2,
+    "minor": 3,
     "patch": 0
   }
 }
