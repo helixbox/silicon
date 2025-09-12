@@ -4,7 +4,7 @@
   "keywords": [
     "defi"
   ],
-  "timestamp": "2025-09-10T11:00:08.646+00:00",
+  "timestamp": "2025-09-12T19:00:08.504+00:00",
   "tokens": [
     {
       "chainId": 1088,
@@ -13,14 +13,6 @@
       "symbol": "ARTMETIS",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/36629/thumb/artMETIS.png?1712021137"
-    },
-    {
-      "chainId": 1088,
-      "address": "0x096a84536ab84e68ee210561ffd3a038e79736f1",
-      "name": "ENKI Protocol",
-      "symbol": "ENKI",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/37228/thumb/token-logo.png?1713779279"
     },
     {
       "chainId": 1088,
@@ -37,6 +29,30 @@
       "symbol": "TORCH",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/36601/thumb/hercules_logo_transp_128px.png?1711953416"
+    },
+    {
+      "chainId": 1088,
+      "address": "0x721532bc0da5ffaeb0a6a45fb24271e8098629a7",
+      "name": "BinaryDAO",
+      "symbol": "BYTE",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/24539/thumb/binarydao.PNG?1696523717"
+    },
+    {
+      "chainId": 1088,
+      "address": "0x096a84536ab84e68ee210561ffd3a038e79736f1",
+      "name": "ENKI Protocol",
+      "symbol": "ENKI",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/37228/thumb/token-logo.png?1713779279"
+    },
+    {
+      "chainId": 1088,
+      "address": "0x69fdb77064ec5c84fa2f21072973eb28441f43f3",
+      "name": "Tethys Finance",
+      "symbol": "TETHYS",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/22141/thumb/wjoZJvzA_400x400.jpg?1696521487"
     },
     {
       "chainId": 1088,
@@ -64,22 +80,6 @@
     },
     {
       "chainId": 1088,
-      "address": "0x75cb093e4d61d2a2e65d8e0bbb01de8d89b53481",
-      "name": "Wrapped Metis",
-      "symbol": "WMETIS",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/34526/thumb/metis.jpeg?1705305707"
-    },
-    {
-      "chainId": 1088,
-      "address": "0x721532bc0da5ffaeb0a6a45fb24271e8098629a7",
-      "name": "BinaryDAO",
-      "symbol": "BYTE",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/24539/thumb/binarydao.PNG?1696523717"
-    },
-    {
-      "chainId": 1088,
       "address": "0x6f05709bc91bad933346f9e159f0d3fdbc2c9dce",
       "name": "Hera Finance",
       "symbol": "HERA",
@@ -88,11 +88,11 @@
     },
     {
       "chainId": 1088,
-      "address": "0x69fdb77064ec5c84fa2f21072973eb28441f43f3",
-      "name": "Tethys Finance",
-      "symbol": "TETHYS",
+      "address": "0x75cb093e4d61d2a2e65d8e0bbb01de8d89b53481",
+      "name": "Wrapped Metis",
+      "symbol": "WMETIS",
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/22141/thumb/wjoZJvzA_400x400.jpg?1696521487"
+      "logoURI": "https://assets.coingecko.com/coins/images/34526/thumb/metis.jpeg?1705305707"
     },
     {
       "chainId": 1088,
@@ -200,6 +200,14 @@
     },
     {
       "chainId": 1088,
+      "address": "0x58538e6a46e07434d7e7375bc268d3cb839c0133",
+      "name": "Ethena",
+      "symbol": "ENA",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/36530/thumb/ethena.png?1711701436"
+    },
+    {
+      "chainId": 1088,
       "address": "0x79bbf4508b1391af3a0f4b30bb5fc4aa9ab0e07c",
       "name": "Hey Anon",
       "symbol": "ANON",
@@ -281,7 +289,7 @@
   ],
   "version": {
     "major": 21,
-    "minor": 3,
+    "minor": 4,
     "patch": 0
   }
 }
