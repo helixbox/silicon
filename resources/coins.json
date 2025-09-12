@@ -31954,9 +31954,7 @@
     "id": "constellation-labs",
     "symbol": "dag",
     "name": "Constellation",
-    "platforms": {
-      "base": "0x74299a718b2c44483a27325d7725f0b2646de3b1"
-    }
+    "platforms": {}
   },
   {
     "id": "constellation-staked-rpl",
@@ -43154,9 +43152,7 @@
     "id": "dor",
     "symbol": "dor",
     "name": "Dor",
-    "platforms": {
-      "base": "0xfe9885baff18074846aaa2d5541581adf068731d"
-    }
+    "platforms": {}
   },
   {
     "id": "dora-2",
@@ -146204,7 +146200,8 @@
     "symbol": "wdag",
     "name": "Wrapped DAG",
     "platforms": {
-      "ethereum": "0x2e3cfe45e3ee7c017277f22e35d2f29edc99d570"
+      "ethereum": "0x2e3cfe45e3ee7c017277f22e35d2f29edc99d570",
+      "base": "0x74299a718b2c44483a27325d7725f0b2646de3b1"
     }
   },
   {
@@ -146278,6 +146275,14 @@
     "platforms": {
       "base": "0x12e96c2bfea6e835cf8dd38a5834fa61cf723736",
       "world-chain": "0x12e96c2bfea6e835cf8dd38a5834fa61cf723736"
+    }
+  },
+  {
+    "id": "wrapped-dor",
+    "symbol": "wdor",
+    "name": "Wrapped DOR",
+    "platforms": {
+      "base": "0xfe9885baff18074846aaa2d5541581adf068731d"
     }
   },
   {
