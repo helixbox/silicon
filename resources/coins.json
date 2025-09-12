@@ -36845,7 +36845,10 @@
     "symbol": "box",
     "name": "DeBox",
     "platforms": {
-      "ethereum": "0x32b77729cd87f1ef2bea4c650c16f89f08472c69"
+      "ethereum": "0x32b77729cd87f1ef2bea4c650c16f89f08472c69",
+      "binance-smart-chain": "0x6386adc4bc9c21984e34fd916bb349dd861742af",
+      "base": "0x37d2adc008118d04f259fc0c16ff66bf5a637d20",
+      "mantle": "0x3d142cdb27b537af57a55ee8f54ada953b4b9ecd"
     }
   },
   {
@@ -91618,6 +91621,14 @@
     }
   },
   {
+    "id": "netx",
+    "symbol": "netx",
+    "name": "NetX",
+    "platforms": {
+      "binance-smart-chain": "0x4c32964715e9a42f8d119bfa8917d57822d3adf1"
+    }
+  },
+  {
     "id": "neuracat",
     "symbol": "ncat",
     "name": "Neuracat",
@@ -99972,8 +99983,7 @@
     "symbol": "peaq",
     "name": "peaq",
     "platforms": {
-      "peaq": "PEAQ",
-      "binance-smart-chain": "0x8b9ee39195ea99d6ddd68030f44131116bc218f6"
+      "peaq": "PEAQ"
     }
   },
   {
@@ -147534,7 +147544,9 @@
     "symbol": "wpeaq",
     "name": "Wrapped Peaq",
     "platforms": {
-      "peaq": "0x3cd66d2e1fac1751b0a20bebf6ca4c9699bb12d7"
+      "peaq": "0x3cd66d2e1fac1751b0a20bebf6ca4c9699bb12d7",
+      "binance-smart-chain": "0x8b9ee39195ea99d6ddd68030f44131116bc218f6",
+      "ethereum": "0x1eef208926667594e5136e89d0e9dd6907959197"
     }
   },
   {

@@ -4,16 +4,8 @@
   "keywords": [
     "defi"
   ],
-  "timestamp": "2025-09-10T10:01:29.017+00:00",
+  "timestamp": "2025-09-12T12:01:27.393+00:00",
   "tokens": [
-    {
-      "chainId": 5000,
-      "address": "0x201eba5cc46d216ce6dc03f6a759e8e766e956ae",
-      "name": "Mantle Bridged USDT  Mantle ",
-      "symbol": "USDT",
-      "decimals": 6,
-      "logoURI": "https://assets.coingecko.com/coins/images/35069/thumb/logo.png?1707291114"
-    },
     {
       "chainId": 5000,
       "address": "0x671642ac281c760e34251d51bc9eef27026f3b7a",
@@ -24,11 +16,11 @@
     },
     {
       "chainId": 5000,
-      "address": "0x26a6b0dcdcfb981362afa56d581e4a7dba3be140",
-      "name": "Puff The Dragon",
-      "symbol": "PUFF",
+      "address": "0x4515a45337f461a11ff0fe8abf3c606ae5dc00c9",
+      "name": "MOE",
+      "symbol": "MOE",
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/35950/thumb/photo_2024-03-11_10.18.27.jpeg?1710240090"
+      "logoURI": "https://assets.coingecko.com/coins/images/34422/thumb/MOE.png?1704821927"
     },
     {
       "chainId": 5000,
@@ -37,14 +29,6 @@
       "symbol": "WSTETH",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/53101/thumb/mantle-bridged-wsteth-mantle.webp?1735227057"
-    },
-    {
-      "chainId": 5000,
-      "address": "0x4515a45337f461a11ff0fe8abf3c606ae5dc00c9",
-      "name": "MOE",
-      "symbol": "MOE",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/34422/thumb/MOE.png?1704821927"
     },
     {
       "chainId": 5000,
@@ -64,11 +48,27 @@
     },
     {
       "chainId": 5000,
+      "address": "0x201eba5cc46d216ce6dc03f6a759e8e766e956ae",
+      "name": "Mantle Bridged USDT  Mantle ",
+      "symbol": "USDT",
+      "decimals": 6,
+      "logoURI": "https://assets.coingecko.com/coins/images/35069/thumb/logo.png?1707291114"
+    },
+    {
+      "chainId": 5000,
       "address": "0x51cfe5b1e764dc253f4c8c1f19a081ff4c3517ed",
       "name": "Mantle Inu",
       "symbol": "MINU",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/31014/thumb/mantle-inu.jpeg?1696529851"
+    },
+    {
+      "chainId": 5000,
+      "address": "0x26a6b0dcdcfb981362afa56d581e4a7dba3be140",
+      "name": "Puff The Dragon",
+      "symbol": "PUFF",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/35950/thumb/photo_2024-03-11_10.18.27.jpeg?1710240090"
     },
     {
       "chainId": 5000,
@@ -212,6 +212,14 @@
       "symbol": "USDA",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/51599/thumb/SUSDA.png?1731604761"
+    },
+    {
+      "chainId": 5000,
+      "address": "0x3d142cdb27b537af57a55ee8f54ada953b4b9ecd",
+      "name": "DeBox",
+      "symbol": "BOX",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/50224/thumb/v6TSd2dN_400x400.jpg?1726521525"
     },
     {
       "chainId": 5000,
@@ -384,7 +392,7 @@
   ],
   "version": {
     "major": 18,
-    "minor": 2,
+    "minor": 3,
     "patch": 0
   }
 }
