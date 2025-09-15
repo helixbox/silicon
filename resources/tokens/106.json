@@ -4,16 +4,8 @@
   "keywords": [
     "defi"
   ],
-  "timestamp": "2025-06-24T10:00:10.080+00:00",
+  "timestamp": "2025-09-15T09:00:08.513+00:00",
   "tokens": [
-    {
-      "chainId": 106,
-      "address": "0xc579d1f3cf86749e05cd06f7ade17856c2ce3126",
-      "name": "Wrapped Velas",
-      "symbol": "WVLX",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/23900/thumb/AJADWZpI_400x400.png?1696523100"
-    },
     {
       "chainId": 106,
       "address": "0xe3f5a90f9cb311505cd691a46596599aa1a0ad7d",
@@ -21,6 +13,14 @@
       "symbol": "DAI",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/39809/thumb/dai.png?1724128089"
+    },
+    {
+      "chainId": 106,
+      "address": "0xc579d1f3cf86749e05cd06f7ade17856c2ce3126",
+      "name": "Wrapped Velas",
+      "symbol": "WVLX",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/23900/thumb/AJADWZpI_400x400.png?1696523100"
     },
     {
       "chainId": 106,
@@ -112,14 +112,6 @@
     },
     {
       "chainId": 106,
-      "address": "0x3557371afed82dd683de278924bd0e1a790a3c49",
-      "name": "Staked VLX",
-      "symbol": "STVLX",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/34843/thumb/stvlx.png?1706699502"
-    },
-    {
-      "chainId": 106,
       "address": "0x65e66a61d0a8f1e686c2d6083ad611a10d84d97a",
       "name": "Bridged WBNB",
       "symbol": "WBNB",
@@ -143,7 +135,7 @@
     }
   ],
   "version": {
-    "major": 1,
+    "major": 2,
     "minor": 0,
     "patch": 0
   }
