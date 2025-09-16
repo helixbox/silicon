@@ -140,7 +140,7 @@
     "symbol": "0xy",
     "name": "0xy",
     "platforms": {
-      "solana": "HELPAAkTAeKdoCiJXBYCrbMfdjFH2h1XcwjtXJzPANgY"
+      "solana": "oxynABVJXUEc9PLNx4m1XVdiFtRhStzRXG1G6qosni1"
     }
   },
   {
@@ -13723,6 +13723,14 @@
     }
   },
   {
+    "id": "bald-2",
+    "symbol": "bald",
+    "name": "BALD",
+    "platforms": {
+      "base": "0xfe20c1b85aba875ea8cecac8200bf86971968f3a"
+    }
+  },
+  {
     "id": "bald-eagle",
     "symbol": "eagle",
     "name": "Bald Eagle",
@@ -25650,6 +25658,14 @@
     "name": "Callisto Bridged WBNB (Callisto)",
     "platforms": {
       "callisto": "0xccde29903e621ca12df33bb0ad9d1add7261ace9"
+    }
+  },
+  {
+    "id": "call-of-degens",
+    "symbol": "cod",
+    "name": "Call Of Degens",
+    "platforms": {
+      "solana": "Cod7wUkjhcwcgbsRMAT6dJuqJGK3U936LMLrNQF1z7ht"
     }
   },
   {
@@ -43153,7 +43169,7 @@
     "symbol": "doodi",
     "name": "DOODiPALS",
     "platforms": {
-      "binance-smart-chain": "0xc468acf451922712cf45af9801df89578b0418b4"
+      "solana": "3iCJnnDYFT4RrPs7vMzw21sfVfy4br1xWmJioz7FGJUR"
     }
   },
   {
@@ -44516,7 +44532,7 @@
     "symbol": "dmt",
     "name": "Duelmasters",
     "platforms": {
-      "solana": "CtFnrB2oMvWB6K9g2VxAtzdr6Xthk82jf4kmHpuxpJn"
+      "solana": "GP4kcMkX3j3aDSAjoYUPqSSBRYS91cmL6ULYhFzpump"
     }
   },
   {
@@ -48576,7 +48592,7 @@
       "polygon-pos": "0xa0769f7a8fc65e47de93797b4e21c073c117fc80",
       "arbitrum-one": "0xcbeb19549054cc0a6257a77736fc78c367216ce7",
       "etherlink": "0xa0769f7a8fc65e47de93797b4e21c073c117fc80",
-      "base": "0xa260d72df8ff2696f3a8d0be46b7bc4d743be764"
+      "base": "0xa0769f7a8fc65e47de93797b4e21c073c117fc80"
     }
   },
   {
@@ -77900,6 +77916,14 @@
     }
   },
   {
+    "id": "live-on-treadmill-till-100mill",
+    "symbol": "runner",
+    "name": "live on treadmill till 100mill",
+    "platforms": {
+      "solana": "FyB8VxxYAaVVchAgbB1kvjWdw26ovaD4ipwV1j8epump"
+    }
+  },
+  {
     "id": "livepeer",
     "symbol": "lpt",
     "name": "Livepeer",
@@ -78347,7 +78371,7 @@
   {
     "id": "lombard-protocol",
     "symbol": "bard",
-    "name": "Lombard Protocol",
+    "name": "Lombard",
     "platforms": {
       "ethereum": "0xf0db65d17e30a966c2ae6a21f6bba71cea6e9754"
     }
@@ -80726,6 +80750,12 @@
     "platforms": {
       "fantom": "0xfb98b335551a418cd0737375a2ea0ded62ea213b"
     }
+  },
+  {
+    "id": "maiga",
+    "symbol": "maiga",
+    "name": "Maiga",
+    "platforms": {}
   },
   {
     "id": "mai-kava",
@@ -98070,6 +98100,14 @@
     "name": "OSCAR",
     "platforms": {
       "ethereum": "0xebb66a88cedd12bfe3a289df6dfee377f2963f12"
+    }
+  },
+  {
+    "id": "oscar-2",
+    "symbol": "gopro cat",
+    "name": "OSCAR",
+    "platforms": {
+      "solana": "JCXMR4uW9aGDgqEvzSJcZ88iCtsm8MM2tQqk7P4Ppump"
     }
   },
   {
@@ -126273,6 +126311,14 @@
     }
   },
   {
+    "id": "stream-szn",
+    "symbol": "strszn",
+    "name": "Stream SZN",
+    "platforms": {
+      "solana": "986j8mhmidrcbx3wf1XJxsQFvWBMXg7gnDi3mejsr8H8"
+    }
+  },
+  {
     "id": "stream-until-100m-mc",
     "symbol": "live",
     "name": "Stream until 100M MC",
@@ -139999,7 +140045,12 @@
     "id": "velora",
     "symbol": "vlr",
     "name": "Velora",
-    "platforms": {}
+    "platforms": {
+      "ethereum": "0x4e107a0000db66f0e9fd2039288bf811dd1f9c74",
+      "binance-smart-chain": "0x4e107a0000db66f0e9fd2039288bf811dd1f9c74",
+      "base": "0x4e107a0000db66f0e9fd2039288bf811dd1f9c74",
+      "optimistic-ethereum": "0x4e107a0000db66f0e9fd2039288bf811dd1f9c74"
+    }
   },
   {
     "id": "velorex",
@@ -149124,6 +149175,14 @@
     "platforms": {
       "solana": "69G8CpUVZAxbPMiEBrfCCCH445NwFxH6PzVL693Xpump",
       "ethereum": "0x69b1ac639c0153b8eae75e4c19a176d07071683c"
+    }
+  },
+  {
+    "id": "xbanana",
+    "symbol": "xbanana",
+    "name": "XBANANA",
+    "platforms": {
+      "x-layer": "0xc6200e4555948c5c6395b255a64732a672f647cd"
     }
   },
   {
