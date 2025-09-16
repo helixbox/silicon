@@ -4,7 +4,7 @@
   "keywords": [
     "defi"
   ],
-  "timestamp": "2025-09-16T09:02:27.512+00:00",
+  "timestamp": "2025-09-16T13:02:32.049+00:00",
   "tokens": [
     {
       "chainId": 1,
@@ -6814,6 +6814,14 @@
     },
     {
       "chainId": 1,
+      "address": "0x4e107a0000db66f0e9fd2039288bf811dd1f9c74",
+      "name": "Velora",
+      "symbol": "VLR",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/55593/thumb/PNG_Round.png?1746809175"
+    },
+    {
+      "chainId": 1,
       "address": "0xa6586e19ef681b1ac0ed3d46413d199a555dbb95",
       "name": "Lets Go Brandon",
       "symbol": "LETSGO",
@@ -9120,14 +9128,6 @@
       "symbol": "MYRIA",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/29273/thumb/myria.png?1696528226"
-    },
-    {
-      "chainId": 1,
-      "address": "0x8442e0e292186854bb6875b2a0fc1308b9ded793",
-      "name": "Print The Pepe",
-      "symbol": "PP",
-      "decimals": 9,
-      "logoURI": "https://assets.coingecko.com/coins/images/29964/thumb/printthepepe.PNG?1696528890"
     },
     {
       "chainId": 1,
@@ -13519,14 +13519,6 @@
       "symbol": "IM",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/28930/thumb/IM_Circle_200.png?1696527905"
-    },
-    {
-      "chainId": 1,
-      "address": "0x2a8c22e3b10036f3aef5875d04f8441d4188b656",
-      "name": "Midas mBASIS",
-      "symbol": "MBASIS",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/50593/thumb/mBASIS_logo.png?1728444389"
     },
     {
       "chainId": 1,
@@ -27128,14 +27120,6 @@
     },
     {
       "chainId": 1,
-      "address": "0xbb51e2a15a9158ebe2b0ceb8678511e063ab7a55",
-      "name": "Midas mEDGE",
-      "symbol": "MEDGE",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/54591/thumb/medge_logo.png?1740565725"
-    },
-    {
-      "chainId": 1,
       "address": "0xf5cfbc74057c610c8ef151a439252680ac68c6dc",
       "name": "Omnity Convertible Token",
       "symbol": "OCT",
@@ -29160,14 +29144,6 @@
     },
     {
       "chainId": 1,
-      "address": "0xf0db65d17e30a966c2ae6a21f6bba71cea6e9754",
-      "name": "Lombard Protocol",
-      "symbol": "BARD",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/68404/thumb/bard.png?1755657543"
-    },
-    {
-      "chainId": 1,
       "address": "0xf23114fa21af278fa342d980740cb8b89fc82105",
       "name": "Aragon Protocol",
       "symbol": "ARG",
@@ -30707,7 +30683,8 @@
       "address": "0xc50673edb3a7b94e8cad8a7d4e0cd68864e33edf",
       "name": "PunkStrategy",
       "symbol": "PNKSTR",
-      "decimals": 18
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/69249/thumb/PNKSTR.png?1758014976"
     },
     {
       "chainId": 1,
@@ -30724,6 +30701,30 @@
       "symbol": "CZAR",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/52020/thumb/czar.jpg?1737275997"
+    },
+    {
+      "chainId": 1,
+      "address": "0xf0db65d17e30a966c2ae6a21f6bba71cea6e9754",
+      "name": "Lombard",
+      "symbol": "BARD",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/68404/thumb/bard.png?1755657543"
+    },
+    {
+      "chainId": 1,
+      "address": "0xbb51e2a15a9158ebe2b0ceb8678511e063ab7a55",
+      "name": "Midas mEDGE",
+      "symbol": "MEDGE",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/54591/thumb/medge_logo.png?1740565725"
+    },
+    {
+      "chainId": 1,
+      "address": "0x2a8c22e3b10036f3aef5875d04f8441d4188b656",
+      "name": "Midas mBASIS",
+      "symbol": "MBASIS",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/50593/thumb/mBASIS_logo.png?1728444389"
     },
     {
       "chainId": 1,
@@ -43270,8 +43271,8 @@
     }
   ],
   "version": {
-    "major": 1107,
-    "minor": 0,
+    "major": 1108,
+    "minor": 1,
     "patch": 0
   }
 }
