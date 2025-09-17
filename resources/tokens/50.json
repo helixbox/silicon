@@ -4,7 +4,7 @@
   "keywords": [
     "defi"
   ],
-  "timestamp": "2025-09-17T16:01:12.210+00:00",
+  "timestamp": "2025-09-17T17:01:15.120+00:00",
   "tokens": [
     {
       "chainId": 50,
@@ -13,14 +13,6 @@
       "symbol": "XTT",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/28274/thumb/XTT.png?1696527275"
-    },
-    {
-      "chainId": 50,
-      "address": "0x2a8e898b6242355c290e1f4fc966b8788729a4d4",
-      "name": "Bridged USDC  XDC Bridge ",
-      "symbol": "USDCE",
-      "decimals": 6,
-      "logoURI": "https://assets.coingecko.com/coins/images/55016/thumb/usdc.png?1743167722"
     },
     {
       "chainId": 50,
@@ -77,6 +69,14 @@
       "symbol": "XUSDT",
       "decimals": 6,
       "logoURI": "https://assets.coingecko.com/coins/images/35677/thumb/usdt_%281%29.png?1709523076"
+    },
+    {
+      "chainId": 50,
+      "address": "0x951857744785e80e2de051c32ee7b25f9c458c42",
+      "name": "Wrapped XDC",
+      "symbol": "WXDC",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/28268/thumb/xinfin.jpeg?1696527269"
     },
     {
       "chainId": 50,
@@ -152,11 +152,11 @@
     },
     {
       "chainId": 50,
-      "address": "0x951857744785e80e2de051c32ee7b25f9c458c42",
-      "name": "Wrapped XDC",
-      "symbol": "WXDC",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/28268/thumb/xinfin.jpeg?1696527269"
+      "address": "0x2a8e898b6242355c290e1f4fc966b8788729a4d4",
+      "name": "Bridged USDC  XDC Bridge ",
+      "symbol": "USDCE",
+      "decimals": 6,
+      "logoURI": "https://assets.coingecko.com/coins/images/55016/thumb/usdc.png?1743167722"
     },
     {
       "chainId": 50,
