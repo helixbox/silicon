@@ -53220,23 +53220,18 @@
     }
   },
   {
-    "id": "franklin-onchain-u-s-government-money-fund",
-    "symbol": "benji",
-    "name": "Franklin OnChain U.S. Government Money Fund",
-    "platforms": {
-      "stellar": "BENJI-GBHNGLLIE3KWGKCHIKMHJ5HVZHYIK7WTBE4QF5PLAKL4CJGSEU7HZIW5",
-      "polygon-pos": "0x408a634b8a8f0de729b48574a3a7ec3fe820b00a",
-      "arbitrum-one": "0xb9e4765bce2609bc1949592059b17ea72fee6c6a",
-      "avalanche": "0xe08b4c1005603427420e64252a8b120cace4d122",
-      "base": "0x60cfc2b186a4cf647486e42c42b11cc6d571d1e4"
-    }
-  },
-  {
     "id": "franklin-templeton-benji",
     "symbol": "benji",
     "name": "Franklin Templeton BENJI",
     "platforms": {
-      "ethereum": "0x3ddc84940ab509c11b20b76b466933f40b750dc9"
+      "ethereum": "0x3ddc84940ab509c11b20b76b466933f40b750dc9",
+      "stellar": "BENJI-GBHNGLLIE3KWGKCHIKMHJ5HVZHYIK7WTBE4QF5PLAKL4CJGSEU7HZIW5",
+      "arbitrum-one": "0xb9e4765bce2609bc1949592059b17ea72fee6c6a",
+      "base": "0x60cfc2b186a4cf647486e42c42b11cc6d571d1e4",
+      "avalanche": "0xe08b4c1005603427420e64252a8b120cace4d122",
+      "polygon-pos": "0x408a634b8a8f0de729b48574a3a7ec3fe820b00a",
+      "aptos": "0x4705f33d665762a5371d3b8786e63749814e749295ea73269b379c84b756d83a",
+      "solana": "5Tu84fKBpe9vfXeotjvfvWdWbAjy3hqsExvuHgFqFxA1"
     }
   },
   {
@@ -130846,6 +130841,16 @@
     }
   },
   {
+    "id": "testbug",
+    "symbol": "testbug",
+    "name": "testbug",
+    "platforms": {
+      "duckchain": "0x84f8c3c8d6ee30a559d73ec570d574f671e82647",
+      "factom": "0xea669fb63809a2e71e5079e1c0536e8b6fecb92169fd9f95f3a0f524f4e0b5ce",
+      "celestia": "0xea669fb63809a2e71e5079e1c0536e8b6fecb92169fd9f95f3a0f524f4e0b5ce"
+    }
+  },
+  {
     "id": "test-token-please-ignore",
     "symbol": "test",
     "name": "test token please ignore",
@@ -148232,6 +148237,14 @@
     "name": "Wrapped Palmeiras (Kayen)",
     "platforms": {
       "chiliz": "0x6db3eca64dc5b789a70571bd81332864ba327a56"
+    }
+  },
+  {
+    "id": "wrapped-parasail-staked-peaq",
+    "symbol": "wstpeaq",
+    "name": "Wrapped Parasail Staked PEAQ",
+    "platforms": {
+      "peaq": "0xe5330a9fba99504c534127d39727729899c9a506"
     }
   },
   {
