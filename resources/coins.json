@@ -3965,8 +3965,11 @@
   {
     "id": "aia",
     "symbol": "aia",
-    "name": "AIA",
-    "platforms": {}
+    "name": "DeAgentAI",
+    "platforms": {
+      "sui": "0x8b449b4dc0f8c5f996734eaf23d36a5f6724e02e312a7e4af34bd0bb74de7b17::deagent_token::DEAGENT_TOKEN",
+      "binance-smart-chain": "0x48a18a4782b65a0fbed4dca608bb28038b7be339"
+    }
   },
   {
     "id": "ai-agent-factory",
@@ -6329,6 +6332,14 @@
     "name": "AlphaNova",
     "platforms": {
       "ethereum": "0x209a78d23f825950a5df4d6d21288e5212b44f2c"
+    }
+  },
+  {
+    "id": "alpha-pay",
+    "symbol": "alpay",
+    "name": "Alpha Pay",
+    "platforms": {
+      "solana": "Dst1UGBW312B8FbxWuxyPjZ82ALrLvRq4zzS8MnMpump"
     }
   },
   {
@@ -10292,7 +10303,7 @@
   },
   {
     "id": "astra-nova",
-    "symbol": "$rvv",
+    "symbol": "rvv",
     "name": "Astra Nova",
     "platforms": {}
   },
@@ -18520,6 +18531,14 @@
     "name": "BitEqual",
     "platforms": {
       "binance-smart-chain": "0x59338a639ec0c8489995258a5052e5c42bfabe9a"
+    }
+  },
+  {
+    "id": "bitfi-bitcoin",
+    "symbol": "bfbtc",
+    "name": "BitFi Bitcoin",
+    "platforms": {
+      "solana": "DR5cCdABB5sZjyVF7i3mestghxGzvHawQk35sP9QFNjf"
     }
   },
   {
@@ -30450,6 +30469,14 @@
     "platforms": {}
   },
   {
+    "id": "clones",
+    "symbol": "clones",
+    "name": "CLONES",
+    "platforms": {
+      "base": "0xaadd98ad4660008c917c6fe7286bc54b2eef894d"
+    }
+  },
+  {
     "id": "clonex-ai",
     "symbol": "clx",
     "name": "CloneX AI",
@@ -39802,6 +39829,14 @@
     }
   },
   {
+    "id": "dill",
+    "symbol": "dl",
+    "name": "Dill",
+    "platforms": {
+      "binance-smart-chain": "0xcd806d0eb9465020994c9e977cbe34fe430172ae"
+    }
+  },
+  {
     "id": "dilly",
     "symbol": "dilly",
     "name": "Dilly",
@@ -41159,6 +41194,14 @@
     "name": "Divergence Protocol",
     "platforms": {
       "ethereum": "0xfb782396c9b20e564a64896181c7ac8d8979d5f4"
+    }
+  },
+  {
+    "id": "diversifi-2",
+    "symbol": "defi",
+    "name": "DiversiFi",
+    "platforms": {
+      "ethereum": "0x90ba94f4e64e327c444d7ac7f1056ead4ea6fd98"
     }
   },
   {
@@ -60206,6 +60249,12 @@
     }
   },
   {
+    "id": "gteth",
+    "symbol": "gteth",
+    "name": "GTETH",
+    "platforms": {}
+  },
+  {
     "id": "g-token",
     "symbol": "g",
     "name": "Gravity (by Galxe)",
@@ -69900,6 +69949,12 @@
     }
   },
   {
+    "id": "jojoworld",
+    "symbol": "jojo",
+    "name": "JojoWorld",
+    "platforms": {}
+  },
+  {
     "id": "joke",
     "symbol": "joke",
     "name": "JOKE",
@@ -73629,6 +73684,14 @@
     "name": "Kontos",
     "platforms": {
       "base": "0xd173c2c9386aee88b1ca06522c951be67cbf38cc"
+    }
+  },
+  {
+    "id": "kook",
+    "symbol": "kook",
+    "name": "kook",
+    "platforms": {
+      "solana": "AhP7ojZMRMMcmxwr6S1UubGWagFbDuU36tTj7ZYypump"
     }
   },
   {
@@ -85747,6 +85810,14 @@
     "platforms": {
       "ethereum": "0x87c9053c819bb28e0d73d33059e1b3da80afb0cf",
       "etherlink": "0x733d504435a49fc8c4e9759e756c2846c92f0160"
+    }
+  },
+  {
+    "id": "midas-msyrupusdp",
+    "symbol": "msyrupusdp",
+    "name": "Midas msyrupUSDp",
+    "platforms": {
+      "ethereum": "0x2fe058ccf29f123f9dd2aec0418aa66a877d8e50"
     }
   },
   {
@@ -150204,6 +150275,14 @@
     "name": "xMoney",
     "platforms": {
       "sui": "0x97c7571f4406cdd7a95f3027075ab80d3e9c937c2a567690d31e14ab1872ccee"
+    }
+  },
+  {
+    "id": "xmoney-3",
+    "symbol": "xmoney",
+    "name": "XMONEY",
+    "platforms": {
+      "x-layer": "0xf7c868cc4fa5a7300c399c62d891e3dfce440556"
     }
   },
   {

@@ -4,8 +4,16 @@
   "keywords": [
     "defi"
   ],
-  "timestamp": "2025-09-18T05:00:38.772+00:00",
+  "timestamp": "2025-09-18T11:00:39.642+00:00",
   "tokens": [
+    {
+      "chainId": 6900,
+      "address": "0x0cacf669f8446beca826913a3c6b96acd4b02a97",
+      "name": "Wrapped Nibiru",
+      "symbol": "WNIBI",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/69317/thumb/nibiru.png?1758186683"
+    },
     {
       "chainId": 6900,
       "address": "tf/nibi1vetfuua65frvf6f458xgtjerf0ra7wwjykrdpuyn0jur5x07awxsfka0ga/axv",
@@ -13,11 +21,19 @@
       "symbol": "AXV",
       "decimals": 6,
       "logoURI": "https://assets.coingecko.com/coins/images/35427/thumb/logo-axv.png?1708722295"
+    },
+    {
+      "chainId": 6900,
+      "address": "0x0829f361a05d993d5ceb035ca6df3446b060970b",
+      "name": "Stargate Bridged USDC",
+      "symbol": "USDCE",
+      "decimals": 6,
+      "logoURI": "https://assets.coingecko.com/coins/images/69316/thumb/usdc.jpg?1758186473"
     }
   ],
   "version": {
     "major": 0,
-    "minor": 0,
+    "minor": 1,
     "patch": 0
   }
 }
