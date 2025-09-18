@@ -10428,8 +10428,8 @@
     "name": "Astrovault",
     "platforms": {
       "archway": "archway1ecjefhcf8r60wtfnhwefrxhj9caeqa90fj58cqsaafqveawn6cjs5znd2n",
-      "neutron": "neutron10dxyft3nv4vpxh5vrpn0xw8geej8dw3g39g7nqp8mrm307ypssksau29af",
-      "nibiru": "tf/nibi1vetfuua65frvf6f458xgtjerf0ra7wwjykrdpuyn0jur5x07awxsfka0ga/axv"
+      "nibiru": "tf/nibi1vetfuua65frvf6f458xgtjerf0ra7wwjykrdpuyn0jur5x07awxsfka0ga/axv",
+      "neutron": "neutron10dxyft3nv4vpxh5vrpn0xw8geej8dw3g39g7nqp8mrm307ypssksau29af"
     }
   },
   {
@@ -30826,8 +30826,8 @@
   },
   {
     "id": "cockmillions",
-    "symbol": "cock cto",
-    "name": "CockMillions",
+    "symbol": "cock",
+    "name": "COCK",
     "platforms": {
       "solana": "DNeC4WPqdjcptsx39nfM4bkpQ1zeccAD4XLpPBP1pump"
     }
@@ -36864,6 +36864,7 @@
     "name": "Daydreams",
     "platforms": {
       "solana": "GMzuntWYJLpNuCizrSR7ZXggiMdDzTNiEmSNHHunpump",
+      "base": "0x176383016bb310c9f1c180dc6729d5e28104e602",
       "starknet": "0x04fcaf2a7b4a072fe57c59beee807322d34ed65000d78611c909a46fead07fb1"
     }
   },
@@ -48548,6 +48549,14 @@
     "name": "Euphoria",
     "platforms": {
       "ethereum": "0xa61d1b0b5f3c1bfe7f7ccd42f0f48012592a2952"
+    }
+  },
+  {
+    "id": "eureka-bridged-wbtc-terra",
+    "symbol": "wbtc",
+    "name": "Eureka Bridged WBTC (Terra)",
+    "platforms": {
+      "terra-2": "ibc/88386AC48152D48B34B082648DF836F975506F0B57DBBFC10A54213B1BF484CB"
     }
   },
   {
@@ -86869,7 +86878,9 @@
     "id": "mixin",
     "symbol": "xin",
     "name": "Mixin",
-    "platforms": {}
+    "platforms": {
+      "solana": "4s4H5v4TXpmS4Ss66nxcCLgxrU5nunuwtkQceinZfGuw"
+    }
   },
   {
     "id": "mixmarvel",
@@ -123666,7 +123677,9 @@
     "id": "sprotostrategy",
     "symbol": "sprstr",
     "name": "SprotoStrategy",
-    "platforms": {}
+    "platforms": {
+      "ethereum": "0x2e0e7dd22ad56705237a59759918e20267b111f2"
+    }
   },
   {
     "id": "spud",
@@ -138227,7 +138240,8 @@
     "name": "Unstable Coin",
     "platforms": {
       "solana": "CB9dDufT3ZuQXqqSfa1c5kY935TEreyBw9XJXxHKpump",
-      "ethereum": "0xecedb6f8108b9f7bbf499da843dced6c2bb6e270"
+      "ethereum": "0xecedb6f8108b9f7bbf499da843dced6c2bb6e270",
+      "base": "0xecedb6f8108b9f7bbf499da843dced6c2bb6e270"
     }
   },
   {
