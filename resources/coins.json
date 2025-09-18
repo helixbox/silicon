@@ -8205,14 +8205,6 @@
     }
   },
   {
-    "id": "apicoin",
-    "symbol": "api",
-    "name": "Apicoin",
-    "platforms": {
-      "solana": "HmJ8VR1ugamWJTecfcNpmCG1hviMRWNXp7Pq68fzpump"
-    }
-  },
-  {
     "id": "apillon",
     "symbol": "nctr",
     "name": "Apillon",
@@ -9424,6 +9416,14 @@
     "symbol": "darkk",
     "name": "ARK Innovation ETF Defichain",
     "platforms": {}
+  },
+  {
+    "id": "ark-of-panda",
+    "symbol": "aop",
+    "name": "Ark of Panda",
+    "platforms": {
+      "binance-smart-chain": "0xd5df4d260d7a0145f655bcbf3b398076f21016c7"
+    }
   },
   {
     "id": "arkreen-token",
@@ -36250,14 +36250,6 @@
     "name": "dAppstore",
     "platforms": {
       "ethereum": "0x00d8318e44780edeefcf3020a5448f636788883c"
-    }
-  },
-  {
-    "id": "dap-the-dapper-dog",
-    "symbol": "dap",
-    "name": "Dap, the Dapper Dog!",
-    "platforms": {
-      "solana": "5SR1u6BQ6nvMh4bknZX7Hf9r7DbZsvf87cFybj6mkTMq"
     }
   },
   {
@@ -78447,7 +78439,8 @@
     "symbol": "bard",
     "name": "Lombard",
     "platforms": {
-      "ethereum": "0xf0db65d17e30a966c2ae6a21f6bba71cea6e9754"
+      "ethereum": "0xf0db65d17e30a966c2ae6a21f6bba71cea6e9754",
+      "binance-smart-chain": "0xd23a186a78c0b3b805505e5f8ea4083295ef9f3a"
     }
   },
   {
@@ -88131,15 +88124,6 @@
       "binance-smart-chain": "0x2290c6bd9560e6498dfdf10f9ecb17997ca131f2",
       "aura-network": "aura10jpl6rz59h6chrpx3edahntqthdmaemrc8eewvxge7e2hhxtltjqc2ucrm",
       "avalanche": "0xe397784960f814ba35c9ee0bc4c9dffdf86925f9"
-    }
-  },
-  {
-    "id": "monsterra-mag",
-    "symbol": "mag",
-    "name": "Monsterra MAG",
-    "platforms": {
-      "binance-smart-chain": "0xd4c73fd18f732bc6ee9fb193d109b2eed815df80",
-      "avalanche": "0x53b22d356f34e977e48921e07381de0f8200b8e6"
     }
   },
   {
@@ -101446,14 +101430,6 @@
     }
   },
   {
-    "id": "pepe-treasure",
-    "symbol": "pepetr",
-    "name": "Pepe Treasure",
-    "platforms": {
-      "ethereum": "0xffb032d971469fd358f11a4192c4e0b852df5190"
-    }
-  },
-  {
     "id": "pepe-trump",
     "symbol": "ptrump",
     "name": "Pepe Trump",
@@ -104112,14 +104088,6 @@
     "name": "Points",
     "platforms": {
       "ethereum": "0xd7c1eb0fe4a30d3b2a846c04aa6300888f087a5f"
-    }
-  },
-  {
-    "id": "points-on-solana",
-    "symbol": "points",
-    "name": "Points on Solana",
-    "platforms": {
-      "solana": "9cX8hMxZ2vW7pxYEPf2G5UHrcmMx83iTgGcxwwRKdarq"
     }
   },
   {
@@ -112276,6 +112244,12 @@
       "arbitrum-one": "0x083fb956333f9c1568f66fc0d0be451f31f8c46c",
       "solana": "93bVs9o8Nq88zxnLWwUAVfN5PXBhCcnV5sfs6AFLno8q"
     }
+  },
+  {
+    "id": "river",
+    "symbol": "river",
+    "name": "River",
+    "platforms": {}
   },
   {
     "id": "riverboat",
@@ -124927,12 +124901,19 @@
     }
   },
   {
+    "id": "stargate-bridged-usdc",
+    "symbol": "usdc.e",
+    "name": "Stargate Bridged USDC",
+    "platforms": {
+      "abstract": "0x84a71ccd554cc1b02749b35d22f684cc8ec987e1",
+      "nibiru": "0x0829f361a05d993d5ceb035ca6df3446b060970b"
+    }
+  },
+  {
     "id": "stargate-bridged-usdc-abstract",
     "symbol": "usdc.e",
     "name": "Stargate Bridged USDC (Abstract)",
-    "platforms": {
-      "abstract": "0x84a71ccd554cc1b02749b35d22f684cc8ec987e1"
-    }
+    "platforms": {}
   },
   {
     "id": "stargate-bridged-usdc-berachain",
@@ -130838,16 +130819,6 @@
     "name": "Test",
     "platforms": {
       "binance-smart-chain": "0x86bb94ddd16efc8bc58e6b056e8df71d9e666429"
-    }
-  },
-  {
-    "id": "testbug",
-    "symbol": "testbug",
-    "name": "testbug",
-    "platforms": {
-      "duckchain": "0x84f8c3c8d6ee30a559d73ec570d574f671e82647",
-      "factom": "0xea669fb63809a2e71e5079e1c0536e8b6fecb92169fd9f95f3a0f524f4e0b5ce",
-      "celestia": "0xea669fb63809a2e71e5079e1c0536e8b6fecb92169fd9f95f3a0f524f4e0b5ce"
     }
   },
   {
@@ -148109,6 +148080,14 @@
     }
   },
   {
+    "id": "wrapped-nibiru",
+    "symbol": "wnibi",
+    "name": "Wrapped Nibiru",
+    "platforms": {
+      "nibiru": "0x0cacf669f8446beca826913a3c6b96acd4b02a97"
+    }
+  },
+  {
     "id": "wrapped-novara-calcio-kayen",
     "symbol": "wnov",
     "name": "Wrapped Novara Calcio (Kayen)",
@@ -149847,14 +149826,6 @@
     "name": "Xenopus laevis",
     "platforms": {
       "solana": "Db7ZUaWTThwZy7bVhjn5Dda8D3fbbAhihcxPV4m9pump"
-    }
-  },
-  {
-    "id": "xeno-token",
-    "symbol": "xno",
-    "name": "Xeno",
-    "platforms": {
-      "ethereum": "0x05bbe7240de66f6480c9aeda77c1376b13393f83"
     }
   },
   {
