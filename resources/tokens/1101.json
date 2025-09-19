@@ -4,23 +4,15 @@
   "keywords": [
     "defi"
   ],
-  "timestamp": "2025-08-29T10:00:21.387+00:00",
+  "timestamp": "2025-09-19T18:00:24.213+00:00",
   "tokens": [
     {
       "chainId": 1101,
-      "address": "0xa8ce8aee21bc2a48a5ef670afcc9274c7bbbc035",
-      "name": "Polygon Hermez Bridged USDC  Polygon zk",
-      "symbol": "USDC",
-      "decimals": 6,
-      "logoURI": "https://assets.coingecko.com/coins/images/35263/thumb/USDC_Icon.png?1708009475"
-    },
-    {
-      "chainId": 1101,
-      "address": "0x4f9a0e7fd2bf6067db6994cf12e4495df938e6e9",
-      "name": "Polygon Hermez Bridged WETH  Polygon zk",
-      "symbol": "WETH",
+      "address": "0xcfde7c43edb3c9f71331aac1003b099ce40c94ea",
+      "name": "GIFT",
+      "symbol": "GIFT",
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/39698/thumb/weth.png?1723671580"
+      "logoURI": "https://assets.coingecko.com/coins/images/69356/thumb/GIFT-icon.png?1758304581"
     },
     {
       "chainId": 1101,
@@ -32,14 +24,6 @@
     },
     {
       "chainId": 1101,
-      "address": "0x6a92b1e99de09f71cd96bc91f934826d96b8b26e",
-      "name": "AKAS",
-      "symbol": "AS",
-      "decimals": 9,
-      "logoURI": "https://assets.coingecko.com/coins/images/67909/thumb/AKAS-Logo.png?1754282426"
-    },
-    {
-      "chainId": 1101,
       "address": "0xc5015b9d9161dca7e18e32f6f25c4ad850731fd4",
       "name": "Polygon zkEVM Bridged DAI  Polygon zkEV",
       "symbol": "DAI",
@@ -48,11 +32,35 @@
     },
     {
       "chainId": 1101,
+      "address": "0x4f9a0e7fd2bf6067db6994cf12e4495df938e6e9",
+      "name": "Polygon Hermez Bridged WETH  Polygon zk",
+      "symbol": "WETH",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/39698/thumb/weth.png?1723671580"
+    },
+    {
+      "chainId": 1101,
+      "address": "0x6a92b1e99de09f71cd96bc91f934826d96b8b26e",
+      "name": "AKAS",
+      "symbol": "AS",
+      "decimals": 9,
+      "logoURI": "https://assets.coingecko.com/coins/images/67909/thumb/AKAS-Logo.png?1754282426"
+    },
+    {
+      "chainId": 1101,
       "address": "0x1e4a5963abfd975d8c9021ce480b42188849d41d",
       "name": "Polygon Hermez Bridged USDT  Polygon zk",
       "symbol": "USDT",
       "decimals": 6,
       "logoURI": "https://assets.coingecko.com/coins/images/35143/thumb/usdt_logo.png?1707467554"
+    },
+    {
+      "chainId": 1101,
+      "address": "0xa8ce8aee21bc2a48a5ef670afcc9274c7bbbc035",
+      "name": "Polygon Hermez Bridged USDC  Polygon zk",
+      "symbol": "USDC",
+      "decimals": 6,
+      "logoURI": "https://assets.coingecko.com/coins/images/35263/thumb/USDC_Icon.png?1708009475"
     },
     {
       "chainId": 1101,
@@ -225,7 +233,7 @@
   ],
   "version": {
     "major": 5,
-    "minor": 2,
+    "minor": 3,
     "patch": 0
   }
 }
