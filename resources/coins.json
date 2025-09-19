@@ -44996,12 +44996,6 @@
     }
   },
   {
-    "id": "dynasty-coin",
-    "symbol": "dny",
-    "name": "Dynasty Coin",
-    "platforms": {}
-  },
-  {
     "id": "dynex",
     "symbol": "dnx",
     "name": "Dynex",
@@ -51376,14 +51370,6 @@
     "name": "FISCO Coin",
     "platforms": {
       "ethereum": "0x0789dbae94fb18e5789b8e4489bcb7a1adb58622"
-    }
-  },
-  {
-    "id": "fish-cat",
-    "symbol": "fat",
-    "name": "Fish Cat",
-    "platforms": {
-      "sui": "0xfa880b0cc0e21ee1b7a113b4d9e2d135ef9976cdbcd5da761a067a75ac0cd776::fat::FAT"
     }
   },
   {
@@ -60223,14 +60209,6 @@
     "name": "Grow",
     "platforms": {
       "abstract": "0xb4cf92868a1cd4115524014d6f1fc480bfe9abf5"
-    }
-  },
-  {
-    "id": "growsol",
-    "symbol": "grw",
-    "name": "GrowSol",
-    "platforms": {
-      "solana": "FPymkKgpg1sLFbVao4JMk4ip8xb8C8uKqfMdARMobHaw"
     }
   },
   {
@@ -75209,14 +75187,6 @@
     }
   },
   {
-    "id": "larissa-bridged-usdt-larissa",
-    "symbol": "usdt",
-    "name": "Larissa Bridged USDT (Larissa)",
-    "platforms": {
-      "larissa": "0x13c378660cdda2afccea093f5e0743d5ec37a822"
-    }
-  },
-  {
     "id": "larix",
     "symbol": "larix",
     "name": "Larix",
@@ -84691,16 +84661,6 @@
     "name": "Meta Games Coin",
     "platforms": {
       "binance-smart-chain": "0xbb73bb2505ac4643d5c0a99c2a1f34b3dfd09d11"
-    }
-  },
-  {
-    "id": "metagaming-guild",
-    "symbol": "mgg",
-    "name": "MetaGaming Guild",
-    "platforms": {
-      "ethereum": "0x7237c0b30b1355f1b76355582f182f6f04b08740",
-      "binance-smart-chain": "0x6125adcab2f171bc70cfe2caecfec5509273a86a",
-      "fantom": "0xfda8355e8ce22ac44f2d175f4acfec8fac7472d7"
     }
   },
   {
@@ -95010,10 +94970,11 @@
   {
     "id": "nusd",
     "symbol": "susd",
-    "name": "sUSD",
+    "name": "Synthetix sUSD",
     "platforms": {
       "ethereum": "0x57ab1ec28d129707052df4df418d58a2d46d5f51",
       "arbitrum-one": "0xa970af1a584579b618be4d69ad6f73459d112f95",
+      "optimistic-ethereum": "0x8c6f28f2f1a3c87f0f938b96d27520d9751ec8d9",
       "fantom": "0x0e1694483ebb3b74d3054e383840c6cf011e518e"
     }
   },
@@ -103006,14 +102967,6 @@
     "name": "PinkSale",
     "platforms": {
       "binance-smart-chain": "0x602ba546a7b06e0fc7f58fd27eb6996ecc824689"
-    }
-  },
-  {
-    "id": "pinky-orbit",
-    "symbol": "pinko",
-    "name": "Pinky Orbit",
-    "platforms": {
-      "solana": "771xBqKnQ4UGWoY1YRnHZH22vyQ6dhwyn4EBDK452TZd"
     }
   },
   {
@@ -112480,7 +112433,10 @@
     "id": "river",
     "symbol": "river",
     "name": "River",
-    "platforms": {}
+    "platforms": {
+      "ethereum": "0xda7ad9dea9397cffddae2f8a052b82f1484252b3",
+      "binance-smart-chain": "0xda7ad9dea9397cffddae2f8a052b82f1484252b3"
+    }
   },
   {
     "id": "riverboat",
@@ -125175,12 +125131,6 @@
     }
   },
   {
-    "id": "stargate-bridged-usdc-abstract",
-    "symbol": "usdc.e",
-    "name": "Stargate Bridged USDC (Abstract)",
-    "platforms": {}
-  },
-  {
     "id": "stargate-bridged-usdc-berachain",
     "symbol": "usdc.e",
     "name": "Stargate Bridged USDC (Berachain)",
@@ -128336,14 +128286,6 @@
     }
   },
   {
-    "id": "susd-optimism",
-    "symbol": "susd",
-    "name": "sUSD (Optimism)",
-    "platforms": {
-      "optimistic-ethereum": "0x8c6f28f2f1a3c87f0f938b96d27520d9751ec8d9"
-    }
-  },
-  {
     "id": "susds",
     "symbol": "susds",
     "name": "sUSDS",
@@ -131084,16 +131026,6 @@
     "name": "Test",
     "platforms": {
       "binance-smart-chain": "0x86bb94ddd16efc8bc58e6b056e8df71d9e666429"
-    }
-  },
-  {
-    "id": "testbug",
-    "symbol": "testbug",
-    "name": "testbug",
-    "platforms": {
-      "duckchain": "0x84f8c3c8d6ee30a559d73ec570d574f671e82647",
-      "factom": "0xea669fb63809a2e71e5079e1c0536e8b6fecb92169fd9f95f3a0f524f4e0b5ce",
-      "celestia": "0xea669fb63809a2e71e5079e1c0536e8b6fecb92169fd9f95f3a0f524f4e0b5ce"
     }
   },
   {
