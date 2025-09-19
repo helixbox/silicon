@@ -4,8 +4,16 @@
   "keywords": [
     "defi"
   ],
-  "timestamp": "2025-09-18T08:01:34.248+00:00",
+  "timestamp": "2025-09-19T07:01:33.846+00:00",
   "tokens": [
+    {
+      "chainId": 3338,
+      "address": "0x5c3126bfb9a68a7021d461230127470b3824886b",
+      "name": "Silencio",
+      "symbol": "SLC",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/53710/thumb/Logo_Silencio_black_128x128_%281%29.png?1758264368"
+    },
     {
       "chainId": 3338,
       "address": "0xe5330a9fba99504c534127d39727729899c9a506",
@@ -13,14 +21,6 @@
       "symbol": "WSTPEAQ",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/69314/thumb/peaq-token-brand-icon-200x200px.png?1758176145"
-    },
-    {
-      "chainId": 3338,
-      "address": "PEAQ",
-      "name": "peaq",
-      "symbol": "PEAQ",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/51415/thumb/peaq-token-brand-icon_%281%29.png?1731122664"
     },
     {
       "chainId": 3338,
@@ -32,11 +32,11 @@
     },
     {
       "chainId": 3338,
-      "address": "0x5c3126bfb9a68a7021d461230127470b3824886b",
-      "name": "Silencio",
-      "symbol": "SLC",
+      "address": "PEAQ",
+      "name": "peaq",
+      "symbol": "PEAQ",
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/53710/thumb/Logo__Dark_%281%29_%282%29.png?1757490103"
+      "logoURI": "https://assets.coingecko.com/coins/images/51415/thumb/peaq-token-brand-icon_%281%29.png?1731122664"
     },
     {
       "chainId": 3338,
@@ -50,6 +50,6 @@
   "version": {
     "major": 1,
     "minor": 2,
-    "patch": 0
+    "patch": 1
   }
 }
