@@ -4,8 +4,16 @@
   "keywords": [
     "defi"
   ],
-  "timestamp": "2025-09-21T17:01:33.181+00:00",
+  "timestamp": "2025-09-22T09:01:35.428+00:00",
   "tokens": [
+    {
+      "chainId": 3338,
+      "address": "PEAQ",
+      "name": "peaq",
+      "symbol": "PEAQ",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/51415/thumb/peaq-token-brand-icon_%281%29.png?1731122664"
+    },
     {
       "chainId": 3338,
       "address": "0x6c1ca31a9f3a57bb680f82a8fe97fc00ac4aad21",
@@ -13,6 +21,14 @@
       "symbol": "TOPS",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/67519/thumb/IMG_3700.PNG?1754897774"
+    },
+    {
+      "chainId": 3338,
+      "address": "0xe5330a9fba99504c534127d39727729899c9a506",
+      "name": "Wrapped Parasail Staked PEAQ",
+      "symbol": "WSTPEAQ",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/69314/thumb/peaq-token-brand-icon-200x200px.png?1758176145"
     },
     {
       "chainId": 3338,
@@ -32,19 +48,11 @@
     },
     {
       "chainId": 3338,
-      "address": "0xe5330a9fba99504c534127d39727729899c9a506",
-      "name": "Wrapped Parasail Staked PEAQ",
-      "symbol": "WSTPEAQ",
+      "address": "0xee311e67825c22e5c7238546431651686ce91421",
+      "name": "Codec Flow",
+      "symbol": "CODEC",
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/69314/thumb/peaq-token-brand-icon-200x200px.png?1758176145"
-    },
-    {
-      "chainId": 3338,
-      "address": "PEAQ",
-      "name": "peaq",
-      "symbol": "PEAQ",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/51415/thumb/peaq-token-brand-icon_%281%29.png?1731122664"
+      "logoURI": "https://assets.coingecko.com/coins/images/56011/thumb/Mono_circle_black.png?1751697256"
     },
     {
       "chainId": 3338,
@@ -57,7 +65,7 @@
   ],
   "version": {
     "major": 1,
-    "minor": 3,
+    "minor": 4,
     "patch": 0
   }
 }
