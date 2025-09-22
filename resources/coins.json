@@ -65963,6 +65963,14 @@
     }
   },
   {
+    "id": "idle-network",
+    "symbol": "idle",
+    "name": "Idle Network",
+    "platforms": {
+      "base": "0x3a115f568c4b3d0c6e239b2e8f3d4cda3798f536"
+    }
+  },
+  {
     "id": "idle-susd-yield",
     "symbol": "idlesusdyield",
     "name": "IdleSUSD (Yield)",
@@ -110990,6 +110998,14 @@
     }
   },
   {
+    "id": "regret",
+    "symbol": "regret",
+    "name": "Regret",
+    "platforms": {
+      "solana": "DP4omjjY94NRJrECHBZyUQSpGrjtukoDyUbqb9Zzpump"
+    }
+  },
+  {
     "id": "regulareverydaynormalcoin",
     "symbol": "renc",
     "name": "RegularEverydayNormalCoin",
@@ -153758,7 +153774,10 @@
     "id": "zero-gravity",
     "symbol": "0g",
     "name": "0G",
-    "platforms": {}
+    "platforms": {
+      "binance-smart-chain": "0x4b948d64de1f71fcd12fb586f4c776421a35b3ee",
+      "ethereum": "0x4b948d64de1f71fcd12fb586f4c776421a35b3ee"
+    }
   },
   {
     "id": "zerolend",
