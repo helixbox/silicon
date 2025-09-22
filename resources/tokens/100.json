@@ -4,7 +4,7 @@
   "keywords": [
     "defi"
   ],
-  "timestamp": "2025-09-22T10:00:11.007+00:00",
+  "timestamp": "2025-09-22T11:00:11.227+00:00",
   "tokens": [
     {
       "chainId": 100,
@@ -24,11 +24,11 @@
     },
     {
       "chainId": 100,
-      "address": "0xaf204776c7245bf4147c2612bf6e5972ee483701",
-      "name": "Savings xDAI",
-      "symbol": "SDAI",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/32066/thumb/sDAI_Logo_%281%29.png?1696530863"
+      "address": "0xddafbb505ad214d7b80b1f830fccc89b60fb7a83",
+      "name": "Gnosis xDAI Bridged USDC  Gnosis ",
+      "symbol": "USDC",
+      "decimals": 6,
+      "logoURI": "https://assets.coingecko.com/coins/images/35300/thumb/USDC_Icon.png?1708083625"
     },
     {
       "chainId": 100,
@@ -40,11 +40,19 @@
     },
     {
       "chainId": 100,
-      "address": "0xddafbb505ad214d7b80b1f830fccc89b60fb7a83",
-      "name": "Gnosis xDAI Bridged USDC  Gnosis ",
-      "symbol": "USDC",
-      "decimals": 6,
-      "logoURI": "https://assets.coingecko.com/coins/images/35300/thumb/USDC_Icon.png?1708083625"
+      "address": "0x57f664882f762fa37903fc864e2b633d384b411a",
+      "name": "Wrapped Aave Gnosis WETH",
+      "symbol": "WAGNOWETH",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/68210/thumb/eth.jpg?1755082201"
+    },
+    {
+      "chainId": 100,
+      "address": "0x7c16f0185a26db0ae7a9377f23bc18ea7ce5d644",
+      "name": "Wrapped Aave Gnosis GNO",
+      "symbol": "WAGNOGNO",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/68211/thumb/gno.png?1755082329"
     },
     {
       "chainId": 100,
@@ -72,14 +80,6 @@
     },
     {
       "chainId": 100,
-      "address": "0xe91d153e0b41518a2ce8dd3d7944fa863463a97d",
-      "name": "XDAI",
-      "symbol": "XDAI",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/11062/thumb/Identity-Primary-DarkBG.png?1696511004"
-    },
-    {
-      "chainId": 100,
       "address": "0x6c76971f98945ae98dd7d4dfca8711ebea946ea6",
       "name": "Bridged Wrapped stETH  Gnosis ",
       "symbol": "WSTETH",
@@ -93,6 +93,14 @@
       "symbol": "RAID",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/18133/thumb/raid_200_oswlvz.png?1696517636"
+    },
+    {
+      "chainId": 100,
+      "address": "0xe91d153e0b41518a2ce8dd3d7944fa863463a97d",
+      "name": "XDAI",
+      "symbol": "XDAI",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/11062/thumb/Identity-Primary-DarkBG.png?1696511004"
     },
     {
       "chainId": 100,
@@ -120,19 +128,19 @@
     },
     {
       "chainId": 100,
-      "address": "0x57f664882f762fa37903fc864e2b633d384b411a",
-      "name": "Wrapped Aave Gnosis WETH",
-      "symbol": "WAGNOWETH",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/68210/thumb/eth.jpg?1755082201"
-    },
-    {
-      "chainId": 100,
       "address": "0xd4fdec44db9d44b8f2b6d529620f9c0c7066a2c1",
       "name": "Wrapped xHOPR",
       "symbol": "WXHOPR",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/51027/thumb/hopr_logo.png?1729776406"
+    },
+    {
+      "chainId": 100,
+      "address": "0xaf204776c7245bf4147c2612bf6e5972ee483701",
+      "name": "Savings xDAI",
+      "symbol": "SDAI",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/32066/thumb/sDAI_Logo_%281%29.png?1696530863"
     },
     {
       "chainId": 100,
@@ -160,14 +168,6 @@
     },
     {
       "chainId": 100,
-      "address": "0x773cda0cade2a3d86e6d4e30699d40bb95174ff2",
-      "name": "Wrapped Aave Gnosis wstETH",
-      "symbol": "WAGNOWSTETH",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/68209/thumb/wsteth.png?1755082121"
-    },
-    {
-      "chainId": 100,
       "address": "0xa1fa064a85266e2ca82dee5c5ccec84df445760e",
       "name": "Aave v3 GNO",
       "symbol": "AGNO",
@@ -176,19 +176,19 @@
     },
     {
       "chainId": 100,
+      "address": "0x773cda0cade2a3d86e6d4e30699d40bb95174ff2",
+      "name": "Wrapped Aave Gnosis wstETH",
+      "symbol": "WAGNOWSTETH",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/68209/thumb/wsteth.png?1755082121"
+    },
+    {
+      "chainId": 100,
       "address": "0x2086f52651837600180de173b09470f54ef74910",
       "name": "Balancer Stable USD",
       "symbol": "STABAL3",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/32112/thumb/bal3.png?1696561317"
-    },
-    {
-      "chainId": 100,
-      "address": "0x7c16f0185a26db0ae7a9377f23bc18ea7ce5d644",
-      "name": "Wrapped Aave Gnosis GNO",
-      "symbol": "WAGNOGNO",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/68211/thumb/gno.png?1755082329"
     },
     {
       "chainId": 100,

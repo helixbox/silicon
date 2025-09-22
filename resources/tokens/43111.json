@@ -4,24 +4,8 @@
   "keywords": [
     "defi"
   ],
-  "timestamp": "2025-09-04T07:00:32.728+00:00",
+  "timestamp": "2025-09-22T11:00:34.598+00:00",
   "tokens": [
-    {
-      "chainId": 43111,
-      "address": "0xaa40c0c7644e0b2b224509571e10ad20d9c4ef28",
-      "name": "Hemi Bitcoin",
-      "symbol": "HEMIBTC",
-      "decimals": 8,
-      "logoURI": "https://assets.coingecko.com/coins/images/67027/thumb/hemibtc.jpg?1751514905"
-    },
-    {
-      "chainId": 43111,
-      "address": "0x03c7054bcb39f7b2e5b2c7acb37583e32d70cfa3",
-      "name": "Hemi Bridged WBTC  Hemi ",
-      "symbol": "WBTC",
-      "decimals": 8,
-      "logoURI": "https://assets.coingecko.com/coins/images/68384/thumb/wbtc.jpg?1755570014"
-    },
     {
       "chainId": 43111,
       "address": "0x6a9a65b84843f5fd4ac9a0471c4fc11afffbce4a",
@@ -40,14 +24,6 @@
     },
     {
       "chainId": 43111,
-      "address": "0xad11a8beb98bbf61dbb1aa0f6d6f2ecd87b35afa",
-      "name": "Stargate Bridged USDC  Hemi ",
-      "symbol": "USDCE",
-      "decimals": 6,
-      "logoURI": "https://assets.coingecko.com/coins/images/67024/thumb/usdc.jpg?1751513981"
-    },
-    {
-      "chainId": 43111,
       "address": "0x4200000000000000000000000000000000000006",
       "name": "Hemi Bridged WETH  Hemi ",
       "symbol": "WETH",
@@ -61,6 +37,22 @@
       "symbol": "VUSD",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/67026/thumb/vusd.jpg?1751514327"
+    },
+    {
+      "chainId": 43111,
+      "address": "0x03c7054bcb39f7b2e5b2c7acb37583e32d70cfa3",
+      "name": "Hemi Bridged WBTC  Hemi ",
+      "symbol": "WBTC",
+      "decimals": 8,
+      "logoURI": "https://assets.coingecko.com/coins/images/68384/thumb/wbtc.jpg?1755570014"
+    },
+    {
+      "chainId": 43111,
+      "address": "0xaa40c0c7644e0b2b224509571e10ad20d9c4ef28",
+      "name": "Hemi Bitcoin",
+      "symbol": "HEMIBTC",
+      "decimals": 8,
+      "logoURI": "https://assets.coingecko.com/coins/images/67027/thumb/hemibtc.jpg?1751514905"
     },
     {
       "chainId": 43111,
@@ -96,6 +88,14 @@
     },
     {
       "chainId": 43111,
+      "address": "0xad11a8beb98bbf61dbb1aa0f6d6f2ecd87b35afa",
+      "name": "Stargate Bridged USDC",
+      "symbol": "USDCE",
+      "decimals": 6,
+      "logoURI": "https://assets.coingecko.com/coins/images/69316/thumb/usdc.jpg?1758186473"
+    },
+    {
+      "chainId": 43111,
       "address": "0x63dbe12a6381d64ade47bc3d92abf4393dff4bc8",
       "name": "Chainlink",
       "symbol": "LINK",
@@ -106,6 +106,6 @@
   "version": {
     "major": 0,
     "minor": 9,
-    "patch": 0
+    "patch": 1
   }
 }

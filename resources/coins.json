@@ -28359,7 +28359,6 @@
       "world-chain": "0x915b648e994d5f31059b38223b9fbe98ae185473",
       "x-layer": "0x8af9711b44695a5a081f25ab9903ddb73acf8fa9",
       "corn": "0x7311ded199cc28d80e58e81e8589aa160199fcd2",
-      "cronos": "0x8c80a01f461f297df7f9da3a4f740d7297c8ac85",
       "cronos-zkevm": "0x61170ca9fb9cf98d4c7d684e07be6d969d59667e",
       "etherlink": "0x8ce7618e8f8e514d13889283f58ff03b794e6cc3",
       "hashkey-chain": "0x71052bae71c25c78e37fd12e5ff1101a71d9018f",
@@ -28367,6 +28366,7 @@
       "sei-v2": "0x71052bae71c25c78e37fd12e5ff1101a71d9018f",
       "katana": "0xc2c447b04e0ed3476ddbdae8e9e39be7159d27b6",
       "fraxtal": "0xd6a6ba37faac229b9665e86739ca501401f5a940",
+      "cronos": "0x8c80a01f461f297df7f9da3a4f740d7297c8ac85",
       "hemi": "0x63dbe12a6381d64ade47bc3d92abf4393dff4bc8",
       "hyperevm": "0x1ac2ee68b8d038c982c1e1f73f596927dd70de59",
       "ink": "0x71052bae71c25c78e37fd12e5ff1101a71d9018f",
@@ -46492,6 +46492,7 @@
     "platforms": {
       "avalanche": "0xeeeeeb57642040be42185f49c52f7e9b38f8eeee",
       "moonriver": "0xeeeeeb57642040be42185f49c52f7e9b38f8eeee",
+      "cronos": "0xeeeeeb57642040be42185f49c52f7e9b38f8eeee",
       "q-mainnet": "0xeeeeeb57642040be42185f49c52f7e9b38f8eeee",
       "elastos": "0xeeeeeb57642040be42185f49c52f7e9b38f8eeee",
       "fuse": "0xeeeeeb57642040be42185f49c52f7e9b38f8eeee",
@@ -46500,8 +46501,7 @@
       "polygon-pos": "0xeeeeeb57642040be42185f49c52f7e9b38f8eeee",
       "ethereum": "0xeeeeeb57642040be42185f49c52f7e9b38f8eeee",
       "binance-smart-chain": "0xeeeeeb57642040be42185f49c52f7e9b38f8eeee",
-      "fantom": "0xeeeeeb57642040be42185f49c52f7e9b38f8eeee",
-      "cronos": "0xeeeeeb57642040be42185f49c52f7e9b38f8eeee"
+      "fantom": "0xeeeeeb57642040be42185f49c52f7e9b38f8eeee"
     }
   },
   {
@@ -57164,6 +57164,14 @@
     }
   },
   {
+    "id": "giggle-fund",
+    "symbol": "giggle",
+    "name": "Giggle Fund",
+    "platforms": {
+      "binance-smart-chain": "0x20d6015660b3fe52e6690a889b5c51f69902ce0e"
+    }
+  },
+  {
     "id": "giggles",
     "symbol": "giggles",
     "name": "Giggles",
@@ -59976,6 +59984,12 @@
     "platforms": {
       "solana": "7h5AzpYTAnh4Gyux8Gqko5Fvx4AYQBZdkzHZ2CsBudvJ"
     }
+  },
+  {
+    "id": "griffin-ai",
+    "symbol": "gain",
+    "name": "Griffin AI",
+    "platforms": {}
   },
   {
     "id": "grimoire-finance-token",
@@ -88746,8 +88760,8 @@
     "name": "Moonflow",
     "platforms": {
       "polygon-pos": "0x7aefff599570dec2f3dbbc2ace3cb1f8206749eb",
-      "cronos-zkevm": "0xc80b437c4c0f9c74cfb2e2d063a58ffb4f82d4f0",
-      "cronos": "0x46e2b5423f6ff46a8a35861ec9daff26af77ab9a"
+      "cronos": "0x46e2b5423f6ff46a8a35861ec9daff26af77ab9a",
+      "cronos-zkevm": "0xc80b437c4c0f9c74cfb2e2d063a58ffb4f82d4f0"
     }
   },
   {
@@ -123597,8 +123611,8 @@
     "platforms": {
       "binance-smart-chain": "0xa776f5b86cc520861f55a261515264e3bd86e72e",
       "bitgert": "0x3f3d3a2a698af53676cef6aca6bfe6a0ce913c0c",
-      "ethereum": "0x1901f826dfcbfd9d3138936932366b3493a50893",
-      "cronos": "0xa776f5b86cc520861f55a261515264e3bd86e72e"
+      "cronos": "0xa776f5b86cc520861f55a261515264e3bd86e72e",
+      "ethereum": "0x1901f826dfcbfd9d3138936932366b3493a50893"
     }
   },
   {
@@ -125298,15 +125312,19 @@
       "nibiru": "0x0829f361a05d993d5ceb035ca6df3446b060970b",
       "plume-network": "0x78add880a697070c1e765ac44d65323a0dcce913",
       "flare-network": "0xfbda5f676cb37624f28265a144a48b0d6e87d3b6",
-      "berachain": "0x549943e04f40284185054145c6e4e9568c1d3241"
-    }
-  },
-  {
-    "id": "stargate-bridged-usdc-botanix",
-    "symbol": "usdc.e",
-    "name": "Stargate Bridged USDC (Botanix)",
-    "platforms": {
-      "botanix": "0x29ee6138dd4c9815f46d34a4a1ed48f46758a402"
+      "berachain": "0x549943e04f40284185054145c6e4e9568c1d3241",
+      "story": "0xf1815bd50389c46847f0bda824ec8da914045d14",
+      "botanix": "0x29ee6138dd4c9815f46d34a4a1ed48f46758a402",
+      "hemi": "0xad11a8beb98bbf61dbb1aa0f6d6f2ecd87b35afa",
+      "somnia": "0x28bec7e30e6faee657a03e19bf1128aad7632a00",
+      "iota-evm": "0xfbda5f676cb37624f28265a144a48b0d6e87d3b6",
+      "flow-evm": "0xf1815bd50389c46847f0bda824ec8da914045d14",
+      "glue": "0xee45ed3f6c675f319bb9de62991c1e78b484e0b8",
+      "ink": "0xf1815bd50389c46847f0bda824ec8da914045d14",
+      "gravity-alpha": "0xfbda5f676cb37624f28265a144a48b0d6e87d3b6",
+      "telos": "0xf1815bd50389c46847f0bda824ec8da914045d14",
+      "fuse": "0xc6bc407706b7140ee8eef2f86f9504651b63e7f9",
+      "rootstock": "0x74c9f2b00581f1b11aa7ff05aa9f608b7389de67"
     }
   },
   {
@@ -125318,31 +125336,6 @@
     }
   },
   {
-    "id": "stargate-bridged-usdc-flow",
-    "symbol": "stgusdc",
-    "name": "Stargate Bridged USDC (Flow)",
-    "platforms": {
-      "flow-evm": "0xf1815bd50389c46847f0bda824ec8da914045d14",
-      "flow": "0x1e4aa0b87d10b141"
-    }
-  },
-  {
-    "id": "stargate-bridged-usdc-fuse",
-    "symbol": "usdc.e",
-    "name": "Stargate Bridged USDC (Fuse)",
-    "platforms": {
-      "fuse": "0xc6bc407706b7140ee8eef2f86f9504651b63e7f9"
-    }
-  },
-  {
-    "id": "stargate-bridged-usdc-glue",
-    "symbol": "usdc.e",
-    "name": "Stargate Bridged USDC (Glue)",
-    "platforms": {
-      "glue": "0xee45ed3f6c675f319bb9de62991c1e78b484e0b8"
-    }
-  },
-  {
     "id": "stargate-bridged-usdc-goat",
     "symbol": "usdc.e",
     "name": "Stargate Bridged USDC (Goat)",
@@ -125351,75 +125344,11 @@
     }
   },
   {
-    "id": "stargate-bridged-usdc-gravity",
-    "symbol": "usdc.e",
-    "name": "Stargate Bridged USDC (Gravity)",
-    "platforms": {
-      "gravity-alpha": "0xfbda5f676cb37624f28265a144a48b0d6e87d3b6"
-    }
-  },
-  {
-    "id": "stargate-bridged-usdc-hemi",
-    "symbol": "usdc.e",
-    "name": "Stargate Bridged USDC (Hemi)",
-    "platforms": {
-      "hemi": "0xad11a8beb98bbf61dbb1aa0f6d6f2ecd87b35afa"
-    }
-  },
-  {
-    "id": "stargate-bridged-usdc-ink",
-    "symbol": "usdc.e",
-    "name": "Stargate Bridged USDC (Ink)",
-    "platforms": {
-      "ink": "0xf1815bd50389c46847f0bda824ec8da914045d14"
-    }
-  },
-  {
-    "id": "stargate-bridged-usdc-iota",
-    "symbol": "usdc.e",
-    "name": "Stargate Bridged USDC (Iota EVM)",
-    "platforms": {
-      "iota-evm": "0xfbda5f676cb37624f28265a144a48b0d6e87d3b6"
-    }
-  },
-  {
     "id": "stargate-bridged-usdc-iota-evm",
     "symbol": "usdt",
     "name": "Stargate Bridged USDT (Iota EVM)",
     "platforms": {
       "iota-evm": "0xc1b8045a6ef2934cf0f78b0dbd489969fa9be7e4"
-    }
-  },
-  {
-    "id": "stargate-bridged-usdc-rootstock",
-    "symbol": "usdc.e",
-    "name": "Stargate Bridged USDC (Rootstock)",
-    "platforms": {
-      "rootstock": "0x74c9f2b00581f1b11aa7ff05aa9f608b7389de67"
-    }
-  },
-  {
-    "id": "stargate-bridged-usdc-somnia",
-    "symbol": "usdc.e",
-    "name": "Stargate Bridged USDC (Somnia)",
-    "platforms": {
-      "somnia": "0x28bec7e30e6faee657a03e19bf1128aad7632a00"
-    }
-  },
-  {
-    "id": "stargate-bridged-usdc-story",
-    "symbol": "usdc.e",
-    "name": "Stargate Bridged USDC (Story)",
-    "platforms": {
-      "story": "0xf1815bd50389c46847f0bda824ec8da914045d14"
-    }
-  },
-  {
-    "id": "stargate-bridged-usdc-telos",
-    "symbol": "usdc.e",
-    "name": "Stargate Bridged USDC (Telos)",
-    "platforms": {
-      "telos": "0xf1815bd50389c46847f0bda824ec8da914045d14"
     }
   },
   {
@@ -129722,6 +129651,14 @@
     "name": "Tako",
     "platforms": {
       "ethereum": "0x0ee375090f423934ebfbb241a3eb2ee4e01eaf0a"
+    }
+  },
+  {
+    "id": "tala",
+    "symbol": "1ozt",
+    "name": "TALA",
+    "platforms": {
+      "binance-smart-chain": "0x9cac9837155a851e3d08639a40ae5bf18d968cd3"
     }
   },
   {
@@ -146389,8 +146326,8 @@
     "name": "Wrapped ADA",
     "platforms": {
       "milkomeda-cardano": "0xae83571000af4499798d1e3b0fa0070eb3a3e3f9",
-      "energi": "0xe13b07c79de28bd34d021663744258ec456e8484",
-      "cronos": "0x0e517979c2c1c1522ddb0c73905e0d39b3f990c0"
+      "cronos": "0x0e517979c2c1c1522ddb0c73905e0d39b3f990c0",
+      "energi": "0xe13b07c79de28bd34d021663744258ec456e8484"
     }
   },
   {
