@@ -4,7 +4,7 @@
   "keywords": [
     "defi"
   ],
-  "timestamp": "2025-09-10T05:00:11.711+00:00",
+  "timestamp": "2025-09-23T06:00:08.588+00:00",
   "tokens": [
     {
       "chainId": 239,
@@ -24,6 +24,14 @@
     },
     {
       "chainId": 239,
+      "address": "0xb63b9f0eb4a6e6f191529d71d4d88cc8900df2c9",
+      "name": "Wrapped TAC",
+      "symbol": "WTAC",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/67549/thumb/tac.jpeg?1753153627"
+    },
+    {
+      "chainId": 239,
       "address": "0x61d66bc21fed820938021b06e9b2291f3fb91945",
       "name": "TAC Bridged WETH  TAC ",
       "symbol": "WETH",
@@ -32,11 +40,11 @@
     },
     {
       "chainId": 239,
-      "address": "0xb63b9f0eb4a6e6f191529d71d4d88cc8900df2c9",
-      "name": "Wrapped TAC",
-      "symbol": "WTAC",
+      "address": "0x5ced7f73b76a555ccb372cc0f0137bec5665f81e",
+      "name": "Staked USN",
+      "symbol": "SUSN",
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/67549/thumb/tac.jpeg?1753153627"
+      "logoURI": "https://assets.coingecko.com/coins/images/54924/thumb/sUSN_Logo.png?1742538935"
     },
     {
       "chainId": 239,
@@ -81,7 +89,7 @@
   ],
   "version": {
     "major": 0,
-    "minor": 4,
+    "minor": 5,
     "patch": 0
   }
 }
