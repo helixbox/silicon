@@ -4,8 +4,16 @@
   "keywords": [
     "defi"
   ],
-  "timestamp": "2025-09-10T10:01:34.713+00:00",
+  "timestamp": "2025-09-23T09:01:43.188+00:00",
   "tokens": [
+    {
+      "chainId": 41923,
+      "address": "0x7277cc818e3f3ffbb169c6da9cc77fc2d2a34895",
+      "name": "EDU Chain Bridged USDT  EDU Chain ",
+      "symbol": "USDT",
+      "decimals": 6,
+      "logoURI": "https://assets.coingecko.com/coins/images/54755/thumb/usdt.jpg?1741347488"
+    },
     {
       "chainId": 41923,
       "address": "0x526e8a66e357ffeaeeec6d7be1e5ea44a788dd1d",
@@ -13,22 +21,6 @@
       "symbol": "BLEND",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/54778/thumb/Blend0.png?1741517155"
-    },
-    {
-      "chainId": 41923,
-      "address": "0xd282de0c2bd41556c887f319a5c19ff441dcdf90",
-      "name": "EDU StableDollar",
-      "symbol": "ESD",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/54756/thumb/esd.jpg?1741347661"
-    },
-    {
-      "chainId": 41923,
-      "address": "0x12a272a581fee5577a5dfa371afeb4b2f3a8c2f8",
-      "name": "Stargate Bridged USDC  EDU Chain ",
-      "symbol": "USDCE",
-      "decimals": 6,
-      "logoURI": "https://assets.coingecko.com/coins/images/69099/thumb/USDC_Token.png?1757497003"
     },
     {
       "chainId": 41923,
@@ -40,11 +32,11 @@
     },
     {
       "chainId": 41923,
-      "address": "0x7277cc818e3f3ffbb169c6da9cc77fc2d2a34895",
-      "name": "EDU Chain Bridged USDT  EDU Chain ",
-      "symbol": "USDT",
-      "decimals": 6,
-      "logoURI": "https://assets.coingecko.com/coins/images/54755/thumb/usdt.jpg?1741347488"
+      "address": "0xd282de0c2bd41556c887f319a5c19ff441dcdf90",
+      "name": "EDU StableDollar",
+      "symbol": "ESD",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/54756/thumb/esd.jpg?1741347661"
     },
     {
       "chainId": 41923,
@@ -53,11 +45,19 @@
       "symbol": "WEDU",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/54753/thumb/edu.jpg?1741347179"
+    },
+    {
+      "chainId": 41923,
+      "address": "0x12a272a581fee5577a5dfa371afeb4b2f3a8c2f8",
+      "name": "Stargate Bridged USDC",
+      "symbol": "USDCE",
+      "decimals": 6,
+      "logoURI": "https://assets.coingecko.com/coins/images/69316/thumb/usdc.jpg?1758186473"
     }
   ],
   "version": {
     "major": 0,
     "minor": 2,
-    "patch": 0
+    "patch": 1
   }
 }

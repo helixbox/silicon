@@ -7719,7 +7719,9 @@
     "id": "anoma",
     "symbol": "xan",
     "name": "Anoma",
-    "platforms": {}
+    "platforms": {
+      "ethereum": "0xcedbea37c8872c4171259cdfd5255cb8923cf8e7"
+    }
   },
   {
     "id": "anon-inu",
@@ -13147,14 +13149,6 @@
     }
   },
   {
-    "id": "babyxrp",
-    "symbol": "bbyxrp",
-    "name": "BabyXrp",
-    "platforms": {
-      "binance-smart-chain": "0x8beabaa4f025d00b4699d56a683758d692d17f20"
-    }
-  },
-  {
     "id": "babyx-swap",
     "symbol": "babyx",
     "name": "BabyX Swap",
@@ -14242,14 +14236,6 @@
     "name": "BANKSY",
     "platforms": {
       "solana": "BXFD1Dd1AT87MADC6SYZ95QQQjrTKEnDRwvVhAiLpump"
-    }
-  },
-  {
-    "id": "banus-finance",
-    "symbol": "banus",
-    "name": "Banus Finance",
-    "platforms": {
-      "binance-smart-chain": "0x98999aa1b0d17fb832fd509e13b67fe506513a6d"
     }
   },
   {
@@ -19545,7 +19531,10 @@
     "id": "bless-2",
     "symbol": "bless",
     "name": "Bless",
-    "platforms": {}
+    "platforms": {
+      "solana": "A1t2UviBYwyfYZDJyKY2W6Td8ritgsCriUDuNaAQN49S",
+      "binance-smart-chain": "0x7c8217517ed4711fe2deccdfeffe8d906b9ae11f"
+    }
   },
   {
     "id": "bliffy",
@@ -23343,7 +23332,7 @@
   {
     "id": "bridged-usdc-core",
     "symbol": "usdc",
-    "name": "Bridged USDC (Core)",
+    "name": "CoreDAO Bridged USDC (Core)",
     "platforms": {
       "core": "0xa4151b2b3e269645181dccf2d426ce75fcbdeca9"
     }
@@ -23383,7 +23372,7 @@
   {
     "id": "bridged-usd-coin-linea",
     "symbol": "usdc",
-    "name": "Bridged USD Coin (Linea)",
+    "name": "Linea Bridged USDC (Linea)",
     "platforms": {
       "linea": "0x176211869ca2b568f2a7d4ee941e073a821ee1ff"
     }
@@ -23415,7 +23404,7 @@
   {
     "id": "bridged-usd-coin-starkgate",
     "symbol": "usdc",
-    "name": "Bridged USD Coin (StarkGate)",
+    "name": "StarkGate Bridged USDC (Starknet)",
     "platforms": {
       "starknet": "0x53c91253bc9682c04929ca02ed00b3e423f6710d2ee7e0d5ebb06f3ecf368a8"
     }
@@ -23434,14 +23423,6 @@
     "name": "Bridged USDC (Polygon PoS Bridge)",
     "platforms": {
       "polygon-pos": "0x2791bca1f2de4661ed88a30c99a7a9449aa84174"
-    }
-  },
-  {
-    "id": "bridged-usdc-stargate",
-    "symbol": "usdc.e",
-    "name": "Stargate Bridged USDC (Taiko)",
-    "platforms": {
-      "taiko": "0x19e26b0638bf63aa9fa4d14c6baf8d52ebe86c5c"
     }
   },
   {
@@ -28436,6 +28417,12 @@
     "platforms": {
       "binance-smart-chain": "0x4027d91ecd3140e53ae743d657549adfeebb27ab"
     }
+  },
+  {
+    "id": "chainopera-ai",
+    "symbol": "coai",
+    "name": "ChainOpera AI",
+    "platforms": {}
   },
   {
     "id": "chainpal",
@@ -42914,14 +42901,6 @@
     "name": "Dojo token",
     "platforms": {
       "injective": "inj1zdj9kqnknztl2xclm5ssv25yre09f8908d4923"
-    }
-  },
-  {
-    "id": "dok",
-    "symbol": "dok",
-    "name": "DOK",
-    "platforms": {
-      "solana": "4nSkCNVuG1v5Bj7pjC7fRNSK8RSjR6AW5HMHtmpcpump"
     }
   },
   {
@@ -66218,14 +66197,6 @@
     }
   },
   {
-    "id": "ihf-smart-debase-token",
-    "symbol": "ihf",
-    "name": "IHF Smart Debase Token",
-    "platforms": {
-      "base": "0x3b9728bd65ca2c11a817ce39a6e91808cceef6fd"
-    }
-  },
-  {
     "id": "iiii-lovvv-youuuu",
     "symbol": "ily",
     "name": "iiii lovvvv youuuu",
@@ -73678,6 +73649,14 @@
     }
   },
   {
+    "id": "kolana-2",
+    "symbol": "kol",
+    "name": "Kolana",
+    "platforms": {
+      "solana": "HTWDJbpi6o9Zd7SuVDBRo5fUPXgffmo27f954Vzipump"
+    }
+  },
+  {
     "id": "kol-exe",
     "symbol": "kol",
     "name": "KOL.exe",
@@ -74674,6 +74653,14 @@
     "name": "Kylacoin",
     "platforms": {
       "binance-smart-chain": "0x848b991fb420cd59c8296143c8153477393ddcab"
+    }
+  },
+  {
+    "id": "kylie",
+    "symbol": "kylie",
+    "name": "Kylie",
+    "platforms": {
+      "base": "0x1371b2a6998c42ccd3480207282c3fa2888148ce"
     }
   },
   {
@@ -91523,6 +91510,14 @@
     "name": "Navigator AI",
     "platforms": {
       "solana": "GYTd9XbZTfwicCV28LGkwiDF4DgpXTTAi2UeCajfpump"
+    }
+  },
+  {
+    "id": "navigator-by-metawin",
+    "symbol": "navi",
+    "name": "Navigator by MetaWin",
+    "platforms": {
+      "ethereum": "0x86e1714dca461a66b24193cbc902515ddcb2d12c"
     }
   },
   {
@@ -109620,6 +109615,12 @@
     }
   },
   {
+    "id": "rainbow-3-2",
+    "symbol": "rnbw",
+    "name": "Rainbow",
+    "platforms": {}
+  },
+  {
     "id": "rainbow-bridged-dai-aurora",
     "symbol": "dai",
     "name": "Rainbow Bridged DAI (Aurora)",
@@ -114631,7 +114632,7 @@
   {
     "id": "safecoin",
     "symbol": "safe",
-    "name": "SAFEcoin",
+    "name": "SAFEbit",
     "platforms": {
       "binance-smart-chain": "0x5ac0c096549d9df6bf2f709d8c169ceb92470267"
     }
@@ -118193,17 +118194,9 @@
   {
     "id": "shido-bridged-usdc",
     "symbol": "usdc",
-    "name": "Shido Bridged USDC",
-    "platforms": {
-      "shido": "0xee1fc22381e6b6bb5ee3bf6b5ec58df6f5480df8"
-    }
-  },
-  {
-    "id": "shido-bridged-usdc-shido",
-    "symbol": "usdc",
     "name": "Shido Bridged USDC (Shido)",
     "platforms": {
-      "shido": "0x80b5a32e4f032b2a058b4f29ec95eefeeb87adcd"
+      "shido": "0xee1fc22381e6b6bb5ee3bf6b5ec58df6f5480df8"
     }
   },
   {
@@ -121179,14 +121172,6 @@
     "name": "Solana Ecosystem Index",
     "platforms": {
       "solana": "8JnNWJ46yfdq8sKgT1Lk4G7VWkAA8Rhh7LhqgJ6WY41G"
-    }
-  },
-  {
-    "id": "solana-gun",
-    "symbol": "solgun",
-    "name": "Solana Gun",
-    "platforms": {
-      "solana": "GunZTF1tjip5SxjE2jdeNGDi1HXHrcx9sLEJZHwv3fEp"
     }
   },
   {
@@ -125476,6 +125461,16 @@
     "name": "Stargate Bridged USDC",
     "platforms": {
       "abstract": "0x84a71ccd554cc1b02749b35d22f684cc8ec987e1",
+      "xdc-network": "0xcc0587aebda397146cc828b445db130a94486e74",
+      "cronos": "0xf951ec28187d9e5ca673da8fe6757e6f0be5f77c",
+      "taiko": "0x19e26b0638bf63aa9fa4d14c6baf8d52ebe86c5c",
+      "edu-chain": "0x12a272a581fee5577a5dfa371afeb4b2f3a8c2f8",
+      "goat": "0x3022b87ac063de95b1570f46f5e470f8b53112d8",
+      "superseed": "",
+      "lightlink": "0xbcf8c1b03bbdda88d579330bdf236b58f8bb2cfd",
+      "rari": "0xfbda5f676cb37624f28265a144a48b0d6e87d3b6",
+      "apechain": "0xf1815bd50389c46847f0bda824ec8da914045d14",
+      "klay-token": "0xe2053bcf56d2030d2470fb454574237cf9ee3d4b",
       "nibiru": "0x0829f361a05d993d5ceb035ca6df3446b060970b",
       "plume-network": "0x78add880a697070c1e765ac44d65323a0dcce913",
       "flare-network": "0xfbda5f676cb37624f28265a144a48b0d6e87d3b6",
@@ -125495,22 +125490,6 @@
     }
   },
   {
-    "id": "stargate-bridged-usdc-edu-chain",
-    "symbol": "usdc.e",
-    "name": "Stargate Bridged USDC (EDU Chain)",
-    "platforms": {
-      "edu-chain": "0x12a272a581fee5577a5dfa371afeb4b2f3a8c2f8"
-    }
-  },
-  {
-    "id": "stargate-bridged-usdc-goat",
-    "symbol": "usdc.e",
-    "name": "Stargate Bridged USDC (Goat)",
-    "platforms": {
-      "goat": "0x3022b87ac063de95b1570f46f5e470f8b53112d8"
-    }
-  },
-  {
     "id": "stargate-bridged-usdc-iota-evm",
     "symbol": "usdt",
     "name": "Stargate Bridged USDT (Iota EVM)",
@@ -125524,14 +125503,6 @@
     "name": "Stargate Bridged USDC (Vana)",
     "platforms": {
       "vana": "0xf1815bd50389c46847f0bda824ec8da914045d14"
-    }
-  },
-  {
-    "id": "stargate-bridged-usdc-xdc",
-    "symbol": "usdc.e",
-    "name": "Stargate Bridged USDC (XDC)",
-    "platforms": {
-      "xdc-network": "0xcc0587aebda397146cc828b445db130a94486e74"
     }
   },
   {
@@ -130586,7 +130557,9 @@
     "id": "tea-protocol",
     "symbol": "tea",
     "name": "Tea Protocol",
-    "platforms": {}
+    "platforms": {
+      "ethereum": "0x7eaa67f8d365bbe27d6278fdc2ba24a1aa71c8e5"
+    }
   },
   {
     "id": "tear",
@@ -136535,14 +136508,6 @@
     }
   },
   {
-    "id": "trust-inspect",
-    "symbol": "$trust",
-    "name": "Trust Inspect",
-    "platforms": {
-      "binance-smart-chain": "0x1a2457016bee420da8bb40be029b76119847731d"
-    }
-  },
-  {
     "id": "trustinweb3",
     "symbol": "t3ai",
     "name": "trustInWeb3",
@@ -138335,6 +138300,14 @@
     "name": "UnitedStates National Debt Coin",
     "platforms": {
       "solana": "8iK4qEEb41gkogyEUn4qjrnuj3vgvQEf1RcxXauWpump"
+    }
+  },
+  {
+    "id": "united-states-of-memerica",
+    "symbol": "memerica",
+    "name": "United States of Memerica",
+    "platforms": {
+      "ethereum": "0xad0b2fcd6314e9cf8c0873d5129dde3ead1dcc65"
     }
   },
   {
@@ -144026,6 +143999,14 @@
     "name": "WeeDE",
     "platforms": {
       "base": "0x35c9e8d97f7e24349e56cd048b30d3eae6fd7ff8"
+    }
+  },
+  {
+    "id": "weepi",
+    "symbol": "weepi",
+    "name": "Weepi",
+    "platforms": {
+      "solana": "vyygC9ojzrPKWbHZMCVg6xNiNTHAnXGmAgARfeopump"
     }
   },
   {
@@ -150301,14 +150282,6 @@
     }
   },
   {
-    "id": "xenify-bxnf-bnb-chain",
-    "symbol": "bxnf",
-    "name": "bXNF",
-    "platforms": {
-      "binance-smart-chain": "0xc84fae1141b92fa5bf847276828f69caf651cb7f"
-    }
-  },
-  {
     "id": "xeno",
     "symbol": "xeno",
     "name": "Xeno",
@@ -152120,6 +152093,12 @@
     }
   },
   {
+    "id": "yield-basis",
+    "symbol": "yb",
+    "name": "Yield Basis",
+    "platforms": {}
+  },
+  {
     "id": "yield-basis-btc",
     "symbol": "ybbtc",
     "name": "Yield Basis BTC",
@@ -153836,6 +153815,12 @@
     }
   },
   {
+    "id": "zerobase",
+    "symbol": "zbt",
+    "name": "Zerobase",
+    "platforms": {}
+  },
+  {
     "id": "zerobyte",
     "symbol": "zb",
     "name": "ZeroByte",
@@ -154846,7 +154831,7 @@
   },
   {
     "id": "zora-bridged-usdc-zora",
-    "symbol": "zora-bridged-usdc-zora",
+    "symbol": "usdzc",
     "name": "Zora Bridged USDC (Zora)",
     "platforms": {
       "zora-network": "0xcccccccc7021b32ebb4e8c08314bd62f7c653ec4"
