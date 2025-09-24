@@ -4,7 +4,7 @@
   "keywords": [
     "defi"
   ],
-  "timestamp": "2025-09-22T12:00:29.826+00:00",
+  "timestamp": "2025-09-24T09:00:19.248+00:00",
   "tokens": [
     {
       "chainId": 122,
@@ -24,6 +24,14 @@
     },
     {
       "chainId": 122,
+      "address": "0x2931b47c2cee4febad348ba3d322cb4a17662c34",
+      "name": "Bridged Wrapped stETH  Fuse ",
+      "symbol": "WSTETH",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/51545/thumb/logo_%2811%29.png?1731503581"
+    },
+    {
+      "chainId": 122,
       "address": "0x75333830e7014e909535389a6e5b0c02aa62ca27",
       "name": "Solid USD  soUSD ",
       "symbol": "SOUSD",
@@ -40,19 +48,11 @@
     },
     {
       "chainId": 122,
-      "address": "0x0be9e53fd7edac9f859882afdda116645287c629",
-      "name": "Wrapped FUSE",
-      "symbol": "WFUSE",
+      "address": "0x5622f6dc93e08a8b717b149677930c38d5d50682",
+      "name": "Bridged Wrapped Ether  Fuse ",
+      "symbol": "WETH",
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/33535/thumb/3WFUSE_token_logo_crl.png?1703026207"
-    },
-    {
-      "chainId": 122,
-      "address": "0x34ef2cc892a88415e9f02b91bfa9c91fc0be6bd4",
-      "name": "Voltage Finance",
-      "symbol": "VOLT",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/21886/thumb/My_project.png?1696521238"
+      "logoURI": "https://assets.coingecko.com/coins/images/32759/thumb/logo_%286%29.png?1699324862"
     },
     {
       "chainId": 122,
@@ -64,43 +64,11 @@
     },
     {
       "chainId": 122,
-      "address": "0x2f6f07cdcf3588944bf4c42ac74ff24bf56e7590",
-      "name": "Stargate Bridged WETH  Fuse ",
-      "symbol": "WETH",
+      "address": "0x0be9e53fd7edac9f859882afdda116645287c629",
+      "name": "Wrapped FUSE",
+      "symbol": "WFUSE",
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/53042/thumb/wETH_32.png?1735081743"
-    },
-    {
-      "chainId": 122,
-      "address": "0x2931b47c2cee4febad348ba3d322cb4a17662c34",
-      "name": "Bridged Wrapped stETH  Fuse ",
-      "symbol": "WSTETH",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/51545/thumb/logo_%2811%29.png?1731503581"
-    },
-    {
-      "chainId": 122,
-      "address": "0x5622f6dc93e08a8b717b149677930c38d5d50682",
-      "name": "Bridged Wrapped Ether  Fuse ",
-      "symbol": "WETH",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/32759/thumb/logo_%286%29.png?1699324862"
-    },
-    {
-      "chainId": 122,
-      "address": "0xa722c13135930332eb3d749b2f0906559d2c5b99",
-      "name": "Bridged Wrapped Ether  Voltage Finance ",
-      "symbol": "WETH",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/33412/thumb/weth.jpg?1726731618"
-    },
-    {
-      "chainId": 122,
-      "address": "0x34009565bfeefded0f7e774629a745636bf35e82",
-      "name": "Wrapped BTC  Fuse ",
-      "symbol": "WBTCV2",
-      "decimals": 8,
-      "logoURI": "https://assets.coingecko.com/coins/images/55265/thumb/logo_%2813%29.png?1745051128"
+      "logoURI": "https://assets.coingecko.com/coins/images/33535/thumb/3WFUSE_token_logo_crl.png?1703026207"
     },
     {
       "chainId": 122,
@@ -112,11 +80,43 @@
     },
     {
       "chainId": 122,
+      "address": "0x34ef2cc892a88415e9f02b91bfa9c91fc0be6bd4",
+      "name": "Voltage Finance",
+      "symbol": "VOLT",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/21886/thumb/My_project.png?1696521238"
+    },
+    {
+      "chainId": 122,
+      "address": "0x2f6f07cdcf3588944bf4c42ac74ff24bf56e7590",
+      "name": "Stargate Bridged WETH  Fuse ",
+      "symbol": "WETH",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/53042/thumb/wETH_32.png?1735081743"
+    },
+    {
+      "chainId": 122,
+      "address": "0x34009565bfeefded0f7e774629a745636bf35e82",
+      "name": "Wrapped BTC  Fuse ",
+      "symbol": "WBTCV2",
+      "decimals": 8,
+      "logoURI": "https://assets.coingecko.com/coins/images/55265/thumb/logo_%2813%29.png?1745051128"
+    },
+    {
+      "chainId": 122,
       "address": "0x5dd8015cec49f4db01fd228f688bf30337d3e0a9",
       "name": "Dogelon Mars",
       "symbol": "ELON",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/14962/thumb/6GxcPRo3_400x400.jpg?1696514622"
+    },
+    {
+      "chainId": 122,
+      "address": "0xa722c13135930332eb3d749b2f0906559d2c5b99",
+      "name": "Stargate Bridged WETH",
+      "symbol": "WETH",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/69466/thumb/weth_2.jpg?1758701596"
     },
     {
       "chainId": 122,
@@ -177,6 +177,6 @@
   "version": {
     "major": 10,
     "minor": 2,
-    "patch": 1
+    "patch": 2
   }
 }

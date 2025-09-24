@@ -4,7 +4,7 @@
   "keywords": [
     "defi"
   ],
-  "timestamp": "2025-09-22T14:00:19.646+00:00",
+  "timestamp": "2025-09-24T10:00:18.364+00:00",
   "tokens": [
     {
       "chainId": 1300,
@@ -24,6 +24,14 @@
     },
     {
       "chainId": 1300,
+      "address": "0x2f6f07cdcf3588944bf4c42ac74ff24bf56e7590",
+      "name": "Stargate Bridged WETH",
+      "symbol": "WETH",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/69466/thumb/weth_2.jpg?1758701596"
+    },
+    {
+      "chainId": 1300,
       "address": "0xee45ed3f6c675f319bb9de62991c1e78b484e0b8",
       "name": "Stargate Bridged USDC",
       "symbol": "USDCE",
@@ -33,7 +41,7 @@
   ],
   "version": {
     "major": 0,
-    "minor": 0,
-    "patch": 1
+    "minor": 1,
+    "patch": 0
   }
 }

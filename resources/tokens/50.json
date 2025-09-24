@@ -4,8 +4,16 @@
   "keywords": [
     "defi"
   ],
-  "timestamp": "2025-09-23T08:01:08.208+00:00",
+  "timestamp": "2025-09-24T10:00:34.578+00:00",
   "tokens": [
+    {
+      "chainId": 50,
+      "address": "0x2a8e898b6242355c290e1f4fc966b8788729a4d4",
+      "name": "XDC Bridged USDC  XDC ",
+      "symbol": "USDCE",
+      "decimals": 6,
+      "logoURI": "https://assets.coingecko.com/coins/images/55016/thumb/usdc.png?1743167722"
+    },
     {
       "chainId": 50,
       "address": "0x3a170c7c987f55c84f28733bfa27962d8cdd5d3b",
@@ -24,51 +32,11 @@
     },
     {
       "chainId": 50,
-      "address": "0x9b8e12b0bac165b86967e771d98b520ec3f665a6",
-      "name": "Prime Staked XDC",
-      "symbol": "PSXDC",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/54097/thumb/XDC-PNL-CIRCLE.png?1738224626"
-    },
-    {
-      "chainId": 50,
-      "address": "0x05940b2df33d6371201e7ae099ced4c363855dfe",
-      "name": "Law Blocks",
-      "symbol": "LBT",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/26266/thumb/photo_6264996132874731595_y.jpg?1717679177"
-    },
-    {
-      "chainId": 50,
-      "address": "0x2a8e898b6242355c290e1f4fc966b8788729a4d4",
-      "name": "Bridged USDC  XDC Bridge ",
-      "symbol": "USDCE",
-      "decimals": 6,
-      "logoURI": "https://assets.coingecko.com/coins/images/55016/thumb/usdc.png?1743167722"
-    },
-    {
-      "chainId": 50,
       "address": "xdc34514748f86a8da01ef082306b6d6e738f777f5a",
       "name": "Globiance Exchange",
       "symbol": "GBEX",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/24859/thumb/gbex.png?1696524019"
-    },
-    {
-      "chainId": 50,
-      "address": "0x3fb46c4db76d8e9f69f3f8388f43a7ca7e140807",
-      "name": "Dog With Purpose",
-      "symbol": "DOPU",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/38634/thumb/Dopu-Coin_200x200_%282%29.png?1718172914"
-    },
-    {
-      "chainId": 50,
-      "address": "xdc17476dc3eda45ad916ceaddea325b240a7fb259d",
-      "name": "XSwap Treasure",
-      "symbol": "XTT",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/28274/thumb/XTT.png?1696527275"
     },
     {
       "chainId": 50,
@@ -80,11 +48,19 @@
     },
     {
       "chainId": 50,
-      "address": "xdcff7412ea7c8445c46a8254dfb557ac1e48094391",
-      "name": "Plugin",
-      "symbol": "PLI",
+      "address": "0x05940b2df33d6371201e7ae099ced4c363855dfe",
+      "name": "Law Blocks",
+      "symbol": "LBT",
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/19586/thumb/244800308_116216454152265_6257676145772128053_n.png?1696519017"
+      "logoURI": "https://assets.coingecko.com/coins/images/26266/thumb/photo_6264996132874731595_y.jpg?1717679177"
+    },
+    {
+      "chainId": 50,
+      "address": "xdc17476dc3eda45ad916ceaddea325b240a7fb259d",
+      "name": "XSwap Treasure",
+      "symbol": "XTT",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/28274/thumb/XTT.png?1696527275"
     },
     {
       "chainId": 50,
@@ -96,35 +72,11 @@
     },
     {
       "chainId": 50,
-      "address": "0xa7348290de5cf01772479c48d50dec791c3fc212",
-      "name": "XDC Bridged WETH  XDC ",
-      "symbol": "WETH",
+      "address": "0x3fb46c4db76d8e9f69f3f8388f43a7ca7e140807",
+      "name": "Dog With Purpose",
+      "symbol": "DOPU",
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/66673/thumb/weth_2.jpg?1750215775"
-    },
-    {
-      "chainId": 50,
-      "address": "0x951857744785e80e2de051c32ee7b25f9c458c42",
-      "name": "Wrapped XDC",
-      "symbol": "WXDC",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/28268/thumb/xinfin.jpeg?1696527269"
-    },
-    {
-      "chainId": 50,
-      "address": "0xcda5b77e2e2268d9e09c874c1b9a4c3f07b37555",
-      "name": "Stargate Bridged USDT  XDC ",
-      "symbol": "USDT",
-      "decimals": 6,
-      "logoURI": "https://assets.coingecko.com/coins/images/66671/thumb/usdt.jpg?1750214493"
-    },
-    {
-      "chainId": 50,
-      "address": "0xaec5eaf63402bf842d8642d917685e5ad3ba14bb",
-      "name": "EquitEdge",
-      "symbol": "EEG",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/67987/thumb/symbol-light.png?1754506688"
+      "logoURI": "https://assets.coingecko.com/coins/images/38634/thumb/Dopu-Coin_200x200_%282%29.png?1718172914"
     },
     {
       "chainId": 50,
@@ -136,11 +88,11 @@
     },
     {
       "chainId": 50,
-      "address": "xdc49d3f7543335cf38Fa10889CCFF10207e22110B5",
-      "name": "Fathom Dollar",
-      "symbol": "FXD",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/31113/thumb/fxd_200x200_%281%29.png?1696529943"
+      "address": "0xcda5b77e2e2268d9e09c874c1b9a4c3f07b37555",
+      "name": "Stargate Bridged USDT  XDC ",
+      "symbol": "USDT",
+      "decimals": 6,
+      "logoURI": "https://assets.coingecko.com/coins/images/66671/thumb/usdt.jpg?1750214493"
     },
     {
       "chainId": 50,
@@ -152,6 +104,46 @@
     },
     {
       "chainId": 50,
+      "address": "0xaec5eaf63402bf842d8642d917685e5ad3ba14bb",
+      "name": "EquitEdge",
+      "symbol": "EEG",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/67987/thumb/symbol-light.png?1754506688"
+    },
+    {
+      "chainId": 50,
+      "address": "xdc49d3f7543335cf38Fa10889CCFF10207e22110B5",
+      "name": "Fathom Dollar",
+      "symbol": "FXD",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/31113/thumb/fxd_200x200_%281%29.png?1696529943"
+    },
+    {
+      "chainId": 50,
+      "address": "0x951857744785e80e2de051c32ee7b25f9c458c42",
+      "name": "Wrapped XDC",
+      "symbol": "WXDC",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/28268/thumb/xinfin.jpeg?1696527269"
+    },
+    {
+      "chainId": 50,
+      "address": "xdcff7412ea7c8445c46a8254dfb557ac1e48094391",
+      "name": "Plugin",
+      "symbol": "PLI",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/19586/thumb/244800308_116216454152265_6257676145772128053_n.png?1696519017"
+    },
+    {
+      "chainId": 50,
+      "address": "0x9b8e12b0bac165b86967e771d98b520ec3f665a6",
+      "name": "Prime Staked XDC",
+      "symbol": "PSXDC",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/54097/thumb/XDC-PNL-CIRCLE.png?1738224626"
+    },
+    {
+      "chainId": 50,
       "address": "xdc5d5f074837f5d4618b3916ba74de1bf9662a3fed",
       "name": "StorX",
       "symbol": "SRX",
@@ -160,11 +152,11 @@
     },
     {
       "chainId": 50,
-      "address": "0xfa2958cb79b0491cc627c1557f441ef849ca8eb1",
-      "name": "USDC",
-      "symbol": "USDC",
-      "decimals": 6,
-      "logoURI": "https://assets.coingecko.com/coins/images/6319/thumb/usdc.png?1696506694"
+      "address": "0xa7348290de5cf01772479c48d50dec791c3fc212",
+      "name": "Stargate Bridged WETH",
+      "symbol": "WETH",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/69466/thumb/weth_2.jpg?1758701596"
     },
     {
       "chainId": 50,
@@ -200,6 +192,14 @@
     },
     {
       "chainId": 50,
+      "address": "0xfa2958cb79b0491cc627c1557f441ef849ca8eb1",
+      "name": "USDC",
+      "symbol": "USDC",
+      "decimals": 6,
+      "logoURI": "https://assets.coingecko.com/coins/images/6319/thumb/usdc.png?1696506694"
+    },
+    {
+      "chainId": 50,
       "address": "xdc536dd70445cea1e97f9bf1bada04cbda5199a2a1",
       "name": "Ecoin",
       "symbol": "ECOIN",
@@ -210,6 +210,6 @@
   "version": {
     "major": 11,
     "minor": 1,
-    "patch": 1
+    "patch": 3
   }
 }

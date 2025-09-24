@@ -4,7 +4,7 @@
   "keywords": [
     "defi"
   ],
-  "timestamp": "2025-09-23T16:01:21.702+00:00",
+  "timestamp": "2025-09-24T09:00:36.574+00:00",
   "tokens": [
     {
       "chainId": 98866,
@@ -16,14 +16,6 @@
     },
     {
       "chainId": 98866,
-      "address": "0xafb068838136358cfa6b54bea580b86df70bba7f",
-      "name": "exSat Staking BTC",
-      "symbol": "ESBTC",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/67691/thumb/esbtc_logo-_1_.png?1753521998"
-    },
-    {
-      "chainId": 98866,
       "address": "0xda6087e69c51e7d31b6dbad276a3c44703dfdcad",
       "name": "Stargate Bridged USDT  Plume ",
       "symbol": "USDT",
@@ -32,19 +24,19 @@
     },
     {
       "chainId": 98866,
-      "address": "0xca59ca09e5602fae8b629dee83ffa819741f14be",
-      "name": "Plume Bridged WETH  Plume ",
-      "symbol": "WETH",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/67515/thumb/weth_2.jpg?1753069298"
-    },
-    {
-      "chainId": 98866,
       "address": "0x39d1f90ef89c52dda276194e9a832b484ee45574",
       "name": "Plume Staked ETH",
       "symbol": "PETH",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/67514/thumb/peth.png?1753068541"
+    },
+    {
+      "chainId": 98866,
+      "address": "0xafb068838136358cfa6b54bea580b86df70bba7f",
+      "name": "exSat Staking BTC",
+      "symbol": "ESBTC",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/67691/thumb/esbtc_logo-_1_.png?1753521998"
     },
     {
       "chainId": 98866,
@@ -85,6 +77,14 @@
       "symbol": "MTBILL",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/37839/thumb/mTBILL_token.png?1728417279"
+    },
+    {
+      "chainId": 98866,
+      "address": "0xca59ca09e5602fae8b629dee83ffa819741f14be",
+      "name": "Stargate Bridged WETH",
+      "symbol": "WETH",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/69466/thumb/weth_2.jpg?1758701596"
     },
     {
       "chainId": 98866,
@@ -354,6 +354,6 @@
   "version": {
     "major": 0,
     "minor": 27,
-    "patch": 0
+    "patch": 1
   }
 }

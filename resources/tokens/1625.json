@@ -4,16 +4,8 @@
   "keywords": [
     "defi"
   ],
-  "timestamp": "2025-09-22T12:00:50.703+00:00",
+  "timestamp": "2025-09-24T09:00:29.691+00:00",
   "tokens": [
-    {
-      "chainId": 1625,
-      "address": "0xc314b8637b05a294ae9d9c29300d5f667c748bad",
-      "name": "Latch Staked ETH",
-      "symbol": "ATETH",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/51956/thumb/eth-white-bg.png?1732239149"
-    },
     {
       "chainId": 1625,
       "address": "0xc4af68dd5b96f0a544c4417407773fefdc97f58d",
@@ -32,11 +24,19 @@
     },
     {
       "chainId": 1625,
+      "address": "0xc314b8637b05a294ae9d9c29300d5f667c748bad",
+      "name": "Latch Staked ETH",
+      "symbol": "ATETH",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/51956/thumb/eth-white-bg.png?1732239149"
+    },
+    {
+      "chainId": 1625,
       "address": "0xf6f832466cd6c21967e0d954109403f36bc8ceaa",
-      "name": "Stargate Bridged WETH  Gravity ",
+      "name": "Stargate Bridged WETH",
       "symbol": "WETH",
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/51958/thumb/wETH_32.png?1732239620"
+      "logoURI": "https://assets.coingecko.com/coins/images/69466/thumb/weth_2.jpg?1758701596"
     },
     {
       "chainId": 1625,
@@ -50,6 +50,6 @@
   "version": {
     "major": 0,
     "minor": 1,
-    "patch": 1
+    "patch": 2
   }
 }

@@ -4,16 +4,8 @@
   "keywords": [
     "defi"
   ],
-  "timestamp": "2025-09-22T11:01:37.041+00:00",
+  "timestamp": "2025-09-24T09:00:52.988+00:00",
   "tokens": [
-    {
-      "chainId": 5031,
-      "address": "0x046ede9564a72571df6f5e44d0405360c0f4dcab",
-      "name": "Wrapped SOMI",
-      "symbol": "WSOMI",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/69031/thumb/somi.png?1757319530"
-    },
     {
       "chainId": 5031,
       "address": "0xc063b29cd6b30885783b505ae180b3079e0a2154",
@@ -24,11 +16,27 @@
     },
     {
       "chainId": 5031,
+      "address": "0x046ede9564a72571df6f5e44d0405360c0f4dcab",
+      "name": "Wrapped SOMI",
+      "symbol": "WSOMI",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/69031/thumb/somi.png?1757319530"
+    },
+    {
+      "chainId": 5031,
       "address": "0x67b302e35aef5eee8c32d934f5856869ef428330",
       "name": "Stargate Bridged USDT  Somnia ",
       "symbol": "USDT",
       "decimals": 6,
       "logoURI": "https://assets.coingecko.com/coins/images/69034/thumb/usdt.jpg?1757320116"
+    },
+    {
+      "chainId": 5031,
+      "address": "0x936ab8c674bcb567cd5deb85d8a216494704e9d8",
+      "name": "Stargate Bridged WETH",
+      "symbol": "WETH",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/69466/thumb/weth_2.jpg?1758701596"
     },
     {
       "chainId": 5031,
@@ -41,7 +49,7 @@
   ],
   "version": {
     "major": 0,
-    "minor": 0,
-    "patch": 2
+    "minor": 1,
+    "patch": 0
   }
 }

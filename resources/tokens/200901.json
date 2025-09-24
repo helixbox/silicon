@@ -4,7 +4,7 @@
   "keywords": [
     "defi"
   ],
-  "timestamp": "2025-09-07T08:00:18.515+00:00",
+  "timestamp": "2025-09-24T12:00:14.877+00:00",
   "tokens": [
     {
       "chainId": 200901,
@@ -64,6 +64,14 @@
     },
     {
       "chainId": 200901,
+      "address": "0x11b3808a5c0b612bc284ef7c2c6034c77a66be7b",
+      "name": "Bedrock BTC",
+      "symbol": "BRBTC",
+      "decimals": 8,
+      "logoURI": "https://assets.coingecko.com/coins/images/53039/thumb/brBTC_200.png?1735074374"
+    },
+    {
+      "chainId": 200901,
       "address": "0x56b275c0ec034a229a1ded8db17089544bc276d9",
       "name": "Chainlink",
       "symbol": "LINK",
@@ -81,7 +89,7 @@
   ],
   "version": {
     "major": 1,
-    "minor": 2,
-    "patch": 1
+    "minor": 3,
+    "patch": 0
   }
 }

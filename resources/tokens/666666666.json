@@ -4,15 +4,8 @@
   "keywords": [
     "defi"
   ],
-  "timestamp": "2025-05-02T11:00:02.354+00:00",
+  "timestamp": "2025-09-24T09:00:02.810+00:00",
   "tokens": [
-    {
-      "chainId": 666666666,
-      "address": "0xeb1c32ea4e392346795aed3607f37646e2a9c13f",
-      "name": "All Time High",
-      "symbol": "ATH",
-      "decimals": 18
-    },
     {
       "chainId": 666666666,
       "address": "0x4c9436d7aac04a40aca30ab101107081223d6e92",
@@ -31,16 +24,31 @@
     },
     {
       "chainId": 666666666,
+      "address": "0xeb1c32ea4e392346795aed3607f37646e2a9c13f",
+      "name": "All Time High",
+      "symbol": "ATH",
+      "decimals": 18
+    },
+    {
+      "chainId": 666666666,
       "address": "0x0c3544b0b78a0eea3bb4ca3774b72055a66e4ee5",
       "name": "DegenSwap",
       "symbol": "DSWAP",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/36801/thumb/degenswap.jpeg?1712469536"
+    },
+    {
+      "chainId": 666666666,
+      "address": "0x2f6f07cdcf3588944bf4c42ac74ff24bf56e7590",
+      "name": "Stargate Bridged WETH",
+      "symbol": "WETH",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/69466/thumb/weth_2.jpg?1758701596"
     }
   ],
   "version": {
     "major": 2,
-    "minor": 0,
+    "minor": 1,
     "patch": 0
   }
 }
