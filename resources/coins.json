@@ -16573,14 +16573,6 @@
     }
   },
   {
-    "id": "betterbelong",
-    "symbol": "long",
-    "name": "LONG",
-    "platforms": {
-      "base": "0x2816a491dd0b7a88d84cbded842a618e59016888"
-    }
-  },
-  {
     "id": "betterfan",
     "symbol": "bff",
     "name": "BetterFan",
@@ -32242,6 +32234,7 @@
     "name": "WalletConnect Token",
     "platforms": {
       "optimistic-ethereum": "0xef4461891dfb3ac8572ccf7c794664a8dd927945",
+      "base": "0xef4461891dfb3ac8572ccf7c794664a8dd927945",
       "ethereum": "0xef4461891dfb3ac8572ccf7c794664a8dd927945",
       "solana": "WCTk5xWdn5SYg56twGj32sUF3W4WFQ48ogezLBuYTBY"
     }
@@ -32691,6 +32684,14 @@
     "name": "coreDAO",
     "platforms": {
       "ethereum": "0xf66cd2f8755a21d3c8683a10269f795c0532dd58"
+    }
+  },
+  {
+    "id": "coredao-bridged-weth-core",
+    "symbol": "weth",
+    "name": "CoreDAO Bridged WETH (Core)",
+    "platforms": {
+      "core": "0xeab3ac417c4d6df6b143346a46fee1b847b50296"
     }
   },
   {
@@ -35808,6 +35809,14 @@
     "name": "Cypherspace",
     "platforms": {
       "solana": "B1bY1U7KYLhj9iSEBCjpAMQB77taEndFSwwBbqRrpump"
+    }
+  },
+  {
+    "id": "cypher-tempre",
+    "symbol": "cphy",
+    "name": "Cypher Tempre",
+    "platforms": {
+      "base": "0x08df470d41c11ba5cb60242747d76c65ca52c94c"
     }
   },
   {
@@ -39385,14 +39394,6 @@
     "name": "DexQuark",
     "platforms": {
       "solana": "8PcpGQUjf5FuFgcDspcPgCDaTaUkpHgG9sM55tenpump"
-    }
-  },
-  {
-    "id": "dex-raiden",
-    "symbol": "dxr",
-    "name": "Dex Raiden",
-    "platforms": {
-      "binance-smart-chain": "0x5fb7097e62979907b4e71a5989cf695d635890c0"
     }
   },
   {
@@ -48069,9 +48070,9 @@
       "fraxtal": "0x58538e6a46e07434d7e7375bc268d3cb839c0133",
       "mantle": "0x58538e6a46e07434d7e7375bc268d3cb839c0133",
       "metis-andromeda": "0x58538e6a46e07434d7e7375bc268d3cb839c0133",
+      "zircuit": "0x813635891aa06bd55036bbd8f7d1a34ab3de9a0f",
       "manta-pacific": "0x58538e6a46e07434d7e7375bc268d3cb839c0133",
       "kava": "0x58538e6a46e07434d7e7375bc268d3cb839c0133",
-      "zircuit": "0x813635891aa06bd55036bbd8f7d1a34ab3de9a0f",
       "swellchain": "0x58538e6a46e07434d7e7375bc268d3cb839c0133",
       "morph-l2": "0x58538e6a46e07434d7e7375bc268d3cb839c0133",
       "blast": "0x58538e6a46e07434d7e7375bc268d3cb839c0133",
@@ -52743,6 +52744,14 @@
     "name": "Fooday",
     "platforms": {
       "polygon-pos": "0x78b1aa5c9b37c52695c93448ad0c64560edb9c4d"
+    }
+  },
+  {
+    "id": "food-for-gaza",
+    "symbol": "ffg",
+    "name": "FOOD FOR GAZA",
+    "platforms": {
+      "solana": "FTkJ6EjsTLpmQUU9cgbtHjhXuBHrwY6UGRsrgWKtpump"
     }
   },
   {
@@ -61379,7 +61388,9 @@
     "id": "hana-network",
     "symbol": "hana",
     "name": "Hana Network",
-    "platforms": {}
+    "platforms": {
+      "binance-smart-chain": "0x6261963ebe9ff014aad10ecc3b0238d4d04e8353"
+    }
   },
   {
     "id": "hanbao",
@@ -65038,6 +65049,14 @@
     }
   },
   {
+    "id": "hydrated-dollar",
+    "symbol": "hollar",
+    "name": "Hydrated Dollar",
+    "platforms": {
+      "hydration": "0x531a654d1696ed52e7275a8cede955e82620f99a"
+    }
+  },
+  {
     "id": "hydraverse",
     "symbol": "hdv",
     "name": "Hydraverse",
@@ -68380,14 +68399,6 @@
     "name": "Iron Bank EUR",
     "platforms": {
       "ethereum": "0x96e61422b6a9ba0e068b6c5add4ffabc6a4aae27"
-    }
-  },
-  {
-    "id": "ironclad-usd",
-    "symbol": "iusd",
-    "name": "Ironclad USD",
-    "platforms": {
-      "mode": "0xa70266c8f8cf33647dcfee763961aff418d9e1e4"
     }
   },
   {
@@ -72317,15 +72328,6 @@
     }
   },
   {
-    "id": "kewl-exchange",
-    "symbol": "kwl",
-    "name": "KEWL EXCHANGE",
-    "platforms": {
-      "chiliz": "0xed5740209fcf6974d6f3a5f11e295b5e468ac27c",
-      "arbitrum-one": "0xed5740209fcf6974d6f3a5f11e295b5e468ac27c"
-    }
-  },
-  {
     "id": "key-2",
     "symbol": "key",
     "name": "KEY",
@@ -73436,11 +73438,11 @@
     }
   },
   {
-    "id": "kobe-2",
+    "id": "kobe-the-shiba-inu",
     "symbol": "kobe",
-    "name": "Kobe",
+    "name": "Kobe the Shiba Inu",
     "platforms": {
-      "ethereum": "0x6786eeb636a491d9a84a834d45879daf08548f6f"
+      "ethereum": "0xdecd530d9403c5b4716be6b9494d229c12ccf409"
     }
   },
   {
@@ -75707,14 +75709,6 @@
     }
   },
   {
-    "id": "layerzero-bridged-rsweth-swellchain",
-    "symbol": "rsweth",
-    "name": "Layerzero Bridged rswETH (Swellchain)",
-    "platforms": {
-      "swellchain": "0x18d33689ae5d02649a859a1cf16c9f0563975258"
-    }
-  },
-  {
     "id": "layerzero-bridged-sei",
     "symbol": "sei",
     "name": "LayerZero Bridged Sei",
@@ -77189,6 +77183,14 @@
     }
   },
   {
+    "id": "lily-2",
+    "symbol": "lily",
+    "name": "LILY",
+    "platforms": {
+      "abstract": "0x57848f2088221b00fdb07ffd4ee925aaa4986472"
+    }
+  },
+  {
     "id": "lily-s-coin",
     "symbol": "lily",
     "name": "Lily's Coin",
@@ -77247,6 +77249,12 @@
     "platforms": {
       "solana": "6XeKQANyUDM887uVq4PLaFKyPdBUoFTTTVunubbTEtBe"
     }
+  },
+  {
+    "id": "limitless-3",
+    "symbol": "lmts",
+    "name": "Limitless",
+    "platforms": {}
   },
   {
     "id": "limitus",
@@ -86909,9 +86917,11 @@
   },
   {
     "id": "mira-3",
-    "symbol": "$mira",
-    "name": "MIRA",
-    "platforms": {}
+    "symbol": "mira",
+    "name": "Mira Network",
+    "platforms": {
+      "base": "0x7aafd31a321d3627b30a8e2171264b56852187fe"
+    }
   },
   {
     "id": "miracle-play",
@@ -91007,6 +91017,12 @@
     }
   },
   {
+    "id": "mythical-gem",
+    "symbol": "gem",
+    "name": "Mythical Gem",
+    "platforms": {}
+  },
+  {
     "id": "mythos",
     "symbol": "myth",
     "name": "Mythos",
@@ -94773,9 +94789,13 @@
   {
     "id": "novatti-australian-digital-dollar",
     "symbol": "audd",
-    "name": "Novatti Australian Digital Dollar",
+    "name": "Australian Digital Dollar",
     "platforms": {
       "ethereum": "0x4cce605ed955295432958d8951d0b176c10720d5",
+      "base": "0x449b3317a6d1efb1bc3ba0700c9eaa4ffff4ae65",
+      "hedera-hashgraph": "0x39ceba2b467fa987546000eb5d1373acf1f3a2e1",
+      "solana": "AUDDttiEpCydTm7joUMbYddm72jAWXZnCpPZtDoxqBSw",
+      "xdc-network": "0x9fe4e6321eeb7c4bc537570f015e4734b15002b8",
       "xrp": "rUN5Zxt3K1AnMRJgEWywDJT8QDMMeLH5ok",
       "stellar": "GDC7X2MXTYSAKUUGAIQ7J7RPEIM7GXSAIWFYWWH4GLNFECQVJJLB2EEU"
     }
@@ -103786,7 +103806,9 @@
     "id": "plasma",
     "symbol": "xpl",
     "name": "Plasma",
-    "platforms": {}
+    "platforms": {
+      "binance-smart-chain": "0x405fbc9004d857903bfd6b3357792d71a50726b0"
+    }
   },
   {
     "id": "plasma-finance",
@@ -111683,6 +111705,14 @@
     }
   },
   {
+    "id": "resister",
+    "symbol": "rstr",
+    "name": "Resister",
+    "platforms": {
+      "ethereum": "0x55db4801e4d9781e99b9cc2ceea1b4bcfe2f85dc"
+    }
+  },
+  {
     "id": "resolv",
     "symbol": "resolv",
     "name": "Resolv",
@@ -111783,7 +111813,12 @@
     "symbol": "rsweth",
     "name": "Restaked Swell ETH",
     "platforms": {
-      "ethereum": "0xfae103dc9cf190ed75350761e95403b7b8afa6c0"
+      "ethereum": "0xfae103dc9cf190ed75350761e95403b7b8afa6c0",
+      "scroll": "0x89f17ab70cafb1468d633056161573efefea0713",
+      "arbitrum-one": "0xb1fe27b32ffb5ce54e272c096547f1e86c19e72f",
+      "berachain": "0x850cdf416668210ed0c36bfff5d21921c7ada3b8",
+      "swellchain": "0x18d33689ae5d02649a859a1cf16c9f0563975258",
+      "zircuit": "0xd8b29106d4cebad087c30b10c0e41baa3a9ea703"
     }
   },
   {
@@ -113290,6 +113325,14 @@
     }
   },
   {
+    "id": "rockycat",
+    "symbol": "rkc",
+    "name": "RockyCat",
+    "platforms": {
+      "binance-smart-chain": "0x860de30baf288efaefd90f2700358d26d4fc4444"
+    }
+  },
+  {
     "id": "rocky-on-base",
     "symbol": "$rocky",
     "name": "ROCKY",
@@ -113896,14 +113939,6 @@
     "name": "RSS3 Bridged USDC (RSS3)",
     "platforms": {
       "rss3-vsl": "0xb62f35b9546a908d11c5803ecbba735abc3e3eae"
-    }
-  },
-  {
-    "id": "rubber-ducky-2",
-    "symbol": "rubber",
-    "name": "Rubber Ducky",
-    "platforms": {
-      "binance-smart-chain": "0x016d46f222bd2078570804d111dbd89ac54b8400"
     }
   },
   {
@@ -120639,14 +120674,6 @@
     }
   },
   {
-    "id": "snark-launch",
-    "symbol": "$snrk",
-    "name": "Snark Launch",
-    "platforms": {
-      "zksync": "0x533b5f887383196c6bc642f83338a69596465307"
-    }
-  },
-  {
     "id": "snek",
     "symbol": "snek",
     "name": "Snek",
@@ -125895,6 +125922,14 @@
     }
   },
   {
+    "id": "stax-token",
+    "symbol": "$stax",
+    "name": "STAX Token",
+    "platforms": {
+      "ethereum": "0xd70030cb861be7a7788f699e4f5ca8d51b31102d"
+    }
+  },
+  {
     "id": "staynex",
     "symbol": "stay",
     "name": "STAYNEX",
@@ -129649,14 +129684,6 @@
       "elrond": "TADA-5c032c",
       "binance-smart-chain": "0x9b26e318bc6a2c8b45f5daea2cc14697e0e0f8b5",
       "solana": "AY1emMxqWLJnHE2HkQvLdLyVpZdsLzq4S3tx5whCNQoC"
-    }
-  },
-  {
-    "id": "tadpole",
-    "symbol": "tad",
-    "name": "Tadpole",
-    "platforms": {
-      "base": "0x55027a5b06f4340cc4c82dcc74c90ca93dcb173e"
     }
   },
   {
@@ -140514,6 +140541,14 @@
     }
   },
   {
+    "id": "vcred",
+    "symbol": "vcred",
+    "name": "VCRED",
+    "platforms": {
+      "hemi": "0x71881974e96152643c74a8e0214b877cfb2a0aa1"
+    }
+  },
+  {
     "id": "vcw",
     "symbol": "vcw",
     "name": "VCW",
@@ -147732,7 +147767,7 @@
   {
     "id": "wrapped-ether-mantle-bridge",
     "symbol": "weth",
-    "name": "Wrapped Ether (Mantle Bridge)",
+    "name": "Mantle Bridged WETH (Mantle)",
     "platforms": {
       "mantle": "0xdeaddeaddeaddeaddeaddeaddeaddeaddead1111"
     }
@@ -154369,14 +154404,6 @@
     "name": "ZIK coin",
     "platforms": {
       "ethereum": "0xd4419c2d3daa986dc30444fa333a846be44fd1eb"
-    }
-  },
-  {
-    "id": "zik-token",
-    "symbol": "zik",
-    "name": "Ziktalk",
-    "platforms": {
-      "ethereum": "0x88303fed02b31db9c7a9eafb711da9ef4a03e5d3"
     }
   },
   {

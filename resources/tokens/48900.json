@@ -4,8 +4,16 @@
   "keywords": [
     "defi"
   ],
-  "timestamp": "2025-09-12T18:00:07.468+00:00",
+  "timestamp": "2025-09-25T05:00:00.874+00:00",
   "tokens": [
+    {
+      "chainId": 48900,
+      "address": "0x58024021fe3ef613fa76e2f36a3da97eb1454c36",
+      "name": "Ocelex",
+      "symbol": "OCX",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/54683/thumb/ocxLogo.png?1740994965"
+    },
     {
       "chainId": 48900,
       "address": "0x46dda6a5a559d861c06ec9a95fb395f5c3db0742",
@@ -13,14 +21,6 @@
       "symbol": "USDT",
       "decimals": 6,
       "logoURI": "https://assets.coingecko.com/coins/images/52629/thumb/USDT.png?1733824032"
-    },
-    {
-      "chainId": 48900,
-      "address": "0xa608512bbc9934e4b1ddecf0f5fb38b6ad93308d",
-      "name": "Gud Tech",
-      "symbol": "GUD",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/53326/thumb/Logo.png?1736127749"
     },
     {
       "chainId": 48900,
@@ -32,11 +32,19 @@
     },
     {
       "chainId": 48900,
-      "address": "0x58024021fe3ef613fa76e2f36a3da97eb1454c36",
-      "name": "Ocelex",
-      "symbol": "OCX",
+      "address": "0xa608512bbc9934e4b1ddecf0f5fb38b6ad93308d",
+      "name": "Gud Tech",
+      "symbol": "GUD",
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/54683/thumb/ocxLogo.png?1740994965"
+      "logoURI": "https://assets.coingecko.com/coins/images/53326/thumb/Logo.png?1736127749"
+    },
+    {
+      "chainId": 48900,
+      "address": "0xd8b29106d4cebad087c30b10c0e41baa3a9ea703",
+      "name": "Restaked Swell ETH",
+      "symbol": "RSWETH",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/34489/thumb/rswETH_Icon.png?1706865484"
     },
     {
       "chainId": 48900,
@@ -81,7 +89,7 @@
   ],
   "version": {
     "major": 1,
-    "minor": 8,
+    "minor": 9,
     "patch": 0
   }
 }
