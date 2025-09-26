@@ -4,7 +4,7 @@
   "keywords": [
     "defi"
   ],
-  "timestamp": "2025-09-04T07:00:37.637+00:00",
+  "timestamp": "2025-09-26T10:00:27.281+00:00",
   "tokens": [
     {
       "chainId": 480,
@@ -16,11 +16,11 @@
     },
     {
       "chainId": 480,
-      "address": "0x03c7054bcb39f7b2e5b2c7acb37583e32d70cfa3",
-      "name": "Bridged Wrapped Bitcoin  Worldchain ",
-      "symbol": "WBTC",
-      "decimals": 8,
-      "logoURI": "https://assets.coingecko.com/coins/images/51159/thumb/wbtc_28.png?1730242311"
+      "address": "0x6770a7133bd0d74f95e4c9e9b7735bb4cd5653a6",
+      "name": "World Cat",
+      "symbol": "WORLDCAT",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/67236/thumb/worldcat-logo.jpg?1752144407"
     },
     {
       "chainId": 480,
@@ -32,11 +32,11 @@
     },
     {
       "chainId": 480,
-      "address": "0x6770a7133bd0d74f95e4c9e9b7735bb4cd5653a6",
-      "name": "World Cat",
-      "symbol": "WORLDCAT",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/67236/thumb/worldcat-logo.jpg?1752144407"
+      "address": "0x03c7054bcb39f7b2e5b2c7acb37583e32d70cfa3",
+      "name": "Bridged Wrapped Bitcoin  Worldchain ",
+      "symbol": "WBTC",
+      "decimals": 8,
+      "logoURI": "https://assets.coingecko.com/coins/images/51159/thumb/wbtc_28.png?1730242311"
     },
     {
       "chainId": 480,
@@ -45,6 +45,14 @@
       "symbol": "WETH",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/50790/thumb/wETH_32.png?1729214345"
+    },
+    {
+      "chainId": 480,
+      "address": "0x102d758f688a4c1c5a80b116bd945d4455460282",
+      "name": "Stargate Bridged USDT0",
+      "symbol": "USDT0",
+      "decimals": 6,
+      "logoURI": "https://assets.coingecko.com/coins/images/69528/thumb/usdt0.jpg?1758873945"
     },
     {
       "chainId": 480,
@@ -112,19 +120,19 @@
     },
     {
       "chainId": 480,
-      "address": "0x4809010926aec940b550d34a46a52739f996d75d",
-      "name": "Wrapped Savings rUSD",
-      "symbol": "WSRUSD",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/66163/thumb/wsrUSD.png?1748500965"
-    },
-    {
-      "chainId": 480,
       "address": "0x915b648e994d5f31059b38223b9fbe98ae185473",
       "name": "Chainlink",
       "symbol": "LINK",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/877/thumb/chainlink-new-logo.png?1696502009"
+    },
+    {
+      "chainId": 480,
+      "address": "0x4809010926aec940b550d34a46a52739f996d75d",
+      "name": "Wrapped Savings rUSD",
+      "symbol": "WSRUSD",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/66163/thumb/wsrUSD.png?1748500965"
     },
     {
       "chainId": 480,
@@ -137,7 +145,7 @@
   ],
   "version": {
     "major": 1,
-    "minor": 3,
+    "minor": 4,
     "patch": 0
   }
 }

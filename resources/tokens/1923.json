@@ -4,7 +4,7 @@
   "keywords": [
     "defi"
   ],
-  "timestamp": "2025-09-25T04:01:22.424+00:00",
+  "timestamp": "2025-09-26T09:01:13.536+00:00",
   "tokens": [
     {
       "chainId": 1923,
@@ -13,6 +13,14 @@
       "symbol": "SWELL",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/53670/thumb/66ff8288d441ad252025f769_swellToken.png?1737007034"
+    },
+    {
+      "chainId": 1923,
+      "address": "0x1cf7b5f266a0f39d6f9408b90340e3e71df8bf7b",
+      "name": "Layerzero Bridged swBTC  Swellchain ",
+      "symbol": "SWBTC",
+      "decimals": 8,
+      "logoURI": "https://assets.coingecko.com/coins/images/53657/thumb/66ff59725979d3c6635ecae5_swBTC.png?1737001044"
     },
     {
       "chainId": 1923,
@@ -32,14 +40,6 @@
     },
     {
       "chainId": 1923,
-      "address": "0x1cf7b5f266a0f39d6f9408b90340e3e71df8bf7b",
-      "name": "Layerzero Bridged swBTC  Swellchain ",
-      "symbol": "SWBTC",
-      "decimals": 8,
-      "logoURI": "https://assets.coingecko.com/coins/images/53657/thumb/66ff59725979d3c6635ecae5_swBTC.png?1737001044"
-    },
-    {
-      "chainId": 1923,
       "address": "0x4200000000000000000000000000000000000006",
       "name": "Layerzero Bridged Wrapped Ether  Swellc",
       "symbol": "WETH",
@@ -53,6 +53,14 @@
       "symbol": "RSWETH",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/34489/thumb/rswETH_Icon.png?1706865484"
+    },
+    {
+      "chainId": 1923,
+      "address": "0x102d758f688a4c1c5a80b116bd945d4455460282",
+      "name": "Stargate Bridged USDT0",
+      "symbol": "USDT0",
+      "decimals": 6,
+      "logoURI": "https://assets.coingecko.com/coins/images/69528/thumb/usdt0.jpg?1758873945"
     },
     {
       "chainId": 1923,
@@ -121,7 +129,7 @@
   ],
   "version": {
     "major": 3,
-    "minor": 3,
-    "patch": 1
+    "minor": 4,
+    "patch": 0
   }
 }
