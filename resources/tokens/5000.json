@@ -4,24 +4,8 @@
   "keywords": [
     "defi"
   ],
-  "timestamp": "2025-09-12T18:01:23.904+00:00",
+  "timestamp": "2025-09-25T11:00:35.408+00:00",
   "tokens": [
-    {
-      "chainId": 5000,
-      "address": "0x671642ac281c760e34251d51bc9eef27026f3b7a",
-      "name": "Mantle Index Four Fund",
-      "symbol": "MI4",
-      "decimals": 6,
-      "logoURI": "https://assets.coingecko.com/coins/images/66570/thumb/mi4.png?1749795929"
-    },
-    {
-      "chainId": 5000,
-      "address": "0xabbeed1d173541e0546b38b1c0394975be200000",
-      "name": "Slash Vision Labs",
-      "symbol": "SVL",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/37444/thumb/svl.jpeg?1714443652"
-    },
     {
       "chainId": 5000,
       "address": "0x201eba5cc46d216ce6dc03f6a759e8e766e956ae",
@@ -32,11 +16,11 @@
     },
     {
       "chainId": 5000,
-      "address": "0x26a6b0dcdcfb981362afa56d581e4a7dba3be140",
-      "name": "Puff The Dragon",
-      "symbol": "PUFF",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/35950/thumb/photo_2024-03-11_10.18.27.jpeg?1710240090"
+      "address": "0x671642ac281c760e34251d51bc9eef27026f3b7a",
+      "name": "Mantle Index Four Fund",
+      "symbol": "MI4",
+      "decimals": 6,
+      "logoURI": "https://assets.coingecko.com/coins/images/66570/thumb/mi4.png?1749795929"
     },
     {
       "chainId": 5000,
@@ -48,14 +32,6 @@
     },
     {
       "chainId": 5000,
-      "address": "0x25356aeca4210ef7553140edb9b8026089e49396",
-      "name": "Lendle",
-      "symbol": "LEND",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/31588/thumb/lendle_logo_200_200_cg.png?1696530405"
-    },
-    {
-      "chainId": 5000,
       "address": "0x51cfe5b1e764dc253f4c8c1f19a081ff4c3517ed",
       "name": "Mantle Inu",
       "symbol": "MINU",
@@ -64,11 +40,19 @@
     },
     {
       "chainId": 5000,
-      "address": "0x4515a45337f461a11ff0fe8abf3c606ae5dc00c9",
-      "name": "MOE",
-      "symbol": "MOE",
+      "address": "0x25356aeca4210ef7553140edb9b8026089e49396",
+      "name": "Lendle",
+      "symbol": "LEND",
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/34422/thumb/MOE.png?1704821927"
+      "logoURI": "https://assets.coingecko.com/coins/images/31588/thumb/lendle_logo_200_200_cg.png?1696530405"
+    },
+    {
+      "chainId": 5000,
+      "address": "0xabbeed1d173541e0546b38b1c0394975be200000",
+      "name": "Slash Vision Labs",
+      "symbol": "SVL",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/37444/thumb/svl.jpeg?1714443652"
     },
     {
       "chainId": 5000,
@@ -76,6 +60,22 @@
       "name": "Mantle USD",
       "symbol": "MUSD",
       "decimals": 18
+    },
+    {
+      "chainId": 5000,
+      "address": "0x26a6b0dcdcfb981362afa56d581e4a7dba3be140",
+      "name": "Puff The Dragon",
+      "symbol": "PUFF",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/35950/thumb/photo_2024-03-11_10.18.27.jpeg?1710240090"
+    },
+    {
+      "chainId": 5000,
+      "address": "0x4515a45337f461a11ff0fe8abf3c606ae5dc00c9",
+      "name": "MOE",
+      "symbol": "MOE",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/34422/thumb/MOE.png?1704821927"
     },
     {
       "chainId": 5000,
@@ -104,10 +104,10 @@
     {
       "chainId": 5000,
       "address": "0xdeaddeaddeaddeaddeaddeaddeaddeaddead1111",
-      "name": "Wrapped Ether  Mantle Bridge ",
+      "name": "Mantle Bridged WETH  Mantle ",
       "symbol": "WETH",
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/31013/thumb/wrapped-eth-mantle-bridge.png?1696529850"
+      "logoURI": "https://assets.coingecko.com/coins/images/31013/thumb/weth_2.jpg?1758795984"
     },
     {
       "chainId": 5000,
@@ -140,6 +140,14 @@
       "symbol": "MNT",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/30980/thumb/Mantle-Logo-mark.png?1739213200"
+    },
+    {
+      "chainId": 5000,
+      "address": "0x5be26527e817998a7206475496fde1e68957c5a6",
+      "name": "Ondo US Dollar Yield",
+      "symbol": "USDY",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/31700/thumb/usdy_%281%29.png?1696530524"
     },
     {
       "chainId": 5000,
@@ -295,14 +303,6 @@
     },
     {
       "chainId": 5000,
-      "address": "0x5be26527e817998a7206475496fde1e68957c5a6",
-      "name": "Ondo US Dollar Yield",
-      "symbol": "USDY",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/31700/thumb/usdy_%281%29.png?1696530524"
-    },
-    {
-      "chainId": 5000,
       "address": "0xeb466342c4d449bc9f53a865d5cb90586f405215",
       "name": "Axelar Bridged USDC",
       "symbol": "AXLUSDC",
@@ -401,6 +401,6 @@
   "version": {
     "major": 18,
     "minor": 4,
-    "patch": 0
+    "patch": 1
   }
 }

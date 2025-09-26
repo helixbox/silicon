@@ -4,8 +4,16 @@
   "keywords": [
     "defi"
   ],
-  "timestamp": "2025-08-23T09:00:23.061+00:00",
+  "timestamp": "2025-09-25T16:00:21.828+00:00",
   "tokens": [
+    {
+      "chainId": 39797,
+      "address": "0xc3c19ee91cf3c1f7fbf3716a09d21dc35de0bd6d",
+      "name": "Multichain Bridged WBNB  Energi ",
+      "symbol": "WBNB",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/53080/thumb/wrapped_bnb.png?1735265046"
+    },
     {
       "chainId": 39797,
       "address": "0x78b050d981d7f6e019bf6e361d0d1167de6b19da",
@@ -21,22 +29,6 @@
       "symbol": "DAI",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/39802/thumb/dai.png?1724125849"
-    },
-    {
-      "chainId": 39797,
-      "address": "0xd7b8710f5713d2739da301a5ecdb8b6ffb5ec60d",
-      "name": "Energiswap WAVAX  Energi ",
-      "symbol": "EAVAX",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/53087/thumb/wrapped-avax.png?1735205549"
-    },
-    {
-      "chainId": 39797,
-      "address": "0x881145b61c604d4d27b8969b917bc4844cc8a9dc",
-      "name": "Energiswap SOL  Energi ",
-      "symbol": "ESOL",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/50310/thumb/sol.png?1727071737"
     },
     {
       "chainId": 39797,
@@ -56,11 +48,19 @@
     },
     {
       "chainId": 39797,
-      "address": "0xc3c19ee91cf3c1f7fbf3716a09d21dc35de0bd6d",
-      "name": "Multichain Bridged WBNB  Energi ",
-      "symbol": "WBNB",
+      "address": "0x881145b61c604d4d27b8969b917bc4844cc8a9dc",
+      "name": "Energiswap SOL  Energi ",
+      "symbol": "ESOL",
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/53080/thumb/wrapped_bnb.png?1735265046"
+      "logoURI": "https://assets.coingecko.com/coins/images/50310/thumb/sol.png?1727071737"
+    },
+    {
+      "chainId": 39797,
+      "address": "0xd7b8710f5713d2739da301a5ecdb8b6ffb5ec60d",
+      "name": "Energiswap WAVAX  Energi ",
+      "symbol": "EAVAX",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/53087/thumb/wrapped-avax.png?1735205549"
     },
     {
       "chainId": 39797,
@@ -357,14 +357,6 @@
       "symbol": "DODO",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/12651/thumb/dodo_logo.png?1696512458"
-    },
-    {
-      "chainId": 39797,
-      "address": "0x458a9f6a008055fd79f321ea7eb3f83a6cb326e2",
-      "name": "DUSK",
-      "symbol": "DUSK",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/5217/thumb/image_widget_biddfvxd454b1.png?1696505726"
     },
     {
       "chainId": 39797,
@@ -936,8 +928,8 @@
     }
   ],
   "version": {
-    "major": 8,
-    "minor": 1,
+    "major": 9,
+    "minor": 0,
     "patch": 0
   }
 }
