@@ -8670,6 +8670,14 @@
     }
   },
   {
+    "id": "ara",
+    "symbol": "ara",
+    "name": "ARA",
+    "platforms": {
+      "base": "0x111123ea4cee28cf010703593a8a2a3bbb91756c"
+    }
+  },
+  {
     "id": "arab-cat",
     "symbol": "arab",
     "name": "Arab cat",
@@ -18764,14 +18772,6 @@
     "name": "BitMinerX",
     "platforms": {
       "binance-smart-chain": "0x9200ce9cc03307e0d3a8da80dd0d416aea3e7a8b"
-    }
-  },
-  {
-    "id": "bitnasdaq",
-    "symbol": "bnq",
-    "name": "BitNasdaq",
-    "platforms": {
-      "ethereum": "0xeaa78305c19a292e5c141108f0880333a840a2bc"
     }
   },
   {
@@ -39267,6 +39267,14 @@
     "symbol": "devve",
     "name": "Devvio",
     "platforms": {}
+  },
+  {
+    "id": "dew-2",
+    "symbol": "dew",
+    "name": "DEW",
+    "platforms": {
+      "binance-smart-chain": "0xa9550c2112a277b03ccff6aa1baaacd74c754444"
+    }
   },
   {
     "id": "dewn",
@@ -62838,6 +62846,14 @@
     "name": "Henlo Kart",
     "platforms": {
       "base": "0x78aca94075efdfa7220cd7aae02ac1488a8c5134"
+    }
+  },
+  {
+    "id": "henny",
+    "symbol": "henny",
+    "name": "Henny",
+    "platforms": {
+      "besc-hyperchain": "0xc9f43061e326f9bf1c86a2e91c46d74c038808eb"
     }
   },
   {
@@ -88879,6 +88895,7 @@
     "name": "Moonflow",
     "platforms": {
       "polygon-pos": "0x7aefff599570dec2f3dbbc2ace3cb1f8206749eb",
+      "abstract": "0xe54e4e6ddf225dbc05ef15cc9aa78f34a16d5b60",
       "cronos": "0x46e2b5423f6ff46a8a35861ec9daff26af77ab9a",
       "cronos-zkevm": "0xc80b437c4c0f9c74cfb2e2d063a58ffb4f82d4f0"
     }
@@ -91424,15 +91441,6 @@
     "name": "Nasdao Ai",
     "platforms": {
       "solana": "FYFq8aYYpRgwH6x9Ez4M1xEnv6aWpMrtdhYRUhbJyo43"
-    }
-  },
-  {
-    "id": "nasdaq420",
-    "symbol": "nasdaq420",
-    "name": "Nasdaq420",
-    "platforms": {
-      "ethereum": "0x615987d46003cc37387dbe544ff4f16fa1200077",
-      "solana": "GXUisEapYfHJe8oFoWSPPyiLSLYT6Em9iEeXTFxUHyUA"
     }
   },
   {
@@ -98335,6 +98343,8 @@
     "name": "Orderly",
     "platforms": {
       "ethereum": "0xabd4c63d2616a5201454168269031355f4764337",
+      "abstract": "0x9a4c8cd493cf0bf8e14bda5890e3f03a1cded719",
+      "avalanche": "0x4e200fe2f3efb977d5fd9c430a41531fb04d97b8",
       "binance-smart-chain": "0x4e200fe2f3efb977d5fd9c430a41531fb04d97b8",
       "optimistic-ethereum": "0x4e200fe2f3efb977d5fd9c430a41531fb04d97b8",
       "solana": "ABt79MkRXUsoHuV2CVQT32YMXQhTparKFjmidQxgiQ6E",
@@ -107037,10 +107047,10 @@
     "name": "Prospective",
     "platforms": {
       "tron": "TFf1aBoNFqxN32V2NQdvNrXVyYCy9qY8p1",
+      "polygon-pos": "0xea0941c6e067a4fb4399436ad3e2510eb36b419d",
       "ethereum": "0xbe1936a67f503e0eaf2434b0cf9f4e3d7100008a",
       "bittorrent": "0x2b4d959393c49513ac28252bb0a63b0f009f68ee",
-      "binance-smart-chain": "0xbe1936a67f503e0eaf2434b0cf9f4e3d7100008a",
-      "polygon-pos": "0xea0941c6e067a4fb4399436ad3e2510eb36b419d"
+      "binance-smart-chain": "0xbe1936a67f503e0eaf2434b0cf9f4e3d7100008a"
     }
   },
   {
@@ -111157,7 +111167,10 @@
     "name": "Regen",
     "platforms": {
       "osmosis": "ibc/1DCC8A6CB5689018431323953344A9F6CC4D0BFB261E88C9F7777372C10CD076",
-      "evmos": "0x0ce35b0d42608ca54eb7bcc8044f7087c18e7717"
+      "evmos": "0x0ce35b0d42608ca54eb7bcc8044f7087c18e7717",
+      "celo": "0x2e6c05f1f7d1f4eb9a088bf12257f1647682b754",
+      "polygon-pos": "0xdfffe0c33b4011c4218acd61e68a62a32eaf9a8b",
+      "base": "0x2e6c05f1f7d1f4eb9a088bf12257f1647682b754"
     }
   },
   {
@@ -112820,6 +112833,7 @@
     "name": "River",
     "platforms": {
       "ethereum": "0xda7ad9dea9397cffddae2f8a052b82f1484252b3",
+      "base": "0xda7ad9dea9397cffddae2f8a052b82f1484252b3",
       "binance-smart-chain": "0xda7ad9dea9397cffddae2f8a052b82f1484252b3"
     }
   },
@@ -124476,6 +124490,14 @@
     "name": "SquidOnSui",
     "platforms": {
       "sui": "0x4f83caf6626d0f931ac519028e62a8f9d9fc8fdf62da09489023940fd0bba882::sqid::SQID"
+    }
+  },
+  {
+    "id": "squigglestrategy",
+    "symbol": "squigstr",
+    "name": "SquiggleStrategy",
+    "platforms": {
+      "ethereum": "0x742fd09cbbeb1ec4e3d6404dfc959a324deb50e6"
     }
   },
   {
@@ -146386,9 +146408,15 @@
   {
     "id": "wrapped-a7a5",
     "symbol": "wa7a5",
+    "name": "Wrapped A7A5 [OLD]",
+    "platforms": {}
+  },
+  {
+    "id": "wrapped-a7a5-2",
+    "symbol": "wa7a5",
     "name": "Wrapped A7A5",
     "platforms": {
-      "ethereum": "0x0d57436f2d39c0664c6f0f2e349229483f87ea38"
+      "ethereum": "0xf442ff10b8def89514560a66c0ad28777094636a"
     }
   },
   {
@@ -147647,6 +147675,7 @@
     "name": "Wrapped eETH",
     "platforms": {
       "ethereum": "0xcd5fe23c85820f7b72d0926fc9b05b43e359b7ee",
+      "plasma": "0xa3d68b74bf0528fdd07263c60d6488749044914b",
       "base": "0x04c0599ae5a44757c0af6f9ec3b93da8976c150a",
       "swellchain": "0xa6cb988942610f6731e664379d15ffcfbf282b44",
       "mode": "0x04c0599ae5a44757c0af6f9ec3b93da8976c150a",
