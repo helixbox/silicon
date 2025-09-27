@@ -4,7 +4,7 @@
   "keywords": [
     "defi"
   ],
-  "timestamp": "2025-09-26T17:00:30.172+00:00",
+  "timestamp": "2025-09-27T08:00:27.479+00:00",
   "tokens": [
     {
       "chainId": 2741,
@@ -21,6 +21,14 @@
       "symbol": "PRQT",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/68483/thumb/DIj7CDqm_400x400.jpg?1755887267"
+    },
+    {
+      "chainId": 2741,
+      "address": "0x84a71ccd554cc1b02749b35d22f684cc8ec987e1",
+      "name": "Stargate Bridged USDC",
+      "symbol": "USDCE",
+      "decimals": 6,
+      "logoURI": "https://assets.coingecko.com/coins/images/69316/thumb/usdc.jpg?1758186473"
     },
     {
       "chainId": 2741,
@@ -56,27 +64,11 @@
     },
     {
       "chainId": 2741,
-      "address": "0x4f62ab32fac017c303aee402b2b1725d100fe8a7",
-      "name": "CASH",
-      "symbol": "CASH",
+      "address": "0x3439153eb7af838ad19d56e1571fbd09333c2809",
+      "name": "L2 Standard Bridged WETH  Abstract ",
+      "symbol": "WETH",
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/69041/thumb/0x4f62ab32fac017c303aee402b2b1725d100fe8a7%282%29.png?1757326854"
-    },
-    {
-      "chainId": 2741,
-      "address": "0xdf70075737e9f96b078ab4461eee3e055e061223",
-      "name": "Bigcoin",
-      "symbol": "BIG",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/55214/thumb/H-4X_qxN_400x400-1.jpg?1755151435"
-    },
-    {
-      "chainId": 2741,
-      "address": "0x84a71ccd554cc1b02749b35d22f684cc8ec987e1",
-      "name": "Stargate Bridged USDC",
-      "symbol": "USDCE",
-      "decimals": 6,
-      "logoURI": "https://assets.coingecko.com/coins/images/69316/thumb/usdc.jpg?1758186473"
+      "logoURI": "https://assets.coingecko.com/coins/images/54027/thumb/weth.png?1738035079"
     },
     {
       "chainId": 2741,
@@ -88,51 +80,11 @@
     },
     {
       "chainId": 2741,
-      "address": "0x3520fc294a76c119c8924072c37992e39a626f85",
-      "name": "GORF",
-      "symbol": "GORF",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/55495/thumb/green.png?1746351672"
-    },
-    {
-      "chainId": 2741,
       "address": "0x231d510746ed6977dd8d692168fc98cdc52d1e34",
       "name": "BurnVault Cash",
       "symbol": "BURN",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/55196/thumb/logo.png?1744613003"
-    },
-    {
-      "chainId": 2741,
-      "address": "0x605895c31ae716fae8280504f96286d8dbda7f4a",
-      "name": "ABSGLORP",
-      "symbol": "GLORP",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/68344/thumb/pfp.png?1755410849"
-    },
-    {
-      "chainId": 2741,
-      "address": "0xf800a81b454c666390cf7b61462c9b18de23ada8",
-      "name": "SMP7700",
-      "symbol": "SMP",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/68336/thumb/logo.jpg?1755409090"
-    },
-    {
-      "chainId": 2741,
-      "address": "0x02b31475af969ea987dfe799c56451d532a146ee",
-      "name": "ABSCHAD",
-      "symbol": "CHAD",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/68255/thumb/DKyE8s47_400x400.jpg?1755201604"
-    },
-    {
-      "chainId": 2741,
-      "address": "0xaf31d07af1602dfce07fba81bca5f9570ca83983",
-      "name": "Rich Whale Alliance",
-      "symbol": "RWA",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/66175/thumb/REAL_WHALE_%287%29.png?1748585331"
     },
     {
       "chainId": 2741,
@@ -144,11 +96,43 @@
     },
     {
       "chainId": 2741,
+      "address": "0x02b31475af969ea987dfe799c56451d532a146ee",
+      "name": "ABSCHAD",
+      "symbol": "CHAD",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/68255/thumb/DKyE8s47_400x400.jpg?1755201604"
+    },
+    {
+      "chainId": 2741,
+      "address": "0x3520fc294a76c119c8924072c37992e39a626f85",
+      "name": "GORF",
+      "symbol": "GORF",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/55495/thumb/green.png?1746351672"
+    },
+    {
+      "chainId": 2741,
+      "address": "0xaf31d07af1602dfce07fba81bca5f9570ca83983",
+      "name": "Rich Whale Alliance",
+      "symbol": "RWA",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/66175/thumb/REAL_WHALE_%287%29.png?1748585331"
+    },
+    {
+      "chainId": 2741,
       "address": "0xc3882e7ce4d62bb571a6f417419c4e0ecb82d944",
       "name": "Rattler",
       "symbol": "RTR",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/68276/thumb/10.png?1755234613"
+    },
+    {
+      "chainId": 2741,
+      "address": "0xdf70075737e9f96b078ab4461eee3e055e061223",
+      "name": "Bigcoin",
+      "symbol": "BIG",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/55214/thumb/H-4X_qxN_400x400-1.jpg?1755151435"
     },
     {
       "chainId": 2741,
@@ -168,6 +152,30 @@
     },
     {
       "chainId": 2741,
+      "address": "0x605895c31ae716fae8280504f96286d8dbda7f4a",
+      "name": "ABSGLORP",
+      "symbol": "GLORP",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/68344/thumb/pfp.png?1755410849"
+    },
+    {
+      "chainId": 2741,
+      "address": "0x57848f2088221b00fdb07ffd4ee925aaa4986472",
+      "name": "LILY",
+      "symbol": "LILY",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/69502/thumb/ICON_LILY.png?1758778723"
+    },
+    {
+      "chainId": 2741,
+      "address": "0x92aba186c85b5afeb3a2cedc8772ae8638f1b565",
+      "name": "KONA",
+      "symbol": "KONA",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/69540/thumb/kona_token.png?1758957010"
+    },
+    {
+      "chainId": 2741,
       "address": "0x3d72ddd35cadb4e5b22cdb20b36f98077be84284",
       "name": "God The Dog",
       "symbol": "GOD",
@@ -184,27 +192,19 @@
     },
     {
       "chainId": 2741,
+      "address": "0xeef8fcc4f2d3630efac672814732579b0e2ca800",
+      "name": "GRONKE",
+      "symbol": "GRONKE",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/67067/thumb/gronke-logo.jpg?1751631396"
+    },
+    {
+      "chainId": 2741,
       "address": "0x8ad5c50511eb7e8f1b78d01373e3c663413e364d",
       "name": "ZIPPY",
       "symbol": "ZIPPY",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/55838/thumb/Zippy_pfp.jpg?1747404050"
-    },
-    {
-      "chainId": 2741,
-      "address": "0x8041fbc255d6e6330e92a61325da515656bfd2dd",
-      "name": "Yup",
-      "symbol": "YUP",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/54028/thumb/yup.jpg?1738036713"
-    },
-    {
-      "chainId": 2741,
-      "address": "0xc325b7e2736a5202bd860f5974d0aa375e57ede5",
-      "name": "Abster",
-      "symbol": "ABSTER",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/54607/thumb/AbsterCoingecko.png?1740646344"
     },
     {
       "chainId": 2741,
@@ -224,19 +224,19 @@
     },
     {
       "chainId": 2741,
-      "address": "0x0a2c776e4f9017ca0679e6064d2f99cf397b6457",
-      "name": "Thank You Abstract God",
-      "symbol": "TYAG",
+      "address": "0x2c46ad181b8ed22c5bf53e21de2af87b11888ecb",
+      "name": "VIBE",
+      "symbol": "VIBE",
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/55098/thumb/photo_2568-04-02_21.50.03.jpeg?1743751377"
+      "logoURI": "https://assets.coingecko.com/coins/images/54030/thumb/vibes.jpg?1738038964"
     },
     {
       "chainId": 2741,
-      "address": "0x3439153eb7af838ad19d56e1571fbd09333c2809",
-      "name": "L2 Standard Bridged WETH  Abstract ",
-      "symbol": "WETH",
+      "address": "0x8041fbc255d6e6330e92a61325da515656bfd2dd",
+      "name": "Yup",
+      "symbol": "YUP",
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/54027/thumb/weth.png?1738035079"
+      "logoURI": "https://assets.coingecko.com/coins/images/54028/thumb/yup.jpg?1738036713"
     },
     {
       "chainId": 2741,
@@ -245,6 +245,14 @@
       "symbol": "POLLY",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/55914/thumb/Polly_Official_PFP.jpg?1747708551"
+    },
+    {
+      "chainId": 2741,
+      "address": "0x0a2c776e4f9017ca0679e6064d2f99cf397b6457",
+      "name": "Thank You Abstract God",
+      "symbol": "TYAG",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/55098/thumb/photo_2568-04-02_21.50.03.jpeg?1743751377"
     },
     {
       "chainId": 2741,
@@ -272,11 +280,27 @@
     },
     {
       "chainId": 2741,
+      "address": "0x4f62ab32fac017c303aee402b2b1725d100fe8a7",
+      "name": "CASH",
+      "symbol": "CASH",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/69041/thumb/0x4f62ab32fac017c303aee402b2b1725d100fe8a7%282%29.png?1757326854"
+    },
+    {
+      "chainId": 2741,
       "address": "0xae1454ac3d03124b4b3fa8e6f9305f78aa004be6",
       "name": "UWU 69",
       "symbol": "UWU69",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/68885/thumb/uwulogo.png?1756894653"
+    },
+    {
+      "chainId": 2741,
+      "address": "0xf800a81b454c666390cf7b61462c9b18de23ada8",
+      "name": "SMP7700",
+      "symbol": "SMP",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/68336/thumb/logo.jpg?1755409090"
     },
     {
       "chainId": 2741,
@@ -296,27 +320,11 @@
     },
     {
       "chainId": 2741,
-      "address": "0x57848f2088221b00fdb07ffd4ee925aaa4986472",
-      "name": "LILY",
-      "symbol": "LILY",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/69502/thumb/ICON_LILY.png?1758778723"
-    },
-    {
-      "chainId": 2741,
       "address": "0x85ca16fd0e81659e0b8be337294149e722528731",
       "name": "Noot Noot",
       "symbol": "NOOT",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/54308/thumb/Screenshot_2025-01-28_132602-remove-background.com_%282%29.png?1739189556"
-    },
-    {
-      "chainId": 2741,
-      "address": "0xa8726bd058bea1973b61a9bc2a5e0e605b797307",
-      "name": "Abstract Liquid Staked ETH",
-      "symbol": "ABSETH",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/54980/thumb/absETH-token_icon.png?1743025959"
     },
     {
       "chainId": 2741,
@@ -344,19 +352,11 @@
     },
     {
       "chainId": 2741,
-      "address": "0x2c46ad181b8ed22c5bf53e21de2af87b11888ecb",
-      "name": "VIBE",
-      "symbol": "VIBE",
+      "address": "0xa8726bd058bea1973b61a9bc2a5e0e605b797307",
+      "name": "Abstract Liquid Staked ETH",
+      "symbol": "ABSETH",
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/54030/thumb/vibes.jpg?1738038964"
-    },
-    {
-      "chainId": 2741,
-      "address": "0xeef8fcc4f2d3630efac672814732579b0e2ca800",
-      "name": "GRONKE",
-      "symbol": "GRONKE",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/67067/thumb/gronke-logo.jpg?1751631396"
+      "logoURI": "https://assets.coingecko.com/coins/images/54980/thumb/absETH-token_icon.png?1743025959"
     },
     {
       "chainId": 2741,
@@ -365,6 +365,14 @@
       "symbol": "MOP",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/55100/thumb/coingeckopfp.png?1743751885"
+    },
+    {
+      "chainId": 2741,
+      "address": "0xc325b7e2736a5202bd860f5974d0aa375e57ede5",
+      "name": "Abster",
+      "symbol": "ABSTER",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/54607/thumb/AbsterCoingecko.png?1740646344"
     },
     {
       "chainId": 2741,
@@ -505,7 +513,7 @@
   ],
   "version": {
     "major": 0,
-    "minor": 58,
+    "minor": 59,
     "patch": 0
   }
 }
