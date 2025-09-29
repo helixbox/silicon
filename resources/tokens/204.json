@@ -4,15 +4,15 @@
   "keywords": [
     "defi"
   ],
-  "timestamp": "2025-09-27T11:00:05.299+00:00",
+  "timestamp": "2025-09-29T09:00:05.819+00:00",
   "tokens": [
     {
       "chainId": 204,
-      "address": "0x317bc431f7ef8b012dfbb563814de202f5469516",
-      "name": "WalkMining Governance",
-      "symbol": "WKG",
+      "address": "0x9e5aac1ba1a2e6aed6b32689dfcf62a509ca96f3",
+      "name": "Bridged Tether (opBNB)",
+      "symbol": "USDT",
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/38633/thumb/symbol_wkm_200.png?1718172340"
+      "logoURI": "https://assets.coingecko.com/coins/images/32613/thumb/usdt_opbnb_bridged.png?1698734789"
     },
     {
       "chainId": 204,
@@ -24,23 +24,23 @@
     },
     {
       "chainId": 204,
-      "address": "0x9e5aac1ba1a2e6aed6b32689dfcf62a509ca96f3",
-      "name": "Bridged Tether  opBNB ",
-      "symbol": "USDT",
+      "address": "0x317bc431f7ef8b012dfbb563814de202f5469516",
+      "name": "WalkMining Governance",
+      "symbol": "WKG",
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/32613/thumb/usdt_opbnb_bridged.png?1698734789"
+      "logoURI": "https://assets.coingecko.com/coins/images/38633/thumb/symbol_wkm_200.png?1718172340"
     },
     {
       "chainId": 204,
       "address": "0xe7798f023fc62146e8aa1b36da45fb70855a77ea",
-      "name": "Bridged Binance Peg Ethereum  opBNB ",
+      "name": "Bridged Binance-Peg Ethereum (opBNB)",
       "symbol": "ETH",
       "decimals": 18
     },
     {
       "chainId": 204,
       "address": "0x4200000000000000000000000000000000000006",
-      "name": "opBNB Bridged WBNB  opBNB ",
+      "name": "opBNB Bridged WBNB (opBNB)",
       "symbol": "WBNB",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/53120/thumb/wrapped_bnb.png?1735265071"
@@ -129,6 +129,6 @@
   "version": {
     "major": 4,
     "minor": 0,
-    "patch": 0
+    "patch": 1
   }
 }

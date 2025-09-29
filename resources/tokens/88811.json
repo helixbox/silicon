@@ -4,16 +4,8 @@
   "keywords": [
     "defi"
   ],
-  "timestamp": "2025-04-17T11:01:08.282+00:00",
+  "timestamp": "2025-09-29T09:00:32.721+00:00",
   "tokens": [
-    {
-      "chainId": 88811,
-      "address": "0x7900c01eed60868beea1de79730ca5633a4b6a45",
-      "name": "Sancho",
-      "symbol": "SANCHO",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/54962/thumb/Sancho_avatar.webp?1742893865"
-    },
     {
       "chainId": 88811,
       "address": "0xcf43f7703d9b4e8835f977ef364b4014fa7e856e",
@@ -24,8 +16,16 @@
     },
     {
       "chainId": 88811,
+      "address": "0x7900c01eed60868beea1de79730ca5633a4b6a45",
+      "name": "Sancho",
+      "symbol": "SANCHO",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/54962/thumb/Sancho_avatar.webp?1742893865"
+    },
+    {
+      "chainId": 88811,
       "address": "0xb303d80db8415fd1d3c9fed68a52eeac9a052671",
-      "name": "Unit0 Network Bridged USDT  Unit0 Netwo",
+      "name": "Unit0 Network Bridged USDT (Unit0 Network)",
       "symbol": "USDT",
       "decimals": 6,
       "logoURI": "https://assets.coingecko.com/coins/images/52719/thumb/usdt.jpg?1734077021"
@@ -34,6 +34,6 @@
   "version": {
     "major": 0,
     "minor": 2,
-    "patch": 0
+    "patch": 1
   }
 }

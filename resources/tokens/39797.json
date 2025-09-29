@@ -4,12 +4,12 @@
   "keywords": [
     "defi"
   ],
-  "timestamp": "2025-09-25T16:00:21.828+00:00",
+  "timestamp": "2025-09-29T09:00:20.039+00:00",
   "tokens": [
     {
       "chainId": 39797,
       "address": "0xc3c19ee91cf3c1f7fbf3716a09d21dc35de0bd6d",
-      "name": "Multichain Bridged WBNB  Energi ",
+      "name": "Multichain Bridged WBNB (Energi)",
       "symbol": "WBNB",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/53080/thumb/wrapped_bnb.png?1735265046"
@@ -17,26 +17,10 @@
     {
       "chainId": 39797,
       "address": "0x78b050d981d7f6e019bf6e361d0d1167de6b19da",
-      "name": "Multichain Bridged WETH  Energi ",
+      "name": "Multichain Bridged WETH (Energi)",
       "symbol": "WETH",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/39692/thumb/weth.png?1723670286"
-    },
-    {
-      "chainId": 39797,
-      "address": "0x0ee5893f434017d8881750101ea2f7c49c0eb503",
-      "name": "Multichain Bridged DAI  Energi ",
-      "symbol": "DAI",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/39802/thumb/dai.png?1724125849"
-    },
-    {
-      "chainId": 39797,
-      "address": "0xffd7510ca0a3279c7a5f50018a26c21d5bc1dbcf",
-      "name": "Energi Bridged USDC  Energi ",
-      "symbol": "USDC",
-      "decimals": 6,
-      "logoURI": "https://assets.coingecko.com/coins/images/35323/thumb/USDC.jpg?1708178353"
     },
     {
       "chainId": 39797,
@@ -48,8 +32,24 @@
     },
     {
       "chainId": 39797,
+      "address": "0x0ee5893f434017d8881750101ea2f7c49c0eb503",
+      "name": "Multichain Bridged DAI (Energi)",
+      "symbol": "DAI",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/39802/thumb/dai.png?1724125849"
+    },
+    {
+      "chainId": 39797,
+      "address": "0xffd7510ca0a3279c7a5f50018a26c21d5bc1dbcf",
+      "name": "Energi Bridged USDC (Energi)",
+      "symbol": "USDC",
+      "decimals": 6,
+      "logoURI": "https://assets.coingecko.com/coins/images/35323/thumb/USDC.jpg?1708178353"
+    },
+    {
+      "chainId": 39797,
       "address": "0x881145b61c604d4d27b8969b917bc4844cc8a9dc",
-      "name": "Energiswap SOL  Energi ",
+      "name": "Energiswap SOL (Energi)",
       "symbol": "ESOL",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/50310/thumb/sol.png?1727071737"
@@ -57,7 +57,7 @@
     {
       "chainId": 39797,
       "address": "0xd7b8710f5713d2739da301a5ecdb8b6ffb5ec60d",
-      "name": "Energiswap WAVAX  Energi ",
+      "name": "Energiswap WAVAX (Energi)",
       "symbol": "EAVAX",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/53087/thumb/wrapped-avax.png?1735205549"
@@ -73,7 +73,7 @@
     {
       "chainId": 39797,
       "address": "0x29a791703e5a5a8d1578f8611b4d3691377cebc0",
-      "name": "Multichain Bridged WBTC  Energi ",
+      "name": "Multichain Bridged WBTC (Energi)",
       "symbol": "WBTC",
       "decimals": 8,
       "logoURI": "https://assets.coingecko.com/coins/images/39588/thumb/wbtc.png?1723014765"
@@ -137,7 +137,7 @@
     {
       "chainId": 39797,
       "address": "0x1bf6ea422574e0f5d336083a771768cb4e11390d",
-      "name": "Pundi X  OLD ",
+      "name": "Pundi X [OLD]",
       "symbol": "NPXS",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/2170/thumb/pundi-x.png?1696503130"
@@ -201,7 +201,7 @@
     {
       "chainId": 39797,
       "address": "0x2726dd5efb3a209a54c512e9562a2045b8f45dbc",
-      "name": "yearn finance",
+      "name": "yearn.finance",
       "symbol": "YFI",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/11849/thumb/yearn.jpg?1696511720"
@@ -233,7 +233,7 @@
     {
       "chainId": 39797,
       "address": "0x8476d1c07cbc7e2dd9e97ffbd9850836835ee7a8",
-      "name": "AVA  Travala ",
+      "name": "AVA (Travala)",
       "symbol": "AVA",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/3014/thumb/AVA_Logo_160x160px_Black.png?1696503750"
@@ -489,7 +489,7 @@
     {
       "chainId": 39797,
       "address": "0xb506a79b296b78965f0a5c15e1474b026c23d9fa",
-      "name": "Loom Network  NEW ",
+      "name": "Loom Network (NEW)",
       "symbol": "LOOM",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/14735/thumb/LOOM.png?1696514405"
@@ -689,7 +689,7 @@
     {
       "chainId": 39797,
       "address": "0xba71e0c0b13e724bf2329ecb9bdf5775a2ce9e8d",
-      "name": "DFI money",
+      "name": "DFI.money",
       "symbol": "YFII",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/11902/thumb/YFII-logo.78631676.png?1696511768"
@@ -881,7 +881,7 @@
     {
       "chainId": 39797,
       "address": "0x09319044a98e6bb4d95a6c112789afcebe5b58ac",
-      "name": "saffron finance",
+      "name": "saffron.finance",
       "symbol": "SFI",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/13117/thumb/sfi_red_250px.png?1696512904"
@@ -930,6 +930,6 @@
   "version": {
     "major": 9,
     "minor": 0,
-    "patch": 0
+    "patch": 1
   }
 }

@@ -4,32 +4,8 @@
   "keywords": [
     "defi"
   ],
-  "timestamp": "2025-08-29T10:00:24.487+00:00",
+  "timestamp": "2025-09-29T09:00:20.069+00:00",
   "tokens": [
-    {
-      "chainId": 199,
-      "address": "0x195ca22a177e6ed905c469f4f64cf67e819f49c2",
-      "name": "InfiniTORR",
-      "symbol": "TORR",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/28954/thumb/Screenshot_2023-02-03_at_09.36.05.png?1696527927"
-    },
-    {
-      "chainId": 199,
-      "address": "0xdb28719f7f938507dbfe4f0eae55668903d34a15",
-      "name": "Multichain Bridged USDT  BitTorrent ",
-      "symbol": "USDTT",
-      "decimals": 6,
-      "logoURI": "https://assets.coingecko.com/coins/images/35067/thumb/logo.png?1707290624"
-    },
-    {
-      "chainId": 199,
-      "address": "0x18fa72e0ee4c580a129b0ce5bd0694d716c7443e",
-      "name": "Bridged Kyber Network Crystal  BSC ",
-      "symbol": "KNCB",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/31927/thumb/knc.png?1696530735"
-    },
     {
       "chainId": 199,
       "address": "0x23181f21dea5936e24163ffaba4ea3b316b57f3c",
@@ -40,9 +16,33 @@
     },
     {
       "chainId": 199,
+      "address": "0xdb28719f7f938507dbfe4f0eae55668903d34a15",
+      "name": "Multichain Bridged USDT (BitTorrent)",
+      "symbol": "USDT_T",
+      "decimals": 6,
+      "logoURI": "https://assets.coingecko.com/coins/images/35067/thumb/logo.png?1707290624"
+    },
+    {
+      "chainId": 199,
+      "address": "0x18fa72e0ee4c580a129b0ce5bd0694d716c7443e",
+      "name": "Bridged Kyber Network Crystal (BSC)",
+      "symbol": "KNC_B",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/31927/thumb/knc.png?1696530735"
+    },
+    {
+      "chainId": 199,
+      "address": "0x195ca22a177e6ed905c469f4f64cf67e819f49c2",
+      "name": "InfiniTORR",
+      "symbol": "TORR",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/28954/thumb/Screenshot_2023-02-03_at_09.36.05.png?1696527927"
+    },
+    {
+      "chainId": 199,
       "address": "0xe467f79e9869757dd818dfb8535068120f6bcb97",
-      "name": "Bridged Kyber Network Crystal  Ethereum",
-      "symbol": "KNCE",
+      "name": "Bridged Kyber Network Crystal (Ethereum)",
+      "symbol": "KNC_E",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/31925/thumb/knc.png?1696530733"
     },
@@ -98,6 +98,6 @@
   "version": {
     "major": 2,
     "minor": 1,
-    "patch": 0
+    "patch": 1
   }
 }

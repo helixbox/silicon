@@ -1,42 +1,26 @@
 {
   "name": "CoinGecko",
-  "logoURI": "https://static.coingecko.com/s/thumbnail-007177f3eca19695592f0b8b0eabbdae282b54154e1be912285c9034ea6cbaf2.png",
+  "logoURI": "https://static.coingecko.com/gecko-new.svg",
   "keywords": [
     "defi"
   ],
-  "timestamp": "2025-01-22T22:00:01.158+00:00",
+  "timestamp": "2025-09-29T11:00:29.467+00:00",
   "tokens": [
     {
       "chainId": 42170,
-      "address": "0x750ba8b76187092b0d1e87e28daaf484d1b5273b",
-      "name": "Arbitrum Bridged USDC  Arbitrum Nova ",
-      "symbol": "USDC",
-      "decimals": 6,
-      "logoURI": "https://assets.coingecko.com/coins/images/35259/thumb/USDC_Icon.png?1708007444"
-    },
-    {
-      "chainId": 42170,
-      "address": "0xda10009cbd5d07dd0cecc66161fc93d7c9000da1",
-      "name": "MakerDAO Arbitrum Nova DAI Bridge  Arbi",
-      "symbol": "DAI",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/39804/thumb/dai.png?1724126141"
-    },
-    {
-      "chainId": 42170,
       "address": "0x0057ac2d777797d31cd3f8f13bf5e927571d6ad0",
-      "name": "r CryptoCurrency Moons",
+      "name": "r/CryptoCurrency Moons",
       "symbol": "MOON",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/11222/thumb/Moons.png?1696511153"
     },
     {
       "chainId": 42170,
-      "address": "0x6dcb98f460457fe4952e12779ba852f82ecc62c1",
-      "name": "r FortNiteBR Bricks",
-      "symbol": "BRICK",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/11223/thumb/Brick.png?1696511154"
+      "address": "0x750ba8b76187092b0d1e87e28daaf484d1b5273b",
+      "name": "Arbitrum Bridged USDC (Arbitrum Nova)",
+      "symbol": "USDC",
+      "decimals": 6,
+      "logoURI": "https://assets.coingecko.com/coins/images/35259/thumb/USDC_Icon.png?1708007444"
     },
     {
       "chainId": 42170,
@@ -48,8 +32,24 @@
     },
     {
       "chainId": 42170,
+      "address": "0x6dcb98f460457fe4952e12779ba852f82ecc62c1",
+      "name": "r/FortNiteBR Bricks",
+      "symbol": "BRICK",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/11223/thumb/Brick.png?1696511154"
+    },
+    {
+      "chainId": 42170,
+      "address": "0xda10009cbd5d07dd0cecc66161fc93d7c9000da1",
+      "name": "MakerDAO Arbitrum Nova DAI Bridge (Arbitrum Nova)",
+      "symbol": "DAI",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/39804/thumb/dai.png?1724126141"
+    },
+    {
+      "chainId": 42170,
       "address": "0x722e8bdd2ce80a4422e880164f2079488e115365",
-      "name": "Arbitrum Bridged WETH  Arbitrum Nova ",
+      "name": "Arbitrum Bridged WETH (Arbitrum Nova)",
       "symbol": "WETH",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/39697/thumb/weth.png?1723671407"
@@ -106,6 +106,6 @@
   "version": {
     "major": 2,
     "minor": 1,
-    "patch": 0
+    "patch": 1
   }
 }

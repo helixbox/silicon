@@ -4,28 +4,12 @@
   "keywords": [
     "defi"
   ],
-  "timestamp": "2025-08-01T09:00:37.923+00:00",
+  "timestamp": "2025-09-29T09:00:29.355+00:00",
   "tokens": [
     {
       "chainId": 2046399126,
-      "address": "0x5f795bb52dac3085f578f4877d450e2929d2f13d",
-      "name": "Skale IMA Bridged USDC  Skale ",
-      "symbol": "USDC",
-      "decimals": 6,
-      "logoURI": "https://assets.coingecko.com/coins/images/39142/thumb/USDC-icon.png?1720748766"
-    },
-    {
-      "chainId": 2046399126,
-      "address": "0x0cc139ba646e90828962159b9af7cec42dcfad1e",
-      "name": "MEEFIE",
-      "symbol": "MFT",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/55940/thumb/Logo200x200.png?1747825573"
-    },
-    {
-      "chainId": 2046399126,
       "address": "0xd2aaa00700000000000000000000000000000000",
-      "name": "Wrapped ETH  SKALE ",
+      "name": "Wrapped ETH (SKALE)",
       "symbol": "ETHC",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/39143/thumb/wETH_32.png?1720748961"
@@ -37,6 +21,22 @@
       "symbol": "WBTC",
       "decimals": 8,
       "logoURI": "https://assets.coingecko.com/coins/images/39128/thumb/wbtc.png?1720668642"
+    },
+    {
+      "chainId": 2046399126,
+      "address": "0x5f795bb52dac3085f578f4877d450e2929d2f13d",
+      "name": "Skale IMA Bridged USDC (Skale)",
+      "symbol": "USDC",
+      "decimals": 6,
+      "logoURI": "https://assets.coingecko.com/coins/images/39142/thumb/USDC-icon.png?1720748766"
+    },
+    {
+      "chainId": 2046399126,
+      "address": "0x0cc139ba646e90828962159b9af7cec42dcfad1e",
+      "name": "MEEFIE",
+      "symbol": "MFT",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/55940/thumb/Logo200x200.png?1747825573"
     },
     {
       "chainId": 2046399126,
@@ -58,7 +58,7 @@
       "chainId": 2046399126,
       "address": "0x883cfbd30bd076a063a453335414909545186275",
       "name": "Cryptopia",
-      "symbol": "TOS",
+      "symbol": "$TOS",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/37263/thumb/Cryptos.png?1713867243"
     },
@@ -90,6 +90,6 @@
   "version": {
     "major": 5,
     "minor": 0,
-    "patch": 0
+    "patch": 1
   }
 }

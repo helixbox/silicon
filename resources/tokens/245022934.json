@@ -4,24 +4,8 @@
   "keywords": [
     "defi"
   ],
-  "timestamp": "2025-04-17T10:00:03.866+00:00",
+  "timestamp": "2025-09-29T09:00:03.956+00:00",
   "tokens": [
-    {
-      "chainId": 245022934,
-      "address": "0x2043191e10a2a4b4601f5123d6c94e000b5d915f",
-      "name": "Mora",
-      "symbol": "MORA",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/33060/thumb/mora-logo-blue-bg.png?1700490543"
-    },
-    {
-      "chainId": 245022934,
-      "address": "0xea6b04272f9f62f997f666f07d3a974134f7ffb9",
-      "name": "NeonPass Bridged USDC  Neon ",
-      "symbol": "USDC",
-      "decimals": 6,
-      "logoURI": "https://assets.coingecko.com/coins/images/35295/thumb/USDC_Icon.png?1708081860"
-    },
     {
       "chainId": 245022934,
       "address": "0x202c35e517fa803b537565c40f0a6965d7204609",
@@ -32,11 +16,27 @@
     },
     {
       "chainId": 245022934,
+      "address": "0x2043191e10a2a4b4601f5123d6c94e000b5d915f",
+      "name": "Mora",
+      "symbol": "MORA",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/33060/thumb/mora-logo-blue-bg.png?1700490543"
+    },
+    {
+      "chainId": 245022934,
       "address": "0x5f38248f339bf4e84a2caf4e4c0552862dc9f82a",
-      "name": "NeonPass Bridged SOL  Neon EVM ",
+      "name": "NeonPass Bridged SOL (Neon EVM)",
       "symbol": "SOL",
       "decimals": 9,
       "logoURI": "https://assets.coingecko.com/coins/images/50311/thumb/sol.png?1727071929"
+    },
+    {
+      "chainId": 245022934,
+      "address": "0xea6b04272f9f62f997f666f07d3a974134f7ffb9",
+      "name": "NeonPass Bridged USDC (Neon)",
+      "symbol": "USDC",
+      "decimals": 6,
+      "logoURI": "https://assets.coingecko.com/coins/images/35295/thumb/USDC_Icon.png?1708081860"
     },
     {
       "chainId": 245022934,
@@ -97,7 +97,7 @@
     {
       "chainId": 245022934,
       "address": "0x16a3fe59080d6944a42b441e44450432c1445372",
-      "name": "Wrapped BTC  Wormhole ",
+      "name": "Wrapped BTC (Wormhole)",
       "symbol": "WBTC",
       "decimals": 8,
       "logoURI": "https://assets.coingecko.com/coins/images/23004/thumb/WBTC_wh_small.png?1696522299"
@@ -106,6 +106,6 @@
   "version": {
     "major": 3,
     "minor": 0,
-    "patch": 0
+    "patch": 1
   }
 }

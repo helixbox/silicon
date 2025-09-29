@@ -4,8 +4,32 @@
   "keywords": [
     "defi"
   ],
-  "timestamp": "2025-08-28T08:00:35.069+00:00",
+  "timestamp": "2025-09-29T09:00:27.990+00:00",
   "tokens": [
+    {
+      "chainId": 388,
+      "address": "0xd65e5dba71231d35a5802ba83dc6cb6746c9758d",
+      "name": "Cronos zkEVM Bridged WBTC (Cronos zkEVM)",
+      "symbol": "WBTC",
+      "decimals": 8,
+      "logoURI": "https://assets.coingecko.com/coins/images/39778/thumb/wbtc.png?1724059306"
+    },
+    {
+      "chainId": 388,
+      "address": "0xbcaa34ff9d5bfd0d948b18cf6bf39a882f4a1cbd",
+      "name": "Cronos zkEVM Bridged CRO (Cronos zkEVM)",
+      "symbol": "CRO",
+      "decimals": 8,
+      "logoURI": "https://assets.coingecko.com/coins/images/39774/thumb/cro_token.jpeg?1724057134"
+    },
+    {
+      "chainId": 388,
+      "address": "0xb1ece5b548766215272bafcfa36396b06cd9e4c9",
+      "name": "Veno Yield Bearing USD",
+      "symbol": "YBUSD",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/39977/thumb/Rectangle_381.png?1724994276"
+    },
     {
       "chainId": 388,
       "address": "0x66b1e42b2d5bce3d701efa3c86cc334d80ceefab",
@@ -13,6 +37,14 @@
       "symbol": "AMPLY",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/51236/thumb/Token_%282%29.png?1730448040"
+    },
+    {
+      "chainId": 388,
+      "address": "0xf226a595b83056ff3d26b827e3d5b0896e4392a9",
+      "name": "Veno Yield Bearing ETH",
+      "symbol": "YBETH",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/39978/thumb/Rectangle_381.png?1724994497"
     },
     {
       "chainId": 388,
@@ -24,16 +56,16 @@
     },
     {
       "chainId": 388,
-      "address": "0x18d40bd95e34d1a4fcaf9027db11f6988e5b860a",
-      "name": "AgentFun AI",
-      "symbol": "AGENTFUN",
+      "address": "0xcaf2fd3f47e7f46e99f74be579b2cc2233f33ef8",
+      "name": "H2 Finance",
+      "symbol": "$H2",
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/52133/thumb/AIFUN_%282%29.png?1732639482"
+      "logoURI": "https://assets.coingecko.com/coins/images/39766/thumb/H2_Finance.png?1724018149"
     },
     {
       "chainId": 388,
       "address": "0xaa5b845f8c9c047779bedf64829601d8b264076c",
-      "name": "Cronos zkEVM Bridged USDC  Cronos zkEVM",
+      "name": "Cronos zkEVM Bridged USDC (Cronos zkEVM)",
       "symbol": "USDC",
       "decimals": 6,
       "logoURI": "https://assets.coingecko.com/coins/images/39777/thumb/usdc.png?1724059220"
@@ -48,43 +80,11 @@
     },
     {
       "chainId": 388,
-      "address": "0xd65e5dba71231d35a5802ba83dc6cb6746c9758d",
-      "name": "Cronos zkEVM Bridged WBTC  Cronos zkEVM",
-      "symbol": "WBTC",
-      "decimals": 8,
-      "logoURI": "https://assets.coingecko.com/coins/images/39778/thumb/wbtc.png?1724059306"
-    },
-    {
-      "chainId": 388,
-      "address": "0xbcaa34ff9d5bfd0d948b18cf6bf39a882f4a1cbd",
-      "name": "Cronos zkEVM Bridged CRO  Cronos zkEVM ",
-      "symbol": "CRO",
-      "decimals": 8,
-      "logoURI": "https://assets.coingecko.com/coins/images/39774/thumb/cro_token.jpeg?1724057134"
-    },
-    {
-      "chainId": 388,
-      "address": "0xcaf2fd3f47e7f46e99f74be579b2cc2233f33ef8",
-      "name": "H2 Finance",
-      "symbol": "H2",
+      "address": "0x18d40bd95e34d1a4fcaf9027db11f6988e5b860a",
+      "name": "AgentFun.AI",
+      "symbol": "AGENTFUN",
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/39766/thumb/H2_Finance.png?1724018149"
-    },
-    {
-      "chainId": 388,
-      "address": "0xb1ece5b548766215272bafcfa36396b06cd9e4c9",
-      "name": "Veno Yield Bearing USD",
-      "symbol": "YBUSD",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/39977/thumb/Rectangle_381.png?1724994276"
-    },
-    {
-      "chainId": 388,
-      "address": "0xf226a595b83056ff3d26b827e3d5b0896e4392a9",
-      "name": "Veno Yield Bearing ETH",
-      "symbol": "YBETH",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/39978/thumb/Rectangle_381.png?1724994497"
+      "logoURI": "https://assets.coingecko.com/coins/images/52133/thumb/AIFUN_%282%29.png?1732639482"
     },
     {
       "chainId": 388,
@@ -138,6 +138,6 @@
   "version": {
     "major": 5,
     "minor": 1,
-    "patch": 0
+    "patch": 1
   }
 }

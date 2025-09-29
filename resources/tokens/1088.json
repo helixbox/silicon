@@ -4,8 +4,40 @@
   "keywords": [
     "defi"
   ],
-  "timestamp": "2025-09-12T19:00:08.504+00:00",
+  "timestamp": "2025-09-29T10:00:08.205+00:00",
   "tokens": [
+    {
+      "chainId": 1088,
+      "address": "0x186573b175adf5801cf95fb06b232ccab123c6f4",
+      "name": "Monkex",
+      "symbol": "MONKEX",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/28834/thumb/monkexlogo.png?1703415265"
+    },
+    {
+      "chainId": 1088,
+      "address": "0x096a84536ab84e68ee210561ffd3a038e79736f1",
+      "name": "ENKI Protocol",
+      "symbol": "ENKI",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/37228/thumb/token-logo.png?1713779279"
+    },
+    {
+      "chainId": 1088,
+      "address": "0xa5b55ab1daf0f8e1efc0eb1931a957fd89b918f4",
+      "name": "Metis Bridged WBTC (Metis Andromeda)",
+      "symbol": "WBTC",
+      "decimals": 8,
+      "logoURI": "https://assets.coingecko.com/coins/images/39556/thumb/wbtc.png?1722898064"
+    },
+    {
+      "chainId": 1088,
+      "address": "0xbb1676046c36bcd2f6fd08d8f60672c7087d9adf",
+      "name": "Hercules Token",
+      "symbol": "TORCH",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/36601/thumb/hercules_logo_transp_128px.png?1711953416"
+    },
     {
       "chainId": 1088,
       "address": "0x2583a2538272f31e9a15dd12a432b8c96ab4821d",
@@ -24,30 +56,6 @@
     },
     {
       "chainId": 1088,
-      "address": "0xbb1676046c36bcd2f6fd08d8f60672c7087d9adf",
-      "name": "Hercules Token",
-      "symbol": "TORCH",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/36601/thumb/hercules_logo_transp_128px.png?1711953416"
-    },
-    {
-      "chainId": 1088,
-      "address": "0x721532bc0da5ffaeb0a6a45fb24271e8098629a7",
-      "name": "BinaryDAO",
-      "symbol": "BYTE",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/24539/thumb/binarydao.PNG?1696523717"
-    },
-    {
-      "chainId": 1088,
-      "address": "0x096a84536ab84e68ee210561ffd3a038e79736f1",
-      "name": "ENKI Protocol",
-      "symbol": "ENKI",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/37228/thumb/token-logo.png?1713779279"
-    },
-    {
-      "chainId": 1088,
       "address": "0x69fdb77064ec5c84fa2f21072973eb28441f43f3",
       "name": "Tethys Finance",
       "symbol": "TETHYS",
@@ -56,27 +64,11 @@
     },
     {
       "chainId": 1088,
-      "address": "0x186573b175adf5801cf95fb06b232ccab123c6f4",
-      "name": "Monkex",
-      "symbol": "MONKEX",
+      "address": "0x966b25d174be6ba703e0ff80c68bb6e167236ba2",
+      "name": "Revenant",
+      "symbol": "GAMEFI",
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/28834/thumb/monkexlogo.png?1703415265"
-    },
-    {
-      "chainId": 1088,
-      "address": "0x420000000000000000000000000000000000000a",
-      "name": "Metis Bridged WETH  Metis Andromeda ",
-      "symbol": "WETH",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/39719/thumb/WETH.PNG?1723732336"
-    },
-    {
-      "chainId": 1088,
-      "address": "0xa5b55ab1daf0f8e1efc0eb1931a957fd89b918f4",
-      "name": "Metis Bridged WBTC  Metis Andromeda ",
-      "symbol": "WBTC",
-      "decimals": 8,
-      "logoURI": "https://assets.coingecko.com/coins/images/39556/thumb/wbtc.png?1722898064"
+      "logoURI": "https://assets.coingecko.com/coins/images/26005/thumb/icon.png?1696525082"
     },
     {
       "chainId": 1088,
@@ -88,6 +80,14 @@
     },
     {
       "chainId": 1088,
+      "address": "0x420000000000000000000000000000000000000a",
+      "name": "Metis Bridged WETH (Metis Andromeda)",
+      "symbol": "WETH",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/39719/thumb/WETH.PNG?1723732336"
+    },
+    {
+      "chainId": 1088,
       "address": "0x75cb093e4d61d2a2e65d8e0bbb01de8d89b53481",
       "name": "Wrapped Metis",
       "symbol": "WMETIS",
@@ -96,11 +96,11 @@
     },
     {
       "chainId": 1088,
-      "address": "0x966b25d174be6ba703e0ff80c68bb6e167236ba2",
-      "name": "Revenant",
-      "symbol": "GAMEFI",
+      "address": "0x721532bc0da5ffaeb0a6a45fb24271e8098629a7",
+      "name": "BinaryDAO",
+      "symbol": "BYTE",
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/26005/thumb/icon.png?1696525082"
+      "logoURI": "https://assets.coingecko.com/coins/images/24539/thumb/binarydao.PNG?1696523717"
     },
     {
       "chainId": 1088,
@@ -290,6 +290,6 @@
   "version": {
     "major": 21,
     "minor": 4,
-    "patch": 0
+    "patch": 1
   }
 }

@@ -4,7 +4,7 @@
   "keywords": [
     "defi"
   ],
-  "timestamp": "2025-09-26T10:00:19.742+00:00",
+  "timestamp": "2025-09-29T09:00:20.146+00:00",
   "tokens": [
     {
       "chainId": 1868,
@@ -16,19 +16,11 @@
     },
     {
       "chainId": 1868,
-      "address": "0xba9986d2381edf1da03b0b9c1f8b00dc4aacc369",
-      "name": "Soneium Bridged USDC  Soneium ",
-      "symbol": "USDCE",
-      "decimals": 6,
-      "logoURI": "https://assets.coingecko.com/coins/images/53776/thumb/usdc.jpg?1737340150"
-    },
-    {
-      "chainId": 1868,
-      "address": "0x60336f9296c79da4294a19153ec87f8e52158e5f",
-      "name": "Bifrost Voucher ASTR",
-      "symbol": "VASTR",
+      "address": "0x2cae934a1e84f693fbb78ca5ed3b0a6893259441",
+      "name": "Soneium Bridged ASTR (Soneium)",
+      "symbol": "ASTR",
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/34706/thumb/vASTR.png?1705893008"
+      "logoURI": "https://assets.coingecko.com/coins/images/53778/thumb/astar.jpg?1737341226"
     },
     {
       "chainId": 1868,
@@ -48,19 +40,27 @@
     },
     {
       "chainId": 1868,
-      "address": "0x2cae934a1e84f693fbb78ca5ed3b0a6893259441",
-      "name": "Soneium Bridged ASTR  Soneium ",
-      "symbol": "ASTR",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/53778/thumb/astar.jpg?1737341226"
-    },
-    {
-      "chainId": 1868,
       "address": "0x3a337a6ada9d885b6ad95ec48f9b75f197b5ae35",
-      "name": "Soneium Bridged USDT  Soneium ",
+      "name": "Soneium Bridged USDT (Soneium)",
       "symbol": "USDT",
       "decimals": 6,
       "logoURI": "https://assets.coingecko.com/coins/images/53779/thumb/usdt.jpg?1737341724"
+    },
+    {
+      "chainId": 1868,
+      "address": "0x60336f9296c79da4294a19153ec87f8e52158e5f",
+      "name": "Bifrost Voucher ASTR",
+      "symbol": "VASTR",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/34706/thumb/vASTR.png?1705893008"
+    },
+    {
+      "chainId": 1868,
+      "address": "0xba9986d2381edf1da03b0b9c1f8b00dc4aacc369",
+      "name": "Soneium Bridged USDC (Soneium)",
+      "symbol": "USDC.E",
+      "decimals": 6,
+      "logoURI": "https://assets.coingecko.com/coins/images/53776/thumb/usdc.jpg?1737340150"
     },
     {
       "chainId": 1868,
@@ -73,7 +73,7 @@
     {
       "chainId": 1868,
       "address": "0x4200000000000000000000000000000000000006",
-      "name": "Superbridge Bridged WETH  Soneium ",
+      "name": "Superbridge Bridged WETH (Soneium)",
       "symbol": "WETH",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/53777/thumb/weth_2.jpg?1737340348"
@@ -105,7 +105,7 @@
     {
       "chainId": 1868,
       "address": "0xda14b3b7aef494b8c37ed9710d14e44d490316fa",
-      "name": "Yay Kelp DAO s Airdrop Gain ETH",
+      "name": "Yay Kelp DAO’s Airdrop Gain ETH",
       "symbol": "YAYAGETH",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/54281/thumb/yayagETH200w.png?1739438881"
@@ -170,7 +170,7 @@
       "chainId": 1868,
       "address": "0xaffeb8576b927050f5a3b6fba43f360d2883a118",
       "name": "Solv Protocol SolvBTC Jupiter",
-      "symbol": "SOLVBTCJUP",
+      "symbol": "SOLVBTC.JUP",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/54834/thumb/solvBTC_Jupiter.png?1741969449"
     },
@@ -234,6 +234,6 @@
   "version": {
     "major": 1,
     "minor": 5,
-    "patch": 2
+    "patch": 3
   }
 }

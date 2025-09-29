@@ -1,19 +1,11 @@
 {
   "name": "CoinGecko",
-  "logoURI": "https://static.coingecko.com/s/thumbnail-007177f3eca19695592f0b8b0eabbdae282b54154e1be912285c9034ea6cbaf2.png",
+  "logoURI": "https://static.coingecko.com/gecko-new.svg",
   "keywords": [
     "defi"
   ],
-  "timestamp": "2024-08-19T09:01:02.643+00:00",
+  "timestamp": "2025-09-29T11:00:19.902+00:00",
   "tokens": [
-    {
-      "chainId": 18159,
-      "address": "0xcfb1b493c954578e4230895cb693caab6a12cd60",
-      "name": "Wizard Token",
-      "symbol": "WIZT",
-      "decimals": 9,
-      "logoURI": "https://assets.coingecko.com/coins/images/28710/thumb/wizt-logo.jpg?1696527692"
-    },
     {
       "chainId": 18159,
       "address": "0x52b0b655fa096d6876a98da8b55257bdf37bb386",
@@ -24,8 +16,16 @@
     },
     {
       "chainId": 18159,
+      "address": "0xcfb1b493c954578e4230895cb693caab6a12cd60",
+      "name": "Wizard Token",
+      "symbol": "WIZT",
+      "decimals": 9,
+      "logoURI": "https://assets.coingecko.com/coins/images/28710/thumb/wizt-logo.jpg?1696527692"
+    },
+    {
+      "chainId": 18159,
       "address": "0x90242d0a1bc0aace16585848e3a032949539bbcc",
-      "name": "AstroSpaces io",
+      "name": "AstroSpaces.io",
       "symbol": "SPACES",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/22394/thumb/logo.jpg?1696521737"
@@ -34,6 +34,6 @@
   "version": {
     "major": 1,
     "minor": 0,
-    "patch": 0
+    "patch": 1
   }
 }

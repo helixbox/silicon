@@ -4,8 +4,32 @@
   "keywords": [
     "defi"
   ],
-  "timestamp": "2025-04-24T11:01:16.692+00:00",
+  "timestamp": "2025-09-29T11:00:22.707+00:00",
   "tokens": [
+    {
+      "chainId": 61,
+      "address": "0x1fdc495289b590e78d455cf7faa6cd804de5cbc1",
+      "name": "Shiba Classic",
+      "symbol": "SHIBC",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/27241/thumb/1BED03B1-D87F-4E91-B24F-CDED9309D003.jpeg?1696526291"
+    },
+    {
+      "chainId": 61,
+      "address": "0xd508f85f1511aaec63434e26aeb6d10be0188dc7",
+      "name": "Morpho-Aave Wrapped BTC",
+      "symbol": "MAWBTC",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/29872/thumb/maWBTC.jpg?1696528797"
+    },
+    {
+      "chainId": 61,
+      "address": "0x82a618305706b14e7bcf2592d4b9324a366b6dad",
+      "name": "Wrapped ETC",
+      "symbol": "WETC",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/27126/thumb/1321.png?1696526178"
+    },
     {
       "chainId": 61,
       "address": "0x88d8c3dc6b5324f34e8cf229a93e197048671abd",
@@ -32,30 +56,6 @@
     },
     {
       "chainId": 61,
-      "address": "0x1fdc495289b590e78d455cf7faa6cd804de5cbc1",
-      "name": "Shiba Classic",
-      "symbol": "SHIBC",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/27241/thumb/1BED03B1-D87F-4E91-B24F-CDED9309D003.jpeg?1696526291"
-    },
-    {
-      "chainId": 61,
-      "address": "0xd508f85f1511aaec63434e26aeb6d10be0188dc7",
-      "name": "Morpho Aave Wrapped BTC",
-      "symbol": "MAWBTC",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/29872/thumb/maWBTC.jpg?1696528797"
-    },
-    {
-      "chainId": 61,
-      "address": "0x82a618305706b14e7bcf2592d4b9324a366b6dad",
-      "name": "Wrapped ETC",
-      "symbol": "WETC",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/27126/thumb/1321.png?1696526178"
-    },
-    {
-      "chainId": 61,
       "address": "0x1953cab0e5bfa6d4a9bad6e05fd46c1cc6527a5a",
       "name": "Wrapped ETC",
       "symbol": "WETC",
@@ -66,6 +66,6 @@
   "version": {
     "major": 4,
     "minor": 0,
-    "patch": 0
+    "patch": 1
   }
 }

@@ -4,8 +4,32 @@
   "keywords": [
     "defi"
   ],
-  "timestamp": "2025-09-19T18:00:24.213+00:00",
+  "timestamp": "2025-09-29T11:00:16.812+00:00",
   "tokens": [
+    {
+      "chainId": 1101,
+      "address": "0xa8ce8aee21bc2a48a5ef670afcc9274c7bbbc035",
+      "name": "Polygon Hermez Bridged USDC (Polygon zkEVM)",
+      "symbol": "USDC",
+      "decimals": 6,
+      "logoURI": "https://assets.coingecko.com/coins/images/35263/thumb/USDC_Icon.png?1708009475"
+    },
+    {
+      "chainId": 1101,
+      "address": "0x1e4a5963abfd975d8c9021ce480b42188849d41d",
+      "name": "Polygon Hermez Bridged USDT (Polygon zkEVM)",
+      "symbol": "USDT",
+      "decimals": 6,
+      "logoURI": "https://assets.coingecko.com/coins/images/35143/thumb/usdt_logo.png?1707467554"
+    },
+    {
+      "chainId": 1101,
+      "address": "0xc5015b9d9161dca7e18e32f6f25c4ad850731fd4",
+      "name": "Polygon zkEVM Bridged DAI (Polygon zkEVM)",
+      "symbol": "DAI",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/39806/thumb/dai.png?1724126469"
+    },
     {
       "chainId": 1101,
       "address": "0xcfde7c43edb3c9f71331aac1003b099ce40c94ea",
@@ -13,30 +37,6 @@
       "symbol": "GIFT",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/69356/thumb/GIFT-icon.png?1758304581"
-    },
-    {
-      "chainId": 1101,
-      "address": "0xd4e38eb4a9581e05de8aeb5f895916647b5933f1",
-      "name": "Forwards Rec BH 2024",
-      "symbol": "FJLT-B24",
-      "decimals": 6,
-      "logoURI": "https://assets.coingecko.com/coins/images/36305/thumb/Artboard_1fJLT-B24.png?1711090025"
-    },
-    {
-      "chainId": 1101,
-      "address": "0xc5015b9d9161dca7e18e32f6f25c4ad850731fd4",
-      "name": "Polygon zkEVM Bridged DAI  Polygon zkEV",
-      "symbol": "DAI",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/39806/thumb/dai.png?1724126469"
-    },
-    {
-      "chainId": 1101,
-      "address": "0x4f9a0e7fd2bf6067db6994cf12e4495df938e6e9",
-      "name": "Polygon Hermez Bridged WETH  Polygon zk",
-      "symbol": "WETH",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/39698/thumb/weth.png?1723671580"
     },
     {
       "chainId": 1101,
@@ -48,24 +48,24 @@
     },
     {
       "chainId": 1101,
-      "address": "0x1e4a5963abfd975d8c9021ce480b42188849d41d",
-      "name": "Polygon Hermez Bridged USDT  Polygon zk",
-      "symbol": "USDT",
+      "address": "0xd4e38eb4a9581e05de8aeb5f895916647b5933f1",
+      "name": "Forwards Rec BH-2024",
+      "symbol": "FJLT-B24",
       "decimals": 6,
-      "logoURI": "https://assets.coingecko.com/coins/images/35143/thumb/usdt_logo.png?1707467554"
+      "logoURI": "https://assets.coingecko.com/coins/images/36305/thumb/Artboard_1fJLT-B24.png?1711090025"
     },
     {
       "chainId": 1101,
-      "address": "0xa8ce8aee21bc2a48a5ef670afcc9274c7bbbc035",
-      "name": "Polygon Hermez Bridged USDC  Polygon zk",
-      "symbol": "USDC",
-      "decimals": 6,
-      "logoURI": "https://assets.coingecko.com/coins/images/35263/thumb/USDC_Icon.png?1708009475"
+      "address": "0x4f9a0e7fd2bf6067db6994cf12e4495df938e6e9",
+      "name": "Polygon Hermez Bridged WETH (Polygon zkEVM)",
+      "symbol": "WETH",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/39698/thumb/weth.png?1723671580"
     },
     {
       "chainId": 1101,
       "address": "0xea034fb02eb1808c2cc3adbc15f447b93cbe08e1",
-      "name": "Polygon zkEVM Bridged WBTC  Polygon zkE",
+      "name": "Polygon zkEVM Bridged WBTC (Polygon zkEVM)",
       "symbol": "WBTC",
       "decimals": 8,
       "logoURI": "https://assets.coingecko.com/coins/images/39593/thumb/wbtc.png?1723016350"
@@ -121,7 +121,7 @@
     {
       "chainId": 1101,
       "address": "0x6b856a14cea1d7dcfaf80fa6936c0b75972ccace",
-      "name": "Frax  prev  FXS ",
+      "name": "Frax (prev. FXS)",
       "symbol": "FRAX",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/13423/thumb/frax.png?1745921071"
@@ -161,7 +161,7 @@
     {
       "chainId": 1101,
       "address": "0x819d1daa794c1c46b841981b61cc978d95a17b8e",
-      "name": "Davos xyz USD",
+      "name": "Davos.xyz USD",
       "symbol": "DUSD",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/28775/thumb/dusd_logo_200x200.png?1696527754"
@@ -208,19 +208,19 @@
     },
     {
       "chainId": 1101,
-      "address": "0xdb7a504cf869484dd6ac5faf925c8386cbf7573d",
-      "name": "Chainlink",
-      "symbol": "LINK",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/877/thumb/chainlink-new-logo.png?1696502009"
-    },
-    {
-      "chainId": 1101,
       "address": "0x0d1e753a25ebda689453309112904807625befbe",
       "name": "PancakeSwap",
       "symbol": "CAKE",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/12632/thumb/pancakeswap-cake-logo_%281%29.png?1696512440"
+    },
+    {
+      "chainId": 1101,
+      "address": "0xdb7a504cf869484dd6ac5faf925c8386cbf7573d",
+      "name": "Chainlink",
+      "symbol": "LINK",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/877/thumb/chainlink-new-logo.png?1696502009"
     },
     {
       "chainId": 1101,
@@ -234,6 +234,6 @@
   "version": {
     "major": 5,
     "minor": 3,
-    "patch": 0
+    "patch": 1
   }
 }

@@ -4,20 +4,12 @@
   "keywords": [
     "defi"
   ],
-  "timestamp": "2025-08-29T03:01:12.596+00:00",
+  "timestamp": "2025-09-29T09:00:38.964+00:00",
   "tokens": [
     {
       "chainId": 232,
-      "address": "0xe5ecd226b3032910ceaa43ba92ee8232f8237553",
-      "name": "Lens Bridged WETH  Lens ",
-      "symbol": "WETH",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/55548/thumb/eth1.png?1746723194"
-    },
-    {
-      "chainId": 232,
       "address": "0x6bdc36e20d267ff0dd6097799f82e78907105e2f",
-      "name": "Wrapped GHO  Lens ",
+      "name": "Wrapped GHO (Lens)",
       "symbol": "WGHO",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/55536/thumb/gho.png?1746569568"
@@ -25,10 +17,18 @@
     {
       "chainId": 232,
       "address": "0x88f08e304ec4f90d644cec3fb69b8ad414acf884",
-      "name": "Lens Bridged USDC  Lens ",
+      "name": "Lens Bridged USDC (Lens)",
       "symbol": "USDC",
       "decimals": 6,
       "logoURI": "https://assets.coingecko.com/coins/images/55549/thumb/usdc1.png?1746723205"
+    },
+    {
+      "chainId": 232,
+      "address": "0xe5ecd226b3032910ceaa43ba92ee8232f8237553",
+      "name": "Lens Bridged WETH (Lens)",
+      "symbol": "WETH",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/55548/thumb/eth1.png?1746723194"
     },
     {
       "chainId": 232,
@@ -50,6 +50,6 @@
   "version": {
     "major": 0,
     "minor": 4,
-    "patch": 0
+    "patch": 1
   }
 }

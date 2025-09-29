@@ -4,7 +4,7 @@
   "keywords": [
     "defi"
   ],
-  "timestamp": "2025-09-24T09:00:03.005+00:00",
+  "timestamp": "2025-09-29T09:00:02.887+00:00",
   "tokens": [
     {
       "chainId": 40,
@@ -16,19 +16,19 @@
     },
     {
       "chainId": 40,
+      "address": "0x0555e30da8f98308edb960aa94c0db47230d2b9c",
+      "name": "Telos Bridged WBTC (Telos)",
+      "symbol": "WBTC",
+      "decimals": 8,
+      "logoURI": "https://assets.coingecko.com/coins/images/67023/thumb/wbtc.jpg?1751513120"
+    },
+    {
+      "chainId": 40,
       "address": "0xb4b01216a5bc8f1c8a33cd990a1239030e60c905",
       "name": "Staked TLOS",
       "symbol": "STLOS",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/31359/thumb/tlos_png.png?1722391377"
-    },
-    {
-      "chainId": 40,
-      "address": "0x0555e30da8f98308edb960aa94c0db47230d2b9c",
-      "name": "Telos Bridged WBTC  Telos ",
-      "symbol": "WBTC",
-      "decimals": 8,
-      "logoURI": "https://assets.coingecko.com/coins/images/67023/thumb/wbtc.jpg?1751513120"
     },
     {
       "chainId": 40,
@@ -74,7 +74,7 @@
       "chainId": 40,
       "address": "0xf1815bd50389c46847f0bda824ec8da914045d14",
       "name": "Stargate Bridged USDC",
-      "symbol": "USDCE",
+      "symbol": "USDC.E",
       "decimals": 6,
       "logoURI": "https://assets.coingecko.com/coins/images/69316/thumb/usdc.jpg?1758186473"
     },
@@ -106,6 +106,6 @@
   "version": {
     "major": 12,
     "minor": 2,
-    "patch": 0
+    "patch": 1
   }
 }

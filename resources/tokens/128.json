@@ -4,15 +4,23 @@
   "keywords": [
     "defi"
   ],
-  "timestamp": "2025-08-09T10:00:32.996+00:00",
+  "timestamp": "2025-09-29T09:00:24.795+00:00",
   "tokens": [
     {
       "chainId": 128,
-      "address": "0x854bb58fdda85f20b5ab20b20d888f0554c02560",
-      "name": "Decentralized Mining Exchange",
-      "symbol": "DMC",
+      "address": "0x80861a817106665bca173db6ac2ab628a738c737",
+      "name": "CoinWind",
+      "symbol": "COW",
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/14130/thumb/1_hXrVwWTpmRJkPB6Aty0npQ.png?1696513851"
+      "logoURI": "https://assets.coingecko.com/coins/images/15766/thumb/logo.c3d2c062.png?1696515390"
+    },
+    {
+      "chainId": 128,
+      "address": "0xd5f9bdc2e6c8ee0484a6293ce7fa97d96a5e1012",
+      "name": "Channels",
+      "symbol": "CAN",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/14093/thumb/KpSUqAH.png?1696513815"
     },
     {
       "chainId": 128,
@@ -32,19 +40,11 @@
     },
     {
       "chainId": 128,
-      "address": "0xd5f9bdc2e6c8ee0484a6293ce7fa97d96a5e1012",
-      "name": "Channels",
-      "symbol": "CAN",
+      "address": "0x854bb58fdda85f20b5ab20b20d888f0554c02560",
+      "name": "Decentralized Mining Exchange",
+      "symbol": "DMC",
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/14093/thumb/KpSUqAH.png?1696513815"
-    },
-    {
-      "chainId": 128,
-      "address": "0x80861a817106665bca173db6ac2ab628a738c737",
-      "name": "CoinWind",
-      "symbol": "COW",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/15766/thumb/logo.c3d2c062.png?1696515390"
+      "logoURI": "https://assets.coingecko.com/coins/images/14130/thumb/1_hXrVwWTpmRJkPB6Aty0npQ.png?1696513851"
     },
     {
       "chainId": 128,
@@ -105,7 +105,7 @@
     {
       "chainId": 128,
       "address": "0xb4f019beac758abbee2f906033aaa2f0f6dacb35",
-      "name": "yearn finance",
+      "name": "yearn.finance",
       "symbol": "YFI",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/11849/thumb/yearn.jpg?1696511720"
@@ -210,6 +210,6 @@
   "version": {
     "major": 11,
     "minor": 0,
-    "patch": 0
+    "patch": 1
   }
 }

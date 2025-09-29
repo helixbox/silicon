@@ -4,7 +4,7 @@
   "keywords": [
     "defi"
   ],
-  "timestamp": "2025-09-26T09:00:26.437+00:00",
+  "timestamp": "2025-09-29T09:00:27.524+00:00",
   "tokens": [
     {
       "chainId": 2000,
@@ -16,19 +16,19 @@
     },
     {
       "chainId": 2000,
+      "address": "0x765277eebeca2e31912c9946eae1021199b39c61",
+      "name": "Multichain Bridged USDC (Dogechain)",
+      "symbol": "USDC",
+      "decimals": 6,
+      "logoURI": "https://assets.coingecko.com/coins/images/35256/thumb/USDC_Icon.png?1708006501"
+    },
+    {
+      "chainId": 2000,
       "address": "0x2be0096b24343549e34224aa9aa297e99961023d",
       "name": "DogeShrek",
       "symbol": "DOGESHREK",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/26888/thumb/rcy5TkPI_400x400.jpeg?1696525947"
-    },
-    {
-      "chainId": 2000,
-      "address": "0x765277eebeca2e31912c9946eae1021199b39c61",
-      "name": "Multichain Bridged USDC  Dogechain ",
-      "symbol": "USDC",
-      "decimals": 6,
-      "logoURI": "https://assets.coingecko.com/coins/images/35256/thumb/USDC_Icon.png?1708006501"
     },
     {
       "chainId": 2000,
@@ -98,6 +98,6 @@
   "version": {
     "major": 7,
     "minor": 0,
-    "patch": 0
+    "patch": 1
   }
 }

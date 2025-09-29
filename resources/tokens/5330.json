@@ -4,16 +4,8 @@
   "keywords": [
     "defi"
   ],
-  "timestamp": "2025-09-04T07:00:37.155+00:00",
+  "timestamp": "2025-09-29T09:00:26.705+00:00",
   "tokens": [
-    {
-      "chainId": 5330,
-      "address": "0x6f36dbd829de9b7e077db8a35b480d4329ceb331",
-      "name": "Hyperlane Bridged cbBTC  Superseed ",
-      "symbol": "CBBTC",
-      "decimals": 8,
-      "logoURI": "https://assets.coingecko.com/coins/images/66185/thumb/cbbtc.png?1748592854"
-    },
     {
       "chainId": 5330,
       "address": "0x6ea1ffcbd7f5d210db07d9e773862b0512fa219b",
@@ -24,8 +16,16 @@
     },
     {
       "chainId": 5330,
+      "address": "0x6f36dbd829de9b7e077db8a35b480d4329ceb331",
+      "name": "Hyperlane Bridged cbBTC (Superseed)",
+      "symbol": "CBBTC",
+      "decimals": 8,
+      "logoURI": "https://assets.coingecko.com/coins/images/66185/thumb/cbbtc.png?1748592854"
+    },
+    {
+      "chainId": 5330,
       "address": "0xc316c8252b5f2176d0135ebb0999e99296998f2e",
-      "name": "Superseed Bridged USDC  Superseed ",
+      "name": "Superseed Bridged USDC (Superseed)",
       "symbol": "USDC",
       "decimals": 6,
       "logoURI": "https://assets.coingecko.com/coins/images/55064/thumb/usdc.jpg?1743576313"
@@ -33,7 +33,7 @@
     {
       "chainId": 5330,
       "address": "0x4200000000000000000000000000000000000006",
-      "name": "Superseed Bridged WETH  Superseed ",
+      "name": "Superseed Bridged WETH (Superseed)",
       "symbol": "WETH",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/55065/thumb/weth_2.jpg?1743576561"
@@ -58,6 +58,6 @@
   "version": {
     "major": 0,
     "minor": 3,
-    "patch": 0
+    "patch": 1
   }
 }

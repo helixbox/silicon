@@ -4,7 +4,7 @@
   "keywords": [
     "defi"
   ],
-  "timestamp": "2025-09-28T15:01:24.153+00:00",
+  "timestamp": "2025-09-29T10:01:28.510+00:00",
   "tokens": [
     {
       "chainId": 534352,
@@ -13,6 +13,14 @@
       "symbol": "SKY",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/33902/thumb/icon_200x200.png?1703237670"
+    },
+    {
+      "chainId": 534352,
+      "address": "0x06efdbff2a14a7c8e15944d1f4a48f9f95f663a4",
+      "name": "Bridged USD Coin (Scroll)",
+      "symbol": "USDC",
+      "decimals": 6,
+      "logoURI": "https://assets.coingecko.com/coins/images/32611/thumb/USDC.png?1698733754"
     },
     {
       "chainId": 534352,
@@ -40,16 +48,8 @@
     },
     {
       "chainId": 534352,
-      "address": "0x06efdbff2a14a7c8e15944d1f4a48f9f95f663a4",
-      "name": "Bridged USD Coin  Scroll ",
-      "symbol": "USDC",
-      "decimals": 6,
-      "logoURI": "https://assets.coingecko.com/coins/images/32611/thumb/USDC.png?1698733754"
-    },
-    {
-      "chainId": 534352,
       "address": "0xf610a9dfb7c89644979b4a0f27063e9e7d7cda32",
-      "name": "Bridged Wrapped Lido Staked Ether  Scro",
+      "name": "Bridged Wrapped Lido Staked Ether (Scroll)",
       "symbol": "WSTETH",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/32615/thumb/wsteth.png?1698735772"
@@ -61,6 +61,14 @@
       "symbol": "AXLFRXETH",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/38976/thumb/Screen_Shot_2024-06-18_at_12.55.54_PM_2.png?1719714886"
+    },
+    {
+      "chainId": 534352,
+      "address": "0xd29687c813d741e2f938f4ac377128810e217b1b",
+      "name": "Scroll",
+      "symbol": "SCR",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/50571/thumb/scroll.jpg?1728376125"
     },
     {
       "chainId": 534352,
@@ -81,7 +89,7 @@
     {
       "chainId": 534352,
       "address": "0x3c1bca5a656e69edcd0d4e36bebb3fcdaca60cf1",
-      "name": "Bridged Wrapped Bitcoin  Scroll ",
+      "name": "Bridged Wrapped Bitcoin (Scroll)",
       "symbol": "WBTC",
       "decimals": 8,
       "logoURI": "https://assets.coingecko.com/coins/images/32614/thumb/wrapped_bitcoin_wbtc.png?1698735124"
@@ -97,7 +105,7 @@
     {
       "chainId": 534352,
       "address": "0x65421ba909200b81640d98b979d07487c9781b66",
-      "name": "KelpDAO Bridged rsETH  Scroll ",
+      "name": "KelpDAO Bridged rsETH (Scroll)",
       "symbol": "RSETH",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/39545/thumb/rseth.png?1722849918"
@@ -113,7 +121,7 @@
     {
       "chainId": 534352,
       "address": "0x5300000000000000000000000000000000000004",
-      "name": "Bridged Wrapped Ether  Scroll ",
+      "name": "Bridged Wrapped Ether (Scroll)",
       "symbol": "WETH",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/32315/thumb/weth_%281%29.png?1697365181"
@@ -128,16 +136,8 @@
     },
     {
       "chainId": 534352,
-      "address": "0xd29687c813d741e2f938f4ac377128810e217b1b",
-      "name": "Scroll",
-      "symbol": "SCR",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/50571/thumb/scroll.jpg?1728376125"
-    },
-    {
-      "chainId": 534352,
       "address": "0xf55bec9cafdbe8730f096aa55dad6d22d44099df",
-      "name": "Bridged Tether  Scroll ",
+      "name": "Bridged Tether (Scroll)",
       "symbol": "USDT",
       "decimals": 6,
       "logoURI": "https://assets.coingecko.com/coins/images/32610/thumb/usdt_%281%29.png?1698733524"
@@ -153,7 +153,7 @@
     {
       "chainId": 534352,
       "address": "0xeb466342c4d449bc9f53a865d5cb90586f405215",
-      "name": "Bridged Axelar Wrapped USD Coin  Scroll",
+      "name": "Bridged Axelar Wrapped USD Coin (Scroll)",
       "symbol": "AXLUSDC",
       "decimals": 6,
       "logoURI": "https://assets.coingecko.com/coins/images/32612/thumb/USDC.png?1698734090"
@@ -177,7 +177,7 @@
     {
       "chainId": 534352,
       "address": "0x056a5fa5da84ceb7f93d36e545c5905607d8bd81",
-      "name": "Ether fi",
+      "name": "Ether.fi",
       "symbol": "ETHFI",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/35958/thumb/etherfi.jpeg?1710254562"
@@ -329,7 +329,7 @@
     {
       "chainId": 534352,
       "address": "0xb9010964301326160173da694c0697a2fce82f39",
-      "name": "DackieSwap  OLD ",
+      "name": "DackieSwap [OLD]",
       "symbol": "DACKIE",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/30752/thumb/dackieswap_large.png?1707290196"
@@ -370,6 +370,6 @@
   "version": {
     "major": 13,
     "minor": 6,
-    "patch": 0
+    "patch": 1
   }
 }

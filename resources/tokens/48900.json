@@ -4,8 +4,16 @@
   "keywords": [
     "defi"
   ],
-  "timestamp": "2025-09-25T05:00:00.874+00:00",
+  "timestamp": "2025-09-29T10:00:01.137+00:00",
   "tokens": [
+    {
+      "chainId": 48900,
+      "address": "0x4200000000000000000000000000000000000006",
+      "name": "Zircuit Bridged WETH (Zircuit)",
+      "symbol": "WETH",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/52628/thumb/wETH_32.png?1733823830"
+    },
     {
       "chainId": 48900,
       "address": "0x58024021fe3ef613fa76e2f36a3da97eb1454c36",
@@ -16,27 +24,19 @@
     },
     {
       "chainId": 48900,
-      "address": "0x46dda6a5a559d861c06ec9a95fb395f5c3db0742",
-      "name": "Zircuit Bridged USDT  Zircuit ",
-      "symbol": "USDT",
-      "decimals": 6,
-      "logoURI": "https://assets.coingecko.com/coins/images/52629/thumb/USDT.png?1733824032"
-    },
-    {
-      "chainId": 48900,
-      "address": "0x4200000000000000000000000000000000000006",
-      "name": "Zircuit Bridged WETH  Zircuit ",
-      "symbol": "WETH",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/52628/thumb/wETH_32.png?1733823830"
-    },
-    {
-      "chainId": 48900,
       "address": "0xa608512bbc9934e4b1ddecf0f5fb38b6ad93308d",
       "name": "Gud Tech",
       "symbol": "GUD",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/53326/thumb/Logo.png?1736127749"
+    },
+    {
+      "chainId": 48900,
+      "address": "0x46dda6a5a559d861c06ec9a95fb395f5c3db0742",
+      "name": "Zircuit Bridged USDT (Zircuit)",
+      "symbol": "USDT",
+      "decimals": 6,
+      "logoURI": "https://assets.coingecko.com/coins/images/52629/thumb/USDT.png?1733824032"
     },
     {
       "chainId": 48900,
@@ -90,6 +90,6 @@
   "version": {
     "major": 1,
     "minor": 9,
-    "patch": 0
+    "patch": 1
   }
 }

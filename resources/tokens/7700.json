@@ -4,12 +4,19 @@
   "keywords": [
     "defi"
   ],
-  "timestamp": "2025-07-20T12:01:25.419+00:00",
+  "timestamp": "2025-09-29T11:00:45.029+00:00",
   "tokens": [
     {
       "chainId": 7700,
+      "address": "0x45bafad5a6a531bc18cf6ce5b02c58ea4d20589b",
+      "name": "Fortunafi Tokenized Short-term U.S. Treasury Bills for Non U",
+      "symbol": "IFBILL",
+      "decimals": 18
+    },
+    {
+      "chainId": 7700,
       "address": "0x9aeff862435cc243d12cee915e7129629c6a8d5d",
-      "name": "LeetSwap  Canto ",
+      "name": "LeetSwap (Canto)",
       "symbol": "LEET",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/31129/thumb/leet.png?1696529959"
@@ -21,13 +28,6 @@
       "symbol": "CANTO",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/26959/thumb/canto-network.png?1696526014"
-    },
-    {
-      "chainId": 7700,
-      "address": "0x45bafad5a6a531bc18cf6ce5b02c58ea4d20589b",
-      "name": "Fortunafi Tokenized Short term U S  Tre",
-      "symbol": "IFBILL",
-      "decimals": 18
     },
     {
       "chainId": 7700,
@@ -81,6 +81,6 @@
   "version": {
     "major": 5,
     "minor": 0,
-    "patch": 0
+    "patch": 1
   }
 }

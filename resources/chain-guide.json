@@ -28,10 +28,6 @@
     "chain_identifier": 53935
   },
   {
-    "id": "haven1",
-    "chain_identifier": 8811
-  },
-  {
     "id": "function-x",
     "chain_identifier": 530
   },
@@ -46,10 +42,6 @@
   {
     "id": "okex-chain",
     "chain_identifier": 66
-  },
-  {
-    "id": "memecore",
-    "chain_identifier": 4352
   },
   {
     "id": "rari",
@@ -74,10 +66,6 @@
   {
     "id": "hyperevm",
     "chain_identifier": 999
-  },
-  {
-    "id": "besc-hyperchain",
-    "chain_identifier": 2372
   },
   {
     "id": "zetachain",
@@ -108,10 +96,6 @@
     "chain_identifier": 106
   },
   {
-    "id": "tac",
-    "chain_identifier": 239
-  },
-  {
     "id": "manta-pacific",
     "chain_identifier": 169
   },
@@ -128,6 +112,10 @@
     "chain_identifier": 52
   },
   {
+    "id": "tac",
+    "chain_identifier": 239
+  },
+  {
     "id": "zora-network",
     "chain_identifier": 7777777
   },
@@ -138,10 +126,6 @@
   {
     "id": "oasis",
     "chain_identifier": 42262
-  },
-  {
-    "id": "funki",
-    "chain_identifier": 33979
   },
   {
     "id": "onchain",
@@ -232,6 +216,10 @@
     "chain_identifier": 42220
   },
   {
+    "id": "tomochain",
+    "chain_identifier": 88
+  },
+  {
     "id": "energi",
     "chain_identifier": 39797
   },
@@ -254,6 +242,10 @@
   {
     "id": "fuse",
     "chain_identifier": 122
+  },
+  {
+    "id": "world-chain",
+    "chain_identifier": 480
   },
   {
     "id": "soneium",
@@ -296,10 +288,6 @@
     "chain_identifier": 23294
   },
   {
-    "id": "hela",
-    "chain_identifier": 8668
-  },
-  {
     "id": "hydra",
     "chain_identifier": 4488
   },
@@ -316,16 +304,16 @@
     "chain_identifier": 2001
   },
   {
-    "id": "deepbrain-chain",
-    "chain_identifier": 19880818
-  },
-  {
-    "id": "boba",
-    "chain_identifier": 288
+    "id": "funki",
+    "chain_identifier": 33979
   },
   {
     "id": "botanix",
     "chain_identifier": 3637
+  },
+  {
+    "id": "boba",
+    "chain_identifier": 288
   },
   {
     "id": "sanko",
@@ -368,10 +356,6 @@
     "chain_identifier": 100009
   },
   {
-    "id": "tomochain",
-    "chain_identifier": 88
-  },
-  {
     "id": "hashkey-chain",
     "chain_identifier": 177
   },
@@ -384,16 +368,20 @@
     "chain_identifier": 130
   },
   {
-    "id": "redbelly-network",
-    "chain_identifier": 151
-  },
-  {
     "id": "inevm",
     "chain_identifier": 2525
   },
   {
     "id": "larissa",
     "chain_identifier": 9898
+  },
+  {
+    "id": "hela",
+    "chain_identifier": 8668
+  },
+  {
+    "id": "superseed",
+    "chain_identifier": 5330
   },
   {
     "id": "nibiru",
@@ -412,14 +400,6 @@
     "chain_identifier": 2000
   },
   {
-    "id": "superseed",
-    "chain_identifier": 5330
-  },
-  {
-    "id": "world-chain",
-    "chain_identifier": 480
-  },
-  {
     "id": "cronos-zkevm",
     "chain_identifier": 388
   },
@@ -434,6 +414,10 @@
   {
     "id": "airdao",
     "chain_identifier": 16718
+  },
+  {
+    "id": "redbelly-network",
+    "chain_identifier": 151
   },
   {
     "id": "xdc-network",
@@ -452,16 +436,16 @@
     "chain_identifier": 57
   },
   {
-    "id": "vana",
-    "chain_identifier": 1480
+    "id": "base",
+    "chain_identifier": 8453
   },
   {
     "id": "duckchain",
     "chain_identifier": 5545
   },
   {
-    "id": "base",
-    "chain_identifier": 8453
+    "id": "vana",
+    "chain_identifier": 1480
   },
   {
     "id": "arbitrum-nova",
@@ -480,28 +464,40 @@
     "chain_identifier": 146
   },
   {
-    "id": "electroneum",
-    "chain_identifier": 52014
-  },
-  {
-    "id": "zilliqa-evm",
-    "chain_identifier": 32769
-  },
-  {
-    "id": "units-network",
-    "chain_identifier": 88811
-  },
-  {
-    "id": "plume-network",
-    "chain_identifier": 98866
+    "id": "deepbrain-chain",
+    "chain_identifier": 19880818
   },
   {
     "id": "sx-rollup",
     "chain_identifier": 4162
   },
   {
+    "id": "units-network",
+    "chain_identifier": 88811
+  },
+  {
+    "id": "zilliqa-evm",
+    "chain_identifier": 32769
+  },
+  {
+    "id": "electroneum",
+    "chain_identifier": 52014
+  },
+  {
+    "id": "haven1",
+    "chain_identifier": 8811
+  },
+  {
+    "id": "plume-network",
+    "chain_identifier": 98866
+  },
+  {
     "id": "story",
     "chain_identifier": 1514
+  },
+  {
+    "id": "memecore",
+    "chain_identifier": 4352
   },
   {
     "id": "mantle",
@@ -528,20 +524,12 @@
     "chain_identifier": 232
   },
   {
-    "id": "ink",
-    "chain_identifier": 57073
-  },
-  {
     "id": "defiverse",
     "chain_identifier": 16116
   },
   {
     "id": "bevm",
     "chain_identifier": 11501
-  },
-  {
-    "id": "edu-chain",
-    "chain_identifier": 41923
   },
   {
     "id": "pulsechain",
@@ -552,6 +540,18 @@
     "chain_identifier": 2818
   },
   {
+    "id": "ink",
+    "chain_identifier": 57073
+  },
+  {
+    "id": "edu-chain",
+    "chain_identifier": 41923
+  },
+  {
+    "id": "besc-hyperchain",
+    "chain_identifier": 2372
+  },
+  {
     "id": "canto",
     "chain_identifier": 7700
   },
@@ -560,12 +560,12 @@
     "chain_identifier": 2345
   },
   {
-    "id": "apechain",
-    "chain_identifier": 33139
-  },
-  {
     "id": "mezo",
     "chain_identifier": 31612
+  },
+  {
+    "id": "apechain",
+    "chain_identifier": 33139
   },
   {
     "id": "berachain",

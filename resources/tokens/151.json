@@ -4,8 +4,16 @@
   "keywords": [
     "defi"
   ],
-  "timestamp": "2025-07-04T13:00:34.888+00:00",
+  "timestamp": "2025-09-29T09:00:28.597+00:00",
   "tokens": [
+    {
+      "chainId": 151,
+      "address": "0x8c4acd74ff4385f3b7911432fa6787aa14406f8b",
+      "name": "Redbelly Bridged USDT (Redbelly)",
+      "symbol": "USDT",
+      "decimals": 6,
+      "logoURI": "https://assets.coingecko.com/coins/images/67049/thumb/usdt.jpg?1751601338"
+    },
     {
       "chainId": 151,
       "address": "0x6ed1f491e2d31536d6561f6bdb2adc8f092a6076",
@@ -16,17 +24,9 @@
     },
     {
       "chainId": 151,
-      "address": "0x8c4acd74ff4385f3b7911432fa6787aa14406f8b",
-      "name": "Redbelly Bridged USDT  Redbelly ",
-      "symbol": "USDT",
-      "decimals": 6,
-      "logoURI": "https://assets.coingecko.com/coins/images/67049/thumb/usdt.jpg?1751601338"
-    },
-    {
-      "chainId": 151,
       "address": "0x8201c02d4ab2214471e8c3ad6475c8b0cd9f2d06",
-      "name": "Redbelly Bridged USDC  Redbelly ",
-      "symbol": "USDCE",
+      "name": "Redbelly Bridged USDC (Redbelly)",
+      "symbol": "USDC.E",
       "decimals": 6,
       "logoURI": "https://assets.coingecko.com/coins/images/67050/thumb/usdc.jpg?1751602015"
     },
@@ -42,6 +42,6 @@
   "version": {
     "major": 0,
     "minor": 3,
-    "patch": 0
+    "patch": 1
   }
 }

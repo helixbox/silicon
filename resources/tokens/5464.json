@@ -4,8 +4,16 @@
   "keywords": [
     "defi"
   ],
-  "timestamp": "2025-06-07T00:00:26.123+00:00",
+  "timestamp": "2025-09-29T09:00:22.157+00:00",
   "tokens": [
+    {
+      "chainId": 5464,
+      "address": "0xc8fe3c1de344854f4429bb333affaef97ef88cea",
+      "name": "Saga Bridged USDT (Saga)",
+      "symbol": "USDT",
+      "decimals": 6,
+      "logoURI": "https://assets.coingecko.com/coins/images/54885/thumb/usdt.jpg?1742380576"
+    },
     {
       "chainId": 5464,
       "address": "usaga",
@@ -13,14 +21,6 @@
       "symbol": "SAGA",
       "decimals": 6,
       "logoURI": "https://assets.coingecko.com/coins/images/25691/thumb/zcPXETKs_400x400.jpg?1696524818"
-    },
-    {
-      "chainId": 5464,
-      "address": "0xc8fe3c1de344854f4429bb333affaef97ef88cea",
-      "name": "Saga Bridged USDT  Saga ",
-      "symbol": "USDT",
-      "decimals": 6,
-      "logoURI": "https://assets.coingecko.com/coins/images/54885/thumb/usdt.jpg?1742380576"
     },
     {
       "chainId": 5464,
@@ -33,7 +33,7 @@
     {
       "chainId": 5464,
       "address": "0xfc960c233b8e98e0cf282e29bde8d3f105fc24d5",
-      "name": "Saga Bridged USDC  Saga ",
+      "name": "Saga Bridged USDC (Saga)",
       "symbol": "USDC",
       "decimals": 6,
       "logoURI": "https://assets.coingecko.com/coins/images/54883/thumb/usdc.jpg?1742379795"
@@ -41,7 +41,7 @@
     {
       "chainId": 5464,
       "address": "0xeb41d53f14cb9a67907f2b8b5dbc223944158ccb",
-      "name": "Saga Bridged WETH  Saga ",
+      "name": "Saga Bridged WETH (Saga)",
       "symbol": "WETH",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/54882/thumb/weth_2.jpg?1742379717"
@@ -58,6 +58,6 @@
   "version": {
     "major": 0,
     "minor": 1,
-    "patch": 0
+    "patch": 1
   }
 }
