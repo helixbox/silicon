@@ -9332,7 +9332,7 @@
     "symbol": "aria",
     "name": "Ariacoin",
     "platforms": {
-      "solana": "Dg5qTMUrfMucLSt2BUMkVG1kRuyiEDf63o5XS5wHew6W"
+      "the-open-network": "EQC3ORLYYWTbve3u3C7nYUQtbt1Vv7r1naz0NhPYTi6Z9x-N"
     }
   },
   {
@@ -23123,6 +23123,14 @@
     }
   },
   {
+    "id": "bridged-btc-superposition",
+    "symbol": "wbtc",
+    "name": "Bridged BTC (Superposition)",
+    "platforms": {
+      "Superposition": "0x6e142cdaefa4ba7786e8d1ff74968db67c3b910d"
+    }
+  },
+  {
     "id": "bridged-busd",
     "symbol": "busd",
     "name": "Bridged BUSD",
@@ -23591,6 +23599,14 @@
       "zksync": "0x5aea5775959fbc2557cc8789bc1bf90a239d9a91",
       "tomochain": "0x2eaa73bd0db20c64f53febea7b5f5e5bccc7fb8b",
       "etherlink": "0xfc24f770f94edbca6d6f885e12d4317320bcb401"
+    }
+  },
+  {
+    "id": "bridged-weth-superposition",
+    "symbol": "weth",
+    "name": "Bridged WETH (Superposition)",
+    "platforms": {
+      "Superposition": "0x1fb719f10b56d7a85dcd32f27f897375fb21cfdd"
     }
   },
   {
@@ -31791,6 +31807,14 @@
     }
   },
   {
+    "id": "colors",
+    "symbol": "colors",
+    "name": "COLORS",
+    "platforms": {
+      "solana": "DCmeU6DAdNqMNamxw4Uw4Zp6rdVwwRcJDDpbPVJCULT"
+    }
+  },
+  {
     "id": "colossuscoinxt",
     "symbol": "colx",
     "name": "ColossusXT",
@@ -33380,6 +33404,14 @@
     "name": "Crappy Bird CTO",
     "platforms": {
       "base": "0xc8e51fefd7d595c217c7ab641513faa4ad522b26"
+    }
+  },
+  {
+    "id": "craptocurrency",
+    "symbol": "crapto",
+    "name": "craptocurrency",
+    "platforms": {
+      "solana": "8gRCdUnRpQ4XcwfWFzJGymX8ze6rEk8ZcfZME17Ypump"
     }
   },
   {
@@ -49712,7 +49744,9 @@
     "id": "falcon-finance-ff",
     "symbol": "ff",
     "name": "Falcon Finance",
-    "platforms": {}
+    "platforms": {
+      "ethereum": "0xfa1c09fc8b491b6a4d3ff53a10cad29381b3f949"
+    }
   },
   {
     "id": "falcon-nine",
@@ -125681,6 +125715,7 @@
       "rari": "0xfbda5f676cb37624f28265a144a48b0d6e87d3b6",
       "xdc-network": "0xcc0587aebda397146cc828b445db130a94486e74",
       "nibiru": "0x0829f361a05d993d5ceb035ca6df3446b060970b",
+      "Superposition": "0x6c030c5cc283f791b26816f325b9c632d964f8a1",
       "flare-network": "0xfbda5f676cb37624f28265a144a48b0d6e87d3b6",
       "plume-network": "0x78add880a697070c1e765ac44d65323a0dcce913",
       "berachain": "0x549943e04f40284185054145c6e4e9568c1d3241",
@@ -136172,6 +136207,14 @@
     }
   },
   {
+    "id": "trillions-strategy",
+    "symbol": "tstr",
+    "name": "trillions Strategy",
+    "platforms": {
+      "plasma": "0x7bb14c42cab94b758b3f580dc19e7542a122b079"
+    }
+  },
+  {
     "id": "trilly",
     "symbol": "trilly",
     "name": "trilly",
@@ -137238,6 +137281,18 @@
     "platforms": {
       "cronos": "0x8c9e2bef2962ce302ef578113eebec62920b7e57"
     }
+  },
+  {
+    "id": "turtle-3",
+    "symbol": "turtle",
+    "name": "Turtle",
+    "platforms": {}
+  },
+  {
+    "id": "turtle-4",
+    "symbol": "turtle",
+    "name": "Turtle",
+    "platforms": {}
   },
   {
     "id": "turtle-on-speed",
@@ -151075,14 +151130,6 @@
     "name": "XO Protocol",
     "platforms": {
       "base": "0xc799ada44171b741abf41ee54fb1b47fda5960be"
-    }
-  },
-  {
-    "id": "xoraichain",
-    "symbol": "xorai",
-    "name": "Xoraichain",
-    "platforms": {
-      "ethereum": "0x4eb0ca95b229f099443430f0994842bdb1d6caff"
     }
   },
   {
