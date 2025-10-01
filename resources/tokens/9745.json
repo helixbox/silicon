@@ -4,31 +4,15 @@
   "keywords": [
     "defi"
   ],
-  "timestamp": "2025-09-30T11:00:02.333+00:00",
+  "timestamp": "2025-09-30T18:00:02.434+00:00",
   "tokens": [
     {
       "chainId": 9745,
-      "address": "0xe0126f0c4451b2b917064a93040fd4770d6774b5",
-      "name": "Wrapped Aave Plasma USDT0",
-      "symbol": "WAPLAUSDT0",
-      "decimals": 6,
-      "logoURI": "https://assets.coingecko.com/coins/images/69597/thumb/waplasusdt0.png?1759197676"
-    },
-    {
-      "chainId": 9745,
-      "address": "0xc4374775489cb9c56003bf2c9b12495fc64f0771",
-      "name": "syrupUSDT",
-      "symbol": "SYRUPUSDT",
-      "decimals": 6,
-      "logoURI": "https://assets.coingecko.com/coins/images/69514/thumb/SyrupUSDT.png?1758823529"
-    },
-    {
-      "chainId": 9745,
-      "address": "0x7bb14c42cab94b758b3f580dc19e7542a122b079",
-      "name": "trillions Strategy",
-      "symbol": "TSTR",
+      "address": "0x6100e367285b01f48d07953803a2d8dca5d19873",
+      "name": "Wrapped XPL",
+      "symbol": "WXPL",
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/69596/thumb/logotSTR.png?1759182557"
+      "logoURI": "https://assets.coingecko.com/coins/images/69509/thumb/plasma.png?1758805469"
     },
     {
       "chainId": 9745,
@@ -40,11 +24,27 @@
     },
     {
       "chainId": 9745,
-      "address": "0x6100e367285b01f48d07953803a2d8dca5d19873",
-      "name": "Wrapped XPL",
-      "symbol": "WXPL",
+      "address": "0xc63f1a8c0cd4493e18f6f3371182be01ce0bef02",
+      "name": "Wrapped Aave Plasma USDe",
+      "symbol": "WAPLAUSDE",
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/69509/thumb/plasma.png?1758805469"
+      "logoURI": "https://assets.coingecko.com/coins/images/69605/thumb/waplausde.png?1759216970"
+    },
+    {
+      "chainId": 9745,
+      "address": "0xe0126f0c4451b2b917064a93040fd4770d6774b5",
+      "name": "Wrapped Aave Plasma USDT0",
+      "symbol": "WAPLAUSDT0",
+      "decimals": 6,
+      "logoURI": "https://assets.coingecko.com/coins/images/69597/thumb/waplasusdt0.png?1759197676"
+    },
+    {
+      "chainId": 9745,
+      "address": "0x7bb14c42cab94b758b3f580dc19e7542a122b079",
+      "name": "trillions Strategy",
+      "symbol": "TSTR",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/69596/thumb/logotSTR.png?1759182557"
     },
     {
       "chainId": 9745,
@@ -56,11 +56,11 @@
     },
     {
       "chainId": 9745,
-      "address": "0xc63f1a8c0cd4493e18f6f3371182be01ce0bef02",
-      "name": "Wrapped Aave Plasma USDe",
-      "symbol": "WAPLAUSDE",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/69605/thumb/waplausde.png?1759216970"
+      "address": "0xc4374775489cb9c56003bf2c9b12495fc64f0771",
+      "name": "syrupUSDT",
+      "symbol": "SYRUPUSDT",
+      "decimals": 6,
+      "logoURI": "https://assets.coingecko.com/coins/images/69514/thumb/SyrupUSDT.png?1758823529"
     },
     {
       "chainId": 9745,
@@ -133,11 +133,27 @@
       "symbol": "USDAI",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/55857/thumb/USDai_Token_Full_Glyph.png?1755229050"
+    },
+    {
+      "chainId": 9745,
+      "address": "0x6eaf19b2fc24552925db245f9ff613157a7dbb4c",
+      "name": "Staked Stream USD",
+      "symbol": "XUSD",
+      "decimals": 6,
+      "logoURI": "https://assets.coingecko.com/coins/images/67383/thumb/xusd.jpg?1752627749"
+    },
+    {
+      "chainId": 9745,
+      "address": "0x11113ff3a60c2450f4b22515cb760417259ee94b",
+      "name": "Nest Basis Vault",
+      "symbol": "NBASIS",
+      "decimals": 6,
+      "logoURI": "https://assets.coingecko.com/coins/images/55514/thumb/nBASIS-token.png?1746438043"
     }
   ],
   "version": {
     "major": 0,
-    "minor": 2,
+    "minor": 4,
     "patch": 0
   }
 }
