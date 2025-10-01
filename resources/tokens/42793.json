@@ -4,15 +4,15 @@
   "keywords": [
     "defi"
   ],
-  "timestamp": "2025-09-29T09:00:31.926+00:00",
+  "timestamp": "2025-10-01T11:00:30.749+00:00",
   "tokens": [
     {
       "chainId": 42793,
-      "address": "0xc9b53ab2679f573e480d01e0f49e2b5cfb7a3eab",
-      "name": "Wrapped XTZ",
-      "symbol": "WXTZ",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/51172/thumb/WXTZ_Logo_Black.png?1750764795"
+      "address": "0xbfc94cd2b1e55999cfc7347a9313e88702b83d0f",
+      "name": "Etherlink Bridged WBTC (Etherlink)",
+      "symbol": "WBTC",
+      "decimals": 8,
+      "logoURI": "https://assets.coingecko.com/coins/images/66719/thumb/wbtc.jpg?1750306081"
     },
     {
       "chainId": 42793,
@@ -24,14 +24,6 @@
     },
     {
       "chainId": 42793,
-      "address": "0x79052ab3c166d4899a1e0dd033ac3b379af0b1fd",
-      "name": "Uranium",
-      "symbol": "XU3O8",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/67758/thumb/xu.png?1753733711"
-    },
-    {
-      "chainId": 42793,
       "address": "0x9121b153bbcf8c23f20ee43b494f08760b91ad64",
       "name": "Tezos Pepe",
       "symbol": "TZPEPE",
@@ -40,16 +32,24 @@
     },
     {
       "chainId": 42793,
-      "address": "0xbfc94cd2b1e55999cfc7347a9313e88702b83d0f",
-      "name": "Etherlink Bridged WBTC (Etherlink)",
-      "symbol": "WBTC",
-      "decimals": 8,
-      "logoURI": "https://assets.coingecko.com/coins/images/66719/thumb/wbtc.jpg?1750306081"
+      "address": "0x79052ab3c166d4899a1e0dd033ac3b379af0b1fd",
+      "name": "Uranium",
+      "symbol": "XU3O8",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/67758/thumb/xu.png?1753733711"
+    },
+    {
+      "chainId": 42793,
+      "address": "0xc9b53ab2679f573e480d01e0f49e2b5cfb7a3eab",
+      "name": "Wrapped XTZ",
+      "symbol": "WXTZ",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/51172/thumb/WXTZ_Logo_Black.png?1750764795"
     },
     {
       "chainId": 42793,
       "address": "0x796ea11fa2dd751ed01b53c372ffdb4aaa8f00f9",
-      "name": "Bridged USDC (Etherlink)",
+      "name": "Etherlink Bridged USDC (Etherlink)",
       "symbol": "USDC",
       "decimals": 6,
       "logoURI": "https://assets.coingecko.com/coins/images/39584/thumb/USDC-icon.webp?1723013425"
@@ -154,6 +154,6 @@
   "version": {
     "major": 1,
     "minor": 3,
-    "patch": 1
+    "patch": 2
   }
 }

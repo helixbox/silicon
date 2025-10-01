@@ -4,8 +4,16 @@
   "keywords": [
     "defi"
   ],
-  "timestamp": "2025-09-29T09:00:32.754+00:00",
+  "timestamp": "2025-10-01T09:00:30.840+00:00",
   "tokens": [
+    {
+      "chainId": 32769,
+      "address": "0xd8b73ced1b16c047048f2c5ea42233da33168198",
+      "name": "deBridge Bridged USDC (Zilliqa EVM)",
+      "symbol": "USDC",
+      "decimals": 6,
+      "logoURI": "https://assets.coingecko.com/coins/images/55281/thumb/usdc.jpg?1745200346"
+    },
     {
       "chainId": 32769,
       "address": "0x94e18ae7dd5ee57b55f30c4b63e2760c09efb192",
@@ -13,14 +21,6 @@
       "symbol": "WZIL",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/55280/thumb/ziliqa.jpg?1745199829"
-    },
-    {
-      "chainId": 32769,
-      "address": "0xd8b73ced1b16c047048f2c5ea42233da33168198",
-      "name": "Zilliqa EVM Bridged USDC (Zilliqa EVM)",
-      "symbol": "USDC",
-      "decimals": 6,
-      "logoURI": "https://assets.coingecko.com/coins/images/55281/thumb/usdc.jpg?1745200346"
     },
     {
       "chainId": 32769,
@@ -34,6 +34,6 @@
   "version": {
     "major": 0,
     "minor": 0,
-    "patch": 1
+    "patch": 2
   }
 }

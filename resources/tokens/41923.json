@@ -4,16 +4,8 @@
   "keywords": [
     "defi"
   ],
-  "timestamp": "2025-09-29T09:00:46.152+00:00",
+  "timestamp": "2025-10-01T10:00:48.911+00:00",
   "tokens": [
-    {
-      "chainId": 41923,
-      "address": "0x836d275563bab5e93fd6ca62a95db7065da94342",
-      "name": "EDU Chain Bridged USDC (EDU Chain)",
-      "symbol": "USDC",
-      "decimals": 6,
-      "logoURI": "https://assets.coingecko.com/coins/images/54754/thumb/usdc.jpg?1741347403"
-    },
     {
       "chainId": 41923,
       "address": "0x7277cc818e3f3ffbb169c6da9cc77fc2d2a34895",
@@ -29,6 +21,14 @@
       "symbol": "BLEND",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/54778/thumb/Blend0.png?1741517155"
+    },
+    {
+      "chainId": 41923,
+      "address": "0x836d275563bab5e93fd6ca62a95db7065da94342",
+      "name": "Arbitrum Bridged USDC (EDU Chain)",
+      "symbol": "USDC",
+      "decimals": 6,
+      "logoURI": "https://assets.coingecko.com/coins/images/54754/thumb/usdc.jpg?1741347403"
     },
     {
       "chainId": 41923,
@@ -58,6 +58,6 @@
   "version": {
     "major": 0,
     "minor": 2,
-    "patch": 2
+    "patch": 3
   }
 }
