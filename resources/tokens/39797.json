@@ -4,7 +4,7 @@
   "keywords": [
     "defi"
   ],
-  "timestamp": "2025-10-01T15:00:24.033+00:00",
+  "timestamp": "2025-10-02T11:00:19.230+00:00",
   "tokens": [
     {
       "chainId": 39797,
@@ -16,11 +16,11 @@
     },
     {
       "chainId": 39797,
-      "address": "0x78b050d981d7f6e019bf6e361d0d1167de6b19da",
-      "name": "Multichain Bridged WETH (Energi)",
-      "symbol": "WETH",
+      "address": "0x0ee5893f434017d8881750101ea2f7c49c0eb503",
+      "name": "Multichain Bridged DAI (Energi)",
+      "symbol": "DAI",
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/39692/thumb/weth.png?1723670286"
+      "logoURI": "https://assets.coingecko.com/coins/images/39802/thumb/dai.png?1724125849"
     },
     {
       "chainId": 39797,
@@ -29,14 +29,6 @@
       "symbol": "USDE",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/25463/thumb/USDE.png?1696524593"
-    },
-    {
-      "chainId": 39797,
-      "address": "0x0ee5893f434017d8881750101ea2f7c49c0eb503",
-      "name": "Multichain Bridged DAI (Energi)",
-      "symbol": "DAI",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/39802/thumb/dai.png?1724125849"
     },
     {
       "chainId": 39797,
@@ -56,19 +48,27 @@
     },
     {
       "chainId": 39797,
-      "address": "0xd7b8710f5713d2739da301a5ecdb8b6ffb5ec60d",
-      "name": "Energiswap WAVAX (Energi)",
-      "symbol": "EAVAX",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/53087/thumb/wrapped-avax.png?1735205549"
-    },
-    {
-      "chainId": 39797,
       "address": "0xa55f26319462355474a9f2c8790860776a329aa4",
       "name": "Wrapped Energi",
       "symbol": "WNRG",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/25462/thumb/Energi.jpeg?1696524592"
+    },
+    {
+      "chainId": 39797,
+      "address": "0x78b050d981d7f6e019bf6e361d0d1167de6b19da",
+      "name": "Multichain Bridged WETH (Energi)",
+      "symbol": "WETH",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/39692/thumb/weth.png?1723670286"
+    },
+    {
+      "chainId": 39797,
+      "address": "0xd7b8710f5713d2739da301a5ecdb8b6ffb5ec60d",
+      "name": "Energiswap WAVAX (Energi)",
+      "symbol": "EAVAX",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/53087/thumb/wrapped-avax.png?1735205549"
     },
     {
       "chainId": 39797,
@@ -225,7 +225,7 @@
     {
       "chainId": 39797,
       "address": "0xdda6205dc3f47e5280eb726613b27374eee9d130",
-      "name": "1inch",
+      "name": "1INCH",
       "symbol": "1INCH",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/13469/thumb/1inch.png?1759329164"
@@ -930,6 +930,6 @@
   "version": {
     "major": 9,
     "minor": 0,
-    "patch": 2
+    "patch": 3
   }
 }

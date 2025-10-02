@@ -4,8 +4,16 @@
   "keywords": [
     "defi"
   ],
-  "timestamp": "2025-09-29T09:00:09.549+00:00",
+  "timestamp": "2025-10-02T12:00:09.420+00:00",
   "tokens": [
+    {
+      "chainId": 169,
+      "address": "0xf417f5a458ec102b90352f697d6e2ac3a3d2851f",
+      "name": "Bridged Tether (Manta Pacific)",
+      "symbol": "USDT",
+      "decimals": 6,
+      "logoURI": "https://assets.coingecko.com/coins/images/32214/thumb/usdt_%281%29.png?1696831809"
+    },
     {
       "chainId": 169,
       "address": "0x649d4524897ce85a864dc2a2d5a11adb3044f44a",
@@ -13,14 +21,6 @@
       "symbol": "MUSD",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/38336/thumb/token_m_usd.png?1717126272"
-    },
-    {
-      "chainId": 169,
-      "address": "0x2fe3ad97a60eb7c79a976fc18bb5ffd07dd94ba5",
-      "name": "Bridged Wrapped stETH (Manta Pacific)",
-      "symbol": "WSTETH",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/32218/thumb/wstETH.png?1696832978"
     },
     {
       "chainId": 169,
@@ -32,42 +32,11 @@
     },
     {
       "chainId": 169,
-      "address": "0x0f52a51287f9b3894d73df05164d0ee2533ccbb4",
-      "name": "Bridged MATIC (Manta Pacific)",
-      "symbol": "MATIC",
-      "decimals": 18
-    },
-    {
-      "chainId": 169,
       "address": "0xe68874e57224d1e4e6d4c6b4cf5af7ca51867611",
       "name": "Ceto Swap Burned CETO",
       "symbol": "BCETO",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/38063/thumb/bCETO.png?1716581547"
-    },
-    {
-      "chainId": 169,
-      "address": "0xf417f5a458ec102b90352f697d6e2ac3a3d2851f",
-      "name": "Bridged Tether (Manta Pacific)",
-      "symbol": "USDT",
-      "decimals": 6,
-      "logoURI": "https://assets.coingecko.com/coins/images/32214/thumb/usdt_%281%29.png?1696831809"
-    },
-    {
-      "chainId": 169,
-      "address": "0x41c49790967067a71f893b51f2f311ace46fb773",
-      "name": "CirclePacific",
-      "symbol": "CIRCLE",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/34757/thumb/logo.png?1705981096"
-    },
-    {
-      "chainId": 169,
-      "address": "0x95cef13441be50d20ca4558cc0a27b601ac544e5",
-      "name": "Manta Network",
-      "symbol": "MANTA",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/34289/thumb/manta.jpg?1704468717"
     },
     {
       "chainId": 169,
@@ -103,6 +72,13 @@
     },
     {
       "chainId": 169,
+      "address": "0x0f52a51287f9b3894d73df05164d0ee2533ccbb4",
+      "name": "Bridged MATIC (Manta Pacific)",
+      "symbol": "MATIC",
+      "decimals": 18
+    },
+    {
+      "chainId": 169,
       "address": "0x00c6af82abfddc5e1b8f376f954eb4f4dfff31c5",
       "name": "MyanCat Coin",
       "symbol": "MYAN",
@@ -111,11 +87,27 @@
     },
     {
       "chainId": 169,
-      "address": "0x1468177dbcb2a772f3d182d2f1358d442b553089",
-      "name": "Manta mBTC",
-      "symbol": "MBTC",
+      "address": "0x41c49790967067a71f893b51f2f311ace46fb773",
+      "name": "CirclePacific",
+      "symbol": "CIRCLE",
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/38338/thumb/token_m_btc.png?1717126408"
+      "logoURI": "https://assets.coingecko.com/coins/images/34757/thumb/logo.png?1705981096"
+    },
+    {
+      "chainId": 169,
+      "address": "0x2fe3ad97a60eb7c79a976fc18bb5ffd07dd94ba5",
+      "name": "Bridged Wrapped stETH (Manta Pacific)",
+      "symbol": "WSTETH",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/32218/thumb/wstETH.png?1696832978"
+    },
+    {
+      "chainId": 169,
+      "address": "0xcba2aeec821b0b119857a9ab39e09b034249681a",
+      "name": "Accumulated Finance Staked MANTA",
+      "symbol": "STMANTA",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/51116/thumb/stmanta.png?1730118237"
     },
     {
       "chainId": 169,
@@ -127,11 +119,11 @@
     },
     {
       "chainId": 169,
-      "address": "0xcba2aeec821b0b119857a9ab39e09b034249681a",
-      "name": "Accumulated Finance Staked MANTA",
-      "symbol": "STMANTA",
+      "address": "0x95cef13441be50d20ca4558cc0a27b601ac544e5",
+      "name": "Manta Network",
+      "symbol": "MANTA",
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/51116/thumb/stmanta.png?1730118237"
+      "logoURI": "https://assets.coingecko.com/coins/images/34289/thumb/manta.jpg?1704468717"
     },
     {
       "chainId": 169,
@@ -287,8 +279,8 @@
     }
   ],
   "version": {
-    "major": 9,
+    "major": 10,
     "minor": 0,
-    "patch": 1
+    "patch": 0
   }
 }
