@@ -4,7 +4,7 @@
   "keywords": [
     "defi"
   ],
-  "timestamp": "2025-10-02T13:00:20.738+00:00",
+  "timestamp": "2025-10-03T05:00:22.846+00:00",
   "tokens": [
     {
       "chainId": 39797,
@@ -24,22 +24,6 @@
     },
     {
       "chainId": 39797,
-      "address": "0xa55f26319462355474a9f2c8790860776a329aa4",
-      "name": "Wrapped Energi",
-      "symbol": "WNRG",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/25462/thumb/Energi.jpeg?1696524592"
-    },
-    {
-      "chainId": 39797,
-      "address": "0x0f46fe95a8d6573990118aee8b7ac9a3532f5963",
-      "name": "Energi Dollar",
-      "symbol": "USDE",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/25463/thumb/USDE.png?1696524593"
-    },
-    {
-      "chainId": 39797,
       "address": "0xffd7510ca0a3279c7a5f50018a26c21d5bc1dbcf",
       "name": "Energi Bridged USDC (Energi)",
       "symbol": "USDC",
@@ -56,6 +40,14 @@
     },
     {
       "chainId": 39797,
+      "address": "0x0f46fe95a8d6573990118aee8b7ac9a3532f5963",
+      "name": "Energi Dollar",
+      "symbol": "USDE",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/25463/thumb/USDE.png?1696524593"
+    },
+    {
+      "chainId": 39797,
       "address": "0x78b050d981d7f6e019bf6e361d0d1167de6b19da",
       "name": "Multichain Bridged WETH (Energi)",
       "symbol": "WETH",
@@ -69,6 +61,14 @@
       "symbol": "EAVAX",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/53087/thumb/wrapped-avax.png?1735205549"
+    },
+    {
+      "chainId": 39797,
+      "address": "0xa55f26319462355474a9f2c8790860776a329aa4",
+      "name": "Wrapped Energi",
+      "symbol": "WNRG",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/25462/thumb/Energi.jpeg?1696524592"
     },
     {
       "chainId": 39797,
@@ -221,14 +221,6 @@
       "symbol": "BNT",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/736/thumb/Bancor_Token.png?1710479159"
-    },
-    {
-      "chainId": 39797,
-      "address": "0xdda6205dc3f47e5280eb726613b27374eee9d130",
-      "name": "1INCH",
-      "symbol": "1INCH",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/13469/thumb/1inch-logo.jpeg?1759404663"
     },
     {
       "chainId": 39797,
@@ -928,8 +920,8 @@
     }
   ],
   "version": {
-    "major": 9,
+    "major": 10,
     "minor": 0,
-    "patch": 4
+    "patch": 0
   }
 }

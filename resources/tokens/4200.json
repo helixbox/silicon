@@ -4,8 +4,16 @@
   "keywords": [
     "defi"
   ],
-  "timestamp": "2025-09-29T09:01:24.364+00:00",
+  "timestamp": "2025-10-03T07:01:20.306+00:00",
   "tokens": [
+    {
+      "chainId": 4200,
+      "address": "0x32a4b8b10222f85301874837f27f4c416117b811",
+      "name": "Bridged DOG•GO•TO•THE•MOON (Merlin Chain)",
+      "symbol": "DOG•GO•TO•THE•MOON",
+      "decimals": 5,
+      "logoURI": "https://assets.coingecko.com/coins/images/37383/thumb/dog.png?1714215910"
+    },
     {
       "chainId": 4200,
       "address": "0x7717d5bd6b20b817d6b0ff7078460fd620d3fda9",
@@ -24,67 +32,11 @@
     },
     {
       "chainId": 4200,
-      "address": "0x32a4b8b10222f85301874837f27f4c416117b811",
-      "name": "Bridged DOG•GO•TO•THE•MOON (Merlin Chain)",
-      "symbol": "DOG•GO•TO•THE•MOON",
-      "decimals": 5,
-      "logoURI": "https://assets.coingecko.com/coins/images/37383/thumb/dog.png?1714215910"
-    },
-    {
-      "chainId": 4200,
-      "address": "0x8aed42735027aa6d97023d8196b084ecfba701af",
-      "name": "MDBL",
-      "symbol": "MDBL",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/37319/thumb/neo.png?1713977156"
-    },
-    {
-      "chainId": 4200,
       "address": "0x6b4ecada640f1b30dbdb68f77821a03a5f282ebe",
-      "name": "Merlin's Seal USDC",
+      "name": "Merlin Bridged USDC (Merlin)",
       "symbol": "M-USDC",
       "decimals": 6,
-      "logoURI": "https://assets.coingecko.com/coins/images/37380/thumb/usdc.jpeg?1714215042"
-    },
-    {
-      "chainId": 4200,
-      "address": "0x7a677e59dc2c8a42d6af3a62748c5595034a008b",
-      "name": "Huhu Cat",
-      "symbol": "HUHU",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/35438/thumb/huhu.jpeg?1708590616"
-    },
-    {
-      "chainId": 4200,
-      "address": "0x5c46bff4b38dc1eae09c5bac65872a1d8bc87378",
-      "name": "Merlin Chain",
-      "symbol": "MERL",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/37118/thumb/merlin.jpeg?1713352230"
-    },
-    {
-      "chainId": 4200,
-      "address": "0x4d9882a3bb13cc086367d0ae964367e6b7ea246f",
-      "name": "Party",
-      "symbol": "PARTY",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/52810/thumb/photo_2024-12-08_23.14.26.jpeg?1734363293"
-    },
-    {
-      "chainId": 4200,
-      "address": "0x09401c470a76ec07512eeddef5477be74bac2338",
-      "name": "Star AI",
-      "symbol": "MSTAR",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/37120/thumb/Token_Logo.jpg?1746604944"
-    },
-    {
-      "chainId": 4200,
-      "address": "0xf6d226f9dc15d9bb51182815b320d3fbe324e1ba",
-      "name": "Merlin Chain Bridged Wrapped BTC (Merlin)",
-      "symbol": "WBTC",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/35437/thumb/wbtc.png?1708590308"
+      "logoURI": "https://assets.coingecko.com/coins/images/37380/thumb/usdc.jpg?1759469407"
     },
     {
       "chainId": 4200,
@@ -96,11 +48,59 @@
     },
     {
       "chainId": 4200,
+      "address": "0x09401c470a76ec07512eeddef5477be74bac2338",
+      "name": "Star AI",
+      "symbol": "MSTAR",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/37120/thumb/Token_Logo.jpg?1746604944"
+    },
+    {
+      "chainId": 4200,
+      "address": "0x8aed42735027aa6d97023d8196b084ecfba701af",
+      "name": "MDBL",
+      "symbol": "MDBL",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/37319/thumb/neo.png?1713977156"
+    },
+    {
+      "chainId": 4200,
+      "address": "0x4d9882a3bb13cc086367d0ae964367e6b7ea246f",
+      "name": "Party",
+      "symbol": "PARTY",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/52810/thumb/photo_2024-12-08_23.14.26.jpeg?1734363293"
+    },
+    {
+      "chainId": 4200,
+      "address": "0x7a677e59dc2c8a42d6af3a62748c5595034a008b",
+      "name": "Huhu Cat",
+      "symbol": "HUHU",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/35438/thumb/huhu.jpeg?1708590616"
+    },
+    {
+      "chainId": 4200,
+      "address": "0xf6d226f9dc15d9bb51182815b320d3fbe324e1ba",
+      "name": "Merlin Chain Bridged Wrapped BTC (Merlin)",
+      "symbol": "WBTC",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/35437/thumb/wbtc.png?1708590308"
+    },
+    {
+      "chainId": 4200,
       "address": "0x480e158395cc5b41e5584347c495584ca2caf78d",
       "name": "Merlin Chain Bridged VOYA (Merlin)",
       "symbol": "VOYA",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/35435/thumb/voya.png?1708590032"
+    },
+    {
+      "chainId": 4200,
+      "address": "0x5c46bff4b38dc1eae09c5bac65872a1d8bc87378",
+      "name": "Merlin Chain",
+      "symbol": "MERL",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/37118/thumb/merlin.jpeg?1713352230"
     },
     {
       "chainId": 4200,
@@ -178,6 +178,6 @@
   "version": {
     "major": 9,
     "minor": 1,
-    "patch": 2
+    "patch": 3
   }
 }

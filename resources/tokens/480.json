@@ -4,7 +4,7 @@
   "keywords": [
     "defi"
   ],
-  "timestamp": "2025-09-29T11:00:18.743+00:00",
+  "timestamp": "2025-10-03T11:00:20.564+00:00",
   "tokens": [
     {
       "chainId": 480,
@@ -16,6 +16,14 @@
     },
     {
       "chainId": 480,
+      "address": "0x6fb9df9530e302be9dc126363bd7529b807f7167",
+      "name": "CrazyFootball token",
+      "symbol": "FOOTBALL",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/69748/thumb/Logo.jpg?1759482957"
+    },
+    {
+      "chainId": 480,
       "address": "0x6770a7133bd0d74f95e4c9e9b7735bb4cd5653a6",
       "name": "World Cat",
       "symbol": "WORLDCAT",
@@ -24,19 +32,19 @@
     },
     {
       "chainId": 480,
-      "address": "0xed49fe44fd4249a09843c2ba4bba7e50beca7113",
-      "name": "DNA Token",
-      "symbol": "DNA",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/54349/thumb/DNA_Logo_200-200.png?1755931235"
-    },
-    {
-      "chainId": 480,
       "address": "0x03c7054bcb39f7b2e5b2c7acb37583e32d70cfa3",
       "name": "Bridged Wrapped Bitcoin (Worldchain)",
       "symbol": "WBTC",
       "decimals": 8,
       "logoURI": "https://assets.coingecko.com/coins/images/51159/thumb/wbtc_28.png?1730242311"
+    },
+    {
+      "chainId": 480,
+      "address": "0xed49fe44fd4249a09843c2ba4bba7e50beca7113",
+      "name": "DNA Token",
+      "symbol": "DNA",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/54349/thumb/DNA_Logo_200-200.png?1755931235"
     },
     {
       "chainId": 480,
@@ -145,7 +153,7 @@
   ],
   "version": {
     "major": 1,
-    "minor": 4,
-    "patch": 1
+    "minor": 5,
+    "patch": 0
   }
 }

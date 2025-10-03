@@ -4,23 +4,15 @@
   "keywords": [
     "defi"
   ],
-  "timestamp": "2025-09-29T11:00:23.214+00:00",
+  "timestamp": "2025-10-03T10:00:24.788+00:00",
   "tokens": [
     {
       "chainId": 321,
       "address": "0x980a5afef3d17ad98635f6c5aebcbaeded3c3430",
-      "name": "Kucoin Bridged USDC (KuCoin Community Chain)",
+      "name": "KCC Bridged USDC (KuCoin Community Chain)",
       "symbol": "USDC",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/35225/thumb/USDC.jpg?1707920795"
-    },
-    {
-      "chainId": 321,
-      "address": "0x4446fc4eb47f2f6586f9faab68b3498f86c07521",
-      "name": "Wrapped KCS",
-      "symbol": "WKCS",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/16924/thumb/wrapped-kcs.jpeg?1696516495"
     },
     {
       "chainId": 321,
@@ -32,11 +24,11 @@
     },
     {
       "chainId": 321,
-      "address": "0x0039f574ee5cc39bdd162e9a88e3eb1f111baf48",
-      "name": "KCC Bridged USDT (Kucoin Community Chain)",
-      "symbol": "USDT",
+      "address": "0xf55af137a98607f7ed2efefa4cd2dfe70e4253b1",
+      "name": "KCC Bridged WETH (Kucoin Community Chain)",
+      "symbol": "WETH",
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/35024/thumb/USDT.png?1707233670"
+      "logoURI": "https://assets.coingecko.com/coins/images/39712/thumb/WETH.PNG?1723731330"
     },
     {
       "chainId": 321,
@@ -48,11 +40,19 @@
     },
     {
       "chainId": 321,
-      "address": "0xf55af137a98607f7ed2efefa4cd2dfe70e4253b1",
-      "name": "KCC Bridged WETH (Kucoin Community Chain)",
-      "symbol": "WETH",
+      "address": "0x4446fc4eb47f2f6586f9faab68b3498f86c07521",
+      "name": "Wrapped KCS",
+      "symbol": "WKCS",
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/39712/thumb/WETH.PNG?1723731330"
+      "logoURI": "https://assets.coingecko.com/coins/images/16924/thumb/wrapped-kcs.jpeg?1696516495"
+    },
+    {
+      "chainId": 321,
+      "address": "0x0039f574ee5cc39bdd162e9a88e3eb1f111baf48",
+      "name": "KCC Bridged USDT (Kucoin Community Chain)",
+      "symbol": "USDT",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/35024/thumb/USDT.png?1707233670"
     },
     {
       "chainId": 321,
@@ -66,6 +66,6 @@
   "version": {
     "major": 2,
     "minor": 0,
-    "patch": 1
+    "patch": 2
   }
 }

@@ -4,7 +4,7 @@
   "keywords": [
     "defi"
   ],
-  "timestamp": "2025-10-02T13:00:07.208+00:00",
+  "timestamp": "2025-10-03T10:00:07.692+00:00",
   "tokens": [
     {
       "chainId": 1666600000,
@@ -16,11 +16,11 @@
     },
     {
       "chainId": 1666600000,
-      "address": "0xef977d2f931c1978db5f6747666fa1eacb0d0339",
-      "name": "Harmony Horizon Bridged DAI (Harmony Shard 0)",
-      "symbol": "DAI",
+      "address": "0x01a4b054110d57069c1658afbc46730529a3e326",
+      "name": "OpenSwap.One",
+      "symbol": "OPENX",
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/39789/thumb/dai.png?1724111370"
+      "logoURI": "https://assets.coingecko.com/coins/images/19274/thumb/X_color.png?1696518717"
     },
     {
       "chainId": 1666600000,
@@ -37,22 +37,6 @@
       "symbol": "CGS",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/19402/thumb/logo.png?1696518842"
-    },
-    {
-      "chainId": 1666600000,
-      "address": "0x09e6e20ff399c2134c14232e172ce8ba2b03017e",
-      "name": "Kilopi",
-      "symbol": "LOP",
-      "decimals": 6,
-      "logoURI": "https://assets.coingecko.com/coins/images/29496/thumb/logo_kilopi_200sq.png?1696528442"
-    },
-    {
-      "chainId": 1666600000,
-      "address": "0x985458e523db3d53125813ed68c274899e9dfab4",
-      "name": "Harmony Horizen Bridged USDC (Harmony)",
-      "symbol": "USDC",
-      "decimals": 6,
-      "logoURI": "https://assets.coingecko.com/coins/images/35224/thumb/USDC.jpg?1707920252"
     },
     {
       "chainId": 1666600000,
@@ -80,6 +64,22 @@
     },
     {
       "chainId": 1666600000,
+      "address": "0x985458e523db3d53125813ed68c274899e9dfab4",
+      "name": "Harmony Horizon Bridged USDC (Harmony)",
+      "symbol": "1USDC",
+      "decimals": 6,
+      "logoURI": "https://assets.coingecko.com/coins/images/35224/thumb/USDC.jpg?1707920252"
+    },
+    {
+      "chainId": 1666600000,
+      "address": "0xef977d2f931c1978db5f6747666fa1eacb0d0339",
+      "name": "Harmony Horizon Bridged DAI (Harmony Shard 0)",
+      "symbol": "DAI",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/39789/thumb/dai.png?1724111370"
+    },
+    {
+      "chainId": 1666600000,
       "address": "0xe176ebe47d621b984a73036b9da5d834411ef734",
       "name": "Harmony Horizen Bridged BUSD (Harmony)",
       "symbol": "BUSD",
@@ -95,19 +95,19 @@
     },
     {
       "chainId": 1666600000,
-      "address": "0x01a4b054110d57069c1658afbc46730529a3e326",
-      "name": "OpenSwap.One",
-      "symbol": "OPENX",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/19274/thumb/X_color.png?1696518717"
-    },
-    {
-      "chainId": 1666600000,
       "address": "0xd74433b187cf0ba998ad9be3486b929c76815215",
       "name": "Artemis",
       "symbol": "MIS",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/18916/thumb/136704691-920ef315-4906-4a82-bca1-144b07dea3fb.png?1696518373"
+    },
+    {
+      "chainId": 1666600000,
+      "address": "0x09e6e20ff399c2134c14232e172ce8ba2b03017e",
+      "name": "Kilopi",
+      "symbol": "LOP",
+      "decimals": 6,
+      "logoURI": "https://assets.coingecko.com/coins/images/29496/thumb/logo_kilopi_200sq.png?1696528442"
     },
     {
       "chainId": 1666600000,
@@ -228,14 +228,6 @@
       "symbol": "BADGER",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/13287/thumb/badger_dao_logo.jpg?1696513059"
-    },
-    {
-      "chainId": 1666600000,
-      "address": "0x58f1b044d8308812881a1433d9bbeff99975e70c",
-      "name": "1INCH",
-      "symbol": "1INCH",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/13469/thumb/1inch-logo.jpeg?1759404663"
     },
     {
       "chainId": 1666600000,
@@ -711,8 +703,8 @@
     }
   ],
   "version": {
-    "major": 21,
+    "major": 22,
     "minor": 0,
-    "patch": 4
+    "patch": 1
   }
 }

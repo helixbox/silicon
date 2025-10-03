@@ -4,16 +4,8 @@
   "keywords": [
     "defi"
   ],
-  "timestamp": "2025-09-24T13:00:15.242+00:00",
+  "timestamp": "2025-10-03T07:00:14.756+00:00",
   "tokens": [
-    {
-      "chainId": 200901,
-      "address": "0x0e4cf4affdb72b39ea91fa726d291781cbd020bf",
-      "name": "Bitlayer",
-      "symbol": "BTR",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/55177/thumb/App_Logo.png?1744368194"
-    },
     {
       "chainId": 200901,
       "address": "0x2729868df87d062020e4a4867ff507fb52ee697c",
@@ -21,6 +13,14 @@
       "symbol": "CBD",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/39947/thumb/CDB.jpg?1724901392"
+    },
+    {
+      "chainId": 200901,
+      "address": "0x0e4cf4affdb72b39ea91fa726d291781cbd020bf",
+      "name": "Bitlayer",
+      "symbol": "BTR",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/55177/thumb/App_Logo.png?1744368194"
     },
     {
       "chainId": 200901,
@@ -53,6 +53,14 @@
       "symbol": "UNIBTC",
       "decimals": 8,
       "logoURI": "https://assets.coingecko.com/coins/images/39599/thumb/uniBTC_200px.png?1723064455"
+    },
+    {
+      "chainId": 200901,
+      "address": "0xcdfb58c8c859cb3f62ebe9cf2767f9e036c7fb15",
+      "name": "BitFi Bitcoin",
+      "symbol": "BFBTC",
+      "decimals": 8,
+      "logoURI": "https://assets.coingecko.com/coins/images/69326/thumb/bfBTC-logo-symbol-color.png?1758193458"
     },
     {
       "chainId": 200901,
@@ -89,7 +97,7 @@
   ],
   "version": {
     "major": 1,
-    "minor": 3,
+    "minor": 4,
     "patch": 0
   }
 }

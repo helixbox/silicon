@@ -4,16 +4,8 @@
   "keywords": [
     "defi"
   ],
-  "timestamp": "2025-09-29T11:00:15.482+00:00",
+  "timestamp": "2025-10-03T09:00:09.234+00:00",
   "tokens": [
-    {
-      "chainId": 810180,
-      "address": "0x2f8a25ac62179b31d62d7f80884ae57464699059",
-      "name": "Nova Merged USDT (zkLink)",
-      "symbol": "USDT",
-      "decimals": 6,
-      "logoURI": "https://assets.coingecko.com/coins/images/37603/thumb/USDT.png?1714986572"
-    },
     {
       "chainId": 810180,
       "address": "0xf573fa04a73d5ac442f3dea8741317feaa3cdeab",
@@ -24,8 +16,16 @@
     },
     {
       "chainId": 810180,
+      "address": "0x2f8a25ac62179b31d62d7f80884ae57464699059",
+      "name": "Nova Merged USDT (zkLink)",
+      "symbol": "USDT",
+      "decimals": 6,
+      "logoURI": "https://assets.coingecko.com/coins/images/37603/thumb/USDT.png?1714986572"
+    },
+    {
+      "chainId": 810180,
       "address": "0x1a1a3b2ff016332e866787b311fcb63928464509",
-      "name": "Nova Merged USDC (zkLink)",
+      "name": "zkLink Nova Merged Bridged USDC (zkLink Nova)",
       "symbol": "USDC",
       "decimals": 6,
       "logoURI": "https://assets.coingecko.com/coins/images/37599/thumb/usdc.png?1714986165"
@@ -42,6 +42,6 @@
   "version": {
     "major": 2,
     "minor": 0,
-    "patch": 1
+    "patch": 2
   }
 }

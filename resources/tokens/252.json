@@ -4,23 +4,23 @@
   "keywords": [
     "defi"
   ],
-  "timestamp": "2025-09-29T10:01:29.942+00:00",
+  "timestamp": "2025-10-03T07:01:22.814+00:00",
   "tokens": [
     {
       "chainId": 252,
-      "address": "0xfc00000000000000000000000000000000000006",
-      "name": "Wrapped frxETH",
-      "symbol": "WFRXETH",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/35848/thumb/wrapped-sfrxeth.png?1709894604"
+      "address": "0x788d96f655735f52c676a133f4dfc53cec614d4a",
+      "name": "dTRINITY USD",
+      "symbol": "DUSD",
+      "decimals": 6,
+      "logoURI": "https://assets.coingecko.com/coins/images/53290/thumb/dUSD_Logo.png?1735997462"
     },
     {
       "chainId": 252,
-      "address": "0x6e58089d8e8f664823d26454f49a5a0f2ff697fe",
-      "name": "Leviathan Points",
-      "symbol": "SQUID",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/37738/thumb/0x6e58089d8e8f664823d26454f49a5a0f2ff697fe.png?1742413661"
+      "address": "0xdcc0f2d8f90fde85b10ac1c8ab57dc0ae946a543",
+      "name": "Fraxtal Bridged USDC (Fraxtal)",
+      "symbol": "USDC",
+      "decimals": 6,
+      "logoURI": "https://assets.coingecko.com/coins/images/52655/thumb/usdc.jpg?1733995749"
     },
     {
       "chainId": 252,
@@ -40,19 +40,19 @@
     },
     {
       "chainId": 252,
-      "address": "0xdcc0f2d8f90fde85b10ac1c8ab57dc0ae946a543",
-      "name": "Fraxtal Bridged USDC (Fraxtal)",
-      "symbol": "USDC",
-      "decimals": 6,
-      "logoURI": "https://assets.coingecko.com/coins/images/52655/thumb/usdc.jpg?1733995749"
+      "address": "0xfc00000000000000000000000000000000000006",
+      "name": "Wrapped frxETH",
+      "symbol": "WFRXETH",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/35848/thumb/wrapped-sfrxeth.png?1709894604"
     },
     {
       "chainId": 252,
-      "address": "0xfc00000000000000000000000000000000000002",
-      "name": "Wrapped FRAX",
-      "symbol": "WFRAX",
+      "address": "0x6e58089d8e8f664823d26454f49a5a0f2ff697fe",
+      "name": "Leviathan Points",
+      "symbol": "SQUID",
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/55432/thumb/wfrax_64.png?1745993624"
+      "logoURI": "https://assets.coingecko.com/coins/images/37738/thumb/0x6e58089d8e8f664823d26454f49a5a0f2ff697fe.png?1742413661"
     },
     {
       "chainId": 252,
@@ -64,11 +64,11 @@
     },
     {
       "chainId": 252,
-      "address": "0x788d96f655735f52c676a133f4dfc53cec614d4a",
-      "name": "dTRINITY USD",
-      "symbol": "DUSD",
-      "decimals": 6,
-      "logoURI": "https://assets.coingecko.com/coins/images/53290/thumb/dUSD_Logo.png?1735997462"
+      "address": "0xfc00000000000000000000000000000000000002",
+      "name": "Wrapped FRAX",
+      "symbol": "WFRAX",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/55432/thumb/wfrax_64.png?1745993624"
     },
     {
       "chainId": 252,
@@ -109,6 +109,14 @@
       "symbol": "SUSDE",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/33669/thumb/sUSDe-Symbol-Color.png?1716307680"
+    },
+    {
+      "chainId": 252,
+      "address": "0x368ec3d7c755abea7d48b0c006d282a1aba2f898",
+      "name": "Squill",
+      "symbol": "SQUILL",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/66883/thumb/SQUILL-200x200.png?1750922589"
     },
     {
       "chainId": 252,
@@ -225,7 +233,7 @@
   ],
   "version": {
     "major": 4,
-    "minor": 7,
-    "patch": 1
+    "minor": 8,
+    "patch": 0
   }
 }
