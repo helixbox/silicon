@@ -32075,7 +32075,7 @@
   {
     "id": "common-wealth",
     "symbol": "wlth",
-    "name": "Common Wealth",
+    "name": "WLTH",
     "platforms": {
       "base": "0x99b2b1a2adb02b38222adcd057783d7e5d1fcc7d"
     }
@@ -51994,6 +51994,14 @@
     "name": "Flare AI",
     "platforms": {
       "solana": "3vADYnNebwAzPGphyYAoPtCXw1H6t5yFFbCCy4JBpump"
+    }
+  },
+  {
+    "id": "flare-bridged-xrp-flare",
+    "symbol": "fxrp",
+    "name": "Flare Bridged XRP (Flare)",
+    "platforms": {
+      "flare-network": "0xad552a648c74d49e10027ab8a618a3ad4901c5be"
     }
   },
   {
@@ -87037,6 +87045,20 @@
     }
   },
   {
+    "id": "mimo-parallel-governance-token",
+    "symbol": "prl",
+    "name": "Parallel Governance",
+    "platforms": {
+      "ethereum": "0x6c0aeceedc55c9d55d8b99216a670d85330941c3",
+      "optimistic-ethereum": "0xfd28f108e95f4d41daae9dbfff707d677985998e",
+      "fantom": "0x1d1764f04de29da6b90ffbef372d1a45596c4855",
+      "sonic": "0xfd28f108e95f4d41daae9dbfff707d677985998e",
+      "base": "0xfd28f108e95f4d41daae9dbfff707d677985998e",
+      "polygon-pos": "0x7790dd69aa10ed3f1271e41cd7222d2a7d2d5948",
+      "arbitrum-one": "0xfd28f108e95f4d41daae9dbfff707d677985998e"
+    }
+  },
+  {
     "id": "mina-protocol",
     "symbol": "mina",
     "name": "Mina Protocol",
@@ -89310,6 +89332,12 @@
     "id": "moonbeans",
     "symbol": "beans",
     "name": "MoonBeans",
+    "platforms": {}
+  },
+  {
+    "id": "moonbirds",
+    "symbol": "birb",
+    "name": "Moonbirds",
     "platforms": {}
   },
   {
@@ -99722,6 +99750,7 @@
     "name": "PAAL AI",
     "platforms": {
       "ethereum": "0x14fee680690900ba0cccfc76ad70fd1b95d10e16",
+      "solana": "PAALhGKVeiWMAatwxnwuvXoHHxYQoftLLhkgmXgFdmM",
       "binance-smart-chain": "0xbb1b031c591235408755ff4e0739cb88c5cf2507",
       "base": "0xd52333441c0553facb259600fa833a69186893a5"
     }
@@ -116482,6 +116511,14 @@
     "name": "Satoshi AI agent by Virtuals",
     "platforms": {
       "base": "0x7588880d9c78e81fade7b7e8dc0781e95995a792"
+    }
+  },
+  {
+    "id": "satoshi-btc-stablecoin",
+    "symbol": "tsat",
+    "name": "Satoshi BTC Stablecoin",
+    "platforms": {
+      "solana": "tSATdGGSLYBVCrm3pXiib8NmzKcB1iUdjRRseNGssxu"
     }
   },
   {
