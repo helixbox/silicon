@@ -4,8 +4,24 @@
   "keywords": [
     "defi"
   ],
-  "timestamp": "2025-10-03T07:00:25.547+00:00",
+  "timestamp": "2025-10-06T11:00:26.461+00:00",
   "tokens": [
+    {
+      "chainId": 130,
+      "address": "0x927b51f251480a681271180da4de28d44ec4afb8",
+      "name": "Unichain Bridged WBTC (Unichain)",
+      "symbol": "WBTC",
+      "decimals": 8,
+      "logoURI": "https://assets.coingecko.com/coins/images/66722/thumb/wbtc.jpg?1750315958"
+    },
+    {
+      "chainId": 130,
+      "address": "0x588ce4f028d8e7b53b687865d6a67b3a54c75518",
+      "name": "Unichain Bridged USDT (Unichain)",
+      "symbol": "USDT",
+      "decimals": 6,
+      "logoURI": "https://assets.coingecko.com/coins/images/66726/thumb/usdt.jpg?1750318933"
+    },
     {
       "chainId": 130,
       "address": "0x756ee6857f915a2b5366f2ef56d8d13857aef8ad",
@@ -24,19 +40,19 @@
     },
     {
       "chainId": 130,
+      "address": "0xabe69c550ea6ec22bed4b92614511c4f31bb0f64",
+      "name": "Abe",
+      "symbol": "ABE",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/68514/thumb/logo_circle_200.png?1756440524"
+    },
+    {
+      "chainId": 130,
       "address": "0x15d0e0c55a3e7ee67152ad7e89acf164253ff68d",
       "name": "Wormhole Bridged HYPE",
       "symbol": "HYPE",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/68481/thumb/hype.png?1755878697"
-    },
-    {
-      "chainId": 130,
-      "address": "0x927b51f251480a681271180da4de28d44ec4afb8",
-      "name": "Unichain Bridged WBTC (Unichain)",
-      "symbol": "WBTC",
-      "decimals": 8,
-      "logoURI": "https://assets.coingecko.com/coins/images/66722/thumb/wbtc.jpg?1750315958"
     },
     {
       "chainId": 130,
@@ -48,27 +64,11 @@
     },
     {
       "chainId": 130,
-      "address": "0xabe69c550ea6ec22bed4b92614511c4f31bb0f64",
-      "name": "Abe",
-      "symbol": "ABE",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/68514/thumb/logo_circle_200.png?1756440524"
-    },
-    {
-      "chainId": 130,
       "address": "0xc3eacf0612346366db554c991d7858716db09f58",
       "name": "KelpDAO Bridged rsETH (Unichain)",
       "symbol": "RSETH",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/67283/thumb/rseth.jpg?1752298197"
-    },
-    {
-      "chainId": 130,
-      "address": "0x588ce4f028d8e7b53b687865d6a67b3a54c75518",
-      "name": "Unichain Bridged USDT (Unichain)",
-      "symbol": "USDT",
-      "decimals": 6,
-      "logoURI": "https://assets.coingecko.com/coins/images/66726/thumb/usdt.jpg?1750318933"
     },
     {
       "chainId": 130,
@@ -141,14 +141,6 @@
       "symbol": "BETS",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/26618/thumb/icon_200.png?1696525691"
-    },
-    {
-      "chainId": 130,
-      "address": "0xe9c43e09c5fa733bcc2aeaa96063a4a60147aa09",
-      "name": "Euler",
-      "symbol": "EUL",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/26149/thumb/Coingecko_logo_%281%29.png?1706026067"
     },
     {
       "chainId": 130,
@@ -240,6 +232,22 @@
     },
     {
       "chainId": 130,
+      "address": "0x64445f0aecc51e94ad52d8ac56b7190e764e561a",
+      "name": "Wrapped FRAX",
+      "symbol": "WFRAX",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/55432/thumb/wfrax_64.png?1745993624"
+    },
+    {
+      "chainId": 130,
+      "address": "0xe9c43e09c5fa733bcc2aeaa96063a4a60147aa09",
+      "name": "Euler",
+      "symbol": "EUL",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/26149/thumb/Coingecko_logo_%281%29.png?1706026067"
+    },
+    {
+      "chainId": 130,
       "address": "0x2416092f143378750bb29b79ed961ab195cceea5",
       "name": "Renzo Restaked ETH",
       "symbol": "EZETH",
@@ -281,7 +289,7 @@
   ],
   "version": {
     "major": 2,
-    "minor": 14,
+    "minor": 15,
     "patch": 0
   }
 }

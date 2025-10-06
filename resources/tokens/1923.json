@@ -4,15 +4,15 @@
   "keywords": [
     "defi"
   ],
-  "timestamp": "2025-09-29T11:01:12.842+00:00",
+  "timestamp": "2025-10-06T11:01:11.543+00:00",
   "tokens": [
     {
       "chainId": 1923,
-      "address": "0x1cf7b5f266a0f39d6f9408b90340e3e71df8bf7b",
-      "name": "Layerzero Bridged swBTC (Swellchain)",
-      "symbol": "SWBTC",
-      "decimals": 8,
-      "logoURI": "https://assets.coingecko.com/coins/images/53657/thumb/66ff59725979d3c6635ecae5_swBTC.png?1737001044"
+      "address": "0x0000baa0b1678229863c0a941c1056b83a1955f5",
+      "name": "Orki USDK",
+      "symbol": "USDK",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/55912/thumb/Orki-Stablecoin-RGB-Blue.png?1747677290"
     },
     {
       "chainId": 1923,
@@ -24,11 +24,11 @@
     },
     {
       "chainId": 1923,
-      "address": "0x0000baa0b1678229863c0a941c1056b83a1955f5",
-      "name": "Orki USDK",
-      "symbol": "USDK",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/55912/thumb/Orki-Stablecoin-RGB-Blue.png?1747677290"
+      "address": "0x1cf7b5f266a0f39d6f9408b90340e3e71df8bf7b",
+      "name": "Layerzero Bridged swBTC (Swellchain)",
+      "symbol": "SWBTC",
+      "decimals": 8,
+      "logoURI": "https://assets.coingecko.com/coins/images/53657/thumb/66ff59725979d3c6635ecae5_swBTC.png?1737001044"
     },
     {
       "chainId": 1923,
@@ -125,11 +125,19 @@
       "symbol": "SUSDE",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/33669/thumb/sUSDe-Symbol-Color.png?1716307680"
+    },
+    {
+      "chainId": 1923,
+      "address": "0x80ccfbec4b8c82265abdc226ad3df84c0726e7a3",
+      "name": "Euler",
+      "symbol": "EUL",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/26149/thumb/Coingecko_logo_%281%29.png?1706026067"
     }
   ],
   "version": {
     "major": 3,
-    "minor": 4,
-    "patch": 1
+    "minor": 5,
+    "patch": 0
   }
 }

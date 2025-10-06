@@ -4,24 +4,8 @@
   "keywords": [
     "defi"
   ],
-  "timestamp": "2025-09-29T09:00:35.004+00:00",
+  "timestamp": "2025-10-06T11:00:33.716+00:00",
   "tokens": [
-    {
-      "chainId": 98866,
-      "address": "0xda6087e69c51e7d31b6dbad276a3c44703dfdcad",
-      "name": "Stargate Bridged USDT (Plume)",
-      "symbol": "USDT",
-      "decimals": 6,
-      "logoURI": "https://assets.coingecko.com/coins/images/67009/thumb/usdt.jpg?1751459215"
-    },
-    {
-      "chainId": 98866,
-      "address": "0x6a64f470293630e08d24455ec0b73960ab7dbb23",
-      "name": "SPICE pUSD Vault",
-      "symbol": "PUSDNOTE",
-      "decimals": 6,
-      "logoURI": "https://assets.coingecko.com/coins/images/69199/thumb/pUSDnote.png?1757836459"
-    },
     {
       "chainId": 98866,
       "address": "0xafb068838136358cfa6b54bea580b86df70bba7f",
@@ -29,6 +13,14 @@
       "symbol": "ESBTC",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/67691/thumb/esbtc_logo-_1_.png?1753521998"
+    },
+    {
+      "chainId": 98866,
+      "address": "0x39d1f90ef89c52dda276194e9a832b484ee45574",
+      "name": "Plume Staked ETH",
+      "symbol": "PETH",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/67514/thumb/peth.png?1753068541"
     },
     {
       "chainId": 98866,
@@ -40,19 +32,11 @@
     },
     {
       "chainId": 98866,
-      "address": "0x15c09c0ffb3717325e60a564d1acfbfe999c2f88",
-      "name": "Dinari SRLN",
-      "symbol": "SRLN.D",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/66390/thumb/d-token-200.png?1749284651"
-    },
-    {
-      "chainId": 98866,
-      "address": "0x39d1f90ef89c52dda276194e9a832b484ee45574",
-      "name": "Plume Staked ETH",
-      "symbol": "PETH",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/67514/thumb/peth.png?1753068541"
+      "address": "0xda6087e69c51e7d31b6dbad276a3c44703dfdcad",
+      "name": "Stargate Bridged USDT (Plume)",
+      "symbol": "USDT",
+      "decimals": 6,
+      "logoURI": "https://assets.coingecko.com/coins/images/67009/thumb/usdt.jpg?1751459215"
     },
     {
       "chainId": 98866,
@@ -69,6 +53,22 @@
       "symbol": "MNRL",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/66290/thumb/mineral-vault.png?1749109942"
+    },
+    {
+      "chainId": 98866,
+      "address": "0x15c09c0ffb3717325e60a564d1acfbfe999c2f88",
+      "name": "Dinari SRLN",
+      "symbol": "SRLN.D",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/66390/thumb/d-token-200.png?1749284651"
+    },
+    {
+      "chainId": 98866,
+      "address": "0x6a64f470293630e08d24455ec0b73960ab7dbb23",
+      "name": "SPICE pUSD Vault",
+      "symbol": "PUSDNOTE",
+      "decimals": 6,
+      "logoURI": "https://assets.coingecko.com/coins/images/69199/thumb/pUSDnote.png?1757836459"
     },
     {
       "chainId": 98866,
@@ -349,11 +349,19 @@
       "symbol": "WSRUSD",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/66163/thumb/wsrUSD.png?1748500965"
+    },
+    {
+      "chainId": 98866,
+      "address": "0x64445f0aecc51e94ad52d8ac56b7190e764e561a",
+      "name": "Wrapped FRAX",
+      "symbol": "WFRAX",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/55432/thumb/wfrax_64.png?1745993624"
     }
   ],
   "version": {
     "major": 0,
-    "minor": 27,
-    "patch": 2
+    "minor": 28,
+    "patch": 0
   }
 }

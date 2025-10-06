@@ -4,8 +4,16 @@
   "keywords": [
     "defi"
   ],
-  "timestamp": "2025-10-01T12:00:46.336+00:00",
+  "timestamp": "2025-10-06T12:00:47.994+00:00",
   "tokens": [
+    {
+      "chainId": 57073,
+      "address": "0xca5f2ccbd9c40b32657df57c716de44237f80f05",
+      "name": "Kraken",
+      "symbol": "KRAKEN",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/52919/thumb/kraken.jpg?1734685461"
+    },
     {
       "chainId": 57073,
       "address": "0xd642b49d10cc6e1bc1c6945725667c35e0875f22",
@@ -24,11 +32,11 @@
     },
     {
       "chainId": 57073,
-      "address": "0xca5f2ccbd9c40b32657df57c716de44237f80f05",
-      "name": "Kraken",
-      "symbol": "KRAKEN",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/52919/thumb/kraken.jpg?1734685461"
+      "address": "0xa802bccd14f7e78e48ffe0c9cf9ad0273c77d4b0",
+      "name": "Ink USDT Veda Vault",
+      "symbol": "INKEDUSDT",
+      "decimals": 6,
+      "logoURI": "https://assets.coingecko.com/coins/images/66510/thumb/usdt.png?1749593577"
     },
     {
       "chainId": 57073,
@@ -48,27 +56,19 @@
     },
     {
       "chainId": 57073,
-      "address": "0x0200c29006150606b650577bbe7b6248f58470c1",
-      "name": "USDT0",
-      "symbol": "USDT0",
-      "decimals": 6,
-      "logoURI": "https://assets.coingecko.com/coins/images/53705/thumb/usdt0.jpg?1737086183"
-    },
-    {
-      "chainId": 57073,
-      "address": "0xa802bccd14f7e78e48ffe0c9cf9ad0273c77d4b0",
-      "name": "Ink USDT Veda Vault",
-      "symbol": "INKEDUSDT",
-      "decimals": 6,
-      "logoURI": "https://assets.coingecko.com/coins/images/66510/thumb/usdt.png?1749593577"
-    },
-    {
-      "chainId": 57073,
       "address": "0x0c5e2d1c98cd265c751e02f8f3293bc5764f9111",
       "name": "Shroomy",
       "symbol": "SHROOMY",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/54002/thumb/1000000182.jpg?1737942213"
+    },
+    {
+      "chainId": 57073,
+      "address": "0x0200c29006150606b650577bbe7b6248f58470c1",
+      "name": "USDT0",
+      "symbol": "USDT0",
+      "decimals": 6,
+      "logoURI": "https://assets.coingecko.com/coins/images/53705/thumb/usdt0.jpg?1737086183"
     },
     {
       "chainId": 57073,
@@ -96,14 +96,6 @@
     },
     {
       "chainId": 57073,
-      "address": "0xf50258d3c1dd88946c567920b986a12e65b50dac",
-      "name": "Tether Gold Tokens",
-      "symbol": "XAUT0",
-      "decimals": 6,
-      "logoURI": "https://assets.coingecko.com/coins/images/66560/thumb/XAUt0_Token_Icon_Gold.png?1749747942"
-    },
-    {
-      "chainId": 57073,
       "address": "0x53ad50d3b6fcacb8965d3a49cb722917c7dae1f3",
       "name": "Apollo Diversified Credit Securitize Fund",
       "symbol": "ACRED",
@@ -117,6 +109,14 @@
       "symbol": "XSOLVBTC",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/39384/thumb/xSolvBTC.png?1744170824"
+    },
+    {
+      "chainId": 57073,
+      "address": "0xf50258d3c1dd88946c567920b986a12e65b50dac",
+      "name": "Tether Gold Tokens",
+      "symbol": "XAUT0",
+      "decimals": 6,
+      "logoURI": "https://assets.coingecko.com/coins/images/66560/thumb/XAUt0_Token_Icon_Gold.png?1749747942"
     },
     {
       "chainId": 57073,
@@ -181,11 +181,27 @@
       "symbol": "LINK",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/877/thumb/chainlink-new-logo.png?1696502009"
+    },
+    {
+      "chainId": 57073,
+      "address": "0x64445f0aecc51e94ad52d8ac56b7190e764e561a",
+      "name": "Wrapped FRAX",
+      "symbol": "WFRAX",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/55432/thumb/wfrax_64.png?1745993624"
+    },
+    {
+      "chainId": 57073,
+      "address": "0x80eede496655fb9047dd39d9f418d5483ed600df",
+      "name": "Frax USD",
+      "symbol": "FRXUSD",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/53963/thumb/frxUSD.png?1737792154"
     }
   ],
   "version": {
     "major": 3,
-    "minor": 7,
+    "minor": 9,
     "patch": 0
   }
 }
