@@ -4,7 +4,7 @@
   "keywords": [
     "defi"
   ],
-  "timestamp": "2025-10-06T11:00:49.069+00:00",
+  "timestamp": "2025-10-06T13:00:53.519+00:00",
   "tokens": [
     {
       "chainId": 80094,
@@ -13,14 +13,6 @@
       "symbol": "POLLEN",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/54929/thumb/Pollen_200x200.png?1742578406"
-    },
-    {
-      "chainId": 80094,
-      "address": "0x656b95e550c07a9ffe548bd4085c72418ceb1dba",
-      "name": "Berachain Governance Token",
-      "symbol": "BGT",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/54193/thumb/BGT.png?1738742690"
     },
     {
       "chainId": 80094,
@@ -61,6 +53,14 @@
       "symbol": "NVDA",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/66285/thumb/TWIN_Asset_Token_Logo_NVDA_CG.png?1749108863"
+    },
+    {
+      "chainId": 80094,
+      "address": "0x0f81001ef0a83ecce5ccebf63eb302c70a39a654",
+      "name": "Dolomite",
+      "symbol": "DOLO",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/54710/thumb/DOLO-small.png?1745398535"
     },
     {
       "chainId": 80094,
@@ -120,14 +120,6 @@
     },
     {
       "chainId": 80094,
-      "address": "0xfcbd14dc51f0a4d49d5e53c2e0950e0bc26d0dce",
-      "name": "Honey",
-      "symbol": "HONEY",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/54194/thumb/honey.png?1738725085"
-    },
-    {
-      "chainId": 80094,
       "address": "0x01c8a5ccad23a4d3764ef71c403862160aa2913a",
       "name": "Wizzwoods Token",
       "symbol": "WIZZ",
@@ -141,6 +133,14 @@
       "symbol": "BRLY",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/54295/thumb/Dex-01_%282%29.png?1739085758"
+    },
+    {
+      "chainId": 80094,
+      "address": "0xfcbd14dc51f0a4d49d5e53c2e0950e0bc26d0dce",
+      "name": "Honey",
+      "symbol": "HONEY",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/54194/thumb/honey.png?1738725085"
     },
     {
       "chainId": 80094,
@@ -200,11 +200,11 @@
     },
     {
       "chainId": 80094,
-      "address": "0x0f6f337b09cb5131cf0ce9df3beb295b8e728f3b",
-      "name": "Solv Protocol SolvBTC.BERA",
-      "symbol": "SOLVBTC.BERA",
+      "address": "0x656b95e550c07a9ffe548bd4085c72418ceb1dba",
+      "name": "Berachain Governance Token",
+      "symbol": "BGT",
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/69747/thumb/SolvBTC.BERA.png?1759482666"
+      "logoURI": "https://assets.coingecko.com/coins/images/54193/thumb/BGT.png?1738742690"
     },
     {
       "chainId": 80094,
@@ -213,14 +213,6 @@
       "symbol": "COIN",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/66282/thumb/TWIN_Asset_Token_Logo_COIN_CG.png?1749056586"
-    },
-    {
-      "chainId": 80094,
-      "address": "0x982940ebfc5caa2f5b5a82aac2dfa99f18bb7da4",
-      "name": "Bearn BERA",
-      "symbol": "YBERA",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/69282/thumb/ybera.png?1758095597"
     },
     {
       "chainId": 80094,
@@ -245,6 +237,14 @@
       "symbol": "NECT",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/54231/thumb/NECT_%281%29.png?1738861282"
+    },
+    {
+      "chainId": 80094,
+      "address": "0x804cf700de1e18f2411bd05aad5fa10d60e1900f",
+      "name": "aSUGAR",
+      "symbol": "ASUGAR",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/66395/thumb/aSUGAR.png?1749286870"
     },
     {
       "chainId": 80094,
@@ -301,6 +301,14 @@
       "symbol": "YEET",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/54416/thumb/IMG_7050.PNG?1739556073"
+    },
+    {
+      "chainId": 80094,
+      "address": "0x0f6f337b09cb5131cf0ce9df3beb295b8e728f3b",
+      "name": "Solv Protocol SolvBTC.BERA",
+      "symbol": "SOLVBTC.BERA",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/69747/thumb/SolvBTC.BERA.png?1759482666"
     },
     {
       "chainId": 80094,
@@ -368,19 +376,11 @@
     },
     {
       "chainId": 80094,
-      "address": "0x804cf700de1e18f2411bd05aad5fa10d60e1900f",
-      "name": "aSUGAR",
-      "symbol": "ASUGAR",
+      "address": "0x982940ebfc5caa2f5b5a82aac2dfa99f18bb7da4",
+      "name": "Bearn BERA",
+      "symbol": "YBERA",
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/66395/thumb/aSUGAR.png?1749286870"
-    },
-    {
-      "chainId": 80094,
-      "address": "0x0f81001ef0a83ecce5ccebf63eb302c70a39a654",
-      "name": "Dolomite",
-      "symbol": "DOLO",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/54710/thumb/DOLO-small.png?1745398535"
+      "logoURI": "https://assets.coingecko.com/coins/images/69282/thumb/ybera.png?1758095597"
     },
     {
       "chainId": 80094,
@@ -704,6 +704,14 @@
     },
     {
       "chainId": 80094,
+      "address": "0x80eede496655fb9047dd39d9f418d5483ed600df",
+      "name": "Frax USD",
+      "symbol": "FRXUSD",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/53963/thumb/frxUSD.png?1737792154"
+    },
+    {
+      "chainId": 80094,
       "address": "0x2a5fc05f71cfc54ddcad19457cee79e3aaf415c9",
       "name": "SatLayer Restaked uniBTC",
       "symbol": "SATUNIBTC",
@@ -713,7 +721,7 @@
   ],
   "version": {
     "major": 5,
-    "minor": 1,
+    "minor": 2,
     "patch": 0
   }
 }

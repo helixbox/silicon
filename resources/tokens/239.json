@@ -4,15 +4,15 @@
   "keywords": [
     "defi"
   ],
-  "timestamp": "2025-09-29T10:00:10.010+00:00",
+  "timestamp": "2025-10-06T12:00:10.364+00:00",
   "tokens": [
     {
       "chainId": 239,
-      "address": "0xaf988c3f7cb2aceabb15f96b19388a259b6c438f",
-      "name": "TAC Bridged USDT (TAC)",
-      "symbol": "USDT",
-      "decimals": 6,
-      "logoURI": "https://assets.coingecko.com/coins/images/67548/thumb/usdt.png?1753153539"
+      "address": "0xb76d91340f5ce3577f0a056d29f6e3eb4e88b140",
+      "name": "TAC Bridged TON (TAC)",
+      "symbol": "TON",
+      "decimals": 9,
+      "logoURI": "https://assets.coingecko.com/coins/images/67547/thumb/ton.jpeg?1753153388"
     },
     {
       "chainId": 239,
@@ -24,19 +24,19 @@
     },
     {
       "chainId": 239,
-      "address": "0xb76d91340f5ce3577f0a056d29f6e3eb4e88b140",
-      "name": "TAC Bridged TON (TAC)",
-      "symbol": "TON",
-      "decimals": 9,
-      "logoURI": "https://assets.coingecko.com/coins/images/67547/thumb/ton.jpeg?1753153388"
-    },
-    {
-      "chainId": 239,
       "address": "0x61d66bc21fed820938021b06e9b2291f3fb91945",
       "name": "TAC Bridged WETH (TAC)",
       "symbol": "WETH",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/67550/thumb/weth.png?1753153758"
+    },
+    {
+      "chainId": 239,
+      "address": "0xaf988c3f7cb2aceabb15f96b19388a259b6c438f",
+      "name": "TAC Bridged USDT (TAC)",
+      "symbol": "USDT",
+      "decimals": 6,
+      "logoURI": "https://assets.coingecko.com/coins/images/67548/thumb/usdt.png?1753153539"
     },
     {
       "chainId": 239,
@@ -85,11 +85,19 @@
       "symbol": "WSTUSR",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/51880/thumb/USR_LOGO.png?1732098841"
+    },
+    {
+      "chainId": 239,
+      "address": "0x38c043856a109066d64a60c82e07848a1c58e7dc",
+      "name": "Euler",
+      "symbol": "EUL",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/26149/thumb/Coingecko_logo_%281%29.png?1706026067"
     }
   ],
   "version": {
     "major": 0,
-    "minor": 5,
-    "patch": 1
+    "minor": 6,
+    "patch": 0
   }
 }

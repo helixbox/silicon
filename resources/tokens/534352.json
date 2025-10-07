@@ -4,23 +4,31 @@
   "keywords": [
     "defi"
   ],
-  "timestamp": "2025-09-29T10:01:28.510+00:00",
+  "timestamp": "2025-10-06T13:01:27.164+00:00",
   "tokens": [
     {
       "chainId": 534352,
-      "address": "0x95a52ec1d60e74cd3eb002fe54a2c74b185a4c16",
-      "name": "Skydrome",
-      "symbol": "SKY",
+      "address": "0x330c43d22bd65a60ffea93a197f04e87faa27b70",
+      "name": "abcNURI",
+      "symbol": "ABCNURI",
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/33902/thumb/icon_200x200.png?1703237670"
+      "logoURI": "https://assets.coingecko.com/coins/images/40074/thumb/abcNURI.png?1725511281"
     },
     {
       "chainId": 534352,
-      "address": "0x06efdbff2a14a7c8e15944d1f4a48f9f95f663a4",
-      "name": "Bridged USD Coin (Scroll)",
-      "symbol": "USDC",
+      "address": "0x2147a89fb4608752807216d5070471c09a0dce32",
+      "name": "Z Protocol",
+      "symbol": "ZP",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/36011/thumb/about_img01.png?1710324761"
+    },
+    {
+      "chainId": 534352,
+      "address": "0xf55bec9cafdbe8730f096aa55dad6d22d44099df",
+      "name": "Bridged Tether (Scroll)",
+      "symbol": "USDT",
       "decimals": 6,
-      "logoURI": "https://assets.coingecko.com/coins/images/32611/thumb/USDC.png?1698733754"
+      "logoURI": "https://assets.coingecko.com/coins/images/32610/thumb/usdt_%281%29.png?1698733524"
     },
     {
       "chainId": 534352,
@@ -40,14 +48,6 @@
     },
     {
       "chainId": 534352,
-      "address": "0xdd6a49995ad38fe7409b5d5cb5539261bd1bc901",
-      "name": "Danjuan Scroll Cat",
-      "symbol": "CAT",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/34637/thumb/200x200.jpg?1705555969"
-    },
-    {
-      "chainId": 534352,
       "address": "0xf610a9dfb7c89644979b4a0f27063e9e7d7cda32",
       "name": "Bridged Wrapped Lido Staked Ether (Scroll)",
       "symbol": "WSTETH",
@@ -61,22 +61,6 @@
       "symbol": "AXLFRXETH",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/38976/thumb/Screen_Shot_2024-06-18_at_12.55.54_PM_2.png?1719714886"
-    },
-    {
-      "chainId": 534352,
-      "address": "0xd29687c813d741e2f938f4ac377128810e217b1b",
-      "name": "Scroll",
-      "symbol": "SCR",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/50571/thumb/scroll.jpg?1728376125"
-    },
-    {
-      "chainId": 534352,
-      "address": "0x2147a89fb4608752807216d5070471c09a0dce32",
-      "name": "Z Protocol",
-      "symbol": "ZP",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/36011/thumb/about_img01.png?1710324761"
     },
     {
       "chainId": 534352,
@@ -96,19 +80,19 @@
     },
     {
       "chainId": 534352,
+      "address": "0x5300000000000000000000000000000000000004",
+      "name": "Bridged Wrapped Ether (Scroll)",
+      "symbol": "WETH",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/32315/thumb/weth_%281%29.png?1697365181"
+    },
+    {
+      "chainId": 534352,
       "address": "0x750351a9f75f98f2c2e91d4edb3beb14e719557e",
       "name": "Scribes",
       "symbol": "SCRIBES",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/38185/thumb/scribes.png?1716788481"
-    },
-    {
-      "chainId": 534352,
-      "address": "0x65421ba909200b81640d98b979d07487c9781b66",
-      "name": "KelpDAO Bridged rsETH (Scroll)",
-      "symbol": "RSETH",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/39545/thumb/rseth.png?1722849918"
     },
     {
       "chainId": 534352,
@@ -120,27 +104,43 @@
     },
     {
       "chainId": 534352,
-      "address": "0x5300000000000000000000000000000000000004",
-      "name": "Bridged Wrapped Ether (Scroll)",
-      "symbol": "WETH",
+      "address": "0x65421ba909200b81640d98b979d07487c9781b66",
+      "name": "KelpDAO Bridged rsETH (Scroll)",
+      "symbol": "RSETH",
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/32315/thumb/weth_%281%29.png?1697365181"
+      "logoURI": "https://assets.coingecko.com/coins/images/39545/thumb/rseth.png?1722849918"
     },
     {
       "chainId": 534352,
-      "address": "0x330c43d22bd65a60ffea93a197f04e87faa27b70",
-      "name": "abcNURI",
-      "symbol": "ABCNURI",
+      "address": "0xdd6a49995ad38fe7409b5d5cb5539261bd1bc901",
+      "name": "Danjuan Scroll Cat",
+      "symbol": "CAT",
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/40074/thumb/abcNURI.png?1725511281"
+      "logoURI": "https://assets.coingecko.com/coins/images/34637/thumb/200x200.jpg?1705555969"
     },
     {
       "chainId": 534352,
-      "address": "0xf55bec9cafdbe8730f096aa55dad6d22d44099df",
-      "name": "Bridged Tether (Scroll)",
-      "symbol": "USDT",
+      "address": "0x06efdbff2a14a7c8e15944d1f4a48f9f95f663a4",
+      "name": "Bridged USD Coin (Scroll)",
+      "symbol": "USDC",
       "decimals": 6,
-      "logoURI": "https://assets.coingecko.com/coins/images/32610/thumb/usdt_%281%29.png?1698733524"
+      "logoURI": "https://assets.coingecko.com/coins/images/32611/thumb/USDC.png?1698733754"
+    },
+    {
+      "chainId": 534352,
+      "address": "0x95a52ec1d60e74cd3eb002fe54a2c74b185a4c16",
+      "name": "Skydrome",
+      "symbol": "SKY",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/33902/thumb/icon_200x200.png?1703237670"
+    },
+    {
+      "chainId": 534352,
+      "address": "0xd29687c813d741e2f938f4ac377128810e217b1b",
+      "name": "Scroll",
+      "symbol": "SCR",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/50571/thumb/scroll.jpg?1728376125"
     },
     {
       "chainId": 534352,
@@ -360,6 +360,22 @@
     },
     {
       "chainId": 534352,
+      "address": "0x879ba0efe1ab0119fefa745a21585fa205b07907",
+      "name": "Wrapped FRAX",
+      "symbol": "WFRAX",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/55432/thumb/wfrax_64.png?1745993624"
+    },
+    {
+      "chainId": 534352,
+      "address": "0x397f939c3b91a74c321ea7129396492ba9cdce82",
+      "name": "Frax USD",
+      "symbol": "FRXUSD",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/53963/thumb/frxUSD.png?1737792154"
+    },
+    {
+      "chainId": 534352,
       "address": "0xf9af83fc41e0cc2af2fba93644d542df6ea0f2b7",
       "name": "PoolTogether",
       "symbol": "POOL",
@@ -369,7 +385,7 @@
   ],
   "version": {
     "major": 13,
-    "minor": 6,
-    "patch": 1
+    "minor": 8,
+    "patch": 0
   }
 }

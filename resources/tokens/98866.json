@@ -4,7 +4,7 @@
   "keywords": [
     "defi"
   ],
-  "timestamp": "2025-10-06T11:00:33.716+00:00",
+  "timestamp": "2025-10-06T14:00:35.026+00:00",
   "tokens": [
     {
       "chainId": 98866,
@@ -13,6 +13,14 @@
       "symbol": "ESBTC",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/67691/thumb/esbtc_logo-_1_.png?1753521998"
+    },
+    {
+      "chainId": 98866,
+      "address": "0xda6087e69c51e7d31b6dbad276a3c44703dfdcad",
+      "name": "Stargate Bridged USDT (Plume)",
+      "symbol": "USDT",
+      "decimals": 6,
+      "logoURI": "https://assets.coingecko.com/coins/images/67009/thumb/usdt.jpg?1751459215"
     },
     {
       "chainId": 98866,
@@ -29,14 +37,6 @@
       "symbol": "INTBILL",
       "decimals": 6,
       "logoURI": "https://assets.coingecko.com/coins/images/66318/thumb/inTbill.png?1749197830"
-    },
-    {
-      "chainId": 98866,
-      "address": "0xda6087e69c51e7d31b6dbad276a3c44703dfdcad",
-      "name": "Stargate Bridged USDT (Plume)",
-      "symbol": "USDT",
-      "decimals": 6,
-      "logoURI": "https://assets.coingecko.com/coins/images/67009/thumb/usdt.jpg?1751459215"
     },
     {
       "chainId": 98866,
@@ -357,11 +357,19 @@
       "symbol": "WFRAX",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/55432/thumb/wfrax_64.png?1745993624"
+    },
+    {
+      "chainId": 98866,
+      "address": "0x80eede496655fb9047dd39d9f418d5483ed600df",
+      "name": "Frax USD",
+      "symbol": "FRXUSD",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/53963/thumb/frxUSD.png?1737792154"
     }
   ],
   "version": {
     "major": 0,
-    "minor": 28,
+    "minor": 29,
     "patch": 0
   }
 }
