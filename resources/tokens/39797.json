@@ -4,7 +4,7 @@
   "keywords": [
     "defi"
   ],
-  "timestamp": "2025-10-03T05:00:22.846+00:00",
+  "timestamp": "2025-10-08T17:00:24.107+00:00",
   "tokens": [
     {
       "chainId": 39797,
@@ -24,11 +24,11 @@
     },
     {
       "chainId": 39797,
-      "address": "0xffd7510ca0a3279c7a5f50018a26c21d5bc1dbcf",
-      "name": "Energi Bridged USDC (Energi)",
-      "symbol": "USDC",
-      "decimals": 6,
-      "logoURI": "https://assets.coingecko.com/coins/images/35323/thumb/USDC.jpg?1708178353"
+      "address": "0x0f46fe95a8d6573990118aee8b7ac9a3532f5963",
+      "name": "Energi Dollar",
+      "symbol": "USDE",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/25463/thumb/USDE.png?1696524593"
     },
     {
       "chainId": 39797,
@@ -40,11 +40,11 @@
     },
     {
       "chainId": 39797,
-      "address": "0x0f46fe95a8d6573990118aee8b7ac9a3532f5963",
-      "name": "Energi Dollar",
-      "symbol": "USDE",
+      "address": "0xd7b8710f5713d2739da301a5ecdb8b6ffb5ec60d",
+      "name": "Energiswap WAVAX (Energi)",
+      "symbol": "EAVAX",
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/25463/thumb/USDE.png?1696524593"
+      "logoURI": "https://assets.coingecko.com/coins/images/53087/thumb/wrapped-avax.png?1735205549"
     },
     {
       "chainId": 39797,
@@ -56,19 +56,19 @@
     },
     {
       "chainId": 39797,
-      "address": "0xd7b8710f5713d2739da301a5ecdb8b6ffb5ec60d",
-      "name": "Energiswap WAVAX (Energi)",
-      "symbol": "EAVAX",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/53087/thumb/wrapped-avax.png?1735205549"
-    },
-    {
-      "chainId": 39797,
       "address": "0xa55f26319462355474a9f2c8790860776a329aa4",
       "name": "Wrapped Energi",
       "symbol": "WNRG",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/25462/thumb/Energi.jpeg?1696524592"
+    },
+    {
+      "chainId": 39797,
+      "address": "0xffd7510ca0a3279c7a5f50018a26c21d5bc1dbcf",
+      "name": "Energi Bridged USDC (Energi)",
+      "symbol": "USDC",
+      "decimals": 6,
+      "logoURI": "https://assets.coingecko.com/coins/images/35323/thumb/USDC.jpg?1708178353"
     },
     {
       "chainId": 39797,
@@ -241,7 +241,7 @@
     {
       "chainId": 39797,
       "address": "0xa255461ff545d6ece153283f421d67d2de5d0e29",
-      "name": "Synthetix Network",
+      "name": "Synthetix",
       "symbol": "SNX",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/3406/thumb/SNX.png?1696504103"
@@ -922,6 +922,6 @@
   "version": {
     "major": 10,
     "minor": 0,
-    "patch": 0
+    "patch": 1
   }
 }
