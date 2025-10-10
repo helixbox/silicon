@@ -4,7 +4,7 @@
   "keywords": [
     "defi"
   ],
-  "timestamp": "2025-10-06T13:01:27.164+00:00",
+  "timestamp": "2025-10-09T16:01:29.107+00:00",
   "tokens": [
     {
       "chainId": 534352,
@@ -24,11 +24,11 @@
     },
     {
       "chainId": 534352,
-      "address": "0xf55bec9cafdbe8730f096aa55dad6d22d44099df",
-      "name": "Bridged Tether (Scroll)",
-      "symbol": "USDT",
+      "address": "0x06efdbff2a14a7c8e15944d1f4a48f9f95f663a4",
+      "name": "Bridged USD Coin (Scroll)",
+      "symbol": "USDC",
       "decimals": 6,
-      "logoURI": "https://assets.coingecko.com/coins/images/32610/thumb/usdt_%281%29.png?1698733524"
+      "logoURI": "https://assets.coingecko.com/coins/images/32611/thumb/USDC.png?1698733754"
     },
     {
       "chainId": 534352,
@@ -40,11 +40,27 @@
     },
     {
       "chainId": 534352,
+      "address": "0x65421ba909200b81640d98b979d07487c9781b66",
+      "name": "KelpDAO Bridged rsETH (Scroll)",
+      "symbol": "RSETH",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/39545/thumb/rseth.png?1722849918"
+    },
+    {
+      "chainId": 534352,
       "address": "0x0fc479e2f9b7310bfb1db606cf565dea6910eedc",
       "name": "Papyrus Swap",
       "symbol": "PAPYRUS",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/32479/thumb/PapyrusLogo.png?1698286849"
+    },
+    {
+      "chainId": 534352,
+      "address": "0xdb9e8f82d6d45fff803161f2a5f75543972b229a",
+      "name": "Quill USDQ",
+      "symbol": "USDQ",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/66132/thumb/image_%289%29.png?1748439949"
     },
     {
       "chainId": 534352,
@@ -88,6 +104,14 @@
     },
     {
       "chainId": 534352,
+      "address": "0xf55bec9cafdbe8730f096aa55dad6d22d44099df",
+      "name": "Bridged Tether (Scroll)",
+      "symbol": "USDT",
+      "decimals": 6,
+      "logoURI": "https://assets.coingecko.com/coins/images/32610/thumb/usdt_%281%29.png?1698733524"
+    },
+    {
+      "chainId": 534352,
       "address": "0x750351a9f75f98f2c2e91d4edb3beb14e719557e",
       "name": "Scribes",
       "symbol": "SCRIBES",
@@ -96,35 +120,11 @@
     },
     {
       "chainId": 534352,
-      "address": "0xdb9e8f82d6d45fff803161f2a5f75543972b229a",
-      "name": "Quill USDQ",
-      "symbol": "USDQ",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/66132/thumb/image_%289%29.png?1748439949"
-    },
-    {
-      "chainId": 534352,
-      "address": "0x65421ba909200b81640d98b979d07487c9781b66",
-      "name": "KelpDAO Bridged rsETH (Scroll)",
-      "symbol": "RSETH",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/39545/thumb/rseth.png?1722849918"
-    },
-    {
-      "chainId": 534352,
       "address": "0xdd6a49995ad38fe7409b5d5cb5539261bd1bc901",
       "name": "Danjuan Scroll Cat",
       "symbol": "CAT",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/34637/thumb/200x200.jpg?1705555969"
-    },
-    {
-      "chainId": 534352,
-      "address": "0x06efdbff2a14a7c8e15944d1f4a48f9f95f663a4",
-      "name": "Bridged USD Coin (Scroll)",
-      "symbol": "USDC",
-      "decimals": 6,
-      "logoURI": "https://assets.coingecko.com/coins/images/32611/thumb/USDC.png?1698733754"
     },
     {
       "chainId": 534352,
@@ -340,7 +340,7 @@
       "name": "Chainlink",
       "symbol": "LINK",
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/877/thumb/chainlink-new-logo.png?1696502009"
+      "logoURI": "https://assets.coingecko.com/coins/images/877/thumb/Chainlink_Logo_500.png?1760023405"
     },
     {
       "chainId": 534352,
@@ -386,6 +386,6 @@
   "version": {
     "major": 13,
     "minor": 8,
-    "patch": 0
+    "patch": 1
   }
 }

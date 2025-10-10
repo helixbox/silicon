@@ -4,23 +4,15 @@
   "keywords": [
     "defi"
   ],
-  "timestamp": "2025-10-03T05:01:31.162+00:00",
+  "timestamp": "2025-10-09T17:01:29.115+00:00",
   "tokens": [
     {
       "chainId": 43111,
-      "address": "0xbb0d083fb1be0a9f6157ec484b6c79e0a4e31c2e",
-      "name": "Hemi Bridged USDT (Hemi)",
-      "symbol": "USDT",
-      "decimals": 6,
-      "logoURI": "https://assets.coingecko.com/coins/images/68905/thumb/usdt.jpg?1756951459"
-    },
-    {
-      "chainId": 43111,
-      "address": "0x71881974e96152643c74a8e0214b877cfb2a0aa1",
-      "name": "VCRED",
-      "symbol": "VCRED",
-      "decimals": 6,
-      "logoURI": "https://assets.coingecko.com/coins/images/69495/thumb/vcred.jpg?1758767359"
+      "address": "0xaa40c0c7644e0b2b224509571e10ad20d9c4ef28",
+      "name": "Hemi Bitcoin",
+      "symbol": "HEMIBTC",
+      "decimals": 8,
+      "logoURI": "https://assets.coingecko.com/coins/images/67027/thumb/hemibtc.jpg?1751514905"
     },
     {
       "chainId": 43111,
@@ -48,11 +40,11 @@
     },
     {
       "chainId": 43111,
-      "address": "0xaa40c0c7644e0b2b224509571e10ad20d9c4ef28",
-      "name": "Hemi Bitcoin",
-      "symbol": "HEMIBTC",
-      "decimals": 8,
-      "logoURI": "https://assets.coingecko.com/coins/images/67027/thumb/hemibtc.jpg?1751514905"
+      "address": "0xbb0d083fb1be0a9f6157ec484b6c79e0a4e31c2e",
+      "name": "Hemi Bridged USDT (Hemi)",
+      "symbol": "USDT",
+      "decimals": 6,
+      "logoURI": "https://assets.coingecko.com/coins/images/68905/thumb/usdt.jpg?1756951459"
     },
     {
       "chainId": 43111,
@@ -61,6 +53,14 @@
       "symbol": "VUSD",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/67026/thumb/vusd.jpg?1751514327"
+    },
+    {
+      "chainId": 43111,
+      "address": "0x71881974e96152643c74a8e0214b877cfb2a0aa1",
+      "name": "VCRED",
+      "symbol": "VCRED",
+      "decimals": 6,
+      "logoURI": "https://assets.coingecko.com/coins/images/69495/thumb/vcred.jpg?1758767359"
     },
     {
       "chainId": 43111,
@@ -116,12 +116,12 @@
       "name": "Chainlink",
       "symbol": "LINK",
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/877/thumb/chainlink-new-logo.png?1696502009"
+      "logoURI": "https://assets.coingecko.com/coins/images/877/thumb/Chainlink_Logo_500.png?1760023405"
     }
   ],
   "version": {
     "major": 0,
     "minor": 11,
-    "patch": 0
+    "patch": 1
   }
 }

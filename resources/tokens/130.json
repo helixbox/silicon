@@ -4,16 +4,8 @@
   "keywords": [
     "defi"
   ],
-  "timestamp": "2025-10-06T11:00:26.461+00:00",
+  "timestamp": "2025-10-09T16:00:32.348+00:00",
   "tokens": [
-    {
-      "chainId": 130,
-      "address": "0x927b51f251480a681271180da4de28d44ec4afb8",
-      "name": "Unichain Bridged WBTC (Unichain)",
-      "symbol": "WBTC",
-      "decimals": 8,
-      "logoURI": "https://assets.coingecko.com/coins/images/66722/thumb/wbtc.jpg?1750315958"
-    },
     {
       "chainId": 130,
       "address": "0x588ce4f028d8e7b53b687865d6a67b3a54c75518",
@@ -24,11 +16,19 @@
     },
     {
       "chainId": 130,
-      "address": "0x756ee6857f915a2b5366f2ef56d8d13857aef8ad",
-      "name": "Catex",
-      "symbol": "CATX",
+      "address": "0x926dc7b96bb2f4a91c2a67e291faf482691a3001",
+      "name": "Unicorn",
+      "symbol": "UNICORN",
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/67331/thumb/Catex_logo_Coinbgecko.png?1752402945"
+      "logoURI": "https://assets.coingecko.com/coins/images/54332/thumb/unicorn.jpg?1739325321"
+    },
+    {
+      "chainId": 130,
+      "address": "0x927b51f251480a681271180da4de28d44ec4afb8",
+      "name": "Unichain Bridged WBTC (Unichain)",
+      "symbol": "WBTC",
+      "decimals": 8,
+      "logoURI": "https://assets.coingecko.com/coins/images/66722/thumb/wbtc.jpg?1750315958"
     },
     {
       "chainId": 130,
@@ -48,22 +48,6 @@
     },
     {
       "chainId": 130,
-      "address": "0x15d0e0c55a3e7ee67152ad7e89acf164253ff68d",
-      "name": "Wormhole Bridged HYPE",
-      "symbol": "HYPE",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/68481/thumb/hype.png?1755878697"
-    },
-    {
-      "chainId": 130,
-      "address": "0x926dc7b96bb2f4a91c2a67e291faf482691a3001",
-      "name": "Unicorn",
-      "symbol": "UNICORN",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/54332/thumb/unicorn.jpg?1739325321"
-    },
-    {
-      "chainId": 130,
       "address": "0xc3eacf0612346366db554c991d7858716db09f58",
       "name": "KelpDAO Bridged rsETH (Unichain)",
       "symbol": "RSETH",
@@ -72,11 +56,27 @@
     },
     {
       "chainId": 130,
+      "address": "0x15d0e0c55a3e7ee67152ad7e89acf164253ff68d",
+      "name": "Wormhole Bridged HYPE",
+      "symbol": "HYPE",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/68481/thumb/hype.png?1755878697"
+    },
+    {
+      "chainId": 130,
       "address": "0xec4a56061d86955d0df883efb2e5791d99ea71f2",
       "name": "hoonicorn.lol",
       "symbol": "HOONI",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/54996/thumb/hooni-logo-fixed.png?1743095425"
+    },
+    {
+      "chainId": 130,
+      "address": "0x756ee6857f915a2b5366f2ef56d8d13857aef8ad",
+      "name": "Catex",
+      "symbol": "CATX",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/67331/thumb/Catex_logo_Coinbgecko.png?1752402945"
     },
     {
       "chainId": 130,
@@ -112,19 +112,19 @@
     },
     {
       "chainId": 130,
-      "address": "0x80eede496655fb9047dd39d9f418d5483ed600df",
-      "name": "Frax USD",
-      "symbol": "FRXUSD",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/53963/thumb/frxUSD.png?1737792154"
-    },
-    {
-      "chainId": 130,
       "address": "0x7dcc39b4d1c53cb31e1abc0e358b43987fef80f7",
       "name": "Wrapped eETH",
       "symbol": "WEETH",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/33033/thumb/weETH.png?1701438396"
+    },
+    {
+      "chainId": 130,
+      "address": "0x80eede496655fb9047dd39d9f418d5483ed600df",
+      "name": "Frax USD",
+      "symbol": "FRXUSD",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/53963/thumb/frxUSD.png?1737792154"
     },
     {
       "chainId": 130,
@@ -212,7 +212,7 @@
       "name": "Chainlink",
       "symbol": "LINK",
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/877/thumb/chainlink-new-logo.png?1696502009"
+      "logoURI": "https://assets.coingecko.com/coins/images/877/thumb/Chainlink_Logo_500.png?1760023405"
     },
     {
       "chainId": 130,
@@ -290,6 +290,6 @@
   "version": {
     "major": 2,
     "minor": 15,
-    "patch": 0
+    "patch": 1
   }
 }

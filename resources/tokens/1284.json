@@ -4,16 +4,8 @@
   "keywords": [
     "defi"
   ],
-  "timestamp": "2025-10-05T08:00:35.812+00:00",
+  "timestamp": "2025-10-09T16:00:45.646+00:00",
   "tokens": [
-    {
-      "chainId": 1284,
-      "address": "0xffffffffea09fb06d082fd1275cd48b191cbcd1d",
-      "name": "xcUSDT",
-      "symbol": "XCUSDT",
-      "decimals": 6,
-      "logoURI": "https://assets.coingecko.com/coins/images/29019/thumb/usdt.png?1696527990"
-    },
     {
       "chainId": 1284,
       "address": "0xbc7e02c4178a7df7d3e564323a5c359dc96c4db4",
@@ -29,6 +21,22 @@
       "symbol": "USDC",
       "decimals": 6,
       "logoURI": "https://assets.coingecko.com/coins/images/35231/thumb/USDC.jpg?1707925331"
+    },
+    {
+      "chainId": 1284,
+      "address": "0xffffffff8a9736b44ebf188972725bed67bf694e",
+      "name": "Apillon",
+      "symbol": "NCTR",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/39413/thumb/round_icon_dark_on_bright_background_%281%29.png?1722180372"
+    },
+    {
+      "chainId": 1284,
+      "address": "0xffffffff1fcacbd218edc0eba20fc2308c778080",
+      "name": "xcDOT",
+      "symbol": "DOT",
+      "decimals": 10,
+      "logoURI": "https://assets.coingecko.com/coins/images/26044/thumb/polkadot-asset_32.png?1696525125"
     },
     {
       "chainId": 1284,
@@ -48,19 +56,19 @@
     },
     {
       "chainId": 1284,
+      "address": "0x511ab53f793683763e5a8829738301368a2411e3",
+      "name": "Moonwell",
+      "symbol": "WELL",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/26133/thumb/WELL.png?1696525221"
+    },
+    {
+      "chainId": 1284,
       "address": "0x765277eebeca2e31912c9946eae1021199b39c61",
       "name": "Multichain Bridged DAI (Moonbeam)",
       "symbol": "DAI",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/39799/thumb/dai.png?1724125463"
-    },
-    {
-      "chainId": 1284,
-      "address": "0xe8e8bd89a429526561e1283cb789719864ffd0b4",
-      "name": "Gu",
-      "symbol": "GU",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/68189/thumb/GU-logo.png?1755024305"
     },
     {
       "chainId": 1284,
@@ -72,11 +80,11 @@
     },
     {
       "chainId": 1284,
-      "address": "0x30d2a9f5fdf90ace8c17952cbb4ee48a55d916a7",
-      "name": "Nomad Bridged WETH (Moonbeam)",
-      "symbol": "WETH",
+      "address": "0xe8e8bd89a429526561e1283cb789719864ffd0b4",
+      "name": "Gu",
+      "symbol": "GU",
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/39720/thumb/WETH.PNG?1723732514"
+      "logoURI": "https://assets.coingecko.com/coins/images/68189/thumb/GU-logo.png?1755024305"
     },
     {
       "chainId": 1284,
@@ -88,11 +96,11 @@
     },
     {
       "chainId": 1284,
-      "address": "0xab3f0245b83feb11d15aaffefd7ad465a59817ed",
-      "name": "Wormhole Bridged WETH (Moonbeam)",
-      "symbol": "WETH",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/39965/thumb/weth.png?1724953086"
+      "address": "0xffffffffea09fb06d082fd1275cd48b191cbcd1d",
+      "name": "xcUSDT",
+      "symbol": "XCUSDT",
+      "decimals": 6,
+      "logoURI": "https://assets.coingecko.com/coins/images/29019/thumb/usdt.png?1696527990"
     },
     {
       "chainId": 1284,
@@ -104,27 +112,19 @@
     },
     {
       "chainId": 1284,
-      "address": "0x511ab53f793683763e5a8829738301368a2411e3",
-      "name": "Moonwell",
-      "symbol": "WELL",
+      "address": "0x30d2a9f5fdf90ace8c17952cbb4ee48a55d916a7",
+      "name": "Nomad Bridged WETH (Moonbeam)",
+      "symbol": "WETH",
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/26133/thumb/WELL.png?1696525221"
+      "logoURI": "https://assets.coingecko.com/coins/images/39720/thumb/WETH.PNG?1723732514"
     },
     {
       "chainId": 1284,
-      "address": "0xffffffff8a9736b44ebf188972725bed67bf694e",
-      "name": "Apillon",
-      "symbol": "NCTR",
+      "address": "0xab3f0245b83feb11d15aaffefd7ad465a59817ed",
+      "name": "Wormhole Bridged WETH (Moonbeam)",
+      "symbol": "WETH",
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/39413/thumb/round_icon_dark_on_bright_background_%281%29.png?1722180372"
-    },
-    {
-      "chainId": 1284,
-      "address": "0xffffffff1fcacbd218edc0eba20fc2308c778080",
-      "name": "xcDOT",
-      "symbol": "DOT",
-      "decimals": 10,
-      "logoURI": "https://assets.coingecko.com/coins/images/26044/thumb/polkadot-asset_32.png?1696525125"
+      "logoURI": "https://assets.coingecko.com/coins/images/39965/thumb/weth.png?1724953086"
     },
     {
       "chainId": 1284,
@@ -204,7 +204,7 @@
       "name": "Chainlink",
       "symbol": "LINK",
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/877/thumb/chainlink-new-logo.png?1696502009"
+      "logoURI": "https://assets.coingecko.com/coins/images/877/thumb/Chainlink_Logo_500.png?1760023405"
     },
     {
       "chainId": 1284,
@@ -282,6 +282,6 @@
   "version": {
     "major": 13,
     "minor": 2,
-    "patch": 0
+    "patch": 1
   }
 }

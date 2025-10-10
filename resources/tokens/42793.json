@@ -4,24 +4,8 @@
   "keywords": [
     "defi"
   ],
-  "timestamp": "2025-10-01T12:00:32.296+00:00",
+  "timestamp": "2025-10-09T17:00:37.853+00:00",
   "tokens": [
-    {
-      "chainId": 42793,
-      "address": "0xbfc94cd2b1e55999cfc7347a9313e88702b83d0f",
-      "name": "Etherlink Bridged WBTC (Etherlink)",
-      "symbol": "WBTC",
-      "decimals": 8,
-      "logoURI": "https://assets.coingecko.com/coins/images/66719/thumb/wbtc.jpg?1750306081"
-    },
-    {
-      "chainId": 42793,
-      "address": "0x2c03058c8afc06713be23e58d2febc8337dbfe6a",
-      "name": "Bridged USDT (Etherlink)",
-      "symbol": "USDT",
-      "decimals": 6,
-      "logoURI": "https://assets.coingecko.com/coins/images/39662/thumb/tether.png?1723525619"
-    },
     {
       "chainId": 42793,
       "address": "0x9121b153bbcf8c23f20ee43b494f08760b91ad64",
@@ -40,11 +24,19 @@
     },
     {
       "chainId": 42793,
-      "address": "0xc9b53ab2679f573e480d01e0f49e2b5cfb7a3eab",
-      "name": "Wrapped XTZ",
-      "symbol": "WXTZ",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/51172/thumb/WXTZ_Logo_Black.png?1750764795"
+      "address": "0xbfc94cd2b1e55999cfc7347a9313e88702b83d0f",
+      "name": "Etherlink Bridged WBTC (Etherlink)",
+      "symbol": "WBTC",
+      "decimals": 8,
+      "logoURI": "https://assets.coingecko.com/coins/images/66719/thumb/wbtc.jpg?1750306081"
+    },
+    {
+      "chainId": 42793,
+      "address": "0x2c03058c8afc06713be23e58d2febc8337dbfe6a",
+      "name": "Bridged USDT (Etherlink)",
+      "symbol": "USDT",
+      "decimals": 6,
+      "logoURI": "https://assets.coingecko.com/coins/images/39662/thumb/tether.png?1723525619"
     },
     {
       "chainId": 42793,
@@ -53,6 +45,14 @@
       "symbol": "USDC",
       "decimals": 6,
       "logoURI": "https://assets.coingecko.com/coins/images/39584/thumb/USDC-icon.webp?1723013425"
+    },
+    {
+      "chainId": 42793,
+      "address": "0xc9b53ab2679f573e480d01e0f49e2b5cfb7a3eab",
+      "name": "Wrapped XTZ",
+      "symbol": "WXTZ",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/51172/thumb/WXTZ_Logo_Black.png?1750764795"
     },
     {
       "chainId": 42793,
@@ -92,7 +92,7 @@
       "name": "Chainlink",
       "symbol": "LINK",
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/877/thumb/chainlink-new-logo.png?1696502009"
+      "logoURI": "https://assets.coingecko.com/coins/images/877/thumb/Chainlink_Logo_500.png?1760023405"
     },
     {
       "chainId": 42793,
@@ -154,6 +154,6 @@
   "version": {
     "major": 1,
     "minor": 3,
-    "patch": 2
+    "patch": 3
   }
 }

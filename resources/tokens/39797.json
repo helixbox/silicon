@@ -4,7 +4,7 @@
   "keywords": [
     "defi"
   ],
-  "timestamp": "2025-10-08T17:00:24.107+00:00",
+  "timestamp": "2025-10-09T17:00:23.401+00:00",
   "tokens": [
     {
       "chainId": 39797,
@@ -13,6 +13,14 @@
       "symbol": "WBNB",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/53080/thumb/wrapped_bnb.png?1735265046"
+    },
+    {
+      "chainId": 39797,
+      "address": "0xa55f26319462355474a9f2c8790860776a329aa4",
+      "name": "Wrapped Energi",
+      "symbol": "WNRG",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/25462/thumb/Energi.jpeg?1696524592"
     },
     {
       "chainId": 39797,
@@ -53,14 +61,6 @@
       "symbol": "WETH",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/39692/thumb/weth.png?1723670286"
-    },
-    {
-      "chainId": 39797,
-      "address": "0xa55f26319462355474a9f2c8790860776a329aa4",
-      "name": "Wrapped Energi",
-      "symbol": "WNRG",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/25462/thumb/Energi.jpeg?1696524592"
     },
     {
       "chainId": 39797,
@@ -476,7 +476,7 @@
       "name": "Chainlink",
       "symbol": "LINK",
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/877/thumb/chainlink-new-logo.png?1696502009"
+      "logoURI": "https://assets.coingecko.com/coins/images/877/thumb/Chainlink_Logo_500.png?1760023405"
     },
     {
       "chainId": 39797,
@@ -922,6 +922,6 @@
   "version": {
     "major": 10,
     "minor": 0,
-    "patch": 1
+    "patch": 2
   }
 }

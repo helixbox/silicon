@@ -4,23 +4,15 @@
   "keywords": [
     "defi"
   ],
-  "timestamp": "2025-10-07T08:00:12.061+00:00",
+  "timestamp": "2025-10-09T17:00:14.621+00:00",
   "tokens": [
     {
       "chainId": 1116,
-      "address": "0xa4151b2b3e269645181dccf2d426ce75fcbdeca9",
-      "name": "CoreDAO Bridged USDC (Core)",
-      "symbol": "USDC",
-      "decimals": 6,
-      "logoURI": "https://assets.coingecko.com/coins/images/34423/thumb/usdc.png?1704857726"
-    },
-    {
-      "chainId": 1116,
-      "address": "0xe0d829e913618a7d2e2ba27a5fc8c274a8c525cf",
-      "name": "Gemholic",
-      "symbol": "GEMS",
-      "decimals": 9,
-      "logoURI": "https://assets.coingecko.com/coins/images/29542/thumb/photo_2023-03-16_19-06-39.jpg?1696528483"
+      "address": "0x30a540b05468a250fcc17da2d9d4aaa84b358ea7",
+      "name": "Colend",
+      "symbol": "CLND",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/51445/thumb/CLND_200.png?1731238732"
     },
     {
       "chainId": 1116,
@@ -32,11 +24,11 @@
     },
     {
       "chainId": 1116,
-      "address": "0x42077e348702f13ea80ce6a6a38b8b60fbb37b5d",
-      "name": "cDAO",
-      "symbol": "CDAO",
+      "address": "0x1a639e150d2210a4be4a5f0857a9151b241e7ae4",
+      "name": "Archerswap BOW",
+      "symbol": "BOW",
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/33125/thumb/LmgRwWp9_400x400.jpg?1700795014"
+      "logoURI": "https://assets.coingecko.com/coins/images/29458/thumb/bow200x200.png?1696528405"
     },
     {
       "chainId": 1116,
@@ -64,11 +56,19 @@
     },
     {
       "chainId": 1116,
-      "address": "0x30a540b05468a250fcc17da2d9d4aaa84b358ea7",
-      "name": "Colend",
-      "symbol": "CLND",
+      "address": "0x42020c7962ce072f5048120cedeb36c020062af4",
+      "name": "Crust Exchange",
+      "symbol": "CRUST",
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/51445/thumb/CLND_200.png?1731238732"
+      "logoURI": "https://assets.coingecko.com/coins/images/29537/thumb/photo_2023-03-21_00-12-46.jpg?1696528479"
+    },
+    {
+      "chainId": 1116,
+      "address": "0xe0d829e913618a7d2e2ba27a5fc8c274a8c525cf",
+      "name": "Gemholic",
+      "symbol": "GEMS",
+      "decimals": 9,
+      "logoURI": "https://assets.coingecko.com/coins/images/29542/thumb/photo_2023-03-16_19-06-39.jpg?1696528483"
     },
     {
       "chainId": 1116,
@@ -77,14 +77,6 @@
       "symbol": "COKE",
       "decimals": 9,
       "logoURI": "https://assets.coingecko.com/coins/images/37848/thumb/corekeeper-2.png?1715758831"
-    },
-    {
-      "chainId": 1116,
-      "address": "0x42020c7962ce072f5048120cedeb36c020062af4",
-      "name": "Crust Exchange",
-      "symbol": "CRUST",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/29537/thumb/photo_2023-03-21_00-12-46.jpg?1696528479"
     },
     {
       "chainId": 1116,
@@ -101,14 +93,6 @@
       "symbol": "CORP",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/68957/thumb/1024.png?1757088207"
-    },
-    {
-      "chainId": 1116,
-      "address": "0x1a639e150d2210a4be4a5f0857a9151b241e7ae4",
-      "name": "Archerswap BOW",
-      "symbol": "BOW",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/29458/thumb/bow200x200.png?1696528405"
     },
     {
       "chainId": 1116,
@@ -157,6 +141,22 @@
       "symbol": "COCO",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/55580/thumb/_COCO_Community_Token_Project_Lo_II.png?1746781518"
+    },
+    {
+      "chainId": 1116,
+      "address": "0x42077e348702f13ea80ce6a6a38b8b60fbb37b5d",
+      "name": "cDAO",
+      "symbol": "CDAO",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/33125/thumb/LmgRwWp9_400x400.jpg?1700795014"
+    },
+    {
+      "chainId": 1116,
+      "address": "0xa4151b2b3e269645181dccf2d426ce75fcbdeca9",
+      "name": "CoreDAO Bridged USDC (Core)",
+      "symbol": "USDC",
+      "decimals": 6,
+      "logoURI": "https://assets.coingecko.com/coins/images/34423/thumb/usdc.png?1704857726"
     },
     {
       "chainId": 1116,
@@ -300,7 +300,7 @@
       "name": "Chainlink",
       "symbol": "LINK",
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/877/thumb/chainlink-new-logo.png?1696502009"
+      "logoURI": "https://assets.coingecko.com/coins/images/877/thumb/Chainlink_Logo_500.png?1760023405"
     },
     {
       "chainId": 1116,
@@ -314,6 +314,6 @@
   "version": {
     "major": 9,
     "minor": 5,
-    "patch": 2
+    "patch": 3
   }
 }

@@ -4,15 +4,15 @@
   "keywords": [
     "defi"
   ],
-  "timestamp": "2025-09-29T09:01:28.909+00:00",
+  "timestamp": "2025-10-09T16:01:32.195+00:00",
   "tokens": [
     {
       "chainId": 1329,
-      "address": "0xbd82f3bfe1df0c84faec88a22ebc34c9a86595dc",
-      "name": "Chips",
-      "symbol": "CHIPS",
+      "address": "0x3894085ef7ff0f0aedf52e2a2704928d1ec074f1",
+      "name": "Noble USDC",
+      "symbol": "USDC.N",
       "decimals": 6,
-      "logoURI": "https://assets.coingecko.com/coins/images/52405/thumb/logo.png?1733303663"
+      "logoURI": "https://assets.coingecko.com/coins/images/38604/thumb/usdc.png?1718098770"
     },
     {
       "chainId": 1329,
@@ -24,6 +24,14 @@
     },
     {
       "chainId": 1329,
+      "address": "0x4b416a45e1f26a53d2ee82a50a4c7d7be9eda9e4",
+      "name": "Kura",
+      "symbol": "KURA",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/68082/thumb/kura.png?1754720200"
+    },
+    {
+      "chainId": 1329,
       "address": "0x805679729df385815c57c24b20f4161bd34b655f",
       "name": "Fishwar",
       "symbol": "FISHW",
@@ -32,11 +40,19 @@
     },
     {
       "chainId": 1329,
-      "address": "0x372b2dc06478aa2c8182eee0f12ea0e9a15e2913",
-      "name": "Real GEM Token",
-      "symbol": "GEM",
+      "address": "0xc257361320f4514d91c05f461006ce6a0300e2d2",
+      "name": "Splashing Staked SEI",
+      "symbol": "SPSEI",
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/67033/thumb/Screenshot_2024-10-24_111012.png?1751525160"
+      "logoURI": "https://assets.coingecko.com/coins/images/68734/thumb/logo_spSEI.png?1756409469"
+    },
+    {
+      "chainId": 1329,
+      "address": "0x51121bcae92e302f19d06c193c95e1f7b81a444b",
+      "name": "YAKA",
+      "symbol": "YAKA",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/50889/thumb/IMG_6242.png?1741333572"
     },
     {
       "chainId": 1329,
@@ -48,22 +64,6 @@
     },
     {
       "chainId": 1329,
-      "address": "0x5cf6826140c1c56ff49c808a1a75407cd1df9423",
-      "name": "Silo Staked SEI",
-      "symbol": "ISEI",
-      "decimals": 6,
-      "logoURI": "https://assets.coingecko.com/coins/images/38591/thumb/iSEI_logo_200_200.png?1718091709"
-    },
-    {
-      "chainId": 1329,
-      "address": "0x58e11d8ed38a2061361e90916540c5c32281a380",
-      "name": "Grand Gangsta City",
-      "symbol": "$GGC",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/67656/thumb/200pixels.png?1753423916"
-    },
-    {
-      "chainId": 1329,
       "address": "0x0a526e425809aea71eb279d24ae22dee6c92a4fe",
       "name": "DragonSwap",
       "symbol": "DRG",
@@ -72,11 +72,27 @@
     },
     {
       "chainId": 1329,
-      "address": "0xc257361320f4514d91c05f461006ce6a0300e2d2",
-      "name": "Splashing Staked SEI",
-      "symbol": "SPSEI",
+      "address": "0x049eaa1b2c9934aaacc12a141484eefd62867653",
+      "name": "jAsset jUSD",
+      "symbol": "JUSD",
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/68734/thumb/logo_spSEI.png?1756409469"
+      "logoURI": "https://assets.coingecko.com/coins/images/54933/thumb/jusd_200px.png?1742628333"
+    },
+    {
+      "chainId": 1329,
+      "address": "0x8a200a13c1321fdc7f6c7afba1494e1949426efd",
+      "name": "Kura Liquid Staking Token",
+      "symbol": "K33",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/68084/thumb/k33.png?1754720923"
+    },
+    {
+      "chainId": 1329,
+      "address": "0x5cf6826140c1c56ff49c808a1a75407cd1df9423",
+      "name": "Silo Staked SEI",
+      "symbol": "ISEI",
+      "decimals": 6,
+      "logoURI": "https://assets.coingecko.com/coins/images/38591/thumb/iSEI_logo_200_200.png?1718091709"
     },
     {
       "chainId": 1329,
@@ -96,19 +112,35 @@
     },
     {
       "chainId": 1329,
-      "address": "0xa8a3a5013104e093245164ea56588dbe10a3eb48",
-      "name": "Super Seyian ETH",
-      "symbol": "SSETH",
+      "address": "0xe30fedd158a2e3b13e9badaeabafc5516e95e8c7",
+      "name": "Wrapped SEI",
+      "symbol": "WSEI",
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/50331/thumb/2024-09-18_19.52.53.jpg?1727164288"
+      "logoURI": "https://assets.coingecko.com/coins/images/38470/thumb/sei.png?1717644025"
     },
     {
       "chainId": 1329,
-      "address": "0x8a200a13c1321fdc7f6c7afba1494e1949426efd",
-      "name": "Kura Liquid Staking Token",
-      "symbol": "K33",
+      "address": "0x37a4dd9ced2b19cfe8fac251cd727b5787e45269",
+      "name": "Sei fastUSD",
+      "symbol": "FASTUSD",
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/68084/thumb/k33.png?1754720923"
+      "logoURI": "https://assets.coingecko.com/coins/images/50766/thumb/2024-10-16_14.54.03.jpg?1729120051"
+    },
+    {
+      "chainId": 1329,
+      "address": "0x372b2dc06478aa2c8182eee0f12ea0e9a15e2913",
+      "name": "Real GEM Token",
+      "symbol": "GEM",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/67033/thumb/Screenshot_2024-10-24_111012.png?1751525160"
+    },
+    {
+      "chainId": 1329,
+      "address": "0xdd7d5e4ea2125d43c16eed8f1ffefffa2f4b4af6",
+      "name": "Jellyverse",
+      "symbol": "JLY",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/31805/thumb/short.png?1719199901"
     },
     {
       "chainId": 1329,
@@ -128,27 +160,11 @@
     },
     {
       "chainId": 1329,
-      "address": "0xe30fedd158a2e3b13e9badaeabafc5516e95e8c7",
-      "name": "Wrapped SEI",
-      "symbol": "WSEI",
+      "address": "0x58e11d8ed38a2061361e90916540c5c32281a380",
+      "name": "Grand Gangsta City",
+      "symbol": "$GGC",
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/38470/thumb/sei.png?1717644025"
-    },
-    {
-      "chainId": 1329,
-      "address": "0x049eaa1b2c9934aaacc12a141484eefd62867653",
-      "name": "jAsset jUSD",
-      "symbol": "JUSD",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/54933/thumb/jusd_200px.png?1742628333"
-    },
-    {
-      "chainId": 1329,
-      "address": "0xdd7d5e4ea2125d43c16eed8f1ffefffa2f4b4af6",
-      "name": "Jellyverse",
-      "symbol": "JLY",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/31805/thumb/short.png?1719199901"
+      "logoURI": "https://assets.coingecko.com/coins/images/67656/thumb/200pixels.png?1753423916"
     },
     {
       "chainId": 1329,
@@ -160,27 +176,19 @@
     },
     {
       "chainId": 1329,
-      "address": "0x3894085ef7ff0f0aedf52e2a2704928d1ec074f1",
-      "name": "Noble USDC",
-      "symbol": "USDC.N",
+      "address": "0xa8a3a5013104e093245164ea56588dbe10a3eb48",
+      "name": "Super Seyian ETH",
+      "symbol": "SSETH",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/50331/thumb/2024-09-18_19.52.53.jpg?1727164288"
+    },
+    {
+      "chainId": 1329,
+      "address": "0xbd82f3bfe1df0c84faec88a22ebc34c9a86595dc",
+      "name": "Chips",
+      "symbol": "CHIPS",
       "decimals": 6,
-      "logoURI": "https://assets.coingecko.com/coins/images/38604/thumb/usdc.png?1718098770"
-    },
-    {
-      "chainId": 1329,
-      "address": "0x4b416a45e1f26a53d2ee82a50a4c7d7be9eda9e4",
-      "name": "Kura",
-      "symbol": "KURA",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/68082/thumb/kura.png?1754720200"
-    },
-    {
-      "chainId": 1329,
-      "address": "0x51121bcae92e302f19d06c193c95e1f7b81a444b",
-      "name": "YAKA",
-      "symbol": "YAKA",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/50889/thumb/IMG_6242.png?1741333572"
+      "logoURI": "https://assets.coingecko.com/coins/images/52405/thumb/logo.png?1733303663"
     },
     {
       "chainId": 1329,
@@ -189,14 +197,6 @@
       "symbol": "SEIYAN",
       "decimals": 6,
       "logoURI": "https://assets.coingecko.com/coins/images/33830/thumb/seiyanlogo.png?1703069383"
-    },
-    {
-      "chainId": 1329,
-      "address": "0x37a4dd9ced2b19cfe8fac251cd727b5787e45269",
-      "name": "Sei fastUSD",
-      "symbol": "FASTUSD",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/50766/thumb/2024-10-16_14.54.03.jpg?1729120051"
     },
     {
       "chainId": 1329,
@@ -253,14 +253,6 @@
       "symbol": "ROCK",
       "decimals": 6,
       "logoURI": "https://assets.coingecko.com/coins/images/52032/thumb/Zenrock_Token_%282%29.png?1732376562"
-    },
-    {
-      "chainId": 1329,
-      "address": "0x64445f0aecc51e94ad52d8ac56b7190e764e561a",
-      "name": "Wrapped FRAX",
-      "symbol": "WFRAX",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/55432/thumb/wfrax_64.png?1745993624"
     },
     {
       "chainId": 1329,
@@ -400,11 +392,19 @@
     },
     {
       "chainId": 1329,
+      "address": "0x64445f0aecc51e94ad52d8ac56b7190e764e561a",
+      "name": "Wrapped FRAX",
+      "symbol": "WFRAX",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/55432/thumb/wfrax_64.png?1745993624"
+    },
+    {
+      "chainId": 1329,
       "address": "0x71052bae71c25c78e37fd12e5ff1101a71d9018f",
       "name": "Chainlink",
       "symbol": "LINK",
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/877/thumb/chainlink-new-logo.png?1696502009"
+      "logoURI": "https://assets.coingecko.com/coins/images/877/thumb/Chainlink_Logo_500.png?1760023405"
     },
     {
       "chainId": 1329,
@@ -418,6 +418,6 @@
   "version": {
     "major": 7,
     "minor": 10,
-    "patch": 3
+    "patch": 4
   }
 }

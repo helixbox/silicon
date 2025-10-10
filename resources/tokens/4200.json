@@ -4,16 +4,8 @@
   "keywords": [
     "defi"
   ],
-  "timestamp": "2025-10-03T07:01:20.306+00:00",
+  "timestamp": "2025-10-09T17:01:22.169+00:00",
   "tokens": [
-    {
-      "chainId": 4200,
-      "address": "0x32a4b8b10222f85301874837f27f4c416117b811",
-      "name": "Bridged DOG•GO•TO•THE•MOON (Merlin Chain)",
-      "symbol": "DOG•GO•TO•THE•MOON",
-      "decimals": 5,
-      "logoURI": "https://assets.coingecko.com/coins/images/37383/thumb/dog.png?1714215910"
-    },
     {
       "chainId": 4200,
       "address": "0x7717d5bd6b20b817d6b0ff7078460fd620d3fda9",
@@ -21,14 +13,6 @@
       "symbol": "EGG",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/37458/thumb/photo_2024-04-29_13-26-36.jpg?1714449740"
-    },
-    {
-      "chainId": 4200,
-      "address": "0x967aec3276b63c5e2262da9641db9dbebb07dc0d",
-      "name": "Merlin's Seal USDT",
-      "symbol": "M-USDT",
-      "decimals": 6,
-      "logoURI": "https://assets.coingecko.com/coins/images/37382/thumb/usdt_%281%29.png?1714215585"
     },
     {
       "chainId": 4200,
@@ -40,6 +24,14 @@
     },
     {
       "chainId": 4200,
+      "address": "0x4d9882a3bb13cc086367d0ae964367e6b7ea246f",
+      "name": "Party",
+      "symbol": "PARTY",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/52810/thumb/photo_2024-12-08_23.14.26.jpeg?1734363293"
+    },
+    {
+      "chainId": 4200,
       "address": "0xb880fd278198bd590252621d4cd071b1842e9bcd",
       "name": "Merlin's Seal BTC",
       "symbol": "M-BTC",
@@ -48,11 +40,19 @@
     },
     {
       "chainId": 4200,
-      "address": "0x09401c470a76ec07512eeddef5477be74bac2338",
-      "name": "Star AI",
-      "symbol": "MSTAR",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/37120/thumb/Token_Logo.jpg?1746604944"
+      "address": "0x967aec3276b63c5e2262da9641db9dbebb07dc0d",
+      "name": "Merlin's Seal USDT",
+      "symbol": "M-USDT",
+      "decimals": 6,
+      "logoURI": "https://assets.coingecko.com/coins/images/37382/thumb/usdt_%281%29.png?1714215585"
+    },
+    {
+      "chainId": 4200,
+      "address": "0x32a4b8b10222f85301874837f27f4c416117b811",
+      "name": "Bridged DOG•GO•TO•THE•MOON (Merlin Chain)",
+      "symbol": "DOG•GO•TO•THE•MOON",
+      "decimals": 5,
+      "logoURI": "https://assets.coingecko.com/coins/images/37383/thumb/dog.png?1714215910"
     },
     {
       "chainId": 4200,
@@ -64,19 +64,19 @@
     },
     {
       "chainId": 4200,
-      "address": "0x4d9882a3bb13cc086367d0ae964367e6b7ea246f",
-      "name": "Party",
-      "symbol": "PARTY",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/52810/thumb/photo_2024-12-08_23.14.26.jpeg?1734363293"
-    },
-    {
-      "chainId": 4200,
       "address": "0x7a677e59dc2c8a42d6af3a62748c5595034a008b",
       "name": "Huhu Cat",
       "symbol": "HUHU",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/35438/thumb/huhu.jpeg?1708590616"
+    },
+    {
+      "chainId": 4200,
+      "address": "0x09401c470a76ec07512eeddef5477be74bac2338",
+      "name": "Star AI",
+      "symbol": "MSTAR",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/37120/thumb/Token_Logo.jpg?1746604944"
     },
     {
       "chainId": 4200,
@@ -124,7 +124,7 @@
       "name": "Chainlink",
       "symbol": "LINK",
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/877/thumb/chainlink-new-logo.png?1696502009"
+      "logoURI": "https://assets.coingecko.com/coins/images/877/thumb/Chainlink_Logo_500.png?1760023405"
     },
     {
       "chainId": 4200,
@@ -178,6 +178,6 @@
   "version": {
     "major": 9,
     "minor": 1,
-    "patch": 3
+    "patch": 4
   }
 }

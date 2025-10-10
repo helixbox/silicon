@@ -4,7 +4,7 @@
   "keywords": [
     "defi"
   ],
-  "timestamp": "2025-09-29T09:00:27.990+00:00",
+  "timestamp": "2025-10-09T17:00:33.666+00:00",
   "tokens": [
     {
       "chainId": 388,
@@ -16,19 +16,27 @@
     },
     {
       "chainId": 388,
-      "address": "0xbcaa34ff9d5bfd0d948b18cf6bf39a882f4a1cbd",
-      "name": "Cronos zkEVM Bridged CRO (Cronos zkEVM)",
-      "symbol": "CRO",
-      "decimals": 8,
-      "logoURI": "https://assets.coingecko.com/coins/images/39774/thumb/cro_token.jpeg?1724057134"
+      "address": "0xaa5b845f8c9c047779bedf64829601d8b264076c",
+      "name": "Cronos zkEVM Bridged USDC (Cronos zkEVM)",
+      "symbol": "USDC",
+      "decimals": 6,
+      "logoURI": "https://assets.coingecko.com/coins/images/39777/thumb/usdc.png?1724059220"
     },
     {
       "chainId": 388,
-      "address": "0xb1ece5b548766215272bafcfa36396b06cd9e4c9",
-      "name": "Veno Yield Bearing USD",
-      "symbol": "YBUSD",
+      "address": "0xcaf2fd3f47e7f46e99f74be579b2cc2233f33ef8",
+      "name": "H2 Finance",
+      "symbol": "$H2",
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/39977/thumb/Rectangle_381.png?1724994276"
+      "logoURI": "https://assets.coingecko.com/coins/images/39766/thumb/H2_Finance.png?1724018149"
+    },
+    {
+      "chainId": 388,
+      "address": "0x18d40bd95e34d1a4fcaf9027db11f6988e5b860a",
+      "name": "AgentFun.AI",
+      "symbol": "AGENTFUN",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/52133/thumb/AIFUN_%282%29.png?1732639482"
     },
     {
       "chainId": 388,
@@ -48,30 +56,6 @@
     },
     {
       "chainId": 388,
-      "address": "0xc1bf55ee54e16229d9b369a5502bfe5fc9f20b6d",
-      "name": "Wrapped zkCRO",
-      "symbol": "WZKCRO",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/39773/thumb/Cronos_zkEVM_ZKCRO_Token_Logo_2.png?1724056918"
-    },
-    {
-      "chainId": 388,
-      "address": "0xcaf2fd3f47e7f46e99f74be579b2cc2233f33ef8",
-      "name": "H2 Finance",
-      "symbol": "$H2",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/39766/thumb/H2_Finance.png?1724018149"
-    },
-    {
-      "chainId": 388,
-      "address": "0xaa5b845f8c9c047779bedf64829601d8b264076c",
-      "name": "Cronos zkEVM Bridged USDC (Cronos zkEVM)",
-      "symbol": "USDC",
-      "decimals": 6,
-      "logoURI": "https://assets.coingecko.com/coins/images/39777/thumb/usdc.png?1724059220"
-    },
-    {
-      "chainId": 388,
       "address": "0x609c278a73a87341819fde69a2e1c0263dc054f9",
       "name": "WOLF",
       "symbol": "WOLF",
@@ -80,11 +64,27 @@
     },
     {
       "chainId": 388,
-      "address": "0x18d40bd95e34d1a4fcaf9027db11f6988e5b860a",
-      "name": "AgentFun.AI",
-      "symbol": "AGENTFUN",
+      "address": "0xb1ece5b548766215272bafcfa36396b06cd9e4c9",
+      "name": "Veno Yield Bearing USD",
+      "symbol": "YBUSD",
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/52133/thumb/AIFUN_%282%29.png?1732639482"
+      "logoURI": "https://assets.coingecko.com/coins/images/39977/thumb/Rectangle_381.png?1724994276"
+    },
+    {
+      "chainId": 388,
+      "address": "0xc1bf55ee54e16229d9b369a5502bfe5fc9f20b6d",
+      "name": "Wrapped zkCRO",
+      "symbol": "WZKCRO",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/39773/thumb/Cronos_zkEVM_ZKCRO_Token_Logo_2.png?1724056918"
+    },
+    {
+      "chainId": 388,
+      "address": "0xbcaa34ff9d5bfd0d948b18cf6bf39a882f4a1cbd",
+      "name": "Cronos zkEVM Bridged CRO (Cronos zkEVM)",
+      "symbol": "CRO",
+      "decimals": 8,
+      "logoURI": "https://assets.coingecko.com/coins/images/39774/thumb/cro_token.jpeg?1724057134"
     },
     {
       "chainId": 388,
@@ -132,12 +132,12 @@
       "name": "Chainlink",
       "symbol": "LINK",
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/877/thumb/chainlink-new-logo.png?1696502009"
+      "logoURI": "https://assets.coingecko.com/coins/images/877/thumb/Chainlink_Logo_500.png?1760023405"
     }
   ],
   "version": {
     "major": 5,
     "minor": 1,
-    "patch": 1
+    "patch": 2
   }
 }

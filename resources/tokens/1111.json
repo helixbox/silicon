@@ -4,8 +4,24 @@
   "keywords": [
     "defi"
   ],
-  "timestamp": "2025-09-29T11:00:08.785+00:00",
+  "timestamp": "2025-10-09T16:00:11.259+00:00",
   "tokens": [
+    {
+      "chainId": 1111,
+      "address": "0x770d9d14c4ae2f78dca810958c1d9b7ea4620289",
+      "name": "CROW",
+      "symbol": "CROW",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/35968/thumb/Crow.png?1710265161"
+    },
+    {
+      "chainId": 1111,
+      "address": "0xb91d37abc99b9bbc3041e0b7646588f347aa6320",
+      "name": "TEAR",
+      "symbol": "TEAR",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/39896/thumb/tear-type01.png?1724731546"
+    },
     {
       "chainId": 1111,
       "address": "0x99618512fce498bebe0447c5f8bb8ea7ad32de76",
@@ -16,35 +32,19 @@
     },
     {
       "chainId": 1111,
+      "address": "0x732e6973595136976173af4a56eac99f52becc6e",
+      "name": "MORION",
+      "symbol": "MOR",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/39076/thumb/morion-type01.png?1720249095"
+    },
+    {
+      "chainId": 1111,
       "address": "0x8e81fcc2d4a3baa0ee9044e0d7e36f59c9bba9c1",
       "name": "WEMIX Dollar",
       "symbol": "WEMIX$",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/28637/thumb/wemix_dollar.png?1696527620"
-    },
-    {
-      "chainId": 1111,
-      "address": "0xc50a55ca9d4b7804471de1e44f3c3ce8216d8ea0",
-      "name": "PAPYRUS",
-      "symbol": "PAP",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/39917/thumb/papyrus-type01.png?1724786963"
-    },
-    {
-      "chainId": 1111,
-      "address": "0xcd47647d94ef20ff75d112820fd44ce218441712",
-      "name": "Summoners League",
-      "symbol": "SUMMON",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/35634/thumb/sl_token_200.png?1709293854"
-    },
-    {
-      "chainId": 1111,
-      "address": "0xb91d37abc99b9bbc3041e0b7646588f347aa6320",
-      "name": "TEAR",
-      "symbol": "TEAR",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/39896/thumb/tear-type01.png?1724731546"
     },
     {
       "chainId": 1111,
@@ -64,19 +64,19 @@
     },
     {
       "chainId": 1111,
-      "address": "0x770d9d14c4ae2f78dca810958c1d9b7ea4620289",
-      "name": "CROW",
-      "symbol": "CROW",
+      "address": "0xc50a55ca9d4b7804471de1e44f3c3ce8216d8ea0",
+      "name": "PAPYRUS",
+      "symbol": "PAP",
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/35968/thumb/Crow.png?1710265161"
+      "logoURI": "https://assets.coingecko.com/coins/images/39917/thumb/papyrus-type01.png?1724786963"
     },
     {
       "chainId": 1111,
-      "address": "0x732e6973595136976173af4a56eac99f52becc6e",
-      "name": "MORION",
-      "symbol": "MOR",
+      "address": "0xcd47647d94ef20ff75d112820fd44ce218441712",
+      "name": "Summoners League",
+      "symbol": "SUMMON",
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/39076/thumb/morion-type01.png?1720249095"
+      "logoURI": "https://assets.coingecko.com/coins/images/35634/thumb/sl_token_200.png?1709293854"
     },
     {
       "chainId": 1111,
@@ -92,12 +92,12 @@
       "name": "Chainlink",
       "symbol": "LINK",
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/877/thumb/chainlink-new-logo.png?1696502009"
+      "logoURI": "https://assets.coingecko.com/coins/images/877/thumb/Chainlink_Logo_500.png?1760023405"
     }
   ],
   "version": {
     "major": 2,
     "minor": 1,
-    "patch": 1
+    "patch": 2
   }
 }
