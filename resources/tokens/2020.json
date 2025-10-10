@@ -4,7 +4,7 @@
   "keywords": [
     "defi"
   ],
-  "timestamp": "2025-10-09T17:01:05.121+00:00",
+  "timestamp": "2025-10-10T06:01:02.013+00:00",
   "tokens": [
     {
       "chainId": 2020,
@@ -13,14 +13,6 @@
       "symbol": "KTTY",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/68500/thumb/mtditlr0b5cyjszmvaeevki29nt4.?1755941488"
-    },
-    {
-      "chainId": 2020,
-      "address": "0xc6046fa4b8961b0e9d823bb3f2dde8fe161d547d",
-      "name": "KDR",
-      "symbol": "KDR",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/52853/thumb/-KDR.png?1734496996"
     },
     {
       "chainId": 2020,
@@ -37,6 +29,14 @@
       "symbol": "$KANSTAR",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/53999/thumb/KANSTAR_ICON.PNG?1737889150"
+    },
+    {
+      "chainId": 2020,
+      "address": "0xa8754b9fa15fc18bb59458815510e40a12cd2014",
+      "name": "Smooth Love Potion",
+      "symbol": "SLP",
+      "decimals": 0,
+      "logoURI": "https://assets.coingecko.com/coins/images/10366/thumb/SLP.png?1696510368"
     },
     {
       "chainId": 2020,
@@ -111,19 +111,19 @@
     },
     {
       "chainId": 2020,
+      "address": "0xc6046fa4b8961b0e9d823bb3f2dde8fe161d547d",
+      "name": "KDR",
+      "symbol": "KDR",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/52853/thumb/-KDR.png?1734496996"
+    },
+    {
+      "chainId": 2020,
       "address": "0x03affae7e23fd11c85d0c90cc40510994d49e175",
       "name": "Wild Forest Token",
       "symbol": "WF",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/52928/thumb/WF_512.png?1734707503"
-    },
-    {
-      "chainId": 2020,
-      "address": "0xc99a6a985ed2cac1ef41640596c5a5f9f4e19ef5",
-      "name": "Ronin Bridged WETH (Ronin)",
-      "symbol": "WETH",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/39716/thumb/WETH.PNG?1723731945"
     },
     {
       "chainId": 2020,
@@ -159,14 +159,6 @@
     },
     {
       "chainId": 2020,
-      "address": "0xa8754b9fa15fc18bb59458815510e40a12cd2014",
-      "name": "Smooth Love Potion",
-      "symbol": "SLP",
-      "decimals": 0,
-      "logoURI": "https://assets.coingecko.com/coins/images/10366/thumb/SLP.png?1696510368"
-    },
-    {
-      "chainId": 2020,
       "address": "0x6ad39689cac97a3e647fabd31534555bc7edd5c6",
       "name": "Planet Horse V2",
       "symbol": "PHORSE",
@@ -188,6 +180,14 @@
       "symbol": "RONOUT",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/54083/thumb/ronout.jpeg?1738176913"
+    },
+    {
+      "chainId": 2020,
+      "address": "0xc99a6a985ed2cac1ef41640596c5a5f9f4e19ef5",
+      "name": "Ronin Bridged WETH (Ronin)",
+      "symbol": "WETH",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/39716/thumb/WETH.PNG?1723731945"
     },
     {
       "chainId": 2020,
@@ -332,11 +332,19 @@
       "symbol": "PIXEL",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/35100/thumb/pixel-icon.png?1708339519"
+    },
+    {
+      "chainId": 2020,
+      "address": "0x0043a403ada6b63045112d7e979a057c82714fe7",
+      "name": "dTRINITY USD",
+      "symbol": "DUSD",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/53290/thumb/dUSD_Logo.png?1735997462"
     }
   ],
   "version": {
     "major": 1,
-    "minor": 3,
-    "patch": 3
+    "minor": 4,
+    "patch": 0
   }
 }
