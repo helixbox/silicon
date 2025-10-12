@@ -3931,6 +3931,8 @@
     "name": "AUSD",
     "platforms": {
       "ethereum": "0x00000000efe302beaa2b3e6e1b18d08d69a9012a",
+      "base": "0x00000000efe302beaa2b3e6e1b18d08d69a9012a",
+      "monad": "0x00000000efe302beaa2b3e6e1b18d08d69a9012a",
       "mantle": "0x00000000efe302beaa2b3e6e1b18d08d69a9012a",
       "sui": "0x2053d08c1e2bd02791056171aab0fd12bd7cd7efad2ab8f6b9c8902f14df2ff2::ausd::AUSD",
       "core": "0x00000000efe302beaa2b3e6e1b18d08d69a9012a",
@@ -6494,15 +6496,6 @@
     "name": "Alpha Quark",
     "platforms": {
       "ethereum": "0x2a9bdcff37ab68b95a53435adfd8892e86084f93"
-    }
-  },
-  {
-    "id": "alphascan",
-    "symbol": "ascn",
-    "name": "AlphaScan AI",
-    "platforms": {
-      "arbitrum-one": "0x1b8d516e2146d7a32aca0fcbf9482db85fd42c3a",
-      "ethereum": "0x378e97d19cf319eb311748ff4d9971dc349c8ad4"
     }
   },
   {
@@ -20171,7 +20164,7 @@
     "symbol": "bfi",
     "name": "BlockFi",
     "platforms": {
-      "sui": "0xd423c756ca7967a34874cb537e1039a8a2bf4a281127dc12b71f9c718065d48b"
+      "binance-smart-chain": "0xeb57ec5ec83d9cc498be2e7b5ce5fbf75a216f45"
     }
   },
   {
@@ -25913,6 +25906,14 @@
     }
   },
   {
+    "id": "bwed-2",
+    "symbol": "bwed",
+    "name": "BWED",
+    "platforms": {
+      "solana": "5nfDdZFMsDz34y6p1PAm1yN4FpXrGjFRj2V48dgPpump"
+    }
+  },
+  {
     "id": "bwob",
     "symbol": "bwob",
     "name": "BWOB",
@@ -26451,6 +26452,14 @@
     "name": "Candy",
     "platforms": {
       "base": "0x33b7f6225b4cbe5d368b7bb4807d6375b18b8c2b"
+    }
+  },
+  {
+    "id": "caniverse",
+    "symbol": "cnv",
+    "name": "Caniverse",
+    "platforms": {
+      "binance-smart-chain": "0x6efa75a8c3f2f233b0b42cb8dc3893073e7edd95"
     }
   },
   {
@@ -33691,6 +33700,14 @@
     }
   },
   {
+    "id": "cot-backrooms",
+    "symbol": "cot",
+    "name": "CoT Backrooms",
+    "platforms": {
+      "solana": "2TEy8cA4bmYSrA5Y2VbifUuzbeS764K6YtbibHAspump"
+    }
+  },
+  {
     "id": "coti",
     "symbol": "coti",
     "name": "COTI",
@@ -35398,16 +35415,6 @@
     }
   },
   {
-    "id": "cryptopia",
-    "symbol": "$tos",
-    "name": "Cryptopia",
-    "platforms": {
-      "polygon-pos": "0x7348565f0a5077252d310392c3cecd8db87a7704",
-      "skale": "0x883cfbd30bd076a063a453335414909545186275",
-      "ethereum": "0x68ccaca9adf1552b3316d6067690ec27397c8ea8"
-    }
-  },
-  {
     "id": "cryptopia-world",
     "symbol": "bcpi",
     "name": "Cryptopia",
@@ -36393,6 +36400,14 @@
     "name": "Cyclix Games",
     "platforms": {
       "solana": "BsLFm4B5MroyV7b3wgZNUjiWDmKak5hnhNoL6RYqoVnQ"
+    }
+  },
+  {
+    "id": "cyclo-cyweth",
+    "symbol": "cyweth",
+    "name": "Cyclo cyWETH",
+    "platforms": {
+      "flare-network": "0xd8bf1d2720e9ffd01a2f9a2efc3e101a05b852b4"
     }
   },
   {
@@ -51399,6 +51414,14 @@
     }
   },
   {
+    "id": "fefe-2",
+    "symbol": "fefe",
+    "name": "Fefe",
+    "platforms": {
+      "solana": "Fjk4u44UQFo3Wb2vhPXE9FSjngP8uNJJd6Jzd5JJhD6x"
+    }
+  },
+  {
     "id": "fefe-on-eth",
     "symbol": "fefe",
     "name": "Fefe",
@@ -53317,14 +53340,6 @@
     "platforms": {
       "ethereum": "0x3ea8ea4237344c9931214796d9417af1a1180770",
       "aurora": "0xea62791aa682d455614eaa2a12ba3d9a2fd197af"
-    }
-  },
-  {
-    "id": "flux-usdt",
-    "symbol": "fusdt",
-    "name": "Flux USDT",
-    "platforms": {
-      "ethereum": "0x81994b9607e06ab3d5cf3afff9a67374f05f27d7"
     }
   },
   {
@@ -57803,14 +57818,6 @@
     "name": "GhibliCZ",
     "platforms": {
       "binance-smart-chain": "0x795d2710e383f33fbebe980a155b29757b6703f3"
-    }
-  },
-  {
-    "id": "ghibli-elon",
-    "symbol": "ghibli elon",
-    "name": "Ghibli Elon",
-    "platforms": {
-      "solana": "D35NXpiPsvdqteE5iBYwNhZPCms6bBExnpTLGJGdpump"
     }
   },
   {
@@ -62813,6 +62820,14 @@
     }
   },
   {
+    "id": "harry-pepe",
+    "symbol": "harry",
+    "name": "Harry Pepe",
+    "platforms": {
+      "solana": "7oZCgJNtCFvBNBNx7S1Nza9TwfzSNaovXMkfnk4gpump"
+    }
+  },
+  {
     "id": "harrypotterhypermarioliquidfentjeffspectrum47i",
     "symbol": "hype",
     "name": "HarryPotterHyperMarioLiquidFentJeffSpectrum47i",
@@ -67321,7 +67336,7 @@
   {
     "id": "ignition-fbtc",
     "symbol": "fbtc",
-    "name": "Function ƒBTC",
+    "name": "Function FBTC",
     "platforms": {
       "ethereum": "0xc96de26018a54d51c097160568752c4e3bd6c364",
       "mantle": "0xc96de26018a54d51c097160568752c4e3bd6c364",
@@ -68652,6 +68667,7 @@
     "name": "Fluid",
     "platforms": {
       "ethereum": "0x6f40d4a6237c257fff2db00fa0510deeecd303eb",
+      "plasma": "0x61e030a56d33e8260fdd81f03b162a79fe3449cd",
       "solana": "DuEy8wWrzCUun5ZbbG9hkVqXqqicpTQw8gB7nEAzpCHQ",
       "base": "0x61e030a56d33e8260fdd81f03b162a79fe3449cd",
       "polygon-pos": "0xf50d05a1402d0adafa880d36050736f9f6ee7dee",
@@ -82660,6 +82676,14 @@
     "platforms": {}
   },
   {
+    "id": "malou-2",
+    "symbol": "马喽",
+    "name": "马喽 (Malou)",
+    "platforms": {
+      "binance-smart-chain": "0x23d6645c66ebb25a68aa2862357eac378a274444"
+    }
+  },
+  {
     "id": "mamabull",
     "symbol": "mama",
     "name": "MamaBull",
@@ -85483,6 +85507,14 @@
     "name": "memestock",
     "platforms": {
       "solana": "8wvLsACsR3owhGzmLLHTgh2waW2vKNtVYWDs9cCopump"
+    }
+  },
+  {
+    "id": "memestrategy",
+    "symbol": "memestr",
+    "name": "MemeStrategy",
+    "platforms": {
+      "binance-smart-chain": "0x44b10e1bdfbce70a48006c29c110ff1e39e0fb37"
     }
   },
   {
@@ -91280,6 +91312,14 @@
     }
   },
   {
+    "id": "mpool",
+    "symbol": "mult pool",
+    "name": "MPOOL",
+    "platforms": {
+      "polygon-pos": "0x2d34a748427801e5d3da862bf474e2b28e501624"
+    }
+  },
+  {
     "id": "mpro-lab",
     "symbol": "mpro",
     "name": "Metapro",
@@ -91318,6 +91358,14 @@
     "name": "Mr Puggles",
     "platforms": {
       "base": "0x7fe0244a02630c7cf649c07339accecc6f2976b4"
+    }
+  },
+  {
+    "id": "mr-pumpt",
+    "symbol": "pumpt",
+    "name": "Mr Pumpt",
+    "platforms": {
+      "solana": "3MoLRueScRN3kHKbqwZnyjtPGoG5uVgKhAwMEVNjpump"
     }
   },
   {
@@ -99349,6 +99397,14 @@
     }
   },
   {
+    "id": "oracle-degen",
+    "symbol": "odegen",
+    "name": "Oracle Degen",
+    "platforms": {
+      "solana": "5Gzs2DxqK44fK3ob2LuxdmLfYRyuUe1QeE9MRSM3pump"
+    }
+  },
+  {
     "id": "oracle-finance-network",
     "symbol": "onf",
     "name": "Oracle Finance Network",
@@ -103943,6 +103999,14 @@
     "name": "Petroleum OIL",
     "platforms": {
       "arbitrum-one": "0x500756c7d239aee30f52c7e52af4f4f008d1a98f"
+    }
+  },
+  {
+    "id": "petsna",
+    "symbol": "$petsna",
+    "name": "PetsNa",
+    "platforms": {
+      "solana": "e9tZR9VJXqpjbGGjBuf3ypAgaf4w3K1p22pDfTTMDTc"
     }
   },
   {
@@ -111718,6 +111782,14 @@
     }
   },
   {
+    "id": "rare-earth-minerals",
+    "symbol": "rem",
+    "name": "Rare Earth Minerals",
+    "platforms": {
+      "solana": "D9aVAWMB1wpRbg1t8zeupprqcnrxcBwvnXtcodafpump"
+    }
+  },
+  {
     "id": "rarible",
     "symbol": "rari",
     "name": "RARI",
@@ -112453,6 +112525,14 @@
     "name": "reborne.fun",
     "platforms": {
       "solana": "97jof1XfY7h91P3uVfYLocXDVHQseQzoL26n57Tzpump"
+    }
+  },
+  {
+    "id": "recon-raccoon",
+    "symbol": "rcon",
+    "name": "Recon Raccoon",
+    "platforms": {
+      "solana": "7nZuYZYZnof9gF3zr9QhdnxpQ1mTM8LN3VaJuhrGbonk"
     }
   },
   {
@@ -116448,6 +116528,14 @@
     }
   },
   {
+    "id": "sachicoin",
+    "symbol": "sachi",
+    "name": "Sachicoin",
+    "platforms": {
+      "solana": "7Y2TPeq3hqw21LRTCi4wBWoivDngCpNNJsN1hzhZpump"
+    }
+  },
+  {
     "id": "sadant",
     "symbol": "sadant",
     "name": "SADANT",
@@ -119102,14 +119190,6 @@
     }
   },
   {
-    "id": "sentinel-chain",
-    "symbol": "senc",
-    "name": "Sentinel Chain",
-    "platforms": {
-      "ethereum": "0xa13f0743951b4f6e3e3aa039f682e17279f52bc3"
-    }
-  },
-  {
     "id": "sentinel-protocol",
     "symbol": "bounty",
     "name": "ChainBounty",
@@ -119433,6 +119513,14 @@
     "name": "Shakey AI",
     "platforms": {
       "solana": "7f9USKiLfbksTfNt6yrF2z6bxNDQ4FRKni8rSEd4pump"
+    }
+  },
+  {
+    "id": "shamatte",
+    "symbol": "杀马特",
+    "name": "Shamatte",
+    "platforms": {
+      "binance-smart-chain": "0xf1cf3b0e5c427c04cc48dbb3ab7f6ba357434444"
     }
   },
   {
@@ -122016,14 +122104,6 @@
     }
   },
   {
-    "id": "slow",
-    "symbol": "slow",
-    "name": "SLOW",
-    "platforms": {
-      "solana": "FcKmtoSenpRhZS4LLs2YF4eEhaENaDCw169rwLypmoon"
-    }
-  },
-  {
     "id": "slp",
     "symbol": "slp",
     "name": "SLP",
@@ -123010,14 +123090,6 @@
     "platforms": {
       "polygon-pos": "0x43c73b90e0c2a355784dcf0da12f477729b31e77",
       "ethereum": "0x54991328ab43c7d5d31c19d1b9fa048e77b5cd16"
-    }
-  },
-  {
-    "id": "soileum",
-    "symbol": "soil",
-    "name": "Soileum",
-    "platforms": {
-      "binance-smart-chain": "0x99865fe33d55651dbc531cd6f489bdf9a33973bd"
     }
   },
   {
@@ -140097,6 +140169,14 @@
     }
   },
   {
+    "id": "uncap-usd",
+    "symbol": "usdu",
+    "name": "Uncap USD",
+    "platforms": {
+      "starknet": "0x2F94539F80158f9a48a7acF3747718dfBec9B6f639E2742c1FB44aE7ab5AA04"
+    }
+  },
+  {
     "id": "unchained",
     "symbol": "unchained",
     "name": "Unchained",
@@ -142363,14 +142443,6 @@
     "name": "UWU 69",
     "platforms": {
       "abstract": "0xae1454ac3d03124b4b3fa8e6f9305f78aa004be6"
-    }
-  },
-  {
-    "id": "uwu-lend",
-    "symbol": "uwu",
-    "name": "UwU Lend",
-    "platforms": {
-      "ethereum": "0x55c08ca52497e2f1534b59e2917bf524d4765257"
     }
   },
   {
@@ -145284,14 +145356,6 @@
     "name": "WachAI",
     "platforms": {
       "base": "0xcc9ad02796dec5f4f0710df80c1f011af85eb9e1"
-    }
-  },
-  {
-    "id": "waddle-waddle-pengu",
-    "symbol": "🐧",
-    "name": "WADDLE•WADDLE•PENGU",
-    "platforms": {
-      "ordinals": "840127:179"
     }
   },
   {
@@ -151179,14 +151243,6 @@
     "name": "Wrapped Nibiru",
     "platforms": {
       "nibiru": "0x0cacf669f8446beca826913a3c6b96acd4b02a97"
-    }
-  },
-  {
-    "id": "wrapped-novara-calcio-kayen",
-    "symbol": "wnov",
-    "name": "Wrapped Novara Calcio (Kayen)",
-    "platforms": {
-      "chiliz": "0x5667ddd9764d1873d7a1bc15bc091a8b8a88ef1d"
     }
   },
   {
