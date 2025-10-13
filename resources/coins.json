@@ -4330,14 +4330,6 @@
     }
   },
   {
-    "id": "aiden-labs",
-    "symbol": "adn",
-    "name": "Aiden Labs",
-    "platforms": {
-      "binance-smart-chain": "0xf7a2a10b9f4aa9fbf057620f0da2169ffbc1e134"
-    }
-  },
-  {
     "id": "ai-dev-agent",
     "symbol": "aidev",
     "name": "AI Dev Agent",
@@ -8026,7 +8018,7 @@
     "symbol": "anvl",
     "name": "Anvil",
     "platforms": {
-      "ethereum": "0x2ca9242c1810029efed539f1c60d68b63ad01bfc"
+      "ethereum": "0xaeeaa594e7dc112d67b8547fe9767a02c15b5597"
     }
   },
   {
@@ -9437,14 +9429,6 @@
     "name": "Aria.AI",
     "platforms": {
       "binance-smart-chain": "0x5d3a12c42e5372b2cc3264ab3cdcf660a1555238"
-    }
-  },
-  {
-    "id": "ariacoin",
-    "symbol": "aria",
-    "name": "Ariacoin",
-    "platforms": {
-      "the-open-network": "EQC3ORLYYWTbve3u3C7nYUQtbt1Vv7r1naz0NhPYTi6Z9x-N"
     }
   },
   {
@@ -11658,14 +11642,6 @@
     "name": "Avalanche Bridged DAI (Avalanche)",
     "platforms": {
       "avalanche": "0xd586e7f844cea2f87f50152665bcbc2c279d8d70"
-    }
-  },
-  {
-    "id": "avalanche-bridged-gho-avalanche",
-    "symbol": "gho",
-    "name": "Avalanche Bridged GHO (Avalanche)",
-    "platforms": {
-      "avalanche": "0xfc421ad3c883bf9e7c4f42de845c4e4405799e73"
     }
   },
   {
@@ -15063,6 +15039,14 @@
     }
   },
   {
+    "id": "based-neko",
+    "symbol": "neko",
+    "name": "Based Neko",
+    "platforms": {
+      "base": "0xa123c72c3995968213c27b3edd8128f4cae62f4e"
+    }
+  },
+  {
     "id": "base-dog",
     "symbol": "dog",
     "name": "Base DOG",
@@ -16970,6 +16954,14 @@
     }
   },
   {
+    "id": "bianqiche",
+    "symbol": "币安汽车",
+    "name": "币安汽车 (Bianqiche)",
+    "platforms": {
+      "binance-smart-chain": "0x017b22fdeff61724ee94642121799960875f4444"
+    }
+  },
+  {
     "id": "bianrensheng",
     "symbol": "币安人生",
     "name": "币安人生 (BinanceLife)",
@@ -17884,6 +17876,14 @@
     "name": "Binance Yellow Robot",
     "platforms": {
       "binance-smart-chain": "0x0c5429e9dd1362bfb55c31c01b7f0f38f5f64444"
+    }
+  },
+  {
+    "id": "binancians",
+    "symbol": "binancians",
+    "name": "Binancians",
+    "platforms": {
+      "binance-smart-chain": "0xf197e06dab32b3c1cd8c055598bea0af11b44444"
     }
   },
   {
@@ -19122,15 +19122,6 @@
     }
   },
   {
-    "id": "bitorbit",
-    "symbol": "bitorb",
-    "name": "BitOrbit",
-    "platforms": {
-      "binance-smart-chain": "0xed0c1c9c64ff7c7cc37c3af0dfcf5b02efe0bb5f",
-      "velas": "0x09bce7716d46459df7473982fd27a96eabd6ee4d"
-    }
-  },
-  {
     "id": "bitpanda-ecosystem-token",
     "symbol": "best",
     "name": "Bitpanda Ecosystem",
@@ -19786,6 +19777,14 @@
     "name": "Blaze",
     "platforms": {
       "base": "0x9a55fab37d4a4f0e13c8fff5470798614af2b8c3"
+    }
+  },
+  {
+    "id": "blaze-2",
+    "symbol": "blaze",
+    "name": "Blaze",
+    "platforms": {
+      "avalanche": "0x297731eb3cab3834525fc9ea061fd71d8f4645c9"
     }
   },
   {
@@ -20905,6 +20904,14 @@
     }
   },
   {
+    "id": "bnbdip",
+    "symbol": "bnbdip",
+    "name": "BNBdip",
+    "platforms": {
+      "binance-smart-chain": "0xf909f5b0533f3269eea797c93d2c8e2abdbf4444"
+    }
+  },
+  {
     "id": "bnb-doge",
     "symbol": "boge",
     "name": "BNB DOGE",
@@ -21728,6 +21735,14 @@
     "name": "BondX",
     "platforms": {
       "binance-smart-chain": "0x79d7fecb6b26f55dafc9a8cd288b014695b08402"
+    }
+  },
+  {
+    "id": "bone-3",
+    "symbol": "$bone",
+    "name": "BONE",
+    "platforms": {
+      "cronos": "0x898cd4e6f0a364956e28cb0b51f67a4a0f02589c"
     }
   },
   {
@@ -23583,7 +23598,7 @@
   {
     "id": "bridged-dai-starkgate",
     "symbol": "dai",
-    "name": "Bridged Dai Stablecoin (StarkGate)",
+    "name": "StarkGate Bridged Dai (Starknet)",
     "platforms": {
       "starknet": "0xda114221cb83fa859dbdb4c44beeaa0bb37c7537ad5ae66fe5e0efd20e6eb3"
     }
@@ -31684,14 +31699,6 @@
     "name": "Code Token",
     "platforms": {
       "ethereum": "0x283344eea472f0fe04d6f722595a2fffefe1901a"
-    }
-  },
-  {
-    "id": "codex-multichain",
-    "symbol": "codex",
-    "name": "Codex Multichain",
-    "platforms": {
-      "ethereum": "0xfd26e39807772251c3bb90fb1fcd9ce5b80c5c24"
     }
   },
   {
@@ -47163,6 +47170,14 @@
     }
   },
   {
+    "id": "elevatefi",
+    "symbol": "efi",
+    "name": "ElevateFi",
+    "platforms": {
+      "polygon-pos": "0xae840deab9916d80fadf42e218119a6051468169"
+    }
+  },
+  {
     "id": "elexium",
     "symbol": "ex",
     "name": "Elexium",
@@ -54473,14 +54488,6 @@
     }
   },
   {
-    "id": "freebnk",
-    "symbol": "frbk",
-    "name": "FreeBnk",
-    "platforms": {
-      "binance-smart-chain": "0x6d96c6c401423a23945c03bc8c42e7f82d24b9e0"
-    }
-  },
-  {
     "id": "free-bridged-solvbtcb-core",
     "symbol": "solvbtc.b",
     "name": "Free Bridged SolvBTC.b (Core)",
@@ -57890,6 +57897,8 @@
     "name": "GHO",
     "platforms": {
       "ethereum": "0x40d16fc0246ad3160ccc09b8d0d3a2cd28ae6c2f",
+      "xdai": "0xfc421ad3c883bf9e7c4f42de845c4e4405799e73",
+      "avalanche": "0xfc421ad3c883bf9e7c4f42de845c4e4405799e73",
       "base": "0x6bb7a212910682dcfdbd5bcbb3e28fb4e8da10ee",
       "arbitrum-one": "0x7dff72693f6a4149b17e7c6314655f6a9f7c8b33"
     }
@@ -59529,6 +59538,14 @@
     }
   },
   {
+    "id": "gold-bnb",
+    "symbol": "gbnb",
+    "name": "GOLD BNB",
+    "platforms": {
+      "binance-smart-chain": "0x0da9446a96b69c3f66000f7da3768ebbb55facf5"
+    }
+  },
+  {
     "id": "goldbrick",
     "symbol": "gbck",
     "name": "GoldBrick",
@@ -60393,6 +60410,14 @@
     "name": "GOUT",
     "platforms": {
       "binance-smart-chain": "0xf86af2fbcf6a0479b21b1d3a4af3893f63207fe7"
+    }
+  },
+  {
+    "id": "gout-coin",
+    "symbol": "gout coin",
+    "name": "GOUT Coin",
+    "platforms": {
+      "x-layer": "0x2dca79ad9909989e2081793961866ad6e7777777"
     }
   },
   {
@@ -66415,6 +66440,7 @@
     "symbol": "hypt",
     "name": "HyperAGI",
     "platforms": {
+      "arbitrum-one": "0x74b1a2e85462a102509aee0ee899bd3f7aa69e1f",
       "solana": "57iaCFGwsfZYCurbrgmtrDnHggGP6B6oHSdWD4nNXo9T"
     }
   },
@@ -76151,6 +76177,14 @@
     }
   },
   {
+    "id": "lab",
+    "symbol": "lab",
+    "name": "LAB",
+    "platforms": {
+      "binance-smart-chain": "0x7ec43cf65f1663f820427c62a5780b8f2e25593a"
+    }
+  },
+  {
     "id": "labda",
     "symbol": "lab",
     "name": "Labda",
@@ -79543,6 +79577,14 @@
     }
   },
   {
+    "id": "little-pepe-4",
+    "symbol": "lilpepe",
+    "name": "Little Pepe",
+    "platforms": {
+      "ethereum": "0x62ebb84599d491d0e63a2c591b2f89aa0029390e"
+    }
+  },
+  {
     "id": "little-rabbit-v2",
     "symbol": "ltrbt",
     "name": "Little Rabbit V2",
@@ -80117,6 +80159,14 @@
     "name": "LONG",
     "platforms": {
       "solana": "2HUDMBsnctpkQo2fdf6Z4ECrXhAJbemJ4NJr4X9Spump"
+    }
+  },
+  {
+    "id": "long-5",
+    "symbol": "龙long",
+    "name": "龙Long",
+    "platforms": {
+      "binance-smart-chain": "0xc3c1b25ff8c3f828f36a030960d54082ed984444"
     }
   },
   {
@@ -84882,6 +84932,12 @@
     }
   },
   {
+    "id": "megaeth",
+    "symbol": "mega",
+    "name": "MegaETH",
+    "platforms": {}
+  },
+  {
     "id": "megalink",
     "symbol": "mg8",
     "name": "Megalink",
@@ -88107,14 +88163,6 @@
     "name": "MineTard AI",
     "platforms": {
       "solana": "42yzLyxGDjD5RFFQFYNVy7Pzubz6QPCK7HFK52f1pump"
-    }
-  },
-  {
-    "id": "minetendo",
-    "symbol": "mine",
-    "name": "Minetendo",
-    "platforms": {
-      "abstract": "0x93ed1bab3f7efa93d2e2179b1ff6caccfa30a2e3"
     }
   },
   {
@@ -92392,7 +92440,8 @@
     "symbol": "$onion",
     "name": "MyOnion.fun",
     "platforms": {
-      "alephium": "25yXCxAdnzMgHFVyF963hEYKGzt8hVQtqUXkoKGQKmcNs"
+      "alephium": "25yXCxAdnzMgHFVyF963hEYKGzt8hVQtqUXkoKGQKmcNs",
+      "binance-smart-chain": "0xefbc84bb7f92d1cdbd9c3c9144946dd34d4e7c93"
     }
   },
   {
@@ -98374,6 +98423,14 @@
     }
   },
   {
+    "id": "onecoin",
+    "symbol": "onecoin",
+    "name": "Onecoin",
+    "platforms": {
+      "solana": "4PbBkuZvub6Ugj8KwCCRsqk1Ya2defHXn7RSLbbEpump"
+    }
+  },
+  {
     "id": "onedex",
     "symbol": "one",
     "name": "OneFinity",
@@ -99968,7 +100025,8 @@
     "symbol": "hohm",
     "name": "Origami hOHM",
     "platforms": {
-      "ethereum": "0x1db1591540d7a6062be0837ca3c808add28844f6"
+      "ethereum": "0x1db1591540d7a6062be0837ca3c808add28844f6",
+      "berachain": "0x5bad2b7a0a2eee88a4ef05d5470cdedb0ff948ea"
     }
   },
   {
@@ -102641,6 +102699,14 @@
     "name": "Pege",
     "platforms": {
       "solana": "G4ZgRBCFYMEm3JmFRg29epeTTWrWt8kbhjgsY8BFpump"
+    }
+  },
+  {
+    "id": "peipei-2",
+    "symbol": "佩佩",
+    "name": "Pepe on BnB",
+    "platforms": {
+      "binance-smart-chain": "0x7eb8f6a94cb6ffdf9f38c9d5b92e45de81474444"
     }
   },
   {
@@ -105751,6 +105817,12 @@
     }
   },
   {
+    "id": "playrush",
+    "symbol": "$pr",
+    "name": "PlayRush",
+    "platforms": {}
+  },
+  {
     "id": "playsout",
     "symbol": "play",
     "name": "PlaysOut",
@@ -106807,6 +106879,14 @@
     "name": "Polygon zkEVM Bridged WBTC (Polygon zkEVM)",
     "platforms": {
       "polygon-zkevm": "0xea034fb02eb1808c2cc3adbc15f447b93cbe08e1"
+    }
+  },
+  {
+    "id": "polygon-zkevm-bridged-wsteth-katana",
+    "symbol": "wsteth",
+    "name": "Polygon zkEVM Bridged wstETH (Katana)",
+    "platforms": {
+      "katana": "0x7fb4d0f51544f24f385a421db6e7d4fc71ad8e5c"
     }
   },
   {
@@ -111320,6 +111400,14 @@
     }
   },
   {
+    "id": "radr",
+    "symbol": "radr",
+    "name": "RADR",
+    "platforms": {
+      "solana": "CzFvsLdUazabdiu9TYXujj4EY495fG7VgJJ3vQs6bonk"
+    }
+  },
+  {
     "id": "radtarded-scott",
     "symbol": "scott",
     "name": "Radtarded Scott",
@@ -112541,6 +112629,14 @@
     "name": "reborne.fun",
     "platforms": {
       "solana": "97jof1XfY7h91P3uVfYLocXDVHQseQzoL26n57Tzpump"
+    }
+  },
+  {
+    "id": "recall",
+    "symbol": "recall",
+    "name": "Recall",
+    "platforms": {
+      "base": "0x1f16e03c1a5908818f47f6ee7bb16690b40d0671"
     }
   },
   {
@@ -113944,6 +114040,14 @@
     "name": "Return Finance Lido stETH",
     "platforms": {
       "ethereum": "0x2c2f0ffbfa1b8b9c85400f1726e1bc0892e63d9f"
+    }
+  },
+  {
+    "id": "return-to-beginnings",
+    "symbol": "roots",
+    "name": "Return to Beginnings",
+    "platforms": {
+      "solana": "FmJBuuQ5nhsbAZ5mA41fQn7AtAQvTMFtMMYc5mjBpump"
     }
   },
   {
@@ -115795,6 +115899,14 @@
     "symbol": "rwn",
     "name": "Rowan Coin",
     "platforms": {}
+  },
+  {
+    "id": "roxonn",
+    "symbol": "roxn",
+    "name": "ROXONN",
+    "platforms": {
+      "xdc-network": "0x2d1c02cf9e7a1659b82185fef243078bfd237b23"
+    }
   },
   {
     "id": "roxy-frog",
@@ -118759,7 +118871,8 @@
     "symbol": "stoos",
     "name": "STO Operating System Token",
     "platforms": {
-      "klay-token": "0x15512e654ddc92273dceac1399e09c7fb9def476"
+      "klay-token": "0x15512e654ddc92273dceac1399e09c7fb9def476",
+      "binance-smart-chain": "0xf96bf89ac671e0e3c931bcbfc12de00572f218e0"
     }
   },
   {
@@ -119658,7 +119771,7 @@
     "symbol": "shr",
     "name": "Share",
     "platforms": {
-      "ethereum": "0xd98f75b1a3261dab9eed4956c93f33749027a964",
+      "ethereum": "0x192675d1e131b9e339f16603e21b01a845d8c21e",
       "binance-smart-chain": "0x5fb4968fc85868df3ad2d6e59883a10570f01d18"
     }
   },
@@ -119884,6 +119997,14 @@
     "name": "Shen",
     "platforms": {
       "cardano": "8db269c3ec630e06ae29f74bc39edd1f87c819f1056206e879a1cd615368656e4d6963726f555344"
+    }
+  },
+  {
+    "id": "shen-nao-lian",
+    "symbol": "深脑链",
+    "name": "深脑链",
+    "platforms": {
+      "binance-smart-chain": "0x4444140f59535d58b165f71667765228d9308f3f"
     }
   },
   {
@@ -127327,6 +127448,14 @@
     }
   },
   {
+    "id": "staked-usd-coin",
+    "symbol": "susd",
+    "name": "Staked USD Coin",
+    "platforms": {
+      "binance-smart-chain": "0xbe1922750760c4cae69edb6fe79a22ae9b62a23d"
+    }
+  },
+  {
     "id": "staked-usdt",
     "symbol": "stusdt",
     "name": "Staked USDT",
@@ -127863,6 +127992,14 @@
     "name": "staring robot",
     "platforms": {
       "solana": "FAJW358HjJ2mHXSHbHyxghfVGzX5SBoupdjRr2y9pump"
+    }
+  },
+  {
+    "id": "starkgate-bridged-dai-v2-starknet",
+    "symbol": "dai",
+    "name": "StarkGate Bridged Dai V2 (Starknet)",
+    "platforms": {
+      "starknet": "0x5574eb6b8789a91466f902c380d978e472db68170ff82a5b650b95a58ddf4ad"
     }
   },
   {
@@ -132072,14 +132209,6 @@
     }
   },
   {
-    "id": "talahon",
-    "symbol": "$talahon",
-    "name": "Talahon",
-    "platforms": {
-      "solana": "GV6zDJDmoAk2KKBKRfzLjptvV5hJtfYFCHoc6jPwpump"
-    }
-  },
-  {
     "id": "talaxeum",
     "symbol": "talax",
     "name": "Talaxeum",
@@ -134553,6 +134682,14 @@
     }
   },
   {
+    "id": "the-lion",
+    "symbol": "lion",
+    "name": "The Lion",
+    "platforms": {
+      "solana": "8NfK7b9u1RvMpHJnAnZki4mNQwjhvzrVZs7bRQatpump"
+    }
+  },
+  {
     "id": "the-lokie-cabal",
     "symbol": "cabal",
     "name": "The Lokie Cabal",
@@ -135069,6 +135206,14 @@
     }
   },
   {
+    "id": "the-story-of-binance",
+    "symbol": "币安故事",
+    "name": "The Story of Binance",
+    "platforms": {
+      "binance-smart-chain": "0x29d4236a49f2f633898cef4b4dcd0c67c7c357f1"
+    }
+  },
+  {
     "id": "the-substance",
     "symbol": "dose",
     "name": "THE SUBSTANCE",
@@ -135319,7 +135464,9 @@
     "id": "thirstcoin",
     "symbol": "thirstcoin",
     "name": "Thirstcoin",
-    "platforms": {}
+    "platforms": {
+      "solana": "N9vEHC3EF5GxfPRAKsmpM62ubWGLCUNVdJnS1cBsexy"
+    }
   },
   {
     "id": "this-can-be-anything",
@@ -138336,6 +138483,14 @@
     }
   },
   {
+    "id": "trisk",
+    "symbol": "trisk",
+    "name": "TRISK",
+    "platforms": {
+      "xrp": "545249534B000000000000000000000000000000.rhu8q21DEWekDcvqakABXPJbm3MAnQa8oy"
+    }
+  },
+  {
     "id": "trisolaris",
     "symbol": "tri",
     "name": "Trisolaris",
@@ -139794,6 +139949,14 @@
     "name": "UBXS",
     "platforms": {
       "binance-smart-chain": "0x4f1960e29b2ca581a38c5c474e123f420f8092db"
+    }
+  },
+  {
+    "id": "ucf-finance",
+    "symbol": "ucf",
+    "name": "UCF Finance",
+    "platforms": {
+      "solana": "5JkQBPrYdRK7JsC39KPPbZi7r6uLx3ZuL7jjMf4zN4c"
     }
   },
   {
@@ -141674,6 +141837,7 @@
     "name": "USD1",
     "platforms": {
       "binance-smart-chain": "0x8d0d000ee44948fc98c9b98a4fa4921476f08b0d",
+      "plume-network": "0x111111d2bf19e43c34263401e0cad979ed1cdb61",
       "aptos": "0x05fabd1b12e39967a3c24e91b7b8f67719a6dacee74f3c8b9fb7d93e855437d2",
       "ethereum": "0x8d0d000ee44948fc98c9b98a4fa4921476f08b0d",
       "tron": "TPFqcBAaaUMCSVRCqPaQ9QnzKhmuoLR6Rc",
@@ -147326,7 +147490,9 @@
     "id": "whitebridge",
     "symbol": "wbai",
     "name": "WhiteBridge Network",
-    "platforms": {}
+    "platforms": {
+      "binance-smart-chain": "0x635d44f246156ed1080cb470877256c847673f19"
+    }
   },
   {
     "id": "white-coffee-cat",
@@ -154812,7 +154978,9 @@
     "id": "yield-basis",
     "symbol": "yb",
     "name": "Yield Basis",
-    "platforms": {}
+    "platforms": {
+      "ethereum": "0x01791f726b4103694969820be083196cc7c045ff"
+    }
   },
   {
     "id": "yield-basis-btc",
@@ -156562,6 +156730,7 @@
     "symbol": "zbt",
     "name": "ZEROBASE",
     "platforms": {
+      "base": "0xfab99fcf605fd8f4593edb70a43ba56542777777",
       "ethereum": "0xfab99fcf605fd8f4593edb70a43ba56542777777",
       "binance-smart-chain": "0xfab99fcf605fd8f4593edb70a43ba56542777777"
     }
@@ -157397,6 +157566,14 @@
     "name": "Zodor",
     "platforms": {
       "ethereum": "0x8258df28cbaa51199c0a8b7e1de1d669e4be9fc1"
+    }
+  },
+  {
+    "id": "zodplay",
+    "symbol": "zod",
+    "name": "Zodplay",
+    "platforms": {
+      "binance-smart-chain": "0xed0e0d988da8c70250671c3b03dcf7249142a045"
     }
   },
   {
