@@ -1177,11 +1177,11 @@
     "platforms": {
       "ethereum": "0x7fc66500c84a76ad7e9c93437bfc5ac33e2ddae9",
       "hydration": "asset_registry%2F1000624",
+      "harmony-shard-0": "0xcf323aad9e522b93f11c352caa519ad0e14eb40f",
       "optimistic-ethereum": "0x76fb31fb4af56892a25e32cfc43de717950c9278",
       "huobi-token": "0x202b4936fe1a82a4965220860ae46d7d3939bb25",
       "fantom": "0x6a07a792ab2965c72a5b8088d3a069a7ac3a993b",
       "near-protocol": "7fc66500c84a76ad7e9c93437bfc5ac33e2ddae9.factory.bridge.near",
-      "harmony-shard-0": "0xcf323aad9e522b93f11c352caa519ad0e14eb40f",
       "base": "0x63706e401c06ac8513145b7687a14804d17f814b",
       "energi": "0xa7f2f790355e0c32cab03f92f6eb7f488e6f049a",
       "sora": "0x0091bd8d8295b25cab5a7b8b0e44498e678cfc15d872ede3215f7d4c7635ba36",
@@ -2278,7 +2278,8 @@
     "symbol": "abton",
     "name": "Abbott (Ondo Tokenized Stock)",
     "platforms": {
-      "ethereum": "0x3859385363f7bb4dfe42811ccf3f294fcd41dd1d"
+      "ethereum": "0x3859385363f7bb4dfe42811ccf3f294fcd41dd1d",
+      "binance-smart-chain": "0x5a20886b575058dd7299785f0ea9b1172942a3e0"
     }
   },
   {
@@ -2564,7 +2565,8 @@
     "symbol": "acnon",
     "name": "Accenture (Ondo Tokenized Stock)",
     "platforms": {
-      "ethereum": "0xaba9ae731aad63335c604e5f6e6a5db2e05f549d"
+      "ethereum": "0xaba9ae731aad63335c604e5f6e6a5db2e05f549d",
+      "binance-smart-chain": "0x7af44d51d1fb88c5b74fc71d3cba649bb8099d14"
     }
   },
   {
@@ -2971,7 +2973,8 @@
     "symbol": "adbeon",
     "name": "Adobe (Ondo Tokenized Stock)",
     "platforms": {
-      "ethereum": "0x7042a8ffc7c7049684bfbc2fcb41b72380755a43"
+      "ethereum": "0x7042a8ffc7c7049684bfbc2fcb41b72380755a43",
+      "binance-smart-chain": "0xcb22db0ecb6fe58b7b47db443dcfdfdfbf729cef"
     }
   },
   {
@@ -4736,7 +4739,8 @@
     "symbol": "abnbon",
     "name": "Airbnb (Ondo Tokenized Stock)",
     "platforms": {
-      "ethereum": "0xb035c3d5083bdc80074f380aebc9fcb68aba0a28"
+      "ethereum": "0xb035c3d5083bdc80074f380aebc9fcb68aba0a28",
+      "binance-smart-chain": "0xef80743f78d98fc2b47a2253b293152ce8b879ba"
     }
   },
   {
@@ -5790,7 +5794,8 @@
     "symbol": "babaon",
     "name": "Alibaba (Ondo Tokenized Stock)",
     "platforms": {
-      "ethereum": "0x41765f0fcddc276309195166c7a62ae522fa09ef"
+      "ethereum": "0x41765f0fcddc276309195166c7a62ae522fa09ef",
+      "binance-smart-chain": "0xd5964f3fcee8d649995ab88f04b8982539c282d2"
     }
   },
   {
@@ -6383,7 +6388,8 @@
     "symbol": "googlon",
     "name": "Alphabet Class A (Ondo Tokenized Stock)",
     "platforms": {
-      "ethereum": "0xba47214edd2bb43099611b208f75e4b42fdcfedc"
+      "ethereum": "0xba47214edd2bb43099611b208f75e4b42fdcfedc",
+      "binance-smart-chain": "0x091fc7778e6932d4009b087b191d1ee3bac5729a"
     }
   },
   {
@@ -6841,7 +6847,8 @@
     "symbol": "amznon",
     "name": "Amazon (Ondo Tokenized Stock)",
     "platforms": {
-      "ethereum": "0xbb8774fb97436d23d74c1b882e8e9a69322cfd31"
+      "ethereum": "0xbb8774fb97436d23d74c1b882e8e9a69322cfd31",
+      "binance-smart-chain": "0x4553cfe1c09f37f38b12dc509f676964e392f8fc"
     }
   },
   {
@@ -6968,7 +6975,8 @@
     "symbol": "amdon",
     "name": "AMD (Ondo Tokenized Stock)",
     "platforms": {
-      "ethereum": "0x0c1f3412a44ff99e40bf14e06e5ea321ae7b3938"
+      "ethereum": "0x0c1f3412a44ff99e40bf14e06e5ea321ae7b3938",
+      "binance-smart-chain": "0x9f16e46c73b43bdb70861247d537bee4ea18f639"
     }
   },
   {
@@ -7023,7 +7031,8 @@
     "symbol": "axpon",
     "name": "American Express (Ondo Tokenized Stock)",
     "platforms": {
-      "ethereum": "0x2bc7ff0c5da9f1a4a51f96e77c5b0f7165dc06d2"
+      "ethereum": "0x2bc7ff0c5da9f1a4a51f96e77c5b0f7165dc06d2",
+      "binance-smart-chain": "0xd803f8777187d6dee1ea57854aeb957043fb1675"
     }
   },
   {
@@ -8030,14 +8039,6 @@
     }
   },
   {
-    "id": "anydex",
-    "symbol": "adx",
-    "name": "AnyDex",
-    "platforms": {
-      "ethereum": "0x83389cb4e4f0bff39915efa839cb827460e70d26"
-    }
-  },
-  {
     "id": "any-inu",
     "symbol": "ai",
     "name": "Any Inu",
@@ -8499,7 +8500,8 @@
     "symbol": "apoon",
     "name": "Apollo Global Management (Ondo Tokenized Stock)",
     "platforms": {
-      "ethereum": "0x4d21affd27183b07335935f81a5c26b6a5a15355"
+      "ethereum": "0x4d21affd27183b07335935f81a5c26b6a5a15355",
+      "binance-smart-chain": "0x5630b5741a33371d9d935283849a16dc808f7f3a"
     }
   },
   {
@@ -8537,7 +8539,8 @@
     "symbol": "aaplon",
     "name": "Apple (Ondo Tokenized Stock)",
     "platforms": {
-      "ethereum": "0x14c3abf95cb9c93a8b82c1cdcb76d72cb87b2d4c"
+      "ethereum": "0x14c3abf95cb9c93a8b82c1cdcb76d72cb87b2d4c",
+      "binance-smart-chain": "0x390a684ef9cade28a7ad0dfa61ab1eb3842618c4"
     }
   },
   {
@@ -8562,7 +8565,8 @@
     "symbol": "appon",
     "name": "AppLovin (Ondo Tokenized Stock)",
     "platforms": {
-      "ethereum": "0xd5c5b2883735fa9b658dd52e2fcc8d7c0f1a42ce"
+      "ethereum": "0xd5c5b2883735fa9b658dd52e2fcc8d7c0f1a42ce",
+      "binance-smart-chain": "0xedb3124e96c64c177eb709cbc64f9977db40ea74"
     }
   },
   {
@@ -9653,7 +9657,8 @@
     "symbol": "armon",
     "name": "Arm Holdings plc (Ondo Tokenized Stock)",
     "platforms": {
-      "ethereum": "0x5bf1b2a808598c0ef4af1673a5457d86fe6d7b3d"
+      "ethereum": "0x5bf1b2a808598c0ef4af1673a5457d86fe6d7b3d",
+      "binance-smart-chain": "0x527c6436e1eaa4f2065cde4090f798cb5d031dd6"
     }
   },
   {
@@ -10172,7 +10177,8 @@
     "symbol": "asmlon",
     "name": "ASML Holding NV (Ondo Tokenized Stock)",
     "platforms": {
-      "ethereum": "0xe51ba774ebf6392c45bf1d9e6b334d07992460d3"
+      "ethereum": "0xe51ba774ebf6392c45bf1d9e6b334d07992460d3",
+      "binance-smart-chain": "0xb034f6cb52b7f2fd5a7eeeffca6b9adcd6b9a6f6"
     }
   },
   {
@@ -12450,14 +12456,6 @@
     }
   },
   {
-    "id": "baby-arbitrum",
-    "symbol": "barb",
-    "name": "Baby Arbitrum",
-    "platforms": {
-      "arbitrum-one": "0xb98058640970d8aa7bbce3b067b2d63c14143786"
-    }
-  },
-  {
     "id": "baby-aster",
     "symbol": "babyaster",
     "name": "Baby Aster",
@@ -13857,7 +13855,8 @@
     "symbol": "biduon",
     "name": "Baidu (Ondo Tokenized Stock)",
     "platforms": {
-      "ethereum": "0x9d4c6ad12b55e4645b585209f90cc26614061e91"
+      "ethereum": "0x9d4c6ad12b55e4645b585209f90cc26614061e91",
+      "binance-smart-chain": "0x467e59ce5d5fe01686d4a80dd1e1dae13549aa6c"
     }
   },
   {
@@ -13991,9 +13990,9 @@
     "name": "Balancer",
     "platforms": {
       "ethereum": "0xba100000625a3754423978a60c9317c58a424e3d",
+      "harmony-shard-0": "0xdc5f76104d0b8d2bf2c2bbe06cdfe17004e9010f",
       "xdai": "0x7ef541e2a22058048904fe5744f9c7e4c57af717",
       "polygon-zkevm": "0x120ef59b80774f02211563834d8e3b72cb1649d6",
-      "harmony-shard-0": "0xdc5f76104d0b8d2bf2c2bbe06cdfe17004e9010f",
       "optimistic-ethereum": "0xfe8b128ba8c78aabc59d4c64cee7ff28e9379921",
       "huobi-token": "0x045de15ca76e76426e8fc7cba8392a3138078d0f",
       "near-protocol": "ba100000625a3754423978a60c9317c58a424e3d.factory.bridge.near",
@@ -15357,8 +15356,8 @@
     "platforms": {
       "ethereum": "0x0d8775f648430679a709e98d2b0cb6250d2887ef",
       "near-protocol": "0d8775f648430679a709e98d2b0cb6250d2887ef.factory.bridge.near",
-      "harmony-shard-0": "0x2875b4cfab0a4cc4bdc7fbdf94b6e376826a4332",
       "solana": "EPeUFDgHRxs9xxEPVaL6kfGQvCon7jmAWKVUHuux1Tpz",
+      "harmony-shard-0": "0x2875b4cfab0a4cc4bdc7fbdf94b6e376826a4332",
       "energi": "0xe8ba8d7765bd33ba7ff3b19b9020c15bf14123b6",
       "avalanche": "0x98443b96ea4b0858fdf3219cd13e98c7a4690588",
       "polygon-pos": "0x3cef98bb43d732e2f285ee605a8158cde967d219"
@@ -19568,7 +19567,8 @@
     "symbol": "blkon",
     "name": "Blackrock, Inc. (Ondo Tokenized Stock)",
     "platforms": {
-      "ethereum": "0x7a0f89c1606f71499950aa2590d547c3975b728e"
+      "ethereum": "0x7a0f89c1606f71499950aa2590d547c3975b728e",
+      "binance-smart-chain": "0x24f5471183ea549987f245d6ce236b6108869c92"
     }
   },
   {
@@ -21451,7 +21451,8 @@
     "symbol": "baon",
     "name": "Boeing (Ondo Tokenized Stock)",
     "platforms": {
-      "ethereum": "0x57270d35a840bc5c094da6fbeca033fb71ea6ab0"
+      "ethereum": "0x57270d35a840bc5c094da6fbeca033fb71ea6ab0",
+      "binance-smart-chain": "0xf21132a811ad1a878e21af60f64d4e690c9daa42"
     }
   },
   {
@@ -23903,11 +23904,11 @@
     "name": "Bridged USDT",
     "platforms": {
       "kardiachain": "0x551a5dcac57c66aa010940c2dcff5da9c53aa53b",
+      "harmony-shard-0": "0x3c2b8be99c50593081eaa2a724f0b8285f5aba8f",
       "metis-andromeda": "0xbb06dca3ae6887fabf931640f67cab3e3a16f4dc",
       "boba": "0x5de1677344d3cb0d7d465c10b72a8f60699c062d",
       "velas": "0xb44a9b6905af7c801311e8f4e76932ee959c663c",
       "iotex": "0x3cdb7c48e70b854ed2fa392e21687501d84b3afc",
-      "harmony-shard-0": "0x3c2b8be99c50593081eaa2a724f0b8285f5aba8f",
       "osmosis": "ibc/4ABBEF4C8926DDDB320AE5188CFD63267ABBCEFC0583E4AE05D6E5AA2401DDAB",
       "optimistic-ethereum": "0x94b008aa00579c1307b0ef2c499ad98a8ce58e58",
       "bitgert": "0xde14b85cf78f2add2e867fee40575437d5f10c06",
@@ -24341,7 +24342,8 @@
     "symbol": "avgoon",
     "name": "Broadcom (Ondo Tokenized Stock)",
     "platforms": {
-      "ethereum": "0x0d54d4279b9e8c54cd8547c2c75a8ee81a0bcae8"
+      "ethereum": "0x0d54d4279b9e8c54cd8547c2c75a8ee81a0bcae8",
+      "binance-smart-chain": "0x0ed2e3180edf393e6bf8db124bd15ddd54de150a"
     }
   },
   {
@@ -25671,14 +25673,6 @@
     "name": "burnt.fun",
     "platforms": {
       "solana": "burnt3JjFJvvAbKznwrDKxW5U9ZcsKUuCyJVCjKdSVB"
-    }
-  },
-  {
-    "id": "burnvault-cash",
-    "symbol": "burn",
-    "name": "BurnVault Cash",
-    "platforms": {
-      "abstract": "0x231d510746ed6977dd8d692168fc98cdc52d1e34"
     }
   },
   {
@@ -28949,7 +28943,6 @@
       "ink": "0x71052bae71c25c78e37fd12e5ff1101a71d9018f",
       "hemi": "0x63dbe12a6381d64ade47bc3d92abf4393dff4bc8",
       "hyperevm": "0x1ac2ee68b8d038c982c1e1f73f596927dd70de59",
-      "harmony-shard-0": "0x218532a12a389a4a92fc0c5fb22901d1c19198aa",
       "base": "0x88fb150bdc53a65fe94dea0c9ba0a6daf8c6e196",
       "solana": "LinkhB3afbBKb2EQQu7s7umdZceV3wcvAUJhQAfQ23L",
       "zircuit": "0xdee94506570ca186bc1e3516fcf4fd719c312ccd",
@@ -28957,6 +28950,7 @@
       "osmosis": "ibc/D3327A763C23F01EC43D1F0DB3CEFEC390C362569B6FD191F40A5192F8960049",
       "plasma": "0x76a443768a5e3b8d1aed0105fc250877841deb40",
       "klay-token": "0x7311ded199cc28d80e58e81e8589aa160199fcd2",
+      "harmony-shard-0": "0x218532a12a389a4a92fc0c5fb22901d1c19198aa",
       "milkomeda-cardano": "0xf390830df829cf22c53c8840554b98eafc5dcbc2",
       "energi": "0x68ca48ca2626c415a89756471d4ade2cc9034008",
       "sora": "0x008484148dcf23d1b48908393e7a00d5fdc3bf81029a73eeca62a15ebfb1205a",
@@ -29215,14 +29209,6 @@
     "name": "Charm AI",
     "platforms": {
       "solana": "DBpVGmVbMrw2vEbkhBu2cC3MvEg63opeRHdakVMEpump"
-    }
-  },
-  {
-    "id": "chartreux-cat",
-    "symbol": "chart",
-    "name": "Chartreux Cat",
-    "platforms": {
-      "solana": "GogCgg43KRSKj3f2G68Vjy3nLb7SBfv7qPco7yzopump"
     }
   },
   {
@@ -29601,7 +29587,8 @@
     "symbol": "cvxon",
     "name": "Chevron (Ondo Tokenized Stock)",
     "platforms": {
-      "ethereum": "0x8f3e41b378ae010c46d255f36bfc1d303b52dceb"
+      "ethereum": "0x8f3e41b378ae010c46d255f36bfc1d303b52dceb",
+      "binance-smart-chain": "0xd3113a0ad20a46f6a662c63fe8e637f7713e59c7"
     }
   },
   {
@@ -30091,7 +30078,8 @@
     "symbol": "cmgon",
     "name": "Chipotle (Ondo Tokenized Stock)",
     "platforms": {
-      "ethereum": "0x25018520138bbab60684ad7983d4432e8b8e926b"
+      "ethereum": "0x25018520138bbab60684ad7983d4432e8b8e926b",
+      "binance-smart-chain": "0xaed5985afc12aa09d87f55b4b1e6bc3b8f7b0208"
     }
   },
   {
@@ -30636,7 +30624,8 @@
     "symbol": "crclon",
     "name": "Circle Internet Group (Ondo Tokenized Stock)",
     "platforms": {
-      "ethereum": "0x3632dea96a953c11dac2f00b4a05a32cd1063fae"
+      "ethereum": "0x3632dea96a953c11dac2f00b4a05a32cd1063fae",
+      "binance-smart-chain": "0x992879cd8ce0c312d98648875b5a8d6d042cbf34"
     }
   },
   {
@@ -30689,7 +30678,8 @@
     "symbol": "cscoon",
     "name": "Cisco Systems (Ondo Tokenized Stock)",
     "platforms": {
-      "ethereum": "0x980a1001ee94e54142b231f44c7ca7c9df71fbe1"
+      "ethereum": "0x980a1001ee94e54142b231f44c7ca7c9df71fbe1",
+      "binance-smart-chain": "0x34304f2f7cc487eb4186e6d69f5905a613474aa2"
     }
   },
   {
@@ -31500,7 +31490,8 @@
     "symbol": "koon",
     "name": "Coca-Cola (Ondo Tokenized Stock)",
     "platforms": {
-      "ethereum": "0x74a03d741226f738098c35da8188e57aca50d146"
+      "ethereum": "0x74a03d741226f738098c35da8188e57aca50d146",
+      "binance-smart-chain": "0x405f38b90bebf1259062cf29da299f3398662bcb"
     }
   },
   {
@@ -31888,7 +31879,8 @@
     "symbol": "coinon",
     "name": "Coinbase (Ondo Tokenized Stock)",
     "platforms": {
-      "ethereum": "0xf042cfa86cf1d598a75bdb55c3507a1f39f9493b"
+      "ethereum": "0xf042cfa86cf1d598a75bdb55c3507a1f39f9493b",
+      "binance-smart-chain": "0xf8589b526fdd65f7f301c605a6e04f0f1b4b3620"
     }
   },
   {
@@ -33726,7 +33718,8 @@
     "symbol": "coston",
     "name": "Costco (Ondo Tokenized Stock)",
     "platforms": {
-      "ethereum": "0x0c8276e4fec072cf7854be69c70f7773d1610857"
+      "ethereum": "0x0c8276e4fec072cf7854be69c70f7773d1610857",
+      "binance-smart-chain": "0x34375f826fd3dd4e15f883d4f4786bb45eb705ac"
     }
   },
   {
@@ -42001,7 +41994,8 @@
     "symbol": "dison",
     "name": "Disney (Ondo Tokenized Stock)",
     "platforms": {
-      "ethereum": "0xc3d93b45249e8e06cfeb01d25a96337e8893265d"
+      "ethereum": "0xc3d93b45249e8e06cfeb01d25a96337e8893265d",
+      "binance-smart-chain": "0xeee9eee593cb8f7946260b4066cba7907f40acfa"
     }
   },
   {
@@ -44246,7 +44240,8 @@
     "symbol": "dashon",
     "name": "DoorDash (Ondo Tokenized Stock)",
     "platforms": {
-      "ethereum": "0x241958c86c7744d15d5f6314ba1ea4c81dda2896"
+      "ethereum": "0x241958c86c7744d15d5f6314ba1ea4c81dda2896",
+      "binance-smart-chain": "0x7567c2a46bce46373b454682f3d95e6535bde144"
     }
   },
   {
@@ -46591,7 +46586,7 @@
     "platforms": {
       "binance-smart-chain": "0xbdeae1ca48894a1759a8374d63925f21f2ee2639",
       "ethereum": "0x26aad156ba8efa501b32b42ffcdc8413f90e9c99",
-      "polygon-pos": "0xb03e3b00baf9954bf1604d09a4dbd5cf88e1f695"
+      "arbitrum-one": "0xf8173a39c56a554837c4c7f104153a005d284d11"
     }
   },
   {
@@ -47256,7 +47251,8 @@
     "symbol": "llyon",
     "name": "Eli Lilly (Ondo Tokenized Stock)",
     "platforms": {
-      "ethereum": "0xf192957ae52db3eb088654403cc2eded014ae556"
+      "ethereum": "0xf192957ae52db3eb088654403cc2eded014ae556",
+      "binance-smart-chain": "0x341d31b2be1fee9c00e395a62ba41837f4322eed"
     }
   },
   {
@@ -48150,7 +48146,10 @@
     "id": "enso",
     "symbol": "enso",
     "name": "Enso",
-    "platforms": {}
+    "platforms": {
+      "ethereum": "0x699f088b5dddcafb7c4824db5b10b57b37cb0c66",
+      "binance-smart-chain": "0xfeb339236d25d3e415f280189bc7c2fbab6ae9ef"
+    }
   },
   {
     "id": "entangle",
@@ -48413,7 +48412,8 @@
     "symbol": "eqixon",
     "name": "Equinix (Ondo Tokenized Stock)",
     "platforms": {
-      "ethereum": "0x73d2ccee12c120e7da265a2de9d9f952a0101b4f"
+      "ethereum": "0x73d2ccee12c120e7da265a2de9d9f952a0101b4f",
+      "binance-smart-chain": "0xe4e12c9cec3e8cae405202a97f66afa695075fa0"
     }
   },
   {
@@ -49519,6 +49519,14 @@
     "name": "Euphoria",
     "platforms": {
       "ethereum": "0xa61d1b0b5f3c1bfe7f7ccd42f0f48012592a2952"
+    }
+  },
+  {
+    "id": "eureka-bridged-pax-gold-terra",
+    "symbol": "paxg.atom",
+    "name": "Eureka Bridged PAX Gold (Terra)",
+    "platforms": {
+      "terra-2": "ibc/0EF5630576C66968EF0787868CF09FD866FAD131BC148D24A148358A85F0EB62"
     }
   },
   {
@@ -50767,6 +50775,7 @@
     "name": "FARCANA",
     "platforms": {
       "polygon-pos": "0x5f32abeebd3c2fac1e7459a27e1ae9f1c16cccca",
+      "binance-smart-chain": "0xdc816b6bd4786720e91eb17d4dabf0e1eef5ee91",
       "ethereum": "0xf9fa60ef4f23f00cce403cc4d2c11baf4880a0d6"
     }
   },
@@ -51875,7 +51884,8 @@
     "symbol": "figon",
     "name": "Figma Ord Shs (Ondo Tokenized Stock)",
     "platforms": {
-      "ethereum": "0x073e7a0669833d356fa88ca65cc6d454efaaa3c5"
+      "ethereum": "0x073e7a0669833d356fa88ca65cc6d454efaaa3c5",
+      "binance-smart-chain": "0x93fac02b22b6743423381d163aec418178019b7a"
     }
   },
   {
@@ -52775,7 +52785,9 @@
     "id": "fleek",
     "symbol": "flk",
     "name": "Fleek",
-    "platforms": {}
+    "platforms": {
+      "base": "0xe0969ec84456b7e4d3dd2181fb5265edbb63f7bd"
+    }
   },
   {
     "id": "fleth",
@@ -55686,7 +55698,8 @@
     "symbol": "futuon",
     "name": "Futu Holdings (Ondo Tokenized Stock)",
     "platforms": {
-      "ethereum": "0x5ce215d9c37a195df88e294a06b8396c296b4e15"
+      "ethereum": "0x5ce215d9c37a195df88e294a06b8396c296b4e15",
+      "binance-smart-chain": "0x5acf40056ed51c8bbcd1b125ef803581ac89a627"
     }
   },
   {
@@ -56578,7 +56591,8 @@
     "symbol": "gmeon",
     "name": "GameStop (Ondo Tokenized Stock)",
     "platforms": {
-      "ethereum": "0x71d24baeb0a033ec5f90ff65c4210545af378d97"
+      "ethereum": "0x71d24baeb0a033ec5f90ff65c4210545af378d97",
+      "binance-smart-chain": "0xdabb9aff4cf02f26d2014e4ca9f94ac6fe6572a3"
     }
   },
   {
@@ -56709,7 +56723,8 @@
     "platforms": {
       "arbitrum-one": "0xb08d8becab1bf76a9ce3d2d5fa946f65ec1d3e83",
       "ethereum": "0x64d3cae387405d91f7b0d91fb1d824a281719500",
-      "base": "0xc4d44c155f95fd4e94600d191a4a01bb571df7df"
+      "base": "0xc4d44c155f95fd4e94600d191a4a01bb571df7df",
+      "sonic": "0xf9f143705b2bbde9b4abfd0320f328ae59364f5e"
     }
   },
   {
@@ -57373,7 +57388,8 @@
     "symbol": "geon",
     "name": "General Electric (Ondo Tokenized Stock)",
     "platforms": {
-      "ethereum": "0xd904bcf89b7cedf5c89f9df7e829191d695f847e"
+      "ethereum": "0xd904bcf89b7cedf5c89f9df7e829191d695f847e",
+      "binance-smart-chain": "0x5151a22421ed4277f1e4ca4785a07b035d548a36"
     }
   },
   {
@@ -58437,7 +58453,8 @@
     "name": "GIZA",
     "platforms": {
       "ethereum": "0x590830dfdf9a3f68afcdde2694773debdf267774",
-      "base": "0x590830dfdf9a3f68afcdde2694773debdf267774"
+      "base": "0x590830dfdf9a3f68afcdde2694773debdf267774",
+      "arbitrum-one": "0xa4eaec0b1d564061a4951816fd5b1ba8cfbc425c"
     }
   },
   {
@@ -58612,7 +58629,8 @@
     "name": "Global Dollar",
     "platforms": {
       "solana": "2u1tszSeqZ3qBWF3uNGPFc8TzMk2tdiwknnRMWGWjGWH",
-      "ink": "0xe343167631d89b6ffc58b88d6b7fb0228795491d"
+      "ink": "0xe343167631d89b6ffc58b88d6b7fb0228795491d",
+      "ethereum": "0xe343167631d89b6ffc58b88d6b7fb0228795491d"
     }
   },
   {
@@ -59727,7 +59745,8 @@
     "symbol": "gson",
     "name": "Goldman Sachs (Ondo Tokenized Stock)",
     "platforms": {
-      "ethereum": "0xdb57d9c14e357fc01e49035a808779df41e9b4e2"
+      "ethereum": "0xdb57d9c14e357fc01e49035a808779df41e9b4e2",
+      "binance-smart-chain": "0x0d4f9b25f81163fb4840ba4f434672543823000c"
     }
   },
   {
@@ -60722,14 +60741,6 @@
     "name": "Grape",
     "platforms": {
       "ethereum": "0xec70ff4a5b09110e4d20ada4f2db4a86ec61fac6"
-    }
-  },
-  {
-    "id": "grape-finance",
-    "symbol": "grape",
-    "name": "Grape Finance",
-    "platforms": {
-      "avalanche": "0x5541d83efad1f281571b343977648b75d95cdac2"
     }
   },
   {
@@ -62333,7 +62344,7 @@
   {
     "id": "hakimi",
     "symbol": "哈基米",
-    "name": "哈基米 (Hakimi)",
+    "name": "哈基米 (Hajimi)",
     "platforms": {
       "binance-smart-chain": "0x82ec31d69b3c289e541b50e30681fd1acad24444"
     }
@@ -63243,11 +63254,11 @@
     "name": "Synthetix",
     "platforms": {
       "ethereum": "0xc011a73ee8576fb46f5e1c5751ca3b9fe0af2a6f",
+      "harmony-shard-0": "0x7b9c523d59aefd362247bd5601a89722e3774dd2",
       "huobi-token": "0x777850281719d5a96c29812ab72f822e0e09f3da",
       "fantom": "0x56ee926bd8c72b2d5fa1af4d9e4cbb515a1e3adc",
       "optimistic-ethereum": "0x8700daec35af8ff88c16bdf0418774cb3d7599b4",
       "near-protocol": "c011a73ee8576fb46f5e1c5751ca3b9fe0af2a6f.factory.bridge.near",
-      "harmony-shard-0": "0x7b9c523d59aefd362247bd5601a89722e3774dd2",
       "base": "0x22e6966b799c4d5b13be962e1d117b56327fda66",
       "energi": "0xa255461ff545d6ece153283f421d67d2de5d0e29",
       "avalanche": "0xbec243c995409e6520d7c41e404da5deba4b209b",
@@ -64357,7 +64368,8 @@
     "symbol": "himson",
     "name": "Hims & Hers Health (Ondo Tokenized Stock)",
     "platforms": {
-      "ethereum": "0xca468554e5c0423ee858fe3942c9568c51fcaa79"
+      "ethereum": "0xca468554e5c0423ee858fe3942c9568c51fcaa79",
+      "binance-smart-chain": "0x4693f6f5ef257381a28afd0673e64d8b32d5c6ad"
     }
   },
   {
@@ -65023,8 +65035,8 @@
     "name": "Holo",
     "platforms": {
       "ethereum": "0x6c6ee5e31d828de241282b9606c8e98ea48526e2",
-      "harmony-shard-0": "0x5dfeadcdd2d4eb29ac5ae876daa07ffd07bf6483",
       "base": "0xf3dd141109dfe8e4c006f88a2a8747a086e7c1f8",
+      "harmony-shard-0": "0x5dfeadcdd2d4eb29ac5ae876daa07ffd07bf6483",
       "energi": "0x34b97eeab6fd9bbe95a5eaf4645307c5a6f3d4d0",
       "sora": "0x004baaeb9bf0d5210a51fab72d10c84a34f53bea4e0e102d794d531a45ec50f9",
       "arbitrum-one": "0x17e1e5c6bc9ebb11647c94e1c5e3ba619f2781ea"
@@ -66883,7 +66895,8 @@
     "symbol": "ibmon",
     "name": "IBM (Ondo Tokenized Stock)",
     "platforms": {
-      "ethereum": "0x25d3f236b2d61656eebdea86ac6d42168e340011"
+      "ethereum": "0x25d3f236b2d61656eebdea86ac6d42168e340011",
+      "binance-smart-chain": "0xe8ff70859ce4cbd72e4352b4fb45f5bf39d07464"
     }
   },
   {
@@ -66891,7 +66904,8 @@
     "symbol": "hygon",
     "name": "iBoxx $ High Yield Corporate Bond ETF (Ondo Tokenized ETF)",
     "platforms": {
-      "ethereum": "0xed3618bb8778f8ebbe2f241da532227591771d04"
+      "ethereum": "0xed3618bb8778f8ebbe2f241da532227591771d04",
+      "binance-smart-chain": "0x0dae81a905b645a3d1e67129b89cd0acda224e9a"
     }
   },
   {
@@ -68863,7 +68877,8 @@
     "symbol": "intcon",
     "name": "Intel (Ondo Tokenized Stock)",
     "platforms": {
-      "ethereum": "0xfda09936dbd717368de0835ba441d9e62069d36f"
+      "ethereum": "0xfda09936dbd717368de0835ba441d9e62069d36f",
+      "binance-smart-chain": "0xa528caaa2f96090e379d43f90834c75df54d6e74"
     }
   },
   {
@@ -69159,7 +69174,8 @@
     "symbol": "intuon",
     "name": "Intuit (Ondo Tokenized Stock)",
     "platforms": {
-      "ethereum": "0x6cc0afd51ce4cb6920b775f3d6376ab82b9a93bb"
+      "ethereum": "0x6cc0afd51ce4cb6920b775f3d6376ab82b9a93bb",
+      "binance-smart-chain": "0x6e3e077a6c0e3c27fd6d00b97387d9b7bd451bab"
     }
   },
   {
@@ -69736,7 +69752,8 @@
     "symbol": "iefaon",
     "name": "iShares Core MSCI EAFE ETF (Ondo Tokenized ETF)",
     "platforms": {
-      "ethereum": "0xfeff7a377a86462f5a2a872009722c154707f09e"
+      "ethereum": "0xfeff7a377a86462f5a2a872009722c154707f09e",
+      "binance-smart-chain": "0x918008c3d29496c37b478b611967beaca365af36"
     }
   },
   {
@@ -69744,7 +69761,8 @@
     "symbol": "iemgon",
     "name": "iShares Core MSCI Emerging Markets ETF (Ondo Tokenized ETF)",
     "platforms": {
-      "ethereum": "0xcdd60d15125bf3362b6838d2506b0fa33bc1a515"
+      "ethereum": "0xcdd60d15125bf3362b6838d2506b0fa33bc1a515",
+      "binance-smart-chain": "0x22092c94a91d019ad15536725598b0a6be0a73c0"
     }
   },
   {
@@ -69752,7 +69770,8 @@
     "symbol": "ivvon",
     "name": "iShares Core S&P 500 ETF (Ondo Tokenized ETF)",
     "platforms": {
-      "ethereum": "0x62ca254a363dc3c748e7e955c20447ab5bf06ff7"
+      "ethereum": "0x62ca254a363dc3c748e7e955c20447ab5bf06ff7",
+      "binance-smart-chain": "0x1104eb7e85e25eb45f88e638b0c27a06c1a91cb2"
     }
   },
   {
@@ -69760,7 +69779,8 @@
     "symbol": "ijhon",
     "name": "iShares Core S&P MidCap ETF (Ondo Tokenized ETF)",
     "platforms": {
-      "ethereum": "0xfd50fc4e3686a8da814c5c3d6121d8ab98a537f0"
+      "ethereum": "0xfd50fc4e3686a8da814c5c3d6121d8ab98a537f0",
+      "binance-smart-chain": "0x167e93a849a0cc479769132552b99aa1cfa0948c"
     }
   },
   {
@@ -69768,7 +69788,8 @@
     "symbol": "itoton",
     "name": "iShares Core S&P Total US Stock Market ETF (Ondo Tokenized ETF)",
     "platforms": {
-      "ethereum": "0x0692481c369e2bdc728a69ae31b848343a4567be"
+      "ethereum": "0x0692481c369e2bdc728a69ae31b848343a4567be",
+      "binance-smart-chain": "0xcf9caf83053213c44dd7027db3e1e4ac98e55f8f"
     }
   },
   {
@@ -69776,7 +69797,8 @@
     "symbol": "aggon",
     "name": "iShares Core US Aggregate Bond ETF (Ondo Tokenized ETF)",
     "platforms": {
-      "ethereum": "0xff7cf16aa2ffc463b996db2f7b7cf0130336899d"
+      "ethereum": "0xff7cf16aa2ffc463b996db2f7b7cf0130336899d",
+      "binance-smart-chain": "0x08ce97f3d5cf11e577d091ab048bc5e2eae3fabb"
     }
   },
   {
@@ -69784,7 +69806,8 @@
     "symbol": "iauon",
     "name": "iShares Gold Trust (Ondo Tokenized Stock)",
     "platforms": {
-      "ethereum": "0x4f0ca3df1c2e6b943cf82e649d576ffe7b2fabcf"
+      "ethereum": "0x4f0ca3df1c2e6b943cf82e649d576ffe7b2fabcf",
+      "binance-smart-chain": "0xcb2a0f46f67dc4c58a316f1c008edef5c2311795"
     }
   },
   {
@@ -69792,7 +69815,8 @@
     "symbol": "efaon",
     "name": "iShares MSCI EAFE ETF (Ondo Tokenized ETF)",
     "platforms": {
-      "ethereum": "0x4111b60bc87f2bd1e81e783e271d7f0ec6ee088b"
+      "ethereum": "0x4111b60bc87f2bd1e81e783e271d7f0ec6ee088b",
+      "binance-smart-chain": "0x38b9a53bfdc5dba58a29bd6992341927c2fca637"
     }
   },
   {
@@ -69800,7 +69824,8 @@
     "symbol": "eemon",
     "name": "iShares MSCI Emerging Markets ETF (Ondo Tokenized ETF)",
     "platforms": {
-      "ethereum": "0x77a1a02e4a888ada8620b93c30de8a41e621126c"
+      "ethereum": "0x77a1a02e4a888ada8620b93c30de8a41e621126c",
+      "binance-smart-chain": "0x00c81d35eddf44c75d4db9e07bdcdc236eb0ebcf"
     }
   },
   {
@@ -69814,7 +69839,8 @@
     "symbol": "iwfon",
     "name": "iShares Russell 1000 Growth ETF (Ondo Tokenized ETF)",
     "platforms": {
-      "ethereum": "0x8d05432c2786e3f93f1a9a62b9572dbf54f3ea06"
+      "ethereum": "0x8d05432c2786e3f93f1a9a62b9572dbf54f3ea06",
+      "binance-smart-chain": "0x40755f06ab7f8de1ab3a9413b1ef562d63de19b1"
     }
   },
   {
@@ -69822,7 +69848,8 @@
     "symbol": "iwmon",
     "name": "iShares Russell 2000 ETF (Ondo Tokenized ETF)",
     "platforms": {
-      "ethereum": "0x070d79021dd7e841123cb0cf554993bf683c511d"
+      "ethereum": "0x070d79021dd7e841123cb0cf554993bf683c511d",
+      "binance-smart-chain": "0x500eafc69b68acd6f27064f9b75f1c7d91cc4d9f"
     }
   },
   {
@@ -69830,7 +69857,8 @@
     "symbol": "iwnon",
     "name": "iShares Russell 2000 Value ETF (Ondo Tokenized ETF)",
     "platforms": {
-      "ethereum": "0x9dcf7f739b8c0270e2fc0cc8d0dabe355a150dba"
+      "ethereum": "0x9dcf7f739b8c0270e2fc0cc8d0dabe355a150dba",
+      "binance-smart-chain": "0xf54b94ea21e1da5d51ef00fd4502225e5394f874"
     }
   },
   {
@@ -70726,7 +70754,8 @@
     "symbol": "jdon",
     "name": "JD.com (Ondo Tokenized Stock)",
     "platforms": {
-      "ethereum": "0xdeb6b89088ca9b7d7756087c8a0f7c6df46f319c"
+      "ethereum": "0xdeb6b89088ca9b7d7756087c8a0f7c6df46f319c",
+      "binance-smart-chain": "0xe92be960ae64f6a914ca77014cac9e56de7f36c1"
     }
   },
   {
@@ -71589,7 +71618,8 @@
     "symbol": "jpmon",
     "name": "JPMorgan Chase (Ondo Tokenized Stock)",
     "platforms": {
-      "ethereum": "0x03c1ec4ca9dbb168e6db0def827c085999cbffaf"
+      "ethereum": "0x03c1ec4ca9dbb168e6db0def827c085999cbffaf",
+      "binance-smart-chain": "0x317bf42b43a394860718266dec445dcc9fd9da49"
     }
   },
   {
@@ -79864,7 +79894,8 @@
     "symbol": "lmton",
     "name": "Lockheed (Ondo Tokenized Stock)",
     "platforms": {
-      "ethereum": "0x691b126cf619707ed5d16cab1b27c000aa8de300"
+      "ethereum": "0x691b126cf619707ed5d16cab1b27c000aa8de300",
+      "binance-smart-chain": "0xd09f7b75b9659b864c6f82bb00ff096f9d277998"
     }
   },
   {
@@ -83213,7 +83244,8 @@
     "symbol": "maraon",
     "name": "MARA Holdings (Ondo Tokenized Stock)",
     "platforms": {
-      "ethereum": "0x4604b0b581269843ac7a6b70a5fc019e7762e511"
+      "ethereum": "0x4604b0b581269843ac7a6b70a5fc019e7762e511",
+      "binance-smart-chain": "0xd226d8170ee38793430c7dec6903df4b818bb74c"
     }
   },
   {
@@ -83640,14 +83672,6 @@
     }
   },
   {
-    "id": "maru-taro",
-    "symbol": "taro",
-    "name": "Maru Taro",
-    "platforms": {
-      "solana": "8cvjcGD1CcSHXfc82FfHSrLzeooJJmjB2Dp1pV81pump"
-    }
-  },
-  {
     "id": "marutaro-2",
     "symbol": "$maru",
     "name": "Marutaro",
@@ -83873,7 +83897,8 @@
     "symbol": "maon",
     "name": "Mastercard (Ondo Tokenized Stock)",
     "platforms": {
-      "ethereum": "0xa29dc2102dfc2a0a4a5dcb84af984315567c9858"
+      "ethereum": "0xa29dc2102dfc2a0a4a5dcb84af984315567c9858",
+      "binance-smart-chain": "0x25ffda07f585c39848db6573e533d7585679c52d"
     }
   },
   {
@@ -83989,8 +84014,8 @@
     "name": "Polygon",
     "platforms": {
       "ethereum": "0x7d1afa7b718fb893db30a3abc0cfc608aacfebb0",
-      "moonriver": "0x682f81e57eaa716504090c3ecba8595fb54561d8",
       "harmony-shard-0": "0x301259f392b551ca8c592c9f676fcd2f9a0a84c5",
+      "moonriver": "0x682f81e57eaa716504090c3ecba8595fb54561d8",
       "moonbeam": "0x3405a1bd46b85c5c029483fbecf2f3e611026e45",
       "energi": "0x98997e1651919faeacee7b96afbb3dfd96cb6036",
       "sora": "0x009134d5c7b7fda8863985531f456f89bef5fbd76684a8acdb737b3e451d0877",
@@ -84484,7 +84509,8 @@
     "symbol": "mcdon",
     "name": "McDonald's (Ondo Tokenized Stock)",
     "platforms": {
-      "ethereum": "0x4c82c8cd9a218612dce60b156b73a36705645e3b"
+      "ethereum": "0x4c82c8cd9a218612dce60b156b73a36705645e3b",
+      "binance-smart-chain": "0x995add4ba29a628a57930a8a185c62ca044ec090"
     }
   },
   {
@@ -87958,9 +87984,9 @@
       "aurora": "0xdfa46478f9e5ea86d57387849598dbfb2e964b02",
       "moonbeam": "0xdfa46478f9e5ea86d57387849598dbfb2e964b02",
       "syscoin": "0x2611fa1cae2a3e20ed47fb1b293437c14f41b00f",
-      "harmony-shard-0": "0x3f56e0c36d275367b8c502090edf38289b3dea0d",
       "celo": "0xb9c8f0d3254007ee4b98970b94544e473cd610ec",
-      "milkomeda-cardano": "0xb9c8f0d3254007ee4b98970b94544e473cd610ec"
+      "milkomeda-cardano": "0xb9c8f0d3254007ee4b98970b94544e473cd610ec",
+      "harmony-shard-0": "0x3f56e0c36d275367b8c502090edf38289b3dea0d"
     }
   },
   {
@@ -93360,6 +93386,14 @@
     "name": "Neko",
     "platforms": {
       "ethereum": "0x4aad14eccf012bb370bd755726f369ff53045d36"
+    }
+  },
+  {
+    "id": "neko-3",
+    "symbol": "neko",
+    "name": "NEKO",
+    "platforms": {
+      "ethereum": "0x74697d4fd0536c6885334b11d5c6dbf58729369f"
     }
   },
   {
@@ -107812,14 +107846,6 @@
     }
   },
   {
-    "id": "power-2",
-    "symbol": "power",
-    "name": "POWER",
-    "platforms": {
-      "rss3-vsl": "0xe06af68f0c9e819513a6cd083ef6848e76c28cd8"
-    }
-  },
-  {
     "id": "powerball",
     "symbol": "ball",
     "name": "POWERBALL",
@@ -115134,7 +115160,8 @@
     "symbol": "hoodon",
     "name": "Robinhood Markets (Ondo Tokenized Stock)",
     "platforms": {
-      "ethereum": "0x998f02a9e343ef6e3e6f28700d5a20f839fd74e6"
+      "ethereum": "0x998f02a9e343ef6e3e6f28700d5a20f839fd74e6",
+      "binance-smart-chain": "0x19601179a60f55ff6636f5d1a8b6671053bd60a8"
     }
   },
   {
@@ -117215,7 +117242,8 @@
     "symbol": "crmon",
     "name": "Salesforce (Ondo Tokenized Stock)",
     "platforms": {
-      "ethereum": "0x55720ef5b023fd043ae5f8d2e526030207978950"
+      "ethereum": "0x55720ef5b023fd043ae5f8d2e526030207978950",
+      "binance-smart-chain": "0xd04a2bb053277721a8321d7441eed5b42fdf7250"
     }
   },
   {
@@ -126346,14 +126374,6 @@
     }
   },
   {
-    "id": "spoofify",
-    "symbol": "spoof",
-    "name": "Spoofify",
-    "platforms": {
-      "solana": "BLU6Aiq3hcRkwvXeq7V61XwDzqm2zYxYAYLVghWVYp6Q"
-    }
-  },
-  {
     "id": "spookyshiba-2",
     "symbol": "spky",
     "name": "SpookyShiba",
@@ -130969,9 +130989,9 @@
     "name": "Sushi",
     "platforms": {
       "ethereum": "0x6b3595068778dd592e39a122f4f5a5cf09c90fe2",
+      "harmony-shard-0": "0xbec775cb42abfa4288de81f387a9b1a3c4bc552a",
       "fantom": "0xae75a438b2e0cb8bb01ec1e1e376de11d44477cc",
       "near-protocol": "6b3595068778dd592e39a122f4f5a5cf09c90fe2.factory.bridge.near",
-      "harmony-shard-0": "0xbec775cb42abfa4288de81f387a9b1a3c4bc552a",
       "base": "0x7d49a065d17d6d4a55dc13649901fdbb98b2afba",
       "solana": "ChVzxWRmrTeSgwd3Ui3UumcN8KX7VK3WaD4KGeSKpypj",
       "celo": "0xd15ec721c2a896512ad29c671997dd68f9593226",
@@ -134545,8 +134565,8 @@
     "name": "The Graph",
     "platforms": {
       "ethereum": "0xc944e90c64b2c07662a292be6244bdf05cda44a7",
-      "near-protocol": "c944e90c64b2c07662a292be6244bdf05cda44a7.factory.bridge.near",
       "harmony-shard-0": "0x002fa662f2e09de7c306d2bab0085ee9509488ff",
+      "near-protocol": "c944e90c64b2c07662a292be6244bdf05cda44a7.factory.bridge.near",
       "energi": "0x771513ba693d457df3678c951c448701f2eaaad5",
       "sora": "0x00d1fb79bbd1005a678fbf2de9256b3afe260e8eead49bb07bd3a566f9fe8355",
       "avalanche": "0x8a0cac13c7da965a312f08ea4229c37869e85cb9",
@@ -144746,7 +144766,8 @@
     "symbol": "von",
     "name": "Visa (Ondo Tokenized Stock)",
     "platforms": {
-      "ethereum": "0xac37c20c1d0e5285035e056101a64e263ff94a41"
+      "ethereum": "0xac37c20c1d0e5285035e056101a64e263ff94a41",
+      "binance-smart-chain": "0x1cde419fae0ef7f7931ae3e29e5f411c8c5e5fa1"
     }
   },
   {
@@ -145902,7 +145923,8 @@
     "symbol": "wmton",
     "name": "Walmart (Ondo Tokenized Stock)",
     "platforms": {
-      "ethereum": "0x82106347ddbb23ce44cf4ce4053ef1adf8b9323b"
+      "ethereum": "0x82106347ddbb23ce44cf4ce4053ef1adf8b9323b",
+      "binance-smart-chain": "0xa7d1e886acf66ec0656df2decb4b7c893a3bab4c"
     }
   },
   {
@@ -146922,7 +146944,8 @@
     "symbol": "wfcon",
     "name": "Wells Fargo (Ondo Tokenized Stock)",
     "platforms": {
-      "ethereum": "0x4ad2118da8a65eaa81402a3d583fef6ee76bdf3f"
+      "ethereum": "0x4ad2118da8a65eaa81402a3d583fef6ee76bdf3f",
+      "binance-smart-chain": "0x629520dee1620def11596f84e85de9f1ff653012"
     }
   },
   {
@@ -150627,8 +150650,8 @@
       "tombchain": "0x4200000000000000000000000000000000000006",
       "moonriver": "0xad12dab5959f30b9ff3c2d6709f53c335dc39908",
       "ethereum": "0x4e15361fd6b4bb609fa63c81a2be19d873717870",
-      "harmony-shard-0": "0x39ab439897380ed10558666c4377facb0322ad48",
       "telos": "0xc1be9a4d5d45beeacae296a7bd5fadbfc14602c4",
+      "harmony-shard-0": "0x39ab439897380ed10558666c4377facb0322ad48",
       "milkomeda-cardano": "0x332730a4f6e03d9c55829435f10360e13cfa41ff",
       "energi": "0xafdf614ea3e1c0d93730f6fc31f23ba30f17ecea",
       "binance-smart-chain": "0xad29abb318791d579433d831ed122afeaf29dcfe"
@@ -152284,8 +152307,8 @@
       "fantom": "0xe2d27f06f63d98b8e11b38b5b08a75d0c8dd62b9",
       "ethereum": "0xa47c8bf37f92abed4a126bda807a7b7498661acd",
       "aurora": "0x5ce9f0b6afb36135b5ddbf11705ceb65e634a9dc",
-      "harmony-shard-0": "0x224e64ec1bdce3870a6a6c777edd450454068fec",
       "solana": "CXLBjMMcwkc17GfJtBos6rQCo1ypeH6eDbB82Kby4MRm",
+      "harmony-shard-0": "0x224e64ec1bdce3870a6a6c777edd450454068fec",
       "sora": "0x00f8cfb462a824f37dcea67caae0d7e2f73ed8371e706ea8b1e1a7b0c357d5d4",
       "polygon-pos": "0x692597b009d13c4049a947cab2239b7d6517875f"
     }
@@ -153471,7 +153494,7 @@
   {
     "id": "xiuxian",
     "symbol": "修仙",
-    "name": "修仙 (Xiūxiān)",
+    "name": "修仙 (XiuXian)",
     "platforms": {
       "binance-smart-chain": "0x44443dd87ec4d1bea3425acc118adb023f07f91b"
     }
@@ -154043,6 +154066,7 @@
       "xrp": "rK67JczCpaYXVtfw3qJVmqwpSfa1bYTptw",
       "hedera-hashgraph": "0x00000000000000000000000000000000001e4d82",
       "zilliqa": "zil180v66mlw007ltdv8tq5t240y7upwgf7djklmwh",
+      "base": "0x0a4c9cb2778ab3302996a34befcf9a8bc288c33b",
       "avalanche": "0xb2f85b7ab3c2b6f62df06de6ae7d09c010a5096e",
       "polygon-pos": "0xdc3326e71d45186f113a2f448984ca0e8d201995",
       "arbitrum-one": "0xe333e7754a2dc1e020a162ecab019254b9dab653"
@@ -154691,8 +154715,8 @@
       "huobi-token": "0xb4f019beac758abbee2f906033aaa2f0f6dacb35",
       "fantom": "0x29b0da86e484e1c0029b56e817912d778ac0ec69",
       "near-protocol": "0bc529c00c6401aef6d220be8c6ea1667f6ad93e.factory.bridge.near",
-      "harmony-shard-0": "0xa0dc05f84a27fccbd341305839019ab86576bc07",
       "base": "0x9eaf8c1e34f05a589eda6bafdf391cf6ad3cb239",
+      "harmony-shard-0": "0xa0dc05f84a27fccbd341305839019ab86576bc07",
       "sora": "0x002676c3edea5b08bc0f9b6809a91aa313b7da35e28b190222e9dc032bf1e662",
       "avalanche": "0x9eaac1b23d935365bd7b542fe22ceee2922f52dc",
       "polygon-pos": "0xda537104d6a5edd53c6fbba9a898708e465260b6",
@@ -154713,14 +154737,6 @@
     "name": "YearnTogether",
     "platforms": {
       "binance-smart-chain": "0xfd58735256a1efeba4cc2fcd7c1adc123e2da999"
-    }
-  },
-  {
-    "id": "yearn-yprisma",
-    "symbol": "yprisma",
-    "name": "Yearn yPRISMA",
-    "platforms": {
-      "ethereum": "0xe3668873d944e4a949da05fc8bde419eff543882"
     }
   },
   {
@@ -155157,8 +155173,8 @@
       "ethereum": "0x25f8087ead173b73d6e8b84329989a8eea16cf73",
       "abstract": "0xa9053dc939d74222f7aa0b3a2be407abbfd56c6a",
       "ronin": "0x1c306872bc82525d72bf3562e8f0aa3f8f26e857",
-      "harmony-shard-0": "0x63cf309500d8be0b9fdb8f1fb66c821236c0438c",
       "base": "0xaac78d1219c08aecc8e37e03858fe885f5ef1799",
+      "harmony-shard-0": "0x63cf309500d8be0b9fdb8f1fb66c821236c0438c",
       "binance-smart-chain": "0x13ab6739368a4e4abf24695bf52959224367391f",
       "polygon-pos": "0x82617aa52dddf5ed9bb7b370ed777b3182a30fd1"
     }
