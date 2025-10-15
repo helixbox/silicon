@@ -4,7 +4,7 @@
   "keywords": [
     "defi"
   ],
-  "timestamp": "2025-10-14T09:03:47.090+00:00",
+  "timestamp": "2025-10-14T17:03:36.109+00:00",
   "tokens": [
     {
       "chainId": 1,
@@ -1383,6 +1383,14 @@
     },
     {
       "chainId": 1,
+      "address": "0xe556aba6fe6036275ec1f87eda296be72c811bce",
+      "name": "NUSD",
+      "symbol": "NUSD",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/70027/thumb/NUSD-200x200.png?1760452629"
+    },
+    {
+      "chainId": 1,
       "address": "0x3449fc1cd036255ba1eb19d65ff4ba2b8903a69a",
       "name": "Basis Cash",
       "symbol": "BAC",
@@ -1900,6 +1908,14 @@
       "symbol": "HAUS",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/14551/thumb/jN3kkqke_400x400.png?1696514234"
+    },
+    {
+      "chainId": 1,
+      "address": "0x08efcc2f3e61185d0ea7f8830b3fec9bfa2ee313",
+      "name": "sNUSD",
+      "symbol": "SNUSD",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/70028/thumb/sNUSD-200x200.png?1760452644"
     },
     {
       "chainId": 1,
@@ -5414,14 +5430,6 @@
     },
     {
       "chainId": 1,
-      "address": "0x8bcf9012f4b0c1c3d359edb7133c294f82f80790",
-      "name": "ServiceNow (Ondo Tokenized Stock)",
-      "symbol": "NOWON",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/68644/thumb/nowon_160x160.png?1756156127"
-    },
-    {
-      "chainId": 1,
       "address": "0x1fac00ccee478eced6a120a50ed2ab28ee7fe32b",
       "name": "Bitune",
       "symbol": "TUNE",
@@ -5443,14 +5451,6 @@
       "symbol": "PURE",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/12600/thumb/200x200_pure_logo.png?1696512409"
-    },
-    {
-      "chainId": 1,
-      "address": "0x59644165402b611b350645555b50afb581c71eb2",
-      "name": "Meta Platforms (Ondo Tokenized Stock)",
-      "symbol": "METAON",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/68645/thumb/metaon_160x160.png?1756156152"
     },
     {
       "chainId": 1,
@@ -5534,27 +5534,11 @@
     },
     {
       "chainId": 1,
-      "address": "0x992651bfeb9a0dcc4457610e284ba66d86489d4d",
-      "name": "iShares 20+ Year Treasury Bond ETF (Ondo Tokenized ETF)",
-      "symbol": "TLTON",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/68647/thumb/tlton_160x160.png?1756156198"
-    },
-    {
-      "chainId": 1,
       "address": "0x0c8276e4fec072cf7854be69c70f7773d1610857",
       "name": "Costco (Ondo Tokenized Stock)",
       "symbol": "COSTON",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/68648/thumb/coston_160x160.png?1756156219"
-    },
-    {
-      "chainId": 1,
-      "address": "0x032dec3372f25c41ea8054b4987a7c4832cdb338",
-      "name": "Netflix (Ondo Tokenized Stock)",
-      "symbol": "NFLXON",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/68649/thumb/nflxon_160x160.png?1756156245"
     },
     {
       "chainId": 1,
@@ -5686,22 +5670,6 @@
     },
     {
       "chainId": 1,
-      "address": "0xf3e4872e6a4cf365888d93b6146a2baa7348f1a4",
-      "name": "iShares Silver Trust (Ondo Tokenized Stock)",
-      "symbol": "SLVON",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/68651/thumb/slvon_160x160.png?1756156286"
-    },
-    {
-      "chainId": 1,
-      "address": "0x2816169a49953c548bfeb3948dcf05c4a0e4657d",
-      "name": "MercadoLibre (Ondo Tokenized Stock)",
-      "symbol": "MELION",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/68652/thumb/melion_160x160.png?1756156305"
-    },
-    {
-      "chainId": 1,
       "address": "0x5bc93bab1291885a76644a49f52050cf73e1dca8",
       "name": "MULTIVERSE MONKEY",
       "symbol": "MMON",
@@ -5750,14 +5718,6 @@
     },
     {
       "chainId": 1,
-      "address": "0x0e397938c1aa0680954093495b70a9f5e2249aba",
-      "name": "Invesco QQQ ETF (Ondo Tokenized ETF)",
-      "symbol": "QQQON",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/68654/thumb/qqqon_160x160.png?1756156339"
-    },
-    {
-      "chainId": 1,
       "address": "0xde4ee8057785a7e8e800db58f9784845a5c2cbd6",
       "name": "DeXe",
       "symbol": "DEXE",
@@ -5779,14 +5739,6 @@
       "symbol": "ACRED",
       "decimals": 6,
       "logoURI": "https://assets.coingecko.com/coins/images/54809/thumb/ACRED.png?1741801356"
-    },
-    {
-      "chainId": 1,
-      "address": "0xfedc5f4a6c38211c1338aa411018dfaf26612c08",
-      "name": "SPDR S&P 500 ETF (Ondo Tokenized ETF)",
-      "symbol": "SPYON",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/68655/thumb/spyon_160x160.png?1756156354"
     },
     {
       "chainId": 1,
@@ -5891,14 +5843,6 @@
       "symbol": "YUSD",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/53607/thumb/yUSD.png?1739862886"
-    },
-    {
-      "chainId": 1,
-      "address": "0xfdb46864a7c476f0914c5e82cded3364a9f56f8a",
-      "name": "SharpLink Gaming, Inc (Ondo Tokenized Stock)",
-      "symbol": "SBETON",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/68657/thumb/sbeton_160x160.png?1756156393"
     },
     {
       "chainId": 1,
@@ -6403,14 +6347,6 @@
       "symbol": "ZND",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/51168/thumb/Currency_%285%29.png?1730268282"
-    },
-    {
-      "chainId": 1,
-      "address": "0xcabd955322dfbf94c084929ac5e9eca3feb5556f",
-      "name": "MicroStrategy (Ondo Tokenized Stock)",
-      "symbol": "MSTRON",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/68530/thumb/mstron_160x160.png?1756100941"
     },
     {
       "chainId": 1,
@@ -7708,14 +7644,6 @@
     },
     {
       "chainId": 1,
-      "address": "0x3807562a482b824c08a564dfefcc471806d3e00a",
-      "name": "D-Wave Quantum (Ondo Tokenized Stock)",
-      "symbol": "QBTSON",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/68541/thumb/qbtson_160x160.png?1756105094"
-    },
-    {
-      "chainId": 1,
       "address": "0x1250b98cbde9f99f4c42dcdacee193221f17eb50",
       "name": "ArtCoin",
       "symbol": "AC",
@@ -7793,14 +7721,6 @@
       "symbol": "HUGE",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/35923/thumb/2024-03-01_17.49.27_%281%29.png?1710221459"
-    },
-    {
-      "chainId": 1,
-      "address": "0x2df38ca485d01fc15e4fd85847ed26b7ef871c1c",
-      "name": "iShares TIPS Bond ETF (Ondo Tokenized ETF)",
-      "symbol": "TIPON",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/68542/thumb/tipon_160x160.png?1756105129"
     },
     {
       "chainId": 1,
@@ -8524,27 +8444,11 @@
     },
     {
       "chainId": 1,
-      "address": "0xd08ddb436e731f32455fe302723ee0fd2e9e8706",
-      "name": "Petrobras (Ondo Tokenized Stock)",
-      "symbol": "PBRON",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/68545/thumb/pbron_160x160.png?1756105320"
-    },
-    {
-      "chainId": 1,
       "address": "0x1776e1f26f98b1a5df9cd347953a26dd3cb46671",
       "name": "Numeraire",
       "symbol": "NMR",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/752/thumb/numeraire.png?1696501906"
-    },
-    {
-      "chainId": 1,
-      "address": "0x21deafd91116fce9fe87c8f15bde03f99a309b72",
-      "name": "Riot Platforms (Ondo Tokenized Stock)",
-      "symbol": "RIOTON",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/68547/thumb/rioton_160x160.png?1756105446"
     },
     {
       "chainId": 1,
@@ -8739,14 +8643,6 @@
     },
     {
       "chainId": 1,
-      "address": "0x06954faa913fa14c28eb1b2e459594f22f33f3de",
-      "name": "Pfizer (Ondo Tokenized Stock)",
-      "symbol": "PFEON",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/68549/thumb/pfeon_160x160.png?1756105512"
-    },
-    {
-      "chainId": 1,
       "address": "0x4d8d9f6ced39288a1e8961621bbbc2b698a3b102",
       "name": "hsETH",
       "symbol": "HSETH",
@@ -8864,14 +8760,6 @@
       "symbol": "DBNB",
       "decimals": 9,
       "logoURI": "https://assets.coingecko.com/coins/images/26544/thumb/Screenshot_2022-07-22_at_18.16.11.png?1696525617"
-    },
-    {
-      "chainId": 1,
-      "address": "0x4efd92f372898b57f292de69fce377dd7d912bdd",
-      "name": "PayPal (Ondo Tokenized Stock)",
-      "symbol": "PYPLON",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/68551/thumb/pyplon_160x160.png?1756105622"
     },
     {
       "chainId": 1,
@@ -9299,14 +9187,6 @@
     },
     {
       "chainId": 1,
-      "address": "0x28151f5888833d3d767c4d6945a0ee50d1b193e3",
-      "name": "Novo Nordisk (Ondo Tokenized Stock)",
-      "symbol": "NVOON",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/68554/thumb/nvoon_160x160.png?1756105715"
-    },
-    {
-      "chainId": 1,
       "address": "0xf36c5f04127f7470834ed6f98bddc1be62aba48d",
       "name": "CryptoAI",
       "symbol": "CAI",
@@ -9384,14 +9264,6 @@
       "symbol": "FBTC",
       "decimals": 8,
       "logoURI": "https://assets.coingecko.com/coins/images/39182/thumb/Function_Token_%282%29.png?1760254065"
-    },
-    {
-      "chainId": 1,
-      "address": "0xd8e26fcc879b30cb0a0b543925a2b3500f074d81",
-      "name": "Nike (Ondo Tokenized Stock)",
-      "symbol": "NKEON",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/68556/thumb/nkeon_160x160.png?1756105802"
     },
     {
       "chainId": 1,
@@ -9715,27 +9587,11 @@
     },
     {
       "chainId": 1,
-      "address": "0x2ca12a3f9635fd69c21580def14f25c210ca9612",
-      "name": "Super Micro Computer (Ondo Tokenized Stock)",
-      "symbol": "SMCION",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/68559/thumb/smcion_160x160.png?1756105887"
-    },
-    {
-      "chainId": 1,
       "address": "0x6ef460eb3563cfcc73f8147b0a77daffee71f867",
       "name": "Zeus AI",
       "symbol": "ZEUS",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/29593/thumb/ZEUS.png?1696528532"
-    },
-    {
-      "chainId": 1,
-      "address": "0xf404e5f887dbd5508e16a1198fcdd5de1a4296b8",
-      "name": "Marvell Technology (Ondo Tokenized Stock)",
-      "symbol": "MRVLON",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/68560/thumb/mrvlon_160x160.png?1756105919"
     },
     {
       "chainId": 1,
@@ -9968,14 +9824,6 @@
       "symbol": "FUFU",
       "decimals": 2,
       "logoURI": "https://assets.coingecko.com/coins/images/32225/thumb/6522723afff7e2e198ce38c6_FufuTokenIcon_250x250.png?1696931163"
-    },
-    {
-      "chainId": 1,
-      "address": "0xf15fbc1349ab99abad63db3f9a510bf413be3bef",
-      "name": "Starbucks (Ondo Tokenized Stock)",
-      "symbol": "SBUXON",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/68564/thumb/sbuxon_160x160.png?1756106053"
     },
     {
       "chainId": 1,
@@ -10592,14 +10440,6 @@
       "symbol": "KAIJU",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/35688/thumb/mmexport1709168349348.jpg?1709533292"
-    },
-    {
-      "chainId": 1,
-      "address": "0x050362ab1072cb2ce74d74770e22a3203ad04ee5",
-      "name": "Micron Technology (Ondo Tokenized Stock)",
-      "symbol": "MUON",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/68574/thumb/muon_160x160.png?1756106401"
     },
     {
       "chainId": 1,
@@ -13610,14 +13450,6 @@
     },
     {
       "chainId": 1,
-      "address": "0xab02fc332e9278ebcbbc6b4a8038050c01d15f69",
-      "name": "Toyota (Ondo Tokenized Stock)",
-      "symbol": "TMON",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/68583/thumb/tmon_160x160.png?1756129775"
-    },
-    {
-      "chainId": 1,
       "address": "0x310718274509a38cc5559a1ff48c5edbe75a382b",
       "name": "Eigenpie oETH",
       "symbol": "MOETH",
@@ -13666,11 +13498,11 @@
     },
     {
       "chainId": 1,
-      "address": "0x908266c1192628371cff7ad2f5eba4de061a0ac5",
-      "name": "Shopify (Ondo Tokenized Stock)",
-      "symbol": "SHOPON",
+      "address": "0xa9431d354cfad3c6b76e50f0e73b43d48be80cd0",
+      "name": "Reddit (Ondo Tokenized Stock)",
+      "symbol": "RDDTON",
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/68584/thumb/shopon_160x160.png?1756129783"
+      "logoURI": "https://assets.coingecko.com/coins/images/68585/thumb/rddton_160x160.png?1756129789"
     },
     {
       "chainId": 1,
@@ -13679,14 +13511,6 @@
       "symbol": "OMNI",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/33917/thumb/omnicatlogo.png?1717544778"
-    },
-    {
-      "chainId": 1,
-      "address": "0xa9431d354cfad3c6b76e50f0e73b43d48be80cd0",
-      "name": "Reddit (Ondo Tokenized Stock)",
-      "symbol": "RDDTON",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/68585/thumb/rddton_160x160.png?1756129789"
     },
     {
       "chainId": 1,
@@ -13879,14 +13703,6 @@
       "symbol": "TOM",
       "decimals": 9,
       "logoURI": "https://assets.coingecko.com/coins/images/38555/thumb/huyah_%281%29.jpg?1717999187"
-    },
-    {
-      "chainId": 1,
-      "address": "0x3ce219d498d807317f840f4cb0f03fa27dd65046",
-      "name": "PepsiCo (Ondo Tokenized Stock)",
-      "symbol": "PEPON",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/68588/thumb/pepon_160x160.png?1756129807"
     },
     {
       "chainId": 1,
@@ -14138,14 +13954,6 @@
     },
     {
       "chainId": 1,
-      "address": "0x8a23c6baadb88512b30475c83df6a63881e33e1e",
-      "name": "Oracle (Ondo Tokenized Stock)",
-      "symbol": "ORCLON",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/68592/thumb/orclon_160x160.png?1756129828"
-    },
-    {
-      "chainId": 1,
       "address": "0x6d56172da47ad69561a5fb8035763a68598128c9",
       "name": "Dope",
       "symbol": "DOPE",
@@ -14370,14 +14178,6 @@
     },
     {
       "chainId": 1,
-      "address": "0x339ce23a355ed6d513dd3e1462975c4ecd86823a",
-      "name": "Procter & Gamble (Ondo Tokenized Stock)",
-      "symbol": "PGON",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/68593/thumb/pgon_160x160.png?1756129875"
-    },
-    {
-      "chainId": 1,
       "address": "0x661013bb8d1c95d86d9c85f76e9004561f1bb36f",
       "name": "DeFi-Robot",
       "symbol": "DRBT",
@@ -14391,14 +14191,6 @@
       "symbol": "MZM",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/31708/thumb/MZM-200px_%281%29.png?1696530531"
-    },
-    {
-      "chainId": 1,
-      "address": "0x0c666485b02f7a87d21add7aeb9f5e64975aa490",
-      "name": "Palantir Technologies (Ondo Tokenized Stock)",
-      "symbol": "PLTRON",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/68594/thumb/pltron_160x160.png?1756129883"
     },
     {
       "chainId": 1,
@@ -14817,14 +14609,6 @@
     },
     {
       "chainId": 1,
-      "address": "0x3cafdbfe682aec17d5ace2f97a2f3ab3dcf6a4a9",
-      "name": "Taiwan Semiconductor Manufacturing (Ondo Tokenized Stock)",
-      "symbol": "TSMON",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/68598/thumb/tsmon_160x160.png?1756129915"
-    },
-    {
-      "chainId": 1,
       "address": "0xe831f96a7a1dce1aa2eb760b1e296c6a74caa9d5",
       "name": "Nexum",
       "symbol": "NEXM",
@@ -15153,14 +14937,6 @@
     },
     {
       "chainId": 1,
-      "address": "0x34bfdff25f0fda6d3ad0c33f1e06c0d40bd68885",
-      "name": "Palo Alto Networks (Ondo Tokenized Stock)",
-      "symbol": "PANWON",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/68599/thumb/panwon_160x160.png?1756129923"
-    },
-    {
-      "chainId": 1,
       "address": "0xb624960aaad05d433075a5c9e760adec26036934",
       "name": "Monke Coin",
       "symbol": "MONKE",
@@ -15414,14 +15190,6 @@
       "symbol": "HOKK",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/14985/thumb/hokk.png?1696514647"
-    },
-    {
-      "chainId": 1,
-      "address": "0x5d1a9a9b118ff19721e0111f094f2360b6ef7a2f",
-      "name": "Snowflake (Ondo Tokenized Stock)",
-      "symbol": "SNOWON",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/68605/thumb/snowon_160x160.png?1756130024"
     },
     {
       "chainId": 1,
@@ -16833,22 +16601,6 @@
     },
     {
       "chainId": 1,
-      "address": "0x2d1f7226bd1f780af6b9a49dcc0ae00e8df4bdee",
-      "name": "NVIDIA (Ondo Tokenized Stock)",
-      "symbol": "NVDAON",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/68623/thumb/nvdaon_160x160.png?1756130268"
-    },
-    {
-      "chainId": 1,
-      "address": "0x075756f3b6381a79633438faa8964946bf40163d",
-      "name": "UnitedHealth (Ondo Tokenized Stock)",
-      "symbol": "UNHON",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/68624/thumb/unhon_160x160.png?1756130276"
-    },
-    {
-      "chainId": 1,
       "address": "0xb812837b81a3a6b81d7cd74cfb19a7f2784555e5",
       "name": "Microsoft (Ondo Tokenized Stock)",
       "symbol": "MSFTON",
@@ -16886,14 +16638,6 @@
       "symbol": "MOOBIFI",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/32597/thumb/319381e63428d3c2ab6e035d5f3abd76.png?1698682355"
-    },
-    {
-      "chainId": 1,
-      "address": "0x590f21186489ca1612f49a4b1ff5c66acd6796a9",
-      "name": "Spotify (Ondo Tokenized Stock)",
-      "symbol": "SPOTON",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/68627/thumb/spoton_160x160.png?1756130300"
     },
     {
       "chainId": 1,
@@ -16974,14 +16718,6 @@
       "symbol": "WFAI",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/30606/thumb/waifuai.jpg?1696529476"
-    },
-    {
-      "chainId": 1,
-      "address": "0xf6b1117ec07684d3958cad8beb1b302bfd21103f",
-      "name": "Tesla (Ondo Tokenized Stock)",
-      "symbol": "TSLAON",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/68628/thumb/tslaon_160x160.png?1756130306"
     },
     {
       "chainId": 1,
@@ -18893,14 +18629,6 @@
       "symbol": "HUSBY",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/40115/thumb/Copy_of_HUSBY-logo_%28500_x_500_px%29_%28200_x_200_px%29.png?1725829546"
-    },
-    {
-      "chainId": 1,
-      "address": "0x686f2404e77ab0d9070a46cdfb0b7fecdd2318b0",
-      "name": "LORDS",
-      "symbol": "LORDS",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/22171/thumb/Frame_1.png?1696521515"
     },
     {
       "chainId": 1,
@@ -22808,14 +22536,6 @@
     },
     {
       "chainId": 1,
-      "address": "0x590830dfdf9a3f68afcdde2694773debdf267774",
-      "name": "GIZA",
-      "symbol": "GIZA",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/54922/thumb/giza_token_dark.png?1742538409"
-    },
-    {
-      "chainId": 1,
       "address": "0xd8dd38ca016f3e0b3bc545d33cce72af274ce075",
       "name": "Swing.xyz",
       "symbol": "$SWING",
@@ -24885,14 +24605,6 @@
       "symbol": "BCSPX",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/31891/thumb/bCSPX_200p.png?1740041074"
-    },
-    {
-      "chainId": 1,
-      "address": "0x05be1d4c307c19450a6fd7ce7307ce72a3829a60",
-      "name": "International Meme Fund",
-      "symbol": "IMF",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/52031/thumb/imf-coingecko-200px.png?1732365603"
     },
     {
       "chainId": 1,
@@ -28112,14 +27824,6 @@
     },
     {
       "chainId": 1,
-      "address": "0x58412ae274f2764b71c66315d97662d47d930d94",
-      "name": "Nexora",
-      "symbol": "NEX",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/68277/thumb/logo_200x200.png?1755235317"
-    },
-    {
-      "chainId": 1,
       "address": "0xaddb6dc7e2f7caea67621dd3ca2e8321ade33286",
       "name": "Sharp AI [OLD]",
       "symbol": "SHARP",
@@ -29160,6 +28864,14 @@
     },
     {
       "chainId": 1,
+      "address": "0x05be1d4c307c19450a6fd7ce7307ce72a3829a60",
+      "name": "International Meme Fund",
+      "symbol": "IMF",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/52031/thumb/imf-coingecko-200px.png?1732365603"
+    },
+    {
+      "chainId": 1,
       "address": "0x6b8952d61e2cd41a284ffd250deb021a709bdc1c",
       "name": "Syncoin",
       "symbol": "SNC",
@@ -29173,6 +28885,14 @@
       "symbol": "IFO",
       "decimals": 9,
       "logoURI": "https://assets.coingecko.com/coins/images/69187/thumb/IMG_0439.jpeg?1757750623"
+    },
+    {
+      "chainId": 1,
+      "address": "0x80ac24aa929eaf5013f6436cda2a7ba190f5cc0b",
+      "name": "Syrup USDC",
+      "symbol": "SYRUPUSDC",
+      "decimals": 6,
+      "logoURI": "https://assets.coingecko.com/coins/images/54658/thumb/SyrupUSDCO.png?1748850129"
     },
     {
       "chainId": 1,
@@ -29568,6 +29288,14 @@
     },
     {
       "chainId": 1,
+      "address": "0x590830dfdf9a3f68afcdde2694773debdf267774",
+      "name": "GIZA",
+      "symbol": "GIZA",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/54922/thumb/giza_token_dark.png?1742538409"
+    },
+    {
+      "chainId": 1,
       "address": "0xa0b73e1ff0b80914ab6fe0444e65848c4c34450b",
       "name": "Cronos",
       "symbol": "CRO",
@@ -29808,6 +29536,14 @@
     },
     {
       "chainId": 1,
+      "address": "0x686f2404e77ab0d9070a46cdfb0b7fecdd2318b0",
+      "name": "LORDS",
+      "symbol": "LORDS",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/22171/thumb/Frame_1.png?1696521515"
+    },
+    {
+      "chainId": 1,
       "address": "0x8db036f007841c21b97eff7dfc2c187241d59baf",
       "name": "CyberKongz",
       "symbol": "KONG",
@@ -29853,6 +29589,14 @@
       "symbol": "INJ",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/12882/thumb/Other_200x200.png?1738782212"
+    },
+    {
+      "chainId": 1,
+      "address": "0x74697d4fd0536c6885334b11d5c6dbf58729369f",
+      "name": "NEKO",
+      "symbol": "NEKO",
+      "decimals": 9,
+      "logoURI": "https://assets.coingecko.com/coins/images/70024/thumb/9f57b00b-88df-4174-9711-8825907f766d.jpeg?1760437249"
     },
     {
       "chainId": 1,
@@ -31352,14 +31096,6 @@
     },
     {
       "chainId": 1,
-      "address": "0x80ac24aa929eaf5013f6436cda2a7ba190f5cc0b",
-      "name": "Syrup USDC",
-      "symbol": "SYRUPUSDC",
-      "decimals": 6,
-      "logoURI": "https://assets.coingecko.com/coins/images/54658/thumb/SyrupUSDCO.png?1748850129"
-    },
-    {
-      "chainId": 1,
       "address": "0x3593d125a4f7849a1b059e64f4517a86dd60c95d",
       "name": "MANTRA",
       "symbol": "OM",
@@ -31704,11 +31440,35 @@
     },
     {
       "chainId": 1,
+      "address": "0x58412ae274f2764b71c66315d97662d47d930d94",
+      "name": "Nexora",
+      "symbol": "NEX",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/68277/thumb/logo_200x200.png?1755235317"
+    },
+    {
+      "chainId": 1,
       "address": "0xfb70859efec2ceb84dd4935a0842aa69290020bc",
       "name": "Pairs",
       "symbol": "PAIRS",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/55557/thumb/3F_G-jM8_400x400.jpg?1746672246"
+    },
+    {
+      "chainId": 1,
+      "address": "0x075756f3b6381a79633438faa8964946bf40163d",
+      "name": "UnitedHealth (Ondo Tokenized Stock)",
+      "symbol": "UNHON",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/68624/thumb/unhon_160x160.png?1756130276"
+    },
+    {
+      "chainId": 1,
+      "address": "0x3cafdbfe682aec17d5ace2f97a2f3ab3dcf6a4a9",
+      "name": "Taiwan Semiconductor Manufacturing (Ondo Tokenized Stock)",
+      "symbol": "TSMON",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/68598/thumb/tsmon_160x160.png?1756129915"
     },
     {
       "chainId": 1,
@@ -31720,11 +31480,107 @@
     },
     {
       "chainId": 1,
+      "address": "0xf6b1117ec07684d3958cad8beb1b302bfd21103f",
+      "name": "Tesla (Ondo Tokenized Stock)",
+      "symbol": "TSLAON",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/68628/thumb/tslaon_160x160.png?1756130306"
+    },
+    {
+      "chainId": 1,
+      "address": "0xab02fc332e9278ebcbbc6b4a8038050c01d15f69",
+      "name": "Toyota (Ondo Tokenized Stock)",
+      "symbol": "TMON",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/68583/thumb/tmon_160x160.png?1756129775"
+    },
+    {
+      "chainId": 1,
+      "address": "0x992651bfeb9a0dcc4457610e284ba66d86489d4d",
+      "name": "iShares 20+ Year Treasury Bond ETF (Ondo Tokenized ETF)",
+      "symbol": "TLTON",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/68647/thumb/tlton_160x160.png?1756156198"
+    },
+    {
+      "chainId": 1,
+      "address": "0x2df38ca485d01fc15e4fd85847ed26b7ef871c1c",
+      "name": "iShares TIPS Bond ETF (Ondo Tokenized ETF)",
+      "symbol": "TIPON",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/68542/thumb/tipon_160x160.png?1756105129"
+    },
+    {
+      "chainId": 1,
+      "address": "0xfedc5f4a6c38211c1338aa411018dfaf26612c08",
+      "name": "SPDR S&P 500 ETF (Ondo Tokenized ETF)",
+      "symbol": "SPYON",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/68655/thumb/spyon_160x160.png?1756156354"
+    },
+    {
+      "chainId": 1,
+      "address": "0x590f21186489ca1612f49a4b1ff5c66acd6796a9",
+      "name": "Spotify (Ondo Tokenized Stock)",
+      "symbol": "SPOTON",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/68627/thumb/spoton_160x160.png?1756130300"
+    },
+    {
+      "chainId": 1,
       "address": "0x8c6bf16c273636523c29db7db04396143770f6a0",
       "name": "Moon Rabbit",
       "symbol": "AAA",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/17310/thumb/logo_moon_no_inscriptions-01.png?1696516863"
+    },
+    {
+      "chainId": 1,
+      "address": "0x5d1a9a9b118ff19721e0111f094f2360b6ef7a2f",
+      "name": "Snowflake (Ondo Tokenized Stock)",
+      "symbol": "SNOWON",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/68605/thumb/snowon_160x160.png?1756130024"
+    },
+    {
+      "chainId": 1,
+      "address": "0x2ca12a3f9635fd69c21580def14f25c210ca9612",
+      "name": "Super Micro Computer (Ondo Tokenized Stock)",
+      "symbol": "SMCION",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/68559/thumb/smcion_160x160.png?1756105887"
+    },
+    {
+      "chainId": 1,
+      "address": "0xf3e4872e6a4cf365888d93b6146a2baa7348f1a4",
+      "name": "iShares Silver Trust (Ondo Tokenized Stock)",
+      "symbol": "SLVON",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/68651/thumb/slvon_160x160.png?1756156286"
+    },
+    {
+      "chainId": 1,
+      "address": "0x908266c1192628371cff7ad2f5eba4de061a0ac5",
+      "name": "Shopify (Ondo Tokenized Stock)",
+      "symbol": "SHOPON",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/68584/thumb/shopon_160x160.png?1756129783"
+    },
+    {
+      "chainId": 1,
+      "address": "0xf15fbc1349ab99abad63db3f9a510bf413be3bef",
+      "name": "Starbucks (Ondo Tokenized Stock)",
+      "symbol": "SBUXON",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/68564/thumb/sbuxon_160x160.png?1756106053"
+    },
+    {
+      "chainId": 1,
+      "address": "0xfdb46864a7c476f0914c5e82cded3364a9f56f8a",
+      "name": "SharpLink Gaming, Inc (Ondo Tokenized Stock)",
+      "symbol": "SBETON",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/68657/thumb/sbeton_160x160.png?1756156393"
     },
     {
       "chainId": 1,
@@ -31752,11 +31608,67 @@
     },
     {
       "chainId": 1,
+      "address": "0x21deafd91116fce9fe87c8f15bde03f99a309b72",
+      "name": "Riot Platforms (Ondo Tokenized Stock)",
+      "symbol": "RIOTON",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/68547/thumb/rioton_160x160.png?1756105446"
+    },
+    {
+      "chainId": 1,
+      "address": "0x0e397938c1aa0680954093495b70a9f5e2249aba",
+      "name": "Invesco QQQ ETF (Ondo Tokenized ETF)",
+      "symbol": "QQQON",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/68654/thumb/qqqon_160x160.png?1756156339"
+    },
+    {
+      "chainId": 1,
+      "address": "0x3807562a482b824c08a564dfefcc471806d3e00a",
+      "name": "D-Wave Quantum (Ondo Tokenized Stock)",
+      "symbol": "QBTSON",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/68541/thumb/qbtson_160x160.png?1756105094"
+    },
+    {
+      "chainId": 1,
       "address": "0x808507121b80c02388fad14726482e061b8da827",
       "name": "Pendle",
       "symbol": "PENDLE",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/15069/thumb/Pendle_Logo_Normal-03.png?1696514728"
+    },
+    {
+      "chainId": 1,
+      "address": "0x4efd92f372898b57f292de69fce377dd7d912bdd",
+      "name": "PayPal (Ondo Tokenized Stock)",
+      "symbol": "PYPLON",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/68551/thumb/pyplon_160x160.png?1756105622"
+    },
+    {
+      "chainId": 1,
+      "address": "0x0c666485b02f7a87d21add7aeb9f5e64975aa490",
+      "name": "Palantir Technologies (Ondo Tokenized Stock)",
+      "symbol": "PLTRON",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/68594/thumb/pltron_160x160.png?1756129883"
+    },
+    {
+      "chainId": 1,
+      "address": "0x339ce23a355ed6d513dd3e1462975c4ecd86823a",
+      "name": "Procter & Gamble (Ondo Tokenized Stock)",
+      "symbol": "PGON",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/68593/thumb/pgon_160x160.png?1756129875"
+    },
+    {
+      "chainId": 1,
+      "address": "0x06954faa913fa14c28eb1b2e459594f22f33f3de",
+      "name": "Pfizer (Ondo Tokenized Stock)",
+      "symbol": "PFEON",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/68549/thumb/pfeon_160x160.png?1756105512"
     },
     {
       "chainId": 1,
@@ -31776,11 +31688,67 @@
     },
     {
       "chainId": 1,
+      "address": "0x3ce219d498d807317f840f4cb0f03fa27dd65046",
+      "name": "PepsiCo (Ondo Tokenized Stock)",
+      "symbol": "PEPON",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/68588/thumb/pepon_160x160.png?1756129807"
+    },
+    {
+      "chainId": 1,
+      "address": "0xd08ddb436e731f32455fe302723ee0fd2e9e8706",
+      "name": "Petrobras (Ondo Tokenized Stock)",
+      "symbol": "PBRON",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/68545/thumb/pbron_160x160.png?1756105320"
+    },
+    {
+      "chainId": 1,
       "address": "0x4278a8944cf63753b13e9f726bbc1192412988d8",
       "name": "1984",
       "symbol": "1984",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/51918/thumb/8e6f199cc5c210ac9f86eded3d12066.jpg?1732181027"
+    },
+    {
+      "chainId": 1,
+      "address": "0x34bfdff25f0fda6d3ad0c33f1e06c0d40bd68885",
+      "name": "Palo Alto Networks (Ondo Tokenized Stock)",
+      "symbol": "PANWON",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/68599/thumb/panwon_160x160.png?1756129923"
+    },
+    {
+      "chainId": 1,
+      "address": "0x8a23c6baadb88512b30475c83df6a63881e33e1e",
+      "name": "Oracle (Ondo Tokenized Stock)",
+      "symbol": "ORCLON",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/68592/thumb/orclon_160x160.png?1756129828"
+    },
+    {
+      "chainId": 1,
+      "address": "0x28151f5888833d3d767c4d6945a0ee50d1b193e3",
+      "name": "Novo Nordisk (Ondo Tokenized Stock)",
+      "symbol": "NVOON",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/68554/thumb/nvoon_160x160.png?1756105715"
+    },
+    {
+      "chainId": 1,
+      "address": "0x2d1f7226bd1f780af6b9a49dcc0ae00e8df4bdee",
+      "name": "NVIDIA (Ondo Tokenized Stock)",
+      "symbol": "NVDAON",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/68623/thumb/nvdaon_160x160.png?1756130268"
+    },
+    {
+      "chainId": 1,
+      "address": "0x8bcf9012f4b0c1c3d359edb7133c294f82f80790",
+      "name": "ServiceNow (Ondo Tokenized Stock)",
+      "symbol": "NOWON",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/68644/thumb/nowon_160x160.png?1756156127"
     },
     {
       "chainId": 1,
@@ -31800,11 +31768,35 @@
     },
     {
       "chainId": 1,
+      "address": "0xd8e26fcc879b30cb0a0b543925a2b3500f074d81",
+      "name": "Nike (Ondo Tokenized Stock)",
+      "symbol": "NKEON",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/68556/thumb/nkeon_160x160.png?1756105802"
+    },
+    {
+      "chainId": 1,
+      "address": "0x032dec3372f25c41ea8054b4987a7c4832cdb338",
+      "name": "Netflix (Ondo Tokenized Stock)",
+      "symbol": "NFLXON",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/68649/thumb/nflxon_160x160.png?1756156245"
+    },
+    {
+      "chainId": 1,
       "address": "0x1c95519d3fc922fc04fcf5d099be4a1ed8b15240",
       "name": "My life as Grok",
       "symbol": "GROK",
       "decimals": 9,
       "logoURI": "https://assets.coingecko.com/coins/images/55046/thumb/photo_2025-03-29_19-46-10.jpg?1743434260"
+    },
+    {
+      "chainId": 1,
+      "address": "0x050362ab1072cb2ce74d74770e22a3203ad04ee5",
+      "name": "Micron Technology (Ondo Tokenized Stock)",
+      "symbol": "MUON",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/68574/thumb/muon_160x160.png?1756106401"
     },
     {
       "chainId": 1,
@@ -31821,6 +31813,30 @@
       "symbol": "CRV",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/12124/thumb/Curve.png?1696511967"
+    },
+    {
+      "chainId": 1,
+      "address": "0xcabd955322dfbf94c084929ac5e9eca3feb5556f",
+      "name": "MicroStrategy (Ondo Tokenized Stock)",
+      "symbol": "MSTRON",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/68530/thumb/mstron_160x160.png?1756100941"
+    },
+    {
+      "chainId": 1,
+      "address": "0xf404e5f887dbd5508e16a1198fcdd5de1a4296b8",
+      "name": "Marvell Technology (Ondo Tokenized Stock)",
+      "symbol": "MRVLON",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/68560/thumb/mrvlon_160x160.png?1756105919"
+    },
+    {
+      "chainId": 1,
+      "address": "0x59644165402b611b350645555b50afb581c71eb2",
+      "name": "Meta Platforms (Ondo Tokenized Stock)",
+      "symbol": "METAON",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/68645/thumb/metaon_160x160.png?1756156152"
     },
     {
       "chainId": 1,
@@ -31845,6 +31861,14 @@
       "symbol": "FORT",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/25060/thumb/Forta_lgo_%281%29.png?1696524210"
+    },
+    {
+      "chainId": 1,
+      "address": "0x2816169a49953c548bfeb3948dcf05c4a0e4657d",
+      "name": "MercadoLibre (Ondo Tokenized Stock)",
+      "symbol": "MELION",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/68652/thumb/melion_160x160.png?1756156305"
     },
     {
       "chainId": 1,
@@ -41632,7 +41656,7 @@
     {
       "chainId": 1,
       "address": "0xcbb8f1bda10b9696c57e13bc128fe674769dcec0",
-      "name": "MorpheusAI",
+      "name": "Morpheus AI",
       "symbol": "MOR",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/37969/thumb/MOR200X200.png?1716327119"
@@ -42139,7 +42163,7 @@
       "name": "Seedify.fund",
       "symbol": "SFUND",
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/14614/thumb/Favicon_Icon.png?1696514292"
+      "logoURI": "https://assets.coingecko.com/coins/images/14614/thumb/Seedify__X_PFP_-25.png?1760455636"
     },
     {
       "chainId": 1,
@@ -43535,14 +43559,6 @@
     },
     {
       "chainId": 1,
-      "address": "0xf9fa60ef4f23f00cce403cc4d2c11baf4880a0d6",
-      "name": "FARCANA",
-      "symbol": "FAR",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/34690/thumb/logo_far_black_short.png?1705853311"
-    },
-    {
-      "chainId": 1,
       "address": "0x6ab4ce36260f201e4e2391eca2fd7538f71e4131",
       "name": "Flourishing AI",
       "symbol": "AI",
@@ -43564,6 +43580,14 @@
       "symbol": "BITB.D",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/53863/thumb/d-token-200.png?1737614680"
+    },
+    {
+      "chainId": 1,
+      "address": "0xf9fa60ef4f23f00cce403cc4d2c11baf4880a0d6",
+      "name": "FARCANA",
+      "symbol": "FAR",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/34690/thumb/logo_far_black_short.png?1705853311"
     },
     {
       "chainId": 1,
@@ -43776,7 +43800,7 @@
   ],
   "version": {
     "major": 1157,
-    "minor": 0,
-    "patch": 0
+    "minor": 2,
+    "patch": 1
   }
 }
