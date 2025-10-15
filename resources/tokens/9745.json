@@ -4,8 +4,16 @@
   "keywords": [
     "defi"
   ],
-  "timestamp": "2025-10-12T08:00:04.108+00:00",
+  "timestamp": "2025-10-15T11:00:02.959+00:00",
   "tokens": [
+    {
+      "chainId": 9745,
+      "address": "0xdfad3b638fb77ccbd0712516877541cf7fa3341e",
+      "name": "Fuseon",
+      "symbol": "FUS",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/69507/thumb/Logo_simple_HD.png?1758805050"
+    },
     {
       "chainId": 9745,
       "address": "0x92a01ab7317ac318b39b00eb6704ba56f0245d7a",
@@ -13,14 +21,6 @@
       "symbol": "TRILLIONS",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/69560/thumb/trillions.png?1759039612"
-    },
-    {
-      "chainId": 9745,
-      "address": "0x6100e367285b01f48d07953803a2d8dca5d19873",
-      "name": "Wrapped XPL",
-      "symbol": "WXPL",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/69509/thumb/plasma.png?1758805469"
     },
     {
       "chainId": 9745,
@@ -32,19 +32,11 @@
     },
     {
       "chainId": 9745,
-      "address": "0xdfad3b638fb77ccbd0712516877541cf7fa3341e",
-      "name": "Fuseon",
-      "symbol": "FUS",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/69507/thumb/Logo_simple_HD.png?1758805050"
-    },
-    {
-      "chainId": 9745,
-      "address": "0xc63f1a8c0cd4493e18f6f3371182be01ce0bef02",
-      "name": "Wrapped Aave Plasma USDe",
-      "symbol": "WAPLAUSDE",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/69605/thumb/waplausde.png?1759216970"
+      "address": "0xc4374775489cb9c56003bf2c9b12495fc64f0771",
+      "name": "syrupUSDT",
+      "symbol": "SYRUPUSDT",
+      "decimals": 6,
+      "logoURI": "https://assets.coingecko.com/coins/images/69514/thumb/SyrupUSDT.png?1758823529"
     },
     {
       "chainId": 9745,
@@ -56,19 +48,27 @@
     },
     {
       "chainId": 9745,
-      "address": "0xc4374775489cb9c56003bf2c9b12495fc64f0771",
-      "name": "syrupUSDT",
-      "symbol": "SYRUPUSDT",
-      "decimals": 6,
-      "logoURI": "https://assets.coingecko.com/coins/images/69514/thumb/SyrupUSDT.png?1758823529"
-    },
-    {
-      "chainId": 9745,
       "address": "0x7bb14c42cab94b758b3f580dc19e7542a122b079",
       "name": "trillions Strategy",
       "symbol": "TSTR",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/69596/thumb/logotSTR.png?1759182557"
+    },
+    {
+      "chainId": 9745,
+      "address": "0xc63f1a8c0cd4493e18f6f3371182be01ce0bef02",
+      "name": "Wrapped Aave Plasma USDe",
+      "symbol": "WAPLAUSDE",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/69605/thumb/waplausde.png?1759216970"
+    },
+    {
+      "chainId": 9745,
+      "address": "0x6100e367285b01f48d07953803a2d8dca5d19873",
+      "name": "Wrapped XPL",
+      "symbol": "WXPL",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/69509/thumb/plasma.png?1758805469"
     },
     {
       "chainId": 9745,
@@ -152,6 +152,14 @@
     },
     {
       "chainId": 9745,
+      "address": "0x35533f54740f1f1aa4179e57ba37039dfa16868b",
+      "name": "Resolv Liquidity Provider Token",
+      "symbol": "RLP",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/40017/thumb/orangeLogo..png?1725344586"
+    },
+    {
+      "chainId": 9745,
       "address": "0x6eaf19b2fc24552925db245f9ff613157a7dbb4c",
       "name": "Staked Stream USD",
       "symbol": "XUSD",
@@ -185,7 +193,7 @@
   ],
   "version": {
     "major": 0,
-    "minor": 8,
+    "minor": 9,
     "patch": 0
   }
 }

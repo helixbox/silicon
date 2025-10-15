@@ -4,7 +4,7 @@
   "keywords": [
     "defi"
   ],
-  "timestamp": "2025-10-09T16:00:24.749+00:00",
+  "timestamp": "2025-10-15T11:00:25.126+00:00",
   "tokens": [
     {
       "chainId": 1868,
@@ -13,6 +13,38 @@
       "symbol": "SONE",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/53814/thumb/20250116-173015.png?1737432919"
+    },
+    {
+      "chainId": 1868,
+      "address": "0x3b0dc2dac9498a024003609031d973b1171de09e",
+      "name": "Wrapped stASTR",
+      "symbol": "WSTASTR",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/54782/thumb/wstASTR.png?1741570094"
+    },
+    {
+      "chainId": 1868,
+      "address": "0xba9986d2381edf1da03b0b9c1f8b00dc4aacc369",
+      "name": "Soneium Bridged USDC (Soneium)",
+      "symbol": "USDC.E",
+      "decimals": 6,
+      "logoURI": "https://assets.coingecko.com/coins/images/53776/thumb/usdc.jpg?1737340150"
+    },
+    {
+      "chainId": 1868,
+      "address": "0xa8feaae65c44b458a16ea4e709036a2ee85d073a",
+      "name": "Mother of Memes",
+      "symbol": "HAHA",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/36245/thumb/HAHA_Logo.png?1710921482"
+    },
+    {
+      "chainId": 1868,
+      "address": "0x2cae934a1e84f693fbb78ca5ed3b0a6893259441",
+      "name": "Soneium Bridged ASTR (Soneium)",
+      "symbol": "ASTR",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/53778/thumb/astar.jpg?1737341226"
     },
     {
       "chainId": 1868,
@@ -29,38 +61,6 @@
       "symbol": "VASTR",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/34706/thumb/vASTR.png?1705893008"
-    },
-    {
-      "chainId": 1868,
-      "address": "0x2cae934a1e84f693fbb78ca5ed3b0a6893259441",
-      "name": "Soneium Bridged ASTR (Soneium)",
-      "symbol": "ASTR",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/53778/thumb/astar.jpg?1737341226"
-    },
-    {
-      "chainId": 1868,
-      "address": "0x3b0dc2dac9498a024003609031d973b1171de09e",
-      "name": "Wrapped stASTR",
-      "symbol": "WSTASTR",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/54782/thumb/wstASTR.png?1741570094"
-    },
-    {
-      "chainId": 1868,
-      "address": "0xa8feaae65c44b458a16ea4e709036a2ee85d073a",
-      "name": "Mother of Memes",
-      "symbol": "HAHA",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/36245/thumb/HAHA_Logo.png?1710921482"
-    },
-    {
-      "chainId": 1868,
-      "address": "0xba9986d2381edf1da03b0b9c1f8b00dc4aacc369",
-      "name": "Soneium Bridged USDC (Soneium)",
-      "symbol": "USDC.E",
-      "decimals": 6,
-      "logoURI": "https://assets.coingecko.com/coins/images/53776/thumb/usdc.jpg?1737340150"
     },
     {
       "chainId": 1868,
@@ -193,7 +193,7 @@
     {
       "chainId": 1868,
       "address": "0x35533f54740f1f1aa4179e57ba37039dfa16868b",
-      "name": "Resolv RLP",
+      "name": "Resolv Liquidity Provider Token",
       "symbol": "RLP",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/40017/thumb/orangeLogo..png?1725344586"
@@ -234,6 +234,6 @@
   "version": {
     "major": 1,
     "minor": 5,
-    "patch": 4
+    "patch": 5
   }
 }
