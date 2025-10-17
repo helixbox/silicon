@@ -4,7 +4,7 @@
   "keywords": [
     "defi"
   ],
-  "timestamp": "2025-10-16T09:00:22.696+00:00",
+  "timestamp": "2025-10-17T07:00:23.609+00:00",
   "tokens": [
     {
       "chainId": 39797,
@@ -32,6 +32,14 @@
     },
     {
       "chainId": 39797,
+      "address": "0xa55f26319462355474a9f2c8790860776a329aa4",
+      "name": "Wrapped Energi",
+      "symbol": "WNRG",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/25462/thumb/Energi.jpeg?1696524592"
+    },
+    {
+      "chainId": 39797,
       "address": "0x0f46fe95a8d6573990118aee8b7ac9a3532f5963",
       "name": "Energi Dollar",
       "symbol": "USDE",
@@ -45,14 +53,6 @@
       "symbol": "ESOL",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/50310/thumb/sol.png?1727071737"
-    },
-    {
-      "chainId": 39797,
-      "address": "0xa55f26319462355474a9f2c8790860776a329aa4",
-      "name": "Wrapped Energi",
-      "symbol": "WNRG",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/25462/thumb/Energi.jpeg?1696524592"
     },
     {
       "chainId": 39797,
@@ -504,14 +504,6 @@
     },
     {
       "chainId": 39797,
-      "address": "0x98997e1651919faeacee7b96afbb3dfd96cb6036",
-      "name": "MATIC (migrated to POL)",
-      "symbol": "MATIC",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/4713/thumb/polygon.png?1698233745"
-    },
-    {
-      "chainId": 39797,
       "address": "0x9594e7431144e80178b1bc6849edcba7d2d5bb27",
       "name": "Mainframe",
       "symbol": "MFT",
@@ -920,8 +912,8 @@
     }
   ],
   "version": {
-    "major": 10,
+    "major": 11,
     "minor": 0,
-    "patch": 3
+    "patch": 0
   }
 }

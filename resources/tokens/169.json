@@ -4,38 +4,15 @@
   "keywords": [
     "defi"
   ],
-  "timestamp": "2025-10-10T10:00:11.161+00:00",
+  "timestamp": "2025-10-17T10:00:11.064+00:00",
   "tokens": [
     {
       "chainId": 169,
-      "address": "0x649d4524897ce85a864dc2a2d5a11adb3044f44a",
-      "name": "Manta mUSD",
-      "symbol": "MUSD",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/38336/thumb/token_m_usd.png?1717126272"
-    },
-    {
-      "chainId": 169,
-      "address": "0x9582b518d28dc65945f8151c25e44a4e80504205",
-      "name": "GULL",
-      "symbol": "GULL",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/51373/thumb/gulllogo.png?1730938086"
-    },
-    {
-      "chainId": 169,
-      "address": "0x0f52a51287f9b3894d73df05164d0ee2533ccbb4",
-      "name": "Bridged MATIC (Manta Pacific)",
-      "symbol": "MATIC",
-      "decimals": 18
-    },
-    {
-      "chainId": 169,
-      "address": "0x2fe3ad97a60eb7c79a976fc18bb5ffd07dd94ba5",
-      "name": "Bridged Wrapped stETH (Manta Pacific)",
-      "symbol": "WSTETH",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/32218/thumb/wstETH.png?1696832978"
+      "address": "0x305e88d809c9dc03179554bfbf85ac05ce8f18d6",
+      "name": "Bridged Wrapped Bitcoin (Manta Pacific)",
+      "symbol": "WBTC",
+      "decimals": 8,
+      "logoURI": "https://assets.coingecko.com/coins/images/32217/thumb/wbtc_%281%29.png?1696832481"
     },
     {
       "chainId": 169,
@@ -47,27 +24,35 @@
     },
     {
       "chainId": 169,
-      "address": "0xf417f5a458ec102b90352f697d6e2ac3a3d2851f",
-      "name": "Bridged Tether (Manta Pacific)",
-      "symbol": "USDT",
-      "decimals": 6,
-      "logoURI": "https://assets.coingecko.com/coins/images/32214/thumb/usdt_%281%29.png?1696831809"
-    },
-    {
-      "chainId": 169,
-      "address": "0x305e88d809c9dc03179554bfbf85ac05ce8f18d6",
-      "name": "Bridged Wrapped Bitcoin (Manta Pacific)",
-      "symbol": "WBTC",
-      "decimals": 8,
-      "logoURI": "https://assets.coingecko.com/coins/images/32217/thumb/wbtc_%281%29.png?1696832481"
-    },
-    {
-      "chainId": 169,
-      "address": "0x95cef13441be50d20ca4558cc0a27b601ac544e5",
-      "name": "Manta Network",
-      "symbol": "MANTA",
+      "address": "0x41c49790967067a71f893b51f2f311ace46fb773",
+      "name": "CirclePacific",
+      "symbol": "CIRCLE",
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/34289/thumb/manta.jpg?1704468717"
+      "logoURI": "https://assets.coingecko.com/coins/images/34757/thumb/logo.png?1705981096"
+    },
+    {
+      "chainId": 169,
+      "address": "0x649d4524897ce85a864dc2a2d5a11adb3044f44a",
+      "name": "Manta mUSD",
+      "symbol": "MUSD",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/38336/thumb/token_m_usd.png?1717126272"
+    },
+    {
+      "chainId": 169,
+      "address": "0x2fe3ad97a60eb7c79a976fc18bb5ffd07dd94ba5",
+      "name": "Bridged Wrapped stETH (Manta Pacific)",
+      "symbol": "WSTETH",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/32218/thumb/wstETH.png?1696832978"
+    },
+    {
+      "chainId": 169,
+      "address": "0x9582b518d28dc65945f8151c25e44a4e80504205",
+      "name": "GULL",
+      "symbol": "GULL",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/51373/thumb/gulllogo.png?1730938086"
     },
     {
       "chainId": 169,
@@ -87,11 +72,18 @@
     },
     {
       "chainId": 169,
-      "address": "0x00c6af82abfddc5e1b8f376f954eb4f4dfff31c5",
-      "name": "MyanCat Coin",
-      "symbol": "MYAN",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/39735/thumb/Myancat_coin__1.png?1723779288"
+      "address": "0xf417f5a458ec102b90352f697d6e2ac3a3d2851f",
+      "name": "Bridged Tether (Manta Pacific)",
+      "symbol": "USDT",
+      "decimals": 6,
+      "logoURI": "https://assets.coingecko.com/coins/images/32214/thumb/usdt_%281%29.png?1696831809"
+    },
+    {
+      "chainId": 169,
+      "address": "0x0f52a51287f9b3894d73df05164d0ee2533ccbb4",
+      "name": "Bridged MATIC (Manta Pacific)",
+      "symbol": "MATIC",
+      "decimals": 18
     },
     {
       "chainId": 169,
@@ -100,14 +92,6 @@
       "symbol": "WETH",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/32212/thumb/wETH_32.png?1696817415"
-    },
-    {
-      "chainId": 169,
-      "address": "0x41c49790967067a71f893b51f2f311ace46fb773",
-      "name": "CirclePacific",
-      "symbol": "CIRCLE",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/34757/thumb/logo.png?1705981096"
     },
     {
       "chainId": 169,
@@ -124,6 +108,14 @@
       "symbol": "METH",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/38337/thumb/token_m_eth.png?1717126380"
+    },
+    {
+      "chainId": 169,
+      "address": "0x95cef13441be50d20ca4558cc0a27b601ac544e5",
+      "name": "Manta Network",
+      "symbol": "MANTA",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/34289/thumb/manta.jpg?1704468717"
     },
     {
       "chainId": 169,
@@ -271,7 +263,7 @@
     }
   ],
   "version": {
-    "major": 11,
+    "major": 12,
     "minor": 0,
     "patch": 0
   }

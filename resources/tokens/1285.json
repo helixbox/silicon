@@ -4,7 +4,7 @@
   "keywords": [
     "defi"
   ],
-  "timestamp": "2025-10-16T10:00:29.295+00:00",
+  "timestamp": "2025-10-17T06:00:30.549+00:00",
   "tokens": [
     {
       "chainId": 1285,
@@ -72,6 +72,14 @@
     },
     {
       "chainId": 1285,
+      "address": "0x98878b06940ae243284ca214f92bb71a2b032b8a",
+      "name": "Moonriver",
+      "symbol": "MOVR",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/17984/thumb/Moonriver_MOVR_ICON.png?1716647589"
+    },
+    {
+      "chainId": 1285,
       "address": "0x2bf9b864cdc97b08b6d79ad4663e71b8ab65c45c",
       "name": "Multichain Bridged WBNB (Moonriver)",
       "symbol": "WBNB",
@@ -85,14 +93,6 @@
       "symbol": "DAI",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/39817/thumb/dai.png?1724190493"
-    },
-    {
-      "chainId": 1285,
-      "address": "0x98878b06940ae243284ca214f92bb71a2b032b8a",
-      "name": "Moonriver",
-      "symbol": "MOVR",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/17984/thumb/Moonriver_MOVR_ICON.png?1716647589"
     },
     {
       "chainId": 1285,
@@ -207,14 +207,6 @@
     },
     {
       "chainId": 1285,
-      "address": "0x682f81e57eaa716504090c3ecba8595fb54561d8",
-      "name": "MATIC (migrated to POL)",
-      "symbol": "MATIC",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/4713/thumb/polygon.png?1698233745"
-    },
-    {
-      "chainId": 1285,
       "address": "0x1a93b23281cc1cde4c4741353f3064709a16197d",
       "name": "Legacy Frax Dollar",
       "symbol": "FRAX",
@@ -231,8 +223,8 @@
     }
   ],
   "version": {
-    "major": 3,
-    "minor": 2,
-    "patch": 3
+    "major": 4,
+    "minor": 0,
+    "patch": 0
   }
 }

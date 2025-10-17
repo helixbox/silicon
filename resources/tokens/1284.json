@@ -4,8 +4,16 @@
   "keywords": [
     "defi"
   ],
-  "timestamp": "2025-10-16T10:00:45.151+00:00",
+  "timestamp": "2025-10-17T06:00:45.820+00:00",
   "tokens": [
+    {
+      "chainId": 1284,
+      "address": "0xffffffffea09fb06d082fd1275cd48b191cbcd1d",
+      "name": "xcUSDT",
+      "symbol": "XCUSDT",
+      "decimals": 6,
+      "logoURI": "https://assets.coingecko.com/coins/images/29019/thumb/usdt.png?1696527990"
+    },
     {
       "chainId": 1284,
       "address": "0xffffffff43b4560bc0c451a3386e082bff50ac90",
@@ -13,14 +21,6 @@
       "symbol": "SUB",
       "decimals": 10,
       "logoURI": "https://assets.coingecko.com/coins/images/15880/thumb/icon___gradient_1.png?1696515495"
-    },
-    {
-      "chainId": 1284,
-      "address": "0xe8e8bd89a429526561e1283cb789719864ffd0b4",
-      "name": "Gu",
-      "symbol": "GU",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/68189/thumb/GU-logo.png?1755024305"
     },
     {
       "chainId": 1284,
@@ -40,27 +40,11 @@
     },
     {
       "chainId": 1284,
-      "address": "0xffffffffea09fb06d082fd1275cd48b191cbcd1d",
-      "name": "xcUSDT",
-      "symbol": "XCUSDT",
-      "decimals": 6,
-      "logoURI": "https://assets.coingecko.com/coins/images/29019/thumb/usdt.png?1696527990"
-    },
-    {
-      "chainId": 1284,
       "address": "0x6021d2c27b6fbd6e7608d1f39b41398caee2f824",
       "name": "Cypress",
       "symbol": "CP",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/35286/thumb/photo_2024-12-05_05-17-52.jpg?1733694753"
-    },
-    {
-      "chainId": 1284,
-      "address": "0xffffffff1fcacbd218edc0eba20fc2308c778080",
-      "name": "xcDOT",
-      "symbol": "DOT",
-      "decimals": 10,
-      "logoURI": "https://assets.coingecko.com/coins/images/26044/thumb/polkadot-asset_32.png?1696525125"
     },
     {
       "chainId": 1284,
@@ -72,11 +56,11 @@
     },
     {
       "chainId": 1284,
-      "address": "0x8f552a71efe5eefc207bf75485b356a0b3f01ec9",
-      "name": "Nomad Bridged USDC (Moonbeam)",
-      "symbol": "USDC",
-      "decimals": 6,
-      "logoURI": "https://assets.coingecko.com/coins/images/35231/thumb/USDC.jpg?1707925331"
+      "address": "0x511ab53f793683763e5a8829738301368a2411e3",
+      "name": "Moonwell",
+      "symbol": "WELL",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/26133/thumb/WELL.png?1696525221"
     },
     {
       "chainId": 1284,
@@ -88,11 +72,35 @@
     },
     {
       "chainId": 1284,
+      "address": "0xe8e8bd89a429526561e1283cb789719864ffd0b4",
+      "name": "Gu",
+      "symbol": "GU",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/68189/thumb/GU-logo.png?1755024305"
+    },
+    {
+      "chainId": 1284,
+      "address": "0x8f552a71efe5eefc207bf75485b356a0b3f01ec9",
+      "name": "Nomad Bridged USDC (Moonbeam)",
+      "symbol": "USDC",
+      "decimals": 6,
+      "logoURI": "https://assets.coingecko.com/coins/images/35231/thumb/USDC.jpg?1707925331"
+    },
+    {
+      "chainId": 1284,
       "address": "0xbc7e02c4178a7df7d3e564323a5c359dc96c4db4",
       "name": "StellaSwap Staked DOT",
       "symbol": "STDOT",
       "decimals": 10,
       "logoURI": "https://assets.coingecko.com/coins/images/33872/thumb/stDOT.png?1703132036"
+    },
+    {
+      "chainId": 1284,
+      "address": "0xffffffff1fcacbd218edc0eba20fc2308c778080",
+      "name": "xcDOT",
+      "symbol": "DOT",
+      "decimals": 10,
+      "logoURI": "https://assets.coingecko.com/coins/images/26044/thumb/polkadot-asset_32.png?1696525125"
     },
     {
       "chainId": 1284,
@@ -125,14 +133,6 @@
       "symbol": "USDC",
       "decimals": 6,
       "logoURI": "https://assets.coingecko.com/coins/images/35230/thumb/USDC.jpg?1707924914"
-    },
-    {
-      "chainId": 1284,
-      "address": "0x511ab53f793683763e5a8829738301368a2411e3",
-      "name": "Moonwell",
-      "symbol": "WELL",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/26133/thumb/WELL.png?1696525221"
     },
     {
       "chainId": 1284,
@@ -224,14 +224,6 @@
     },
     {
       "chainId": 1284,
-      "address": "0x3405a1bd46b85c5c029483fbecf2f3e611026e45",
-      "name": "MATIC (migrated to POL)",
-      "symbol": "MATIC",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/4713/thumb/polygon.png?1698233745"
-    },
-    {
-      "chainId": 1284,
       "address": "0x6a2d262d56735dba19dd70682b39f6be9a931d98",
       "name": "Bridged USD Coin (Celer)",
       "symbol": "CEUSDC",
@@ -280,8 +272,8 @@
     }
   ],
   "version": {
-    "major": 13,
-    "minor": 2,
-    "patch": 2
+    "major": 14,
+    "minor": 0,
+    "patch": 0
   }
 }
