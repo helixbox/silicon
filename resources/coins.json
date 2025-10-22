@@ -8244,7 +8244,7 @@
   {
     "id": "apenft",
     "symbol": "nft",
-    "name": "APENFT",
+    "name": "AINFT",
     "platforms": {
       "tron": "TFczxzPhnThNSqr5by8tvxsdCFRRz6cPNq",
       "ethereum": "0x198d14f2ad9ce69e76ea330b374de4957c3f850a",
@@ -8617,6 +8617,24 @@
     }
   },
   {
+    "id": "apriori",
+    "symbol": "apr",
+    "name": "aPriori",
+    "platforms": {
+      "ethereum": "0x5a9610919f5e81183823a2be4bd1beb2b4da2a20",
+      "binance-smart-chain": "0x299ad4299da5b2b93fba4c96967b040c7f611099"
+    }
+  },
+  {
+    "id": "apro",
+    "symbol": "at",
+    "name": "Apro",
+    "platforms": {
+      "binance-smart-chain": "0x9be61a38725b265bc3eb7bfdf17afdfc9d26c130",
+      "ethereum": "0x0581ccdf2d9bca21baeff8b32b2551fd49cf70aa"
+    }
+  },
+  {
     "id": "a-pro",
     "symbol": "高手",
     "name": "高手 (A Pro)",
@@ -8646,14 +8664,6 @@
     "name": "Aptos Futures",
     "platforms": {
       "binance-smart-chain": "0x1a6e509262b04d3752f3ef314efc625d45b44444"
-    }
-  },
-  {
-    "id": "aptos-launch-token",
-    "symbol": "alt",
-    "name": "AptosLaunch Token",
-    "platforms": {
-      "aptos": "0xd0b4efb4be7c3508d9a26a9b5405cf9f860d0b9e5fe2f498b90e68b8d2cedd3e::aptos_launch_token::AptosLaunchToken"
     }
   },
   {
@@ -31296,14 +31306,6 @@
     }
   },
   {
-    "id": "clips",
-    "symbol": "clips",
-    "name": "Clips",
-    "platforms": {
-      "ethereum": "0xecbee2fae67709f718426ddc3bf770b26b95ed20"
-    }
-  },
-  {
     "id": "cliza",
     "symbol": "cliza",
     "name": "cliza",
@@ -34003,7 +34005,8 @@
     "symbol": "cxt",
     "name": "Covalent X Token",
     "platforms": {
-      "ethereum": "0x7abc8a5768e6be61a6c693a6e4eacb5b60602c4d"
+      "ethereum": "0x7abc8a5768e6be61a6c693a6e4eacb5b60602c4d",
+      "base": "0xb1e1f3cc2b6fe4420c1ac82022b457018eb628ff"
     }
   },
   {
@@ -35193,7 +35196,7 @@
   },
   {
     "id": "crypgpt",
-    "symbol": "cgpt",
+    "symbol": "crypgpt",
     "name": "CrypGPT",
     "platforms": {
       "binance-smart-chain": "0xe0ae52e75b38b605e9c879a570ee1e7bcc66254b"
@@ -36657,6 +36660,12 @@
       "binance-smart-chain": "0x810ee35443639348adbbc467b33310d2ab43c168",
       "polygon-pos": "0xcfb54a6d2da14abecd231174fc5735b4436965d8"
     }
+  },
+  {
+    "id": "cygnus-2",
+    "symbol": "cgn",
+    "name": "Cygnus",
+    "platforms": {}
   },
   {
     "id": "cygnusdao",
@@ -47751,14 +47760,6 @@
     "platforms": {}
   },
   {
-    "id": "elumia",
-    "symbol": "elu",
-    "name": "Elumia",
-    "platforms": {
-      "solana": "4tJZhSdGePuMEfZQ3h5LaHjTPsw1iWTRFTojnZcwsAU6"
-    }
-  },
-  {
     "id": "elur-coin",
     "symbol": "elurc",
     "name": "eLur-coin",
@@ -49403,6 +49404,14 @@
       "scroll": "0x056a5fa5da84ceb7f93d36e545c5905607d8bd81",
       "base": "0x6c240dda6b5c336df09a4d011139beaaa1ea2aa2",
       "arbitrum-one": "0x7189fb5b6504bbff6a852b13b7b82a3c118fdc27"
+    }
+  },
+  {
+    "id": "ether-fi-liquid-eth",
+    "symbol": "liquideth",
+    "name": "Ether.Fi Liquid ETH",
+    "platforms": {
+      "ethereum": "0xf0bb20865277abd641a307ece5ee04e79073416c"
     }
   },
   {
@@ -58229,7 +58238,9 @@
       "ethereum": "0x40d16fc0246ad3160ccc09b8d0d3a2cd28ae6c2f",
       "xdai": "0xfc421ad3c883bf9e7c4f42de845c4e4405799e73",
       "avalanche": "0xfc421ad3c883bf9e7c4f42de845c4e4405799e73",
+      "ink": "0xfc421ad3c883bf9e7c4f42de845c4e4405799e73",
       "base": "0x6bb7a212910682dcfdbd5bcbb3e28fb4e8da10ee",
+      "plasma": "0xb77e872a68c62cfc0dfb02c067ecc3da23b4bbf3",
       "arbitrum-one": "0x7dff72693f6a4149b17e7c6314655f6a9f7c8b33"
     }
   },
@@ -63354,6 +63365,14 @@
     "platforms": {}
   },
   {
+    "id": "hash-hunter",
+    "symbol": "hntr",
+    "name": "Hash Hunter",
+    "platforms": {
+      "solana": "sh3nQze56RGQFBxr3FZidbbVNVh2oUctgt2sGP4pump"
+    }
+  },
+  {
     "id": "hashkey-bridged-usdt-hashkey",
     "symbol": "usdt",
     "name": "HashKey Bridged USDT (HashKey)",
@@ -63374,7 +63393,9 @@
     "symbol": "usyc",
     "name": "Circle USYC",
     "platforms": {
-      "ethereum": "0x136471a34f6ef19fe571effc1ca711fdb8e49f2b"
+      "ethereum": "0x136471a34f6ef19fe571effc1ca711fdb8e49f2b",
+      "binance-smart-chain": "0x8d0fa28f221eb5735bc71d3a0da67ee5bc821311",
+      "solana": "7LWanZteUKtvFjv4MHYgKXXdAuCQYFPJysL9pxxdRQGn"
     }
   },
   {
@@ -66712,6 +66733,14 @@
     "name": "HyperBC",
     "platforms": {
       "ethereum": "0x32fd949e1953b21b7a8232ef4259cd708b4e0847"
+    }
+  },
+  {
+    "id": "hyperbeat-lst-vault",
+    "symbol": "lsthype",
+    "name": "Hyperbeat LST Vault",
+    "platforms": {
+      "hyperevm": "0x81e064d0eb539de7c3170edf38c1a42cbd752a76"
     }
   },
   {
@@ -70561,6 +70590,12 @@
     }
   },
   {
+    "id": "izky",
+    "symbol": "izky",
+    "name": "IZKY",
+    "platforms": {}
+  },
+  {
     "id": "izumi-bond-usd",
     "symbol": "iusd",
     "name": "iZUMi Bond USD",
@@ -73331,6 +73366,12 @@
       "base": "0x02454a97a8372f3a760a033dbb39e67d73bd6d87",
       "binance-smart-chain": "0x6d6ba21e4c4b29ca7bfa1c344ba1e35b8dae7205"
     }
+  },
+  {
+    "id": "katana-network-token",
+    "symbol": "kat",
+    "name": "Katana Network Token",
+    "platforms": {}
   },
   {
     "id": "katchusol",
@@ -76649,6 +76690,14 @@
     "platforms": {
       "ethereum": "0x0fc2a55d5bd13033f1ee0cdd11f60f7efe66f467",
       "binance-smart-chain": "0x389ad4bb96d0d6ee5b6ef0efaf4b7db0ba2e02a0"
+    }
+  },
+  {
+    "id": "lahara",
+    "symbol": "laa",
+    "name": "LAHARA",
+    "platforms": {
+      "binance-smart-chain": "0x7174913c6cd1d5cdf4a61cbbafe8d1d9097ffc32"
     }
   },
   {
@@ -81292,8 +81341,8 @@
   },
   {
     "id": "lto-network",
-    "symbol": "lto",
-    "name": "LTO Network",
+    "symbol": "eqty",
+    "name": "EQTY",
     "platforms": {
       "ethereum": "0xd01409314acb3b245cea9500ece3f6fd4d70ea30",
       "binance-smart-chain": "0x857b222fc79e1cbbf8ca5f78cb133d1b7cf34bbd"
@@ -86899,14 +86948,6 @@
     "name": "MetaMAFIA",
     "platforms": {
       "klay-token": "0x971796e4858ea3dd19011199817a0716e62db2f5"
-    }
-  },
-  {
-    "id": "metamall",
-    "symbol": "mall",
-    "name": "MetaMall",
-    "platforms": {
-      "solana": "5EbpXhW7t8ypBF3Q1X7odFaHjuh7XJfCohXR3VYAW32i"
     }
   },
   {
@@ -94881,14 +94922,6 @@
     "platforms": {}
   },
   {
-    "id": "nexade",
-    "symbol": "nexd",
-    "name": "Nexade",
-    "platforms": {
-      "arbitrum-one": "0x3858567501fbf030bd859ee831610fcc710319f4"
-    }
-  },
-  {
     "id": "nexai",
     "symbol": "nex",
     "name": "NexAI",
@@ -98581,14 +98614,6 @@
     }
   },
   {
-    "id": "omniagent",
-    "symbol": "omagent",
-    "name": "OmniAgent",
-    "platforms": {
-      "ethereum": "0x9e456714f6d4101d230b1f0aa9d9a25f72780ca6"
-    }
-  },
-  {
     "id": "omnibridge-bridged-dai-gnosis-chain",
     "symbol": "dai",
     "name": "OmniBridge Bridged DAI (Gnosis Chain)",
@@ -99260,6 +99285,14 @@
     "name": "OPANARCHY",
     "platforms": {
       "solana": "ANV67ojLzxLeout1zi1q5yZAKdUTmhMjH5EaZn3zpump"
+    }
+  },
+  {
+    "id": "opanarchy-2",
+    "symbol": "opan",
+    "name": "Opanarchy",
+    "platforms": {
+      "solana": "3Ydb2n8vAFdBJYpdiZEoDxRXLmiGDY1fuizVmMPMpump"
     }
   },
   {
@@ -100653,6 +100686,15 @@
     "symbol": "xrb",
     "name": "OroBit",
     "platforms": {}
+  },
+  {
+    "id": "orochi-network",
+    "symbol": "on",
+    "name": "Orochi Network",
+    "platforms": {
+      "binance-smart-chain": "0x0e4f6209ed984b21edea43ace6e09559ed051d48",
+      "ethereum": "0x33f6be84becff45ea6aa2952d7ef890b44bfb59d"
+    }
   },
   {
     "id": "orym",
@@ -106683,14 +106725,6 @@
     "platforms": {
       "ethereum": "0x89ab32156e46f46d02ade3fecbe5fc4243b9aaed",
       "binance-smart-chain": "0xdaacb0ab6fb34d24e8a67bfa14bf4d95d4c7af92"
-    }
-  },
-  {
-    "id": "pnl-games",
-    "symbol": "pnl",
-    "name": "PNL Games",
-    "platforms": {
-      "solana": "AdmxyFYzHPkQ1GtYuZQj89TKZxtiixHqaxgnPtapump"
     }
   },
   {
@@ -120301,7 +120335,7 @@
   {
     "id": "shanghai-composite-index-6900",
     "symbol": "sci6900",
-    "name": "上证综合指数6900 (Shanghai Composite Index 6900)",
+    "name": "上证综合指数6900",
     "platforms": {
       "binance-smart-chain": "0x9edcb93ecbe489d1ff2e4b9a4370d32309474444"
     }
@@ -132665,6 +132699,12 @@
     "platforms": {}
   },
   {
+    "id": "t420",
+    "symbol": "t420",
+    "name": "T420",
+    "platforms": {}
+  },
+  {
     "id": "tabbypos",
     "symbol": "tabby",
     "name": "TabbyPOS",
@@ -133279,6 +133319,14 @@
     "name": "TapSwapToken",
     "platforms": {
       "the-open-network": "EQD3r1oCVcarXV7yENw6PQC2Y7Yd29enyseEIlARRC4-HtAp"
+    }
+  },
+  {
+    "id": "tapzi",
+    "symbol": "tapzi",
+    "name": "Tapzi",
+    "platforms": {
+      "ethereum": "0x5a8908c8b7f0a35f3a08a7a1b93b0c4ac928e5f6"
     }
   },
   {
@@ -150756,14 +150804,6 @@
     }
   },
   {
-    "id": "wrapped-btc-defiverse",
-    "symbol": "wbtc",
-    "name": "Wrapped BTC (DeFiVerse)",
-    "platforms": {
-      "oasys": "0x50c5725949a6f0c72e6c4a641f24049a917db0cb"
-    }
-  },
-  {
     "id": "wrapped-btc-wormhole",
     "symbol": "wbtc",
     "name": "Wrapped BTC (Wormhole)",
@@ -154011,6 +154051,14 @@
     "name": "Xetra AI",
     "platforms": {
       "ethereum": "0x0f48e776a4d983c0dddf4c0c946d66e3786f134f"
+    }
+  },
+  {
+    "id": "xexamai",
+    "symbol": "xexai",
+    "name": "XEXAMAI",
+    "platforms": {
+      "solana": "D1zY7HRVE4cz2TctSrckwBKnUzhCkitUekgTf6bhXsTG"
     }
   },
   {
@@ -158313,6 +158361,14 @@
     "name": "zKML",
     "platforms": {
       "ethereum": "0xe92344b4edf545f3209094b192e46600a19e7c2d"
+    }
+  },
+  {
+    "id": "zksl",
+    "symbol": "zksl",
+    "name": "zkSealevel",
+    "platforms": {
+      "solana": "9Yn6bnF3eKLqocUVMxduh7WWqgQZ8DvWQDYTX9Ncpump"
     }
   },
   {
