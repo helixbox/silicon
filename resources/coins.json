@@ -6039,8 +6039,8 @@
   },
   {
     "id": "alldomains",
-    "symbol": "all",
-    "name": "AllDomains",
+    "symbol": "adns",
+    "name": "AllDomains Name Service",
     "platforms": {
       "solana": "BaoawH9p2J8yUK9r5YXQs3hQwmUJgscACjmTkh8rMwYL"
     }
@@ -18717,6 +18717,14 @@
     }
   },
   {
+    "id": "bitcoin-hyper-3",
+    "symbol": "hyper",
+    "name": "Bitcoin Hyper",
+    "platforms": {
+      "ethereum": "0x208042a2012812f189e4e696e05f08eadb883404"
+    }
+  },
+  {
     "id": "bitcoinii",
     "symbol": "bc2",
     "name": "BitcoinII",
@@ -20285,7 +20293,7 @@
   {
     "id": "blockgames",
     "symbol": "block",
-    "name": "BlockGames",
+    "name": "BlockProtocol",
     "platforms": {
       "ethereum": "0x8fc17671d853341d9e8b001f5fc3c892d09cb53a"
     }
@@ -29041,6 +29049,14 @@
     "symbol": "label",
     "name": "ChainLabel",
     "platforms": {}
+  },
+  {
+    "id": "chainleak",
+    "symbol": "chainleak",
+    "name": "ChainLeak",
+    "platforms": {
+      "base": "0x4d54e4375b82fd22daa0d8f56e674f49727cdcde"
+    }
   },
   {
     "id": "chainlink",
@@ -40225,6 +40241,14 @@
     }
   },
   {
+    "id": "dewa-go",
+    "symbol": "dewa",
+    "name": "DEWA GO",
+    "platforms": {
+      "ethereum": "0x226676c9e15be689817f5ae44863f0811181a5ae"
+    }
+  },
+  {
     "id": "dewn",
     "symbol": "dewn",
     "name": "Dewn",
@@ -40428,6 +40452,7 @@
     "name": "Memento",
     "platforms": {
       "ethereum": "0x5f64ab1544d28732f0a24f4713c2c8ec0da089f0",
+      "base": "0xb69bbb15095c0949489fbb43951d2b750fa7fa89",
       "zksync": "0x9929bcac4417a21d7e6fc86f6dae1cc7f27a2e41",
       "avalanche": "0x03e8d118a1864c7dc53bf91e007ab7d91f5a06fa"
     }
@@ -42242,6 +42267,7 @@
     "name": "Districts",
     "platforms": {
       "binance-smart-chain": "0xb841f365d5221bed66d60e69094418d8c2aa5a44",
+      "base": "0xeca139be1214322752b4e427b1800fd3e8037bf8",
       "ethereum": "0xb841f365d5221bed66d60e69094418d8c2aa5a44"
     }
   },
@@ -45161,6 +45187,14 @@
     "name": "Dreamverse",
     "platforms": {
       "ethereum": "0x2a03a891add2dc6d0f7b94419086630ba5cb65b6"
+    }
+  },
+  {
+    "id": "dregen",
+    "symbol": "dregen",
+    "name": "Dregen",
+    "platforms": {
+      "base": "0x42c99e0afd53299d92289e46e34e6f7ec117ae3d"
     }
   },
   {
@@ -48337,6 +48371,12 @@
     "platforms": {
       "binance-smart-chain": "0x18952ad1269767ffec5c39d87de6bba3320dc6c6"
     }
+  },
+  {
+    "id": "entro-finance",
+    "symbol": "entro",
+    "name": "Entro Finance",
+    "platforms": {}
   },
   {
     "id": "entropy-2",
@@ -53409,6 +53449,14 @@
     }
   },
   {
+    "id": "flowfi",
+    "symbol": "flow",
+    "name": "FlowFi",
+    "platforms": {
+      "solana": "AjPzK6Sf1G27jFkFe4HViSNqMxa3JLE4D1fm6Pzouq2q"
+    }
+  },
+  {
     "id": "flow-lending",
     "symbol": "flow",
     "name": "Flow Lending",
@@ -55114,6 +55162,14 @@
     "name": "Frog",
     "platforms": {
       "solana": "sm6LoSiRQLM28rMgcd8GtR5XBkZFMEYXgEUgwCxpump"
+    }
+  },
+  {
+    "id": "frog-5",
+    "symbol": "frog",
+    "name": "FROG",
+    "platforms": {
+      "binance-smart-chain": "0xc8edb71a0a0873b8dcdfdcf619542d5de350b9e4"
     }
   },
   {
@@ -66945,6 +67001,14 @@
     }
   },
   {
+    "id": "hyperwave",
+    "symbol": "hwave",
+    "name": "Hyperwave",
+    "platforms": {
+      "hyperevm": "0x0e01e3afd147c7f079ea19d0eca166ad3a22e79d"
+    }
+  },
+  {
     "id": "hyperwave-hlp",
     "symbol": "hwhlp",
     "name": "Hyperwave HLP",
@@ -67121,7 +67185,8 @@
     "platforms": {
       "sei-v2": "0x3894085ef7ff0f0aedf52e2a2704928d1ec074f1",
       "osmosis": "B559A80D62249C8AA07A380E2A2BEA6E5CA9A6F079C912C3A9E9B494105E4F81",
-      "terra-2": "ibc/2C962DAB9F57FE0921435426AE75196009FAA1981BF86991203C8411F8980FDB"
+      "terra-2": "ibc/2C962DAB9F57FE0921435426AE75196009FAA1981BF86991203C8411F8980FDB",
+      "noble": "uusdc"
     }
   },
   {
@@ -76591,6 +76656,14 @@
     "symbol": "laid",
     "name": "LAID",
     "platforms": {}
+  },
+  {
+    "id": "laifu-2",
+    "symbol": "来福",
+    "name": "来福",
+    "platforms": {
+      "binance-smart-chain": "0x7d9958666b6a0546764f14bdaac91184d4e54444"
+    }
   },
   {
     "id": "laika",
@@ -104294,6 +104367,14 @@
     }
   },
   {
+    "id": "perpetual-exchange-protocol",
+    "symbol": "perc",
+    "name": "Perpetual Exchange Protocol",
+    "platforms": {
+      "solana": "CXobgfkQT6wCysehb3abkuimkmx5chS62fZew9NBpump"
+    }
+  },
+  {
     "id": "perpetual-protocol",
     "symbol": "perp",
     "name": "Perpetual Protocol",
@@ -110959,7 +111040,8 @@
     "symbol": "qpay",
     "name": "QPAY",
     "platforms": {
-      "solana": "EMg2QkFZ6pLvgckVGj8X6nmyrkiuoamYnTdoxXN8pump"
+      "solana": "EMg2QkFZ6pLvgckVGj8X6nmyrkiuoamYnTdoxXN8pump",
+      "binance-smart-chain": "0xf222c38efd90f87cacc9340974f2db0b7ba37c45"
     }
   },
   {
@@ -112915,6 +112997,7 @@
     "name": "Realio Network Token",
     "platforms": {
       "ethereum": "0x94a8b4ee5cd64c79d0ee816f467ea73009f51aa0",
+      "base": "0x5e64c9049455b3bb6e9fbdc33565fa313bae9b53",
       "osmosis": "ibc/1CDF9C7D073DD59ED06F15DB08CC0901F2A24759BE70463570E8896F9A444ADF",
       "algorand": "2751733",
       "solana": "HELn8rSM1rp8vAjNH4NYXzX6FvCbwWMGqLfaMgiBnZFV",
@@ -121383,6 +121466,14 @@
     }
   },
   {
+    "id": "shopping-io-2",
+    "symbol": "spi",
+    "name": "Shopping.io",
+    "platforms": {
+      "ethereum": "0x4feea34369a00740ba41b2d7cabe121f076ffe6e"
+    }
+  },
+  {
     "id": "shopping-io-token",
     "symbol": "shop",
     "name": "Shopping.io",
@@ -121769,6 +121860,14 @@
     "platforms": {
       "ethereum": "0x3ebb4a4e91ad83be51f8d596533818b246f4bee1",
       "binance-smart-chain": "0x6b1c8765c7eff0b60706b0ae489eb9bb9667465a"
+    }
+  },
+  {
+    "id": "signet-2",
+    "symbol": "signet",
+    "name": "Signet",
+    "platforms": {
+      "base": "0xdf2b673ec06d210c8a8be89441f8de60b5c679c9"
     }
   },
   {
@@ -132807,6 +132906,14 @@
     }
   },
   {
+    "id": "takongrensheng",
+    "symbol": "踏空人生",
+    "name": "踏空人生",
+    "platforms": {
+      "binance-smart-chain": "0x99da649a42c59f7c547c06c6c273f1a3b2bc4444"
+    }
+  },
+  {
     "id": "tala",
     "symbol": "1ozt",
     "name": "TALA",
@@ -140185,7 +140292,8 @@
     "name": "Turtle",
     "platforms": {
       "ethereum": "0x66fd8de541c0594b4dccdfc13bf3a390e50d3afd",
-      "binance-smart-chain": "0x66fd8de541c0594b4dccdfc13bf3a390e50d3afd"
+      "binance-smart-chain": "0x66fd8de541c0594b4dccdfc13bf3a390e50d3afd",
+      "linea": "0x56aa6d651bfefa9207b35e508716466359bae8ef"
     }
   },
   {
