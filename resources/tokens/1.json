@@ -4,7 +4,7 @@
   "keywords": [
     "defi"
   ],
-  "timestamp": "2025-10-25T15:03:34.953+00:00",
+  "timestamp": "2025-10-26T10:03:36.523+00:00",
   "tokens": [
     {
       "chainId": 1,
@@ -1756,6 +1756,14 @@
       "symbol": "IUSDC",
       "decimals": 6,
       "logoURI": "https://assets.coingecko.com/coins/images/25820/thumb/iUSDC_100x100.png?1696524905"
+    },
+    {
+      "chainId": 1,
+      "address": "0xe8cbeccf2140238c5358e60c69203303f3a91732",
+      "name": "OtherdeedStrategy",
+      "symbol": "DEEDSTR",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/70292/thumb/tokenworks.png?1761459146"
     },
     {
       "chainId": 1,
@@ -4179,14 +4187,6 @@
       "symbol": "KLAUS",
       "decimals": 9,
       "logoURI": "https://assets.coingecko.com/coins/images/50656/thumb/KlausCMC-2.png?1728631696"
-    },
-    {
-      "chainId": 1,
-      "address": "0x8355dbe8b0e275abad27eb843f3eaf3fc855e525",
-      "name": "Wolf Game Wool",
-      "symbol": "WOOL",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/20760/thumb/KM3RwIVx_400x400.jpg?1696520155"
     },
     {
       "chainId": 1,
@@ -8760,14 +8760,6 @@
       "symbol": "FEAR",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/15825/thumb/fear-logo-400-400.png?1696515443"
-    },
-    {
-      "chainId": 1,
-      "address": "0x61b34a012646cd7357f58ee9c0160c6d0021fa41",
-      "name": "Elosys",
-      "symbol": "ELO",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/34040/thumb/logo200x200.png?1703693735"
     },
     {
       "chainId": 1,
@@ -43880,8 +43872,8 @@
     }
   ],
   "version": {
-    "major": 1170,
-    "minor": 1,
+    "major": 1171,
+    "minor": 0,
     "patch": 0
   }
 }
