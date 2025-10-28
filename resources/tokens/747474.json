@@ -4,31 +4,15 @@
   "keywords": [
     "defi"
   ],
-  "timestamp": "2025-10-13T12:00:05.773+00:00",
+  "timestamp": "2025-10-28T11:00:05.935+00:00",
   "tokens": [
     {
       "chainId": 747474,
-      "address": "0x9893989433e7a383cb313953e4c2365107dc19a7",
-      "name": "Polygon Bridged weETH (Katana)",
-      "symbol": "WEETH",
+      "address": "0x7fb4d0f51544f24f385a421db6e7d4fc71ad8e5c",
+      "name": "Polygon zkEVM Bridged wstETH (Katana)",
+      "symbol": "WSTETH",
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/69607/thumb/weeth.png?1759218669"
-    },
-    {
-      "chainId": 747474,
-      "address": "0x0913da6da4b42f538b445599b46bb4622342cf52",
-      "name": "VaultBridge Bridged WBTC (Katana)",
-      "symbol": "VBWBTC",
-      "decimals": 8,
-      "logoURI": "https://assets.coingecko.com/coins/images/67045/thumb/btc.png?1751581679"
-    },
-    {
-      "chainId": 747474,
-      "address": "0x203a662b0bd271a6ed5a60edfbd04bfce608fd36",
-      "name": "VaultBridge Bridged USDC (Katana)",
-      "symbol": "VBUSDC",
-      "decimals": 6,
-      "logoURI": "https://assets.coingecko.com/coins/images/67043/thumb/usdc1.png?1751581304"
+      "logoURI": "https://assets.coingecko.com/coins/images/70008/thumb/wsteth.png?1760347317"
     },
     {
       "chainId": 747474,
@@ -37,6 +21,14 @@
       "symbol": "KITSU",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/67868/thumb/KitsuPNG2.png?1754110292"
+    },
+    {
+      "chainId": 747474,
+      "address": "0x9893989433e7a383cb313953e4c2365107dc19a7",
+      "name": "Polygon Bridged weETH (Katana)",
+      "symbol": "WEETH",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/69607/thumb/weeth.png?1759218669"
     },
     {
       "chainId": 747474,
@@ -56,19 +48,19 @@
     },
     {
       "chainId": 747474,
-      "address": "0xee7d8bcfb72bc1880d0cf19822eb0a2e6577ab62",
-      "name": "VaultBridge Bridged ETH (Katana)",
-      "symbol": "VBETH",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/67044/thumb/eth1.png?1751581519"
+      "address": "0x0913da6da4b42f538b445599b46bb4622342cf52",
+      "name": "VaultBridge Bridged WBTC (Katana)",
+      "symbol": "VBWBTC",
+      "decimals": 8,
+      "logoURI": "https://assets.coingecko.com/coins/images/67045/thumb/btc.png?1751581679"
     },
     {
       "chainId": 747474,
-      "address": "0x7fb4d0f51544f24f385a421db6e7d4fc71ad8e5c",
-      "name": "Polygon zkEVM Bridged wstETH (Katana)",
-      "symbol": "WSTETH",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/70008/thumb/wsteth.png?1760347317"
+      "address": "0x203a662b0bd271a6ed5a60edfbd04bfce608fd36",
+      "name": "VaultBridge Bridged USDC (Katana)",
+      "symbol": "VBUSDC",
+      "decimals": 6,
+      "logoURI": "https://assets.coingecko.com/coins/images/67043/thumb/usdc1.png?1751581304"
     },
     {
       "chainId": 747474,
@@ -77,6 +69,22 @@
       "symbol": "VBUSDT",
       "decimals": 6,
       "logoURI": "https://assets.coingecko.com/coins/images/67046/thumb/usdt.png?1751581786"
+    },
+    {
+      "chainId": 747474,
+      "address": "0xc6135d59f8d10c9c035963ce9037b3635170d716",
+      "name": "Midas mRe7SOL",
+      "symbol": "MRE7SOL",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/70338/thumb/mre7sol-C2QhWme8.png?1761638664"
+    },
+    {
+      "chainId": 747474,
+      "address": "0xee7d8bcfb72bc1880d0cf19822eb0a2e6577ab62",
+      "name": "VaultBridge Bridged ETH (Katana)",
+      "symbol": "VBETH",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/67044/thumb/eth1.png?1751581519"
     },
     {
       "chainId": 747474,
@@ -177,7 +185,7 @@
   ],
   "version": {
     "major": 0,
-    "minor": 15,
+    "minor": 16,
     "patch": 0
   }
 }
