@@ -4,8 +4,16 @@
   "keywords": [
     "defi"
   ],
-  "timestamp": "2025-10-23T12:00:53.898+00:00",
+  "timestamp": "2025-10-29T17:01:02.440+00:00",
   "tokens": [
+    {
+      "chainId": 2345,
+      "address": "0xbc10000000000000000000000000000000000000",
+      "name": "Wrapped Goat Bitcoin",
+      "symbol": "WGBTC",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/67994/thumb/btc.png?1754535387"
+    },
     {
       "chainId": 2345,
       "address": "0xfe41e7e5cb3460c483ab2a38eb605cda9e2d248e",
@@ -16,11 +24,11 @@
     },
     {
       "chainId": 2345,
-      "address": "0xbc10000000000000000000000000000000000000",
-      "name": "Wrapped Goat Bitcoin",
-      "symbol": "WGBTC",
+      "address": "0xbc10000000000000000000000000000000000001",
+      "name": "GOAT Network",
+      "symbol": "GOATED",
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/67994/thumb/btc.png?1754535387"
+      "logoURI": "https://assets.coingecko.com/coins/images/69522/thumb/goated.png?1758862142"
     },
     {
       "chainId": 2345,
@@ -65,7 +73,7 @@
   ],
   "version": {
     "major": 0,
-    "minor": 5,
+    "minor": 6,
     "patch": 0
   }
 }

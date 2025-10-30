@@ -525,7 +525,9 @@
     "id": "375ai",
     "symbol": "eat",
     "name": "375ai",
-    "platforms": {}
+    "platforms": {
+      "solana": "375aiUqZERLrB9sHtsArKr4nuWCgBrtqibUDBMGeLvZC"
+    }
   },
   {
     "id": "39a-fun",
@@ -3559,7 +3561,7 @@
   },
   {
     "id": "agenthub",
-    "symbol": "$dira",
+    "symbol": "dira",
     "name": "AgentHub",
     "platforms": {
       "solana": "CuXmQvh4DVTdWBdC2d3pNq8UXqbKJ3w9RPBTAALcKcTb"
@@ -6383,6 +6385,14 @@
     }
   },
   {
+    "id": "alpha-5",
+    "symbol": "$alpha",
+    "name": "Alpha",
+    "platforms": {
+      "binance-smart-chain": "0x743f798dd6dd9c8baa243b83d873da569ed74444"
+    }
+  },
+  {
     "id": "alphaarc",
     "symbol": "alpha",
     "name": "AlphaArc",
@@ -6493,6 +6503,14 @@
       "ethereum": "0x8dce83eca4af45dbe618da1779f9aaca43201084",
       "base": "0x681a09a902d9c7445b3b1ab282c38d60c72f1f09",
       "solana": "CotWkXoBD3edLb6opEGHV9tb3pyKmeoWBLwdMJ8ZDimW"
+    }
+  },
+  {
+    "id": "alpha-lens-x",
+    "symbol": "alphax",
+    "name": "Alpha Lens X",
+    "platforms": {
+      "solana": "FC5oim6UT5Zw1D5S5BZzMM7NQdzyuaSsGef9RT6Ppump"
     }
   },
   {
@@ -10073,6 +10091,14 @@
     "name": "Artyfact",
     "platforms": {
       "binance-smart-chain": "0x617cab4aaae1f8dfb3ee138698330776a1e1b324"
+    }
+  },
+  {
+    "id": "arvos-ai",
+    "symbol": "arvos",
+    "name": "Arvos AI",
+    "platforms": {
+      "base": "0x1868c380e1d7883126dfe6c5ab2908fb2f944974"
     }
   },
   {
@@ -14214,7 +14240,7 @@
     "symbol": "ball",
     "name": "Ballies",
     "platforms": {
-      "base": "0xc1512b7023a97d54f8dd757b1f84e132297ca0d7"
+      "cronos": "0x71f48551878de361b79e9e42b560279dcc228c63"
     }
   },
   {
@@ -16491,7 +16517,7 @@
     "symbol": "launchcoin",
     "name": "Launch Coin on Believe",
     "platforms": {
-      "solana": "Ey59PH7Z4BFU4HjyKnyMdWt5GGN76KazTAwQihoUXRnk"
+      "solana": "BLVxek8YMXUQhcKmMvrFTrzh5FXg8ec88Crp6otEaCMf"
     }
   },
   {
@@ -44989,9 +45015,17 @@
   {
     "id": "dpin",
     "symbol": "dpin",
-    "name": "DPIN",
+    "name": "DPIN [OLD]",
     "platforms": {
       "binance-smart-chain": "0x841c1297f5485ecd72e7a9b62de5ef19f81c8af3"
+    }
+  },
+  {
+    "id": "dpin-2",
+    "symbol": "dpn",
+    "name": "DPIN",
+    "platforms": {
+      "binance-smart-chain": "0xf2e0614fe822b6f42b707f8e258ad1931959b710"
     }
   },
   {
@@ -45453,6 +45487,14 @@
     "name": "Droid",
     "platforms": {
       "stacks": "SP2EEV5QBZA454MSMW9W3WJNRXVJF36VPV17FFKYH.DROID"
+    }
+  },
+  {
+    "id": "droid-dynamics",
+    "symbol": "droid",
+    "name": "Droid Dynamics",
+    "platforms": {
+      "solana": "AZjYk1DqGnLWZzGyyNzYTC5xqUyNRHLhiHXhZdGKUhiu"
     }
   },
   {
@@ -59097,6 +59139,7 @@
     "name": "Global Dollar",
     "platforms": {
       "solana": "2u1tszSeqZ3qBWF3uNGPFc8TzMk2tdiwknnRMWGWjGWH",
+      "x-layer": "0x4ae46a509f6b1d9056937ba4500cb143933d2dc8",
       "ink": "0xe343167631d89b6ffc58b88d6b7fb0228795491d",
       "ethereum": "0xe343167631d89b6ffc58b88d6b7fb0228795491d"
     }
@@ -59625,7 +59668,8 @@
     "symbol": "goated",
     "name": "GOAT Network",
     "platforms": {
-      "binance-smart-chain": "0x5d7909f951436d4e6974d841316057df3a622962"
+      "binance-smart-chain": "0x5d7909f951436d4e6974d841316057df3a622962",
+      "goat": "0xbc10000000000000000000000000000000000001"
     }
   },
   {
@@ -59714,6 +59758,14 @@
     "name": "GOATX",
     "platforms": {
       "ethereum": "0x4eca7761a516f8300711cbf920c0b85555261993"
+    }
+  },
+  {
+    "id": "goatxai",
+    "symbol": "goai",
+    "name": "GOATxAI",
+    "platforms": {
+      "binance-smart-chain": "0xc0f6a75a6102ed31f85e3b3186a64174de943792"
     }
   },
   {
@@ -77426,6 +77478,14 @@
     }
   },
   {
+    "id": "latenightonbase",
+    "symbol": "latenightonbase",
+    "name": "latenightonbase",
+    "platforms": {
+      "base": "0x8c32bcfc720fec35443748a96030ce866d0665ff"
+    }
+  },
+  {
     "id": "latent-arena",
     "symbol": "latent",
     "name": "LATENT ARENA",
@@ -80174,7 +80234,12 @@
     "id": "lit-protocol",
     "symbol": "litkey",
     "name": "Lit Protocol",
-    "platforms": {}
+    "platforms": {
+      "ethereum": "0x4d4eb0e8b160f6ebf63cc6d36060ffec09301b42",
+      "base": "0xf732a566121fa6362e9e0fbdd6d66e5c8c925e49",
+      "binance-smart-chain": "0x0bbea6812fb3fcbca126edb558e551b3f1702026",
+      "arbitrum-one": "0xc7603786470f04d33e35f9e9b56bd0ca8803fb95"
+    }
   },
   {
     "id": "litr",
@@ -80182,6 +80247,14 @@
     "name": "LITR",
     "platforms": {
       "the-open-network": "EQAuLb7CVa_3OLRsPisEBrZrhwlWV2INgwwesJ-hKKH3Qnj0"
+    }
+  },
+  {
+    "id": "little",
+    "symbol": "bao",
+    "name": "LITTLE 袋子",
+    "platforms": {
+      "base": "0x6ee7a6ed125619b9e83e4cff1778404a0947ff01"
     }
   },
   {
@@ -80206,14 +80279,6 @@
     "name": "littlemanyu",
     "platforms": {
       "solana": "CS7LmjtuugEUWtFgfyto79nrksKigv7Fdcp9qPuigdLs"
-    }
-  },
-  {
-    "id": "little-pepe",
-    "symbol": "lilpepe",
-    "name": "Little Pepe",
-    "platforms": {
-      "ethereum": "0xa37bb2aaac324eb974ea46729217040a23eae996"
     }
   },
   {
@@ -92944,7 +93009,9 @@
     "id": "mwx-token",
     "symbol": "mwxt",
     "name": "MWX Token",
-    "platforms": {}
+    "platforms": {
+      "base": "0x93918567cdd1bc845be955325a43419a7c56d66f"
+    }
   },
   {
     "id": "mx69420",
@@ -97098,7 +97165,9 @@
     "id": "novas",
     "symbol": "xnl",
     "name": "Novastro",
-    "platforms": {}
+    "platforms": {
+      "binance-smart-chain": "0xdfeb13936a8975f9f788e73fb93861ce461541f9"
+    }
   },
   {
     "id": "nova-shield",
@@ -107814,6 +107883,14 @@
     }
   },
   {
+    "id": "poly-meme-index",
+    "symbol": "polymi",
+    "name": "Poly Meme Index",
+    "platforms": {
+      "solana": "HygZx5u3aaXg38grfa39Y59NSGFQXSMCUyAYWoZfpump"
+    }
+  },
+  {
     "id": "polymesh",
     "symbol": "polyx",
     "name": "Polymesh",
@@ -113658,6 +113735,14 @@
     "name": "Recall",
     "platforms": {
       "base": "0x1f16e03c1a5908818f47f6ee7bb16690b40d0671"
+    }
+  },
+  {
+    "id": "recon-labs",
+    "symbol": "recon",
+    "name": "Recon Labs",
+    "platforms": {
+      "solana": "A8Z4uv53e6PS6CYNVNd7HceRCZMHecqpuyzuMWp9pump"
     }
   },
   {
@@ -128847,6 +128932,14 @@
     "symbol": "staco",
     "name": "Standard Trust Assurance Community",
     "platforms": {}
+  },
+  {
+    "id": "stand-with-crypto-fund",
+    "symbol": "swc",
+    "name": "Stand With Crypto Fund",
+    "platforms": {
+      "base": "0xa31de7db919b1499bf8d96daa8612270c38109dc"
+    }
   },
   {
     "id": "standx-dusd",
@@ -145385,6 +145478,14 @@
     }
   },
   {
+    "id": "vibe-4",
+    "symbol": "vibe",
+    "name": "Vibe",
+    "platforms": {
+      "solana": "HJ88bA3HJKgKfDUWEoTqTvvhMng5E6RSAMjwTetCvibe"
+    }
+  },
+  {
     "id": "vibe-ai",
     "symbol": "vai",
     "name": "Vibe AI",
@@ -147650,6 +147751,14 @@
     "name": "WAVE",
     "platforms": {
       "sui": "0x82616322719cb327186d5b83a6d7783ce5cef4c5dbd4c6d1b5f3d6e5d288e2be::wav::WAV"
+    }
+  },
+  {
+    "id": "wavefi",
+    "symbol": "wave",
+    "name": "WaveFi",
+    "platforms": {
+      "binance-smart-chain": "0xae9abf7172fcce37a3b423893018d3366a1f4444"
     }
   },
   {
@@ -151540,7 +151649,7 @@
     "symbol": "wctc",
     "name": "Wrapped CTC",
     "platforms": {
-      "ethereum": "0xaafec8e08d524d534327fa13fb306f440b5f88eb"
+      "ethereum": "0xeb32ad88b09fb94129a8b972876ad02eaac91e53"
     }
   },
   {
@@ -153949,6 +154058,14 @@
     "name": "x420",
     "platforms": {
       "base": "0x68e284f21d04d4d62398c290ec3ef41c97f80b07"
+    }
+  },
+  {
+    "id": "x444",
+    "symbol": "x444",
+    "name": "x444",
+    "platforms": {
+      "binance-smart-chain": "0x15272209c6996e7dfa88c7463b899f4754794444"
     }
   },
   {
