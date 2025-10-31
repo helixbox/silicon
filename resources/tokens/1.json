@@ -4,7 +4,7 @@
   "keywords": [
     "defi"
   ],
-  "timestamp": "2025-10-30T10:03:38.578+00:00",
+  "timestamp": "2025-10-30T15:03:48.819+00:00",
   "tokens": [
     {
       "chainId": 1,
@@ -28728,14 +28728,6 @@
     },
     {
       "chainId": 1,
-      "address": "0x80ac24aa929eaf5013f6436cda2a7ba190f5cc0b",
-      "name": "Syrup USDC",
-      "symbol": "SYRUPUSDC",
-      "decimals": 6,
-      "logoURI": "https://assets.coingecko.com/coins/images/54658/thumb/SyrupUSDCO.png?1748850129"
-    },
-    {
-      "chainId": 1,
       "address": "0x5a98fcbea516cf06857215779fd812ca3bef1b32",
       "name": "Lido DAO",
       "symbol": "LDO",
@@ -30941,6 +30933,14 @@
       "symbol": "COINDEPO",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/69678/thumb/Coindepo_Logo_%281%29.png?1759246282"
+    },
+    {
+      "chainId": 1,
+      "address": "0x80ac24aa929eaf5013f6436cda2a7ba190f5cc0b",
+      "name": "syrupUSDC",
+      "symbol": "SYRUPUSDC",
+      "decimals": 6,
+      "logoURI": "https://assets.coingecko.com/coins/images/54658/thumb/syrupUSDC.png?1761824955"
     },
     {
       "chainId": 1,
@@ -38856,6 +38856,14 @@
     },
     {
       "chainId": 1,
+      "address": "0x373f323d21b38004d17386c18680c57657f78040",
+      "name": "Niza Global",
+      "symbol": "NIZA",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/69149/thumb/2x2.png?1758439357"
+    },
+    {
+      "chainId": 1,
       "address": "0xcafe5de18756817d98f4603f6828397406d4cafe",
       "name": "Witnet",
       "symbol": "WIT",
@@ -43204,7 +43212,7 @@
       "name": "syrupUSDT",
       "symbol": "SYRUPUSDT",
       "decimals": 6,
-      "logoURI": "https://assets.coingecko.com/coins/images/69514/thumb/SyrupUSDT.png?1758823529"
+      "logoURI": "https://assets.coingecko.com/coins/images/69514/thumb/syrupUSDT.png?1761824990"
     },
     {
       "chainId": 1,
@@ -43849,7 +43857,7 @@
   ],
   "version": {
     "major": 1179,
-    "minor": 0,
+    "minor": 1,
     "patch": 0
   }
 }
