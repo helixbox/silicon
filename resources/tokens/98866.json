@@ -4,7 +4,7 @@
   "keywords": [
     "defi"
   ],
-  "timestamp": "2025-11-02T12:00:41.824+00:00",
+  "timestamp": "2025-11-03T09:00:43.968+00:00",
   "tokens": [
     {
       "chainId": 98866,
@@ -16,6 +16,14 @@
     },
     {
       "chainId": 98866,
+      "address": "0x9477724bb54ad5417de8baff29e59df3fb4da74f",
+      "name": "Anemoy Tokenized Apollo Diversified Credit Fund",
+      "symbol": "ACDRX",
+      "decimals": 6,
+      "logoURI": "https://assets.coingecko.com/coins/images/70454/thumb/acdrx.png?1762081579"
+    },
+    {
+      "chainId": 98866,
       "address": "0x15c09c0ffb3717325e60a564d1acfbfe999c2f88",
       "name": "Dinari SRLN",
       "symbol": "SRLN.D",
@@ -24,27 +32,11 @@
     },
     {
       "chainId": 98866,
-      "address": "0x39d1f90ef89c52dda276194e9a832b484ee45574",
-      "name": "Plume Staked ETH",
-      "symbol": "PETH",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/67514/thumb/peth.png?1753068541"
-    },
-    {
-      "chainId": 98866,
       "address": "0xafb068838136358cfa6b54bea580b86df70bba7f",
       "name": "exSat Staking BTC",
       "symbol": "ESBTC",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/67691/thumb/esbtc_logo-_1_.png?1753521998"
-    },
-    {
-      "chainId": 98866,
-      "address": "0xda6087e69c51e7d31b6dbad276a3c44703dfdcad",
-      "name": "Stargate Bridged USDT (Plume)",
-      "symbol": "USDT",
-      "decimals": 6,
-      "logoURI": "https://assets.coingecko.com/coins/images/67009/thumb/usdt.jpg?1751459215"
     },
     {
       "chainId": 98866,
@@ -64,6 +56,14 @@
     },
     {
       "chainId": 98866,
+      "address": "0xda6087e69c51e7d31b6dbad276a3c44703dfdcad",
+      "name": "Stargate Bridged USDT (Plume)",
+      "symbol": "USDT",
+      "decimals": 6,
+      "logoURI": "https://assets.coingecko.com/coins/images/67009/thumb/usdt.jpg?1751459215"
+    },
+    {
+      "chainId": 98866,
       "address": "0x5107272921a750a20d492fb41acf0b770b09a624",
       "name": "Mineral Vault I Security Token",
       "symbol": "MNRL",
@@ -72,11 +72,19 @@
     },
     {
       "chainId": 98866,
-      "address": "0x9477724bb54ad5417de8baff29e59df3fb4da74f",
-      "name": "Anemoy Tokenized Apollo Diversified Credit Fund",
-      "symbol": "ACDRX",
-      "decimals": 6,
-      "logoURI": "https://assets.coingecko.com/coins/images/70454/thumb/acdrx.png?1762081579"
+      "address": "0x39d1f90ef89c52dda276194e9a832b484ee45574",
+      "name": "Plume Staked ETH",
+      "symbol": "PETH",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/67514/thumb/peth.png?1753068541"
+    },
+    {
+      "chainId": 98866,
+      "address": "0xea237441c92cae6fc17caaf9a7acb3f953be4bd1",
+      "name": "Wrapped Plume",
+      "symbol": "WPLUME",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/70470/thumb/plume.jpg?1762154772"
     },
     {
       "chainId": 98866,
@@ -393,7 +401,7 @@
   ],
   "version": {
     "major": 0,
-    "minor": 31,
+    "minor": 32,
     "patch": 0
   }
 }

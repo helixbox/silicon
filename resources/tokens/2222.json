@@ -4,7 +4,7 @@
   "keywords": [
     "defi"
   ],
-  "timestamp": "2025-09-29T10:00:05.909+00:00",
+  "timestamp": "2025-11-03T12:00:06.419+00:00",
   "tokens": [
     {
       "chainId": 2222,
@@ -16,19 +16,11 @@
     },
     {
       "chainId": 2222,
-      "address": "0x990e157fc8a492c28f5b50022f000183131b9026",
-      "name": "Lion Scrub Money",
-      "symbol": "LION",
+      "address": "0x38481fdc1af61e6e72e0ff46f069315a59779c65",
+      "name": "Bear Scrub Money",
+      "symbol": "BEAR",
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/28276/thumb/Lion.png?1696527277"
-    },
-    {
-      "chainId": 2222,
-      "address": "0xce82db637a2d750380ef27063518eaa263fbe10e",
-      "name": "Hover",
-      "symbol": "HOV",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/35187/thumb/HM-token-BG.png?1707815790"
+      "logoURI": "https://assets.coingecko.com/coins/images/29960/thumb/Bear.png?1696528886"
     },
     {
       "chainId": 2222,
@@ -40,27 +32,19 @@
     },
     {
       "chainId": 2222,
-      "address": "0x471f79616569343e8e84a66f342b7b433b958154",
-      "name": "Tiger Scrub Money",
-      "symbol": "TIGER",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/28277/thumb/Tiger.png?1696527278"
-    },
-    {
-      "chainId": 2222,
-      "address": "0x38481fdc1af61e6e72e0ff46f069315a59779c65",
-      "name": "Bear Scrub Money",
-      "symbol": "BEAR",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/29960/thumb/Bear.png?1696528886"
-    },
-    {
-      "chainId": 2222,
       "address": "0xe5274e38e91b615d8822e8512a29a16ff1b9c4af",
       "name": "Pinjam.Kava",
       "symbol": "PINKAV",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/30803/thumb/PINKAV_Logo_%28200x200%29.png?1696529661"
+    },
+    {
+      "chainId": 2222,
+      "address": "0xfa9343c3897324496a05fc75abed6bac29f8a40f",
+      "name": "Multichain Bridged USDC (Kava)",
+      "symbol": "USDC",
+      "decimals": 6,
+      "logoURI": "https://assets.coingecko.com/coins/images/35221/thumb/USDC.jpg?1707919585"
     },
     {
       "chainId": 2222,
@@ -72,11 +56,19 @@
     },
     {
       "chainId": 2222,
-      "address": "0xfa9343c3897324496a05fc75abed6bac29f8a40f",
-      "name": "Multichain Bridged USDC (Kava)",
-      "symbol": "USDC",
-      "decimals": 6,
-      "logoURI": "https://assets.coingecko.com/coins/images/35221/thumb/USDC.jpg?1707919585"
+      "address": "0x990e157fc8a492c28f5b50022f000183131b9026",
+      "name": "Lion Scrub Money",
+      "symbol": "LION",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/28276/thumb/Lion.png?1696527277"
+    },
+    {
+      "chainId": 2222,
+      "address": "0x471f79616569343e8e84a66f342b7b433b958154",
+      "name": "Tiger Scrub Money",
+      "symbol": "TIGER",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/28277/thumb/Tiger.png?1696527278"
     },
     {
       "chainId": 2222,
@@ -256,8 +248,8 @@
     }
   ],
   "version": {
-    "major": 7,
-    "minor": 3,
-    "patch": 3
+    "major": 8,
+    "minor": 0,
+    "patch": 0
   }
 }
