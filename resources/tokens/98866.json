@@ -4,8 +4,16 @@
   "keywords": [
     "defi"
   ],
-  "timestamp": "2025-11-03T09:00:43.968+00:00",
+  "timestamp": "2025-11-04T18:00:46.626+00:00",
   "tokens": [
+    {
+      "chainId": 98866,
+      "address": "0xdea149f84859d1ec50480c209b71bffa482b0530",
+      "name": "Nest Treasury Vault (LP)",
+      "symbol": "INTBILL",
+      "decimals": 6,
+      "logoURI": "https://assets.coingecko.com/coins/images/66318/thumb/inTbill.png?1749197830"
+    },
     {
       "chainId": 98866,
       "address": "0x6a64f470293630e08d24455ec0b73960ab7dbb23",
@@ -24,51 +32,11 @@
     },
     {
       "chainId": 98866,
-      "address": "0x15c09c0ffb3717325e60a564d1acfbfe999c2f88",
-      "name": "Dinari SRLN",
-      "symbol": "SRLN.D",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/66390/thumb/d-token-200.png?1749284651"
-    },
-    {
-      "chainId": 98866,
       "address": "0xafb068838136358cfa6b54bea580b86df70bba7f",
       "name": "exSat Staking BTC",
       "symbol": "ESBTC",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/67691/thumb/esbtc_logo-_1_.png?1753521998"
-    },
-    {
-      "chainId": 98866,
-      "address": "0xdea149f84859d1ec50480c209b71bffa482b0530",
-      "name": "Nest Treasury Vault (LP)",
-      "symbol": "INTBILL",
-      "decimals": 6,
-      "logoURI": "https://assets.coingecko.com/coins/images/66318/thumb/inTbill.png?1749197830"
-    },
-    {
-      "chainId": 98866,
-      "address": "0xe9e8330a71912f03e54e7d93795acd9a56f070aa",
-      "name": "Pay USD",
-      "symbol": "PAYUSD",
-      "decimals": 6,
-      "logoURI": "https://assets.coingecko.com/coins/images/55876/thumb/PayUSD-token.png?1747555725"
-    },
-    {
-      "chainId": 98866,
-      "address": "0xda6087e69c51e7d31b6dbad276a3c44703dfdcad",
-      "name": "Stargate Bridged USDT (Plume)",
-      "symbol": "USDT",
-      "decimals": 6,
-      "logoURI": "https://assets.coingecko.com/coins/images/67009/thumb/usdt.jpg?1751459215"
-    },
-    {
-      "chainId": 98866,
-      "address": "0x5107272921a750a20d492fb41acf0b770b09a624",
-      "name": "Mineral Vault I Security Token",
-      "symbol": "MNRL",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/66290/thumb/mineral-vault.png?1749109942"
     },
     {
       "chainId": 98866,
@@ -80,11 +48,59 @@
     },
     {
       "chainId": 98866,
+      "address": "0x2a3e301dbd45c143dfbb7b1ce1c55bf0bbf161cb",
+      "name": "Nest Apollo ACRDX Vault",
+      "symbol": "NACRDX",
+      "decimals": 6,
+      "logoURI": "https://assets.coingecko.com/coins/images/70512/thumb/Nest_ACRDX_Vault.png?1762268426"
+    },
+    {
+      "chainId": 98866,
+      "address": "0xda6087e69c51e7d31b6dbad276a3c44703dfdcad",
+      "name": "Stargate Bridged USDT (Plume)",
+      "symbol": "USDT",
+      "decimals": 6,
+      "logoURI": "https://assets.coingecko.com/coins/images/67009/thumb/usdt.jpg?1751459215"
+    },
+    {
+      "chainId": 98866,
+      "address": "0xe9e8330a71912f03e54e7d93795acd9a56f070aa",
+      "name": "Pay USD",
+      "symbol": "PAYUSD",
+      "decimals": 6,
+      "logoURI": "https://assets.coingecko.com/coins/images/55876/thumb/PayUSD-token.png?1747555725"
+    },
+    {
+      "chainId": 98866,
+      "address": "0x5107272921a750a20d492fb41acf0b770b09a624",
+      "name": "Mineral Vault I Security Token",
+      "symbol": "MNRL",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/66290/thumb/mineral-vault.png?1749109942"
+    },
+    {
+      "chainId": 98866,
+      "address": "0x15c09c0ffb3717325e60a564d1acfbfe999c2f88",
+      "name": "Dinari SRLN",
+      "symbol": "SRLN.D",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/66390/thumb/d-token-200.png?1749284651"
+    },
+    {
+      "chainId": 98866,
       "address": "0xea237441c92cae6fc17caaf9a7acb3f953be4bd1",
       "name": "Wrapped Plume",
       "symbol": "WPLUME",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/70470/thumb/plume.jpg?1762154772"
+    },
+    {
+      "chainId": 98866,
+      "address": "0x9d08946ca5856f882a56c29042fbedc5142663b9",
+      "name": "Nest Mineral Vault",
+      "symbol": "NMNRL",
+      "decimals": 6,
+      "logoURI": "https://assets.coingecko.com/coins/images/70513/thumb/Nest_MNRL_Vault.png?1762268451"
     },
     {
       "chainId": 98866,
@@ -401,7 +417,7 @@
   ],
   "version": {
     "major": 0,
-    "minor": 32,
+    "minor": 34,
     "patch": 0
   }
 }
