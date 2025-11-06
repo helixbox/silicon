@@ -4,7 +4,7 @@
   "keywords": [
     "defi"
   ],
-  "timestamp": "2025-10-18T08:01:26.402+00:00",
+  "timestamp": "2025-11-06T00:01:30.165+00:00",
   "tokens": [
     {
       "chainId": 3338,
@@ -13,14 +13,6 @@
       "symbol": "WSTPEAQ",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/69314/thumb/peaq-token-brand-icon-200x200px.png?1758176145"
-    },
-    {
-      "chainId": 3338,
-      "address": "0x6c1ca31a9f3a57bb680f82a8fe97fc00ac4aad21",
-      "name": "iG3",
-      "symbol": "TOPS",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/67519/thumb/IMG_3700.PNG?1754897774"
     },
     {
       "chainId": 3338,
@@ -40,11 +32,19 @@
     },
     {
       "chainId": 3338,
-      "address": "0xee311e67825c22e5c7238546431651686ce91421",
-      "name": "Codec Flow",
-      "symbol": "CODEC",
+      "address": "0x6c1ca31a9f3a57bb680f82a8fe97fc00ac4aad21",
+      "name": "iG3",
+      "symbol": "TOPS",
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/56011/thumb/Mono_circle_black.png?1751697256"
+      "logoURI": "https://assets.coingecko.com/coins/images/67519/thumb/IMG_3700.PNG?1754897774"
+    },
+    {
+      "chainId": 3338,
+      "address": "0xfd9d1b4a0384396a595345886d1e1d8abf439cef",
+      "name": "RoboStack",
+      "symbol": "ROBOT",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/56064/thumb/Kg9Jppq7_400x400.jpg?1748247102"
     },
     {
       "chainId": 3338,
@@ -72,6 +72,14 @@
     },
     {
       "chainId": 3338,
+      "address": "0xee311e67825c22e5c7238546431651686ce91421",
+      "name": "Codec Flow",
+      "symbol": "CODEC",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/56011/thumb/Mono_circle_black.png?1751697256"
+    },
+    {
+      "chainId": 3338,
       "address": "0xe67f39fbe8c24ef8b3542efed1ee9963cefc1f2a",
       "name": "ANyONe Protocol",
       "symbol": "ANYONE",
@@ -81,7 +89,7 @@
   ],
   "version": {
     "major": 2,
-    "minor": 2,
+    "minor": 3,
     "patch": 0
   }
 }
