@@ -4,23 +4,23 @@
   "keywords": [
     "defi"
   ],
-  "timestamp": "2025-10-09T16:00:32.348+00:00",
+  "timestamp": "2025-11-06T08:00:31.290+00:00",
   "tokens": [
     {
       "chainId": 130,
-      "address": "0x588ce4f028d8e7b53b687865d6a67b3a54c75518",
-      "name": "Unichain Bridged USDT (Unichain)",
-      "symbol": "USDT",
-      "decimals": 6,
-      "logoURI": "https://assets.coingecko.com/coins/images/66726/thumb/usdt.jpg?1750318933"
+      "address": "0x756ee6857f915a2b5366f2ef56d8d13857aef8ad",
+      "name": "Catex",
+      "symbol": "CATX",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/67331/thumb/Catex_logo_Coinbgecko.png?1752402945"
     },
     {
       "chainId": 130,
-      "address": "0x926dc7b96bb2f4a91c2a67e291faf482691a3001",
-      "name": "Unicorn",
-      "symbol": "UNICORN",
+      "address": "0xabe69c550ea6ec22bed4b92614511c4f31bb0f64",
+      "name": "Abe",
+      "symbol": "ABE",
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/54332/thumb/unicorn.jpg?1739325321"
+      "logoURI": "https://assets.coingecko.com/coins/images/68514/thumb/logo_circle_200.png?1756440524"
     },
     {
       "chainId": 130,
@@ -32,6 +32,14 @@
     },
     {
       "chainId": 130,
+      "address": "0x926dc7b96bb2f4a91c2a67e291faf482691a3001",
+      "name": "Unicorn",
+      "symbol": "UNICORN",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/54332/thumb/unicorn.jpg?1739325321"
+    },
+    {
+      "chainId": 130,
       "address": "0x849f05f7cfdc4215b16a3c5a58361445c4d56c8e",
       "name": "Hooffather",
       "symbol": "HOOF",
@@ -40,11 +48,27 @@
     },
     {
       "chainId": 130,
-      "address": "0xabe69c550ea6ec22bed4b92614511c4f31bb0f64",
-      "name": "Abe",
-      "symbol": "ABE",
+      "address": "0xec4a56061d86955d0df883efb2e5791d99ea71f2",
+      "name": "hoonicorn.lol",
+      "symbol": "HOONI",
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/68514/thumb/logo_circle_200.png?1756440524"
+      "logoURI": "https://assets.coingecko.com/coins/images/54996/thumb/hooni-logo-fixed.png?1743095425"
+    },
+    {
+      "chainId": 130,
+      "address": "0xd4390b4a41a1057ae0acdd4b9435a0c7555ab464",
+      "name": "ABE CTO",
+      "symbol": "ABE",
+      "decimals": 9,
+      "logoURI": "https://assets.coingecko.com/coins/images/54953/thumb/200x200.jpg?1742809697"
+    },
+    {
+      "chainId": 130,
+      "address": "0x588ce4f028d8e7b53b687865d6a67b3a54c75518",
+      "name": "Unichain Bridged USDT (Unichain)",
+      "symbol": "USDT",
+      "decimals": 6,
+      "logoURI": "https://assets.coingecko.com/coins/images/66726/thumb/usdt.jpg?1750318933"
     },
     {
       "chainId": 130,
@@ -61,30 +85,6 @@
       "symbol": "HYPE",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/68481/thumb/hype.png?1755878697"
-    },
-    {
-      "chainId": 130,
-      "address": "0xec4a56061d86955d0df883efb2e5791d99ea71f2",
-      "name": "hoonicorn.lol",
-      "symbol": "HOONI",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/54996/thumb/hooni-logo-fixed.png?1743095425"
-    },
-    {
-      "chainId": 130,
-      "address": "0x756ee6857f915a2b5366f2ef56d8d13857aef8ad",
-      "name": "Catex",
-      "symbol": "CATX",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/67331/thumb/Catex_logo_Coinbgecko.png?1752402945"
-    },
-    {
-      "chainId": 130,
-      "address": "0xd4390b4a41a1057ae0acdd4b9435a0c7555ab464",
-      "name": "ABE CTO",
-      "symbol": "ABE",
-      "decimals": 9,
-      "logoURI": "https://assets.coingecko.com/coins/images/54953/thumb/200x200.jpg?1742809697"
     },
     {
       "chainId": 130,
@@ -285,11 +285,19 @@
       "symbol": "WIF",
       "decimals": 6,
       "logoURI": "https://assets.coingecko.com/coins/images/33566/thumb/dogwifhat.jpg?1702499428"
+    },
+    {
+      "chainId": 130,
+      "address": "0xd3c8da379d71a33bfee8875f87ac2748beb1d58d",
+      "name": "Universal BTC",
+      "symbol": "UNIBTC",
+      "decimals": 8,
+      "logoURI": "https://assets.coingecko.com/coins/images/39599/thumb/uniBTC_200px.png?1723064455"
     }
   ],
   "version": {
     "major": 2,
-    "minor": 15,
-    "patch": 1
+    "minor": 16,
+    "patch": 0
   }
 }

@@ -4,7 +4,7 @@
   "keywords": [
     "defi"
   ],
-  "timestamp": "2025-10-22T06:01:02.561+00:00",
+  "timestamp": "2025-11-06T08:00:50.367+00:00",
   "tokens": [
     {
       "chainId": 57073,
@@ -16,19 +16,11 @@
     },
     {
       "chainId": 57073,
-      "address": "0xa802bccd14f7e78e48ffe0c9cf9ad0273c77d4b0",
-      "name": "Ink USDT Veda Vault",
-      "symbol": "INKEDUSDT",
-      "decimals": 6,
-      "logoURI": "https://assets.coingecko.com/coins/images/66510/thumb/usdt.png?1749593577"
-    },
-    {
-      "chainId": 57073,
-      "address": "0x0200c29006150606b650577bbe7b6248f58470c1",
-      "name": "USDT0",
-      "symbol": "USDT0",
-      "decimals": 6,
-      "logoURI": "https://assets.coingecko.com/coins/images/53705/thumb/usdt0.jpg?1737086183"
+      "address": "0x0606fc632ee812ba970af72f8489baaa443c4b98",
+      "name": "ANITA",
+      "symbol": "ANITA",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/68173/thumb/_L_L.png?1754996486"
     },
     {
       "chainId": 57073,
@@ -40,19 +32,19 @@
     },
     {
       "chainId": 57073,
-      "address": "0xd642b49d10cc6e1bc1c6945725667c35e0875f22",
-      "name": "Purple",
-      "symbol": "PURPLE",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/53880/thumb/ink_purple.png?1738227741"
+      "address": "0xa802bccd14f7e78e48ffe0c9cf9ad0273c77d4b0",
+      "name": "Ink USDT Veda Vault",
+      "symbol": "INKEDUSDT",
+      "decimals": 6,
+      "logoURI": "https://assets.coingecko.com/coins/images/66510/thumb/usdt.png?1749593577"
     },
     {
       "chainId": 57073,
-      "address": "0x0606fc632ee812ba970af72f8489baaa443c4b98",
-      "name": "ANITA",
-      "symbol": "ANITA",
+      "address": "0xca5f2ccbd9c40b32657df57c716de44237f80f05",
+      "name": "Kraken",
+      "symbol": "KRAKEN",
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/68173/thumb/_L_L.png?1754996486"
+      "logoURI": "https://assets.coingecko.com/coins/images/52919/thumb/kraken.jpg?1734685461"
     },
     {
       "chainId": 57073,
@@ -64,11 +56,11 @@
     },
     {
       "chainId": 57073,
-      "address": "0xca5f2ccbd9c40b32657df57c716de44237f80f05",
-      "name": "Kraken",
-      "symbol": "KRAKEN",
+      "address": "0xd642b49d10cc6e1bc1c6945725667c35e0875f22",
+      "name": "Purple",
+      "symbol": "PURPLE",
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/52919/thumb/kraken.jpg?1734685461"
+      "logoURI": "https://assets.coingecko.com/coins/images/53880/thumb/ink_purple.png?1738227741"
     },
     {
       "chainId": 57073,
@@ -85,6 +77,14 @@
       "symbol": "BERT",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/68104/thumb/BERT_LOGO_4.jpg?1754802668"
+    },
+    {
+      "chainId": 57073,
+      "address": "0x0200c29006150606b650577bbe7b6248f58470c1",
+      "name": "USDT0",
+      "symbol": "USDT0",
+      "decimals": 6,
+      "logoURI": "https://assets.coingecko.com/coins/images/53705/thumb/usdt0.jpg?1737086183"
     },
     {
       "chainId": 57073,
@@ -205,11 +205,27 @@
       "symbol": "FRXUSD",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/53963/thumb/frxUSD.png?1737792154"
+    },
+    {
+      "chainId": 57073,
+      "address": "0xd3c8da379d71a33bfee8875f87ac2748beb1d58d",
+      "name": "Universal BTC",
+      "symbol": "UNIBTC",
+      "decimals": 8,
+      "logoURI": "https://assets.coingecko.com/coins/images/39599/thumb/uniBTC_200px.png?1723064455"
+    },
+    {
+      "chainId": 57073,
+      "address": "0xa161132371c94299d215915d4cbc3b629e2059be",
+      "name": "Bedrock BTC",
+      "symbol": "BRBTC",
+      "decimals": 8,
+      "logoURI": "https://assets.coingecko.com/coins/images/53039/thumb/brBTC_200.png?1735074374"
     }
   ],
   "version": {
     "major": 3,
-    "minor": 10,
+    "minor": 11,
     "patch": 0
   }
 }
