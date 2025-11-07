@@ -2392,14 +2392,6 @@
     }
   },
   {
-    "id": "abe-cto",
-    "symbol": "abe",
-    "name": "ABE CTO",
-    "platforms": {
-      "unichain": "0xd4390b4a41a1057ae0acdd4b9435a0c7555ab464"
-    }
-  },
-  {
     "id": "abel-finance",
     "symbol": "abel",
     "name": "ABEL Finance",
@@ -4809,14 +4801,6 @@
     "name": "Aircoin",
     "platforms": {
       "solana": "GpdRNotihwXZJ3z3y6yCRAhecFrALc4J8SX92pxnbonk"
-    }
-  },
-  {
-    "id": "airdao-bridged-usdc-airdao",
-    "symbol": "usdc",
-    "name": "AirDAO bridged USDC (AirDAO)",
-    "platforms": {
-      "airdao": "0xff9f502976e7bd2b4901ad7dd1131bb81e5567de"
     }
   },
   {
@@ -9546,7 +9530,9 @@
     "id": "aria-2",
     "symbol": "ariaip",
     "name": "Aria",
-    "platforms": {}
+    "platforms": {
+      "binance-smart-chain": "0x2a7e3392458307493c86388d5e544aad93286836"
+    }
   },
   {
     "id": "aria-ai",
@@ -11629,14 +11615,6 @@
       "ethereum": "0x8eef5a82e6aa222a60f009ac18c24ee12dbf4b41",
       "binance-smart-chain": "0x1ffd0b47127fdd4097e54521c9e2c7f0d66aafc5",
       "polygon-pos": "0x8eef5a82e6aa222a60f009ac18c24ee12dbf4b41"
-    }
-  },
-  {
-    "id": "autocrypto",
-    "symbol": "au",
-    "name": "AutoCrypto",
-    "platforms": {
-      "binance-smart-chain": "0x8ea2f890cb86dfb0e376137451c6fd982afefc15"
     }
   },
   {
@@ -16434,12 +16412,6 @@
     }
   },
   {
-    "id": "beliquid",
-    "symbol": "b",
-    "name": "BeLiquid",
-    "platforms": {}
-  },
-  {
     "id": "bella-bumper",
     "symbol": "bumper",
     "name": "Bella Bumper",
@@ -18791,14 +18763,6 @@
     }
   },
   {
-    "id": "bitcoin-bit",
-    "symbol": "bcb",
-    "name": "Bitcoin Bit",
-    "platforms": {
-      "ethereum": "0x4cf896ac977d07d91626fed71c20f3185b0cb177"
-    }
-  },
-  {
     "id": "bitcoin-bob",
     "symbol": "bob",
     "name": "Bitcoin Bob",
@@ -19803,14 +19767,6 @@
     "name": "Blackjack.fun",
     "platforms": {
       "ethereum": "0xf434908dcf8206691bb99cae9232d4833ec257d4"
-    }
-  },
-  {
-    "id": "black-lemon-ai",
-    "symbol": "lemon",
-    "name": "Black Lemon AI",
-    "platforms": {
-      "ethereum": "0xaf8b894229bc800658ab0faf744e97c8c74c4321"
     }
   },
   {
@@ -20976,14 +20932,6 @@
     "name": "Blue",
     "platforms": {
       "solana": "CWQVqTKuH1iU8zSfFfvaUXaVzLzqU1E8GYU5d6EcGBNe"
-    }
-  },
-  {
-    "id": "bluelotusdao",
-    "symbol": "bldt",
-    "name": "BlueLotusDAO",
-    "platforms": {
-      "genesys-network": "0xb4a3f9d3cece2c298e9b73113f7b6c2b9f9d61ff"
     }
   },
   {
@@ -32160,14 +32108,6 @@
     "name": "Coge Coin",
     "platforms": {
       "solana": "5qfTBM5p1p5HjfYcKWpJM9RDVumUJWKC6SFu8Dpapump"
-    }
-  },
-  {
-    "id": "cogent-sol",
-    "symbol": "cgntsol",
-    "name": "Cogent SOL",
-    "platforms": {
-      "solana": "CgnTSoL3DgY9SFHxcLj6CgCgKKoTBr6tp4CPAEWy25DE"
     }
   },
   {
@@ -47753,6 +47693,17 @@
     }
   },
   {
+    "id": "elizaos",
+    "symbol": "elizaos",
+    "name": "ElizaOS",
+    "platforms": {
+      "solana": "DuMbhu7mvQvqQHGcnikDgb4XegXJRyhUBfdU22uELiZA",
+      "ethereum": "0xea17df5cf6d172224892b5477a16acb111182478",
+      "base": "0xea17df5cf6d172224892b5477a16acb111182478",
+      "binance-smart-chain": "0xea17df5cf6d172224892b5477a16acb111182478"
+    }
+  },
+  {
     "id": "elk-finance",
     "symbol": "elk",
     "name": "Elk Finance",
@@ -50189,14 +50140,6 @@
     "name": "Everscale",
     "platforms": {
       "ethereum": "0x1ffefd8036409cb6d652bd610de465933b226917"
-    }
-  },
-  {
-    "id": "ever-sol",
-    "symbol": "ever",
-    "name": "Ever Sol",
-    "platforms": {
-      "solana": "4UbbkzFuYub2Q7sFZ3dqQiVer2Wg5K5aA4BStZPcNYJA"
     }
   },
   {
@@ -54046,6 +53989,7 @@
       "ethereum": "0xff7f8f301f7a706e3cfd3d2275f5dc0b9ee8009b",
       "arbitrum-one": "0xff7f8f301f7a706e3cfd3d2275f5dc0b9ee8009b",
       "polygon-zkevm": "0xff7f8f301f7a706e3cfd3d2275f5dc0b9ee8009b",
+      "polygon-pos": "0xff7f8f301f7a706e3cfd3d2275f5dc0b9ee8009b",
       "algorand": "3203964481",
       "base": "0xff7f8f301f7a706e3cfd3d2275f5dc0b9ee8009b",
       "binance-smart-chain": "0xff7f8f301f7a706e3cfd3d2275f5dc0b9ee8009b",
@@ -55220,15 +55164,6 @@
     "name": "Fren Pet",
     "platforms": {
       "base": "0xff0c532fdb8cd566ae169c1cb157ff2bdc83e105"
-    }
-  },
-  {
-    "id": "frens-ai",
-    "symbol": "fren",
-    "name": "Frens.ai",
-    "platforms": {
-      "re-al": "0xa300d6bce36036c8239c7f457fa4f77d01e88544",
-      "solana": "GTYZZZAhqYqMZSQZh99vX9njgRsRbZqvT81L9y5V2p2j"
     }
   },
   {
@@ -68403,6 +68338,12 @@
     }
   },
   {
+    "id": "immunefi",
+    "symbol": "imu",
+    "name": "ImmuneFi",
+    "platforms": {}
+  },
+  {
     "id": "immutable",
     "symbol": "dara",
     "name": "Immutable",
@@ -74316,14 +74257,6 @@
     }
   },
   {
-    "id": "ketnipz",
-    "symbol": "nipz",
-    "name": "Ketnipz",
-    "platforms": {
-      "solana": "Gmi1fADBi8CiWKFdV6a5besdqHtbKZ8NEtsXAWRCpump"
-    }
-  },
-  {
     "id": "kevin-2",
     "symbol": "kevin",
     "name": "Kevin",
@@ -76596,14 +76529,6 @@
     }
   },
   {
-    "id": "kunji-finance",
-    "symbol": "knj",
-    "name": "Kunji Finance",
-    "platforms": {
-      "arbitrum-one": "0xfbbb21d8e7a461f06e5e27efd69703acb5c732a8"
-    }
-  },
-  {
     "id": "kura",
     "symbol": "kura",
     "name": "Kura",
@@ -77259,14 +77184,6 @@
     "name": "lambo",
     "platforms": {
       "solana": "GQsefQc5YPE12wkMnYMxD8Rq1wrRX7f9iFgpBjNpBAGS"
-    }
-  },
-  {
-    "id": "lambosforvirgins",
-    "symbol": "virgin",
-    "name": "LambosForVirgins",
-    "platforms": {
-      "solana": "7kB8ZkSBJr2uiBWfveqkVBN7EpZMFom5PqeWUB62DCRD"
     }
   },
   {
@@ -83828,14 +83745,6 @@
     }
   },
   {
-    "id": "mane",
-    "symbol": "mane",
-    "name": "MANE",
-    "platforms": {
-      "binance-smart-chain": "0x12e114ef949177ddb37716bc6eefb9c5bc25de12"
-    }
-  },
-  {
     "id": "maneki",
     "symbol": "maneki",
     "name": "MANEKI",
@@ -88184,14 +88093,6 @@
     "name": "MFERS",
     "platforms": {
       "ethereum": "0xad913dcd987fe54ce823e4b755f90598cd62bb15"
-    }
-  },
-  {
-    "id": "m-ga",
-    "symbol": "$ωmσga",
-    "name": "ΩMΣGA",
-    "platforms": {
-      "solana": "8C5wsKz682s8ByYLxVpY8J3GHSAHTsT4fJPfT97Npump"
     }
   },
   {
@@ -93040,14 +92941,6 @@
     }
   },
   {
-    "id": "museum-of-influencers",
-    "symbol": "mofi",
-    "name": "Museum Of Influencers",
-    "platforms": {
-      "solana": "A9cAMKwYw2kxaFEaJT8hegiMrCcj6zUHzBArckiL6zbZ"
-    }
-  },
-  {
     "id": "museum-of-memes",
     "symbol": "mom",
     "name": "Museum Of Memes",
@@ -95210,14 +95103,6 @@
     "name": "Neutron",
     "platforms": {
       "osmosis": "ibc/126DA09104B71B164883842B769C0E9EC1486C0887D27A9999E395C2C8FB5682"
-    }
-  },
-  {
-    "id": "neutroswap",
-    "symbol": "neutro",
-    "name": "Neutroswap",
-    "platforms": {
-      "eos-evm": "0xf4bd487a8190211e62925435963d996b59a860c0"
     }
   },
   {
@@ -116942,14 +116827,6 @@
     }
   },
   {
-    "id": "rokos-matrix",
-    "symbol": "matrix",
-    "name": "Rokos Matrix",
-    "platforms": {
-      "solana": "Bu4tm4gdpFXWakMiTVSBtDp77Mia7tEe8cU4H23Vpump"
-    }
-  },
-  {
     "id": "roll",
     "symbol": "roll",
     "name": "ROLL",
@@ -119447,7 +119324,8 @@
     "symbol": "sauce",
     "name": "SaucerSwap",
     "platforms": {
-      "hedera-hashgraph": "0x00000000000000000000000000000000000b2ad5"
+      "hedera-hashgraph": "0x00000000000000000000000000000000000b2ad5",
+      "base": "0xa4ff56ef7ef4a2cad03cfa130208c9bc1b45d293"
     }
   },
   {
@@ -124464,14 +124342,6 @@
     "name": "Sniper Search",
     "platforms": {
       "base": "0xa2d4aec94ba0896d95ccc5451c9525b9ec0314de"
-    }
-  },
-  {
-    "id": "snook",
-    "symbol": "snk",
-    "name": "Snook",
-    "platforms": {
-      "polygon-pos": "0x689f8e5913c158ffb5ac5aeb83b3c875f5d20309"
     }
   },
   {
@@ -148370,11 +148240,11 @@
     }
   },
   {
-    "id": "web3-decision",
+    "id": "web3-decision-2",
     "symbol": "web3d",
     "name": "WEB3 DECISION",
     "platforms": {
-      "binance-smart-chain": "0x7ed9054c48088bb8cfc5c5fbc32775b9455a13f7"
+      "binance-smart-chain": "0x6ebf9ccac6efd7d48b89ec06249cfe1af4000022"
     }
   },
   {
@@ -148807,14 +148677,6 @@
     "platforms": {
       "ethereum": "0xfeee18422f8f1cd6193c12aafad7123dbff15517",
       "solana": "Xs4uNhvBDAcp2mz3g9XR5q3vzLgmF1ANWxJgWk2d5u3"
-    }
-  },
-  {
-    "id": "weniscoin",
-    "symbol": "wenis",
-    "name": "WenisCoin",
-    "platforms": {
-      "solana": "BycodkJgwAA4PTygbQQ35LUB1KRLoCofKz5CmC8BK6dU"
     }
   },
   {
@@ -152232,14 +152094,6 @@
     }
   },
   {
-    "id": "wrapped-eos",
-    "symbol": "weos",
-    "name": "Wrapped EOS",
-    "platforms": {
-      "eos-evm": "0xc00592aa41d32d137dc480d9f6d0df19b860104f"
-    }
-  },
-  {
     "id": "wrapped-eos-universal",
     "symbol": "ueos",
     "name": "Wrapped EOS (Universal)",
@@ -152821,14 +152675,6 @@
     "name": "Wrapped Johnson & Johnson xStock",
     "platforms": {
       "arbitrum-one": "0xcdb53a7cba9ec6d55dfe8f58bd6772826722d7bd"
-    }
-  },
-  {
-    "id": "wrapped-johor-southern-tigers-kayen",
-    "symbol": "wjdt",
-    "name": "Wrapped JOHOR Southern Tigers (Kayen)",
-    "platforms": {
-      "chiliz": "0xdc9cad4bceb669e823aeb30e80f2d124b0a58b6b"
     }
   },
   {
@@ -155630,8 +155476,8 @@
   },
   {
     "id": "xpla",
-    "symbol": "xpla",
-    "name": "XPLA",
+    "symbol": "conx",
+    "name": "CONX",
     "platforms": {
       "osmosis": "ibc/95C9B5870F95E21A242E6AF9ADCB1F212EE4A8855087226C36FBE43FC41A77B8"
     }
