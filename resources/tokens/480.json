@@ -4,16 +4,8 @@
   "keywords": [
     "defi"
   ],
-  "timestamp": "2025-11-02T11:00:26.737+00:00",
+  "timestamp": "2025-11-08T20:00:28.806+00:00",
   "tokens": [
-    {
-      "chainId": 480,
-      "address": "0x7047b80cb47527e864029d3cfe1899534dc15402",
-      "name": "Bowser",
-      "symbol": "BOWSER",
-      "decimals": 9,
-      "logoURI": "https://assets.coingecko.com/coins/images/50784/thumb/BOWSER_200.jpg?1729193270"
-    },
     {
       "chainId": 480,
       "address": "0xcd1e32b86953d79a6ac58e813d2ea7a1790cab63",
@@ -24,11 +16,19 @@
     },
     {
       "chainId": 480,
-      "address": "0x6770a7133bd0d74f95e4c9e9b7735bb4cd5653a6",
-      "name": "World Cat",
-      "symbol": "WORLDCAT",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/67236/thumb/worldcat-logo.jpg?1752144407"
+      "address": "0x03c7054bcb39f7b2e5b2c7acb37583e32d70cfa3",
+      "name": "Bridged Wrapped Bitcoin (Worldchain)",
+      "symbol": "WBTC",
+      "decimals": 8,
+      "logoURI": "https://assets.coingecko.com/coins/images/51159/thumb/wbtc_28.png?1730242311"
+    },
+    {
+      "chainId": 480,
+      "address": "0x7047b80cb47527e864029d3cfe1899534dc15402",
+      "name": "Bowser",
+      "symbol": "BOWSER",
+      "decimals": 9,
+      "logoURI": "https://assets.coingecko.com/coins/images/50784/thumb/BOWSER_200.jpg?1729193270"
     },
     {
       "chainId": 480,
@@ -40,11 +40,11 @@
     },
     {
       "chainId": 480,
-      "address": "0x03c7054bcb39f7b2e5b2c7acb37583e32d70cfa3",
-      "name": "Bridged Wrapped Bitcoin (Worldchain)",
-      "symbol": "WBTC",
-      "decimals": 8,
-      "logoURI": "https://assets.coingecko.com/coins/images/51159/thumb/wbtc_28.png?1730242311"
+      "address": "0x6770a7133bd0d74f95e4c9e9b7735bb4cd5653a6",
+      "name": "World Cat",
+      "symbol": "WORLDCAT",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/67236/thumb/worldcat-logo.jpg?1752144407"
     },
     {
       "chainId": 480,
@@ -85,6 +85,14 @@
       "symbol": "IDRX",
       "decimals": 2,
       "logoURI": "https://assets.coingecko.com/coins/images/34883/thumb/IDRX_BLUE_COIN_200x200.png?1734983273"
+    },
+    {
+      "chainId": 480,
+      "address": "0x2c537e5624e4af88a7ae4060c022609376c8d0eb",
+      "name": "BiLira",
+      "symbol": "TRYB",
+      "decimals": 6,
+      "logoURI": "https://assets.coingecko.com/coins/images/10119/thumb/JBs9jiXO_400x400.jpg?1696510144"
     },
     {
       "chainId": 480,
@@ -161,7 +169,7 @@
   ],
   "version": {
     "major": 1,
-    "minor": 6,
+    "minor": 7,
     "patch": 0
   }
 }
