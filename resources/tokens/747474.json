@@ -4,16 +4,8 @@
   "keywords": [
     "defi"
   ],
-  "timestamp": "2025-11-07T15:00:07.752+00:00",
+  "timestamp": "2025-11-11T11:00:05.710+00:00",
   "tokens": [
-    {
-      "chainId": 747474,
-      "address": "0xb0f70c0bd6fd87dbeb7c10dc692a2a6106817072",
-      "name": "Bitcoin on Katana",
-      "symbol": "BTCK",
-      "decimals": 8,
-      "logoURI": "https://assets.coingecko.com/coins/images/68287/thumb/btc.png?1755248096"
-    },
     {
       "chainId": 747474,
       "address": "0xfba805659e5050544e185cccdf592fd77f8c7210",
@@ -29,6 +21,30 @@
       "symbol": "VBUSDC",
       "decimals": 6,
       "logoURI": "https://assets.coingecko.com/coins/images/67043/thumb/usdc1.png?1751581304"
+    },
+    {
+      "chainId": 747474,
+      "address": "0xee7d8bcfb72bc1880d0cf19822eb0a2e6577ab62",
+      "name": "VaultBridge Bridged ETH (Katana)",
+      "symbol": "VBETH",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/67044/thumb/eth1.png?1751581519"
+    },
+    {
+      "chainId": 747474,
+      "address": "0xb24e3035d1fcbc0e43cf3143c3fd92e53df2009b",
+      "name": "Katana Bridged POL (Katana)",
+      "symbol": "POL",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/67279/thumb/polygon.jpg?1752293315"
+    },
+    {
+      "chainId": 747474,
+      "address": "0xb0f70c0bd6fd87dbeb7c10dc692a2a6106817072",
+      "name": "Bitcoin on Katana",
+      "symbol": "BTCK",
+      "decimals": 8,
+      "logoURI": "https://assets.coingecko.com/coins/images/68287/thumb/btc.png?1755248096"
     },
     {
       "chainId": 747474,
@@ -48,27 +64,11 @@
     },
     {
       "chainId": 747474,
-      "address": "0xc6135d59f8d10c9c035963ce9037b3635170d716",
-      "name": "Midas mRe7SOL",
-      "symbol": "MRE7SOL",
+      "address": "0x9893989433e7a383cb313953e4c2365107dc19a7",
+      "name": "Polygon Bridged weETH (Katana)",
+      "symbol": "WEETH",
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/70338/thumb/mre7sol-C2QhWme8.png?1761638664"
-    },
-    {
-      "chainId": 747474,
-      "address": "0xb24e3035d1fcbc0e43cf3143c3fd92e53df2009b",
-      "name": "Katana Bridged POL (Katana)",
-      "symbol": "POL",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/67279/thumb/polygon.jpg?1752293315"
-    },
-    {
-      "chainId": 747474,
-      "address": "0xee7d8bcfb72bc1880d0cf19822eb0a2e6577ab62",
-      "name": "VaultBridge Bridged ETH (Katana)",
-      "symbol": "VBETH",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/67044/thumb/eth1.png?1751581519"
+      "logoURI": "https://assets.coingecko.com/coins/images/69607/thumb/weeth.png?1759218669"
     },
     {
       "chainId": 747474,
@@ -80,11 +80,11 @@
     },
     {
       "chainId": 747474,
-      "address": "0x9893989433e7a383cb313953e4c2365107dc19a7",
-      "name": "Polygon Bridged weETH (Katana)",
-      "symbol": "WEETH",
+      "address": "0xc6135d59f8d10c9c035963ce9037b3635170d716",
+      "name": "Midas mRe7SOL",
+      "symbol": "MRE7SOL",
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/69607/thumb/weeth.png?1759218669"
+      "logoURI": "https://assets.coingecko.com/coins/images/70338/thumb/mre7sol-C2QhWme8.png?1761638664"
     },
     {
       "chainId": 747474,
@@ -189,11 +189,19 @@
       "symbol": "FRXUSD",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/53963/thumb/frxUSD.png?1737792154"
+    },
+    {
+      "chainId": 747474,
+      "address": "0x17bff452dae47e07cea877ff0e1aba17eb62b0ab",
+      "name": "Sushi",
+      "symbol": "SUSHI",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/12271/thumb/512x512_Logo_no_chop.png?1696512101"
     }
   ],
   "version": {
     "major": 0,
-    "minor": 17,
+    "minor": 18,
     "patch": 0
   }
 }

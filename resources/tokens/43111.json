@@ -4,15 +4,15 @@
   "keywords": [
     "defi"
   ],
-  "timestamp": "2025-11-06T09:01:29.256+00:00",
+  "timestamp": "2025-11-11T12:01:38.943+00:00",
   "tokens": [
     {
       "chainId": 43111,
-      "address": "0x7a06c4aef988e7925575c50261297a946ad204a8",
-      "name": "VUSD",
-      "symbol": "VUSD",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/67026/thumb/vusd.jpg?1751514327"
+      "address": "0x6a9a65b84843f5fd4ac9a0471c4fc11afffbce4a",
+      "name": "Lorenzo Wrapped Bitcoin",
+      "symbol": "ENZOBTC",
+      "decimals": 8,
+      "logoURI": "https://assets.coingecko.com/coins/images/54447/thumb/enzo_btc.png?1739773963"
     },
     {
       "chainId": 43111,
@@ -24,22 +24,6 @@
     },
     {
       "chainId": 43111,
-      "address": "0xbb0d083fb1be0a9f6157ec484b6c79e0a4e31c2e",
-      "name": "Hemi Bridged USDT (Hemi)",
-      "symbol": "USDT",
-      "decimals": 6,
-      "logoURI": "https://assets.coingecko.com/coins/images/68905/thumb/usdt.jpg?1756951459"
-    },
-    {
-      "chainId": 43111,
-      "address": "0x4200000000000000000000000000000000000006",
-      "name": "Hemi Bridged WETH (Hemi)",
-      "symbol": "WETH",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/67025/thumb/weth_2.jpg?1751514061"
-    },
-    {
-      "chainId": 43111,
       "address": "0x71881974e96152643c74a8e0214b877cfb2a0aa1",
       "name": "VCRED",
       "symbol": "VCRED",
@@ -48,11 +32,19 @@
     },
     {
       "chainId": 43111,
-      "address": "0x6a9a65b84843f5fd4ac9a0471c4fc11afffbce4a",
-      "name": "Lorenzo Wrapped Bitcoin",
-      "symbol": "ENZOBTC",
-      "decimals": 8,
-      "logoURI": "https://assets.coingecko.com/coins/images/54447/thumb/enzo_btc.png?1739773963"
+      "address": "0x7a06c4aef988e7925575c50261297a946ad204a8",
+      "name": "VUSD",
+      "symbol": "VUSD",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/67026/thumb/vusd.jpg?1751514327"
+    },
+    {
+      "chainId": 43111,
+      "address": "0x4200000000000000000000000000000000000006",
+      "name": "Hemi Bridged WETH (Hemi)",
+      "symbol": "WETH",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/67025/thumb/weth_2.jpg?1751514061"
     },
     {
       "chainId": 43111,
@@ -133,11 +125,19 @@
       "symbol": "BRBTC",
       "decimals": 8,
       "logoURI": "https://assets.coingecko.com/coins/images/53039/thumb/brBTC_200.png?1735074374"
+    },
+    {
+      "chainId": 43111,
+      "address": "0xbb0d083fb1be0a9f6157ec484b6c79e0a4e31c2e",
+      "name": "Stargate Bridged USDT",
+      "symbol": "USDT",
+      "decimals": 6,
+      "logoURI": "https://assets.coingecko.com/coins/images/70631/thumb/usdt.jpg?1762857609"
     }
   ],
   "version": {
     "major": 0,
     "minor": 12,
-    "patch": 0
+    "patch": 1
   }
 }

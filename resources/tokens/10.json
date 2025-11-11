@@ -4,8 +4,16 @@
   "keywords": [
     "defi"
   ],
-  "timestamp": "2025-11-10T10:00:52.658+00:00",
+  "timestamp": "2025-11-11T10:02:27.004+00:00",
   "tokens": [
+    {
+      "chainId": 10,
+      "address": "0x4793405c2231d8646f8ee79e120c230c574b0c4b",
+      "name": "NOI Token",
+      "symbol": "NOI",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/66171/thumb/LOGO_200x200.png?1748538866"
+    },
     {
       "chainId": 10,
       "address": "0xb5090d514bcaca7dafb7e52763658844121f346d",
@@ -16,27 +24,11 @@
     },
     {
       "chainId": 10,
-      "address": "0x17aabf6838a6303fc6e9c5a227dc1eb6d95c829a",
-      "name": "Magicaltux",
-      "symbol": "TUX",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/33909/thumb/1703316796-picsay.png?1703453966"
-    },
-    {
-      "chainId": 10,
       "address": "0xc3248a1bd9d72fa3da6e6ba701e58cbf818354eb",
       "name": "HANePlatform",
       "symbol": "HANEP",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/35202/thumb/HANeP_200px.png?1707842735"
-    },
-    {
-      "chainId": 10,
-      "address": "0x81c9a7b55a4df39a9b7b5f781ec0e53539694873",
-      "name": "Exactly USD.e Coin",
-      "symbol": "EXAUSDC.E",
-      "decimals": 6,
-      "logoURI": "https://assets.coingecko.com/coins/images/31175/thumb/ExaUSDC_1.png?1696530003"
     },
     {
       "chainId": 10,
@@ -56,6 +48,14 @@
     },
     {
       "chainId": 10,
+      "address": "0xd0cf4de352ac8dcce00bd6b93ee73d3cb272edc3",
+      "name": "PCM",
+      "symbol": "PCM",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/50402/thumb/pcmlabs_32.png?1727591862"
+    },
+    {
+      "chainId": 10,
       "address": "0x0a7b751fcdbbaa8bb988b9217ad5fb5cfe7bf7a0",
       "name": "Infinite Trading Protocol",
       "symbol": "ITP",
@@ -72,19 +72,19 @@
     },
     {
       "chainId": 10,
-      "address": "0xd9cc3d70e730503e7f28c1b407389198c4b75fa2",
-      "name": "TLX",
-      "symbol": "TLX",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/37043/thumb/TLXlogoMain.png?1713162908"
-    },
-    {
-      "chainId": 10,
       "address": "0x6926b434cce9b5b7966ae1bfeef6d0a7dcf3a8bb",
       "name": "Exactly USD Coin",
       "symbol": "EXAUSDC",
       "decimals": 6,
       "logoURI": "https://assets.coingecko.com/coins/images/50240/thumb/exaUSDC.png?1726676118"
+    },
+    {
+      "chainId": 10,
+      "address": "0x81c9a7b55a4df39a9b7b5f781ec0e53539694873",
+      "name": "Exactly USD.e Coin",
+      "symbol": "EXAUSDC.E",
+      "decimals": 6,
+      "logoURI": "https://assets.coingecko.com/coins/images/31175/thumb/ExaUSDC_1.png?1696530003"
     },
     {
       "chainId": 10,
@@ -112,11 +112,11 @@
     },
     {
       "chainId": 10,
-      "address": "0xd6c67ff71a82f1d994d94fa01295467d273d7324",
-      "name": "Aktionariat DDC Schweiz AG Tokenized Shares",
-      "symbol": "DDCS",
-      "decimals": 0,
-      "logoURI": "https://assets.coingecko.com/coins/images/33354/thumb/DDC.png?1701563532"
+      "address": "0xe3b3a464ee575e8e25d2508918383b89c832f275",
+      "name": "PoolTogether Prize USD Coin",
+      "symbol": "PUSDC.E",
+      "decimals": 6,
+      "logoURI": "https://assets.coingecko.com/coins/images/32455/thumb/prizeUSDCIcon_200.png?1698241065"
     },
     {
       "chainId": 10,
@@ -128,14 +128,6 @@
     },
     {
       "chainId": 10,
-      "address": "0x8fb94e08bc984497aaaf1a545ed455be89f8c675",
-      "name": "Aktionariat TV PLUS AG Tokenized Shares",
-      "symbol": "TVPLS",
-      "decimals": 0,
-      "logoURI": "https://assets.coingecko.com/coins/images/33375/thumb/TVPLS.png?1701649948"
-    },
-    {
-      "chainId": 10,
       "address": "0xc47da4cb96ce65a96844a01bfae509f9d5454534",
       "name": "Dephaser JPY",
       "symbol": "JPYT",
@@ -144,27 +136,11 @@
     },
     {
       "chainId": 10,
-      "address": "0x9560e827af36c94d2ac33a39bce1fe78631088db",
-      "name": "Velodrome Finance",
-      "symbol": "VELO",
+      "address": "0x4200000000000000000000000000000000000006",
+      "name": "L2 Standard Bridged WETH (Optimism)",
+      "symbol": "WETH",
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/25783/thumb/velo.png?1696524870"
-    },
-    {
-      "chainId": 10,
-      "address": "0xa430a427bd00210506589906a71b54d6c256cedb",
-      "name": "Exactly Optimism",
-      "symbol": "EXAOP",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/31173/thumb/ExaOP_1.png?1696530001"
-    },
-    {
-      "chainId": 10,
-      "address": "0xed9b52e6d2df4ad9fc258254e1e5ef5ad0b3ca3c",
-      "name": "Aktionariat Fieldoo AG Tokenized Shares",
-      "symbol": "FDOS",
-      "decimals": 0,
-      "logoURI": "https://assets.coingecko.com/coins/images/33392/thumb/FDOS.png?1701680368"
+      "logoURI": "https://assets.coingecko.com/coins/images/39715/thumb/WETH.PNG?1723731805"
     },
     {
       "chainId": 10,
@@ -173,6 +149,14 @@
       "symbol": "SIAS",
       "decimals": 0,
       "logoURI": "https://assets.coingecko.com/coins/images/33373/thumb/SIA.png?1701649606"
+    },
+    {
+      "chainId": 10,
+      "address": "0x22ab31cd55130435b5efbf9224b6a9d5ec36533f",
+      "name": "Exactly Wrapped stETH",
+      "symbol": "EXAWSTETH",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/31172/thumb/ExawstETH_1.png?1696530000"
     },
     {
       "chainId": 10,
@@ -192,11 +176,18 @@
     },
     {
       "chainId": 10,
-      "address": "0x4200000000000000000000000000000000000042",
-      "name": "Optimism",
-      "symbol": "OP",
+      "address": "0x29cb69d4780b53c1e5cd4d2b817142d2e9890715",
+      "name": "PoolTogether Prize WETH - Aave",
+      "symbol": "PWETH",
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/25244/thumb/Optimism.png?1696524385"
+      "logoURI": "https://assets.coingecko.com/coins/images/32454/thumb/PrizeWETHIcon_200.png?1698241047"
+    },
+    {
+      "chainId": 10,
+      "address": "0x6f748fd65d7c71949ba6641b3248c4c191f3b322",
+      "name": "Exactly WBTC",
+      "symbol": "EXAWBTC",
+      "decimals": 8
     },
     {
       "chainId": 10,
@@ -216,35 +207,19 @@
     },
     {
       "chainId": 10,
+      "address": "0x8b21e9b7daf2c4325bf3d18c1beb79a347fe902a",
+      "name": "Collab.Land",
+      "symbol": "COLLAB",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/29098/thumb/collab.png?1696528061"
+    },
+    {
+      "chainId": 10,
       "address": "0x1db2466d9f5e10d7090e7152b68d62703a2245f0",
       "name": "Sonne Finance",
       "symbol": "SONNE",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/27540/thumb/Token1.png?1696526577"
-    },
-    {
-      "chainId": 10,
-      "address": "0x4793405c2231d8646f8ee79e120c230c574b0c4b",
-      "name": "NOI Token",
-      "symbol": "NOI",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/66171/thumb/LOGO_200x200.png?1748538866"
-    },
-    {
-      "chainId": 10,
-      "address": "0x10398abc267496e49106b07dd6be13364d10dc71",
-      "name": "Let's Get HAI",
-      "symbol": "HAI",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/35863/thumb/hai-logo-200x200.png?1711190591"
-    },
-    {
-      "chainId": 10,
-      "address": "0x29cb69d4780b53c1e5cd4d2b817142d2e9890715",
-      "name": "PoolTogether Prize WETH - Aave",
-      "symbol": "PWETH",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/32454/thumb/PrizeWETHIcon_200.png?1698241047"
     },
     {
       "chainId": 10,
@@ -256,10 +231,19 @@
     },
     {
       "chainId": 10,
-      "address": "0x6f748fd65d7c71949ba6641b3248c4c191f3b322",
-      "name": "Exactly WBTC",
-      "symbol": "EXAWBTC",
-      "decimals": 8
+      "address": "0x9560e827af36c94d2ac33a39bce1fe78631088db",
+      "name": "Velodrome Finance",
+      "symbol": "VELO",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/25783/thumb/velo.png?1696524870"
+    },
+    {
+      "chainId": 10,
+      "address": "0xda10009cbd5d07dd0cecc66161fc93d7c9000da1",
+      "name": "MakerDAO Optimism Bridged DAI (Optimism)",
+      "symbol": "DAI",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/39818/thumb/dai.png?1724190656"
     },
     {
       "chainId": 10,
@@ -279,14 +263,6 @@
     },
     {
       "chainId": 10,
-      "address": "0x0d82b5d3a8420c285c6d353a6bdc30d164bb50f0",
-      "name": "Aktionariat Sportsparadise Switzerland AG Tokenized Shares",
-      "symbol": "SPOS",
-      "decimals": 0,
-      "logoURI": "https://assets.coingecko.com/coins/images/33391/thumb/SPOS.png?1701680250"
-    },
-    {
-      "chainId": 10,
       "address": "0x513c7e3a9c69ca3e22550ef58ac1c0088e918fff",
       "name": "Aave v3 OP",
       "symbol": "AOP",
@@ -295,19 +271,27 @@
     },
     {
       "chainId": 10,
-      "address": "0xda10009cbd5d07dd0cecc66161fc93d7c9000da1",
-      "name": "MakerDAO Optimism Bridged DAI (Optimism)",
-      "symbol": "DAI",
+      "address": "0x17aabf6838a6303fc6e9c5a227dc1eb6d95c829a",
+      "name": "Magicaltux",
+      "symbol": "TUX",
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/39818/thumb/dai.png?1724190656"
+      "logoURI": "https://assets.coingecko.com/coins/images/33909/thumb/1703316796-picsay.png?1703453966"
     },
     {
       "chainId": 10,
-      "address": "0x22ab31cd55130435b5efbf9224b6a9d5ec36533f",
-      "name": "Exactly Wrapped stETH",
-      "symbol": "EXAWSTETH",
+      "address": "0x4200000000000000000000000000000000000042",
+      "name": "Optimism",
+      "symbol": "OP",
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/31172/thumb/ExawstETH_1.png?1696530000"
+      "logoURI": "https://assets.coingecko.com/coins/images/25244/thumb/Optimism.png?1696524385"
+    },
+    {
+      "chainId": 10,
+      "address": "0xc3864f98f2a61a7caeb95b039d031b4e2f55e0e9",
+      "name": "OpenXSwap",
+      "symbol": "OPENX",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/27663/thumb/openx_BASE.png?1710472693"
     },
     {
       "chainId": 10,
@@ -319,11 +303,11 @@
     },
     {
       "chainId": 10,
-      "address": "0xd0cf4de352ac8dcce00bd6b93ee73d3cb272edc3",
-      "name": "PCM",
-      "symbol": "PCM",
+      "address": "0x10398abc267496e49106b07dd6be13364d10dc71",
+      "name": "Let's Get HAI",
+      "symbol": "HAI",
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/50402/thumb/pcmlabs_32.png?1727591862"
+      "logoURI": "https://assets.coingecko.com/coins/images/35863/thumb/hai-logo-200x200.png?1711190591"
     },
     {
       "chainId": 10,
@@ -343,6 +327,14 @@
     },
     {
       "chainId": 10,
+      "address": "0xed9b52e6d2df4ad9fc258254e1e5ef5ad0b3ca3c",
+      "name": "Aktionariat Fieldoo AG Tokenized Shares",
+      "symbol": "FDOS",
+      "decimals": 0,
+      "logoURI": "https://assets.coingecko.com/coins/images/33392/thumb/FDOS.png?1701680368"
+    },
+    {
+      "chainId": 10,
       "address": "0xf8e943f646816e4b51279b8934753821ed832dca",
       "name": "Cthulhu Finance",
       "symbol": "CTH",
@@ -351,27 +343,43 @@
     },
     {
       "chainId": 10,
-      "address": "0xe3b3a464ee575e8e25d2508918383b89c832f275",
-      "name": "PoolTogether Prize USD Coin",
-      "symbol": "PUSDC.E",
-      "decimals": 6,
-      "logoURI": "https://assets.coingecko.com/coins/images/32455/thumb/prizeUSDCIcon_200.png?1698241065"
+      "address": "0xa430a427bd00210506589906a71b54d6c256cedb",
+      "name": "Exactly Optimism",
+      "symbol": "EXAOP",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/31173/thumb/ExaOP_1.png?1696530001"
     },
     {
       "chainId": 10,
-      "address": "0x8b21e9b7daf2c4325bf3d18c1beb79a347fe902a",
-      "name": "Collab.Land",
-      "symbol": "COLLAB",
+      "address": "0xd9cc3d70e730503e7f28c1b407389198c4b75fa2",
+      "name": "TLX",
+      "symbol": "TLX",
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/29098/thumb/collab.png?1696528061"
+      "logoURI": "https://assets.coingecko.com/coins/images/37043/thumb/TLXlogoMain.png?1713162908"
     },
     {
       "chainId": 10,
-      "address": "0xc3864f98f2a61a7caeb95b039d031b4e2f55e0e9",
-      "name": "OpenXSwap",
-      "symbol": "OPENX",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/27663/thumb/openx_BASE.png?1710472693"
+      "address": "0xd6c67ff71a82f1d994d94fa01295467d273d7324",
+      "name": "Aktionariat DDC Schweiz AG Tokenized Shares",
+      "symbol": "DDCS",
+      "decimals": 0,
+      "logoURI": "https://assets.coingecko.com/coins/images/33354/thumb/DDC.png?1701563532"
+    },
+    {
+      "chainId": 10,
+      "address": "0x0d82b5d3a8420c285c6d353a6bdc30d164bb50f0",
+      "name": "Aktionariat Sportsparadise Switzerland AG Tokenized Shares",
+      "symbol": "SPOS",
+      "decimals": 0,
+      "logoURI": "https://assets.coingecko.com/coins/images/33391/thumb/SPOS.png?1701680250"
+    },
+    {
+      "chainId": 10,
+      "address": "0x8fb94e08bc984497aaaf1a545ed455be89f8c675",
+      "name": "Aktionariat TV PLUS AG Tokenized Shares",
+      "symbol": "TVPLS",
+      "decimals": 0,
+      "logoURI": "https://assets.coingecko.com/coins/images/33375/thumb/TVPLS.png?1701649948"
     },
     {
       "chainId": 10,
@@ -412,14 +420,6 @@
       "symbol": "USDPY",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/40153/thumb/usdpy.png?1726073418"
-    },
-    {
-      "chainId": 10,
-      "address": "0x4200000000000000000000000000000000000006",
-      "name": "L2 Standard Bridged WETH (Optimism)",
-      "symbol": "WETH",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/39715/thumb/WETH.PNG?1723731805"
     },
     {
       "chainId": 10,
@@ -1319,14 +1319,6 @@
     },
     {
       "chainId": 10,
-      "address": "0x9fd22a17b4a96da3f83797d122172c450381fb88",
-      "name": "Jefe [OLD]",
-      "symbol": "JEFE",
-      "decimals": 9,
-      "logoURI": "https://assets.coingecko.com/coins/images/25336/thumb/JEFE_200.png?1696524470"
-    },
-    {
-      "chainId": 10,
       "address": "0x8413041a7702603d9d991f2c4add29e4e8a241f8",
       "name": "Router Protocol [OLD]",
       "symbol": "ROUTE",
@@ -1371,7 +1363,7 @@
       "name": "Phemex Token",
       "symbol": "PT",
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/33314/thumb/phemex_logo.png?1701959611"
+      "logoURI": "https://assets.coingecko.com/coins/images/33314/thumb/PT.png?1762850705"
     },
     {
       "chainId": 10,
@@ -2167,7 +2159,7 @@
     }
   ],
   "version": {
-    "major": 51,
+    "major": 52,
     "minor": 0,
     "patch": 0
   }

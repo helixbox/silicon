@@ -4,24 +4,8 @@
   "keywords": [
     "defi"
   ],
-  "timestamp": "2025-09-29T09:01:04.674+00:00",
+  "timestamp": "2025-11-11T12:01:07.953+00:00",
   "tokens": [
-    {
-      "chainId": 5031,
-      "address": "0x046ede9564a72571df6f5e44d0405360c0f4dcab",
-      "name": "Wrapped SOMI",
-      "symbol": "WSOMI",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/69031/thumb/somi.png?1757319530"
-    },
-    {
-      "chainId": 5031,
-      "address": "0x67b302e35aef5eee8c32d934f5856869ef428330",
-      "name": "Stargate Bridged USDT (Somnia)",
-      "symbol": "USDT",
-      "decimals": 6,
-      "logoURI": "https://assets.coingecko.com/coins/images/69034/thumb/usdt.jpg?1757320116"
-    },
     {
       "chainId": 5031,
       "address": "0xc063b29cd6b30885783b505ae180b3079e0a2154",
@@ -29,6 +13,22 @@
       "symbol": "NIA",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/69037/thumb/nia.png?1757575974"
+    },
+    {
+      "chainId": 5031,
+      "address": "0x67b302e35aef5eee8c32d934f5856869ef428330",
+      "name": "Stargate Bridged USDT",
+      "symbol": "USDT",
+      "decimals": 6,
+      "logoURI": "https://assets.coingecko.com/coins/images/70631/thumb/usdt.jpg?1762857609"
+    },
+    {
+      "chainId": 5031,
+      "address": "0x046ede9564a72571df6f5e44d0405360c0f4dcab",
+      "name": "Wrapped SOMI",
+      "symbol": "WSOMI",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/69031/thumb/somi.png?1757319530"
     },
     {
       "chainId": 5031,
@@ -50,6 +50,6 @@
   "version": {
     "major": 0,
     "minor": 1,
-    "patch": 1
+    "patch": 2
   }
 }
