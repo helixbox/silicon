@@ -232,6 +232,14 @@
     }
   },
   {
+    "id": "11-11",
+    "symbol": "11.11",
+    "name": "11.11",
+    "platforms": {
+      "binance-smart-chain": "0xb71481985b0d6531b2b208d1cf87a40507214444"
+    }
+  },
+  {
     "id": "11am",
     "symbol": "11am",
     "name": "11am",
@@ -2852,7 +2860,9 @@
     "id": "acurast",
     "symbol": "acu",
     "name": "Acurast",
-    "platforms": {}
+    "platforms": {
+      "ethereum": "0x216b3643ff8b7bb30d8a48e9f1bd550126202add"
+    }
   },
   {
     "id": "adacash",
@@ -12182,6 +12192,15 @@
     "name": "Awoke",
     "platforms": {
       "solana": "ovutZfkUMXRBEH4hAXJE42j2GK3Az9ZjTdbG5taWoKe"
+    }
+  },
+  {
+    "id": "axcnh",
+    "symbol": "axcnh",
+    "name": "AxCNH",
+    "platforms": {
+      "conflux": "0x70bfd7f7eadf9b9827541272589a6b2bb760ae2e",
+      "ethereum": "0x2925ac3be7d585874b88ea51ed50add376ad8239"
     }
   },
   {
@@ -99757,10 +99776,18 @@
   {
     "id": "oobit",
     "symbol": "obt",
-    "name": "Oobit",
+    "name": "Oobit [Old]",
     "platforms": {
       "ethereum": "0x07f9702ce093db82dfdc92c2c6e578d6ea8d5e22",
       "binance-smart-chain": "0x07f9702ce093db82dfdc92c2c6e578d6ea8d5e22"
+    }
+  },
+  {
+    "id": "oobit-2",
+    "symbol": "oob",
+    "name": "Oobit",
+    "platforms": {
+      "solana": "oobQ3oX6ubRYMNMahG7VSCe8Z73uaQbAWFn6f22XTgo"
     }
   },
   {
@@ -123100,7 +123127,8 @@
     "name": "Singularity Finance",
     "platforms": {
       "ethereum": "0x7636d8722fdf7cd34232a915e48e96aa3eb386bf",
-      "binance-smart-chain": "0x7636d8722fdf7cd34232a915e48e96aa3eb386bf"
+      "binance-smart-chain": "0x7636d8722fdf7cd34232a915e48e96aa3eb386bf",
+      "base": "0x863b7364a29daa23c9fcbd02e27d129a8b185891"
     }
   },
   {
@@ -129405,6 +129433,7 @@
     "name": "Stargate Bridged USDT",
     "platforms": {
       "somnia": "0x67b302e35aef5eee8c32d934f5856869ef428330",
+      "peaq": "0xf4d9235269a96aadafc9adae454a0618ebe37949",
       "hemi": "0xbb0d083fb1be0a9f6157ec484b6c79e0a4e31c2e"
     }
   },
@@ -129435,14 +129464,6 @@
     "name": "Stargate Bridged USDT (Fuse)",
     "platforms": {
       "fuse": "0x3695dd1d1d43b794c0b13eb8be8419eb3ac22bf7"
-    }
-  },
-  {
-    "id": "stargate-bridged-usdt-peaq",
-    "symbol": "usdt",
-    "name": "Stargate Bridged USDT (Peaq)",
-    "platforms": {
-      "peaq": "0xf4d9235269a96aadafc9adae454a0618ebe37949"
     }
   },
   {
@@ -145510,6 +145531,14 @@
     "name": "Veritaseum",
     "platforms": {
       "ethereum": "0x8f3470a7388c05ee4e7af3d01d8c722b0ff52374"
+    }
+  },
+  {
+    "id": "vernus",
+    "symbol": "ver",
+    "name": "Vernus",
+    "platforms": {
+      "solana": "DL7JgzgcJLudqJAVTXWyNizT9p9Rk5kxT4bWKUwcpump"
     }
   },
   {
