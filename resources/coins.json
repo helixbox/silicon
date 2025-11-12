@@ -9805,14 +9805,6 @@
     }
   },
   {
-    "id": "arma-block",
-    "symbol": "ab",
-    "name": "Arma Block",
-    "platforms": {
-      "ethereum": "0x84fad63f8f26335f4f1bebc9fbf5ba277fd23c9e"
-    }
-  },
-  {
     "id": "arm-holdings-plc-ondo-tokenized-stock",
     "symbol": "armon",
     "name": "Arm Holdings plc (Ondo Tokenized Stock)",
@@ -13013,6 +13005,14 @@
     "name": "Baby Fwog",
     "platforms": {
       "solana": "3Bbj7eZTuMd2FrfeZ2degzckxhgB5b63crGoHLtrpump"
+    }
+  },
+  {
+    "id": "baby-giggle",
+    "symbol": "bgiggle",
+    "name": "Baby Giggle",
+    "platforms": {
+      "binance-smart-chain": "0xea3faf047279d861e95c2105fe2c2160b29989e2"
     }
   },
   {
@@ -28260,6 +28260,14 @@
     }
   },
   {
+    "id": "cc0-company",
+    "symbol": "cc0company",
+    "name": "CC0 COMPANY",
+    "platforms": {
+      "base": "0x67c5f00491c09cbcf6359f95690574e6106bb3cf"
+    }
+  },
+  {
     "id": "cca",
     "symbol": "cca",
     "name": "CCA",
@@ -28446,6 +28454,14 @@
     "name": "Celer Bridged USDC (Conflux)",
     "platforms": {
       "conflux": "0x6963efed0ab40f6c3d7bda44a05dcf1437c44372"
+    }
+  },
+  {
+    "id": "celer-bridged-usdc-filecoin",
+    "symbol": "usdc",
+    "name": "Celer Bridged USDC (Filecoin)",
+    "platforms": {
+      "filecoin": "0x2421db204968a367cc2c866cd057fa754cb84edf"
     }
   },
   {
@@ -29329,7 +29345,6 @@
       "bsquared-network": "0x709229d9587886a1edfee6b5ce636e1d70d1ce39",
       "celo": "0xd07294e6e917e07dfdcee882dd1e2565085c2ae0",
       "core": "0x3902228d6a3d2dc44731fd9d45fee6a61c722d0b",
-      "starknet": "0x060f47b96b525c1014fed595e87e98edc3ce0731627a0670e1804ee1a3ca0ee9",
       "fraxtal": "0xd6a6ba37faac229b9665e86739ca501401f5a940",
       "etherlink": "0x8ce7618e8f8e514d13889283f58ff03b794e6cc3",
       "katana": "0xc2c447b04e0ed3476ddbdae8e9e39be7159d27b6",
@@ -29355,6 +29370,7 @@
       "sora": "0x008484148dcf23d1b48908393e7a00d5fdc3bf81029a73eeca62a15ebfb1205a",
       "blast": "0x93202ec683288a9ea75bb829c6bacfb2bfea9013",
       "avalanche": "0x5947bb275c521040051d82396192181b413227a3",
+      "starknet": "0x60f47b96b525c1014fed595e87e98edc3ce0731627a0670e1804ee1a3ca0ee9",
       "binance-smart-chain": "0xf8a0bf9cf54bb92f17374d9e9a321e6a111a51bd",
       "polygon-pos": "0x53e0bca35ec356bd5dddfebbd1fc0fd03fabad39",
       "arbitrum-one": "0xf97f4df75117a78c1a5a0dbb814af92458539fb4"
@@ -35332,14 +35348,6 @@
     }
   },
   {
-    "id": "crux-finance",
-    "symbol": "crux",
-    "name": "Crux Finance",
-    "platforms": {
-      "ergo": "00b42b41cb438c41d0139aa8432eb5eeb70d5a02d3df891f880d5fe08670c365"
-    }
-  },
-  {
     "id": "crvusd",
     "symbol": "crvusd",
     "name": "crvUSD",
@@ -36467,6 +36475,7 @@
       "base": "0x8ee73c484a26e0a5df2ee2a4960b789967dd0415",
       "energi": "0xd3319eaf3c4743ac75aace77befcfa445ed6e69e",
       "sora": "0x002ead91a2de57b8855b53d4a62c25277073fd7f65f7e5e79f4936ed747fcad0",
+      "etherlink": "0x004a476b5b76738e34c86c7144554b9d34402f13",
       "polygon-pos": "0x172370d5cd63279efa6d502dab29171933a610af",
       "arbitrum-one": "0x11cdb42b0eb46d95f990bedd4695a6e3fa034978"
     }
@@ -38206,7 +38215,7 @@
     "platforms": {
       "solana": "GMzuntWYJLpNuCizrSR7ZXggiMdDzTNiEmSNHHunpump",
       "base": "0x176383016bb310c9f1c180dc6729d5e28104e602",
-      "starknet": "0x04fcaf2a7b4a072fe57c59beee807322d34ed65000d78611c909a46fead07fb1"
+      "starknet": "0x4fcaf2a7b4a072fe57c59beee807322d34ed65000d78611c909a46fead07fb1"
     }
   },
   {
@@ -43684,8 +43693,8 @@
     "name": "Dog (Bitcoin)",
     "platforms": {
       "ordinals": "840000:3",
-      "starknet": "0x040e81cfeb176bfdbc5047bbc55eb471cfab20a6b221f38d8fda134e1bfffca4",
-      "solana": "dog1viwbb2vWDpER5FrJ4YFG6gq6XuyFohUe9TXN65u"
+      "solana": "dog1viwbb2vWDpER5FrJ4YFG6gq6XuyFohUe9TXN65u",
+      "starknet": "0x40e81cfeb176bfdbc5047bbc55eb471cfab20a6b221f38d8fda134e1bfffca4"
     }
   },
   {
@@ -49962,9 +49971,9 @@
     "name": "Spiko EU T-Bills Money Market Fund",
     "platforms": {
       "ethereum": "0xa0769f7a8fc65e47de93797b4e21c073c117fc80",
-      "starknet": "0x04f5e0de717daa6aa8de63b1bf2e8d7823ec5b21a88461b1519d9dbc956fb7f2",
       "etherlink": "0xa0769f7a8fc65e47de93797b4e21c073c117fc80",
       "base": "0xa0769f7a8fc65e47de93797b4e21c073c117fc80",
+      "starknet": "0x4f5e0de717daa6aa8de63b1bf2e8d7823ec5b21a88461b1519d9dbc956fb7f2",
       "polygon-pos": "0xa0769f7a8fc65e47de93797b4e21c073c117fc80",
       "arbitrum-one": "0xcbeb19549054cc0a6257a77736fc78c367216ce7"
     }
@@ -52049,38 +52058,6 @@
     "name": "FE TECH",
     "platforms": {
       "ethereum": "0xf4a509313437dfc64e2efed14e2b607b1aed30c5"
-    }
-  },
-  {
-    "id": "few-wrapped-duo-eth",
-    "symbol": "fwdeth",
-    "name": "Few Wrapped Duo ETH",
-    "platforms": {
-      "blast": "0xb0de93a54da8a2cfcde44a06f797ab2fb9d39fb8"
-    }
-  },
-  {
-    "id": "few-wrapped-duo-usd",
-    "symbol": "fwdusd",
-    "name": "Few Wrapped Duo USD",
-    "platforms": {
-      "blast": "0x04d4fd245acd3d7b3a1126ae27173fca354f658b"
-    }
-  },
-  {
-    "id": "few-wrapped-juice",
-    "symbol": "fwjuice",
-    "name": "Few Wrapped Juice",
-    "platforms": {
-      "blast": "0x30c7b9f4cd589203d250ad165651e82e338cb5bb"
-    }
-  },
-  {
-    "id": "few-wrapped-orbit-protocol",
-    "symbol": "fworbit",
-    "name": "Few Wrapped Orbit Protocol",
-    "platforms": {
-      "blast": "0x35b1cd11b684c7a9e1aa8d34e6b2a500310ec35c"
     }
   },
   {
@@ -65867,14 +65844,6 @@
     }
   },
   {
-    "id": "honor-world-token",
-    "symbol": "hwt",
-    "name": "Honor World Token",
-    "platforms": {
-      "arbitrum-one": "0xbcc9c1763d54427bdf5efb6e9eb9494e5a1fbabf"
-    }
-  },
-  {
     "id": "hood",
     "symbol": "hood",
     "name": "HOOD",
@@ -72566,6 +72535,12 @@
     "platforms": {
       "solana": "jupSoLaHXQiZZTSfEWMTRRgpnyFm8f6sZdosWBjx93v"
     }
+  },
+  {
+    "id": "jupusd",
+    "symbol": "jupusd",
+    "name": "JupUSD",
+    "platforms": {}
   },
   {
     "id": "juris-protocol",
@@ -80947,8 +80922,8 @@
       "solana": "LBTCgU4b3wsFKsPwBn1rRZDx5DoFutM6RPiEt1TPDsY",
       "corn": "0xecac9c5f704e954931349da37f60e39f515c11c1",
       "tac": "0xecac9c5f704e954931349da37f60e39f515c11c1",
-      "starknet": "0x036834A40984312F7f7de8D31e3f6305B325389eAEeA5B1c0664b2fB936461a4",
       "base": "0xecac9c5f704e954931349da37f60e39f515c11c1",
+      "starknet": "0x36834A40984312F7f7de8D31e3f6305B325389eAEeA5B1c0664b2fB936461a4",
       "binance-smart-chain": "0xecac9c5f704e954931349da37f60e39f515c11c1"
     }
   },
@@ -81983,6 +81958,12 @@
     "platforms": {
       "stellar": "GAB7STHVD5BDH3EEYXPI3OM7PCS4V443PYB5FNT6CFGJVPDLMKDM24WK"
     }
+  },
+  {
+    "id": "lumera",
+    "symbol": "lume",
+    "name": "Lumera",
+    "platforms": {}
   },
   {
     "id": "lumera-health",
@@ -88487,7 +88468,7 @@
     "name": "Midas mRe7BTC",
     "platforms": {
       "ethereum": "0x9fb442d6b612a6dcd2acc67bb53771ef1d9f661a",
-      "starknet": "0x04e4fb1a9ca7e84bae609b9dc0078ad7719e49187ae7e425bb47d131710eddac"
+      "starknet": "0x4e4fb1a9ca7e84bae609b9dc0078ad7719e49187ae7e425bb47d131710eddac"
     }
   },
   {
@@ -88505,7 +88486,7 @@
     "platforms": {
       "ethereum": "0x87c9053c819bb28e0d73d33059e1b3da80afb0cf",
       "etherlink": "0x733d504435a49fc8c4e9759e756c2846c92f0160",
-      "starknet": "0x04be8945e61dc3e19ebadd1579a6bd53b262f51ba89e6f8b0c4bc9a7e3c633fc"
+      "starknet": "0x4be8945e61dc3e19ebadd1579a6bd53b262f51ba89e6f8b0c4bc9a7e3c633fc"
     }
   },
   {
@@ -93130,14 +93111,6 @@
     }
   },
   {
-    "id": "muva",
-    "symbol": "$muva",
-    "name": "MUVA",
-    "platforms": {
-      "solana": "CvM4hkeWFY7h5BYqeo7HvyKwi9qi8KqVipv41ieopump"
-    }
-  },
-  {
     "id": "muzki",
     "symbol": "muzki",
     "name": "Muzki",
@@ -93550,6 +93523,14 @@
     "name": "MYX Finance",
     "platforms": {
       "binance-smart-chain": "0xd82544bf0dfe8385ef8fa34d67e6e4940cc63e16"
+    }
+  },
+  {
+    "id": "n3on",
+    "symbol": "n3on",
+    "name": "N3on",
+    "platforms": {
+      "solana": "HBRPNwdcT67cadiBS8VNP4mRt8ornngLF34TZXthrust"
     }
   },
   {
@@ -96164,7 +96145,7 @@
     "symbol": "sstrk",
     "name": "Nimbora Staked STRK",
     "platforms": {
-      "starknet": "0x0356f304b154d29d2a8fe22f1cb9107a9b564a733cf6b4cc47fd121ac1af90c9"
+      "starknet": "0x356f304b154d29d2a8fe22f1cb9107a9b564a733cf6b4cc47fd121ac1af90c9"
     }
   },
   {
@@ -97311,6 +97292,14 @@
     }
   },
   {
+    "id": "nova-ai-2",
+    "symbol": "nova",
+    "name": "NOVA AI",
+    "platforms": {
+      "solana": "AfLh3wndb2yHQWJZFSjyncvRDDyU8DQPcGbY1eiABdev"
+    }
+  },
+  {
     "id": "nova-chain",
     "symbol": "nova",
     "name": "Nova Chain",
@@ -98354,14 +98343,6 @@
       "energi": "0x99a17fb61fbdc4e42f6b0f496fe92ba820ce5d2b",
       "sora": "0x002ca40397c794e25dba18cf807910eeb69eb8e81b3f07bb54f7c5d1d8ab76b9",
       "polygon-pos": "0x282d8efce846a88b159800bd4130ad77443fa1a1"
-    }
-  },
-  {
-    "id": "oceansgallerie-on-sui",
-    "symbol": "oceans",
-    "name": "OceansGallerie On SUI",
-    "platforms": {
-      "sui": "0xe90c71d308d8e6fed933d20f8b94d811e1dac649dac7815762520e90f84392f7::oceans::OCEANS"
     }
   },
   {
@@ -112090,7 +112071,8 @@
     "platforms": {
       "ethereum": "0x8df723295214ea6f21026eeeb4382d475f146f9f",
       "xrp": "EURQ.rDk1xiArDMjDqnrR2yWypwQAKg4mKnQYvs",
-      "polygon-pos": "0xd571edb2ef29df10fcd6200fd6d0ed2389983db3"
+      "polygon-pos": "0xd571edb2ef29df10fcd6200fd6d0ed2389983db3",
+      "algorand": "2768422954"
     }
   },
   {
@@ -112100,7 +112082,8 @@
     "platforms": {
       "ethereum": "0xc83e27f270cce0a3a3a29521173a83f402c1768b",
       "xrp": "USDQ.rDk1xiArDMjDqnrR2yWypwQAKg4mKnQYvs",
-      "polygon-pos": "0xb291996477504506bf5f583102b5b5ea5d1e40e0"
+      "polygon-pos": "0xb291996477504506bf5f583102b5b5ea5d1e40e0",
+      "algorand": "2768603795"
     }
   },
   {
@@ -114161,7 +114144,7 @@
   {
     "id": "redbelly-bridged-usdt-redbelly",
     "symbol": "usdt",
-    "name": "Redbelly Bridged USDT (Redbelly)",
+    "name": "Reddex Bridged USDT (Redbelly)",
     "platforms": {
       "redbelly-network": "0x8c4acd74ff4385f3b7911432fa6787aa14406f8b"
     }
@@ -116841,14 +116824,6 @@
     }
   },
   {
-    "id": "rockswap",
-    "symbol": "rock",
-    "name": "Rockswap",
-    "platforms": {
-      "bitrock": "0x826628622a8b55f4af6ac2a1dd1273bf837e651a"
-    }
-  },
-  {
     "id": "rocky",
     "symbol": "rocky",
     "name": "Rocky",
@@ -119174,14 +119149,6 @@
     "name": "Sashimi",
     "platforms": {
       "ethereum": "0xc28e27870558cf22add83540d2126da2e4b464c2"
-    }
-  },
-  {
-    "id": "sassy-the-mf-sasquatch",
-    "symbol": "sassymf",
-    "name": "Sassy The MF Sasquatch",
-    "platforms": {
-      "solana": "39FfGq66bQVKEAUX6bRWuRgLs2ZJ5thZhVMopA3yF3PN"
     }
   },
   {
@@ -123217,7 +123184,7 @@
     "symbol": "sstr",
     "name": "SISTER",
     "platforms": {
-      "starknet": "0x0102d5e124c51b936ee87302e0f938165aec96fb6c2027ae7f3a5ed46c77573b"
+      "starknet": "0x102d5e124c51b936ee87302e0f938165aec96fb6c2027ae7f3a5ed46c77573b"
     }
   },
   {
@@ -126393,7 +126360,7 @@
   {
     "id": "sonic-bridged-usdt-sonic",
     "symbol": "usdt",
-    "name": "Sonic Bridged USDT (Sonic)",
+    "name": "Sonic Gateway Bridged USDT (Sonic)",
     "platforms": {
       "sonic": "0x6047828dc181963ba44974801ff68e538da5eaf9"
     }
@@ -127667,9 +127634,9 @@
     "name": "Spiko US T-Bills Money Market Fund",
     "platforms": {
       "ethereum": "0xe4880249745eac5f1ed9d8f7df844792d560e750",
-      "starknet": "0x020ff2f6021ada9edbceaf31b96f9f67b746662a6e6b2bc9d30c0d3e290a71f6",
       "etherlink": "0xe4880249745eac5f1ed9d8f7df844792d560e750",
       "base": "0xe4880249745eac5f1ed9d8f7df844792d560e750",
+      "starknet": "0x20ff2f6021ada9edbceaf31b96f9f67b746662a6e6b2bc9d30c0d3e290a71f6",
       "polygon-pos": "0xe4880249745eac5f1ed9d8f7df844792d560e750",
       "arbitrum-one": "0x021289588cd81dc1ac87ea91e91607eef68303f5"
     }
@@ -129433,6 +129400,7 @@
     "name": "Stargate Bridged USDT",
     "platforms": {
       "somnia": "0x67b302e35aef5eee8c32d934f5856869ef428330",
+      "plume-network": "0xda6087e69c51e7d31b6dbad276a3c44703dfdcad",
       "peaq": "0xf4d9235269a96aadafc9adae454a0618ebe37949",
       "hemi": "0xbb0d083fb1be0a9f6157ec484b6c79e0a4e31c2e"
     }
@@ -129464,14 +129432,6 @@
     "name": "Stargate Bridged USDT (Fuse)",
     "platforms": {
       "fuse": "0x3695dd1d1d43b794c0b13eb8be8419eb3ac22bf7"
-    }
-  },
-  {
-    "id": "stargate-bridged-usdt-plume",
-    "symbol": "usdt",
-    "name": "Stargate Bridged USDT (Plume)",
-    "platforms": {
-      "plume-network": "0xda6087e69c51e7d31b6dbad276a3c44703dfdcad"
     }
   },
   {
@@ -129601,7 +129561,7 @@
     "symbol": "punk",
     "name": "Starkpunks",
     "platforms": {
-      "starknet": "0x026e0852e1de834db3858b644270c52c4e0cab5be1da710751711c11b74eefed"
+      "starknet": "0x26e0852e1de834db3858b644270c52c4e0cab5be1da710751711c11b74eefed"
     }
   },
   {
@@ -134455,8 +134415,8 @@
       "bob-network": "0xbba2ef945d523c4e2608c9e1214c2cc64d4fc2e2",
       "hydration": "asset_registry%2F1000765",
       "optimistic-ethereum": "0x6c84a8f1c29108f47a79964b5fe888d4f4d0de40",
-      "starknet": "0x04daa17763b286d1e59b97c283c0b8c949994c361e426a28f743c67bdfe9a32f",
       "solana": "6DNSN2BJsaPFdFFc1zP37kkeNe4Usc1Sqkzr9C9vPWcU",
+      "starknet": "0x4daa17763b286d1e59b97c283c0b8c949994c361e426a28f743c67bdfe9a32f",
       "base": "0x236aa50979d5f3de3bd1eeb40e81137f22ab794b",
       "polygon-pos": "0x236aa50979d5f3de3bd1eeb40e81137f22ab794b",
       "arbitrum-one": "0x6c84a8f1c29108f47a79964b5fe888d4f4d0de40"
@@ -141102,14 +141062,6 @@
     }
   },
   {
-    "id": "tunp",
-    "symbol": "tunp",
-    "name": "TUNP$",
-    "platforms": {
-      "solana": "7QF4XJzSJkVK989bJsLkkuqQp3J2deZtAPUPzrUxFqJJ"
-    }
-  },
-  {
     "id": "tupelothedog",
     "symbol": "tupelo",
     "name": "tupelothedog",
@@ -144744,7 +144696,7 @@
   {
     "id": "vaultbridge-bridged-usdt-katana",
     "symbol": "vbusdt",
-    "name": "VaultBridge Bridged USDT (Katana)",
+    "name": "Vault Bridge Bridged USDT (Katana)",
     "platforms": {
       "katana": "0x2dca96907fde857dd3d816880a0df407eeb2d2f2"
     }
@@ -151624,14 +151576,6 @@
     }
   },
   {
-    "id": "wrapped-bitrock",
-    "symbol": "wbrock",
-    "name": "Wrapped Bitrock",
-    "platforms": {
-      "bitrock": "0x413f0e3a440aba7a15137f4278121450416882d5"
-    }
-  },
-  {
     "id": "wrapped-bittensor-universal",
     "symbol": "utao",
     "name": "Wrapped Bittensor (Universal)",
@@ -156800,8 +156744,8 @@
       "avalanche": "0x2cd3cdb3bd68eea0d3be81da707bc0c8743d7335",
       "solana": "3VcKofugG1SPJmjuiEZCJL5mk1JkyqGZ19ByeMWXVWfK",
       "plume-network": "0x2cd3cdb3bd68eea0d3be81da707bc0c8743d7335",
-      "starknet": "0x02CaB84694E1bE6AF2CE65b1Ae28A76009e8ec99EC4bC17047386abf20cbb688",
-      "sui": "0xa03ab7eee2c8e97111977b77374eaf6324ba617e7027382228350db08469189e::ybtc::YBTC"
+      "sui": "0xa03ab7eee2c8e97111977b77374eaf6324ba617e7027382228350db08469189e::ybtc::YBTC",
+      "starknet": "0x2CaB84694E1bE6AF2CE65b1Ae28A76009e8ec99EC4bC17047386abf20cbb688"
     }
   },
   {
@@ -159601,6 +159545,14 @@
     "platforms": {
       "wanchain": "0x6e11655d6ab3781c6613db8cb1bc3dee9a7e111f",
       "avalanche": "0x1b88d7ad51626044ec62ef9803ea264da4442f32"
+    }
+  },
+  {
+    "id": "zooko-s-dog",
+    "symbol": "jackjack",
+    "name": "Zooko's Dog",
+    "platforms": {
+      "solana": "HJBoRECiJddTZQZpuY8pHenf5CZ2yjju4npekmvbpump"
     }
   },
   {

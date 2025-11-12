@@ -4,15 +4,15 @@
   "keywords": [
     "defi"
   ],
-  "timestamp": "2025-11-04T18:00:46.626+00:00",
+  "timestamp": "2025-11-12T12:00:41.631+00:00",
   "tokens": [
     {
       "chainId": 98866,
-      "address": "0xdea149f84859d1ec50480c209b71bffa482b0530",
-      "name": "Nest Treasury Vault (LP)",
-      "symbol": "INTBILL",
+      "address": "0x2a3e301dbd45c143dfbb7b1ce1c55bf0bbf161cb",
+      "name": "Nest Apollo ACRDX Vault",
+      "symbol": "NACRDX",
       "decimals": 6,
-      "logoURI": "https://assets.coingecko.com/coins/images/66318/thumb/inTbill.png?1749197830"
+      "logoURI": "https://assets.coingecko.com/coins/images/70512/thumb/Nest_ACRDX_Vault.png?1762268426"
     },
     {
       "chainId": 98866,
@@ -32,35 +32,11 @@
     },
     {
       "chainId": 98866,
-      "address": "0xafb068838136358cfa6b54bea580b86df70bba7f",
-      "name": "exSat Staking BTC",
-      "symbol": "ESBTC",
+      "address": "0xea237441c92cae6fc17caaf9a7acb3f953be4bd1",
+      "name": "Wrapped Plume",
+      "symbol": "WPLUME",
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/67691/thumb/esbtc_logo-_1_.png?1753521998"
-    },
-    {
-      "chainId": 98866,
-      "address": "0x39d1f90ef89c52dda276194e9a832b484ee45574",
-      "name": "Plume Staked ETH",
-      "symbol": "PETH",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/67514/thumb/peth.png?1753068541"
-    },
-    {
-      "chainId": 98866,
-      "address": "0x2a3e301dbd45c143dfbb7b1ce1c55bf0bbf161cb",
-      "name": "Nest Apollo ACRDX Vault",
-      "symbol": "NACRDX",
-      "decimals": 6,
-      "logoURI": "https://assets.coingecko.com/coins/images/70512/thumb/Nest_ACRDX_Vault.png?1762268426"
-    },
-    {
-      "chainId": 98866,
-      "address": "0xda6087e69c51e7d31b6dbad276a3c44703dfdcad",
-      "name": "Stargate Bridged USDT (Plume)",
-      "symbol": "USDT",
-      "decimals": 6,
-      "logoURI": "https://assets.coingecko.com/coins/images/67009/thumb/usdt.jpg?1751459215"
+      "logoURI": "https://assets.coingecko.com/coins/images/70470/thumb/plume.jpg?1762154772"
     },
     {
       "chainId": 98866,
@@ -72,11 +48,27 @@
     },
     {
       "chainId": 98866,
-      "address": "0x5107272921a750a20d492fb41acf0b770b09a624",
-      "name": "Mineral Vault I Security Token",
-      "symbol": "MNRL",
+      "address": "0xafb068838136358cfa6b54bea580b86df70bba7f",
+      "name": "exSat Staking BTC",
+      "symbol": "ESBTC",
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/66290/thumb/mineral-vault.png?1749109942"
+      "logoURI": "https://assets.coingecko.com/coins/images/67691/thumb/esbtc_logo-_1_.png?1753521998"
+    },
+    {
+      "chainId": 98866,
+      "address": "0xdea149f84859d1ec50480c209b71bffa482b0530",
+      "name": "Nest Treasury Vault (LP)",
+      "symbol": "INTBILL",
+      "decimals": 6,
+      "logoURI": "https://assets.coingecko.com/coins/images/66318/thumb/inTbill.png?1749197830"
+    },
+    {
+      "chainId": 98866,
+      "address": "0x39d1f90ef89c52dda276194e9a832b484ee45574",
+      "name": "Plume Staked ETH",
+      "symbol": "PETH",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/67514/thumb/peth.png?1753068541"
     },
     {
       "chainId": 98866,
@@ -88,11 +80,11 @@
     },
     {
       "chainId": 98866,
-      "address": "0xea237441c92cae6fc17caaf9a7acb3f953be4bd1",
-      "name": "Wrapped Plume",
-      "symbol": "WPLUME",
+      "address": "0x5107272921a750a20d492fb41acf0b770b09a624",
+      "name": "Mineral Vault I Security Token",
+      "symbol": "MNRL",
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/70470/thumb/plume.jpg?1762154772"
+      "logoURI": "https://assets.coingecko.com/coins/images/66290/thumb/mineral-vault.png?1749109942"
     },
     {
       "chainId": 98866,
@@ -101,6 +93,14 @@
       "symbol": "NMNRL",
       "decimals": 6,
       "logoURI": "https://assets.coingecko.com/coins/images/70513/thumb/Nest_MNRL_Vault.png?1762268451"
+    },
+    {
+      "chainId": 98866,
+      "address": "0xda6087e69c51e7d31b6dbad276a3c44703dfdcad",
+      "name": "Stargate Bridged USDT",
+      "symbol": "USDT",
+      "decimals": 6,
+      "logoURI": "https://assets.coingecko.com/coins/images/70631/thumb/usdt.jpg?1762857609"
     },
     {
       "chainId": 98866,
@@ -418,6 +418,6 @@
   "version": {
     "major": 0,
     "minor": 34,
-    "patch": 0
+    "patch": 1
   }
 }
