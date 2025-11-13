@@ -2849,14 +2849,6 @@
     }
   },
   {
-    "id": "active-token",
-    "symbol": "active",
-    "name": "Active Token",
-    "platforms": {
-      "polygon-pos": "0xd9a9b4d466747e1ebcb7aeb42784452f40452367"
-    }
-  },
-  {
     "id": "actual",
     "symbol": "actual",
     "name": "ACTUAL",
@@ -4397,6 +4389,14 @@
     "name": "AIDA",
     "platforms": {
       "sui": "0x57e93adcecd97fc8b30fc6f124be185f292b648e324773d8fbe6650e8274790f::aida::AIDA"
+    }
+  },
+  {
+    "id": "aida-2",
+    "symbol": "aida",
+    "name": "Aida",
+    "platforms": {
+      "sui": "0xcee208b8ae33196244b389e61ffd1202e7a1ae06c8ec210d33402ff649038892::aida::AIDA"
     }
   },
   {
@@ -6383,14 +6383,6 @@
     "name": "Alpaca",
     "platforms": {
       "solana": "FfgtU4bMte3JRZGX7kcNVywxiGoSqUTga8eZxTSFpump"
-    }
-  },
-  {
-    "id": "alpaca-3",
-    "symbol": "alpaca",
-    "name": "Alpaca",
-    "platforms": {
-      "solana": "2AZH2nNLNzmG3v6nMC88pUEXWo3GA58zHzPxAmUppump"
     }
   },
   {
@@ -12878,14 +12870,6 @@
     }
   },
   {
-    "id": "baby-coq-inu",
-    "symbol": "bcoq",
-    "name": "Baby Coq Inu",
-    "platforms": {
-      "avalanche": "0x22897cf0da31e1f118649d9f6ad1809cabd84948"
-    }
-  },
-  {
     "id": "babycrash",
     "symbol": "babycrash",
     "name": "BabyCrash",
@@ -17476,14 +17460,6 @@
     }
   },
   {
-    "id": "bifrost-bridged-bnb-bifrost",
-    "symbol": "bnb",
-    "name": "Bifrost Bridged BNB (Bifrost)",
-    "platforms": {
-      "bifrost-network": "0xb800eaf843f962dfe5e145a8c9d07a3e70b11d7f"
-    }
-  },
-  {
     "id": "bifrost-bridged-eth-bifrost",
     "symbol": "eth",
     "name": "Bifrost Bridged ETH (Bifrost)",
@@ -18648,15 +18624,6 @@
     }
   },
   {
-    "id": "bitbonk",
-    "symbol": "bbonk",
-    "name": "BitBonk",
-    "platforms": {
-      "binance-smart-chain": "0xbbbbbbe1da5eab142b32f8887ee8d3872d847c20",
-      "ethereum": "0xbbbbbbe1da5eab142b32f8887ee8d3872d847c20"
-    }
-  },
-  {
     "id": "bitbook-token",
     "symbol": "bbt",
     "name": "BitBook",
@@ -19368,6 +19335,14 @@
     "name": "Bit Hotel",
     "platforms": {
       "binance-smart-chain": "0x57bc18f6177cdaffb34ace048745bc913a1b1b54"
+    }
+  },
+  {
+    "id": "bithotelskl",
+    "symbol": "bhskl",
+    "name": "BitHotelSKL",
+    "platforms": {
+      "skale": "0xd7889cf83515ab0947d8786c43674287c2fe532e"
     }
   },
   {
@@ -23938,8 +23913,8 @@
       "xdai": "0xdd96b45877d0e8361a4ddb732da741e97f3191ff",
       "astar": "0x4bf769b05e832fcdc9053fffbc78ca889acb5e1e",
       "fuse": "0x6a5f6a8121592becd6747a38d67451b310f7f156",
-      "milkomeda-cardano": "0x218c3c3d49d0e7b37aff0d8bb079de36ae61a4c0",
-      "sora": "0x00567d096a736f33bf78cad7b01e33463923b9c933ee13ab7e3fb7b23f5f953a"
+      "sora": "0x00567d096a736f33bf78cad7b01e33463923b9c933ee13ab7e3fb7b23f5f953a",
+      "milkomeda-cardano": "0x218c3c3d49d0e7b37aff0d8bb079de36ae61a4c0"
     }
   },
   {
@@ -23966,8 +23941,8 @@
       "velas": "0xe3f5a90f9cb311505cd691a46596599aa1a0ad7d",
       "cosmos": "ibc/0CD3A0285E1341859B5E86B6AB7682F023D03E97607CCC1DC95706411D866DF7",
       "klay-token": "0x078db7827a5531359f6cb63f62cfa20183c4f10c",
-      "milkomeda-cardano": "0x639a647fbe20b6c8ac19e48e2de44ea792c62c5c",
-      "sora": "0x0200060000000000000000000000000000000000000000000000000000000000"
+      "sora": "0x0200060000000000000000000000000000000000000000000000000000000000",
+      "milkomeda-cardano": "0x639a647fbe20b6c8ac19e48e2de44ea792c62c5c"
     }
   },
   {
@@ -24160,12 +24135,12 @@
       "boba": "0x66a2a913e447d6b4bf33efbec43aaef87890fbbc",
       "velas": "0x80a16016cc4a2e6a2caca8a4a498b1699ff0f844",
       "osmosis": "ibc/498A0751C798A0D9A389AA3691123DADA57DAA4FE165D5C75894505B876BA6E4",
-      "milkomeda-cardano": "0xb44a9b6905af7c801311e8f4e76932ee959c663c",
       "bitgert": "0xcf2df9377a4e3c10e9ea29fdb8879d74c27fcde7",
       "fuse": "0x620fd5fa44be6af63715ef4e65ddfa0387ad13f5",
       "step-network": "0xe3f5a90f9cb311505cd691a46596599aa1a0ad7d",
       "planq-network": "0xeceeefcee421d8062ef8d6b4d814efe4dc898265",
-      "sora": "0x00ef6658f79d8b560f77b7b20a5d7822f5bc22539c7b4056128258e5829da517"
+      "sora": "0x00ef6658f79d8b560f77b7b20a5d7822f5bc22539c7b4056128258e5829da517",
+      "milkomeda-cardano": "0xb44a9b6905af7c801311e8f4e76932ee959c663c"
     }
   },
   {
@@ -24356,7 +24331,6 @@
     "platforms": {
       "cronos": "0xe44fd7fcb2b1581822d0c862b68222998a0c299a",
       "cube": "0x57eea49ec1087695274a9c4f341e414eb64328c2",
-      "milkomeda-cardano": "0xe3f5a90f9cb311505cd691a46596599aa1a0ad7d",
       "cosmos": "ibc/EA1D43981D5C9A1C4AAEA9C23BB1D4FA126BA9BC7020A25E0AE4AA841EA25DC5",
       "kardiachain": "0x1540020a94aa8bc189aa97639da213a4ca49d9a7",
       "aurora": "0xc9bdeed33cd01541e1eed10f90519d2c06fe3feb",
@@ -24365,7 +24339,8 @@
       "meter": "0x79a61d3a28f8c8537a3df63092927cfa1150fb3c",
       "zksync": "0x5aea5775959fbc2557cc8789bc1bf90a239d9a91",
       "tomochain": "0x2eaa73bd0db20c64f53febea7b5f5e5bccc7fb8b",
-      "etherlink": "0xfc24f770f94edbca6d6f885e12d4317320bcb401"
+      "etherlink": "0xfc24f770f94edbca6d6f885e12d4317320bcb401",
+      "milkomeda-cardano": "0xe3f5a90f9cb311505cd691a46596599aa1a0ad7d"
     }
   },
   {
@@ -25501,14 +25476,6 @@
     "name": "BULBUL2DAO",
     "platforms": {
       "hyperevm": "0x99750393c5b40093a53ccd2d8e9f61ef4f401826"
-    }
-  },
-  {
-    "id": "buldak",
-    "symbol": "bul",
-    "name": "Buldak",
-    "platforms": {
-      "ethereum": "0x99d6ed75cddc1e47527613a4ce7c4a0a3526f183"
     }
   },
   {
@@ -29381,11 +29348,11 @@
       "osmosis": "ibc/D3327A763C23F01EC43D1F0DB3CEFEC390C362569B6FD191F40A5192F8960049",
       "plasma": "0x76a443768a5e3b8d1aed0105fc250877841deb40",
       "harmony-shard-0": "0x218532a12a389a4a92fc0c5fb22901d1c19198aa",
-      "milkomeda-cardano": "0xf390830df829cf22c53c8840554b98eafc5dcbc2",
       "energi": "0x68ca48ca2626c415a89756471d4ade2cc9034008",
       "sora": "0x008484148dcf23d1b48908393e7a00d5fdc3bf81029a73eeca62a15ebfb1205a",
       "blast": "0x93202ec683288a9ea75bb829c6bacfb2bfea9013",
       "avalanche": "0x5947bb275c521040051d82396192181b413227a3",
+      "milkomeda-cardano": "0xf390830df829cf22c53c8840554b98eafc5dcbc2",
       "starknet": "0x60f47b96b525c1014fed595e87e98edc3ce0731627a0670e1804ee1a3ca0ee9",
       "binance-smart-chain": "0xf8a0bf9cf54bb92f17374d9e9a321e6a111a51bd",
       "polygon-pos": "0x53e0bca35ec356bd5dddfebbd1fc0fd03fabad39",
@@ -45177,6 +45144,14 @@
     }
   },
   {
+    "id": "dragon-4",
+    "symbol": "dragon",
+    "name": "DRAGON",
+    "platforms": {
+      "binance-smart-chain": "0x66969ecd173451f00a4652a53acc6246569d4444"
+    }
+  },
+  {
     "id": "dragonchain",
     "symbol": "drgn",
     "name": "Dragonchain",
@@ -46853,6 +46828,14 @@
     "name": "Eddie Seal",
     "platforms": {
       "solana": "2Zvo6bnwJtyXhsPgbcfajTrEtB7NwrJhK8mMmtEXvHHc"
+    }
+  },
+  {
+    "id": "edel",
+    "symbol": "edel",
+    "name": "Edel",
+    "platforms": {
+      "base": "0xfb31f85a8367210b2e4ed2360d2da9dc2d2ccc95"
     }
   },
   {
@@ -52204,7 +52187,10 @@
     "id": "fight-2",
     "symbol": "fight",
     "name": "FIGHT",
-    "platforms": {}
+    "platforms": {
+      "solana": "8f62NyJGo7He5uWeveTA2JJQf4xzf8aqxkmzxRQ3mxfU",
+      "binance-smart-chain": "0xb2d97c4ed2d0ef452654f5cab3da3735b5e6f3ab"
+    }
   },
   {
     "id": "fight-for-justice",
@@ -62393,14 +62379,6 @@
     }
   },
   {
-    "id": "guild-of-heroes",
-    "symbol": "goh",
-    "name": "Guild of Heroes",
-    "platforms": {
-      "solana": "4YGs3uSYdtYaY8Czj5rZPpFZp9b9obUPftNDRkTxK1FG"
-    }
-  },
-  {
     "id": "gulfcoin-2",
     "symbol": "gulf",
     "name": "GulfCoin",
@@ -66109,6 +66087,14 @@
     }
   },
   {
+    "id": "horizon-5",
+    "symbol": "horizon",
+    "name": "Horizon",
+    "platforms": {
+      "xrp": "486F72697A6F6E00000000000000000000000000.rDKJWtrPqKiMBzK9FTVvebMVec7FJtJLx6"
+    }
+  },
+  {
     "id": "horizon-oracles",
     "symbol": "horizon",
     "name": "Horizon Oracles",
@@ -69474,14 +69460,6 @@
     }
   },
   {
-    "id": "insurex",
-    "symbol": "ixt",
-    "name": "iXledger",
-    "platforms": {
-      "ethereum": "0xfca47962d45adfdfd1ab2d972315db4ce7ccf094"
-    }
-  },
-  {
     "id": "integral",
     "symbol": "itgr",
     "name": "Integral",
@@ -69503,6 +69481,14 @@
     "name": "Integrity DAO",
     "platforms": {
       "avalanche": "0x34a528da3b2ea5c6ad1796eba756445d1299a577"
+    }
+  },
+  {
+    "id": "intellex",
+    "symbol": "itlx",
+    "name": "Intellex",
+    "platforms": {
+      "near-protocol": "itlx.intellex_xyz.near"
     }
   },
   {
@@ -71498,6 +71484,14 @@
     }
   },
   {
+    "id": "jeff-ceo",
+    "symbol": "ceo",
+    "name": "Jeff CEO",
+    "platforms": {
+      "base": "0xa66f68ef2d8091e13585a502464bd11a159cf710"
+    }
+  },
+  {
     "id": "jeffworld-token",
     "symbol": "jeff",
     "name": "JEFFWorld Token",
@@ -72303,6 +72297,14 @@
       "ethereum": "0xd9fc3e075d45254a1d834fea18af8041207dea0a",
       "binance-smart-chain": "0xd9fc3e075d45254a1d834fea18af8041207dea0a",
       "solana": "XsMAqkcKsUewDrzVkait4e5u4y8REgtyS7jWgCpLV2C"
+    }
+  },
+  {
+    "id": "j-p-morgan-deposit-token",
+    "symbol": "jpmd",
+    "name": "J.P. Morgan Deposit Token",
+    "platforms": {
+      "base": "0x7e0aedc93d9f898be835a44bfca3842e52416b82"
     }
   },
   {
@@ -85995,14 +85997,6 @@
     }
   },
   {
-    "id": "mei-solutions",
-    "symbol": "mei",
-    "name": "Mei Solutions",
-    "platforms": {
-      "solana": "4MshgHvWGvxDs8mtFqPGKC8kX6kuhniWSYPguBb1p1bh"
-    }
-  },
-  {
     "id": "melancholy-jimmy",
     "symbol": "jimmy",
     "name": "Melancholy Jimmy",
@@ -88943,8 +88937,8 @@
       "moonbeam": "0xdfa46478f9e5ea86d57387849598dbfb2e964b02",
       "syscoin": "0x2611fa1cae2a3e20ed47fb1b293437c14f41b00f",
       "celo": "0xb9c8f0d3254007ee4b98970b94544e473cd610ec",
-      "milkomeda-cardano": "0xb9c8f0d3254007ee4b98970b94544e473cd610ec",
-      "harmony-shard-0": "0x3f56e0c36d275367b8c502090edf38289b3dea0d"
+      "harmony-shard-0": "0x3f56e0c36d275367b8c502090edf38289b3dea0d",
+      "milkomeda-cardano": "0xb9c8f0d3254007ee4b98970b94544e473cd610ec"
     }
   },
   {
@@ -90558,14 +90552,6 @@
     "symbol": "xmr",
     "name": "Monero",
     "platforms": {}
-  },
-  {
-    "id": "monet-2",
-    "symbol": "monet",
-    "name": "MONET",
-    "platforms": {
-      "solana": "EBhJLsei9nyUkGkMaxQ6C37fr1L32xMT5ZDGhFahEeiE"
-    }
   },
   {
     "id": "monetha",
@@ -100088,6 +100074,14 @@
     }
   },
   {
+    "id": "openkitx403",
+    "symbol": "k403",
+    "name": "OpenKitx403",
+    "platforms": {
+      "solana": "HakUTodhpcA6T379NtPAUFajLykY1yUq4yrnSciWpump"
+    }
+  },
+  {
     "id": "openledger-2",
     "symbol": "open",
     "name": "OpenLedger",
@@ -103203,6 +103197,14 @@
     }
   },
   {
+    "id": "patriot-2",
+    "symbol": "patriot",
+    "name": "PATRIOT",
+    "platforms": {
+      "solana": "pA3VznTTnS22JERJ2okMK3hFebbw8dEpWph6UCf6USA"
+    }
+  },
+  {
     "id": "patrol-tao-com",
     "symbol": "sn81",
     "name": "grail",
@@ -105913,14 +105915,6 @@
     "name": "PigCat",
     "platforms": {
       "solana": "F5WPg7xdZczNg5pynWjPK8TZLT52WmAiT1ZuKRbaLnEM"
-    }
-  },
-  {
-    "id": "pigcoin-2",
-    "symbol": "pig",
-    "name": "Pigcoin",
-    "platforms": {
-      "polygon-pos": "0xe9bc9ad74cca887aff32ba09a121b1256fc9f052"
     }
   },
   {
@@ -121145,6 +121139,14 @@
     }
   },
   {
+    "id": "shadowos",
+    "symbol": "sos",
+    "name": "ShadowOS",
+    "platforms": {
+      "solana": "E514tLEAdmGFkxwnTA2WMxpMTpqmXASqgRRsrGwCpump"
+    }
+  },
+  {
     "id": "shadows-of-hope",
     "symbol": "soh",
     "name": "Shadows Of Hope",
@@ -123883,14 +123885,6 @@
     }
   },
   {
-    "id": "slumbo",
-    "symbol": "slumbo",
-    "name": "SLUMBO",
-    "platforms": {
-      "solana": "wxXDvBEFz6r4fXHUjoQB198tM5tA2Te7hH3LS2cxe3r"
-    }
-  },
-  {
     "id": "slurp-2",
     "symbol": "slurp",
     "name": "slurp",
@@ -124305,14 +124299,6 @@
     "platforms": {
       "ethereum": "0xbf776e4fca664d791c4ee3a71e2722990e003283",
       "binance-smart-chain": "0xbf776e4fca664d791c4ee3a71e2722990e003283"
-    }
-  },
-  {
-    "id": "smoovie-phone",
-    "symbol": "sp",
-    "name": "Smoovie Phone",
-    "platforms": {
-      "sanko": "0x3f710cbd0f4268719c6c2e5e078a4cafaeed7d45"
     }
   },
   {
@@ -129462,7 +129448,6 @@
       "cronos": "0xf951ec28187d9e5ca673da8fe6757e6f0be5f77c",
       "taiko": "0x19e26b0638bf63aa9fa4d14c6baf8d52ebe86c5c",
       "edu-chain": "0x12a272a581fee5577a5dfa371afeb4b2f3a8c2f8",
-      "goat": "0x3022b87ac063de95b1570f46f5e470f8b53112d8",
       "superseed": "",
       "lightlink": "0xbcf8c1b03bbdda88d579330bdf236b58f8bb2cfd",
       "rari": "0xfbda5f676cb37624f28265a144a48b0d6e87d3b6",
@@ -129483,7 +129468,8 @@
       "gravity-alpha": "0xfbda5f676cb37624f28265a144a48b0d6e87d3b6",
       "telos": "0xf1815bd50389c46847f0bda824ec8da914045d14",
       "fuse": "0xc6bc407706b7140ee8eef2f86f9504651b63e7f9",
-      "rootstock": "0x74c9f2b00581f1b11aa7ff05aa9f608b7389de67"
+      "rootstock": "0x74c9f2b00581f1b11aa7ff05aa9f608b7389de67",
+      "goat": "0x3022b87ac063de95b1570f46f5e470f8b53112d8"
     }
   },
   {
@@ -129578,8 +129564,8 @@
       "klay-token": "0x09d428a066e77806f9de48fe3a57e837ccd0912f",
       "degen": "0x2f6f07cdcf3588944bf4c42ac74ff24bf56e7590",
       "hedera-hashgraph": "0xca367694cdac8f152e33683bb36cc9d6a73f1ef2",
-      "goat": "0x3a1293bdb83bbbdd5ebf4fac96605ad2021bbc0f",
-      "flare-network": "0x1502fa4be69d526124d453619276faccab275d3d"
+      "flare-network": "0x1502fa4be69d526124d453619276faccab275d3d",
+      "goat": "0x3a1293bdb83bbbdd5ebf4fac96605ad2021bbc0f"
     }
   },
   {
@@ -132425,14 +132411,6 @@
     "symbol": "sero",
     "name": "SERO",
     "platforms": {}
-  },
-  {
-    "id": "supportfi-ai",
-    "symbol": "sfai",
-    "name": "SupportFi AI",
-    "platforms": {
-      "ethereum": "0x544f7ba526dc4e835f674c585a478c142dd8cca1"
-    }
   },
   {
     "id": "supra",
@@ -137551,6 +137529,14 @@
     "symbol": "tickstm",
     "name": "tickerSTM",
     "platforms": {}
+  },
+  {
+    "id": "ticket",
+    "symbol": "ticket",
+    "name": "Ticket",
+    "platforms": {
+      "skale": "0x419ba1212107daed5871803483ad36611afc476a"
+    }
   },
   {
     "id": "tickle",
@@ -143942,6 +143928,12 @@
       "solana": "USDSwr9ApdHk5bvJKMjzff41FfuX8bSxdKcR81vTwcA",
       "arbitrum-one": "0x6491c05a82219b8d1479057361ff1654749b876b"
     }
+  },
+  {
+    "id": "usdsui",
+    "symbol": "usdsui",
+    "name": "USDsui",
+    "platforms": {}
   },
   {
     "id": "usdt0",
@@ -152414,8 +152406,8 @@
       "ethereum": "0x4e15361fd6b4bb609fa63c81a2be19d873717870",
       "telos": "0xc1be9a4d5d45beeacae296a7bd5fadbfc14602c4",
       "harmony-shard-0": "0x39ab439897380ed10558666c4377facb0322ad48",
-      "milkomeda-cardano": "0x332730a4f6e03d9c55829435f10360e13cfa41ff",
       "energi": "0xafdf614ea3e1c0d93730f6fc31f23ba30f17ecea",
+      "milkomeda-cardano": "0x332730a4f6e03d9c55829435f10360e13cfa41ff",
       "binance-smart-chain": "0xad29abb318791d579433d831ed122afeaf29dcfe"
     }
   },
@@ -159006,6 +158998,14 @@
     "name": "Zeta Markets",
     "platforms": {
       "solana": ""
+    }
+  },
+  {
+    "id": "zetock",
+    "symbol": "ztock",
+    "name": "Zetock",
+    "platforms": {
+      "solana": "Fc1iGoPhSFz69dSfYSMbKeQjiyQ1FHibPpSkDiuApump"
     }
   },
   {

@@ -4,16 +4,8 @@
   "keywords": [
     "defi"
   ],
-  "timestamp": "2025-10-12T11:00:33.035+00:00",
+  "timestamp": "2025-11-13T08:00:38.010+00:00",
   "tokens": [
-    {
-      "chainId": 2046399126,
-      "address": "0xd2aaa00700000000000000000000000000000000",
-      "name": "Wrapped ETH (SKALE)",
-      "symbol": "ETHC",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/39143/thumb/wETH_32.png?1720748961"
-    },
     {
       "chainId": 2046399126,
       "address": "0xcb011e86df014a46f4e3ac3f3cbb114a4eb80870",
@@ -21,6 +13,14 @@
       "symbol": "WBTC",
       "decimals": 8,
       "logoURI": "https://assets.coingecko.com/coins/images/39128/thumb/wbtc.png?1720668642"
+    },
+    {
+      "chainId": 2046399126,
+      "address": "0x0cc139ba646e90828962159b9af7cec42dcfad1e",
+      "name": "MEEFIE",
+      "symbol": "MFT",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/55940/thumb/Logo200x200.png?1747825573"
     },
     {
       "chainId": 2046399126,
@@ -32,11 +32,27 @@
     },
     {
       "chainId": 2046399126,
-      "address": "0x0cc139ba646e90828962159b9af7cec42dcfad1e",
-      "name": "MEEFIE",
-      "symbol": "MFT",
+      "address": "0x419ba1212107daed5871803483ad36611afc476a",
+      "name": "Ticket",
+      "symbol": "TICKET",
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/55940/thumb/Logo200x200.png?1747825573"
+      "logoURI": "https://assets.coingecko.com/coins/images/70665/thumb/tickets.png?1763015539"
+    },
+    {
+      "chainId": 2046399126,
+      "address": "0xd7889cf83515ab0947d8786c43674287c2fe532e",
+      "name": "BitHotelSKL",
+      "symbol": "BHSKL",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/70666/thumb/vip_02.png?1763015616"
+    },
+    {
+      "chainId": 2046399126,
+      "address": "0xd2aaa00700000000000000000000000000000000",
+      "name": "Wrapped ETH (SKALE)",
+      "symbol": "ETHC",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/39143/thumb/wETH_32.png?1720748961"
     },
     {
       "chainId": 2046399126,
@@ -81,7 +97,7 @@
   ],
   "version": {
     "major": 6,
-    "minor": 0,
+    "minor": 1,
     "patch": 0
   }
 }
