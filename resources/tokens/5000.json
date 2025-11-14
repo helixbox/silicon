@@ -4,24 +4,8 @@
   "keywords": [
     "defi"
   ],
-  "timestamp": "2025-10-12T08:00:42.061+00:00",
+  "timestamp": "2025-11-14T07:00:46.752+00:00",
   "tokens": [
-    {
-      "chainId": 5000,
-      "address": "0x201eba5cc46d216ce6dc03f6a759e8e766e956ae",
-      "name": "Mantle Bridged USDT (Mantle)",
-      "symbol": "USDT",
-      "decimals": 6,
-      "logoURI": "https://assets.coingecko.com/coins/images/35069/thumb/logo.png?1707291114"
-    },
-    {
-      "chainId": 5000,
-      "address": "0x51cfe5b1e764dc253f4c8c1f19a081ff4c3517ed",
-      "name": "Mantle Inu",
-      "symbol": "MINU",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/31014/thumb/mantle-inu.jpeg?1696529851"
-    },
     {
       "chainId": 5000,
       "address": "0x78c1b0c915c4faa5fffa6cabf0219da63d7f4cb8",
@@ -48,10 +32,11 @@
     },
     {
       "chainId": 5000,
-      "address": "0xab575258d37eaa5c8956efabe71f4ee8f6397cf3",
-      "name": "Mantle USD",
-      "symbol": "MUSD",
-      "decimals": 18
+      "address": "0x09bc4e0d864854c6afb6eb9a9cdf58ac190d0df9",
+      "name": "Mantle Bridged USDC (Mantle)",
+      "symbol": "USDC",
+      "decimals": 6,
+      "logoURI": "https://assets.coingecko.com/coins/images/35296/thumb/USDC_Icon.png?1708082083"
     },
     {
       "chainId": 5000,
@@ -71,6 +56,29 @@
     },
     {
       "chainId": 5000,
+      "address": "0x201eba5cc46d216ce6dc03f6a759e8e766e956ae",
+      "name": "Mantle Bridged USDT (Mantle)",
+      "symbol": "USDT",
+      "decimals": 6,
+      "logoURI": "https://assets.coingecko.com/coins/images/35069/thumb/logo.png?1707291114"
+    },
+    {
+      "chainId": 5000,
+      "address": "0xab575258d37eaa5c8956efabe71f4ee8f6397cf3",
+      "name": "Mantle USD",
+      "symbol": "MUSD",
+      "decimals": 18
+    },
+    {
+      "chainId": 5000,
+      "address": "0x51cfe5b1e764dc253f4c8c1f19a081ff4c3517ed",
+      "name": "Mantle Inu",
+      "symbol": "MINU",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/31014/thumb/mantle-inu.jpeg?1696529851"
+    },
+    {
+      "chainId": 5000,
       "address": "0x26a6b0dcdcfb981362afa56d581e4a7dba3be140",
       "name": "Puff The Dragon",
       "symbol": "PUFF",
@@ -84,14 +92,6 @@
       "symbol": "KTC",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/30537/thumb/KTX.jpeg?1696529409"
-    },
-    {
-      "chainId": 5000,
-      "address": "0x09bc4e0d864854c6afb6eb9a9cdf58ac190d0df9",
-      "name": "Mantle Bridged USDC (Mantle)",
-      "symbol": "USDC",
-      "decimals": 6,
-      "logoURI": "https://assets.coingecko.com/coins/images/35296/thumb/USDC_Icon.png?1708082083"
     },
     {
       "chainId": 5000,
@@ -164,6 +164,14 @@
       "symbol": "BLADE",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/52991/thumb/Token_Logo.png?1734944384"
+    },
+    {
+      "chainId": 5000,
+      "address": "0x779ded0c9e1022225f8e0630b35a9b54be713736",
+      "name": "USDT0",
+      "symbol": "USDT0",
+      "decimals": 6,
+      "logoURI": "https://assets.coingecko.com/coins/images/53705/thumb/usdt0.jpg?1737086183"
     },
     {
       "chainId": 5000,
@@ -392,7 +400,7 @@
   ],
   "version": {
     "major": 19,
-    "minor": 0,
-    "patch": 2
+    "minor": 1,
+    "patch": 0
   }
 }

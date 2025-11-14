@@ -4,7 +4,7 @@
   "keywords": [
     "defi"
   ],
-  "timestamp": "2025-10-19T11:00:23.359+00:00",
+  "timestamp": "2025-11-14T08:00:25.403+00:00",
   "tokens": [
     {
       "chainId": 39797,
@@ -24,6 +24,14 @@
     },
     {
       "chainId": 39797,
+      "address": "0x591c19dc0821704bedaa5bbc6a66fee277d9437e",
+      "name": "Energi Bridged ZRX (Energi)",
+      "symbol": "ZRX",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/70690/thumb/0x-protocol-energi.jpeg?1763106120"
+    },
+    {
+      "chainId": 39797,
       "address": "0x78b050d981d7f6e019bf6e361d0d1167de6b19da",
       "name": "Multichain Bridged WETH (Energi)",
       "symbol": "WETH",
@@ -32,11 +40,11 @@
     },
     {
       "chainId": 39797,
-      "address": "0xa55f26319462355474a9f2c8790860776a329aa4",
-      "name": "Wrapped Energi",
-      "symbol": "WNRG",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/25462/thumb/Energi.jpeg?1696524592"
+      "address": "0xffd7510ca0a3279c7a5f50018a26c21d5bc1dbcf",
+      "name": "Energi Bridged USDC (Energi)",
+      "symbol": "USDC",
+      "decimals": 6,
+      "logoURI": "https://assets.coingecko.com/coins/images/35323/thumb/USDC.jpg?1708178353"
     },
     {
       "chainId": 39797,
@@ -48,11 +56,11 @@
     },
     {
       "chainId": 39797,
-      "address": "0xffd7510ca0a3279c7a5f50018a26c21d5bc1dbcf",
-      "name": "Energi Bridged USDC (Energi)",
-      "symbol": "USDC",
-      "decimals": 6,
-      "logoURI": "https://assets.coingecko.com/coins/images/35323/thumb/USDC.jpg?1708178353"
+      "address": "0xa55f26319462355474a9f2c8790860776a329aa4",
+      "name": "Wrapped Energi",
+      "symbol": "WNRG",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/25462/thumb/Energi.jpeg?1696524592"
     },
     {
       "chainId": 39797,
@@ -656,14 +664,6 @@
     },
     {
       "chainId": 39797,
-      "address": "0x591c19dc0821704bedaa5bbc6a66fee277d9437e",
-      "name": "0x Protocol",
-      "symbol": "ZRX",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/863/thumb/0x.png?1696501996"
-    },
-    {
-      "chainId": 39797,
       "address": "0xba71e0c0b13e724bf2329ecb9bdf5775a2ce9e8d",
       "name": "DFI.money",
       "symbol": "YFII",
@@ -906,6 +906,6 @@
   "version": {
     "major": 12,
     "minor": 0,
-    "patch": 0
+    "patch": 1
   }
 }
