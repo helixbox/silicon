@@ -4,8 +4,24 @@
   "keywords": [
     "defi"
   ],
-  "timestamp": "2025-11-14T08:00:14.839+00:00",
+  "timestamp": "2025-11-19T04:00:12.267+00:00",
   "tokens": [
+    {
+      "chainId": 1666600000,
+      "address": "0x22fb638a010e922d53fd2671a598a3334c228b62",
+      "name": "Speed Star JOC",
+      "symbol": "JOC",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/24883/thumb/f2zOnAa4_400x400.jpg?1696524042"
+    },
+    {
+      "chainId": 1666600000,
+      "address": "0x6983d1e6def3690c4d616b13597a09e6193ea013",
+      "name": "Harmony Horizon Bridged cETH (Harmony Shard 0)",
+      "symbol": "1ETH",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/39710/thumb/WETH.PNG?1723730735"
+    },
     {
       "chainId": 1666600000,
       "address": "0xd74433b187cf0ba998ad9be3486b929c76815215",
@@ -24,22 +40,6 @@
     },
     {
       "chainId": 1666600000,
-      "address": "0x6983d1e6def3690c4d616b13597a09e6193ea013",
-      "name": "Harmony Horizon Bridged cETH (Harmony Shard 0)",
-      "symbol": "1ETH",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/39710/thumb/WETH.PNG?1723730735"
-    },
-    {
-      "chainId": 1666600000,
-      "address": "0x4f529873288668815d66eda11314f719b23dd846",
-      "name": "CougarSwap",
-      "symbol": "CGS",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/19402/thumb/logo.png?1696518842"
-    },
-    {
-      "chainId": 1666600000,
       "address": "0x2dae9ac8e3195715f308b59e7e9326f115ab4d98",
       "name": "Speed Star SPEED",
       "symbol": "SPEED",
@@ -48,19 +48,11 @@
     },
     {
       "chainId": 1666600000,
-      "address": "0xcf664087a5bb0237a0bad6742852ec6c8d69a27a",
-      "name": "Wrapped One",
-      "symbol": "WONE",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/18183/thumb/wonelogo.png?1696517683"
-    },
-    {
-      "chainId": 1666600000,
-      "address": "0x673d2ec54e0a6580fc7e098295b70e3ce0350d03",
-      "name": "Bridged WBNB",
-      "symbol": "WBNB",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/53070/thumb/wrapped_bnb.png?1735264554"
+      "address": "0x985458e523db3d53125813ed68c274899e9dfab4",
+      "name": "Harmony Horizon Bridged USDC (Harmony)",
+      "symbol": "1USDC",
+      "decimals": 6,
+      "logoURI": "https://assets.coingecko.com/coins/images/35224/thumb/USDC.jpg?1707920252"
     },
     {
       "chainId": 1666600000,
@@ -111,11 +103,27 @@
     },
     {
       "chainId": 1666600000,
-      "address": "0x22fb638a010e922d53fd2671a598a3334c228b62",
-      "name": "Speed Star JOC",
-      "symbol": "JOC",
+      "address": "0x4f529873288668815d66eda11314f719b23dd846",
+      "name": "CougarSwap",
+      "symbol": "CGS",
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/24883/thumb/f2zOnAa4_400x400.jpg?1696524042"
+      "logoURI": "https://assets.coingecko.com/coins/images/19402/thumb/logo.png?1696518842"
+    },
+    {
+      "chainId": 1666600000,
+      "address": "0x673d2ec54e0a6580fc7e098295b70e3ce0350d03",
+      "name": "Bridged WBNB",
+      "symbol": "WBNB",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/53070/thumb/wrapped_bnb.png?1735264554"
+    },
+    {
+      "chainId": 1666600000,
+      "address": "0xcf664087a5bb0237a0bad6742852ec6c8d69a27a",
+      "name": "Wrapped One",
+      "symbol": "WONE",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/18183/thumb/wonelogo.png?1696517683"
     },
     {
       "chainId": 1666600000,
@@ -124,14 +132,6 @@
       "symbol": "LOP",
       "decimals": 6,
       "logoURI": "https://assets.coingecko.com/coins/images/29496/thumb/logo_kilopi_200sq.png?1696528442"
-    },
-    {
-      "chainId": 1666600000,
-      "address": "0x985458e523db3d53125813ed68c274899e9dfab4",
-      "name": "Harmony Horizon Bridged USDC (Harmony)",
-      "symbol": "1USDC",
-      "decimals": 6,
-      "logoURI": "https://assets.coingecko.com/coins/images/35224/thumb/USDC.jpg?1707920252"
     },
     {
       "chainId": 1666600000,
@@ -415,14 +415,6 @@
     },
     {
       "chainId": 1666600000,
-      "address": "0x35de8649e1e4fd1a7bd3b14f7e24e5e7887174ed",
-      "name": "The Sandbox",
-      "symbol": "SAND",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/12129/thumb/sandbox_logo.jpg?1696511971"
-    },
-    {
-      "chainId": 1666600000,
       "address": "0xf2f5bf00cd952f3f980a02f5dce278cbff4dae05",
       "name": "Ampleforth",
       "symbol": "AMPL",
@@ -687,7 +679,7 @@
     }
   ],
   "version": {
-    "major": 24,
+    "major": 25,
     "minor": 0,
     "patch": 0
   }
