@@ -18556,7 +18556,7 @@
   {
     "id": "bitads",
     "symbol": "sn16",
-    "name": "HashTensor",
+    "name": "Bitads",
     "platforms": {
       "bittensor": "16"
     }
@@ -28530,9 +28530,9 @@
   {
     "id": "cellar",
     "symbol": "clr",
-    "name": "$CELLAR",
+    "name": "INTERCELLAR",
     "platforms": {
-      "solana": "CE11ARyXsqrw5ncLfPf6ZVbsqKjofF3CmU"
+      "solana": "CE11ARyXsqrw5ncLfPf6ZVbsqKjofF3CmUnoKNo2giia"
     }
   },
   {
@@ -82479,9 +82479,9 @@
   {
     "id": "lynk-coin",
     "symbol": "lynk",
-    "name": "Lynk Coin",
+    "name": "LYNK",
     "platforms": {
-      "solana": "BfxhMerBkBhRUGn4tX5YrBRqLqN8VjvUXHhU7K9Fpump"
+      "solana": "HZG1RVn4zcRM7zEFEVGYPGoPzPAWAj2AAdvQivfmLYNK"
     }
   },
   {
@@ -90858,7 +90858,7 @@
   {
     "id": "mon-protocol",
     "symbol": "mon",
-    "name": "MON",
+    "name": "MON Protocol",
     "platforms": {
       "ethereum": "0xc555d625828c4527d477e595ff1dd5801b4a600e",
       "avalanche": "0xfc87d55bc8bf441abfc24d04b2068a8f77bcfcc0"
@@ -132038,7 +132038,10 @@
     "id": "superfluid",
     "symbol": "sup",
     "name": "Superfluid",
-    "platforms": {}
+    "platforms": {
+      "base": "0xa69f80524381275a7ffdb3ae01c54150644c8792",
+      "ethereum": "0xd05001db979ff2f1a3b2105875d3454e90dd2961"
+    }
   },
   {
     "id": "superfriend",
@@ -135676,6 +135679,14 @@
     }
   },
   {
+    "id": "the-audit-oracle",
+    "symbol": "audit",
+    "name": "The Audit Oracle",
+    "platforms": {
+      "base": "0xb17a7581c9a006e8b5fda85506cfd3448ed75746"
+    }
+  },
+  {
     "id": "the-baby-cheetah",
     "symbol": "zola",
     "name": "The Baby Cheetah",
@@ -136696,6 +136707,14 @@
     "name": "THE•RUNIX•TOKEN",
     "platforms": {
       "ethereum": "0xf6ccfd6ef2850e84b73adeace9a075526c5910d4"
+    }
+  },
+  {
+    "id": "the-runner",
+    "symbol": "tutu",
+    "name": "The runner",
+    "platforms": {
+      "solana": "ETe1Q2t6xRWeuv2s1PMHMHkN9UY8kbS3NTnZMDTspump"
     }
   },
   {
@@ -141689,6 +141708,14 @@
     }
   },
   {
+    "id": "ufx-project",
+    "symbol": "ufx",
+    "name": "UFX Project",
+    "platforms": {
+      "base": "0x915c135d2cbcad68e5c30f1cea0ee7129f57fd03"
+    }
+  },
+  {
     "id": "uggo",
     "symbol": "uggo",
     "name": "UGGO",
@@ -142353,6 +142380,7 @@
     "name": "Unipoly",
     "platforms": {
       "ethereum": "0x23d7ff057c696fee679c60cef61fee6614218f04",
+      "binance-smart-chain": "0xce5098dc1748789f66926a43c054d7d2e150f46b",
       "skale": "0x7ca58393eb55aec51204f2370c1b9cccaa9d9784"
     }
   },
@@ -148275,6 +148303,7 @@
     "name": "WeatherXM",
     "platforms": {
       "ethereum": "0xde654f497a563dd7a121c176a125dd2f11f13a83",
+      "base": "0xf4bdd7042f4ea505838c2d432c787beb9f603274",
       "solana": "wxmJYe17a2oGJZJ1wDe6ZyRKUKmrLj2pJsavEdTVhPP",
       "arbitrum-one": "0xb6093b61544572ab42a0e43af08abafd41bf25a6"
     }
