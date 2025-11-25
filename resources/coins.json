@@ -4009,8 +4009,8 @@
       "injective": "factory/inj1n636d9gzrqggdk66n2f97th0x8yuhfrtx520e7/ausd",
       "sui": "0x2053d08c1e2bd02791056171aab0fd12bd7cd7efad2ab8f6b9c8902f14df2ff2::ausd::AUSD",
       "plume-network": "0x00000000efe302beaa2b3e6e1b18d08d69a9012a",
-      "monad": "0x00000000efe302beaa2b3e6e1b18d08d69a9012a",
       "polygon-pos": "0x00000000efe302beaa2b3e6e1b18d08d69a9012a",
+      "monad": "0x00000000efe302beaa2b3e6e1b18d08d69a9012a",
       "core": "0x00000000efe302beaa2b3e6e1b18d08d69a9012a",
       "immutable": "0x00000000efe302beaa2b3e6e1b18d08d69a9012a",
       "katana": "0x00000000efe302beaa2b3e6e1b18d08d69a9012a",
@@ -28267,6 +28267,12 @@
     "platforms": {
       "core": "0x42077e348702f13ea80ce6a6a38b8b60fbb37b5d"
     }
+  },
+  {
+    "id": "cdgproject",
+    "symbol": "cdg",
+    "name": "CDGProject",
+    "platforms": {}
   },
   {
     "id": "cdk",
@@ -54893,7 +54899,7 @@
     "symbol": "fred",
     "name": "FRED Energy",
     "platforms": {
-      "stellar": "FRED-GCA73U2PZFWAXJSNVMEVPNPPJCZGETWPWZC6E4DJAIWP3ZW3BAGYZLV6-1"
+      "stellar": "FRED-GCA73U2PZFWAXJSNVMEVPNPPJCZGETWPWZC6E4DJAIWP3ZW3BAGYZLV6"
     }
   },
   {
@@ -56100,7 +56106,7 @@
     "symbol": "fust",
     "name": "FUST Token",
     "platforms": {
-      "binance-smart-chain": "0x695579cfe2b2d9066fddc9ef3462b6ae05e127c3"
+      "binance-smart-chain": "0x14b792a2d8252cf8fbfa5b8f29e3388576c33a31"
     }
   },
   {
@@ -59403,6 +59409,22 @@
     "name": "GM Machine",
     "platforms": {
       "solana": "3acxNNmfdKKZj9i35P4VDBFm74Ufdt8ojKWceVGynwC5"
+    }
+  },
+  {
+    "id": "gmonad",
+    "symbol": "gmonad",
+    "name": "GMONAD",
+    "platforms": {
+      "monad": "0x3ff60900b70db8d0bde4d4819f028673718c5d1b"
+    }
+  },
+  {
+    "id": "gmonad-2",
+    "symbol": "gmonad",
+    "name": "Gmonad",
+    "platforms": {
+      "monad": "0x1f80c65cc2c37af84abbe1ea03183a624a6f8888"
     }
   },
   {
@@ -70254,9 +70276,7 @@
     "id": "irys",
     "symbol": "irys",
     "name": "Irys",
-    "platforms": {
-      "ethereum": "0x50f41f589afaca2ef41fdf590fe7b90cd26dee64"
-    }
+    "platforms": {}
   },
   {
     "id": "isaac-x",
@@ -79440,6 +79460,12 @@
     "platforms": {
       "base": "0xa63c1ce4963ea71f93e79223649a3f2f2ebb079b"
     }
+  },
+  {
+    "id": "lineup",
+    "symbol": "lineup",
+    "name": "Lineup",
+    "platforms": {}
   },
   {
     "id": "lin-gang-melon",
@@ -90034,6 +90060,14 @@
     }
   },
   {
+    "id": "molandak-2",
+    "symbol": "molandak",
+    "name": "MOLANDAK",
+    "platforms": {
+      "monad": "0xd32e9ddd968b18e8429f2d1da7efb2cc1f01d42d"
+    }
+  },
+  {
     "id": "molecular-entity",
     "symbol": "molecular",
     "name": "Molecular Entity",
@@ -90214,6 +90248,14 @@
     "symbol": "mon",
     "name": "Monad",
     "platforms": {}
+  },
+  {
+    "id": "monadprinter",
+    "symbol": "monadp",
+    "name": "MonadPrinter",
+    "platforms": {
+      "monad": "0x25ac11cb986ca6910501803af5b4e41cf3ad9999"
+    }
   },
   {
     "id": "monai",
@@ -118404,6 +118446,14 @@
     }
   },
   {
+    "id": "salmonad",
+    "symbol": "sal",
+    "name": "Salmonad",
+    "platforms": {
+      "monad": "0x65ea4cdaf74537202bfb1124131e1c68f9512d1b"
+    }
+  },
+  {
     "id": "salsa-liquid-multiversx",
     "symbol": "legld",
     "name": "SALSA Liquid MultiversX",
@@ -143314,6 +143364,7 @@
     "name": "USDC",
     "platforms": {
       "ethereum": "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
+      "monad": "0x754704bc059f8c67012fed69bc8a327a5aafb603",
       "moonriver": "0xffffffff7d2b0b761af01ca8e25242976ac0ad7d",
       "sui": "0xdba34672e30cb065b1f93e3ab55318768fd6fef66c15942c9f7cb846e2f900e7::usdc::USDC",
       "polkadot": "1337",
@@ -143597,10 +143648,10 @@
       "ink": "0x0200c29006150606b650577bbe7b6248f58470c1",
       "flare-network": "0xe7cd86e13ac4309349f30b3435a9d337750fc82d",
       "plasma": "0xb8ce59fc3717ada4c02eadf9682a9e934f625ebb",
+      "monad": "0xe7cd86e13ac4309349f30b3435a9d337750fc82d",
       "conflux": "0xaf37e8b6c9ed7f6318979f56fc287d76c30847ff",
       "mantle": "0x779ded0c9e1022225f8e0630b35a9b54be713736",
       "hyperevm": "0xb8ce59fc3717ada4c02eadf9682a9e934f625ebb",
-      "monad": "0xe7cd86e13ac4309349f30b3435a9d337750fc82d",
       "berachain": "0x779ded0c9e1022225f8e0630b35a9b54be713736",
       "corn": "0xb8ce59fc3717ada4c02eadf9682a9e934f625ebb",
       "rootstock": "0x779ded0c9e1022225f8e0630b35a9b54be713736",
@@ -144131,6 +144182,14 @@
     "name": "VALA CAPITAL MARKETS",
     "platforms": {
       "solana": "GMcThHFBnN6zjB2Mvbgdi19A2m35g81y7B1AKhgGbonk"
+    }
+  },
+  {
+    "id": "valannium",
+    "symbol": "valan",
+    "name": "Valannium",
+    "platforms": {
+      "solana": "5cL3TVJ7p5ZKqyx16DXwpdcNx5u19vQtWujA9vYindi"
     }
   },
   {
@@ -152780,7 +152839,10 @@
     "id": "wrapped-monad",
     "symbol": "wmon",
     "name": "Wrapped MON",
-    "platforms": {}
+    "platforms": {
+      "monad": "0x3bd359c1119da7da1d913d1c4d2b7c461115433a",
+      "solana": "CrAr4RRJMBVwRsZtT62pEhfA9H5utymC2mVx8e7FreP2"
+    }
   },
   {
     "id": "wrapped-moonbeam",
