@@ -4,15 +4,15 @@
   "keywords": [
     "defi"
   ],
-  "timestamp": "2025-10-15T11:00:25.126+00:00",
+  "timestamp": "2025-11-25T09:00:20.259+00:00",
   "tokens": [
     {
       "chainId": 1868,
-      "address": "0xf24e57b1cb00d98c31f04f86328e22e8fca457fb",
-      "name": "SONE",
-      "symbol": "SONE",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/53814/thumb/20250116-173015.png?1737432919"
+      "address": "0x3a337a6ada9d885b6ad95ec48f9b75f197b5ae35",
+      "name": "Soneium Bridged USDT (Soneium)",
+      "symbol": "USDT",
+      "decimals": 6,
+      "logoURI": "https://assets.coingecko.com/coins/images/53779/thumb/usdt.jpg?1737341724"
     },
     {
       "chainId": 1868,
@@ -21,6 +21,14 @@
       "symbol": "WSTASTR",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/54782/thumb/wstASTR.png?1741570094"
+    },
+    {
+      "chainId": 1868,
+      "address": "0x60336f9296c79da4294a19153ec87f8e52158e5f",
+      "name": "Bifrost Voucher ASTR",
+      "symbol": "VASTR",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/34706/thumb/vASTR.png?1705893008"
     },
     {
       "chainId": 1868,
@@ -40,27 +48,19 @@
     },
     {
       "chainId": 1868,
+      "address": "0xf24e57b1cb00d98c31f04f86328e22e8fca457fb",
+      "name": "SONE",
+      "symbol": "SONE",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/53814/thumb/20250116-173015.png?1737432919"
+    },
+    {
+      "chainId": 1868,
       "address": "0x2cae934a1e84f693fbb78ca5ed3b0a6893259441",
       "name": "Soneium Bridged ASTR (Soneium)",
       "symbol": "ASTR",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/53778/thumb/astar.jpg?1737341226"
-    },
-    {
-      "chainId": 1868,
-      "address": "0x3a337a6ada9d885b6ad95ec48f9b75f197b5ae35",
-      "name": "Soneium Bridged USDT (Soneium)",
-      "symbol": "USDT",
-      "decimals": 6,
-      "logoURI": "https://assets.coingecko.com/coins/images/53779/thumb/usdt.jpg?1737341724"
-    },
-    {
-      "chainId": 1868,
-      "address": "0x60336f9296c79da4294a19153ec87f8e52158e5f",
-      "name": "Bifrost Voucher ASTR",
-      "symbol": "VASTR",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/34706/thumb/vASTR.png?1705893008"
     },
     {
       "chainId": 1868,
@@ -144,14 +144,6 @@
     },
     {
       "chainId": 1868,
-      "address": "0x8cd846c404c7267350a2920576816603cd5c6539",
-      "name": "Pipo",
-      "symbol": "PIPO",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/54474/thumb/Pipo.jpg?1739951527"
-    },
-    {
-      "chainId": 1868,
       "address": "0x61f2993a644762a345b483adf0d6351c5edfb3b5",
       "name": "uBTC",
       "symbol": "UBTC",
@@ -232,8 +224,8 @@
     }
   ],
   "version": {
-    "major": 1,
-    "minor": 5,
-    "patch": 5
+    "major": 2,
+    "minor": 0,
+    "patch": 0
   }
 }
