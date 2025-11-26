@@ -4,8 +4,32 @@
   "keywords": [
     "defi"
   ],
-  "timestamp": "2025-11-07T09:00:31.641+00:00",
+  "timestamp": "2025-11-26T04:00:48.496+00:00",
   "tokens": [
+    {
+      "chainId": 130,
+      "address": "0x926dc7b96bb2f4a91c2a67e291faf482691a3001",
+      "name": "Unicorn",
+      "symbol": "UNICORN",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/54332/thumb/unicorn.jpg?1739325321"
+    },
+    {
+      "chainId": 130,
+      "address": "0xec4a56061d86955d0df883efb2e5791d99ea71f2",
+      "name": "hoonicorn.lol",
+      "symbol": "HOONI",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/54996/thumb/hooni-logo-fixed.png?1743095425"
+    },
+    {
+      "chainId": 130,
+      "address": "0x849f05f7cfdc4215b16a3c5a58361445c4d56c8e",
+      "name": "Hooffather",
+      "symbol": "HOOF",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/55345/thumb/Logo_%282%29.png?1745565191"
+    },
     {
       "chainId": 130,
       "address": "0x756ee6857f915a2b5366f2ef56d8d13857aef8ad",
@@ -21,38 +45,6 @@
       "symbol": "ABE",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/68514/thumb/logo_circle_200.png?1756440524"
-    },
-    {
-      "chainId": 130,
-      "address": "0x927b51f251480a681271180da4de28d44ec4afb8",
-      "name": "Unichain Bridged WBTC (Unichain)",
-      "symbol": "WBTC",
-      "decimals": 8,
-      "logoURI": "https://assets.coingecko.com/coins/images/66722/thumb/wbtc.jpg?1750315958"
-    },
-    {
-      "chainId": 130,
-      "address": "0x926dc7b96bb2f4a91c2a67e291faf482691a3001",
-      "name": "Unicorn",
-      "symbol": "UNICORN",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/54332/thumb/unicorn.jpg?1739325321"
-    },
-    {
-      "chainId": 130,
-      "address": "0x849f05f7cfdc4215b16a3c5a58361445c4d56c8e",
-      "name": "Hooffather",
-      "symbol": "HOOF",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/55345/thumb/Logo_%282%29.png?1745565191"
-    },
-    {
-      "chainId": 130,
-      "address": "0xec4a56061d86955d0df883efb2e5791d99ea71f2",
-      "name": "hoonicorn.lol",
-      "symbol": "HOONI",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/54996/thumb/hooni-logo-fixed.png?1743095425"
     },
     {
       "chainId": 130,
@@ -72,11 +64,11 @@
     },
     {
       "chainId": 130,
-      "address": "0x15d0e0c55a3e7ee67152ad7e89acf164253ff68d",
-      "name": "Wormhole Bridged HYPE",
-      "symbol": "HYPE",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/68481/thumb/hype.png?1755878697"
+      "address": "0x927b51f251480a681271180da4de28d44ec4afb8",
+      "name": "Unichain Bridged WBTC (Unichain)",
+      "symbol": "WBTC",
+      "decimals": 8,
+      "logoURI": "https://assets.coingecko.com/coins/images/66722/thumb/wbtc.jpg?1750315958"
     },
     {
       "chainId": 130,
@@ -85,6 +77,14 @@
       "symbol": "WETH",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/54331/thumb/weth_2.jpg?1739325052"
+    },
+    {
+      "chainId": 130,
+      "address": "0x15d0e0c55a3e7ee67152ad7e89acf164253ff68d",
+      "name": "Wormhole Bridged HYPE",
+      "symbol": "HYPE",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/68481/thumb/hype.png?1755878697"
     },
     {
       "chainId": 130,
@@ -136,11 +136,27 @@
     },
     {
       "chainId": 130,
+      "address": "0x139451953ef1865c096f89c5e522c081dc3b5f11",
+      "name": "Plasma",
+      "symbol": "XPL",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/66489/thumb/Plasma-symbol-green-1.png?1755142558"
+    },
+    {
+      "chainId": 130,
       "address": "0xa161132371c94299d215915d4cbc3b629e2059be",
       "name": "Bedrock BTC",
       "symbol": "BRBTC",
       "decimals": 8,
       "logoURI": "https://assets.coingecko.com/coins/images/53039/thumb/brBTC_200.png?1735074374"
+    },
+    {
+      "chainId": 130,
+      "address": "0x81908bbaad3f6fc74093540ab2e9b749bb62aa0d",
+      "name": "Venus",
+      "symbol": "XVS",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/12677/thumb/XVS_Token.jpg?1727454303"
     },
     {
       "chainId": 130,
@@ -165,14 +181,6 @@
       "symbol": "UNI",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/12504/thumb/uniswap-logo.png?1720676669"
-    },
-    {
-      "chainId": 130,
-      "address": "0x81908bbaad3f6fc74093540ab2e9b749bb62aa0d",
-      "name": "Venus",
-      "symbol": "XVS",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/12677/thumb/XVS_Token.jpg?1727454303"
     },
     {
       "chainId": 130,
@@ -289,7 +297,7 @@
   ],
   "version": {
     "major": 3,
-    "minor": 0,
+    "minor": 1,
     "patch": 0
   }
 }

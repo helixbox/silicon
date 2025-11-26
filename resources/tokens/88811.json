@@ -4,16 +4,8 @@
   "keywords": [
     "defi"
   ],
-  "timestamp": "2025-11-05T21:00:41.062+00:00",
+  "timestamp": "2025-11-26T11:00:35.666+00:00",
   "tokens": [
-    {
-      "chainId": 88811,
-      "address": "0xb303d80db8415fd1d3c9fed68a52eeac9a052671",
-      "name": "Unit0 Network Bridged USDT (Unit0 Network)",
-      "symbol": "USDT",
-      "decimals": 6,
-      "logoURI": "https://assets.coingecko.com/coins/images/52719/thumb/usdt.jpg?1734077021"
-    },
     {
       "chainId": 88811,
       "address": "0xcf43f7703d9b4e8835f977ef364b4014fa7e856e",
@@ -21,6 +13,14 @@
       "symbol": "WUNIT0",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/52720/thumb/unit0.jpg?1734077168"
+    },
+    {
+      "chainId": 88811,
+      "address": "0xb303d80db8415fd1d3c9fed68a52eeac9a052671",
+      "name": "Unit Zero Network Bridged USDT (Unit Zero Network)",
+      "symbol": "USDT",
+      "decimals": 6,
+      "logoURI": "https://assets.coingecko.com/coins/images/52719/thumb/usdt.jpg?1734077021"
     },
     {
       "chainId": 88811,
@@ -42,6 +42,6 @@
   "version": {
     "major": 0,
     "minor": 3,
-    "patch": 0
+    "patch": 1
   }
 }

@@ -4,7 +4,7 @@
   "keywords": [
     "defi"
   ],
-  "timestamp": "2025-11-26T00:00:14.366+00:00",
+  "timestamp": "2025-11-26T04:00:28.906+00:00",
   "tokens": [
     {
       "chainId": 143,
@@ -16,27 +16,11 @@
     },
     {
       "chainId": 143,
-      "address": "0xa3227c5969757783154c60bf0bc1944180ed81b9",
-      "name": "Kintsu Staked Monad",
-      "symbol": "SMON",
+      "address": "0x3bd359c1119da7da1d913d1c4d2b7c461115433a",
+      "name": "Wrapped MON",
+      "symbol": "WMON",
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/70835/thumb/sMON_%281%29.png?1764091581"
-    },
-    {
-      "chainId": 143,
-      "address": "0xd32e9ddd968b18e8429f2d1da7efb2cc1f01d42d",
-      "name": "MOLANDAK",
-      "symbol": "MOLANDAK",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/70815/thumb/molandak-logo.jpg?1764000856"
-    },
-    {
-      "chainId": 143,
-      "address": "0x7db552eeb6b77a6babe6e0a739b5382cd653cc3e",
-      "name": "GMONAD",
-      "symbol": "GMONAD",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/70825/thumb/gmonad.jpg?1764041457"
+      "logoURI": "https://assets.coingecko.com/coins/images/70784/thumb/WMON_Logo.png?1764113757"
     },
     {
       "chainId": 143,
@@ -64,11 +48,35 @@
     },
     {
       "chainId": 143,
-      "address": "0x3bd359c1119da7da1d913d1c4d2b7c461115433a",
-      "name": "Wrapped MON",
-      "symbol": "WMON",
+      "address": "0x7db552eeb6b77a6babe6e0a739b5382cd653cc3e",
+      "name": "GMONAD",
+      "symbol": "GMONAD",
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/70784/thumb/WMON_Logo.png?1764113757"
+      "logoURI": "https://assets.coingecko.com/coins/images/70825/thumb/gmonad.jpg?1764041457"
+    },
+    {
+      "chainId": 143,
+      "address": "0xd32e9ddd968b18e8429f2d1da7efb2cc1f01d42d",
+      "name": "MOLANDAK",
+      "symbol": "MOLANDAK",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/70815/thumb/molandak-logo.jpg?1764000856"
+    },
+    {
+      "chainId": 143,
+      "address": "0x1b68626dca36c7fe922fd2d55e4f631d962de19c",
+      "name": "ShMonad",
+      "symbol": "SHMON",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/70837/thumb/SHMONAD_ICON_%281%29.png?1764108788"
+    },
+    {
+      "chainId": 143,
+      "address": "0xee8c0e9f1bffb4eb878d8f15f368a02a35481242",
+      "name": "Wormhole Bridged WETH (Monad)",
+      "symbol": "WETH",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/70824/thumb/weth_2.jpg?1764040144"
     },
     {
       "chainId": 143,
@@ -80,11 +88,11 @@
     },
     {
       "chainId": 143,
-      "address": "0xee8c0e9f1bffb4eb878d8f15f368a02a35481242",
-      "name": "Wormhole Bridged WETH (Monad)",
-      "symbol": "WETH",
+      "address": "0xa3227c5969757783154c60bf0bc1944180ed81b9",
+      "name": "Kintsu Staked Monad",
+      "symbol": "SMON",
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/70824/thumb/weth_2.jpg?1764040144"
+      "logoURI": "https://assets.coingecko.com/coins/images/70835/thumb/sMON_%281%29.png?1764091581"
     },
     {
       "chainId": 143,
@@ -101,14 +109,6 @@
       "symbol": "ALLOCA",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/70749/thumb/Avatar-min.png?1763461541"
-    },
-    {
-      "chainId": 143,
-      "address": "0x1b68626dca36c7fe922fd2d55e4f631d962de19c",
-      "name": "ShMonad",
-      "symbol": "SHMON",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/70837/thumb/SHMONAD_ICON_%281%29.png?1764108788"
     },
     {
       "chainId": 143,
@@ -173,11 +173,19 @@
       "symbol": "XAUT0",
       "decimals": 6,
       "logoURI": "https://assets.coingecko.com/coins/images/66560/thumb/XAUt0_Token_Icon_Gold.png?1749747942"
+    },
+    {
+      "chainId": 143,
+      "address": "0x10aeaf63194db8d453d4d85a06e5efe1dd0b5417",
+      "name": "Wrapped stETH",
+      "symbol": "WSTETH",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/18834/thumb/wstETH.png?1696518295"
     }
   ],
   "version": {
     "major": 0,
-    "minor": 6,
-    "patch": 1
+    "minor": 7,
+    "patch": 0
   }
 }
