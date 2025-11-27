@@ -4,16 +4,8 @@
   "keywords": [
     "defi"
   ],
-  "timestamp": "2025-11-08T20:00:28.806+00:00",
+  "timestamp": "2025-11-26T19:00:28.920+00:00",
   "tokens": [
-    {
-      "chainId": 480,
-      "address": "0xcd1e32b86953d79a6ac58e813d2ea7a1790cab63",
-      "name": "ORO",
-      "symbol": "ORO",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/70441/thumb/oro.png?1762076294"
-    },
     {
       "chainId": 480,
       "address": "0x03c7054bcb39f7b2e5b2c7acb37583e32d70cfa3",
@@ -21,6 +13,14 @@
       "symbol": "WBTC",
       "decimals": 8,
       "logoURI": "https://assets.coingecko.com/coins/images/51159/thumb/wbtc_28.png?1730242311"
+    },
+    {
+      "chainId": 480,
+      "address": "0xcd1e32b86953d79a6ac58e813d2ea7a1790cab63",
+      "name": "ORO",
+      "symbol": "ORO",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/70441/thumb/oro.png?1762076294"
     },
     {
       "chainId": 480,
@@ -32,19 +32,19 @@
     },
     {
       "chainId": 480,
-      "address": "0x6fb9df9530e302be9dc126363bd7529b807f7167",
-      "name": "CrazyFootball token",
-      "symbol": "FOOTBALL",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/69748/thumb/Logo.jpg?1759482957"
-    },
-    {
-      "chainId": 480,
       "address": "0x6770a7133bd0d74f95e4c9e9b7735bb4cd5653a6",
       "name": "World Cat",
       "symbol": "WORLDCAT",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/67236/thumb/worldcat-logo.jpg?1752144407"
+    },
+    {
+      "chainId": 480,
+      "address": "0x6fb9df9530e302be9dc126363bd7529b807f7167",
+      "name": "CrazyFootball token",
+      "symbol": "FOOTBALL",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/69748/thumb/Logo.jpg?1759482957"
     },
     {
       "chainId": 480,
@@ -136,6 +136,14 @@
     },
     {
       "chainId": 480,
+      "address": "0x0dc4f92879b7670e5f4e4e6e3c801d229129d90d",
+      "name": "Argentine Peso",
+      "symbol": "WARS",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/70846/thumb/world_logos_wars_logo_3.png?1764176749"
+    },
+    {
+      "chainId": 480,
       "address": "0x09d4214c03d01f49544c0448dbe3a27f768f2b34",
       "name": "Reservoir rUSD",
       "symbol": "RUSD",
@@ -169,7 +177,7 @@
   ],
   "version": {
     "major": 1,
-    "minor": 7,
+    "minor": 8,
     "patch": 0
   }
 }

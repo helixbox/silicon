@@ -4,7 +4,7 @@
   "keywords": [
     "defi"
   ],
-  "timestamp": "2025-11-26T04:00:28.906+00:00",
+  "timestamp": "2025-11-26T13:00:14.351+00:00",
   "tokens": [
     {
       "chainId": 143,
@@ -16,27 +16,11 @@
     },
     {
       "chainId": 143,
-      "address": "0x3bd359c1119da7da1d913d1c4d2b7c461115433a",
-      "name": "Wrapped MON",
-      "symbol": "WMON",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/70784/thumb/WMON_Logo.png?1764113757"
-    },
-    {
-      "chainId": 143,
       "address": "0x25ac11cb986ca6910501803af5b4e41cf3ad9999",
       "name": "MonadPrinter",
       "symbol": "MONADP",
       "decimals": 9,
       "logoURI": "https://assets.coingecko.com/coins/images/70817/thumb/monad-printer.jpg?1764001342"
-    },
-    {
-      "chainId": 143,
-      "address": "0x336d414754967c6682b5a665c7daf6f1409e63e8",
-      "name": "Mu Digital muBOND",
-      "symbol": "MUBOND",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/70763/thumb/muBOND_4x.png?1763566024"
     },
     {
       "chainId": 143,
@@ -48,19 +32,11 @@
     },
     {
       "chainId": 143,
-      "address": "0x7db552eeb6b77a6babe6e0a739b5382cd653cc3e",
-      "name": "GMONAD",
-      "symbol": "GMONAD",
+      "address": "0xee8c0e9f1bffb4eb878d8f15f368a02a35481242",
+      "name": "Wormhole Bridged WETH (Monad)",
+      "symbol": "WETH",
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/70825/thumb/gmonad.jpg?1764041457"
-    },
-    {
-      "chainId": 143,
-      "address": "0xd32e9ddd968b18e8429f2d1da7efb2cc1f01d42d",
-      "name": "MOLANDAK",
-      "symbol": "MOLANDAK",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/70815/thumb/molandak-logo.jpg?1764000856"
+      "logoURI": "https://assets.coingecko.com/coins/images/70824/thumb/weth_2.jpg?1764040144"
     },
     {
       "chainId": 143,
@@ -72,11 +48,11 @@
     },
     {
       "chainId": 143,
-      "address": "0xee8c0e9f1bffb4eb878d8f15f368a02a35481242",
-      "name": "Wormhole Bridged WETH (Monad)",
-      "symbol": "WETH",
+      "address": "0xa3227c5969757783154c60bf0bc1944180ed81b9",
+      "name": "Kintsu Staked Monad",
+      "symbol": "SMON",
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/70824/thumb/weth_2.jpg?1764040144"
+      "logoURI": "https://assets.coingecko.com/coins/images/70835/thumb/sMON_%281%29.png?1764091581"
     },
     {
       "chainId": 143,
@@ -88,11 +64,27 @@
     },
     {
       "chainId": 143,
-      "address": "0xa3227c5969757783154c60bf0bc1944180ed81b9",
-      "name": "Kintsu Staked Monad",
-      "symbol": "SMON",
+      "address": "0xd32e9ddd968b18e8429f2d1da7efb2cc1f01d42d",
+      "name": "MOLANDAK",
+      "symbol": "MOLANDAK",
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/70835/thumb/sMON_%281%29.png?1764091581"
+      "logoURI": "https://assets.coingecko.com/coins/images/70815/thumb/molandak-logo.jpg?1764000856"
+    },
+    {
+      "chainId": 143,
+      "address": "0x1ad7052bb331a0529c1981c3ec2bc4663498a110",
+      "name": "Alloca",
+      "symbol": "ALLOCA",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/70749/thumb/Avatar-min.png?1763461541"
+    },
+    {
+      "chainId": 143,
+      "address": "0x336d414754967c6682b5a665c7daf6f1409e63e8",
+      "name": "Mu Digital muBOND",
+      "symbol": "MUBOND",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/70763/thumb/muBOND_4x.png?1763566024"
     },
     {
       "chainId": 143,
@@ -104,11 +96,19 @@
     },
     {
       "chainId": 143,
-      "address": "0x1ad7052bb331a0529c1981c3ec2bc4663498a110",
-      "name": "Alloca",
-      "symbol": "ALLOCA",
+      "address": "0x7db552eeb6b77a6babe6e0a739b5382cd653cc3e",
+      "name": "GMONAD",
+      "symbol": "GMONAD",
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/70749/thumb/Avatar-min.png?1763461541"
+      "logoURI": "https://assets.coingecko.com/coins/images/70825/thumb/gmonad.jpg?1764041457"
+    },
+    {
+      "chainId": 143,
+      "address": "0x3bd359c1119da7da1d913d1c4d2b7c461115433a",
+      "name": "Wrapped MON",
+      "symbol": "WMON",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/70784/thumb/WMON_Logo.png?1764113757"
     },
     {
       "chainId": 143,
@@ -133,6 +133,14 @@
       "symbol": "USDC",
       "decimals": 6,
       "logoURI": "https://assets.coingecko.com/coins/images/6319/thumb/usdc.png?1696506694"
+    },
+    {
+      "chainId": 143,
+      "address": "0xff7f8f301f7a706e3cfd3d2275f5dc0b9ee8009b",
+      "name": "FOLKS",
+      "symbol": "FOLKS",
+      "decimals": 6,
+      "logoURI": "https://assets.coingecko.com/coins/images/70268/thumb/1000331462.png?1761335326"
     },
     {
       "chainId": 143,
@@ -185,7 +193,7 @@
   ],
   "version": {
     "major": 0,
-    "minor": 7,
+    "minor": 8,
     "patch": 0
   }
 }
