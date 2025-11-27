@@ -4,47 +4,15 @@
   "keywords": [
     "defi"
   ],
-  "timestamp": "2025-10-09T17:00:16.251+00:00",
+  "timestamp": "2025-11-27T11:00:13.857+00:00",
   "tokens": [
     {
       "chainId": 34443,
-      "address": "0xf0f161fda2712db8b566946122a5af183995e2ed",
-      "name": "Mode Bridged USDT (Mode)",
-      "symbol": "USDT",
-      "decimals": 6,
-      "logoURI": "https://assets.coingecko.com/coins/images/35808/thumb/usdt_%281%29.png?1709866389"
-    },
-    {
-      "chainId": 34443,
-      "address": "0xd988097fb8612cc24eec14542bc03424c656005f",
-      "name": "Mode Bridged USDC (Mode)",
-      "symbol": "USDC",
-      "decimals": 6,
-      "logoURI": "https://assets.coingecko.com/coins/images/35809/thumb/usdc_%281%29.png?1709867043"
-    },
-    {
-      "chainId": 34443,
-      "address": "0xfda619b6d20975be80a10332cd39b9a4b0faa8bb",
-      "name": "SwapMode",
-      "symbol": "SMD",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/36014/thumb/SMDPNG.png?1710326417"
-    },
-    {
-      "chainId": 34443,
-      "address": "0x6863fb62ed27a9ddf458105b507c15b5d741d62e",
-      "name": "KIM Token",
-      "symbol": "KIM",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/37504/thumb/kim.jpg?1714579040"
-    },
-    {
-      "chainId": 34443,
-      "address": "0x3120b4907851cc9d780eef9af88ae4d5360175fd",
-      "name": "Ionic Tether USD",
-      "symbol": "IONUSDT",
-      "decimals": 6,
-      "logoURI": "https://assets.coingecko.com/coins/images/39225/thumb/ionUSDT.png?1721184701"
+      "address": "0xcdd475325d6f564d27247d1dddbb0dac6fa0a5cf",
+      "name": "Mode Bridged WBTC (Mode)",
+      "symbol": "WBTC",
+      "decimals": 8,
+      "logoURI": "https://assets.coingecko.com/coins/images/35916/thumb/wrapped-bitcoin-wbtc-logo.png?1710210285"
     },
     {
       "chainId": 34443,
@@ -56,6 +24,38 @@
     },
     {
       "chainId": 34443,
+      "address": "0x3120b4907851cc9d780eef9af88ae4d5360175fd",
+      "name": "Ionic Tether USD",
+      "symbol": "IONUSDT",
+      "decimals": 6,
+      "logoURI": "https://assets.coingecko.com/coins/images/39225/thumb/ionUSDT.png?1721184701"
+    },
+    {
+      "chainId": 34443,
+      "address": "0xf0f161fda2712db8b566946122a5af183995e2ed",
+      "name": "Mode Bridged USDT (Mode)",
+      "symbol": "USDT",
+      "decimals": 6,
+      "logoURI": "https://assets.coingecko.com/coins/images/35808/thumb/usdt_%281%29.png?1709866389"
+    },
+    {
+      "chainId": 34443,
+      "address": "0xfda619b6d20975be80a10332cd39b9a4b0faa8bb",
+      "name": "SwapMode",
+      "symbol": "SMD",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/36014/thumb/SMDPNG.png?1710326417"
+    },
+    {
+      "chainId": 34443,
+      "address": "0xd988097fb8612cc24eec14542bc03424c656005f",
+      "name": "Mode Bridged USDC (Mode)",
+      "symbol": "USDC",
+      "decimals": 6,
+      "logoURI": "https://assets.coingecko.com/coins/images/35809/thumb/usdc_%281%29.png?1709867043"
+    },
+    {
+      "chainId": 34443,
       "address": "0x4186bfc76e2e237523cbc30fd220fe055156b41f",
       "name": "KelpDAO Bridged rsETH (Mode)",
       "symbol": "RSETH",
@@ -64,11 +64,11 @@
     },
     {
       "chainId": 34443,
-      "address": "0xc53edeafb6d502daec5a7015d67936cea0cd0f52",
-      "name": "Ionic USD Coin",
-      "symbol": "IONUSDC",
-      "decimals": 7,
-      "logoURI": "https://assets.coingecko.com/coins/images/39224/thumb/ionUSDC.png?1721184505"
+      "address": "0x18470019bf0e94611f15852f7e93cf5d65bc34ca",
+      "name": "Ionic Protocol",
+      "symbol": "ION",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/36713/thumb/Ionic-icon-green.png?1712127547"
     },
     {
       "chainId": 34443,
@@ -80,6 +80,14 @@
     },
     {
       "chainId": 34443,
+      "address": "0x6863fb62ed27a9ddf458105b507c15b5d741d62e",
+      "name": "KIM Token",
+      "symbol": "KIM",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/37504/thumb/kim.jpg?1714579040"
+    },
+    {
+      "chainId": 34443,
       "address": "0x8b2eea0999876aab1e7955fe01a5d261b570452c",
       "name": "BMX: Wrapped Mode Liquidity Token",
       "symbol": "WMLT",
@@ -88,19 +96,11 @@
     },
     {
       "chainId": 34443,
-      "address": "0xcdd475325d6f564d27247d1dddbb0dac6fa0a5cf",
-      "name": "Mode Bridged WBTC (Mode)",
-      "symbol": "WBTC",
-      "decimals": 8,
-      "logoURI": "https://assets.coingecko.com/coins/images/35916/thumb/wrapped-bitcoin-wbtc-logo.png?1710210285"
-    },
-    {
-      "chainId": 34443,
-      "address": "0x18470019bf0e94611f15852f7e93cf5d65bc34ca",
-      "name": "Ionic Protocol",
-      "symbol": "ION",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/36713/thumb/Ionic-icon-green.png?1712127547"
+      "address": "0xc53edeafb6d502daec5a7015d67936cea0cd0f52",
+      "name": "Ionic USD Coin",
+      "symbol": "IONUSDC",
+      "decimals": 7,
+      "logoURI": "https://assets.coingecko.com/coins/images/39224/thumb/ionUSDC.png?1721184505"
     },
     {
       "chainId": 34443,
@@ -232,14 +232,6 @@
     },
     {
       "chainId": 34443,
-      "address": "0x5a7a183b6b44dc4ec2e3d2ef43f98c5152b1d76d",
-      "name": "Inception Restaked ETH",
-      "symbol": "INETH",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/34127/thumb/inETH.png?1715036464"
-    },
-    {
-      "chainId": 34443,
       "address": "0x77e7bcfee826b12cd498faa9831d7055b7478272",
       "name": "Charged Particles",
       "symbol": "IONX",
@@ -320,8 +312,8 @@
     }
   ],
   "version": {
-    "major": 7,
-    "minor": 1,
-    "patch": 2
+    "major": 8,
+    "minor": 0,
+    "patch": 0
   }
 }
