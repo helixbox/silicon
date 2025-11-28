@@ -4,8 +4,16 @@
   "keywords": [
     "defi"
   ],
-  "timestamp": "2025-10-01T09:00:21.039+00:00",
+  "timestamp": "2025-11-28T07:00:23.699+00:00",
   "tokens": [
+    {
+      "chainId": 5464,
+      "address": "0xf11a9b22ea9d241607474c924561b39a1ff0bee3",
+      "name": "Cluster",
+      "symbol": "CLSTR",
+      "decimals": 6,
+      "logoURI": "https://assets.coingecko.com/coins/images/66356/thumb/clstr_logo.png?1749244558"
+    },
     {
       "chainId": 5464,
       "address": "usaga",
@@ -16,19 +24,19 @@
     },
     {
       "chainId": 5464,
+      "address": "0xb76144f87df95816e8c55c240f874c554b4553c3",
+      "name": "Saga Dollar",
+      "symbol": "D",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/70864/thumb/Saga_Dollar_Logo.png?1764311392"
+    },
+    {
+      "chainId": 5464,
       "address": "0xc8fe3c1de344854f4429bb333affaef97ef88cea",
       "name": "Saga Bridged USDT (Saga)",
       "symbol": "USDT",
       "decimals": 6,
       "logoURI": "https://assets.coingecko.com/coins/images/54885/thumb/usdt.jpg?1742380576"
-    },
-    {
-      "chainId": 5464,
-      "address": "0xf11a9b22ea9d241607474c924561b39a1ff0bee3",
-      "name": "Cluster",
-      "symbol": "CLSTR",
-      "decimals": 6,
-      "logoURI": "https://assets.coingecko.com/coins/images/66356/thumb/clstr_logo.png?1749244558"
     },
     {
       "chainId": 5464,
@@ -57,7 +65,7 @@
   ],
   "version": {
     "major": 0,
-    "minor": 1,
-    "patch": 2
+    "minor": 2,
+    "patch": 0
   }
 }

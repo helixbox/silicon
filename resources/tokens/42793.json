@@ -4,24 +4,8 @@
   "keywords": [
     "defi"
   ],
-  "timestamp": "2025-11-12T06:00:38.552+00:00",
+  "timestamp": "2025-11-28T08:00:36.882+00:00",
   "tokens": [
-    {
-      "chainId": 42793,
-      "address": "0x2c03058c8afc06713be23e58d2febc8337dbfe6a",
-      "name": "Bridged USDT (Etherlink)",
-      "symbol": "USDT",
-      "decimals": 6,
-      "logoURI": "https://assets.coingecko.com/coins/images/39662/thumb/tether.png?1723525619"
-    },
-    {
-      "chainId": 42793,
-      "address": "0x9121b153bbcf8c23f20ee43b494f08760b91ad64",
-      "name": "Tezos Pepe",
-      "symbol": "TZPEPE",
-      "decimals": 2,
-      "logoURI": "https://assets.coingecko.com/coins/images/53279/thumb/tzPEPE_%281%29.jpeg?1735957333"
-    },
     {
       "chainId": 42793,
       "address": "0xbfc94cd2b1e55999cfc7347a9313e88702b83d0f",
@@ -29,14 +13,6 @@
       "symbol": "WBTC",
       "decimals": 8,
       "logoURI": "https://assets.coingecko.com/coins/images/66719/thumb/wbtc.jpg?1750306081"
-    },
-    {
-      "chainId": 42793,
-      "address": "0xc9b53ab2679f573e480d01e0f49e2b5cfb7a3eab",
-      "name": "Wrapped XTZ",
-      "symbol": "WXTZ",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/51172/thumb/WXTZ_Logo_Black.png?1750764795"
     },
     {
       "chainId": 42793,
@@ -53,6 +29,30 @@
       "symbol": "XU3O8",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/67758/thumb/xu.png?1753733711"
+    },
+    {
+      "chainId": 42793,
+      "address": "0x2c03058c8afc06713be23e58d2febc8337dbfe6a",
+      "name": "Etherlink Bridged USDT (Etherlink)",
+      "symbol": "USDT",
+      "decimals": 6,
+      "logoURI": "https://assets.coingecko.com/coins/images/39662/thumb/tether.png?1723525619"
+    },
+    {
+      "chainId": 42793,
+      "address": "0x9121b153bbcf8c23f20ee43b494f08760b91ad64",
+      "name": "Tezos Pepe",
+      "symbol": "TZPEPE",
+      "decimals": 2,
+      "logoURI": "https://assets.coingecko.com/coins/images/53279/thumb/tzPEPE_%281%29.jpeg?1735957333"
+    },
+    {
+      "chainId": 42793,
+      "address": "0xc9b53ab2679f573e480d01e0f49e2b5cfb7a3eab",
+      "name": "Wrapped XTZ",
+      "symbol": "WXTZ",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/51172/thumb/WXTZ_Logo_Black.png?1750764795"
     },
     {
       "chainId": 42793,
@@ -162,6 +162,6 @@
   "version": {
     "major": 1,
     "minor": 4,
-    "patch": 0
+    "patch": 1
   }
 }
