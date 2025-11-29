@@ -4,8 +4,16 @@
   "keywords": [
     "defi"
   ],
-  "timestamp": "2025-11-27T21:00:20.241+00:00",
+  "timestamp": "2025-11-29T06:00:20.805+00:00",
   "tokens": [
+    {
+      "chainId": 480,
+      "address": "0x8a1d45e102e886510e891d2ec656a708991e2d76",
+      "name": "Colombian Peso",
+      "symbol": "WCOP",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/70887/thumb/wcop_logo_1.png?1764394538"
+    },
     {
       "chainId": 480,
       "address": "0xd76f5faf6888e24d9f04bf92a0c8b921fe4390e0",
@@ -16,11 +24,11 @@
     },
     {
       "chainId": 480,
-      "address": "0x03c7054bcb39f7b2e5b2c7acb37583e32d70cfa3",
-      "name": "Bridged Wrapped Bitcoin (Worldchain)",
-      "symbol": "WBTC",
-      "decimals": 8,
-      "logoURI": "https://assets.coingecko.com/coins/images/51159/thumb/wbtc_28.png?1730242311"
+      "address": "0x337e7456b420bd3481e7fa61fa9850343d610d34",
+      "name": "Mexican Peso",
+      "symbol": "WMXN",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/70880/thumb/wmxn_logo_1.png?1764392404"
     },
     {
       "chainId": 480,
@@ -37,6 +45,14 @@
       "symbol": "BOWSER",
       "decimals": 9,
       "logoURI": "https://assets.coingecko.com/coins/images/50784/thumb/BOWSER_200.jpg?1729193270"
+    },
+    {
+      "chainId": 480,
+      "address": "0x03c7054bcb39f7b2e5b2c7acb37583e32d70cfa3",
+      "name": "Bridged Wrapped Bitcoin (Worldchain)",
+      "symbol": "WBTC",
+      "decimals": 8,
+      "logoURI": "https://assets.coingecko.com/coins/images/51159/thumb/wbtc_28.png?1730242311"
     },
     {
       "chainId": 480,
@@ -185,7 +201,7 @@
   ],
   "version": {
     "major": 1,
-    "minor": 9,
+    "minor": 10,
     "patch": 0
   }
 }
