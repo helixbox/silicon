@@ -4,7 +4,7 @@
   "keywords": [
     "defi"
   ],
-  "timestamp": "2025-11-30T10:00:52.607+00:00",
+  "timestamp": "2025-11-30T11:00:41.376+00:00",
   "tokens": [
     {
       "chainId": 10,
@@ -63,6 +63,14 @@
     },
     {
       "chainId": 10,
+      "address": "0x513c7e3a9c69ca3e22550ef58ac1c0088e918fff",
+      "name": "Aave v3 OP",
+      "symbol": "AOP",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/32919/thumb/op.png?1699825542"
+    },
+    {
+      "chainId": 10,
       "address": "0xa430a427bd00210506589906a71b54d6c256cedb",
       "name": "Exactly Optimism",
       "symbol": "EXAOP",
@@ -76,14 +84,6 @@
       "symbol": "MIMATIC",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/35519/thumb/mimatic-red.png?1709006627"
-    },
-    {
-      "chainId": 10,
-      "address": "0x4200000000000000000000000000000000000042",
-      "name": "Optimism",
-      "symbol": "OP",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/25244/thumb/Optimism.png?1696524385"
     },
     {
       "chainId": 10,
@@ -215,14 +215,6 @@
     },
     {
       "chainId": 10,
-      "address": "0x513c7e3a9c69ca3e22550ef58ac1c0088e918fff",
-      "name": "Aave v3 OP",
-      "symbol": "AOP",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/32919/thumb/op.png?1699825542"
-    },
-    {
-      "chainId": 10,
       "address": "0x8b21e9b7daf2c4325bf3d18c1beb79a347fe902a",
       "name": "Collab.Land",
       "symbol": "COLLAB",
@@ -276,6 +268,14 @@
       "symbol": "KITE",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/35343/thumb/_KITE.png?1708317581"
+    },
+    {
+      "chainId": 10,
+      "address": "0x4200000000000000000000000000000000000042",
+      "name": "Optimism",
+      "symbol": "OP",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/25244/thumb/Optimism.png?1696524385"
     },
     {
       "chainId": 10,
@@ -2145,6 +2145,6 @@
   "version": {
     "major": 55,
     "minor": 0,
-    "patch": 1
+    "patch": 0
   }
 }
