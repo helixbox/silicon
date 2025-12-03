@@ -4,8 +4,16 @@
   "keywords": [
     "defi"
   ],
-  "timestamp": "2025-11-14T07:00:46.752+00:00",
+  "timestamp": "2025-12-02T17:00:39.971+00:00",
   "tokens": [
+    {
+      "chainId": 5000,
+      "address": "0x51cfe5b1e764dc253f4c8c1f19a081ff4c3517ed",
+      "name": "Mantle Inu",
+      "symbol": "MINU",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/31014/thumb/mantle-inu.jpeg?1696529851"
+    },
     {
       "chainId": 5000,
       "address": "0x78c1b0c915c4faa5fffa6cabf0219da63d7f4cb8",
@@ -13,22 +21,6 @@
       "symbol": "WMNT",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/30983/thumb/mantle.jpeg?1696529822"
-    },
-    {
-      "chainId": 5000,
-      "address": "0x4515a45337f461a11ff0fe8abf3c606ae5dc00c9",
-      "name": "MOE",
-      "symbol": "MOE",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/34422/thumb/MOE.png?1704821927"
-    },
-    {
-      "chainId": 5000,
-      "address": "0xabbeed1d173541e0546b38b1c0394975be200000",
-      "name": "Slash Vision Labs",
-      "symbol": "SVL",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/37444/thumb/svl.jpeg?1714443652"
     },
     {
       "chainId": 5000,
@@ -40,22 +32,6 @@
     },
     {
       "chainId": 5000,
-      "address": "0x25356aeca4210ef7553140edb9b8026089e49396",
-      "name": "Lendle",
-      "symbol": "LEND",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/31588/thumb/lendle_logo_200_200_cg.png?1696530405"
-    },
-    {
-      "chainId": 5000,
-      "address": "0x671642ac281c760e34251d51bc9eef27026f3b7a",
-      "name": "Mantle Index Four Fund",
-      "symbol": "MI4",
-      "decimals": 6,
-      "logoURI": "https://assets.coingecko.com/coins/images/66570/thumb/mi4.png?1749795929"
-    },
-    {
-      "chainId": 5000,
       "address": "0x201eba5cc46d216ce6dc03f6a759e8e766e956ae",
       "name": "Mantle Bridged USDT (Mantle)",
       "symbol": "USDT",
@@ -64,18 +40,18 @@
     },
     {
       "chainId": 5000,
+      "address": "0xabbeed1d173541e0546b38b1c0394975be200000",
+      "name": "Slash Vision Labs",
+      "symbol": "SVL",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/37444/thumb/svl.jpeg?1714443652"
+    },
+    {
+      "chainId": 5000,
       "address": "0xab575258d37eaa5c8956efabe71f4ee8f6397cf3",
       "name": "Mantle USD",
       "symbol": "MUSD",
       "decimals": 18
-    },
-    {
-      "chainId": 5000,
-      "address": "0x51cfe5b1e764dc253f4c8c1f19a081ff4c3517ed",
-      "name": "Mantle Inu",
-      "symbol": "MINU",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/31014/thumb/mantle-inu.jpeg?1696529851"
     },
     {
       "chainId": 5000,
@@ -87,11 +63,27 @@
     },
     {
       "chainId": 5000,
-      "address": "0x779f4e5fb773e17bc8e809f4ef1abb140861159a",
-      "name": "KTX.Finance",
-      "symbol": "KTC",
+      "address": "0x25356aeca4210ef7553140edb9b8026089e49396",
+      "name": "Lendle",
+      "symbol": "LEND",
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/30537/thumb/KTX.jpeg?1696529409"
+      "logoURI": "https://assets.coingecko.com/coins/images/31588/thumb/lendle_logo_200_200_cg.png?1696530405"
+    },
+    {
+      "chainId": 5000,
+      "address": "0x4515a45337f461a11ff0fe8abf3c606ae5dc00c9",
+      "name": "MOE",
+      "symbol": "MOE",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/34422/thumb/MOE.png?1704821927"
+    },
+    {
+      "chainId": 5000,
+      "address": "0x671642ac281c760e34251d51bc9eef27026f3b7a",
+      "name": "Mantle Index Four Fund",
+      "symbol": "MI4",
+      "decimals": 6,
+      "logoURI": "https://assets.coingecko.com/coins/images/66570/thumb/mi4.png?1749795929"
     },
     {
       "chainId": 5000,
@@ -103,11 +95,67 @@
     },
     {
       "chainId": 5000,
-      "address": "0x5ecdb76feda945dc71f7d9ce62dfe7eafefffab4",
-      "name": "Minterest",
-      "symbol": "MINTY",
+      "address": "0x779f4e5fb773e17bc8e809f4ef1abb140861159a",
+      "name": "KTX.Finance",
+      "symbol": "KTC",
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/29455/thumb/MINTY.png?1706817774"
+      "logoURI": "https://assets.coingecko.com/coins/images/30537/thumb/KTX.jpeg?1696529409"
+    },
+    {
+      "chainId": 5000,
+      "address": "0x5a61b1d8272b250729ea3f5ed3ef843f4d66bc6e",
+      "name": "sUSDa",
+      "symbol": "SUSDA",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/51821/thumb/USDA.png?1732035172"
+    },
+    {
+      "chainId": 5000,
+      "address": "0x779ded0c9e1022225f8e0630b35a9b54be713736",
+      "name": "USDT0",
+      "symbol": "USDT0",
+      "decimals": 6,
+      "logoURI": "https://assets.coingecko.com/coins/images/53705/thumb/usdt0.jpg?1737086183"
+    },
+    {
+      "chainId": 5000,
+      "address": "0x981bd9f77c8aafc14ebc86769503f86a3cc29af5",
+      "name": "Tarot",
+      "symbol": "TAROT",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/31800/thumb/TAROT.jpg?1696530615"
+    },
+    {
+      "chainId": 5000,
+      "address": "0x3d142cdb27b537af57a55ee8f54ada953b4b9ecd",
+      "name": "DeBox",
+      "symbol": "BOX",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/50224/thumb/v6TSd2dN_400x400.jpg?1726521525"
+    },
+    {
+      "chainId": 5000,
+      "address": "0x58538e6a46e07434d7e7375bc268d3cb839c0133",
+      "name": "Ethena",
+      "symbol": "ENA",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/36530/thumb/ethena.png?1711701436"
+    },
+    {
+      "chainId": 5000,
+      "address": "0x8731d54e9d02c286767d56ac03e8037c07e01e98",
+      "name": "Stargate Finance",
+      "symbol": "STG",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/24413/thumb/STG_LOGO.png?1696523595"
+    },
+    {
+      "chainId": 5000,
+      "address": "0xe231db5f348d709239ef1741ea30961b3b635a61",
+      "name": "ynETH MAX",
+      "symbol": "YNETHX",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/51623/thumb/ynETHx.png?1731659494"
     },
     {
       "chainId": 5000,
@@ -143,14 +191,6 @@
     },
     {
       "chainId": 5000,
-      "address": "0x5a61b1d8272b250729ea3f5ed3ef843f4d66bc6e",
-      "name": "sUSDa",
-      "symbol": "SUSDA",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/51821/thumb/USDA.png?1732035172"
-    },
-    {
-      "chainId": 5000,
       "address": "0xc96de26018a54d51c097160568752c4e3bd6c364",
       "name": "Function FBTC",
       "symbol": "FBTC",
@@ -167,14 +207,6 @@
     },
     {
       "chainId": 5000,
-      "address": "0x779ded0c9e1022225f8e0630b35a9b54be713736",
-      "name": "USDT0",
-      "symbol": "USDT0",
-      "decimals": 6,
-      "logoURI": "https://assets.coingecko.com/coins/images/53705/thumb/usdt0.jpg?1737086183"
-    },
-    {
-      "chainId": 5000,
       "address": "0x1d40bafc49c37cda49f2a5427e2fb95e1e3fcf20",
       "name": "Solv Protocol Staked BTC",
       "symbol": "XSOLVBTC",
@@ -187,7 +219,7 @@
       "name": "AUSD",
       "symbol": "AUSD",
       "decimals": 6,
-      "logoURI": "https://assets.coingecko.com/coins/images/39284/thumb/Circle_Agora_White_on_Olive_1080px.png?1722961274"
+      "logoURI": "https://assets.coingecko.com/coins/images/39284/thumb/AUSD_1024px.png?1764684132"
     },
     {
       "chainId": 5000,
@@ -207,14 +239,6 @@
     },
     {
       "chainId": 5000,
-      "address": "0x981bd9f77c8aafc14ebc86769503f86a3cc29af5",
-      "name": "Tarot",
-      "symbol": "TAROT",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/31800/thumb/TAROT.jpg?1696530615"
-    },
-    {
-      "chainId": 5000,
       "address": "0x075df695b8e7f4361fa7f8c1426c63f11b06e326",
       "name": "USDa",
       "symbol": "USDA",
@@ -223,43 +247,11 @@
     },
     {
       "chainId": 5000,
-      "address": "0x3d142cdb27b537af57a55ee8f54ada953b4b9ecd",
-      "name": "DeBox",
-      "symbol": "BOX",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/50224/thumb/v6TSd2dN_400x400.jpg?1726521525"
-    },
-    {
-      "chainId": 5000,
-      "address": "0x8731d54e9d02c286767d56ac03e8037c07e01e98",
-      "name": "Stargate Finance",
-      "symbol": "STG",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/24413/thumb/STG_LOGO.png?1696523595"
-    },
-    {
-      "chainId": 5000,
       "address": "0xfe36cf0b43aae49fbc5cfc5c0af22a623114e043",
       "name": "Chainlink",
       "symbol": "LINK",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/877/thumb/Chainlink_Logo_500.png?1760023405"
-    },
-    {
-      "chainId": 5000,
-      "address": "0xe231db5f348d709239ef1741ea30961b3b635a61",
-      "name": "ynETH MAX",
-      "symbol": "YNETHX",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/51623/thumb/ynETHx.png?1731659494"
-    },
-    {
-      "chainId": 5000,
-      "address": "0x58538e6a46e07434d7e7375bc268d3cb839c0133",
-      "name": "Ethena",
-      "symbol": "ENA",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/36530/thumb/ethena.png?1711701436"
     },
     {
       "chainId": 5000,
@@ -367,14 +359,6 @@
     },
     {
       "chainId": 5000,
-      "address": "0xe6829d9a7ee3040e1276fa75293bde931859e8fa",
-      "name": "Mantle Restaked ETH",
-      "symbol": "CMETH",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/51114/thumb/symbol.png?1730117724"
-    },
-    {
-      "chainId": 5000,
       "address": "0x9f0c013016e8656bc256f948cd4b79ab25c7b94d",
       "name": "mETH Protocol",
       "symbol": "COOK",
@@ -396,11 +380,27 @@
       "symbol": "APTR",
       "decimals": 6,
       "logoURI": "https://assets.coingecko.com/coins/images/37940/thumb/icon_white.png?1715967425"
+    },
+    {
+      "chainId": 5000,
+      "address": "0xe6829d9a7ee3040e1276fa75293bde931859e8fa",
+      "name": "Mantle Restaked ETH",
+      "symbol": "CMETH",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/51114/thumb/symbol.png?1730117724"
+    },
+    {
+      "chainId": 5000,
+      "address": "0x5ecdb76feda945dc71f7d9ce62dfe7eafefffab4",
+      "name": "Minterest",
+      "symbol": "MINTY",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/29455/thumb/MINTY.png?1706817774"
     }
   ],
   "version": {
     "major": 19,
     "minor": 1,
-    "patch": 0
+    "patch": 1
   }
 }

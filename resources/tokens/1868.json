@@ -4,16 +4,8 @@
   "keywords": [
     "defi"
   ],
-  "timestamp": "2025-11-30T10:00:26.057+00:00",
+  "timestamp": "2025-12-02T15:00:24.141+00:00",
   "tokens": [
-    {
-      "chainId": 1868,
-      "address": "0xba9986d2381edf1da03b0b9c1f8b00dc4aacc369",
-      "name": "Soneium Bridged USDC (Soneium)",
-      "symbol": "USDC.E",
-      "decimals": 6,
-      "logoURI": "https://assets.coingecko.com/coins/images/53776/thumb/usdc.jpg?1737340150"
-    },
     {
       "chainId": 1868,
       "address": "0x3a337a6ada9d885b6ad95ec48f9b75f197b5ae35",
@@ -21,38 +13,6 @@
       "symbol": "USDT",
       "decimals": 6,
       "logoURI": "https://assets.coingecko.com/coins/images/53779/thumb/usdt.jpg?1737341724"
-    },
-    {
-      "chainId": 1868,
-      "address": "0x60336f9296c79da4294a19153ec87f8e52158e5f",
-      "name": "Bifrost Voucher ASTR",
-      "symbol": "VASTR",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/34706/thumb/vASTR.png?1705893008"
-    },
-    {
-      "chainId": 1868,
-      "address": "0x3f99231dd03a9f0e7e3421c92b7b90fbe012985a",
-      "name": "Startale USD",
-      "symbol": "USDSC",
-      "decimals": 6,
-      "logoURI": "https://assets.coingecko.com/coins/images/70883/thumb/stataleusd.png?1764393252"
-    },
-    {
-      "chainId": 1868,
-      "address": "0x3b0dc2dac9498a024003609031d973b1171de09e",
-      "name": "Wrapped stASTR",
-      "symbol": "WSTASTR",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/54782/thumb/wstASTR.png?1741570094"
-    },
-    {
-      "chainId": 1868,
-      "address": "0xa8feaae65c44b458a16ea4e709036a2ee85d073a",
-      "name": "Mother of Memes",
-      "symbol": "HAHA",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/36245/thumb/HAHA_Logo.png?1710921482"
     },
     {
       "chainId": 1868,
@@ -64,11 +24,51 @@
     },
     {
       "chainId": 1868,
+      "address": "0x3f99231dd03a9f0e7e3421c92b7b90fbe012985a",
+      "name": "Startale USD",
+      "symbol": "USDSC",
+      "decimals": 6,
+      "logoURI": "https://assets.coingecko.com/coins/images/70883/thumb/stataleusd_2x.png?1764684119"
+    },
+    {
+      "chainId": 1868,
+      "address": "0x60336f9296c79da4294a19153ec87f8e52158e5f",
+      "name": "Bifrost Voucher ASTR",
+      "symbol": "VASTR",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/34706/thumb/vASTR.png?1705893008"
+    },
+    {
+      "chainId": 1868,
       "address": "0x2cae934a1e84f693fbb78ca5ed3b0a6893259441",
       "name": "Soneium Bridged ASTR (Soneium)",
       "symbol": "ASTR",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/53778/thumb/astar.jpg?1737341226"
+    },
+    {
+      "chainId": 1868,
+      "address": "0xa8feaae65c44b458a16ea4e709036a2ee85d073a",
+      "name": "Mother of Memes",
+      "symbol": "HAHA",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/36245/thumb/HAHA_Logo.png?1710921482"
+    },
+    {
+      "chainId": 1868,
+      "address": "0xba9986d2381edf1da03b0b9c1f8b00dc4aacc369",
+      "name": "Soneium Bridged USDC (Soneium)",
+      "symbol": "USDC.E",
+      "decimals": 6,
+      "logoURI": "https://assets.coingecko.com/coins/images/53776/thumb/usdc.jpg?1737340150"
+    },
+    {
+      "chainId": 1868,
+      "address": "0x3b0dc2dac9498a024003609031d973b1171de09e",
+      "name": "Wrapped stASTR",
+      "symbol": "WSTASTR",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/54782/thumb/wstASTR.png?1741570094"
     },
     {
       "chainId": 1868,
@@ -234,6 +234,6 @@
   "version": {
     "major": 2,
     "minor": 1,
-    "patch": 1
+    "patch": 2
   }
 }

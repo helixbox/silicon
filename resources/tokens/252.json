@@ -4,8 +4,40 @@
   "keywords": [
     "defi"
   ],
-  "timestamp": "2025-10-09T17:01:24.750+00:00",
+  "timestamp": "2025-12-02T17:01:02.303+00:00",
   "tokens": [
+    {
+      "chainId": 252,
+      "address": "0xfc00000000000000000000000000000000000006",
+      "name": "Wrapped frxETH",
+      "symbol": "WFRXETH",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/35848/thumb/wrapped-sfrxeth.png?1709894604"
+    },
+    {
+      "chainId": 252,
+      "address": "0xcc15f0f1e81e4a90cc2faa918842e19f2ea2ee03",
+      "name": "Krypto Fraxtal Chicken",
+      "symbol": "KFC",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/36048/thumb/kfc.jpg?1710401920"
+    },
+    {
+      "chainId": 252,
+      "address": "0x6e58089d8e8f664823d26454f49a5a0f2ff697fe",
+      "name": "Leviathan Points",
+      "symbol": "SQUID",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/37738/thumb/0x6e58089d8e8f664823d26454f49a5a0f2ff697fe.png?1742413661"
+    },
+    {
+      "chainId": 252,
+      "address": "0x58acc2600835211dcb5847c5fa422791fd492409",
+      "name": "dTRINITY Staked dUSD",
+      "symbol": "SDUSD",
+      "decimals": 6,
+      "logoURI": "https://assets.coingecko.com/coins/images/68063/thumb/sdUSD_Logo.png?1754642699"
+    },
     {
       "chainId": 252,
       "address": "0xfc00000000000000000000000000000000000002",
@@ -13,6 +45,14 @@
       "symbol": "WFRAX",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/55432/thumb/wfrax_64.png?1745993624"
+    },
+    {
+      "chainId": 252,
+      "address": "0x3ec67133bb7d9d2d93d40fbd9238f1fb085e01ee",
+      "name": "FRAX Bullas",
+      "symbol": "FRXBULLAS",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/38186/thumb/holy3.png?1716788538"
     },
     {
       "chainId": 252,
@@ -37,38 +77,6 @@
       "symbol": "USDC",
       "decimals": 6,
       "logoURI": "https://assets.coingecko.com/coins/images/52655/thumb/usdc.jpg?1733995749"
-    },
-    {
-      "chainId": 252,
-      "address": "0x3ec67133bb7d9d2d93d40fbd9238f1fb085e01ee",
-      "name": "FRAX Bullas",
-      "symbol": "FRXBULLAS",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/38186/thumb/holy3.png?1716788538"
-    },
-    {
-      "chainId": 252,
-      "address": "0x6e58089d8e8f664823d26454f49a5a0f2ff697fe",
-      "name": "Leviathan Points",
-      "symbol": "SQUID",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/37738/thumb/0x6e58089d8e8f664823d26454f49a5a0f2ff697fe.png?1742413661"
-    },
-    {
-      "chainId": 252,
-      "address": "0xfc00000000000000000000000000000000000006",
-      "name": "Wrapped frxETH",
-      "symbol": "WFRXETH",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/35848/thumb/wrapped-sfrxeth.png?1709894604"
-    },
-    {
-      "chainId": 252,
-      "address": "0xcc15f0f1e81e4a90cc2faa918842e19f2ea2ee03",
-      "name": "Krypto Fraxtal Chicken",
-      "symbol": "KFC",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/36048/thumb/kfc.jpg?1710401920"
     },
     {
       "chainId": 252,
@@ -156,7 +164,7 @@
       "name": "AUSD",
       "symbol": "AUSD",
       "decimals": 6,
-      "logoURI": "https://assets.coingecko.com/coins/images/39284/thumb/Circle_Agora_White_on_Olive_1080px.png?1722961274"
+      "logoURI": "https://assets.coingecko.com/coins/images/39284/thumb/AUSD_1024px.png?1764684132"
     },
     {
       "chainId": 252,
@@ -200,14 +208,6 @@
     },
     {
       "chainId": 252,
-      "address": "0x58acc2600835211dcb5847c5fa422791fd492409",
-      "name": "dTRINITY Staked dUSD",
-      "symbol": "SDUSD",
-      "decimals": 6,
-      "logoURI": "https://assets.coingecko.com/coins/images/68063/thumb/sdUSD_Logo.png?1754642699"
-    },
-    {
-      "chainId": 252,
       "address": "0xd6a6ba37faac229b9665e86739ca501401f5a940",
       "name": "Chainlink",
       "symbol": "LINK",
@@ -234,6 +234,6 @@
   "version": {
     "major": 4,
     "minor": 8,
-    "patch": 1
+    "patch": 2
   }
 }

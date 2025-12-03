@@ -4,15 +4,15 @@
   "keywords": [
     "defi"
   ],
-  "timestamp": "2025-12-02T00:00:12.833+00:00",
+  "timestamp": "2025-12-02T17:00:12.396+00:00",
   "tokens": [
     {
       "chainId": 1116,
-      "address": "0x42020c7962ce072f5048120cedeb36c020062af4",
-      "name": "Crust Exchange",
-      "symbol": "CRUST",
+      "address": "0xeab3ac417c4d6df6b143346a46fee1b847b50296",
+      "name": "CoreDAO Bridged WETH (Core)",
+      "symbol": "WETH",
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/29537/thumb/photo_2023-03-21_00-12-46.jpg?1696528479"
+      "logoURI": "https://assets.coingecko.com/coins/images/69497/thumb/weth_2.jpg?1758771562"
     },
     {
       "chainId": 1116,
@@ -48,11 +48,35 @@
     },
     {
       "chainId": 1116,
+      "address": "0x900101d06a7426441ae63e9ab3b9b0f63be145f1",
+      "name": "CoreDAO Bridged USDT (Core)",
+      "symbol": "USDT",
+      "decimals": 6,
+      "logoURI": "https://assets.coingecko.com/coins/images/34424/thumb/usdt_logo.png?1704857706"
+    },
+    {
+      "chainId": 1116,
       "address": "0xa4151b2b3e269645181dccf2d426ce75fcbdeca9",
       "name": "CoreDAO Bridged USDC (Core)",
       "symbol": "USDC",
       "decimals": 6,
       "logoURI": "https://assets.coingecko.com/coins/images/34423/thumb/usdc.png?1704857726"
+    },
+    {
+      "chainId": 1116,
+      "address": "0x98564e70c7fcc6d947ffe6d9efed5ba68b306f2e",
+      "name": "Ignore Fud",
+      "symbol": "4TOKEN",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/29626/thumb/200x200.png?1696528562"
+    },
+    {
+      "chainId": 1116,
+      "address": "0x42020c7962ce072f5048120cedeb36c020062af4",
+      "name": "Crust Exchange",
+      "symbol": "CRUST",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/29537/thumb/photo_2023-03-21_00-12-46.jpg?1696528479"
     },
     {
       "chainId": 1116,
@@ -80,27 +104,19 @@
     },
     {
       "chainId": 1116,
-      "address": "0x900101d06a7426441ae63e9ab3b9b0f63be145f1",
-      "name": "CoreDAO Bridged USDT (Core)",
-      "symbol": "USDT",
-      "decimals": 6,
-      "logoURI": "https://assets.coingecko.com/coins/images/34424/thumb/usdt_logo.png?1704857706"
-    },
-    {
-      "chainId": 1116,
-      "address": "0xeab3ac417c4d6df6b143346a46fee1b847b50296",
-      "name": "CoreDAO Bridged WETH (Core)",
-      "symbol": "WETH",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/69497/thumb/weth_2.jpg?1758771562"
-    },
-    {
-      "chainId": 1116,
       "address": "0x204e2d49b7cda6d93301bcf667a2da28fb0e5780",
       "name": "Aquarius Loan",
       "symbol": "ARS",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/31445/thumb/logo-200x200.png?1696530259"
+    },
+    {
+      "chainId": 1116,
+      "address": "0xe0d829e913618a7d2e2ba27a5fc8c274a8c525cf",
+      "name": "Gemholic",
+      "symbol": "GEMS",
+      "decimals": 9,
+      "logoURI": "https://assets.coingecko.com/coins/images/29542/thumb/photo_2023-03-16_19-06-39.jpg?1696528483"
     },
     {
       "chainId": 1116,
@@ -117,22 +133,6 @@
       "symbol": "COKE",
       "decimals": 9,
       "logoURI": "https://assets.coingecko.com/coins/images/37848/thumb/corekeeper-2.png?1715758831"
-    },
-    {
-      "chainId": 1116,
-      "address": "0x98564e70c7fcc6d947ffe6d9efed5ba68b306f2e",
-      "name": "Ignore Fud",
-      "symbol": "4TOKEN",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/29626/thumb/200x200.png?1696528562"
-    },
-    {
-      "chainId": 1116,
-      "address": "0xe0d829e913618a7d2e2ba27a5fc8c274a8c525cf",
-      "name": "Gemholic",
-      "symbol": "GEMS",
-      "decimals": 9,
-      "logoURI": "https://assets.coingecko.com/coins/images/29542/thumb/photo_2023-03-16_19-06-39.jpg?1696528483"
     },
     {
       "chainId": 1116,
@@ -276,7 +276,7 @@
       "name": "AUSD",
       "symbol": "AUSD",
       "decimals": 6,
-      "logoURI": "https://assets.coingecko.com/coins/images/39284/thumb/Circle_Agora_White_on_Olive_1080px.png?1722961274"
+      "logoURI": "https://assets.coingecko.com/coins/images/39284/thumb/AUSD_1024px.png?1764684132"
     },
     {
       "chainId": 1116,
@@ -306,6 +306,6 @@
   "version": {
     "major": 11,
     "minor": 0,
-    "patch": 0
+    "patch": 1
   }
 }
