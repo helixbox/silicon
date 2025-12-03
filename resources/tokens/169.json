@@ -4,8 +4,40 @@
   "keywords": [
     "defi"
   ],
-  "timestamp": "2025-11-23T10:00:23.921+00:00",
+  "timestamp": "2025-12-03T10:00:22.471+00:00",
   "tokens": [
+    {
+      "chainId": 169,
+      "address": "0xb73603c5d87fa094b7314c74ace2e64d165016fb",
+      "name": "Bridged USD Coin (Manta Pacific)",
+      "symbol": "USDC",
+      "decimals": 6,
+      "logoURI": "https://assets.coingecko.com/coins/images/32215/thumb/usdc.png?1696832099"
+    },
+    {
+      "chainId": 169,
+      "address": "0x95cef13441be50d20ca4558cc0a27b601ac544e5",
+      "name": "Manta Network",
+      "symbol": "MANTA",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/34289/thumb/manta.jpg?1704468717"
+    },
+    {
+      "chainId": 169,
+      "address": "0xaccbc418a994a27a75644d8d591afc22faba594e",
+      "name": "Manta mETH",
+      "symbol": "METH",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/38337/thumb/token_m_eth.png?1717126380"
+    },
+    {
+      "chainId": 169,
+      "address": "0x95d1b0f2a751010083bf12e29e7a2f13429f7143",
+      "name": "EZswap Protocol",
+      "symbol": "EZSWAP",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/36045/thumb/ezswao.jpeg?1710401382"
+    },
     {
       "chainId": 169,
       "address": "0x41c49790967067a71f893b51f2f311ace46fb773",
@@ -13,22 +45,6 @@
       "symbol": "CIRCLE",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/34757/thumb/logo.png?1705981096"
-    },
-    {
-      "chainId": 169,
-      "address": "0x2fe3ad97a60eb7c79a976fc18bb5ffd07dd94ba5",
-      "name": "Bridged Wrapped stETH (Manta Pacific)",
-      "symbol": "WSTETH",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/32218/thumb/wstETH.png?1696832978"
-    },
-    {
-      "chainId": 169,
-      "address": "0xcba2aeec821b0b119857a9ab39e09b034249681a",
-      "name": "Accumulated Finance Staked MANTA",
-      "symbol": "STMANTA",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/51116/thumb/stmanta.png?1730118237"
     },
     {
       "chainId": 169,
@@ -48,35 +64,11 @@
     },
     {
       "chainId": 169,
-      "address": "0x95d1b0f2a751010083bf12e29e7a2f13429f7143",
-      "name": "EZswap Protocol",
-      "symbol": "EZSWAP",
+      "address": "0x2fe3ad97a60eb7c79a976fc18bb5ffd07dd94ba5",
+      "name": "Bridged Wrapped stETH (Manta Pacific)",
+      "symbol": "WSTETH",
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/36045/thumb/ezswao.jpeg?1710401382"
-    },
-    {
-      "chainId": 169,
-      "address": "0x0dc808adce2099a9f62aa87d9670745aba741746",
-      "name": "Bridged Wrapped Ether (Manta Pacific)",
-      "symbol": "WETH",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/32212/thumb/wETH_32.png?1696817415"
-    },
-    {
-      "chainId": 169,
-      "address": "0xf417f5a458ec102b90352f697d6e2ac3a3d2851f",
-      "name": "Bridged Tether (Manta Pacific)",
-      "symbol": "USDT",
-      "decimals": 6,
-      "logoURI": "https://assets.coingecko.com/coins/images/32214/thumb/usdt_%281%29.png?1696831809"
-    },
-    {
-      "chainId": 169,
-      "address": "0xaccbc418a994a27a75644d8d591afc22faba594e",
-      "name": "Manta mETH",
-      "symbol": "METH",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/38337/thumb/token_m_eth.png?1717126380"
+      "logoURI": "https://assets.coingecko.com/coins/images/32218/thumb/wstETH.png?1696832978"
     },
     {
       "chainId": 169,
@@ -88,11 +80,11 @@
     },
     {
       "chainId": 169,
-      "address": "0xb73603c5d87fa094b7314c74ace2e64d165016fb",
-      "name": "Bridged USD Coin (Manta Pacific)",
-      "symbol": "USDC",
-      "decimals": 6,
-      "logoURI": "https://assets.coingecko.com/coins/images/32215/thumb/usdc.png?1696832099"
+      "address": "0x0dc808adce2099a9f62aa87d9670745aba741746",
+      "name": "Bridged Wrapped Ether (Manta Pacific)",
+      "symbol": "WETH",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/32212/thumb/wETH_32.png?1696817415"
     },
     {
       "chainId": 169,
@@ -104,11 +96,11 @@
     },
     {
       "chainId": 169,
-      "address": "0x95cef13441be50d20ca4558cc0a27b601ac544e5",
-      "name": "Manta Network",
-      "symbol": "MANTA",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/34289/thumb/manta.jpg?1704468717"
+      "address": "0xf417f5a458ec102b90352f697d6e2ac3a3d2851f",
+      "name": "Bridged Tether (Manta Pacific)",
+      "symbol": "USDT",
+      "decimals": 6,
+      "logoURI": "https://assets.coingecko.com/coins/images/32214/thumb/usdt_%281%29.png?1696831809"
     },
     {
       "chainId": 169,
@@ -248,7 +240,7 @@
     }
   ],
   "version": {
-    "major": 14,
+    "major": 15,
     "minor": 0,
     "patch": 0
   }
