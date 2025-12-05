@@ -4,16 +4,8 @@
   "keywords": [
     "defi"
   ],
-  "timestamp": "2025-12-02T16:00:03.409+00:00",
+  "timestamp": "2025-12-05T10:00:03.725+00:00",
   "tokens": [
-    {
-      "chainId": 98866,
-      "address": "0xea237441c92cae6fc17caaf9a7acb3f953be4bd1",
-      "name": "Wrapped Plume",
-      "symbol": "WPLUME",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/70470/thumb/plume.jpg?1762154772"
-    },
     {
       "chainId": 98866,
       "address": "0x15c09c0ffb3717325e60a564d1acfbfe999c2f88",
@@ -32,14 +24,6 @@
     },
     {
       "chainId": 98866,
-      "address": "0x5107272921a750a20d492fb41acf0b770b09a624",
-      "name": "Mineral Vault I Security Token",
-      "symbol": "MNRL",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/66290/thumb/mineral-vault.png?1749109942"
-    },
-    {
-      "chainId": 98866,
       "address": "0x2a3e301dbd45c143dfbb7b1ce1c55bf0bbf161cb",
       "name": "Nest Apollo ACRDX Vault",
       "symbol": "NACRDX",
@@ -48,19 +32,19 @@
     },
     {
       "chainId": 98866,
-      "address": "0x9d08946ca5856f882a56c29042fbedc5142663b9",
-      "name": "Nest Mineral Vault",
-      "symbol": "NMNRL",
-      "decimals": 6,
-      "logoURI": "https://assets.coingecko.com/coins/images/70513/thumb/Nest_MNRL_Vault.png?1762268451"
-    },
-    {
-      "chainId": 98866,
       "address": "0xdea149f84859d1ec50480c209b71bffa482b0530",
       "name": "Nest Treasury Vault (LP)",
       "symbol": "INTBILL",
       "decimals": 6,
       "logoURI": "https://assets.coingecko.com/coins/images/66318/thumb/inTbill.png?1749197830"
+    },
+    {
+      "chainId": 98866,
+      "address": "0x39d1f90ef89c52dda276194e9a832b484ee45574",
+      "name": "Plume Staked ETH",
+      "symbol": "PETH",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/67514/thumb/peth.png?1753068541"
     },
     {
       "chainId": 98866,
@@ -88,19 +72,27 @@
     },
     {
       "chainId": 98866,
+      "address": "0x9d08946ca5856f882a56c29042fbedc5142663b9",
+      "name": "Nest Mineral Vault",
+      "symbol": "NMNRL",
+      "decimals": 6,
+      "logoURI": "https://assets.coingecko.com/coins/images/70513/thumb/Nest_MNRL_Vault.png?1762268451"
+    },
+    {
+      "chainId": 98866,
+      "address": "0x29bf22381a5811dec89dc7b46a5ce57ad02c0240",
+      "name": "Nest WisdomTree Vault",
+      "symbol": "NWISDOM",
+      "decimals": 6,
+      "logoURI": "https://assets.coingecko.com/coins/images/70669/thumb/Nest_Wisdom_Vault.png?1763016395"
+    },
+    {
+      "chainId": 98866,
       "address": "0x9477724bb54ad5417de8baff29e59df3fb4da74f",
       "name": "Anemoy Tokenized Apollo Diversified Credit Fund",
       "symbol": "ACDRX",
       "decimals": 6,
       "logoURI": "https://assets.coingecko.com/coins/images/70454/thumb/acdrx.png?1762081579"
-    },
-    {
-      "chainId": 98866,
-      "address": "0x39d1f90ef89c52dda276194e9a832b484ee45574",
-      "name": "Plume Staked ETH",
-      "symbol": "PETH",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/67514/thumb/peth.png?1753068541"
     },
     {
       "chainId": 98866,
@@ -112,11 +104,11 @@
     },
     {
       "chainId": 98866,
-      "address": "0x29bf22381a5811dec89dc7b46a5ce57ad02c0240",
-      "name": "Nest WisdomTree Vault",
-      "symbol": "NWISDOM",
-      "decimals": 6,
-      "logoURI": "https://assets.coingecko.com/coins/images/70669/thumb/Nest_Wisdom_Vault.png?1763016395"
+      "address": "0xea237441c92cae6fc17caaf9a7acb3f953be4bd1",
+      "name": "Wrapped Plume",
+      "symbol": "WPLUME",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/70470/thumb/plume.jpg?1762154772"
     },
     {
       "chainId": 98866,
@@ -448,8 +440,8 @@
     }
   ],
   "version": {
-    "major": 0,
-    "minor": 37,
-    "patch": 1
+    "major": 1,
+    "minor": 0,
+    "patch": 0
   }
 }
