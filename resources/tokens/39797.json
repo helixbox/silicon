@@ -4,16 +4,8 @@
   "keywords": [
     "defi"
   ],
-  "timestamp": "2025-11-19T04:00:19.943+00:00",
+  "timestamp": "2025-12-07T10:00:18.410+00:00",
   "tokens": [
-    {
-      "chainId": 39797,
-      "address": "0xa55f26319462355474a9f2c8790860776a329aa4",
-      "name": "Wrapped Energi",
-      "symbol": "WNRG",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/25462/thumb/Energi.jpeg?1696524592"
-    },
     {
       "chainId": 39797,
       "address": "0x591c19dc0821704bedaa5bbc6a66fee277d9437e",
@@ -24,11 +16,19 @@
     },
     {
       "chainId": 39797,
-      "address": "0xffd7510ca0a3279c7a5f50018a26c21d5bc1dbcf",
-      "name": "Energi Bridged USDC (Energi)",
-      "symbol": "USDC",
-      "decimals": 6,
-      "logoURI": "https://assets.coingecko.com/coins/images/35323/thumb/USDC.jpg?1708178353"
+      "address": "0xa55f26319462355474a9f2c8790860776a329aa4",
+      "name": "Wrapped Energi",
+      "symbol": "WNRG",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/25462/thumb/Energi.jpeg?1696524592"
+    },
+    {
+      "chainId": 39797,
+      "address": "0x0ee5893f434017d8881750101ea2f7c49c0eb503",
+      "name": "Multichain Bridged DAI (Energi)",
+      "symbol": "DAI",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/39802/thumb/dai.png?1724125849"
     },
     {
       "chainId": 39797,
@@ -56,19 +56,19 @@
     },
     {
       "chainId": 39797,
+      "address": "0xffd7510ca0a3279c7a5f50018a26c21d5bc1dbcf",
+      "name": "Energi Bridged USDC (Energi)",
+      "symbol": "USDC",
+      "decimals": 6,
+      "logoURI": "https://assets.coingecko.com/coins/images/35323/thumb/USDC.jpg?1708178353"
+    },
+    {
+      "chainId": 39797,
       "address": "0xd7b8710f5713d2739da301a5ecdb8b6ffb5ec60d",
       "name": "Energiswap WAVAX (Energi)",
       "symbol": "EAVAX",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/53087/thumb/wrapped-avax.png?1735205549"
-    },
-    {
-      "chainId": 39797,
-      "address": "0x0ee5893f434017d8881750101ea2f7c49c0eb503",
-      "name": "Multichain Bridged DAI (Energi)",
-      "symbol": "DAI",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/39802/thumb/dai.png?1724125849"
     },
     {
       "chainId": 39797,
@@ -205,14 +205,6 @@
       "symbol": "YFI",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/11849/thumb/yearn.jpg?1696511720"
-    },
-    {
-      "chainId": 39797,
-      "address": "0xc4efad8386124927fb46b146526625e143e5a63a",
-      "name": "ZKBase",
-      "symbol": "ZKB",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/13585/thumb/image_2024-01-16_172847810.png?1705397359"
     },
     {
       "chainId": 39797,
@@ -896,7 +888,7 @@
     }
   ],
   "version": {
-    "major": 13,
+    "major": 14,
     "minor": 0,
     "patch": 0
   }
