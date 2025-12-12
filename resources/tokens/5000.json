@@ -4,7 +4,7 @@
   "keywords": [
     "defi"
   ],
-  "timestamp": "2025-12-11T09:00:40.718+00:00",
+  "timestamp": "2025-12-12T11:00:40.115+00:00",
   "tokens": [
     {
       "chainId": 5000,
@@ -24,6 +24,14 @@
     },
     {
       "chainId": 5000,
+      "address": "0x78c1b0c915c4faa5fffa6cabf0219da63d7f4cb8",
+      "name": "Wrapped Mantle",
+      "symbol": "WMNT",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/30983/thumb/mantle.jpeg?1696529822"
+    },
+    {
+      "chainId": 5000,
       "address": "0x09bc4e0d864854c6afb6eb9a9cdf58ac190d0df9",
       "name": "Mantle Bridged USDC (Mantle)",
       "symbol": "USDC",
@@ -40,26 +48,10 @@
     },
     {
       "chainId": 5000,
-      "address": "0x78c1b0c915c4faa5fffa6cabf0219da63d7f4cb8",
-      "name": "Wrapped Mantle",
-      "symbol": "WMNT",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/30983/thumb/mantle.jpeg?1696529822"
-    },
-    {
-      "chainId": 5000,
       "address": "0xab575258d37eaa5c8956efabe71f4ee8f6397cf3",
       "name": "Mantle USD",
       "symbol": "MUSD",
       "decimals": 18
-    },
-    {
-      "chainId": 5000,
-      "address": "0x201eba5cc46d216ce6dc03f6a759e8e766e956ae",
-      "name": "Mantle Bridged USDT (Mantle)",
-      "symbol": "USDT",
-      "decimals": 6,
-      "logoURI": "https://assets.coingecko.com/coins/images/35069/thumb/logo.png?1707291114"
     },
     {
       "chainId": 5000,
@@ -187,7 +179,7 @@
       "name": "Mantle",
       "symbol": "MNT",
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/30980/thumb/Mantle-Logo-mark.png?1739213200"
+      "logoURI": "https://assets.coingecko.com/coins/images/30980/thumb/MNT_Token_Logo.png?1765516974"
     },
     {
       "chainId": 5000,
@@ -391,6 +383,14 @@
     },
     {
       "chainId": 5000,
+      "address": "0x201eba5cc46d216ce6dc03f6a759e8e766e956ae",
+      "name": "Stargate Bridged USDT",
+      "symbol": "USDT",
+      "decimals": 6,
+      "logoURI": "https://assets.coingecko.com/coins/images/70631/thumb/usdt.jpg?1762857609"
+    },
+    {
+      "chainId": 5000,
       "address": "0x5ecdb76feda945dc71f7d9ce62dfe7eafefffab4",
       "name": "Minterest",
       "symbol": "MINTY",
@@ -401,6 +401,6 @@
   "version": {
     "major": 20,
     "minor": 0,
-    "patch": 0
+    "patch": 2
   }
 }

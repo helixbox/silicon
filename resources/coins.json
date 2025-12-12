@@ -5662,7 +5662,7 @@
   {
     "id": "alex-wrapped-usdt",
     "symbol": "susdt",
-    "name": "Bridged Tether (Alex Bridge)",
+    "name": "ALEX Bridged USDT (Stacks)",
     "platforms": {
       "stacks": "SP3K8BC0PPEVCV7NZ6QSRWPQ2JE9E5B6N3PA0KBR9.token-susdt"
     }
@@ -12145,12 +12145,12 @@
   {
     "id": "axelar-usdt",
     "symbol": "axlusdt",
-    "name": "Bridged Tether (Axelar)",
+    "name": "Axelar Bridged USDT",
     "platforms": {
       "fantom": "0xd226392c23fb3476274ed6759d4a478db3197d82",
       "osmosis": "ibc/8242AD24008032E457D2E12D46588FD39FB54FB29680C6C7663D296B383C37C4",
-      "terra-2": "ibc/CBF67A2BCF6CAE343FDF251E510C8E18C361FC02B23430C121116E0811835DEF",
       "secret": "secret1wk5j2cntwg2fgklf0uta3tlkvt87alfj7kepuw",
+      "terra-2": "ibc/CBF67A2BCF6CAE343FDF251E510C8E18C361FC02B23430C121116E0811835DEF",
       "kava": "0x7f5373ae26c3e8ffc4c77b7255df7ec1a9af52a6",
       "polygon-pos": "0xceed2671d8634e3ee65000edbbee66139b132fbf",
       "arbitrum-one": "0x7f5373ae26c3e8ffc4c77b7255df7ec1a9af52a6",
@@ -15866,6 +15866,14 @@
     "name": "BEATS on BASE",
     "platforms": {
       "base": "0x315b8c9a1123c10228d469551033440441b41f0b"
+    }
+  },
+  {
+    "id": "beatswap",
+    "symbol": "btx",
+    "name": "Beatswap",
+    "platforms": {
+      "binance-smart-chain": "0xaa242a47f4cc074e59cbc7d65309b1f21202aaa3"
     }
   },
   {
@@ -22574,14 +22582,6 @@
     }
   },
   {
-    "id": "boom-fun",
-    "symbol": "boom",
-    "name": "boom.fun",
-    "platforms": {
-      "ethereum": "0x48e205eb6db302a6e50d292cd382f6251d9a25cd"
-    }
-  },
-  {
     "id": "boo-mirrorworld",
     "symbol": "xboo",
     "name": "Boo MirrorWorld",
@@ -23168,14 +23168,6 @@
     "name": "Boysclubbase",
     "platforms": {
       "base": "0x4d58608eff50b691a3b76189af2a7a123df1e9ba"
-    }
-  },
-  {
-    "id": "boysclub-on-sui",
-    "symbol": "boyss",
-    "name": "Boysclub on Sui",
-    "platforms": {
-      "sui": "0x761feb1492359aa2160a07500c00bbe99fa904ea130552fc5ad07b448733be46::boyss::BOYSS"
     }
   },
   {
@@ -23855,7 +23847,7 @@
   {
     "id": "bridged-tether-fuse",
     "symbol": "usdt",
-    "name": "Bridged Tether (Fuse)",
+    "name": "Fuse Bridged USDT (Fuse)",
     "platforms": {
       "fuse": "0x68c9736781e9316ebf5c3d49fe0c1f45d2d104cd"
     }
@@ -23863,23 +23855,15 @@
   {
     "id": "bridged-tether-hashport",
     "symbol": "usdt[hts]",
-    "name": "Bridged Tether (Hashport)",
+    "name": "Hashport Bridged USDT (Hedera)",
     "platforms": {
       "hedera-hashgraph": "0x0000000000000000000000000000000000101af0"
     }
   },
   {
-    "id": "bridged-tether-lightlink",
-    "symbol": "usdt.e",
-    "name": "Bridged Tether (Lightlink)",
-    "platforms": {
-      "lightlink": "0x6308fa9545126237158778e74ae1b6b89022c5c0"
-    }
-  },
-  {
     "id": "bridged-tether-linea",
     "symbol": "usdt",
-    "name": "Bridged Tether (Linea)",
+    "name": "Linea Bridged USDT (Linea)",
     "platforms": {
       "linea": "0xa219439258ca9da29e9cc4ce5596924745e12b93"
     }
@@ -23887,7 +23871,7 @@
   {
     "id": "bridged-tether-manta-pacific",
     "symbol": "usdt",
-    "name": "Bridged Tether (Manta Pacific)",
+    "name": "Manta Pacific Bridged USDT (Manta Pacific)",
     "platforms": {
       "manta-pacific": "0xf417f5a458ec102b90352f697d6e2ac3a3d2851f"
     }
@@ -23895,7 +23879,7 @@
   {
     "id": "bridged-tether-opbnb",
     "symbol": "usdt",
-    "name": "Bridged Tether (opBNB)",
+    "name": "opBNB Bridged USDT (opBNB)",
     "platforms": {
       "opbnb": "0x9e5aac1ba1a2e6aed6b32689dfcf62a509ca96f3"
     }
@@ -23903,7 +23887,7 @@
   {
     "id": "bridged-tether-scroll",
     "symbol": "usdt",
-    "name": "Bridged Tether (Scroll)",
+    "name": "Scroll Bridged USDT (Scroll)",
     "platforms": {
       "scroll": "0xf55bec9cafdbe8730f096aa55dad6d22d44099df"
     }
@@ -23911,7 +23895,7 @@
   {
     "id": "bridged-tether-starkgate",
     "symbol": "usdt",
-    "name": "Bridged Tether (StarkGate)",
+    "name": "StarkGate Bridged USDT (StarkNet)",
     "platforms": {
       "starknet": "0x68f5c6a61780768455de69077e07e89787839bf8166decfbf92b645209c0fb8"
     }
@@ -23919,7 +23903,7 @@
   {
     "id": "bridged-tether-ton-bridge",
     "symbol": "jusdt",
-    "name": "Bridged Tether (TON Bridge)",
+    "name": "TON Bridged USDT (TON)",
     "platforms": {
       "the-open-network": "EQBynBO23ywHy_CgarY9NK9FTz0yDsG82PtcbSTQgGoXwiuA"
     }
@@ -24081,7 +24065,6 @@
     "platforms": {
       "kardiachain": "0x551a5dcac57c66aa010940c2dcff5da9c53aa53b",
       "harmony-shard-0": "0x3c2b8be99c50593081eaa2a724f0b8285f5aba8f",
-      "metis-andromeda": "0xbb06dca3ae6887fabf931640f67cab3e3a16f4dc",
       "boba": "0x5de1677344d3cb0d7d465c10b72a8f60699c062d",
       "velas": "0xb44a9b6905af7c801311e8f4e76932ee959c663c",
       "iotex": "0x3cdb7c48e70b854ed2fa392e21687501d84b3afc",
@@ -25063,14 +25046,6 @@
     "name": "Bucky",
     "platforms": {
       "solana": "7hZmPPkBDYbFpvzQW54sX3DQHQjEVsVcCFRWsvCdbonk"
-    }
-  },
-  {
-    "id": "buddha",
-    "symbol": "buddha",
-    "name": "Buddha",
-    "platforms": {
-      "ethereum": "0xdefb0b264032e4e128b00d02b3fd0aa00331237b"
     }
   },
   {
@@ -26849,14 +26824,6 @@
     "name": "Captain Ethereum",
     "platforms": {
       "ethereum": "0x9af595c8fc201e82db65faef71d51365d7f11b5f"
-    }
-  },
-  {
-    "id": "captain-goofy",
-    "symbol": "goof",
-    "name": "Captain GOOFY",
-    "platforms": {
-      "sui": "0xe0644f3e46b2d9f319a2cc3491155c75d1b6132ba9b3601c6e7e102e17296645::goof::GOOF"
     }
   },
   {
@@ -37957,14 +37924,6 @@
     }
   },
   {
-    "id": "dca420-meme-index",
-    "symbol": "dca",
-    "name": "DCA420 Meme Index",
-    "platforms": {
-      "solana": "GbM86ZU8UhcSwiwkB7uLqWaPnGnQXNKExJebzDBspump"
-    }
-  },
-  {
     "id": "dcai",
     "symbol": "dcai",
     "name": "DCAI",
@@ -46039,6 +45998,14 @@
     }
   },
   {
+    "id": "earnausd",
+    "symbol": "earnausd",
+    "name": "earnAUSD",
+    "platforms": {
+      "monad": "0x103222f020e98bba0ad9809a011fdf8e6f067496"
+    }
+  },
+  {
     "id": "earnbet",
     "symbol": "ebet",
     "name": "EarnBet",
@@ -46052,14 +46019,6 @@
     "name": "Earnm",
     "platforms": {
       "polygon-pos": "0xaeb3dd897ade187b9f9e4c491bc7a81f69f7093e"
-    }
-  },
-  {
-    "id": "earnquest",
-    "symbol": "earn",
-    "name": "EarnQuest",
-    "platforms": {
-      "binance-smart-chain": "0x9ad4ae969208729379abae00c71f4e678e9cf1d0"
     }
   },
   {
@@ -47530,14 +47489,6 @@
     }
   },
   {
-    "id": "emdx",
-    "symbol": "emdx",
-    "name": "EMDX",
-    "platforms": {
-      "avalanche": "0xe533b81297b820d2eb2cd837263926596328e8d2"
-    }
-  },
-  {
     "id": "emeow",
     "symbol": "emeow",
     "name": "emeow",
@@ -47962,6 +47913,14 @@
     }
   },
   {
+    "id": "engrave-protocol",
+    "symbol": "engrave",
+    "name": "Engrave Protocol",
+    "platforms": {
+      "solana": "ADMiFUmFUz3tzLozh7yTy2zWe1soM61aE995TZqLpump"
+    }
+  },
+  {
     "id": "enjincoin",
     "symbol": "enj",
     "name": "Enjin Coin",
@@ -48075,14 +48034,6 @@
     "platforms": {
       "ethereum": "0x699f088b5dddcafb7c4824db5b10b57b37cb0c66",
       "binance-smart-chain": "0xfeb339236d25d3e415f280189bc7c2fbab6ae9ef"
-    }
-  },
-  {
-    "id": "enterbeat",
-    "symbol": "ebt",
-    "name": "ENTERBEAT",
-    "platforms": {
-      "base": "0xcf803ee29d3fd878880e5cdfee804efd97d599f5"
     }
   },
   {
@@ -51382,14 +51333,6 @@
     }
   },
   {
-    "id": "feg",
-    "symbol": "feg",
-    "name": "feg",
-    "platforms": {
-      "solana": "89SDvBNx6msHBKwGzfvSe5qDuBwfodQD4kQrg2M1pump"
-    }
-  },
-  {
     "id": "feg-token-2",
     "symbol": "feg",
     "name": "FEED EVERY GORILLA",
@@ -54334,14 +54277,6 @@
       "polygon-pos": "0xd4dd9e2f021bb459d5a5f6c24c12fe09c5d45553",
       "optimistic-ethereum": "0xd4dd9e2f021bb459d5a5f6c24c12fe09c5d45553",
       "arbitrum-one": "0xd4dd9e2f021bb459d5a5f6c24c12fe09c5d45553"
-    }
-  },
-  {
-    "id": "frankenfrog",
-    "symbol": "ffrog",
-    "name": "FrankenFrog",
-    "platforms": {
-      "solana": "9nJVEmiNFqLkueCGTsYtqAgx6v7wvckQEH5jzhBopump"
     }
   },
   {
@@ -59091,6 +59026,14 @@
     }
   },
   {
+    "id": "gnosis-xdai-bridged-eurc-gnosis",
+    "symbol": "eurc.e",
+    "name": "Omnibridge Bridged EURC (Gnosis)",
+    "platforms": {
+      "xdai": "0x54e4cb2a4fa0ee46e3d9a98d13bea119666e09f6"
+    }
+  },
+  {
     "id": "gnosis-xdai-bridged-usdc-gnosis",
     "symbol": "usdc",
     "name": "Gnosis xDAI Bridged USDC (Gnosis)",
@@ -59411,6 +59354,14 @@
     "name": "Gode Chain",
     "platforms": {
       "binance-smart-chain": "0x245d9f531757f83064ad808b4c9b220c703a4934"
+    }
+  },
+  {
+    "id": "godl-2",
+    "symbol": "godl",
+    "name": "GODL",
+    "platforms": {
+      "solana": "GodL6KZ9uuUoQwELggtVzQkKmU1LfqmDokPibPeDKkhF"
     }
   },
   {
@@ -62857,6 +62808,12 @@
     }
   },
   {
+    "id": "harmonix-finance",
+    "symbol": "har",
+    "name": "Harmonix Finance",
+    "platforms": {}
+  },
+  {
     "id": "harmonix-khype",
     "symbol": "hakhype",
     "name": "Harmonix kHYPE",
@@ -63766,14 +63723,6 @@
     "name": "Helder",
     "platforms": {
       "binance-smart-chain": "0x617c0440334bb4a63b75847345f906c782b419ab"
-    }
-  },
-  {
-    "id": "helga-inu",
-    "symbol": "helga",
-    "name": "Helga Inu",
-    "platforms": {
-      "ethereum": "0x78e3b2ee11950df78a35fd924e92fbb8d1403780"
     }
   },
   {
@@ -68802,7 +68751,7 @@
   {
     "id": "instabridge-wrapped-usdt",
     "symbol": "xusdt",
-    "name": "Instabridge Wrapped USDT (Radix)",
+    "name": "Instabridge Bridged USDT (Radix)",
     "platforms": {
       "radix": "resource_rdx1thrvr3xfs2tarm2dl9emvs26vjqxu6mqvfgvqjne940jv0lnrrg7rw"
     }
@@ -76766,14 +76715,6 @@
     }
   },
   {
-    "id": "larpai",
-    "symbol": "larpai",
-    "name": "LarpAI",
-    "platforms": {
-      "solana": "5auoDa6TKL3FsdZiRr11PDWNiDrYBgK6xWzVvVZJpump"
-    }
-  },
-  {
     "id": "larp-ai",
     "symbol": "lai",
     "name": "Larp AI",
@@ -83168,14 +83109,6 @@
     "name": "Mantle Bridged USDC (Mantle)",
     "platforms": {
       "mantle": "0x09bc4e0d864854c6afb6eb9a9cdf58ac190d0df9"
-    }
-  },
-  {
-    "id": "mantle-bridged-usdt-mantle",
-    "symbol": "usdt",
-    "name": "Mantle Bridged USDT (Mantle)",
-    "platforms": {
-      "mantle": "0x201eba5cc46d216ce6dc03f6a759e8e766e956ae"
     }
   },
   {
@@ -93454,14 +93387,6 @@
     }
   },
   {
-    "id": "nend",
-    "symbol": "nend",
-    "name": "NEND",
-    "platforms": {
-      "polygon-pos": "0x32dfe9b08826c24296f494ec1831ee7ceb45e4a6"
-    }
-  },
-  {
     "id": "nengcoin",
     "symbol": "neng",
     "name": "Nengcoin",
@@ -99288,14 +99213,6 @@
     }
   },
   {
-    "id": "opinion-finance",
-    "symbol": "opn",
-    "name": "Opinion Finance",
-    "platforms": {
-      "binance-smart-chain": "0xcaf76feee43a2a7db0fbe23ee4018757f352a1ff"
-    }
-  },
-  {
     "id": "opipets",
     "symbol": "opip",
     "name": "OpiPets",
@@ -99776,7 +99693,7 @@
   {
     "id": "orbit-bridge-klaytn-usd-tether",
     "symbol": "ousdt",
-    "name": "Bridged Tether (Orbit Bridge)",
+    "name": "Orbit Bridged USDT (Kaia)",
     "platforms": {
       "klay-token": "0xcee8faf64bb97a73bb51e115aa89c17ffa8dd167"
     }
@@ -100426,14 +100343,6 @@
     "name": "Osmosis allLINK",
     "platforms": {
       "osmosis": "factory/osmo18zdw5yvs6gfp95rp74qqwug9yduw2fyr8kplk2xgs726s9axc5usa2vpgw/alloyed/allLINK"
-    }
-  },
-  {
-    "id": "osmosis-allpepe",
-    "symbol": "pepe",
-    "name": "Osmosis allPEPE",
-    "platforms": {
-      "osmosis": "factory/osmo1nnlxegt0scm9qkzys9c874t0ntapv4epfjy2w49c0xdrp3dr0v4ssmelzx/alloyed/allPEPE"
     }
   },
   {
@@ -102147,14 +102056,6 @@
     "name": "Pawderick",
     "platforms": {
       "flow-evm": "0x10448481630fb6d20b597e5b3d7e42dcb1247c8a"
-    }
-  },
-  {
-    "id": "pawpaw",
-    "symbol": "pawpaw",
-    "name": "PawPaw",
-    "platforms": {
-      "solana": "KkqCJwRvyoGmMQ93p8U4Kr6t9NTXWr1PehFYFzPpump"
     }
   },
   {
@@ -105701,7 +105602,8 @@
     "name": "Plasma",
     "platforms": {
       "binance-smart-chain": "0x405fbc9004d857903bfd6b3357792d71a50726b0",
-      "unichain": "0x139451953ef1865c096f89c5e522c081dc3b5f11"
+      "unichain": "0x139451953ef1865c096f89c5e522c081dc3b5f11",
+      "plasma": "0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee"
     }
   },
   {
@@ -107583,14 +107485,6 @@
     "name": "popcatwifhat",
     "platforms": {
       "solana": "JYPzbZpgYgit2mtfU5cmcuhWJaB7KTdtfBvfJrepump"
-    }
-  },
-  {
-    "id": "popcoin",
-    "symbol": "pop",
-    "name": "Popcoin",
-    "platforms": {
-      "binance-smart-chain": "0x63bc9770ea9a2f21df6cc1224d64d8dec9c61a74"
     }
   },
   {
@@ -112190,9 +112084,9 @@
     "symbol": "rave",
     "name": "RaveDAO",
     "platforms": {
+      "ethereum": "0x17205fab260a7a6383a81452ce6315a39370db97",
       "base": "0x1aa8fd5bcce2231c6100d55bf8b377cff33acfc3",
-      "binance-smart-chain": "0x97693439ea2f0ecdeb9135881e49f354656a911c",
-      "ethereum": "0x17205fab260a7a6383a81452ce6315a39370db97"
+      "binance-smart-chain": "0x97693439ea2f0ecdeb9135881e49f354656a911c"
     }
   },
   {
@@ -112408,19 +112302,12 @@
     }
   },
   {
-    "id": "reachx-mainnet",
-    "symbol": "rx",
-    "name": "ReachX Mainnet",
-    "platforms": {
-      "base": "0x4d5cb527bd9d87c727b6dbe01114adc086e646a2"
-    }
-  },
-  {
     "id": "reactive-network",
     "symbol": "react",
     "name": "Reactive Network",
     "platforms": {
-      "ethereum": "0x817162975186d4d53dbf5a7377dd45376e2d2fc5"
+      "ethereum": "0x817162975186d4d53dbf5a7377dd45376e2d2fc5",
+      "base": "0xedacc73ae9f73235934f72a43388404e4a2c4a24"
     }
   },
   {
@@ -116011,14 +115898,6 @@
     }
   },
   {
-    "id": "rootstock-bridged-usdt-rootstock-2",
-    "symbol": "usdt",
-    "name": "Rootstock Bridged USDT (Rootstock)",
-    "platforms": {
-      "rootstock": "0xaf368c91793cb22739386dfcbbb2f1a9e4bcbebf"
-    }
-  },
-  {
     "id": "rope-token",
     "symbol": "rope",
     "name": "Rope Token",
@@ -118166,14 +118045,6 @@
     "name": "Saturn AI",
     "platforms": {
       "ethereum": "0x90f4e6bb3b49c33c30a5729ec0fed283d0e5b005"
-    }
-  },
-  {
-    "id": "satushi-nukumutu",
-    "symbol": "$nukumutu",
-    "name": "Satushi Nukumutu",
-    "platforms": {
-      "solana": "J8xQyfH2pG7jQod18a1KsAqXGmBWtn3VmGMEuGqCpump"
     }
   },
   {
@@ -127905,14 +127776,6 @@
     "platforms": {}
   },
   {
-    "id": "standard-protocol",
-    "symbol": "stnd",
-    "name": "Standard Protocol",
-    "platforms": {
-      "ethereum": "0x9040e237c3bf18347bb00957dc22167d0f2b999d"
-    }
-  },
-  {
     "id": "standard-token",
     "symbol": "tst",
     "name": "TheStandard Token",
@@ -128115,6 +127978,13 @@
       "plume-network": "0xda6087e69c51e7d31b6dbad276a3c44703dfdcad",
       "flare-network": "0x0b38e83b86d491735feaa0a791f65c2b99535396",
       "iota-evm": "0xc1b8045a6ef2934cf0f78b0dbd489969fa9be7e4",
+      "mantle": "0x201eba5cc46d216ce6dc03f6a759e8e766e956ae",
+      "metis-andromeda": "0xbb06dca3ae6887fabf931640f67cab3e3a16f4dc",
+      "klay-token": "0x9025095263d1e548dc890a7589a4c78038ac40ab",
+      "taiko": "0x9c2dc7377717603eb92b2655c5f2e7997a4945bd",
+      "rari": "0x362fae9a75b27bbc550aac28a7c1f96c8d483120",
+      "gravity-alpha": "0x816e810f9f787d669fb71932deabf6c83781cd48",
+      "rootstock": "0xaf368c91793cb22739386dfcbbb2f1a9e4bcbebf",
       "peaq": "0xf4d9235269a96aadafc9adae454a0618ebe37949",
       "xdc-network": "0xcda5b77e2e2268d9e09c874c1b9a4c3f07b37555",
       "hemi": "0xbb0d083fb1be0a9f6157ec484b6c79e0a4e31c2e"
@@ -134041,7 +133911,7 @@
   {
     "id": "tether-rainbow-bridge",
     "symbol": "usdt.e",
-    "name": "Bridged Tether (Rainbow Bridge)",
+    "name": "Rainbow Bridged USDT (Near)",
     "platforms": {
       "near-protocol": "dac17f958d2ee523a2206206994597c13d831ec7.factory.bridge.near"
     }
@@ -137499,14 +137369,6 @@
     }
   },
   {
-    "id": "tootcoin",
-    "symbol": "toot",
-    "name": "Tootcoin",
-    "platforms": {
-      "solana": "AmfnT28qz7fVbdNEsFoFTsB18ERZrGEk4Dh51cWP2xJe"
-    }
-  },
-  {
     "id": "topblast",
     "symbol": "bl4st",
     "name": "TOPBLAST",
@@ -138363,6 +138225,14 @@
     }
   },
   {
+    "id": "trd-network",
+    "symbol": "trd",
+    "name": "TRD Network",
+    "platforms": {
+      "ethereum": "0xea059f3f1106aa0ddd1550b1cc37fc195a559ef9"
+    }
+  },
+  {
     "id": "treasure-labs-loot",
     "symbol": "loot",
     "name": "Treasure Labs LOOT",
@@ -138808,14 +138678,6 @@
     "name": "TriviAgent by Virtuals",
     "platforms": {
       "base": "0x0e6214f42992683a9177ce65d022f163d7bbd1d2"
-    }
-  },
-  {
-    "id": "trivian",
-    "symbol": "trivia",
-    "name": "Trivians",
-    "platforms": {
-      "binance-smart-chain": "0xb465f3cb6aba6ee375e12918387de1eac2301b05"
     }
   },
   {
@@ -140399,6 +140261,14 @@
     "name": "Umbra",
     "platforms": {
       "solana": "PRVT6TB7uss3FrUd2D9xs2zqDBsa3GbMJMwCQsgmeta"
+    }
+  },
+  {
+    "id": "umbra-2",
+    "symbol": "u1",
+    "name": "Umbra",
+    "platforms": {
+      "solana": "kedoobK2qe2f1V8ee5vDXFr3H7gKnhQVNJXA3Ltcyai"
     }
   },
   {
@@ -151878,14 +151748,6 @@
     }
   },
   {
-    "id": "wrapped-roush-fenway-keselowski-kayen",
-    "symbol": "wroush",
-    "name": "Wrapped Roush Fenway Keselowski (Kayen)",
-    "platforms": {
-      "chiliz": "0x369c0bf5b24cfc088bd1e634ecdf95f786dbf5cb"
-    }
-  },
-  {
     "id": "wrapped-rseth",
     "symbol": "wrseth",
     "name": "Wrapped rsETH",
@@ -153674,6 +153536,14 @@
     }
   },
   {
+    "id": "xmas-cult",
+    "symbol": "xmas",
+    "name": "xmas cult",
+    "platforms": {
+      "solana": "9BYVxhYF4tWSRVyJUBSVC8PaAhuuiCiAbmfy4hUApump"
+    }
+  },
+  {
     "id": "xmeme",
     "symbol": "xmeme",
     "name": "XMEME",
@@ -154480,14 +154350,6 @@
     "name": "Ÿ",
     "platforms": {
       "ethereum": "0x477a3d269266994f15e9c43a8d9c0561c4928088"
-    }
-  },
-  {
-    "id": "y2k",
-    "symbol": "y2k",
-    "name": "Y2K",
-    "platforms": {
-      "arbitrum-one": "0x65c936f008bc34fe819bce9fa5afd9dc2d49977f"
     }
   },
   {

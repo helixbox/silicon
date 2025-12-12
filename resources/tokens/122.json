@@ -4,7 +4,7 @@
   "keywords": [
     "defi"
   ],
-  "timestamp": "2025-11-25T11:00:19.945+00:00",
+  "timestamp": "2025-12-12T10:00:25.555+00:00",
   "tokens": [
     {
       "chainId": 122,
@@ -16,19 +16,11 @@
     },
     {
       "chainId": 122,
-      "address": "0x68c9736781e9316ebf5c3d49fe0c1f45d2d104cd",
-      "name": "Bridged Tether (Fuse)",
-      "symbol": "USDT",
-      "decimals": 6,
-      "logoURI": "https://assets.coingecko.com/coins/images/32986/thumb/logo_%288%29.png?1700094172"
-    },
-    {
-      "chainId": 122,
-      "address": "0x2f6f07cdcf3588944bf4c42ac74ff24bf56e7590",
-      "name": "Stargate Bridged WETH (Fuse)",
-      "symbol": "WETH",
+      "address": "0x6acb34b1df86e254b544189ec32cf737e2482058",
+      "name": "Fuse Bridged WBNB (Fuse)",
+      "symbol": "WBNB",
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/53042/thumb/wETH_32.png?1735081743"
+      "logoURI": "https://assets.coingecko.com/coins/images/53071/thumb/wrapped_bnb.png?1735197840"
     },
     {
       "chainId": 122,
@@ -40,11 +32,11 @@
     },
     {
       "chainId": 122,
-      "address": "0x6acb34b1df86e254b544189ec32cf737e2482058",
-      "name": "Fuse Bridged WBNB (Fuse)",
-      "symbol": "WBNB",
+      "address": "0x2f6f07cdcf3588944bf4c42ac74ff24bf56e7590",
+      "name": "Stargate Bridged WETH (Fuse)",
+      "symbol": "WETH",
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/53071/thumb/wrapped_bnb.png?1735197840"
+      "logoURI": "https://assets.coingecko.com/coins/images/53042/thumb/wETH_32.png?1735081743"
     },
     {
       "chainId": 122,
@@ -53,6 +45,14 @@
       "symbol": "WBTC",
       "decimals": 8,
       "logoURI": "https://assets.coingecko.com/coins/images/39557/thumb/wbtc.png?1722898201"
+    },
+    {
+      "chainId": 122,
+      "address": "0x68c9736781e9316ebf5c3d49fe0c1f45d2d104cd",
+      "name": "Fuse Bridged USDT (Fuse)",
+      "symbol": "USDT",
+      "decimals": 6,
+      "logoURI": "https://assets.coingecko.com/coins/images/32986/thumb/logo_%288%29.png?1700094172"
     },
     {
       "chainId": 122,
@@ -169,6 +169,6 @@
   "version": {
     "major": 11,
     "minor": 0,
-    "patch": 1
+    "patch": 2
   }
 }
