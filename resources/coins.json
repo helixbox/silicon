@@ -15556,7 +15556,10 @@
     "symbol": "bzr",
     "name": "Bazaars",
     "platforms": {
-      "ethereum": "0x8d96b4ab6c741a4c8679ae323a100d74f085ba8f"
+      "ethereum": "0x8d96b4ab6c741a4c8679ae323a100d74f085ba8f",
+      "binance-smart-chain": "0x85cb098bdcd3ca929d2cd18fc7a2669ff0362242",
+      "base": "0x85cb098bdcd3ca929d2cd18fc7a2669ff0362242",
+      "polygon-pos": "0x85cb098bdcd3ca929d2cd18fc7a2669ff0362242"
     }
   },
   {
@@ -22064,7 +22067,7 @@
     "symbol": "bongo",
     "name": "BONGO CAT",
     "platforms": {
-      "solana": "HUdqc5MR5h3FssESabPnQ1GTgTcPvnNudAuLj5J6a9sU"
+      "solana": "HPJALtLtydXym5Tbv6udQCKcXSihnz3B7aD3PNMNbonk"
     }
   },
   {
@@ -49406,6 +49409,7 @@
     "name": "EURC",
     "platforms": {
       "ethereum": "0x1abaea1f7c830bd89acc67ec4af516284b1bc33c",
+      "world-chain": "0x1c60ba0a0ed1019e8eb035e6daf4155a5ce2380b",
       "stellar": "EURC-GDHU6WRG4IEQXM5NZ4BMPKOXHW76MZM4Y2IEMFDVXBSDP6SJY4ITNPP2",
       "solana": "HzwqbKZw8HxMN6bF2yFZNrht3c2iXXzpKcFu7uBEDKtr",
       "base": "0x60a3e35cc302bfa44cb288bc5a4f316fdb1adb42",
@@ -51152,6 +51156,14 @@
     "name": "FDREAM",
     "platforms": {
       "base": "0x0521aaa7c96e25afee79fdd4f1bb48f008ae4eac"
+    }
+  },
+  {
+    "id": "fdrive-coin",
+    "symbol": "fdc",
+    "name": "FDrive Coin",
+    "platforms": {
+      "polygon-pos": "0x40445993b0122456ec9e5c679f4f0485e1a5b474"
     }
   },
   {
@@ -96449,6 +96461,14 @@
     }
   },
   {
+    "id": "npc-2",
+    "symbol": "npc",
+    "name": "NPC",
+    "platforms": {
+      "solana": "GdKWebBBvM78HNYGxoZLgsXHqZKAELEZk3ka9i32pump"
+    }
+  },
+  {
     "id": "npc-on-solana",
     "symbol": "npcs",
     "name": "NPC On Solana",
@@ -138578,6 +138598,14 @@
     }
   },
   {
+    "id": "trillions-2",
+    "symbol": "trillions",
+    "name": "trillions",
+    "platforms": {
+      "solana": "DNJ4zTzuLbt1wXZpkBNwbgS25RBNaqdKHdKzFsQCpump"
+    }
+  },
+  {
     "id": "trillions-strategy",
     "symbol": "tstr",
     "name": "trillions Strategy",
@@ -141847,8 +141875,8 @@
   },
   {
     "id": "usd0-liquid-bond",
-    "symbol": "usd0++",
-    "name": "Staked USD0",
+    "symbol": "busd0",
+    "name": "Bond USD0",
     "platforms": {
       "ethereum": "0x35d8949372d46b7a3d5a56006ae77b215fc69bc0",
       "arbitrum-one": "0x2b65f9d2e4b84a2df6ff0525741b75d1276a9c2f"
@@ -142119,6 +142147,14 @@
     "symbol": "usde",
     "name": "USDE (ERD)",
     "platforms": {}
+  },
+  {
+    "id": "usde-arm-lp-token",
+    "symbol": "arm-susde-usde",
+    "name": "USDe ARM LP Token",
+    "platforms": {
+      "ethereum": "0xceda2d856238aa0d12f6329de20b9115f07c366d"
+    }
   },
   {
     "id": "usdebt",

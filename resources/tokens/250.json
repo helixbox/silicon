@@ -4,16 +4,8 @@
   "keywords": [
     "defi"
   ],
-  "timestamp": "2025-12-12T12:00:39.142+00:00",
+  "timestamp": "2025-12-12T13:00:38.006+00:00",
   "tokens": [
-    {
-      "chainId": 250,
-      "address": "0x07e6332dd090d287d3489245038daf987955dcfb",
-      "name": "Geist Dai",
-      "symbol": "GDAI",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/18997/thumb/preview-gallery-gDAIgecko_%281%29.png?1696518450"
-    },
     {
       "chainId": 250,
       "address": "0x00a35fd824c717879bf370e70ac6868b95870dfb",
@@ -32,6 +24,14 @@
     },
     {
       "chainId": 250,
+      "address": "0xd7028092c830b5c8fce061af2e593413ebbc1fc1",
+      "name": "BeethovenX sFTMX",
+      "symbol": "SFTMX",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/26586/thumb/sftmx.png?1709705714"
+    },
+    {
+      "chainId": 250,
       "address": "0xe992beab6659bff447893641a378fbbf031c5bd6",
       "name": "WigoSwap",
       "symbol": "WIGO",
@@ -40,11 +40,11 @@
     },
     {
       "chainId": 250,
-      "address": "0xd7028092c830b5c8fce061af2e593413ebbc1fc1",
-      "name": "BeethovenX sFTMX",
-      "symbol": "SFTMX",
+      "address": "0xddcb3ffd12750b45d32e084887fdf1aabab34239",
+      "name": "Anyswap",
+      "symbol": "ANY",
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/26586/thumb/sftmx.png?1709705714"
+      "logoURI": "https://assets.coingecko.com/coins/images/12242/thumb/anyswap.jpg?1696512074"
     },
     {
       "chainId": 250,
@@ -61,6 +61,14 @@
       "symbol": "RING",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/23273/thumb/ring.png?1696522493"
+    },
+    {
+      "chainId": 250,
+      "address": "0x07e6332dd090d287d3489245038daf987955dcfb",
+      "name": "Geist Dai",
+      "symbol": "GDAI",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/18997/thumb/preview-gallery-gDAIgecko_%281%29.png?1696518450"
     },
     {
       "chainId": 250,
@@ -93,14 +101,6 @@
       "symbol": "L3USD",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/26937/thumb/L3USD.png?1696525993"
-    },
-    {
-      "chainId": 250,
-      "address": "0xddcb3ffd12750b45d32e084887fdf1aabab34239",
-      "name": "Anyswap",
-      "symbol": "ANY",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/12242/thumb/anyswap.jpg?1696512074"
     },
     {
       "chainId": 250,
@@ -168,19 +168,19 @@
     },
     {
       "chainId": 250,
+      "address": "0x25c130b2624cf12a4ea30143ef50c5d68cefa22f",
+      "name": "Geist ETH",
+      "symbol": "GETH",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/18998/thumb/preview-gallery-gETHgecko_%281%29.png?1696518451"
+    },
+    {
+      "chainId": 250,
       "address": "0x5602df4a94eb6c680190accfa2a475621e0ddbdc",
       "name": "Spartacus",
       "symbol": "SPA",
       "decimals": 9,
       "logoURI": "https://assets.coingecko.com/coins/images/19744/thumb/3IdUVrGl_400x400.jpg?1696519168"
-    },
-    {
-      "chainId": 250,
-      "address": "0x39b3bd37208cbade74d0fcbdbb12d606295b430a",
-      "name": "Geist FTM",
-      "symbol": "GFTM",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/18991/thumb/preview-gallery-gFTMgecko_%281%29.png?1696518445"
     },
     {
       "chainId": 250,
@@ -232,6 +232,14 @@
     },
     {
       "chainId": 250,
+      "address": "0x39b3bd37208cbade74d0fcbdbb12d606295b430a",
+      "name": "Geist FTM",
+      "symbol": "GFTM",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/18991/thumb/preview-gallery-gFTMgecko_%281%29.png?1696518445"
+    },
+    {
+      "chainId": 250,
       "address": "0xd226392c23fb3476274ed6759d4a478db3197d82",
       "name": "Axelar Bridged USDT",
       "symbol": "AXLUSDT",
@@ -261,14 +269,6 @@
       "symbol": "XSTABLE",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/50223/thumb/0X3D52BAA6B38F2F61D7F1499AA00F1EB86E916150.png?1726519116"
-    },
-    {
-      "chainId": 250,
-      "address": "0x25c130b2624cf12a4ea30143ef50c5d68cefa22f",
-      "name": "Geist ETH",
-      "symbol": "GETH",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/18998/thumb/preview-gallery-gETHgecko_%281%29.png?1696518451"
     },
     {
       "chainId": 250,
