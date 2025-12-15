@@ -4,8 +4,16 @@
   "keywords": [
     "defi"
   ],
-  "timestamp": "2025-11-25T10:00:20.789+00:00",
+  "timestamp": "2025-12-15T12:00:20.033+00:00",
   "tokens": [
+    {
+      "chainId": 4689,
+      "address": "io1f4acssp65t6s90egjkzpvrdsrjjyysnvxgqjrh",
+      "name": "Cyclone Protocol",
+      "symbol": "CYC",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/14065/thumb/b3_DFjFp_400x400.jpg?1696513790"
+    },
     {
       "chainId": 4689,
       "address": "0x84abcb2832be606341a50128aeb1db43aa017449",
@@ -31,6 +39,14 @@
     },
     {
       "chainId": 4689,
+      "address": "0x3b2bf2b523f54c4e454f08aa286d03115aff326c",
+      "name": "Bridged USD Coin (IoTeX)",
+      "symbol": "IOUSDC",
+      "decimals": 6,
+      "logoURI": "https://assets.coingecko.com/coins/images/19346/thumb/io18v4l9dfr74xyu320pz4zsmgrz9d07vnvy20yrh.png?1696518787"
+    },
+    {
+      "chainId": 4689,
       "address": "0xa7108637552cec7e8c2dd08a9cd995caff8b4280",
       "name": "Drop Wireless Infrastructure",
       "symbol": "DWIN",
@@ -39,19 +55,11 @@
     },
     {
       "chainId": 4689,
-      "address": "0xcee948f1abbd247a5e41a88b28990db81ef00bdc",
-      "name": "ioTube Bridged WIFI (IoTeX)",
-      "symbol": "WIFI",
+      "address": "0x17df9fbfc1cdab0f90eddc318c4f6fcada730cf2",
+      "name": "Game Fantasy",
+      "symbol": "GFT",
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/33516/thumb/WIFI.jpg?1702120502"
-    },
-    {
-      "chainId": 4689,
-      "address": "0x3b2bf2b523f54c4e454f08aa286d03115aff326c",
-      "name": "Bridged USD Coin (IoTeX)",
-      "symbol": "IOUSDC",
-      "decimals": 6,
-      "logoURI": "https://assets.coingecko.com/coins/images/19346/thumb/io18v4l9dfr74xyu320pz4zsmgrz9d07vnvy20yrh.png?1696518787"
+      "logoURI": "https://assets.coingecko.com/coins/images/19135/thumb/gft.png?1696518587"
     },
     {
       "chainId": 4689,
@@ -79,22 +87,6 @@
     },
     {
       "chainId": 4689,
-      "address": "0x8e33229206f726993e4a7bf7da2347f3743bf8b4",
-      "name": "ioTube Bridged GEOD (IoTeX)",
-      "symbol": "GEOD",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/33515/thumb/GEOD.jpg?1702120175"
-    },
-    {
-      "chainId": 4689,
-      "address": "io1f4acssp65t6s90egjkzpvrdsrjjyysnvxgqjrh",
-      "name": "Cyclone Protocol",
-      "symbol": "CYC",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/14065/thumb/b3_DFjFp_400x400.jpg?1696513790"
-    },
-    {
-      "chainId": 4689,
       "address": "0xa00744882684c3e4747faefd68d283ea44099d03",
       "name": "Wrapped IoTex",
       "symbol": "WIOTX",
@@ -103,19 +95,27 @@
     },
     {
       "chainId": 4689,
+      "address": "0xcee948f1abbd247a5e41a88b28990db81ef00bdc",
+      "name": "ioTube Bridged WIFI (IoTeX)",
+      "symbol": "WIFI",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/33516/thumb/WIFI.jpg?1702120502"
+    },
+    {
+      "chainId": 4689,
       "address": "0x6fbcdc1169b5130c59e72e51ed68a84841c98cd1",
-      "name": "Bridged Tether (IoTeX)",
+      "name": "iotube Bridged USDT (IoTeX)",
       "symbol": "IOUSDT",
       "decimals": 6,
       "logoURI": "https://assets.coingecko.com/coins/images/19345/thumb/io1d77dcytfk5fsck089eg7669gfpqunrx35ue5ln.png?1696518786"
     },
     {
       "chainId": 4689,
-      "address": "0x17df9fbfc1cdab0f90eddc318c4f6fcada730cf2",
-      "name": "Game Fantasy",
-      "symbol": "GFT",
+      "address": "0x8e33229206f726993e4a7bf7da2347f3743bf8b4",
+      "name": "ioTube Bridged GEOD (IoTeX)",
+      "symbol": "GEOD",
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/19135/thumb/gft.png?1696518587"
+      "logoURI": "https://assets.coingecko.com/coins/images/33515/thumb/GEOD.jpg?1702120175"
     },
     {
       "chainId": 4689,
@@ -217,6 +217,6 @@
   "version": {
     "major": 4,
     "minor": 0,
-    "patch": 0
+    "patch": 1
   }
 }

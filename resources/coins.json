@@ -5723,12 +5723,6 @@
     }
   },
   {
-    "id": "alibaba-tokenized-stock-defichain",
-    "symbol": "dbaba",
-    "name": "Alibaba Tokenized Stock Defichain",
-    "platforms": {}
-  },
-  {
     "id": "alice",
     "symbol": "alice",
     "name": "Alice",
@@ -14735,6 +14729,14 @@
     "name": "BASE BOOK",
     "platforms": {
       "base": "0x1dedb41feb0e12637a820c22c1b739ca2e75b48c"
+    }
+  },
+  {
+    "id": "base-bridged-sol-base",
+    "symbol": "sol",
+    "name": "Base Bridged SOL (Base)",
+    "platforms": {
+      "base": "0x311935cd80b76769bf2ecc9d8ab7635b2139cf82"
     }
   },
   {
@@ -23751,6 +23753,14 @@
     "name": "Bridged MAGA (Wormhole)",
     "platforms": {
       "solana": "HaP8r3ksG76PhQLTqR8FYBeNiQpejcFbQmiHbg787Ut1"
+    }
+  },
+  {
+    "id": "bridged-nxpc",
+    "symbol": "nxpc",
+    "name": "Bridged NXPC",
+    "platforms": {
+      "avalanche": "0x5e0e90e268bc247cc850c789a0db0d5c7621fb59"
     }
   },
   {
@@ -38530,14 +38540,6 @@
     }
   },
   {
-    "id": "defender-bot",
-    "symbol": "dfndr",
-    "name": "Defender Bot",
-    "platforms": {
-      "ethereum": "0x3f57c35633cb29834bb7577ba8052eab90f52a02"
-    }
-  },
-  {
     "id": "de-fi",
     "symbol": "defi",
     "name": "DeFi",
@@ -44712,14 +44714,6 @@
     }
   },
   {
-    "id": "dragon-sun",
-    "symbol": "drgn",
-    "name": "Dragon Sun",
-    "platforms": {
-      "tron": "TV5yB8f4AdoAfVVUdkytyZnX5e7SeGAZr2"
-    }
-  },
-  {
     "id": "dragonswap",
     "symbol": "drg",
     "name": "DragonSwap",
@@ -45523,14 +45517,6 @@
     "name": "DungeonSwap",
     "platforms": {
       "binance-smart-chain": "0x14c358b573a4ce45364a3dbd84bbb4dae87af034"
-    }
-  },
-  {
-    "id": "dungeon-token",
-    "symbol": "grow",
-    "name": "Triathon",
-    "platforms": {
-      "binance-smart-chain": "0x167fcfed3aad2d11052fcde0cbf704d879939473"
     }
   },
   {
@@ -60229,14 +60215,6 @@
     }
   },
   {
-    "id": "gorilla",
-    "symbol": "gorilla",
-    "name": "Gorilla",
-    "platforms": {
-      "ethereum": "0x33c04bed4533e31f2afb8ac4a61a48eda38c4fa0"
-    }
-  },
-  {
     "id": "gorilla-3",
     "symbol": "gorilla",
     "name": "Gorilla",
@@ -69382,7 +69360,7 @@
   {
     "id": "iousdt",
     "symbol": "iousdt",
-    "name": "Bridged Tether (IoTeX)",
+    "name": "iotube Bridged USDT (IoTeX)",
     "platforms": {
       "iotex": "0x6fbcdc1169b5130c59e72e51ed68a84841c98cd1"
     }
@@ -72023,14 +72001,6 @@
     }
   },
   {
-    "id": "justice-for-peanut",
-    "symbol": "jfp",
-    "name": "JUSTICE FOR PEANUT",
-    "platforms": {
-      "solana": "CHKzK9EbEDxaQx1aU3SrRixJPFsToURcug5uUG2ipump"
-    }
-  },
-  {
     "id": "justice-for-pizza-guy",
     "symbol": "pizzaguy",
     "name": "Justice For Pizza Guy",
@@ -74085,14 +74055,6 @@
     "name": "Kintsu Staked Monad",
     "platforms": {
       "monad": "0xa3227c5969757783154c60bf0bc1944180ed81b9"
-    }
-  },
-  {
-    "id": "kinza-babylon-staked-btc",
-    "symbol": "kbtc",
-    "name": "Kinza Babylon Staked BTC",
-    "platforms": {
-      "binance-smart-chain": "0x9356f6d95b8e109f4b7ce3e49d672967d3b48383"
     }
   },
   {
@@ -78707,6 +78669,14 @@
     }
   },
   {
+    "id": "linkhash",
+    "symbol": "lhx",
+    "name": "LinkHash",
+    "platforms": {
+      "solana": "9LrT8gAKJ5qUJA1wJoQRrVfapJGrNnU2ca5UYiJipump"
+    }
+  },
+  {
     "id": "link-on-sol",
     "symbol": "link",
     "name": "Link on Sol",
@@ -82175,6 +82145,12 @@
     }
   },
   {
+    "id": "magma-finance",
+    "symbol": "magma",
+    "name": "Magma Finance",
+    "platforms": {}
+  },
+  {
     "id": "magmar",
     "symbol": "mgr",
     "name": "Magmar",
@@ -83057,14 +83033,6 @@
     "name": "Mao",
     "platforms": {
       "binance-smart-chain": "0xfd54e565e6de7509b07cdba5769178045f212530"
-    }
-  },
-  {
-    "id": "mao-3",
-    "symbol": "mao",
-    "name": "Mao",
-    "platforms": {
-      "binance-smart-chain": "0x8e6df9b20338722feadabc2a2b3483047d3a2c7d"
     }
   },
   {
@@ -84147,14 +84115,6 @@
     "platforms": {
       "ethereum": "0xe9f84d418b008888a992ff8c6d22389c2c3504e0",
       "pulsechain": "0xe9f84d418b008888a992ff8c6d22389c2c3504e0"
-    }
-  },
-  {
-    "id": "maximus-dao",
-    "symbol": "maxi",
-    "name": "Maximus DAO",
-    "platforms": {
-      "ethereum": "0x0d86eb9f43c57f6ff3bc9e23d8f9d82503f0e84b"
     }
   },
   {
@@ -87084,14 +87044,6 @@
     "name": "Micro AI",
     "platforms": {
       "ethereum": "0x24d73bca2bd9c3a61e99dfc7cb86d3c379ebded7"
-    }
-  },
-  {
-    "id": "microberry",
-    "symbol": "mberry",
-    "name": "MicroBerry",
-    "platforms": {
-      "ethereum": "0x334bd3375fe5bb8aa003e0e6ce880abada57ac89"
     }
   },
   {
@@ -90040,14 +89992,6 @@
     "name": "Mooncat",
     "platforms": {
       "solana": "FNP2Dw2GU5wPBZgVCcerbEemV9dVfvQrThEor1jmoon"
-    }
-  },
-  {
-    "id": "moon-cat",
-    "symbol": "mc",
-    "name": "Moon Cat",
-    "platforms": {
-      "solana": "A55XjvzRU4KtR3Lrys8PpLZQvPojPqvnv5bJVHMYy3Jv"
     }
   },
   {
@@ -93594,8 +93538,8 @@
     "symbol": "nmnrl",
     "name": "Nest Mineral Vault",
     "platforms": {
-      "plume-network": "0x9d08946ca5856f882a56c29042fbedc5142663b9",
-      "ethereum": "0x9d08946ca5856f882a56c29042fbedc5142663b9"
+      "ethereum": "0x9d08946ca5856f882a56c29042fbedc5142663b9",
+      "plume-network": "0x9d08946ca5856f882a56c29042fbedc5142663b9"
     }
   },
   {
@@ -93882,14 +93826,6 @@
     "name": "NeurochainAI",
     "platforms": {
       "ethereum": "0xbb8954f008016055fda6aa1c27fa769578cae213"
-    }
-  },
-  {
-    "id": "neurocheck",
-    "symbol": "neuro",
-    "name": "NeuroCheck",
-    "platforms": {
-      "solana": "DoHf7hNLXSH22magnKwL81iVwpVjUZhpX65tDYZbsBLV"
     }
   },
   {
@@ -94353,7 +94289,7 @@
     "symbol": "nxpc",
     "name": "Nexpace",
     "platforms": {
-      "avalanche": "0x5e0e90e268bc247cc850c789a0db0d5c7621fb59"
+      "henesys": "0xf2b51cc1850fed939658317a22d73d3482767591"
     }
   },
   {
@@ -94427,14 +94363,6 @@
     "name": "NexusAI",
     "platforms": {
       "ethereum": "0xe96edd48cf0c6e930ce55f171a721017b28e0f08"
-    }
-  },
-  {
-    "id": "nexus-asa",
-    "symbol": "gp",
-    "name": "Nexus ASA",
-    "platforms": {
-      "algorand": "403499324"
     }
   },
   {
@@ -133632,7 +133560,7 @@
   {
     "id": "tether-avalanche-bridged-usdt-e",
     "symbol": "usdte",
-    "name": "Bridged Tether (Avalanche)",
+    "name": "Avalanche Bridged USDT (Avalanche)",
     "platforms": {
       "avalanche": "0xc7198437980c041c805a1edcba50c1ce5db95118"
     }
@@ -133712,7 +133640,7 @@
   {
     "id": "tether-usd-wormhole-from-ethereum",
     "symbol": "usdt",
-    "name": "Wormhole Bridged USDT (Sui)",
+    "name": "Wormhole Bridged USDT",
     "platforms": {
       "solana": "Dn4noZ5jgGfkntzcQSUZ8czkreiZ1ForXYoV2H8Dm7S1",
       "sui": "0xc060006111016b8a020ad5b33834984a437aaa7d3c74c18e09a95d48aceab08c::coin::COIN",
@@ -133799,14 +133727,6 @@
     "platforms": {
       "etherlink": "0x9121b153bbcf8c23f20ee43b494f08760b91ad64",
       "tezos": "KT1MZg99PxMDEENwB4Fi64xkqAVh5d1rv8Z9"
-    }
-  },
-  {
-    "id": "tg20-tgram",
-    "symbol": "tgram",
-    "name": "TG20 TGram",
-    "platforms": {
-      "the-open-network": "EQDRlQ8en7A2zsTuF7SdDOxMlZ_wFw0E7Eow3u9c4pSoe4Tg"
     }
   },
   {
@@ -135312,15 +135232,6 @@
     "name": "Winkies",
     "platforms": {
       "base": "0xbf82115918a88e2120c0f73d99ccd8f95c301b59"
-    }
-  },
-  {
-    "id": "the-winners-circle",
-    "symbol": "hrse",
-    "name": "The Winners Circle",
-    "platforms": {
-      "zilliqa": "0x63b991c17010c21250a0ea58c6697f696a48cdf3",
-      "binance-smart-chain": "0x3be0e5edc58bd55aaa381fa642688adc289c05a3"
     }
   },
   {
@@ -141725,7 +141636,7 @@
       "algorand": "31566704",
       "tron": "TEkxiTehnzSmSe2XqrBj4w32RUN966rdz8",
       "stellar": "USDC-GA5ZSEJYB37JRC5AVCIA5MOP4RHTM335X2KGX3IHOJAPP5RE34K4KZVN",
-      "starknet": "0x033068F6539f8e6e6b131e6B2B814e6c34A5224bC66947c47DaB9dFeE93b35fb",
+      "starknet": "0x33068f6539f8e6e6b131e6b2b814e6c34a5224bc66947c47dab9dfee93b35fb",
       "celo": "0xceba9300f2b948710d2653dd7b07f33a8b32118c",
       "avalanche": "0xb97ef9ef8734c71904d8002f8b6bc66dd9c48a6e",
       "polygon-pos": "0x3c499c542cef5e3811e1192ce70d8cc03d5c3359",
@@ -145907,7 +145818,7 @@
   {
     "id": "wanusdt",
     "symbol": "wanusdt",
-    "name": "Bridged Tether (Wanchain)",
+    "name": "WanBridge Bridged USDT (Wanchain)",
     "platforms": {
       "wanchain": "0x11e77e27af5539872efed10abaa0b408cfd9fbbd"
     }
@@ -148799,14 +148710,6 @@
     "name": "Wormhole Bridged wstETH (BSC)",
     "platforms": {
       "binance-smart-chain": "0x26c5e01524d2e6280a48f2c50ff6de7e52e9611c"
-    }
-  },
-  {
-    "id": "worms-among-us",
-    "symbol": "worms",
-    "name": "Worms Among Us",
-    "platforms": {
-      "solana": "AF33BoV4upqDefUvQQRWoHQRMa9teGc5EGVFYUzGpump"
     }
   },
   {
@@ -152244,6 +152147,14 @@
     }
   },
   {
+    "id": "wyde-end-hunger",
+    "symbol": "eat",
+    "name": "WYDE: End Hunger",
+    "platforms": {
+      "base": "0x680bc6ed5c7222e2f29bdbc87f8e8f3400d8ce04"
+    }
+  },
+  {
     "id": "x1000",
     "symbol": "x1000",
     "name": "X1000",
@@ -152289,6 +152200,14 @@
     "name": "X314",
     "platforms": {
       "binance-smart-chain": "0x91e12e44512ce3fb245d616ae9baf98e41c34444"
+    }
+  },
+  {
+    "id": "x402jobs",
+    "symbol": "jobs",
+    "name": "x402jobs",
+    "platforms": {
+      "solana": "6cNcXWqYvK9nhD1TsjJ1ZH1KATXcaPaRJtZPHyVkJoBs"
     }
   },
   {
