@@ -4,16 +4,8 @@
   "keywords": [
     "defi"
   ],
-  "timestamp": "2025-12-13T08:00:38.593+00:00",
+  "timestamp": "2025-12-16T03:00:38.190+00:00",
   "tokens": [
-    {
-      "chainId": 5000,
-      "address": "0xabbeed1d173541e0546b38b1c0394975be200000",
-      "name": "Slash Vision Labs",
-      "symbol": "SVL",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/37444/thumb/svl.jpeg?1714443652"
-    },
     {
       "chainId": 5000,
       "address": "0x51cfe5b1e764dc253f4c8c1f19a081ff4c3517ed",
@@ -24,11 +16,11 @@
     },
     {
       "chainId": 5000,
-      "address": "0x78c1b0c915c4faa5fffa6cabf0219da63d7f4cb8",
-      "name": "Wrapped Mantle",
-      "symbol": "WMNT",
+      "address": "0x26a6b0dcdcfb981362afa56d581e4a7dba3be140",
+      "name": "Puff The Dragon",
+      "symbol": "PUFF",
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/30983/thumb/mantle.jpeg?1696529822"
+      "logoURI": "https://assets.coingecko.com/coins/images/35950/thumb/photo_2024-03-11_10.18.27.jpeg?1710240090"
     },
     {
       "chainId": 5000,
@@ -45,6 +37,22 @@
       "symbol": "USDC",
       "decimals": 6,
       "logoURI": "https://assets.coingecko.com/coins/images/35296/thumb/USDC_Icon.png?1708082083"
+    },
+    {
+      "chainId": 5000,
+      "address": "0xabbeed1d173541e0546b38b1c0394975be200000",
+      "name": "Slash Vision Labs",
+      "symbol": "SVL",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/37444/thumb/svl.jpeg?1714443652"
+    },
+    {
+      "chainId": 5000,
+      "address": "0x78c1b0c915c4faa5fffa6cabf0219da63d7f4cb8",
+      "name": "Wrapped Mantle",
+      "symbol": "WMNT",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/30983/thumb/mantle.jpeg?1696529822"
     },
     {
       "chainId": 5000,
@@ -68,14 +76,6 @@
       "symbol": "MOE",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/34422/thumb/MOE.png?1704821927"
-    },
-    {
-      "chainId": 5000,
-      "address": "0x26a6b0dcdcfb981362afa56d581e4a7dba3be140",
-      "name": "Puff The Dragon",
-      "symbol": "PUFF",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/35950/thumb/photo_2024-03-11_10.18.27.jpeg?1710240090"
     },
     {
       "chainId": 5000,
@@ -583,6 +583,14 @@
     },
     {
       "chainId": 5000,
+      "address": "0x111111d2bf19e43c34263401e0cad979ed1cdb61",
+      "name": "USD1",
+      "symbol": "USD1",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/54977/thumb/USD1_1000x1000_transparent.png?1749297002"
+    },
+    {
+      "chainId": 5000,
       "address": "0x5ecdb76feda945dc71f7d9ce62dfe7eafefffab4",
       "name": "Minterest",
       "symbol": "MINTY",
@@ -592,7 +600,7 @@
   ],
   "version": {
     "major": 20,
-    "minor": 1,
+    "minor": 2,
     "patch": 0
   }
 }

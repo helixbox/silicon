@@ -4,16 +4,8 @@
   "keywords": [
     "defi"
   ],
-  "timestamp": "2025-11-28T08:00:36.882+00:00",
+  "timestamp": "2025-12-16T03:00:34.020+00:00",
   "tokens": [
-    {
-      "chainId": 42793,
-      "address": "0xbfc94cd2b1e55999cfc7347a9313e88702b83d0f",
-      "name": "Etherlink Bridged WBTC (Etherlink)",
-      "symbol": "WBTC",
-      "decimals": 8,
-      "logoURI": "https://assets.coingecko.com/coins/images/66719/thumb/wbtc.jpg?1750306081"
-    },
     {
       "chainId": 42793,
       "address": "0x796ea11fa2dd751ed01b53c372ffdb4aaa8f00f9",
@@ -24,11 +16,11 @@
     },
     {
       "chainId": 42793,
-      "address": "0x79052ab3c166d4899a1e0dd033ac3b379af0b1fd",
-      "name": "Uranium",
-      "symbol": "XU3O8",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/67758/thumb/xu.png?1753733711"
+      "address": "0xbfc94cd2b1e55999cfc7347a9313e88702b83d0f",
+      "name": "Etherlink Bridged WBTC (Etherlink)",
+      "symbol": "WBTC",
+      "decimals": 8,
+      "logoURI": "https://assets.coingecko.com/coins/images/66719/thumb/wbtc.jpg?1750306081"
     },
     {
       "chainId": 42793,
@@ -45,6 +37,14 @@
       "symbol": "TZPEPE",
       "decimals": 2,
       "logoURI": "https://assets.coingecko.com/coins/images/53279/thumb/tzPEPE_%281%29.jpeg?1735957333"
+    },
+    {
+      "chainId": 42793,
+      "address": "0x79052ab3c166d4899a1e0dd033ac3b379af0b1fd",
+      "name": "Uranium",
+      "symbol": "XU3O8",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/67758/thumb/xu.png?1753733711"
     },
     {
       "chainId": 42793,
@@ -152,6 +152,14 @@
     },
     {
       "chainId": 42793,
+      "address": "0x2767fc1048cd0ae4fd952eef09853301c9dc7173",
+      "name": "Sogni AI",
+      "symbol": "SOGNI",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/67008/thumb/sogni.jpg?1751450446"
+    },
+    {
+      "chainId": 42793,
       "address": "0x004a476b5b76738e34c86c7144554b9d34402f13",
       "name": "Curve DAO",
       "symbol": "CRV",
@@ -161,7 +169,7 @@
   ],
   "version": {
     "major": 1,
-    "minor": 4,
-    "patch": 1
+    "minor": 5,
+    "patch": 0
   }
 }
