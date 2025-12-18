@@ -6801,6 +6801,14 @@
     }
   },
   {
+    "id": "amato",
+    "symbol": "amato",
+    "name": "AMATO",
+    "platforms": {
+      "solana": "Trj7guTUcpDFqkycDzvMNjwRN1W4fYtsxSYbj3veBsP"
+    }
+  },
+  {
     "id": "amazingteamdao",
     "symbol": "amazingteam",
     "name": "AmazingTeamDAO",
@@ -8240,7 +8248,7 @@
     "symbol": "aprs",
     "name": "Apeiron",
     "platforms": {
-      "ronin": "0x7894b3088d069e70895effa4e8f7d2c243fd04c1"
+      "ronin": "0xb1ec71be31da4ff603970c0d88584ef2af102f38"
     }
   },
   {
@@ -14902,7 +14910,8 @@
     "name": "Based Chad",
     "platforms": {
       "base": "0xecaf81eb42cd30014eb44130b89bcd6d4ad98b92",
-      "ethereum": "0x2efa572467c50c04a6eed6742196c0d0d287c1bb"
+      "ethereum": "0x2efa572467c50c04a6eed6742196c0d0d287c1bb",
+      "solana": "275K6a8XzouqPaX3Ue8QaafSL5kw8dL1E1g8jwHzcmpL"
     }
   },
   {
@@ -16528,8 +16537,8 @@
   },
   {
     "id": "bepro-network",
-    "symbol": "bepro",
-    "name": "Bepro",
+    "symbol": "lx",
+    "name": "LayerX",
     "platforms": {
       "ethereum": "0xcf3c8be2e2c42331da80ef210e9b1b307c03d36a"
     }
@@ -28922,7 +28931,9 @@
       "tac": "0xc2be2f77562a6676098e8d363b9d8a33ea009d4e",
       "xdai": "0xe2e73a1c69ecf83f464efce6a5be353a37ca09b2",
       "near-protocol": "514910771af9ca656af840dff83e8264ecf986ca.factory.bridge.near",
+      "henesys": "0x76a443768a5e3b8d1aed0105fc250877841deb40",
       "mantle": "0xfe36cf0b43aae49fbc5cfc5c0af22a623114e043",
+      "bittensor-evm": "0xf09afe78d3c7d359b334d7cb88995751f7ec5e13",
       "rootstock": "0x938d84942f5d924070a6bb82f8e56a5e2b3098a4",
       "unichain": "0xef66491eab4bbb582c57b14778afd8dfb70d8a1a",
       "opbnb": "0x99f0d88b81b758ab07e22c7aba00e0121a882dea",
@@ -37980,6 +37991,14 @@
     "name": "deBridge",
     "platforms": {
       "solana": "DBRiDgJAMsM95moTzJs7M9LnkGErpbv9v6CUR1DXnUu5"
+    }
+  },
+  {
+    "id": "debt",
+    "symbol": "$debt",
+    "name": "DEBT",
+    "platforms": {
+      "solana": "9NQc7BnhfLbNwVFXrVsymEdqEFRuv5e1k7CuQW82pump"
     }
   },
   {
@@ -49333,6 +49352,7 @@
       "polygon-pos": "0xa0769f7a8fc65e47de93797b4e21c073c117fc80",
       "base": "0xa0769f7a8fc65e47de93797b4e21c073c117fc80",
       "etherlink": "0xa0769f7a8fc65e47de93797b4e21c073c117fc80",
+      "stellar": "CBGV2QFQBBGEQRUKUMCPO3SZOHDDYO6SCP5CH6TW7EALKVHCXTMWDDOF",
       "starknet": "0x4f5e0de717daa6aa8de63b1bf2e8d7823ec5b21a88461b1519d9dbc956fb7f2",
       "arbitrum-one": "0xcbeb19549054cc0a6257a77736fc78c367216ce7"
     }
@@ -59687,6 +59707,15 @@
     }
   },
   {
+    "id": "gold-token-sa-dgld-tokenized-gold",
+    "symbol": "dgld",
+    "name": "Gold Token SA DGLD Tokenized Gold",
+    "platforms": {
+      "ethereum": "0xa9299c296d7830a99414d1e5546f5171fa01e9c8",
+      "base": "0xd02f50e1017f493ffffa70c8fcf09e349e11d6c9"
+    }
+  },
+  {
     "id": "gold-xstock",
     "symbol": "gldx",
     "name": "Gold xStock",
@@ -68486,7 +68515,7 @@
     "symbol": "isens",
     "name": "Innovosens",
     "platforms": {
-      "solana": "9VFewJu28aZQA4j5j3a2ADBizXfz2ahsiSDWahCzcBLV"
+      "solana": "32UQH1VjtbvC4rNREPX2YuUEuNA5HUrELQS4auhupump"
     }
   },
   {
@@ -74672,6 +74701,12 @@
     "platforms": {
       "ethereum": "0x6fba952443be1de22232c824eb8d976b426b3c38"
     }
+  },
+  {
+    "id": "kodiak-2",
+    "symbol": "kdk",
+    "name": "Kodiak",
+    "platforms": {}
   },
   {
     "id": "kofi-aptos",
@@ -82418,7 +82453,8 @@
     "symbol": "msusd",
     "name": "Main Street USD",
     "platforms": {
-      "sonic": "0xe5fb2ed6832def99dde57c0b9d9a56537c89121d"
+      "sonic": "0xe5fb2ed6832def99dde57c0b9d9a56537c89121d",
+      "ethereum": "0x4ba01f22827018b4772cd326c7627fb4956a7c00"
     }
   },
   {
@@ -90010,8 +90046,8 @@
     "symbol": "mooned",
     "name": "MoonEdge",
     "platforms": {
-      "base": "0x599899dbaa0b4d3110b53d1a4d05fcdcb1c81945",
-      "polygon-pos": "0x7e4c577ca35913af564ee2a24d882a4946ec492b"
+      "polygon-pos": "0x7e4c577ca35913af564ee2a24d882a4946ec492b",
+      "base": "0x599899dbaa0b4d3110b53d1a4d05fcdcb1c81945"
     }
   },
   {
@@ -105087,6 +105123,14 @@
     "platforms": {}
   },
   {
+    "id": "pixie-dust",
+    "symbol": "dust",
+    "name": "Pixie Dust",
+    "platforms": {
+      "monad": "0xad96c3dffcd6374294e2573a7fbba96097cc8d7c"
+    }
+  },
+  {
     "id": "pixocracy",
     "symbol": "pix",
     "name": "Pixocracy",
@@ -105738,7 +105782,9 @@
     "id": "ploi-sol",
     "symbol": "ploi",
     "name": "PLOI",
-    "platforms": {}
+    "platforms": {
+      "solana": "ydDccyq66xKtfqn5bsRpfFXz4WeF4fh3bgQBx1npump"
+    }
   },
   {
     "id": "plotx",
@@ -107734,6 +107780,14 @@
     "name": "Pre",
     "platforms": {
       "solana": "G6mc7tiVSym3zrmmxekF3HYSc9c2hiKnGk7idoHqHTUK"
+    }
+  },
+  {
+    "id": "precious-metals-usd",
+    "symbol": "pmusd",
+    "name": "Precious Metals USD",
+    "platforms": {
+      "ethereum": "0xc0c17dd08263c16f6b64e772fb9b723bf1344ddf"
     }
   },
   {
@@ -111416,7 +111470,10 @@
     "symbol": "rain",
     "name": "Rain Coin",
     "platforms": {
-      "polygon-pos": "0x8e677ca17065ed74675bc27bcabadb7eef10a292"
+      "polygon-pos": "0x8e677ca17065ed74675bc27bcabadb7eef10a292",
+      "base": "0x4e21eabf4fc4cf66f10a93395e4b0e2438de81a6",
+      "binance-smart-chain": "0x24b1c3f935dffcadb606920022ba8c703bb065d7",
+      "ethereum": "0x59db93d135f16585ed90b8c942d4f8ae0dcfbfc0"
     }
   },
   {
@@ -121660,6 +121717,14 @@
     }
   },
   {
+    "id": "skill-stacker",
+    "symbol": "stkr",
+    "name": "Skill Stacker",
+    "platforms": {
+      "solana": "3DFnwGLJUfxc4eMxDgQwW6oWaeKBrJ1iwA26YjTfpump"
+    }
+  },
+  {
     "id": "ski-mask-cat",
     "symbol": "skicat",
     "name": "SKI MASK CAT",
@@ -125212,6 +125277,12 @@
     "platforms": {
       "solana": "wPGmsXKE3csuioed4362kcQsrxGvhnGXGgA4RhBpump"
     }
+  },
+  {
+    "id": "space-4",
+    "symbol": "space",
+    "name": "Space",
+    "platforms": {}
   },
   {
     "id": "space-and-time",
@@ -144998,7 +145069,10 @@
     "id": "vooi",
     "symbol": "vooi",
     "name": "VOOI",
-    "platforms": {}
+    "platforms": {
+      "ethereum": "0xb31561f0e2aac72406103b1926356d756f07a481",
+      "binance-smart-chain": "0x876cecb73c9ed1b1526f8e35c6a5a51a31bcf341"
+    }
   },
   {
     "id": "voovo-app",
@@ -151192,6 +151266,14 @@
     }
   },
   {
+    "id": "wrapped-parex",
+    "symbol": "wprx",
+    "name": "Wrapped PRX",
+    "platforms": {
+      "parex-network": "0x0b4231f1b076b78b04ab46c455b9129af70541d5"
+    }
+  },
+  {
     "id": "wrapped-paris-saint-germain-kayen",
     "symbol": "wpsg",
     "name": "Wrapped Paris Saint-Germain (Kayen)",
@@ -153383,7 +153465,7 @@
     "symbol": "xpass",
     "name": "X-PASS",
     "platforms": {
-      "ethereum": "0xb0df0e6133ce2bae93f1bb1737ed3f39593c67f5"
+      "binance-smart-chain": "0x9cbf2a763e797d8cde780d199f63901027ea3b8e"
     }
   },
   {
