@@ -4,16 +4,8 @@
   "keywords": [
     "defi"
   ],
-  "timestamp": "2025-11-17T11:00:25.662+00:00",
+  "timestamp": "2025-12-18T05:00:25.361+00:00",
   "tokens": [
-    {
-      "chainId": 82,
-      "address": "0x1c22531aa9747d76fff8f0a43b37954ca67d28e0",
-      "name": "Sumer.Money suETH",
-      "symbol": "SUETH",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/33265/thumb/Sumer_Money_Logo.jpg?1701321407"
-    },
     {
       "chainId": 82,
       "address": "0xe2de616fbd8cb9180b26fcfb1b761a232fe56717",
@@ -29,6 +21,14 @@
       "symbol": "SUUSD",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/33266/thumb/Sumer_Money_Logo.jpg?1701321416"
+    },
+    {
+      "chainId": 82,
+      "address": "0x1c22531aa9747d76fff8f0a43b37954ca67d28e0",
+      "name": "Sumer.Money suETH",
+      "symbol": "SUETH",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/33265/thumb/Sumer_Money_Logo.jpg?1701321407"
     },
     {
       "chainId": 82,
@@ -104,14 +104,6 @@
     },
     {
       "chainId": 82,
-      "address": "0x0978c36bcaa1887ad0335e76e184290baa6731d0",
-      "name": "StakeStone ETH",
-      "symbol": "STONE",
-      "decimals": 17,
-      "logoURI": "https://assets.coingecko.com/coins/images/33103/thumb/200_200.png?1702602672"
-    },
-    {
-      "chainId": 82,
       "address": "0x160361ce13ec33c993b5cca8f62b6864943eb083",
       "name": "Meter Stable",
       "symbol": "MTR",
@@ -124,11 +116,19 @@
       "name": "Bridged BUSD",
       "symbol": "BUSD",
       "decimals": 18
+    },
+    {
+      "chainId": 82,
+      "address": "0x0978c36bcaa1887ad0335e76e184290baa6731d0",
+      "name": "StakeStone ETH",
+      "symbol": "STONE",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/33103/thumb/200_200.png?1702602672"
     }
   ],
   "version": {
     "major": 1,
     "minor": 0,
-    "patch": 0
+    "patch": 1
   }
 }

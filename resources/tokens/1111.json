@@ -4,15 +4,23 @@
   "keywords": [
     "defi"
   ],
-  "timestamp": "2025-10-09T16:00:11.259+00:00",
+  "timestamp": "2025-12-18T11:00:09.575+00:00",
   "tokens": [
     {
       "chainId": 1111,
-      "address": "0x770d9d14c4ae2f78dca810958c1d9b7ea4620289",
-      "name": "CROW",
-      "symbol": "CROW",
+      "address": "0x8e81fcc2d4a3baa0ee9044e0d7e36f59c9bba9c1",
+      "name": "WEMIX Dollar",
+      "symbol": "WEMIX$",
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/35968/thumb/Crow.png?1710265161"
+      "logoURI": "https://assets.coingecko.com/coins/images/28637/thumb/wemix_dollar.png?1696527620"
+    },
+    {
+      "chainId": 1111,
+      "address": "0xc50a55ca9d4b7804471de1e44f3c3ce8216d8ea0",
+      "name": "PAPYRUS",
+      "symbol": "PAP",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/39917/thumb/papyrus-type01.png?1724786963"
     },
     {
       "chainId": 1111,
@@ -24,30 +32,6 @@
     },
     {
       "chainId": 1111,
-      "address": "0x99618512fce498bebe0447c5f8bb8ea7ad32de76",
-      "name": "FEATHER",
-      "symbol": "FEA",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/39916/thumb/feather-type01.png?1724786738"
-    },
-    {
-      "chainId": 1111,
-      "address": "0x732e6973595136976173af4a56eac99f52becc6e",
-      "name": "MORION",
-      "symbol": "MOR",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/39076/thumb/morion-type01.png?1720249095"
-    },
-    {
-      "chainId": 1111,
-      "address": "0x8e81fcc2d4a3baa0ee9044e0d7e36f59c9bba9c1",
-      "name": "WEMIX Dollar",
-      "symbol": "WEMIX$",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/28637/thumb/wemix_dollar.png?1696527620"
-    },
-    {
-      "chainId": 1111,
       "address": "0xd1445bcbe14ce5edf7ae887e3f3f82f7bda12af3",
       "name": "Promote",
       "symbol": "PRO",
@@ -56,19 +40,27 @@
     },
     {
       "chainId": 1111,
-      "address": "0x17133c3b231eb73aceece547933e05648ef1c027",
-      "name": "GEAR",
-      "symbol": "GEA",
+      "address": "0x99618512fce498bebe0447c5f8bb8ea7ad32de76",
+      "name": "FEATHER",
+      "symbol": "FEA",
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/39915/thumb/gear-type01.png?1724786529"
+      "logoURI": "https://assets.coingecko.com/coins/images/39916/thumb/feather-type01.png?1724786738"
     },
     {
       "chainId": 1111,
-      "address": "0xc50a55ca9d4b7804471de1e44f3c3ce8216d8ea0",
-      "name": "PAPYRUS",
-      "symbol": "PAP",
+      "address": "0x770d9d14c4ae2f78dca810958c1d9b7ea4620289",
+      "name": "CROW",
+      "symbol": "CROW",
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/39917/thumb/papyrus-type01.png?1724786963"
+      "logoURI": "https://assets.coingecko.com/coins/images/35968/thumb/Crow.png?1710265161"
+    },
+    {
+      "chainId": 1111,
+      "address": "0x732e6973595136976173af4a56eac99f52becc6e",
+      "name": "MORION",
+      "symbol": "MOR",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/39076/thumb/morion-type01.png?1720249095"
     },
     {
       "chainId": 1111,
@@ -96,8 +88,8 @@
     }
   ],
   "version": {
-    "major": 2,
-    "minor": 1,
-    "patch": 2
+    "major": 3,
+    "minor": 0,
+    "patch": 0
   }
 }
