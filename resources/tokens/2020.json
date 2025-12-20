@@ -4,15 +4,31 @@
   "keywords": [
     "defi"
   ],
-  "timestamp": "2025-12-17T18:00:50.310+00:00",
+  "timestamp": "2025-12-20T09:00:45.956+00:00",
   "tokens": [
     {
       "chainId": 2020,
-      "address": "0x6ad39689cac97a3e647fabd31534555bc7edd5c6",
-      "name": "Planet Horse V2",
-      "symbol": "PHORSE",
+      "address": "0xa8754b9fa15fc18bb59458815510e40a12cd2014",
+      "name": "Smooth Love Potion",
+      "symbol": "SLP",
+      "decimals": 0,
+      "logoURI": "https://assets.coingecko.com/coins/images/10366/thumb/SLP.png?1696510368"
+    },
+    {
+      "chainId": 2020,
+      "address": "0x5f3262ede02ca4a31bda6683124539c87cc73138",
+      "name": "Fishing Frenzy",
+      "symbol": "FISH",
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/68522/thumb/eqci0rhlvwcu3dq3y3hd7ryr2085.?1756045173"
+      "logoURI": "https://assets.coingecko.com/coins/images/70780/thumb/fish200x200.png?1763708762"
+    },
+    {
+      "chainId": 2020,
+      "address": "0xc6046fa4b8961b0e9d823bb3f2dde8fe161d547d",
+      "name": "KDR",
+      "symbol": "KDR",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/52853/thumb/-KDR.png?1734496996"
     },
     {
       "chainId": 2020,
@@ -32,22 +48,6 @@
     },
     {
       "chainId": 2020,
-      "address": "0xc99a6a985ed2cac1ef41640596c5a5f9f4e19ef5",
-      "name": "Ronin Bridged WETH (Ronin)",
-      "symbol": "WETH",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/39716/thumb/WETH.PNG?1723731945"
-    },
-    {
-      "chainId": 2020,
-      "address": "0xb4562fdefd5ed58f7705ce9386d54ee9b53831d1",
-      "name": "Puffverse",
-      "symbol": "PFVS",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/56067/thumb/logo.png?1748355229"
-    },
-    {
-      "chainId": 2020,
       "address": "0xe514d9deb7966c8be0ca922de8a064264ea6bcd4",
       "name": "Ronin",
       "symbol": "RON",
@@ -64,6 +64,14 @@
     },
     {
       "chainId": 2020,
+      "address": "0xb4562fdefd5ed58f7705ce9386d54ee9b53831d1",
+      "name": "Puffverse",
+      "symbol": "PFVS",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/56067/thumb/logo.png?1748355229"
+    },
+    {
+      "chainId": 2020,
       "address": "0x5f2593afdf2366f7f981b352125a7a72477a8d9e",
       "name": "KAT",
       "symbol": "KAT",
@@ -72,11 +80,11 @@
     },
     {
       "chainId": 2020,
-      "address": "0xc6046fa4b8961b0e9d823bb3f2dde8fe161d547d",
-      "name": "KDR",
-      "symbol": "KDR",
+      "address": "0xc99a6a985ed2cac1ef41640596c5a5f9f4e19ef5",
+      "name": "Ronin Bridged WETH (Ronin)",
+      "symbol": "WETH",
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/52853/thumb/-KDR.png?1734496996"
+      "logoURI": "https://assets.coingecko.com/coins/images/39716/thumb/WETH.PNG?1723731945"
     },
     {
       "chainId": 2020,
@@ -96,14 +104,6 @@
     },
     {
       "chainId": 2020,
-      "address": "0x0b7007c13325c48911f73a2dad5fa5dcbf808adc",
-      "name": "CCIP Bridged USDC (Ronin)",
-      "symbol": "USDC",
-      "decimals": 6,
-      "logoURI": "https://assets.coingecko.com/coins/images/69754/thumb/usdc.jpg?1759487585"
-    },
-    {
-      "chainId": 2020,
       "address": "0xf2d876342243a7dd20f1ebabf3ed9e4e7ebc5f78",
       "name": "Plants VS Ronke",
       "symbol": "PVR",
@@ -112,11 +112,11 @@
     },
     {
       "chainId": 2020,
-      "address": "0xf988f63bf26c3ed3fbf39922149e3e7b1e5c27cb",
-      "name": "RONKE",
-      "symbol": "RONKE",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/54533/thumb/originalk.png?1740211011"
+      "address": "0x0b7007c13325c48911f73a2dad5fa5dcbf808adc",
+      "name": "CCIP Bridged USDC (Ronin)",
+      "symbol": "USDC",
+      "decimals": 6,
+      "logoURI": "https://assets.coingecko.com/coins/images/69754/thumb/usdc.jpg?1759487585"
     },
     {
       "chainId": 2020,
@@ -128,19 +128,19 @@
     },
     {
       "chainId": 2020,
+      "address": "0xf988f63bf26c3ed3fbf39922149e3e7b1e5c27cb",
+      "name": "RONKE",
+      "symbol": "RONKE",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/54533/thumb/originalk.png?1740211011"
+    },
+    {
+      "chainId": 2020,
       "address": "0x1467c159680db9255cc07fea22e1718fee896aae",
       "name": "Rough Love Potion",
       "symbol": "RLP",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/53901/thumb/slp-1024-border2.png?1737704905"
-    },
-    {
-      "chainId": 2020,
-      "address": "0x5f3262ede02ca4a31bda6683124539c87cc73138",
-      "name": "Fishing Frenzy",
-      "symbol": "FISH",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/70780/thumb/fish200x200.png?1763708762"
     },
     {
       "chainId": 2020,
@@ -152,11 +152,11 @@
     },
     {
       "chainId": 2020,
-      "address": "0xa8754b9fa15fc18bb59458815510e40a12cd2014",
-      "name": "Smooth Love Potion",
-      "symbol": "SLP",
-      "decimals": 0,
-      "logoURI": "https://assets.coingecko.com/coins/images/10366/thumb/SLP.png?1696510368"
+      "address": "0x6ad39689cac97a3e647fabd31534555bc7edd5c6",
+      "name": "Planet Horse V2",
+      "symbol": "PHORSE",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/68522/thumb/eqci0rhlvwcu3dq3y3hd7ryr2085.?1756045173"
     },
     {
       "chainId": 2020,
@@ -255,14 +255,6 @@
     },
     {
       "chainId": 2020,
-      "address": "0x656fe582b4c6dc95c598ea54dc820eb36152e2f7",
-      "name": "Forkast",
-      "symbol": "CGX",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/53714/thumb/cgx.png?1737548747"
-    },
-    {
-      "chainId": 2020,
       "address": "0x86d4b36f073746eeddda6e3ce1bcfa5e18a12714",
       "name": "Kogin by Virtuals",
       "symbol": "KOGIN",
@@ -351,7 +343,7 @@
     }
   ],
   "version": {
-    "major": 4,
+    "major": 5,
     "minor": 0,
     "patch": 0
   }
