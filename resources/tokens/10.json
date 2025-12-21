@@ -4,7 +4,7 @@
   "keywords": [
     "defi"
   ],
-  "timestamp": "2025-12-20T10:00:50.155+00:00",
+  "timestamp": "2025-12-20T11:01:03.233+00:00",
   "tokens": [
     {
       "chainId": 10,
@@ -88,6 +88,14 @@
     },
     {
       "chainId": 10,
+      "address": "0x513c7e3a9c69ca3e22550ef58ac1c0088e918fff",
+      "name": "Aave v3 OP",
+      "symbol": "AOP",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/32919/thumb/op.png?1699825542"
+    },
+    {
+      "chainId": 10,
       "address": "0xc3864f98f2a61a7caeb95b039d031b4e2f55e0e9",
       "name": "OpenXSwap",
       "symbol": "OPENX",
@@ -104,14 +112,6 @@
     },
     {
       "chainId": 10,
-      "address": "0x4200000000000000000000000000000000000042",
-      "name": "Optimism",
-      "symbol": "OP",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/25244/thumb/Optimism.png?1696524385"
-    },
-    {
-      "chainId": 10,
       "address": "0x69420f9e38a4e60a62224c489be4bf7a94402496",
       "name": "Defi.money",
       "symbol": "MONEY",
@@ -125,6 +125,14 @@
       "symbol": "HAI",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/35863/thumb/hai-logo-200x200.png?1711190591"
+    },
+    {
+      "chainId": 10,
+      "address": "0x4200000000000000000000000000000000000042",
+      "name": "Optimism",
+      "symbol": "OP",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/25244/thumb/Optimism.png?1696524385"
     },
     {
       "chainId": 10,
@@ -399,14 +407,6 @@
     },
     {
       "chainId": 10,
-      "address": "0x513c7e3a9c69ca3e22550ef58ac1c0088e918fff",
-      "name": "Aave v3 OP",
-      "symbol": "AOP",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/32919/thumb/op.png?1699825542"
-    },
-    {
-      "chainId": 10,
       "address": "0x4200000000000000000000000000000000000006",
       "name": "L2 Standard Bridged WETH (Optimism)",
       "symbol": "WETH",
@@ -532,6 +532,14 @@
       "symbol": "VETH",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/71176/thumb/vETH.png?1766218149"
+    },
+    {
+      "chainId": 10,
+      "address": "0xb73ee5488647a6302ebf5fee8af3152f6960ae4c",
+      "name": "Hex Trust Wrapped XRP",
+      "symbol": "WXRP",
+      "decimals": 6,
+      "logoURI": "https://assets.coingecko.com/coins/images/71189/thumb/hex-trust-wrapped-xrp.jpg?1766224488"
     },
     {
       "chainId": 10,
@@ -2152,7 +2160,7 @@
   ],
   "version": {
     "major": 57,
-    "minor": 2,
+    "minor": 3,
     "patch": 0
   }
 }
