@@ -4,24 +4,8 @@
   "keywords": [
     "defi"
   ],
-  "timestamp": "2025-12-20T09:00:58.779+00:00",
+  "timestamp": "2025-12-23T09:00:59.804+00:00",
   "tokens": [
-    {
-      "chainId": 252,
-      "address": "0x58acc2600835211dcb5847c5fa422791fd492409",
-      "name": "dTRINITY Staked dUSD",
-      "symbol": "SDUSD",
-      "decimals": 6,
-      "logoURI": "https://assets.coingecko.com/coins/images/68063/thumb/sdUSD_Logo.png?1754642699"
-    },
-    {
-      "chainId": 252,
-      "address": "0x788d96f655735f52c676a133f4dfc53cec614d4a",
-      "name": "dTRINITY USD",
-      "symbol": "DUSD",
-      "decimals": 6,
-      "logoURI": "https://assets.coingecko.com/coins/images/53290/thumb/dUSD_Logo.png?1735997462"
-    },
     {
       "chainId": 252,
       "address": "0xfc00000000000000000000000000000000000002",
@@ -32,11 +16,11 @@
     },
     {
       "chainId": 252,
-      "address": "0xc84c0f36e42d0100c6ff5e1d04e2978f0a5b63cf",
-      "name": "Real World Abs",
-      "symbol": "RWA",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/35798/thumb/_E-hXm9c_400x400.jpg?1709807509"
+      "address": "0xdcc0f2d8f90fde85b10ac1c8ab57dc0ae946a543",
+      "name": "Fraxtal Bridged USDC (Fraxtal)",
+      "symbol": "USDC",
+      "decimals": 6,
+      "logoURI": "https://assets.coingecko.com/coins/images/52655/thumb/usdc.jpg?1733995749"
     },
     {
       "chainId": 252,
@@ -48,6 +32,22 @@
     },
     {
       "chainId": 252,
+      "address": "0x788d96f655735f52c676a133f4dfc53cec614d4a",
+      "name": "dTRINITY USD",
+      "symbol": "DUSD",
+      "decimals": 6,
+      "logoURI": "https://assets.coingecko.com/coins/images/53290/thumb/dUSD_Logo.png?1735997462"
+    },
+    {
+      "chainId": 252,
+      "address": "0x58acc2600835211dcb5847c5fa422791fd492409",
+      "name": "dTRINITY Staked dUSD",
+      "symbol": "SDUSD",
+      "decimals": 6,
+      "logoURI": "https://assets.coingecko.com/coins/images/68063/thumb/sdUSD_Logo.png?1754642699"
+    },
+    {
+      "chainId": 252,
       "address": "0xfc00000000000000000000000000000000000006",
       "name": "Wrapped frxETH",
       "symbol": "WFRXETH",
@@ -56,11 +56,11 @@
     },
     {
       "chainId": 252,
-      "address": "0xdcc0f2d8f90fde85b10ac1c8ab57dc0ae946a543",
-      "name": "Fraxtal Bridged USDC (Fraxtal)",
-      "symbol": "USDC",
-      "decimals": 6,
-      "logoURI": "https://assets.coingecko.com/coins/images/52655/thumb/usdc.jpg?1733995749"
+      "address": "0xc84c0f36e42d0100c6ff5e1d04e2978f0a5b63cf",
+      "name": "Real World Abs",
+      "symbol": "RWA",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/35798/thumb/_E-hXm9c_400x400.jpg?1709807509"
     },
     {
       "chainId": 252,
@@ -145,7 +145,7 @@
     {
       "chainId": 252,
       "address": "0xfc00000000000000000000000000000000000008",
-      "name": "Staked Frax USD",
+      "name": "Frax Staked frxUSD",
       "symbol": "SFRXUSD",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/53964/thumb/sfrxUSD.png?1737792232"
@@ -226,6 +226,6 @@
   "version": {
     "major": 5,
     "minor": 0,
-    "patch": 0
+    "patch": 1
   }
 }
