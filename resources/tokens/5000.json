@@ -4,8 +4,16 @@
   "keywords": [
     "defi"
   ],
-  "timestamp": "2025-12-18T03:00:42.348+00:00",
+  "timestamp": "2025-12-24T04:00:40.708+00:00",
   "tokens": [
+    {
+      "chainId": 5000,
+      "address": "0x4515a45337f461a11ff0fe8abf3c606ae5dc00c9",
+      "name": "MOE",
+      "symbol": "MOE",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/34422/thumb/MOE.png?1704821927"
+    },
     {
       "chainId": 5000,
       "address": "0x51cfe5b1e764dc253f4c8c1f19a081ff4c3517ed",
@@ -13,45 +21,6 @@
       "symbol": "MINU",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/31014/thumb/mantle-inu.jpeg?1696529851"
-    },
-    {
-      "chainId": 5000,
-      "address": "0x671642ac281c760e34251d51bc9eef27026f3b7a",
-      "name": "Mantle Index Four Fund",
-      "symbol": "MI4",
-      "decimals": 6,
-      "logoURI": "https://assets.coingecko.com/coins/images/66570/thumb/mi4.png?1749795929"
-    },
-    {
-      "chainId": 5000,
-      "address": "0x09bc4e0d864854c6afb6eb9a9cdf58ac190d0df9",
-      "name": "Mantle Bridged USDC (Mantle)",
-      "symbol": "USDC",
-      "decimals": 6,
-      "logoURI": "https://assets.coingecko.com/coins/images/35296/thumb/USDC_Icon.png?1708082083"
-    },
-    {
-      "chainId": 5000,
-      "address": "0x779f4e5fb773e17bc8e809f4ef1abb140861159a",
-      "name": "KTX.Finance",
-      "symbol": "KTC",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/30537/thumb/KTX.jpeg?1696529409"
-    },
-    {
-      "chainId": 5000,
-      "address": "0xab575258d37eaa5c8956efabe71f4ee8f6397cf3",
-      "name": "Mantle USD",
-      "symbol": "MUSD",
-      "decimals": 18
-    },
-    {
-      "chainId": 5000,
-      "address": "0x26a6b0dcdcfb981362afa56d581e4a7dba3be140",
-      "name": "Puff The Dragon",
-      "symbol": "PUFF",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/35950/thumb/photo_2024-03-11_10.18.27.jpeg?1710240090"
     },
     {
       "chainId": 5000,
@@ -63,11 +32,27 @@
     },
     {
       "chainId": 5000,
-      "address": "0x4515a45337f461a11ff0fe8abf3c606ae5dc00c9",
-      "name": "MOE",
-      "symbol": "MOE",
+      "address": "0x09bc4e0d864854c6afb6eb9a9cdf58ac190d0df9",
+      "name": "Mantle Bridged USDC (Mantle)",
+      "symbol": "USDC",
+      "decimals": 6,
+      "logoURI": "https://assets.coingecko.com/coins/images/35296/thumb/USDC_Icon.png?1708082083"
+    },
+    {
+      "chainId": 5000,
+      "address": "0x26a6b0dcdcfb981362afa56d581e4a7dba3be140",
+      "name": "Puff The Dragon",
+      "symbol": "PUFF",
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/34422/thumb/MOE.png?1704821927"
+      "logoURI": "https://assets.coingecko.com/coins/images/35950/thumb/photo_2024-03-11_10.18.27.jpeg?1710240090"
+    },
+    {
+      "chainId": 5000,
+      "address": "0x671642ac281c760e34251d51bc9eef27026f3b7a",
+      "name": "Mantle Index Four Fund",
+      "symbol": "MI4",
+      "decimals": 6,
+      "logoURI": "https://assets.coingecko.com/coins/images/66570/thumb/mi4.png?1749795929"
     },
     {
       "chainId": 5000,
@@ -76,6 +61,21 @@
       "symbol": "WMNT",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/30983/thumb/mantle.jpeg?1696529822"
+    },
+    {
+      "chainId": 5000,
+      "address": "0xab575258d37eaa5c8956efabe71f4ee8f6397cf3",
+      "name": "Mantle USD",
+      "symbol": "MUSD",
+      "decimals": 18
+    },
+    {
+      "chainId": 5000,
+      "address": "0x779f4e5fb773e17bc8e809f4ef1abb140861159a",
+      "name": "KTX.Finance",
+      "symbol": "KTC",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/30537/thumb/KTX.jpeg?1696529409"
     },
     {
       "chainId": 5000,
@@ -100,6 +100,14 @@
       "symbol": "ALMANAK",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/68466/thumb/almanak.png?1755828664"
+    },
+    {
+      "chainId": 5000,
+      "address": "0xd81a4adea9932a6bdba0bdbc8c5fd4c78e5a09f1",
+      "name": "VOOI",
+      "symbol": "VOOI",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/70365/thumb/VOOI_Token_Logo.png?1764177739"
     },
     {
       "chainId": 5000,
@@ -284,6 +292,14 @@
       "symbol": "CAI",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/39473/thumb/IMG_2A1EB0FC7749-1.jpeg?1724512678"
+    },
+    {
+      "chainId": 5000,
+      "address": "0x8ddb986b11c039a6cc1dbcabd62bae911b348f33",
+      "name": "Scor",
+      "symbol": "SCOR",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/71138/thumb/Scor_logo.jpg?1765957578"
     },
     {
       "chainId": 5000,
@@ -600,7 +616,7 @@
   ],
   "version": {
     "major": 20,
-    "minor": 2,
-    "patch": 1
+    "minor": 3,
+    "patch": 0
   }
 }
