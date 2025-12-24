@@ -56521,11 +56521,35 @@
     }
   },
   {
+    "id": "gauntlet-usdc-prime",
+    "symbol": "gtusdcp",
+    "name": "Gauntlet USDC PRIME",
+    "platforms": {
+      "ethereum": "0x8c106eedad96553e64287a5a6839c3cc78afa3d0"
+    }
+  },
+  {
     "id": "gauntlet-usdc-prime-morpho-vault",
     "symbol": "gtusdc",
     "name": "Gauntlet USDC Prime Morpho Vault",
     "platforms": {
       "ethereum": "0xdd0f28e19c1780eb6396170735d45153d261490d"
+    }
+  },
+  {
+    "id": "gauntlet-usdt-prime",
+    "symbol": "gtusdtp",
+    "name": "Gauntlet USDT PRIME",
+    "platforms": {
+      "ethereum": "0xf3557ad5e984211ac8a0874a670344f2c3376471"
+    }
+  },
+  {
+    "id": "gauntlet-weth-prime",
+    "symbol": "gtwethp",
+    "name": "Gauntlet WETH PRIME",
+    "platforms": {
+      "ethereum": "0x43fcd85e8d9d003d515f886891b7c742ac9f92da"
     }
   },
   {
@@ -125582,6 +125606,18 @@
     }
   },
   {
+    "id": "spiko-digital-assets-cash-carry-fund-euro-share-class",
+    "symbol": "eurspkcc",
+    "name": "Spiko Digital Assets Cash & Carry Fund - Euro Share Class",
+    "platforms": {
+      "ethereum": "0x3868d4e336d14d38031cf680329d31e4712e11cc",
+      "polygon-pos": "0x99f70a0e1786402a6796c6b0aa997ef340a5c6da",
+      "arbitrum-one": "0x0e389c83bc1d16d86412476f6103027555c03265",
+      "base": "0x4f33acf823e6eeb697180d553ce0c710124c8d59",
+      "starknet": "0x06472cabc51a3805975b9c60c7dec63897c9a287f2db173a1d6c589d18dd1e07"
+    }
+  },
+  {
     "id": "spiko-us-t-bills-money-market-fund",
     "symbol": "ustbl",
     "name": "Spiko US T-Bills Money Market Fund",
@@ -127794,6 +127830,14 @@
     }
   },
   {
+    "id": "steakhouse-pyusd",
+    "symbol": "steakpyusd",
+    "name": "Steakhouse PYUSD",
+    "platforms": {
+      "ethereum": "0xbeef00b5d83c1188f07a5184230a805639c39f04"
+    }
+  },
+  {
     "id": "steakhouse-pyusd-morpho-vault",
     "symbol": "steakpyusd",
     "name": "Steakhouse PYUSD Morpho Vault",
@@ -127815,6 +127859,14 @@
     "name": "Steakhouse USDA (Base) Morpho Vault",
     "platforms": {
       "base": "0xbeefa1abfebe621df50ceaef9f54fdb73648c92c"
+    }
+  },
+  {
+    "id": "steakhouse-usdc",
+    "symbol": "steakusdc",
+    "name": "Steakhouse USDC",
+    "platforms": {
+      "ethereum": "0xbeef088055857739c12cd3765f20b7679def0f51"
     }
   },
   {
@@ -127850,6 +127902,14 @@
     }
   },
   {
+    "id": "steakhouse-usdt",
+    "symbol": "steakusdt",
+    "name": "Steakhouse USDT",
+    "platforms": {
+      "ethereum": "0xbeef003c68896c7d2c3c60d363e8d71a49ab2bf9"
+    }
+  },
+  {
     "id": "steakhouse-usdt-morpho-vault",
     "symbol": "steakusdt",
     "name": "Steakhouse USDT Morpho Vault",
@@ -127863,6 +127923,14 @@
     "name": "Steakhouse WBTC Morpho Vault",
     "platforms": {
       "ethereum": "0xbeef094333aedd535c130958c204e84f681fd9fa"
+    }
+  },
+  {
+    "id": "steakhouse-weth",
+    "symbol": "steaketh",
+    "name": "Steakhouse WETH",
+    "platforms": {
+      "ethereum": "0xbeef0046fcab1de47e41fb75bb3dc4dfc94108e3"
     }
   },
   {
