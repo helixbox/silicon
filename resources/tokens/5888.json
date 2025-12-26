@@ -4,8 +4,24 @@
   "keywords": [
     "defi"
   ],
-  "timestamp": "2025-12-24T08:00:19.839+00:00",
+  "timestamp": "2025-12-26T08:00:25.218+00:00",
   "tokens": [
+    {
+      "chainId": 5888,
+      "address": "0xe3047710ef6cb36bcf1e58145529778ea7cb5598",
+      "name": "Wrapped OM",
+      "symbol": "WOM",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/71258/thumb/mantra.jpg?1766735675"
+    },
+    {
+      "chainId": 5888,
+      "address": "0x5e76be0f4e09057d75140216f70fd4ce3365bb29",
+      "name": "Hyperlane Bridged USDC (Mantra EVM)",
+      "symbol": "USDC",
+      "decimals": 6,
+      "logoURI": "https://assets.coingecko.com/coins/images/71257/thumb/usdc.jpg?1766735166"
+    },
     {
       "chainId": 5888,
       "address": "0xd2b95283011e47257917770d28bb3ee44c849f6f",
@@ -17,7 +33,7 @@
   ],
   "version": {
     "major": 0,
-    "minor": 1,
+    "minor": 2,
     "patch": 0
   }
 }
