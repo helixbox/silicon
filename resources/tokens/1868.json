@@ -4,7 +4,7 @@
   "keywords": [
     "defi"
   ],
-  "timestamp": "2025-12-21T09:00:58.118+00:00",
+  "timestamp": "2025-12-28T09:00:20.839+00:00",
   "tokens": [
     {
       "chainId": 1868,
@@ -16,11 +16,11 @@
     },
     {
       "chainId": 1868,
-      "address": "0x3a337a6ada9d885b6ad95ec48f9b75f197b5ae35",
-      "name": "Soneium Bridged USDT (Soneium)",
-      "symbol": "USDT",
-      "decimals": 6,
-      "logoURI": "https://assets.coingecko.com/coins/images/53779/thumb/usdt.jpg?1737341724"
+      "address": "0x9317841c2e9f6bcb44119c184152cfb1ef79034a",
+      "name": "Lootcoin",
+      "symbol": "LOOT",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/71197/thumb/lootcoin-logo.jpg?1766302463"
     },
     {
       "chainId": 1868,
@@ -56,6 +56,14 @@
     },
     {
       "chainId": 1868,
+      "address": "0x3a337a6ada9d885b6ad95ec48f9b75f197b5ae35",
+      "name": "Soneium Bridged USDT (Soneium)",
+      "symbol": "USDT",
+      "decimals": 6,
+      "logoURI": "https://assets.coingecko.com/coins/images/53779/thumb/usdt.jpg?1737341724"
+    },
+    {
+      "chainId": 1868,
       "address": "0x3b0dc2dac9498a024003609031d973b1171de09e",
       "name": "Wrapped stASTR",
       "symbol": "WSTASTR",
@@ -69,14 +77,6 @@
       "symbol": "HAHA",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/36245/thumb/HAHA_Logo.png?1710921482"
-    },
-    {
-      "chainId": 1868,
-      "address": "0x9317841c2e9f6bcb44119c184152cfb1ef79034a",
-      "name": "Lootcoin",
-      "symbol": "LOOT",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/71197/thumb/lootcoin-logo.jpg?1766302463"
     },
     {
       "chainId": 1868,
@@ -245,11 +245,19 @@
       "symbol": "SUPER",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/14040/thumb/SV-Logo-200x200.png?1706880312"
+    },
+    {
+      "chainId": 1868,
+      "address": "0x3d63825b0d8669307366e6c8202f656b9e91d368",
+      "name": "Wild Goat Coin",
+      "symbol": "WGC",
+      "decimals": 6,
+      "logoURI": "https://assets.coingecko.com/coins/images/37966/thumb/COIN_200x200.png?1716778831"
     }
   ],
   "version": {
     "major": 2,
-    "minor": 3,
+    "minor": 4,
     "patch": 0
   }
 }

@@ -4,48 +4,8 @@
   "keywords": [
     "defi"
   ],
-  "timestamp": "2025-12-12T17:00:21.862+00:00",
+  "timestamp": "2025-12-28T09:00:20.693+00:00",
   "tokens": [
-    {
-      "chainId": 480,
-      "address": "0xed49fe44fd4249a09843c2ba4bba7e50beca7113",
-      "name": "DNA Token",
-      "symbol": "DNA",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/54349/thumb/DNA_Logo_200-200.png?1755931235"
-    },
-    {
-      "chainId": 480,
-      "address": "0xd76f5faf6888e24d9f04bf92a0c8b921fe4390e0",
-      "name": "Brazilian real",
-      "symbol": "WBRL",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/70862/thumb/wbrl.png?1764272108"
-    },
-    {
-      "chainId": 480,
-      "address": "0xcd1e32b86953d79a6ac58e813d2ea7a1790cab63",
-      "name": "ORO",
-      "symbol": "ORO",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/70441/thumb/oro.png?1762076294"
-    },
-    {
-      "chainId": 480,
-      "address": "0x61d450a098b6a7f69fc4b98ce68198fe59768651",
-      "name": "Chilean Peso",
-      "symbol": "WCLP",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/70976/thumb/wclp_logo_1.png?1764954870"
-    },
-    {
-      "chainId": 480,
-      "address": "0x337e7456b420bd3481e7fa61fa9850343d610d34",
-      "name": "Mexican Peso",
-      "symbol": "WMXN",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/70880/thumb/wmxn_logo_1.png?1764392404"
-    },
     {
       "chainId": 480,
       "address": "0x4f34c8b3b5fb6d98da888f0fea543d4d9c9f2ebe",
@@ -61,6 +21,14 @@
       "symbol": "WBTC",
       "decimals": 8,
       "logoURI": "https://assets.coingecko.com/coins/images/51159/thumb/wbtc_28.png?1730242311"
+    },
+    {
+      "chainId": 480,
+      "address": "0xd76f5faf6888e24d9f04bf92a0c8b921fe4390e0",
+      "name": "Brazilian real",
+      "symbol": "WBRL",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/70862/thumb/wbrl.png?1764272108"
     },
     {
       "chainId": 480,
@@ -80,11 +48,43 @@
     },
     {
       "chainId": 480,
+      "address": "0xcd1e32b86953d79a6ac58e813d2ea7a1790cab63",
+      "name": "ORO",
+      "symbol": "ORO",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/70441/thumb/oro.png?1762076294"
+    },
+    {
+      "chainId": 480,
       "address": "0x6fb9df9530e302be9dc126363bd7529b807f7167",
       "name": "CrazyFootball token",
       "symbol": "FOOTBALL",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/69748/thumb/Logo.jpg?1759482957"
+    },
+    {
+      "chainId": 480,
+      "address": "0x337e7456b420bd3481e7fa61fa9850343d610d34",
+      "name": "Mexican Peso",
+      "symbol": "WMXN",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/70880/thumb/wmxn_logo_1.png?1764392404"
+    },
+    {
+      "chainId": 480,
+      "address": "0x61d450a098b6a7f69fc4b98ce68198fe59768651",
+      "name": "Chilean Peso",
+      "symbol": "WCLP",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/70976/thumb/wclp_logo_1.png?1764954870"
+    },
+    {
+      "chainId": 480,
+      "address": "0xed49fe44fd4249a09843c2ba4bba7e50beca7113",
+      "name": "DNA Token",
+      "symbol": "DNA",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/54349/thumb/DNA_Logo_200-200.png?1755931235"
     },
     {
       "chainId": 480,
@@ -221,11 +221,19 @@
       "symbol": "POOL",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/14003/thumb/PoolTogether.png?1696513732"
+    },
+    {
+      "chainId": 480,
+      "address": "0x3d63825b0d8669307366e6c8202f656b9e91d368",
+      "name": "Wild Goat Coin",
+      "symbol": "WGC",
+      "decimals": 6,
+      "logoURI": "https://assets.coingecko.com/coins/images/37966/thumb/COIN_200x200.png?1716778831"
     }
   ],
   "version": {
     "major": 1,
-    "minor": 12,
+    "minor": 13,
     "patch": 0
   }
 }

@@ -4,24 +4,8 @@
   "keywords": [
     "defi"
   ],
-  "timestamp": "2025-11-30T10:00:35.300+00:00",
+  "timestamp": "2025-12-28T09:00:27.844+00:00",
   "tokens": [
-    {
-      "chainId": 130,
-      "address": "0x926dc7b96bb2f4a91c2a67e291faf482691a3001",
-      "name": "Unicorn",
-      "symbol": "UNICORN",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/54332/thumb/unicorn.jpg?1739325321"
-    },
-    {
-      "chainId": 130,
-      "address": "0xec4a56061d86955d0df883efb2e5791d99ea71f2",
-      "name": "hoonicorn.lol",
-      "symbol": "HOONI",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/54996/thumb/hooni-logo-fixed.png?1743095425"
-    },
     {
       "chainId": 130,
       "address": "0x756ee6857f915a2b5366f2ef56d8d13857aef8ad",
@@ -32,11 +16,19 @@
     },
     {
       "chainId": 130,
-      "address": "0xabe69c550ea6ec22bed4b92614511c4f31bb0f64",
-      "name": "Abe",
-      "symbol": "ABE",
+      "address": "0x588ce4f028d8e7b53b687865d6a67b3a54c75518",
+      "name": "Unichain Bridged USDT (Unichain)",
+      "symbol": "USDT",
+      "decimals": 6,
+      "logoURI": "https://assets.coingecko.com/coins/images/66726/thumb/usdt.jpg?1750318933"
+    },
+    {
+      "chainId": 130,
+      "address": "0x926dc7b96bb2f4a91c2a67e291faf482691a3001",
+      "name": "Unicorn",
+      "symbol": "UNICORN",
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/68514/thumb/logo_circle_200.png?1756440524"
+      "logoURI": "https://assets.coingecko.com/coins/images/54332/thumb/unicorn.jpg?1739325321"
     },
     {
       "chainId": 130,
@@ -48,11 +40,19 @@
     },
     {
       "chainId": 130,
-      "address": "0x588ce4f028d8e7b53b687865d6a67b3a54c75518",
-      "name": "Unichain Bridged USDT (Unichain)",
-      "symbol": "USDT",
-      "decimals": 6,
-      "logoURI": "https://assets.coingecko.com/coins/images/66726/thumb/usdt.jpg?1750318933"
+      "address": "0xec4a56061d86955d0df883efb2e5791d99ea71f2",
+      "name": "hoonicorn.lol",
+      "symbol": "HOONI",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/54996/thumb/hooni-logo-fixed.png?1743095425"
+    },
+    {
+      "chainId": 130,
+      "address": "0xabe69c550ea6ec22bed4b92614511c4f31bb0f64",
+      "name": "Abe",
+      "symbol": "ABE",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/68514/thumb/logo_circle_200.png?1756440524"
     },
     {
       "chainId": 130,
@@ -288,6 +288,14 @@
     },
     {
       "chainId": 130,
+      "address": "0x3d63825b0d8669307366e6c8202f656b9e91d368",
+      "name": "Wild Goat Coin",
+      "symbol": "WGC",
+      "decimals": 6,
+      "logoURI": "https://assets.coingecko.com/coins/images/37966/thumb/COIN_200x200.png?1716778831"
+    },
+    {
+      "chainId": 130,
       "address": "0xd3c8da379d71a33bfee8875f87ac2748beb1d58d",
       "name": "Universal BTC",
       "symbol": "UNIBTC",
@@ -297,7 +305,7 @@
   ],
   "version": {
     "major": 3,
-    "minor": 1,
-    "patch": 1
+    "minor": 2,
+    "patch": 0
   }
 }
