@@ -4,8 +4,16 @@
   "keywords": [
     "defi"
   ],
-  "timestamp": "2025-12-25T10:00:35.953+00:00",
+  "timestamp": "2025-12-29T09:00:36.137+00:00",
   "tokens": [
+    {
+      "chainId": 8811,
+      "address": "0x61cd868ee83319dbc16616d34084904a369d5338",
+      "name": "Haven1 Bridged Coinbase Wrapped BTC",
+      "symbol": "HCBBTC",
+      "decimals": 8,
+      "logoURI": "https://assets.coingecko.com/coins/images/67204/thumb/cbeth_logo_200x200.png?1752088242"
+    },
     {
       "chainId": 8811,
       "address": "0x0a7a6384e0640c3efd5587635e201cb960819456",
@@ -29,26 +37,10 @@
       "symbol": "HETH",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/67184/thumb/eth_logo_200x200.png?1751998132"
-    },
-    {
-      "chainId": 8811,
-      "address": "0x33b67ed2b733576572c19d744a365181d97f936c",
-      "name": "Haven1 Bridged USDC (Haven1)",
-      "symbol": "HUSDC",
-      "decimals": 6,
-      "logoURI": "https://assets.coingecko.com/coins/images/66716/thumb/usdc.jpg?1750299196"
-    },
-    {
-      "chainId": 8811,
-      "address": "0x61cd868ee83319dbc16616d34084904a369d5338",
-      "name": "Haven1 Bridged Coinbase Wrapped BTC",
-      "symbol": "HCBBTC",
-      "decimals": 8,
-      "logoURI": "https://assets.coingecko.com/coins/images/67204/thumb/cbeth_logo_200x200.png?1752088242"
     }
   ],
   "version": {
-    "major": 1,
+    "major": 2,
     "minor": 0,
     "patch": 0
   }

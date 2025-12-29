@@ -4,16 +4,8 @@
   "keywords": [
     "defi"
   ],
-  "timestamp": "2025-12-28T10:00:33.871+00:00",
+  "timestamp": "2025-12-29T09:00:32.420+00:00",
   "tokens": [
-    {
-      "chainId": 2741,
-      "address": "0x84a71ccd554cc1b02749b35d22f684cc8ec987e1",
-      "name": "Stargate Bridged USDC",
-      "symbol": "USDC.E",
-      "decimals": 6,
-      "logoURI": "https://assets.coingecko.com/coins/images/69316/thumb/usdc.jpg?1758186473"
-    },
     {
       "chainId": 2741,
       "address": "0xd045e0686a784e272e651fc2c08324edabe7403a",
@@ -64,6 +56,14 @@
     },
     {
       "chainId": 2741,
+      "address": "0x987cf44f3f5d854ec0703123d7fd003a8b56ebb4",
+      "name": "Polly",
+      "symbol": "POLLY",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/55914/thumb/Polly_Official_PFP.jpg?1747708551"
+    },
+    {
+      "chainId": 2741,
       "address": "0xe768efeb8b570775e26222dfdca5670250ed9522",
       "name": "Peengu",
       "symbol": "PEENGU",
@@ -96,11 +96,11 @@
     },
     {
       "chainId": 2741,
-      "address": "0xfb23b34d56171b740e9ded4b4d96001f5bfc667f",
-      "name": "BWOB",
-      "symbol": "BWOB",
+      "address": "0xa8726bd058bea1973b61a9bc2a5e0e605b797307",
+      "name": "Abstract Liquid Staked ETH",
+      "symbol": "ABSETH",
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/54323/thumb/pfp.png?1739289974"
+      "logoURI": "https://assets.coingecko.com/coins/images/54980/thumb/absETH-token_icon.png?1743025959"
     },
     {
       "chainId": 2741,
@@ -176,6 +176,22 @@
     },
     {
       "chainId": 2741,
+      "address": "0x0709f39376deee2a2dfc94a58edeb2eb9df012bd",
+      "name": "Abstract Bridged USDT (Abstract)",
+      "symbol": "USDT",
+      "decimals": 6,
+      "logoURI": "https://assets.coingecko.com/coins/images/67296/thumb/usdt.jpg?1752306379"
+    },
+    {
+      "chainId": 2741,
+      "address": "0x3439153eb7af838ad19d56e1571fbd09333c2809",
+      "name": "L2 Standard Bridged WETH (Abstract)",
+      "symbol": "WETH",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/54027/thumb/weth.png?1738035079"
+    },
+    {
+      "chainId": 2741,
       "address": "0x9301d2debe3c501a4bef6ba5b273b7bd346fa57e",
       "name": "Plan Bee",
       "symbol": "PLANB",
@@ -189,14 +205,6 @@
       "symbol": "UWU69",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/68885/thumb/uwulogo.png?1756894653"
-    },
-    {
-      "chainId": 2741,
-      "address": "0x987cf44f3f5d854ec0703123d7fd003a8b56ebb4",
-      "name": "Polly",
-      "symbol": "POLLY",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/55914/thumb/Polly_Official_PFP.jpg?1747708551"
     },
     {
       "chainId": 2741,
@@ -264,11 +272,11 @@
     },
     {
       "chainId": 2741,
-      "address": "0x3439153eb7af838ad19d56e1571fbd09333c2809",
-      "name": "L2 Standard Bridged WETH (Abstract)",
-      "symbol": "WETH",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/54027/thumb/weth.png?1738035079"
+      "address": "0x84a71ccd554cc1b02749b35d22f684cc8ec987e1",
+      "name": "Stargate Bridged USDC",
+      "symbol": "USDC.E",
+      "decimals": 6,
+      "logoURI": "https://assets.coingecko.com/coins/images/69316/thumb/usdc.jpg?1758186473"
     },
     {
       "chainId": 2741,
@@ -301,14 +309,6 @@
       "symbol": "$ZIPPY",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/55838/thumb/Zippy_pfp.jpg?1747404050"
-    },
-    {
-      "chainId": 2741,
-      "address": "0xa8726bd058bea1973b61a9bc2a5e0e605b797307",
-      "name": "Abstract Liquid Staked ETH",
-      "symbol": "ABSETH",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/54980/thumb/absETH-token_icon.png?1743025959"
     },
     {
       "chainId": 2741,
@@ -349,14 +349,6 @@
       "symbol": "ABX",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/69919/thumb/TOKEN_ICON.png?1760028608"
-    },
-    {
-      "chainId": 2741,
-      "address": "0x0709f39376deee2a2dfc94a58edeb2eb9df012bd",
-      "name": "Abstract Bridged USDT (Abstract)",
-      "symbol": "USDT",
-      "decimals": 6,
-      "logoURI": "https://assets.coingecko.com/coins/images/67296/thumb/usdt.jpg?1752306379"
     },
     {
       "chainId": 2741,
@@ -552,7 +544,7 @@
     }
   ],
   "version": {
-    "major": 3,
+    "major": 4,
     "minor": 0,
     "patch": 0
   }
