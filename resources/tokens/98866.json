@@ -4,24 +4,8 @@
   "keywords": [
     "defi"
   ],
-  "timestamp": "2025-12-05T10:00:03.725+00:00",
+  "timestamp": "2026-01-06T10:00:03.479+00:00",
   "tokens": [
-    {
-      "chainId": 98866,
-      "address": "0x15c09c0ffb3717325e60a564d1acfbfe999c2f88",
-      "name": "Dinari SRLN",
-      "symbol": "SRLN.D",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/66390/thumb/d-token-200.png?1749284651"
-    },
-    {
-      "chainId": 98866,
-      "address": "0x6a64f470293630e08d24455ec0b73960ab7dbb23",
-      "name": "SPICE pUSD Vault",
-      "symbol": "PUSDNOTE",
-      "decimals": 6,
-      "logoURI": "https://assets.coingecko.com/coins/images/69199/thumb/pUSDnote.png?1757836459"
-    },
     {
       "chainId": 98866,
       "address": "0x2a3e301dbd45c143dfbb7b1ce1c55bf0bbf161cb",
@@ -29,14 +13,6 @@
       "symbol": "NACRDX",
       "decimals": 6,
       "logoURI": "https://assets.coingecko.com/coins/images/70512/thumb/Nest_ACRDX_Vault.png?1762268426"
-    },
-    {
-      "chainId": 98866,
-      "address": "0xdea149f84859d1ec50480c209b71bffa482b0530",
-      "name": "Nest Treasury Vault (LP)",
-      "symbol": "INTBILL",
-      "decimals": 6,
-      "logoURI": "https://assets.coingecko.com/coins/images/66318/thumb/inTbill.png?1749197830"
     },
     {
       "chainId": 98866,
@@ -48,51 +24,19 @@
     },
     {
       "chainId": 98866,
-      "address": "0xafb068838136358cfa6b54bea580b86df70bba7f",
-      "name": "exSat Staking BTC",
-      "symbol": "ESBTC",
+      "address": "0x6a64f470293630e08d24455ec0b73960ab7dbb23",
+      "name": "SPICE pUSD Vault",
+      "symbol": "PUSDNOTE",
+      "decimals": 6,
+      "logoURI": "https://assets.coingecko.com/coins/images/69199/thumb/pUSDnote.png?1757836459"
+    },
+    {
+      "chainId": 98866,
+      "address": "0xea237441c92cae6fc17caaf9a7acb3f953be4bd1",
+      "name": "Wrapped Plume",
+      "symbol": "WPLUME",
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/67691/thumb/esbtc_logo-_1_.png?1753521998"
-    },
-    {
-      "chainId": 98866,
-      "address": "0x119dd7daff816f29d7ee47596ae5e4bdc4299165",
-      "name": "Nest BlackOpal LiquidStone II Vault",
-      "symbol": "NOPAL",
-      "decimals": 6,
-      "logoURI": "https://assets.coingecko.com/coins/images/70787/thumb/BlackOpal_Vault.png?1763752532"
-    },
-    {
-      "chainId": 98866,
-      "address": "0xe9e8330a71912f03e54e7d93795acd9a56f070aa",
-      "name": "Pay USD",
-      "symbol": "PAYUSD",
-      "decimals": 6,
-      "logoURI": "https://assets.coingecko.com/coins/images/55876/thumb/PayUSD-token.png?1747555725"
-    },
-    {
-      "chainId": 98866,
-      "address": "0x9d08946ca5856f882a56c29042fbedc5142663b9",
-      "name": "Nest Mineral Vault",
-      "symbol": "NMNRL",
-      "decimals": 6,
-      "logoURI": "https://assets.coingecko.com/coins/images/70513/thumb/Nest_MNRL_Vault.png?1762268451"
-    },
-    {
-      "chainId": 98866,
-      "address": "0x29bf22381a5811dec89dc7b46a5ce57ad02c0240",
-      "name": "Nest WisdomTree Vault",
-      "symbol": "NWISDOM",
-      "decimals": 6,
-      "logoURI": "https://assets.coingecko.com/coins/images/70669/thumb/Nest_Wisdom_Vault.png?1763016395"
-    },
-    {
-      "chainId": 98866,
-      "address": "0x9477724bb54ad5417de8baff29e59df3fb4da74f",
-      "name": "Anemoy Tokenized Apollo Diversified Credit Fund",
-      "symbol": "ACDRX",
-      "decimals": 6,
-      "logoURI": "https://assets.coingecko.com/coins/images/70454/thumb/acdrx.png?1762081579"
+      "logoURI": "https://assets.coingecko.com/coins/images/70470/thumb/plume.jpg?1762154772"
     },
     {
       "chainId": 98866,
@@ -104,11 +48,43 @@
     },
     {
       "chainId": 98866,
-      "address": "0xea237441c92cae6fc17caaf9a7acb3f953be4bd1",
-      "name": "Wrapped Plume",
-      "symbol": "WPLUME",
+      "address": "0xe9e8330a71912f03e54e7d93795acd9a56f070aa",
+      "name": "Pay USD",
+      "symbol": "PAYUSD",
+      "decimals": 6,
+      "logoURI": "https://assets.coingecko.com/coins/images/55876/thumb/PayUSD-token.png?1747555725"
+    },
+    {
+      "chainId": 98866,
+      "address": "0x9477724bb54ad5417de8baff29e59df3fb4da74f",
+      "name": "Anemoy Tokenized Apollo Diversified Credit Fund",
+      "symbol": "ACDRX",
+      "decimals": 6,
+      "logoURI": "https://assets.coingecko.com/coins/images/70454/thumb/acdrx.png?1762081579"
+    },
+    {
+      "chainId": 98866,
+      "address": "0xdea149f84859d1ec50480c209b71bffa482b0530",
+      "name": "Nest Treasury Vault (LP)",
+      "symbol": "INTBILL",
+      "decimals": 6,
+      "logoURI": "https://assets.coingecko.com/coins/images/66318/thumb/inTbill.png?1749197830"
+    },
+    {
+      "chainId": 98866,
+      "address": "0xafb068838136358cfa6b54bea580b86df70bba7f",
+      "name": "exSat Staking BTC",
+      "symbol": "ESBTC",
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/70470/thumb/plume.jpg?1762154772"
+      "logoURI": "https://assets.coingecko.com/coins/images/67691/thumb/esbtc_logo-_1_.png?1753521998"
+    },
+    {
+      "chainId": 98866,
+      "address": "0x15c09c0ffb3717325e60a564d1acfbfe999c2f88",
+      "name": "Dinari SRLN",
+      "symbol": "SRLN.D",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/66390/thumb/d-token-200.png?1749284651"
     },
     {
       "chainId": 98866,
@@ -320,14 +296,6 @@
     },
     {
       "chainId": 98866,
-      "address": "0x866a2bf4e572cbcf37d5071a7a58503bfb36be1b",
-      "name": "M by M0",
-      "symbol": "M",
-      "decimals": 6,
-      "logoURI": "https://assets.coingecko.com/coins/images/40048/thumb/M_Symbol_256.png?1739323798"
-    },
-    {
-      "chainId": 98866,
       "address": "0x437cc33344a0b27a429f795ff6b469c72698b291",
       "name": "WrappedM by M^0",
       "symbol": "WM",
@@ -437,10 +405,34 @@
       "symbol": "LINK",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/877/thumb/Chainlink_Logo_500.png?1760023405"
+    },
+    {
+      "chainId": 98866,
+      "address": "0x29bf22381a5811dec89dc7b46a5ce57ad02c0240",
+      "name": "Nest WisdomTree Vault",
+      "symbol": "NWISDOM",
+      "decimals": 6,
+      "logoURI": "https://assets.coingecko.com/coins/images/70669/thumb/Nest_Wisdom_Vault.png?1763016395"
+    },
+    {
+      "chainId": 98866,
+      "address": "0x9d08946ca5856f882a56c29042fbedc5142663b9",
+      "name": "Nest Mineral Vault",
+      "symbol": "NMNRL",
+      "decimals": 6,
+      "logoURI": "https://assets.coingecko.com/coins/images/70513/thumb/Nest_MNRL_Vault.png?1762268451"
+    },
+    {
+      "chainId": 98866,
+      "address": "0x119dd7daff816f29d7ee47596ae5e4bdc4299165",
+      "name": "Nest BlackOpal LiquidStone II Vault",
+      "symbol": "NOPAL",
+      "decimals": 6,
+      "logoURI": "https://assets.coingecko.com/coins/images/70787/thumb/BlackOpal_Vault.png?1763752532"
     }
   ],
   "version": {
-    "major": 1,
+    "major": 2,
     "minor": 0,
     "patch": 0
   }
