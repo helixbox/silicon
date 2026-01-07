@@ -4,15 +4,15 @@
   "keywords": [
     "defi"
   ],
-  "timestamp": "2025-12-28T09:00:27.844+00:00",
+  "timestamp": "2026-01-07T05:00:29.799+00:00",
   "tokens": [
     {
       "chainId": 130,
-      "address": "0x756ee6857f915a2b5366f2ef56d8d13857aef8ad",
-      "name": "Catex",
-      "symbol": "CATX",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/67331/thumb/Catex_logo_Coinbgecko.png?1752402945"
+      "address": "0x927b51f251480a681271180da4de28d44ec4afb8",
+      "name": "Unichain Bridged WBTC (Unichain)",
+      "symbol": "WBTC",
+      "decimals": 8,
+      "logoURI": "https://assets.coingecko.com/coins/images/66722/thumb/wbtc.jpg?1750315958"
     },
     {
       "chainId": 130,
@@ -56,19 +56,19 @@
     },
     {
       "chainId": 130,
+      "address": "0x756ee6857f915a2b5366f2ef56d8d13857aef8ad",
+      "name": "Catex",
+      "symbol": "CATX",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/67331/thumb/Catex_logo_Coinbgecko.png?1752402945"
+    },
+    {
+      "chainId": 130,
       "address": "0xc3eacf0612346366db554c991d7858716db09f58",
       "name": "KelpDAO Bridged rsETH (Unichain)",
       "symbol": "RSETH",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/67283/thumb/rseth.jpg?1752298197"
-    },
-    {
-      "chainId": 130,
-      "address": "0x927b51f251480a681271180da4de28d44ec4afb8",
-      "name": "Unichain Bridged WBTC (Unichain)",
-      "symbol": "WBTC",
-      "decimals": 8,
-      "logoURI": "https://assets.coingecko.com/coins/images/66722/thumb/wbtc.jpg?1750315958"
     },
     {
       "chainId": 130,
@@ -125,6 +125,14 @@
       "symbol": "WBTC",
       "decimals": 8,
       "logoURI": "https://assets.coingecko.com/coins/images/7598/thumb/WBTCLOGO.png?1764496367"
+    },
+    {
+      "chainId": 130,
+      "address": "0xfdca15bd55f350a36e63c47661914d80411d2c22",
+      "name": "Wrapped Bittensor (Universal)",
+      "symbol": "UTAO",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/54906/thumb/Untitled_%281%29.png?1742450295"
     },
     {
       "chainId": 130,
@@ -305,7 +313,7 @@
   ],
   "version": {
     "major": 3,
-    "minor": 2,
+    "minor": 3,
     "patch": 0
   }
 }

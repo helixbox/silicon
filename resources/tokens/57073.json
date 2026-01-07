@@ -4,8 +4,16 @@
   "keywords": [
     "defi"
   ],
-  "timestamp": "2025-12-28T09:00:42.475+00:00",
+  "timestamp": "2026-01-07T05:00:43.561+00:00",
   "tokens": [
+    {
+      "chainId": 57073,
+      "address": "0x4200000000000000000000000000000000000006",
+      "name": "Ink Bridged WETH (Ink)",
+      "symbol": "WETH",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/52918/thumb/weth_2.jpg?1734684690"
+    },
     {
       "chainId": 57073,
       "address": "0x0606fc632ee812ba970af72f8489baaa443c4b98",
@@ -13,14 +21,6 @@
       "symbol": "ANITA",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/68173/thumb/_L_L.png?1754996486"
-    },
-    {
-      "chainId": 57073,
-      "address": "0x20c69c12abf2b6f8d8ca33604dd25c700c7e70a5",
-      "name": "Cat Call Agent",
-      "symbol": "CAT",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/54745/thumb/DV_dS5E9_400x400_%282%29.png?1741326959"
     },
     {
       "chainId": 57073,
@@ -32,11 +32,11 @@
     },
     {
       "chainId": 57073,
-      "address": "0x0200c29006150606b650577bbe7b6248f58470c1",
-      "name": "USDT0",
-      "symbol": "USDT0",
-      "decimals": 6,
-      "logoURI": "https://assets.coingecko.com/coins/images/53705/thumb/usdt0.jpg?1737086183"
+      "address": "0xd642b49d10cc6e1bc1c6945725667c35e0875f22",
+      "name": "Purple",
+      "symbol": "PURPLE",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/53880/thumb/ink_purple.png?1738227741"
     },
     {
       "chainId": 57073,
@@ -48,11 +48,19 @@
     },
     {
       "chainId": 57073,
-      "address": "0xd642b49d10cc6e1bc1c6945725667c35e0875f22",
-      "name": "Purple",
-      "symbol": "PURPLE",
+      "address": "0x0200c29006150606b650577bbe7b6248f58470c1",
+      "name": "USDT0",
+      "symbol": "USDT0",
+      "decimals": 6,
+      "logoURI": "https://assets.coingecko.com/coins/images/53705/thumb/usdt0.jpg?1737086183"
+    },
+    {
+      "chainId": 57073,
+      "address": "0x20c69c12abf2b6f8d8ca33604dd25c700c7e70a5",
+      "name": "Cat Call Agent",
+      "symbol": "CAT",
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/53880/thumb/ink_purple.png?1738227741"
+      "logoURI": "https://assets.coingecko.com/coins/images/54745/thumb/DV_dS5E9_400x400_%282%29.png?1741326959"
     },
     {
       "chainId": 57073,
@@ -88,14 +96,6 @@
     },
     {
       "chainId": 57073,
-      "address": "0x4200000000000000000000000000000000000006",
-      "name": "Ink Bridged WETH (Ink)",
-      "symbol": "WETH",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/52918/thumb/weth_2.jpg?1734684690"
-    },
-    {
-      "chainId": 57073,
       "address": "0x53ad50d3b6fcacb8965d3a49cb722917c7dae1f3",
       "name": "Apollo Diversified Credit Securitize Fund",
       "symbol": "ACRED",
@@ -109,6 +109,14 @@
       "symbol": "XSOLVBTC",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/39384/thumb/xSolvBTC.png?1744170824"
+    },
+    {
+      "chainId": 57073,
+      "address": "0x2416092f143378750bb29b79ed961ab195cceea5",
+      "name": "Renzo Restaked ETH",
+      "symbol": "EZETH",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/34753/thumb/Ezeth_logo_circle.png?1713496404"
     },
     {
       "chainId": 57073,
@@ -241,7 +249,7 @@
   ],
   "version": {
     "major": 3,
-    "minor": 13,
+    "minor": 14,
     "patch": 0
   }
 }
