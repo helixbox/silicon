@@ -4,7 +4,7 @@
   "keywords": [
     "defi"
   ],
-  "timestamp": "2026-01-07T09:00:42.175+00:00",
+  "timestamp": "2026-01-07T20:00:42.025+00:00",
   "tokens": [
     {
       "chainId": 369,
@@ -56,14 +56,6 @@
     },
     {
       "chainId": 369,
-      "address": "0xa1077a294dde1b09bb078844df40758a5d0f9a27",
-      "name": "Wrapped Pulse",
-      "symbol": "WPLS",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/30432/thumb/pulse.jpeg?1696529320"
-    },
-    {
-      "chainId": 369,
       "address": "0xdc8d1cbdf7b6a2d5b503ff7bffd85a6002358050",
       "name": "PMX500",
       "symbol": "PMX",
@@ -72,11 +64,27 @@
     },
     {
       "chainId": 369,
-      "address": "0xeb6b7932da20c6d7b3a899d5887d86dfb09a6408",
-      "name": "PXDC",
-      "symbol": "PXDC",
+      "address": "0x32fb5663619a657839a80133994e45c5e5cdf427",
+      "name": "EMIT",
+      "symbol": "EMIT",
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/33877/thumb/200x200-PXDC-token.png?1703145326"
+      "logoURI": "https://assets.coingecko.com/coins/images/68661/thumb/emit_200x200.png?1756198659"
+    },
+    {
+      "chainId": 369,
+      "address": "0x02dcdd04e3f455d838cd1249292c58f3b79e3c3c",
+      "name": "Pulsechain Bridged WETH (Pulsechain)",
+      "symbol": "WETH",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/39888/thumb/weth.png?1724683877"
+    },
+    {
+      "chainId": 369,
+      "address": "0x2b591e99afe9f32eaa6214f7b7629768c40eeb39",
+      "name": "HEX (PulseChain)",
+      "symbol": "HEX",
+      "decimals": 8,
+      "logoURI": "https://assets.coingecko.com/coins/images/30646/thumb/0x2b591e99afE9f32eAA6214f7B7629768c40Eeb39.png?1696529517"
     },
     {
       "chainId": 369,
@@ -133,14 +141,6 @@
       "symbol": "SOIL",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/40031/thumb/SOIL.jpg?1725362801"
-    },
-    {
-      "chainId": 369,
-      "address": "0x79bb3a0ee435f957ce4f54ee8c3cfadc7278da0c",
-      "name": "Vouch Staked PLS",
-      "symbol": "VPLS",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/69143/thumb/vPLS_logo.png?1757612340"
     },
     {
       "chainId": 369,
@@ -224,6 +224,14 @@
     },
     {
       "chainId": 369,
+      "address": "0x57fde0a71132198bbec939b98976993d8d89d225",
+      "name": "Pulsechain Bridged HEX (Pulsechain)",
+      "symbol": "HEX",
+      "decimals": 8,
+      "logoURI": "https://assets.coingecko.com/coins/images/40090/thumb/hex.png?1725589274"
+    },
+    {
+      "chainId": 369,
       "address": "0xc737be95a34d2a2d0b788f472f6c8165126dfd27",
       "name": "Pulseium",
       "symbol": "PSM",
@@ -248,6 +256,22 @@
     },
     {
       "chainId": 369,
+      "address": "0x6b175474e89094c44da98b954eedeac495271d0f",
+      "name": "DAI on PulseChain",
+      "symbol": "DAI",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/36735/thumb/pDAI_200x200.png?1712451453"
+    },
+    {
+      "chainId": 369,
+      "address": "0xa1077a294dde1b09bb078844df40758a5d0f9a27",
+      "name": "Wrapped Pulse",
+      "symbol": "WPLS",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/30432/thumb/pulse.jpeg?1696529320"
+    },
+    {
+      "chainId": 369,
       "address": "0x6cf99baa0a4d079f960216d08cf9a1bc7e4dd37c",
       "name": "EazySwap Token",
       "symbol": "EAZY",
@@ -256,19 +280,11 @@
     },
     {
       "chainId": 369,
-      "address": "0x57fde0a71132198bbec939b98976993d8d89d225",
-      "name": "Pulsechain Bridged HEX (Pulsechain)",
-      "symbol": "HEX",
-      "decimals": 8,
-      "logoURI": "https://assets.coingecko.com/coins/images/40090/thumb/hex.png?1725589274"
-    },
-    {
-      "chainId": 369,
-      "address": "0x02dcdd04e3f455d838cd1249292c58f3b79e3c3c",
-      "name": "Pulsechain Bridged WETH (Pulsechain)",
-      "symbol": "WETH",
+      "address": "0x79bb3a0ee435f957ce4f54ee8c3cfadc7278da0c",
+      "name": "Vouch Staked PLS",
+      "symbol": "VPLS",
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/39888/thumb/weth.png?1724683877"
+      "logoURI": "https://assets.coingecko.com/coins/images/69143/thumb/vPLS_logo.png?1757612340"
     },
     {
       "chainId": 369,
@@ -277,14 +293,6 @@
       "symbol": "URMOM",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/66532/thumb/URmomlogo200x200.png?1759249957"
-    },
-    {
-      "chainId": 369,
-      "address": "0x9159f1d2a9f51998fc9ab03fbd8f265ab14a1b3b",
-      "name": "Liquid Loans",
-      "symbol": "LOAN",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/33490/thumb/loan-500X500.png?1702029616"
     },
     {
       "chainId": 369,
@@ -312,14 +320,6 @@
     },
     {
       "chainId": 369,
-      "address": "0x69e23263927ae53e5ff3a898d082a83b7d6fb438",
-      "name": "SCADA",
-      "symbol": "SCADA",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/70369/thumb/scada_logo_final.png?1761728846"
-    },
-    {
-      "chainId": 369,
       "address": "0x5ee84583f67d5ecea5420dbb42b462896e7f8d06",
       "name": "PulseBitcoin (PulseChain)",
       "symbol": "PLSB",
@@ -333,14 +333,6 @@
       "symbol": "PTIGER",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/70855/thumb/Ptiger200x200.png?1764222975"
-    },
-    {
-      "chainId": 369,
-      "address": "0xdd67d6523529294b50a1765769080034b6146ee7",
-      "name": "AXEL.win",
-      "symbol": "AXEL",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/68127/thumb/AXEL_logo_2.png?1754888011"
     },
     {
       "chainId": 369,
@@ -392,11 +384,27 @@
     },
     {
       "chainId": 369,
+      "address": "0x1e2b066d068eb087ccf85620b8306a283ea70816",
+      "name": "Swarm",
+      "symbol": "SWRM",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/68823/thumb/1000027005.jpg?1758774211"
+    },
+    {
+      "chainId": 369,
       "address": "0xb55ee890426341fe45ee6dc788d2d93d25b59063",
       "name": "Love.io",
       "symbol": "LOVE",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/33011/thumb/IMG_7458.png?1700124277"
+    },
+    {
+      "chainId": 369,
+      "address": "0xdd67d6523529294b50a1765769080034b6146ee7",
+      "name": "AXEL.win",
+      "symbol": "AXEL",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/68127/thumb/AXEL_logo_2.png?1754888011"
     },
     {
       "chainId": 369,
@@ -432,6 +440,22 @@
     },
     {
       "chainId": 369,
+      "address": "0xeb6b7932da20c6d7b3a899d5887d86dfb09a6408",
+      "name": "PXDC",
+      "symbol": "PXDC",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/33877/thumb/200x200-PXDC-token.png?1703145326"
+    },
+    {
+      "chainId": 369,
+      "address": "0x0cb6f5a34ad42ec934882a05265a7d5f59b51a2f",
+      "name": "Pulsechain Bridged USDT (Pulsechain)",
+      "symbol": "USDT",
+      "decimals": 6,
+      "logoURI": "https://assets.coingecko.com/coins/images/30515/thumb/usdt.png?1696529400"
+    },
+    {
+      "chainId": 369,
       "address": "0x6c6d7de6c5f366a1995ed5f1e273c5b3760c6043",
       "name": "RhinoFi",
       "symbol": "RHINO",
@@ -456,11 +480,11 @@
     },
     {
       "chainId": 369,
-      "address": "0x1e2b066d068eb087ccf85620b8306a283ea70816",
-      "name": "Swarm",
-      "symbol": "SWRM",
+      "address": "0x69e23263927ae53e5ff3a898d082a83b7d6fb438",
+      "name": "SCADA",
+      "symbol": "SCADA",
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/68823/thumb/1000027005.jpg?1758774211"
+      "logoURI": "https://assets.coingecko.com/coins/images/70369/thumb/scada_logo_final.png?1761728846"
     },
     {
       "chainId": 369,
@@ -472,11 +496,11 @@
     },
     {
       "chainId": 369,
-      "address": "0x0deed1486bc52aa0d3e6f8849cec5add6598a162",
-      "name": "Liquid Loans USDL",
-      "symbol": "USDL",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/34292/thumb/usdl.png?1742888809"
+      "address": "0x15d38573d2feeb82e7ad5187ab8c1d52810b1f07",
+      "name": "Bridged USD Coin (PulseChain)",
+      "symbol": "USDC",
+      "decimals": 6,
+      "logoURI": "https://assets.coingecko.com/coins/images/30514/thumb/usdc.png?1696529399"
     },
     {
       "chainId": 369,
@@ -512,35 +536,11 @@
     },
     {
       "chainId": 369,
-      "address": "0x6b175474e89094c44da98b954eedeac495271d0f",
-      "name": "DAI on PulseChain",
-      "symbol": "DAI",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/36735/thumb/pDAI_200x200.png?1712451453"
-    },
-    {
-      "chainId": 369,
       "address": "0x664e58570e5835b99d281f12dd14d350315d7e2a",
       "name": "uPX",
       "symbol": "UPX",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/33136/thumb/uPX_Logo.jpg?1700807969"
-    },
-    {
-      "chainId": 369,
-      "address": "0x0cb6f5a34ad42ec934882a05265a7d5f59b51a2f",
-      "name": "Pulsechain Bridged USDT (Pulsechain)",
-      "symbol": "USDT",
-      "decimals": 6,
-      "logoURI": "https://assets.coingecko.com/coins/images/30515/thumb/usdt.png?1696529400"
-    },
-    {
-      "chainId": 369,
-      "address": "0x1c81b4358246d3088ab4361ab755f3d8d4dd62d2",
-      "name": "Finvesta",
-      "symbol": "FINVESTA",
-      "decimals": 8,
-      "logoURI": "https://assets.coingecko.com/coins/images/54588/thumb/finvesta.png?1740556264"
     },
     {
       "chainId": 369,
@@ -573,22 +573,6 @@
       "symbol": "PLN",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/31625/thumb/200-logo.png?1696530441"
-    },
-    {
-      "chainId": 369,
-      "address": "0x32fb5663619a657839a80133994e45c5e5cdf427",
-      "name": "EMIT",
-      "symbol": "EMIT",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/68661/thumb/emit_200x200.png?1756198659"
-    },
-    {
-      "chainId": 369,
-      "address": "0x2b591e99afe9f32eaa6214f7b7629768c40eeb39",
-      "name": "HEX (PulseChain)",
-      "symbol": "HEX",
-      "decimals": 8,
-      "logoURI": "https://assets.coingecko.com/coins/images/30646/thumb/0x2b591e99afE9f32eAA6214f7B7629768c40Eeb39.png?1696529517"
     },
     {
       "chainId": 369,
@@ -664,11 +648,19 @@
     },
     {
       "chainId": 369,
-      "address": "0x15d38573d2feeb82e7ad5187ab8c1d52810b1f07",
-      "name": "Bridged USD Coin (PulseChain)",
-      "symbol": "USDC",
-      "decimals": 6,
-      "logoURI": "https://assets.coingecko.com/coins/images/30514/thumb/usdc.png?1696529399"
+      "address": "0x0deed1486bc52aa0d3e6f8849cec5add6598a162",
+      "name": "Liquid Loans USDL",
+      "symbol": "USDL",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/34292/thumb/usdl.png?1742888809"
+    },
+    {
+      "chainId": 369,
+      "address": "0x1c81b4358246d3088ab4361ab755f3d8d4dd62d2",
+      "name": "Finvesta",
+      "symbol": "FINVESTA",
+      "decimals": 8,
+      "logoURI": "https://assets.coingecko.com/coins/images/54588/thumb/finvesta.png?1740556264"
     },
     {
       "chainId": 369,
@@ -677,6 +669,14 @@
       "symbol": "MINT",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/32763/thumb/v2.0.png?1699330002"
+    },
+    {
+      "chainId": 369,
+      "address": "0x9159f1d2a9f51998fc9ab03fbd8f265ab14a1b3b",
+      "name": "Liquid Loans",
+      "symbol": "LOAN",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/33490/thumb/loan-500X500.png?1702029616"
     },
     {
       "chainId": 369,
@@ -828,7 +828,7 @@
       "name": "TEDDY BEAR",
       "symbol": "BEAR",
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/32028/thumb/bear200x200.png?1766683879"
+      "logoURI": "https://assets.coingecko.com/coins/images/32028/thumb/bear-transparent-200x200.png?1767815482"
     },
     {
       "chainId": 369,
@@ -930,6 +930,6 @@
   "version": {
     "major": 23,
     "minor": 0,
-    "patch": 0
+    "patch": 1
   }
 }

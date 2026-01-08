@@ -6604,7 +6604,9 @@
     "id": "althea",
     "symbol": "althea",
     "name": "ALTHEA",
-    "platforms": {}
+    "platforms": {
+      "ethereum": "0xf9e595bc0af20cfa1561dfe085e3de9fcf9fbfa2"
+    }
   },
   {
     "id": "altitude",
@@ -55794,11 +55796,27 @@
     }
   },
   {
+    "id": "gauntlet-usdt-balanced",
+    "symbol": "gtusdtb",
+    "name": "Gauntlet USDT Balanced",
+    "platforms": {
+      "ethereum": "0xe571b648569619566cf6ce1060c97b621cb635d3"
+    }
+  },
+  {
     "id": "gauntlet-usdt-prime",
     "symbol": "gtusdtp",
     "name": "Gauntlet USDT PRIME V2",
     "platforms": {
       "ethereum": "0xf3557ad5e984211ac8a0874a670344f2c3376471"
+    }
+  },
+  {
+    "id": "gauntlet-weth-balanced",
+    "symbol": "gtwethb",
+    "name": "Gauntlet WETH Balanced",
+    "platforms": {
+      "ethereum": "0x5f342382d5f77f0f99e8f26161e689df6c7cded3"
     }
   },
   {
@@ -74223,6 +74241,14 @@
     }
   },
   {
+    "id": "kredo",
+    "symbol": "kredo",
+    "name": "Kredo",
+    "platforms": {
+      "solana": "F2hgieC18MeUWaWMoyaxLSQCzS7yAjRz1HgmbGAEpump"
+    }
+  },
+  {
     "id": "krees",
     "symbol": "krees",
     "name": "Krees",
@@ -91230,6 +91256,22 @@
     }
   },
   {
+    "id": "nansen-staked-sol",
+    "symbol": "nxsol",
+    "name": "Nansen Staked SOL",
+    "platforms": {
+      "solana": "sctmTAsDn4tLUcemqoqYijfuRkiEfAMPi84PNq2EueR"
+    }
+  },
+  {
+    "id": "naomi-by-bunnyos",
+    "symbol": "naomi",
+    "name": "Naomi by BunnyOS",
+    "platforms": {
+      "base": "0xa760c69ae94b4b7c20b75f2eef2e84a4d48ffe37"
+    }
+  },
+  {
     "id": "naoris",
     "symbol": "naoris",
     "name": "Naoris Protocol",
@@ -107226,7 +107268,7 @@
     "symbol": "prxvt",
     "name": "PRXVT by Virtuals",
     "platforms": {
-      "base": "0xc2ff2e5aa9023b1bb688178a4a547212f4614bc0"
+      "base": "0x4b5d32a07b8d3ec5d6928caa30196f8dd6a7c5a9"
     }
   },
   {
@@ -108582,7 +108624,7 @@
   {
     "id": "qie",
     "symbol": "qie",
-    "name": "QI Blockchain",
+    "name": "QIE Blockchain",
     "platforms": {}
   },
   {
@@ -133523,6 +133565,14 @@
     "name": "The Vault Staked SOL",
     "platforms": {
       "solana": "vSoLxydx6akxyMD9XEcPvGYNGq6Nn66oqVb3UkGkei7"
+    }
+  },
+  {
+    "id": "the-vibecodoor",
+    "symbol": "vibecodoor",
+    "name": "The Vibecodoor",
+    "platforms": {
+      "solana": "Aj1mSpD4vJDN5r3xptnHsjHQgGWDLge8bRQi2W6pump"
     }
   },
   {
