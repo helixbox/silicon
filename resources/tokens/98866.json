@@ -4,7 +4,7 @@
   "keywords": [
     "defi"
   ],
-  "timestamp": "2026-01-06T10:00:03.479+00:00",
+  "timestamp": "2026-01-09T09:00:03.169+00:00",
   "tokens": [
     {
       "chainId": 98866,
@@ -16,11 +16,11 @@
     },
     {
       "chainId": 98866,
-      "address": "0x39d1f90ef89c52dda276194e9a832b484ee45574",
-      "name": "Plume Staked ETH",
-      "symbol": "PETH",
+      "address": "0xea237441c92cae6fc17caaf9a7acb3f953be4bd1",
+      "name": "Wrapped Plume",
+      "symbol": "WPLUME",
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/67514/thumb/peth.png?1753068541"
+      "logoURI": "https://assets.coingecko.com/coins/images/70470/thumb/plume.jpg?1762154772"
     },
     {
       "chainId": 98866,
@@ -32,11 +32,11 @@
     },
     {
       "chainId": 98866,
-      "address": "0xea237441c92cae6fc17caaf9a7acb3f953be4bd1",
-      "name": "Wrapped Plume",
-      "symbol": "WPLUME",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/70470/thumb/plume.jpg?1762154772"
+      "address": "0x9477724bb54ad5417de8baff29e59df3fb4da74f",
+      "name": "Anemoy Tokenized Apollo Diversified Credit Fund",
+      "symbol": "ACDRX",
+      "decimals": 6,
+      "logoURI": "https://assets.coingecko.com/coins/images/70454/thumb/acdrx.png?1762081579"
     },
     {
       "chainId": 98866,
@@ -48,19 +48,11 @@
     },
     {
       "chainId": 98866,
-      "address": "0xe9e8330a71912f03e54e7d93795acd9a56f070aa",
-      "name": "Pay USD",
-      "symbol": "PAYUSD",
-      "decimals": 6,
-      "logoURI": "https://assets.coingecko.com/coins/images/55876/thumb/PayUSD-token.png?1747555725"
-    },
-    {
-      "chainId": 98866,
-      "address": "0x9477724bb54ad5417de8baff29e59df3fb4da74f",
-      "name": "Anemoy Tokenized Apollo Diversified Credit Fund",
-      "symbol": "ACDRX",
-      "decimals": 6,
-      "logoURI": "https://assets.coingecko.com/coins/images/70454/thumb/acdrx.png?1762081579"
+      "address": "0x39d1f90ef89c52dda276194e9a832b484ee45574",
+      "name": "Plume Staked ETH",
+      "symbol": "PETH",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/67514/thumb/peth.png?1753068541"
     },
     {
       "chainId": 98866,
@@ -72,11 +64,11 @@
     },
     {
       "chainId": 98866,
-      "address": "0xafb068838136358cfa6b54bea580b86df70bba7f",
-      "name": "exSat Staking BTC",
-      "symbol": "ESBTC",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/67691/thumb/esbtc_logo-_1_.png?1753521998"
+      "address": "0xe9e8330a71912f03e54e7d93795acd9a56f070aa",
+      "name": "Pay USD",
+      "symbol": "PAYUSD",
+      "decimals": 6,
+      "logoURI": "https://assets.coingecko.com/coins/images/55876/thumb/PayUSD-token.png?1747555725"
     },
     {
       "chainId": 98866,
@@ -85,6 +77,14 @@
       "symbol": "SRLN.D",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/66390/thumb/d-token-200.png?1749284651"
+    },
+    {
+      "chainId": 98866,
+      "address": "0xafb068838136358cfa6b54bea580b86df70bba7f",
+      "name": "exSat Staking BTC",
+      "symbol": "ESBTC",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/67691/thumb/esbtc_logo-_1_.png?1753521998"
     },
     {
       "chainId": 98866,
@@ -429,11 +429,19 @@
       "symbol": "NOPAL",
       "decimals": 6,
       "logoURI": "https://assets.coingecko.com/coins/images/70787/thumb/BlackOpal_Vault.png?1763752532"
+    },
+    {
+      "chainId": 98866,
+      "address": "0xcf7a8813bd3bdaf70a9f46d310ce1ee8d80a4f5a",
+      "name": "WisdomTree Treasury Money Market Digital Fund",
+      "symbol": "WTGXX",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/71484/thumb/wtgxx_circle_ci.png?1767948288"
     }
   ],
   "version": {
     "major": 2,
-    "minor": 0,
+    "minor": 1,
     "patch": 0
   }
 }

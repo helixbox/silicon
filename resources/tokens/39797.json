@@ -4,39 +4,15 @@
   "keywords": [
     "defi"
   ],
-  "timestamp": "2025-12-19T11:00:20.010+00:00",
+  "timestamp": "2026-01-09T12:00:18.649+00:00",
   "tokens": [
     {
       "chainId": 39797,
-      "address": "0x591c19dc0821704bedaa5bbc6a66fee277d9437e",
-      "name": "Energi Bridged ZRX (Energi)",
-      "symbol": "ZRX",
+      "address": "0x0f46fe95a8d6573990118aee8b7ac9a3532f5963",
+      "name": "Energi Dollar",
+      "symbol": "USDE",
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/70690/thumb/0x-protocol-energi.jpeg?1763106120"
-    },
-    {
-      "chainId": 39797,
-      "address": "0xffd7510ca0a3279c7a5f50018a26c21d5bc1dbcf",
-      "name": "Energi Bridged USDC (Energi)",
-      "symbol": "USDC",
-      "decimals": 6,
-      "logoURI": "https://assets.coingecko.com/coins/images/35323/thumb/USDC.jpg?1708178353"
-    },
-    {
-      "chainId": 39797,
-      "address": "0x0ee5893f434017d8881750101ea2f7c49c0eb503",
-      "name": "Multichain Bridged DAI (Energi)",
-      "symbol": "DAI",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/39802/thumb/dai.png?1724125849"
-    },
-    {
-      "chainId": 39797,
-      "address": "0xc3c19ee91cf3c1f7fbf3716a09d21dc35de0bd6d",
-      "name": "Multichain Bridged WBNB (Energi)",
-      "symbol": "WBNB",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/53080/thumb/wrapped_bnb.png?1735265046"
+      "logoURI": "https://assets.coingecko.com/coins/images/25463/thumb/USDE.png?1696524593"
     },
     {
       "chainId": 39797,
@@ -48,6 +24,14 @@
     },
     {
       "chainId": 39797,
+      "address": "0x0ee5893f434017d8881750101ea2f7c49c0eb503",
+      "name": "Multichain Bridged DAI (Energi)",
+      "symbol": "DAI",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/39802/thumb/dai.png?1724125849"
+    },
+    {
+      "chainId": 39797,
       "address": "0xa55f26319462355474a9f2c8790860776a329aa4",
       "name": "Wrapped Energi",
       "symbol": "WNRG",
@@ -56,11 +40,27 @@
     },
     {
       "chainId": 39797,
-      "address": "0x0f46fe95a8d6573990118aee8b7ac9a3532f5963",
-      "name": "Energi Dollar",
-      "symbol": "USDE",
+      "address": "0xffd7510ca0a3279c7a5f50018a26c21d5bc1dbcf",
+      "name": "Energi Bridged USDC (Energi)",
+      "symbol": "USDC",
+      "decimals": 6,
+      "logoURI": "https://assets.coingecko.com/coins/images/35323/thumb/USDC.jpg?1708178353"
+    },
+    {
+      "chainId": 39797,
+      "address": "0x591c19dc0821704bedaa5bbc6a66fee277d9437e",
+      "name": "Energi Bridged ZRX (Energi)",
+      "symbol": "ZRX",
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/25463/thumb/USDE.png?1696524593"
+      "logoURI": "https://assets.coingecko.com/coins/images/70690/thumb/0x-protocol-energi.jpeg?1763106120"
+    },
+    {
+      "chainId": 39797,
+      "address": "0xc3c19ee91cf3c1f7fbf3716a09d21dc35de0bd6d",
+      "name": "Multichain Bridged WBNB (Energi)",
+      "symbol": "WBNB",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/53080/thumb/wrapped_bnb.png?1735265046"
     },
     {
       "chainId": 39797,
@@ -848,14 +848,6 @@
     },
     {
       "chainId": 39797,
-      "address": "0x6bb14afedc740dce4904b7a65807fe3b967f4c94",
-      "name": "Status",
-      "symbol": "SNT",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/779/thumb/status.png?1696501931"
-    },
-    {
-      "chainId": 39797,
       "address": "0x02c6c53930b20bced86ddf64007bebcd923e1093",
       "name": "QuarkChain",
       "symbol": "QKC",
@@ -880,7 +872,7 @@
     }
   ],
   "version": {
-    "major": 15,
+    "major": 16,
     "minor": 0,
     "patch": 0
   }
