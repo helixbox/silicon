@@ -12241,11 +12241,19 @@
   {
     "id": "axondao-governance-token",
     "symbol": "axgt",
-    "name": "AxonDAO Governance Token",
+    "name": "AxonDAO Governance Token [OLD]",
     "platforms": {
       "ethereum": "0xdd66781d0e9a08d4fbb5ec7bac80b691be27f21d",
       "base": "0x9b700b043e9587dde9a0c29a9483e2f8fa450d54",
       "arbitrum-one": "0xe0ee18eacafddaeb38f8907c74347c44385578ab"
+    }
+  },
+  {
+    "id": "axondao-governance-token-2",
+    "symbol": "axgt",
+    "name": "AxonDAO Governance Token",
+    "platforms": {
+      "ethereum": "0x6112c3509a8a787df576028450febb3786a2274d"
     }
   },
   {
@@ -16948,14 +16956,6 @@
     "name": "B.H.A.D",
     "platforms": {
       "solana": "57Wdx3uikKcAt2w8F9GMwgGeEvkaU6pXacYScW1hpump"
-    }
-  },
-  {
-    "id": "bhnetwork",
-    "symbol": "bhat",
-    "name": "BHNetwork",
-    "platforms": {
-      "elrond": "BHAT-c1fde3"
     }
   },
   {
@@ -68834,7 +68834,8 @@
     "name": "iShares 20+ Year Treasury Bond ETF (Ondo Tokenized ETF)",
     "platforms": {
       "ethereum": "0x992651bfeb9a0dcc4457610e284ba66d86489d4d",
-      "binance-smart-chain": "0xf69e40069ac227c11459e3f4e8a446b3401616b6"
+      "binance-smart-chain": "0xf69e40069ac227c11459e3f4e8a446b3401616b6",
+      "solana": "KaSLSWByKy6b9FrCYXPEJoHmLpuFZtTCJk1F1Z9ondo"
     }
   },
   {
@@ -68979,7 +68980,8 @@
     "name": "iShares Silver Trust (Ondo Tokenized Stock)",
     "platforms": {
       "ethereum": "0xf3e4872e6a4cf365888d93b6146a2baa7348f1a4",
-      "binance-smart-chain": "0x8b872732b07be325a8803cdb480d9d20b6f8d11b"
+      "binance-smart-chain": "0x8b872732b07be325a8803cdb480d9d20b6f8d11b",
+      "solana": "iy11ytbSGcUnrjE6Lfv78TFqxKyUESfku1FugS9ondo"
     }
   },
   {
@@ -68988,7 +68990,8 @@
     "name": "iShares TIPS Bond ETF (Ondo Tokenized ETF)",
     "platforms": {
       "ethereum": "0x2df38ca485d01fc15e4fd85847ed26b7ef871c1c",
-      "binance-smart-chain": "0x2ac26ec236df5d1d2ad1a6dd4e448a90e45dc35d"
+      "binance-smart-chain": "0x2ac26ec236df5d1d2ad1a6dd4e448a90e45dc35d",
+      "solana": "k6BPp2Xmf2TYgrZiUyWfUoZBKeqaDbvPoAVgSx2ondo"
     }
   },
   {
@@ -71793,6 +71796,14 @@
     "name": "Kamino",
     "platforms": {
       "solana": "KMNo3nJsBXfcpJTVhZcXLW7RmTwTt4GVFE7suUBo9sS"
+    }
+  },
+  {
+    "id": "kamiyo",
+    "symbol": "kamiyo",
+    "name": "KAMIYO",
+    "platforms": {
+      "solana": "Gy55EJmheLyDXiZ7k7CW2FhunD1UgjQxQibuBn3Npump"
     }
   },
   {
@@ -90110,6 +90121,14 @@
     }
   },
   {
+    "id": "mouse-person",
+    "symbol": "老鼠人",
+    "name": "老鼠人 (Mouse Person)",
+    "platforms": {
+      "binance-smart-chain": "0x1177134249264276d18f555ca45684bb73b44444"
+    }
+  },
+  {
     "id": "mova-2",
     "symbol": "mova",
     "name": "MOVA",
@@ -97309,7 +97328,8 @@
     "name": "Ondo U.S. Dollar Token",
     "platforms": {
       "ethereum": "0xace8e719899f6e91831b18ae746c9a965c2119f1",
-      "binance-smart-chain": "0x1f8955e640cbd9abc3c3bb408c9e2e1f5f20dfe6"
+      "binance-smart-chain": "0x1f8955e640cbd9abc3c3bb408c9e2e1f5f20dfe6",
+      "solana": "roQWmZJgGkSt4hLhkMAMRyM5s3fHw8Pi1LY4vfdondo"
     }
   },
   {
@@ -118786,6 +118806,7 @@
     "name": "SharpLink Gaming, Inc (Ondo Tokenized Stock)",
     "platforms": {
       "ethereum": "0xfdb46864a7c476f0914c5e82cded3364a9f56f8a",
+      "solana": "iLDu2jjp2i3Uqc2Vm7K7GLiUj3hR4Un49MtD7c4ondo",
       "binance-smart-chain": "0x99e01f02d66455bb106d91d469c9eaf6ab4904f6"
     }
   },
@@ -119774,7 +119795,8 @@
     "name": "Shopify (Ondo Tokenized Stock)",
     "platforms": {
       "ethereum": "0x908266c1192628371cff7ad2f5eba4de061a0ac5",
-      "binance-smart-chain": "0x43d0b380c33cd004a6a69abd61843881a2de4113"
+      "binance-smart-chain": "0x43d0b380c33cd004a6a69abd61843881a2de4113",
+      "solana": "ivdDracs2s7jCP698dJXKSEQdVrNj9hasJL1Uq1ondo"
     }
   },
   {
@@ -121969,7 +121991,8 @@
     "name": "Snowflake (Ondo Tokenized Stock)",
     "platforms": {
       "ethereum": "0x5d1a9a9b118ff19721e0111f094f2360b6ef7a2f",
-      "binance-smart-chain": "0x138ed6833ff4e8811e1fea0d005e13726c8886f9"
+      "binance-smart-chain": "0x138ed6833ff4e8811e1fea0d005e13726c8886f9",
+      "solana": "JmFLCBwoNvcXy6B2VqABg6m784ubkXpaEx3p7S5ondo"
     }
   },
   {
@@ -124708,7 +124731,8 @@
     "name": "SPDR S&P 500 ETF (Ondo Tokenized ETF)",
     "platforms": {
       "ethereum": "0xfedc5f4a6c38211c1338aa411018dfaf26612c08",
-      "binance-smart-chain": "0x6a708ead771238919d85930b5a0f10454e1c331a"
+      "binance-smart-chain": "0x6a708ead771238919d85930b5a0f10454e1c331a",
+      "solana": "k18WJUULWheRkSpSquYGdNNmtuE2Vbw1hpuUi92ondo"
     }
   },
   {
@@ -124901,7 +124925,8 @@
     "name": "S&P Global (Ondo Tokenized Stock)",
     "platforms": {
       "ethereum": "0xbc843b147db4c7e00721d76037b8b92e13afe13f",
-      "binance-smart-chain": "0x55b370b704240a914f42b5bbb3195431c031f9f8"
+      "binance-smart-chain": "0x55b370b704240a914f42b5bbb3195431c031f9f8",
+      "solana": "JrTYw7A9jihX5TwpRStYviEbsYf2X2VJpZ13719ondo"
     }
   },
   {
@@ -125313,7 +125338,8 @@
     "name": "Spotify (Ondo Tokenized Stock)",
     "platforms": {
       "ethereum": "0x590f21186489ca1612f49a4b1ff5c66acd6796a9",
-      "binance-smart-chain": "0x50356167a4dbc38bea6779c045e24e25facedfdc"
+      "binance-smart-chain": "0x50356167a4dbc38bea6779c045e24e25facedfdc",
+      "solana": "jzCvs2Pk8tDcfsFRqnEMjurgaQW4iQfEkandUR8ondo"
     }
   },
   {
@@ -126671,7 +126697,8 @@
     "name": "Starbucks (Ondo Tokenized Stock)",
     "platforms": {
       "ethereum": "0xf15fbc1349ab99abad63db3f9a510bf413be3bef",
-      "binance-smart-chain": "0x94d7754541b829a87321d56121bc544167ac490d"
+      "binance-smart-chain": "0x94d7754541b829a87321d56121bc544167ac490d",
+      "solana": "iPFqjcZQTNMNXA4kbShbMhfAVD8yr8Uq9UtXMV6ondo"
     }
   },
   {
@@ -129503,7 +129530,8 @@
     "name": "Super Micro Computer (Ondo Tokenized Stock)",
     "platforms": {
       "ethereum": "0x2ca12a3f9635fd69c21580def14f25c210ca9612",
-      "binance-smart-chain": "0xc142ba8ccd36d80c3a001342fb83e4c3d218a873"
+      "binance-smart-chain": "0xc142ba8ccd36d80c3a001342fb83e4c3d218a873",
+      "solana": "jLca79XzcewRuBZyaJxVxuKpUHcEix1X4CP1RP9ondo"
     }
   },
   {
@@ -131042,7 +131070,8 @@
     "name": "Taiwan Semiconductor Manufacturing (Ondo Tokenized Stock)",
     "platforms": {
       "ethereum": "0x3cafdbfe682aec17d5ace2f97a2f3ab3dcf6a4a9",
-      "binance-smart-chain": "0xc37042a7a4fa510d8884a433762ab87257b91965"
+      "binance-smart-chain": "0xc37042a7a4fa510d8884a433762ab87257b91965",
+      "solana": "keybg184d4vyXeQdFqs4o99YsMg7xBthxTJ6Ky3ondo"
     }
   },
   {
@@ -132535,7 +132564,8 @@
     "name": "Tesla (Ondo Tokenized Stock)",
     "platforms": {
       "ethereum": "0xf6b1117ec07684d3958cad8beb1b302bfd21103f",
-      "binance-smart-chain": "0x2494b603319d4d9f9715c9f4496d9e0364b59d93"
+      "binance-smart-chain": "0x2494b603319d4d9f9715c9f4496d9e0364b59d93",
+      "solana": "KeGv7bsfR4MheC1CkmnAVceoApjrkvBhHYjWb67ondo"
     }
   },
   {
@@ -133809,6 +133839,14 @@
     }
   },
   {
+    "id": "the-official-89-coin",
+    "symbol": "89",
+    "name": "The Official 89 Coin",
+    "platforms": {
+      "ethereum": "0x2e7775964554e0eb6400c00ce342fe06e1000935"
+    }
+  },
+  {
     "id": "the-official-bozo",
     "symbol": "bozo",
     "name": "THE•OFFICIAL•BOZO",
@@ -134400,6 +134438,14 @@
     "name": "the void",
     "platforms": {
       "solana": "2KK4YMi24Tqo6tDn8mzYWkNdGjG3ufdXBjmLv7Fapump"
+    }
+  },
+  {
+    "id": "the-white-fish",
+    "symbol": "white fish",
+    "name": "The White Fish",
+    "platforms": {
+      "solana": "5X61PKDGt6Fjg6hRxyFiaN61CDToHEeE2gJhDgL9pump"
     }
   },
   {
@@ -136583,7 +136629,8 @@
     "name": "Toyota (Ondo Tokenized Stock)",
     "platforms": {
       "ethereum": "0xab02fc332e9278ebcbbc6b4a8038050c01d15f69",
-      "binance-smart-chain": "0xecc1299f183b6a720a6f4729bf24f82cd8d50828"
+      "binance-smart-chain": "0xecc1299f183b6a720a6f4729bf24f82cd8d50828",
+      "solana": "kbmF7ERJWMaaDswMprrH9gHSLya5D2RMBNgKqg3ondo"
     }
   },
   {
@@ -138669,7 +138716,8 @@
     "name": "Uber (Ondo Tokenized Stock)",
     "platforms": {
       "ethereum": "0x5bcd8195e3ef58f677aef9ebc276b5087c027050",
-      "binance-smart-chain": "0xde9d6036fca870f7efc5a82722ae694c371ac909"
+      "binance-smart-chain": "0xde9d6036fca870f7efc5a82722ae694c371ac909",
+      "solana": "KJNeFW3kk3ycPjXpC6cbuyckjeYHacc2ekhtAi5ondo"
     }
   },
   {
@@ -139693,7 +139741,8 @@
     "name": "UnitedHealth (Ondo Tokenized Stock)",
     "platforms": {
       "ethereum": "0x075756f3b6381a79633438faa8964946bf40163d",
-      "binance-smart-chain": "0x3385cb29cca0ac66f5d2354d13ef977b49a2510f"
+      "binance-smart-chain": "0x3385cb29cca0ac66f5d2354d13ef977b49a2510f",
+      "solana": "kPBGL8vAwKN3UGmr9cjkM2dU79SC3nzTC9yu7F8ondo"
     }
   },
   {
@@ -143580,7 +143629,8 @@
     "name": "Visa (Ondo Tokenized Stock)",
     "platforms": {
       "ethereum": "0xac37c20c1d0e5285035e056101a64e263ff94a41",
-      "binance-smart-chain": "0x1cde419fae0ef7f7931ae3e29e5f411c8c5e5fa1"
+      "binance-smart-chain": "0x1cde419fae0ef7f7931ae3e29e5f411c8c5e5fa1",
+      "solana": "kxEW4oJL75K37VeXaZF1ynbHQATQwhECQKN1374ondo"
     }
   },
   {
@@ -144794,7 +144844,8 @@
     "name": "Walmart (Ondo Tokenized Stock)",
     "platforms": {
       "ethereum": "0x82106347ddbb23ce44cf4ce4053ef1adf8b9323b",
-      "binance-smart-chain": "0xa7d1e886acf66ec0656df2decb4b7c893a3bab4c"
+      "binance-smart-chain": "0xa7d1e886acf66ec0656df2decb4b7c893a3bab4c",
+      "solana": "LZddqAqKqJW9oMZSjTxCUmbmzBRQtv9gMkD9hZ3ondo"
     }
   },
   {
@@ -145832,7 +145883,8 @@
     "name": "Wells Fargo (Ondo Tokenized Stock)",
     "platforms": {
       "ethereum": "0x4ad2118da8a65eaa81402a3d583fef6ee76bdf3f",
-      "binance-smart-chain": "0x629520dee1620def11596f84e85de9f1ff653012"
+      "binance-smart-chain": "0x629520dee1620def11596f84e85de9f1ff653012",
+      "solana": "L6ZE5qCpVVSqLePz64CrwkgyWoPF9M7tB8BeFH4ondo"
     }
   },
   {
