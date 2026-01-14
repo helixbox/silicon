@@ -4,15 +4,23 @@
   "keywords": [
     "defi"
   ],
-  "timestamp": "2026-01-07T05:00:43.561+00:00",
+  "timestamp": "2026-01-13T17:00:44.484+00:00",
   "tokens": [
     {
       "chainId": 57073,
-      "address": "0x4200000000000000000000000000000000000006",
-      "name": "Ink Bridged WETH (Ink)",
-      "symbol": "WETH",
+      "address": "0x53eb0098d09b8d1008f382bbd2a5d4f649111710",
+      "name": "WATCHDOGS",
+      "symbol": "WATCH",
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/52918/thumb/weth_2.jpg?1734684690"
+      "logoURI": "https://assets.coingecko.com/coins/images/67089/thumb/GkveKRgXcAESEPj_%281%29.png?1751702681"
+    },
+    {
+      "chainId": 57073,
+      "address": "0xd642b49d10cc6e1bc1c6945725667c35e0875f22",
+      "name": "Purple",
+      "symbol": "PURPLE",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/53880/thumb/ink_purple.png?1738227741"
     },
     {
       "chainId": 57073,
@@ -32,27 +40,11 @@
     },
     {
       "chainId": 57073,
-      "address": "0xd642b49d10cc6e1bc1c6945725667c35e0875f22",
-      "name": "Purple",
-      "symbol": "PURPLE",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/53880/thumb/ink_purple.png?1738227741"
-    },
-    {
-      "chainId": 57073,
       "address": "0x7160644365e7011fa96ce60706743b434df32690",
       "name": "KEK",
       "symbol": "KEK",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/67904/thumb/200x200.jpg?1754222647"
-    },
-    {
-      "chainId": 57073,
-      "address": "0x0200c29006150606b650577bbe7b6248f58470c1",
-      "name": "USDT0",
-      "symbol": "USDT0",
-      "decimals": 6,
-      "logoURI": "https://assets.coingecko.com/coins/images/53705/thumb/usdt0.jpg?1737086183"
     },
     {
       "chainId": 57073,
@@ -64,6 +56,14 @@
     },
     {
       "chainId": 57073,
+      "address": "0x4200000000000000000000000000000000000006",
+      "name": "Ink Bridged WETH (Ink)",
+      "symbol": "WETH",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/52918/thumb/weth_2.jpg?1734684690"
+    },
+    {
+      "chainId": 57073,
       "address": "0xa802bccd14f7e78e48ffe0c9cf9ad0273c77d4b0",
       "name": "Ink USDT Veda Vault",
       "symbol": "INKEDUSDT",
@@ -72,11 +72,11 @@
     },
     {
       "chainId": 57073,
-      "address": "0x53eb0098d09b8d1008f382bbd2a5d4f649111710",
-      "name": "WATCHDOGS",
-      "symbol": "WATCH",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/67089/thumb/GkveKRgXcAESEPj_%281%29.png?1751702681"
+      "address": "0x0200c29006150606b650577bbe7b6248f58470c1",
+      "name": "USDT0",
+      "symbol": "USDT0",
+      "decimals": 6,
+      "logoURI": "https://assets.coingecko.com/coins/images/53705/thumb/usdt0.jpg?1737086183"
     },
     {
       "chainId": 57073,
@@ -245,11 +245,19 @@
       "symbol": "BRBTC",
       "decimals": 8,
       "logoURI": "https://assets.coingecko.com/coins/images/53039/thumb/brBTC_200.png?1735074374"
+    },
+    {
+      "chainId": 57073,
+      "address": "0x5bcf6b008bf80b9296238546bace1797657b05d6",
+      "name": "Re Protocol reUSD",
+      "symbol": "REUSD",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/66291/thumb/Points_Program_Group_91.png?1749676055"
     }
   ],
   "version": {
     "major": 3,
-    "minor": 14,
+    "minor": 15,
     "patch": 0
   }
 }
