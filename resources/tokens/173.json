@@ -4,7 +4,7 @@
   "keywords": [
     "defi"
   ],
-  "timestamp": "2026-01-16T12:00:00.346+00:00",
+  "timestamp": "2026-01-16T15:00:01.617+00:00",
   "tokens": [
     {
       "chainId": 173,
@@ -16,11 +16,27 @@
     },
     {
       "chainId": 173,
+      "address": "0x20162421c4b9e37ba08da2cffed3b4389121e33b",
+      "name": "Melex",
+      "symbol": "MELEX",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/71622/thumb/melex-logo.jpg?1768566473"
+    },
+    {
+      "chainId": 173,
       "address": "0xdc1a8a35b0baa3229b13f348ed708a2fd50b5e3a",
       "name": "ENI Bridged USDT (ENI)",
       "symbol": "USDT",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/71599/thumb/eni-bridged-usdt-eni.jpg?1768491399"
+    },
+    {
+      "chainId": 173,
+      "address": "0x9045f64eb82559ef9a62694de66446837df9a6b5",
+      "name": "ENIMZ",
+      "symbol": "ENIMZ",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/71621/thumb/enimz-logo.jpg?1768565119"
     },
     {
       "chainId": 173,
@@ -37,11 +53,19 @@
       "symbol": "ENIDOG",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/71601/thumb/enidog-logo.jpg?1768492485"
+    },
+    {
+      "chainId": 173,
+      "address": "0xf124b927777d1d72de87c7c5f4f1287c4809c7db",
+      "name": "MEMEX Token",
+      "symbol": "MMX",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/71620/thumb/mmx-logo.jpg?1768564919"
     }
   ],
   "version": {
     "major": 0,
-    "minor": 2,
+    "minor": 3,
     "patch": 0
   }
 }
