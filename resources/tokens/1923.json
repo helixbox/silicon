@@ -4,8 +4,16 @@
   "keywords": [
     "defi"
   ],
-  "timestamp": "2026-01-17T09:00:50.813+00:00",
+  "timestamp": "2026-01-18T12:00:50.421+00:00",
   "tokens": [
+    {
+      "chainId": 1923,
+      "address": "0x4200000000000000000000000000000000000006",
+      "name": "Layerzero Bridged Wrapped Ether (Swellchain)",
+      "symbol": "WETH",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/54515/thumb/weth_2.jpg?1740119347"
+    },
     {
       "chainId": 1923,
       "address": "0x1cf7b5f266a0f39d6f9408b90340e3e71df8bf7b",
@@ -13,14 +21,6 @@
       "symbol": "SWBTC",
       "decimals": 8,
       "logoURI": "https://assets.coingecko.com/coins/images/53657/thumb/66ff59725979d3c6635ecae5_swBTC.png?1737001044"
-    },
-    {
-      "chainId": 1923,
-      "address": "0x0000baa0b1678229863c0a941c1056b83a1955f5",
-      "name": "Orki USDK",
-      "symbol": "USDK",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/55912/thumb/Orki-Stablecoin-RGB-Blue.png?1747677290"
     },
     {
       "chainId": 1923,
@@ -32,11 +32,11 @@
     },
     {
       "chainId": 1923,
-      "address": "0x4200000000000000000000000000000000000006",
-      "name": "Layerzero Bridged Wrapped Ether (Swellchain)",
-      "symbol": "WETH",
+      "address": "0x0000baa0b1678229863c0a941c1056b83a1955f5",
+      "name": "Orki USDK",
+      "symbol": "USDK",
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/54515/thumb/weth_2.jpg?1740119347"
+      "logoURI": "https://assets.coingecko.com/coins/images/55912/thumb/Orki-Stablecoin-RGB-Blue.png?1747677290"
     },
     {
       "chainId": 1923,
@@ -132,12 +132,12 @@
       "name": "Wild Goat Coin",
       "symbol": "WGC",
       "decimals": 6,
-      "logoURI": "https://assets.coingecko.com/coins/images/37966/thumb/COIN_200x200.png?1716778831"
+      "logoURI": "https://assets.coingecko.com/coins/images/37966/thumb/wgcCoin-256px.png?1768731012"
     }
   ],
   "version": {
     "major": 4,
     "minor": 0,
-    "patch": 0
+    "patch": 1
   }
 }

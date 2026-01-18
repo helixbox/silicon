@@ -4,8 +4,24 @@
   "keywords": [
     "defi"
   ],
-  "timestamp": "2026-01-16T10:01:01.283+00:00",
+  "timestamp": "2026-01-18T11:00:58.687+00:00",
   "tokens": [
+    {
+      "chainId": 534352,
+      "address": "0x95a52ec1d60e74cd3eb002fe54a2c74b185a4c16",
+      "name": "Skydrome",
+      "symbol": "SKY",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/33902/thumb/icon_200x200.png?1703237670"
+    },
+    {
+      "chainId": 534352,
+      "address": "0xd29687c813d741e2f938f4ac377128810e217b1b",
+      "name": "Scroll",
+      "symbol": "SCR",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/50571/thumb/scroll.jpg?1728376125"
+    },
     {
       "chainId": 534352,
       "address": "0xfec65bfb6e5bbcc9ab8ae98f62a8aab2ea51c495",
@@ -16,27 +32,19 @@
     },
     {
       "chainId": 534352,
+      "address": "0xf610a9dfb7c89644979b4a0f27063e9e7d7cda32",
+      "name": "Bridged Wrapped Lido Staked Ether (Scroll)",
+      "symbol": "WSTETH",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/32615/thumb/wsteth.png?1698735772"
+    },
+    {
+      "chainId": 534352,
       "address": "0x750351a9f75f98f2c2e91d4edb3beb14e719557e",
       "name": "Scribes",
       "symbol": "SCRIBES",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/38185/thumb/scribes.png?1716788481"
-    },
-    {
-      "chainId": 534352,
-      "address": "0xcb14bcdf6cd483665d10dfd6f87d908996c7f922",
-      "name": "sUSX",
-      "symbol": "SUSX",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/71611/thumb/Frame_1171274144_%281%29.png?1768548299"
-    },
-    {
-      "chainId": 534352,
-      "address": "0xd29687c813d741e2f938f4ac377128810e217b1b",
-      "name": "Scroll",
-      "symbol": "SCR",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/50571/thumb/scroll.jpg?1728376125"
     },
     {
       "chainId": 534352,
@@ -72,14 +80,6 @@
     },
     {
       "chainId": 534352,
-      "address": "0xf55bec9cafdbe8730f096aa55dad6d22d44099df",
-      "name": "Scroll Bridged USDT (Scroll)",
-      "symbol": "USDT",
-      "decimals": 6,
-      "logoURI": "https://assets.coingecko.com/coins/images/32610/thumb/usdt_%281%29.png?1698733524"
-    },
-    {
-      "chainId": 534352,
       "address": "0xdd6a49995ad38fe7409b5d5cb5539261bd1bc901",
       "name": "Danjuan Scroll Cat",
       "symbol": "CAT",
@@ -88,11 +88,11 @@
     },
     {
       "chainId": 534352,
-      "address": "0xf610a9dfb7c89644979b4a0f27063e9e7d7cda32",
-      "name": "Bridged Wrapped Lido Staked Ether (Scroll)",
-      "symbol": "WSTETH",
+      "address": "0xcb14bcdf6cd483665d10dfd6f87d908996c7f922",
+      "name": "sUSX",
+      "symbol": "SUSX",
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/32615/thumb/wsteth.png?1698735772"
+      "logoURI": "https://assets.coingecko.com/coins/images/71611/thumb/Frame_1171274144_%281%29.png?1768548299"
     },
     {
       "chainId": 534352,
@@ -112,27 +112,11 @@
     },
     {
       "chainId": 534352,
-      "address": "0x95a52ec1d60e74cd3eb002fe54a2c74b185a4c16",
-      "name": "Skydrome",
-      "symbol": "SKY",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/33902/thumb/icon_200x200.png?1703237670"
-    },
-    {
-      "chainId": 534352,
       "address": "0x65421ba909200b81640d98b979d07487c9781b66",
       "name": "KelpDAO Bridged rsETH (Scroll)",
       "symbol": "RSETH",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/39545/thumb/rseth.png?1722849918"
-    },
-    {
-      "chainId": 534352,
-      "address": "0x3b005fefc63ca7c8d25ee21fba3787229ba4cf03",
-      "name": "USX",
-      "symbol": "USX",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/71020/thumb/usx.png?1765270693"
     },
     {
       "chainId": 534352,
@@ -149,6 +133,22 @@
       "symbol": "USDC",
       "decimals": 6,
       "logoURI": "https://assets.coingecko.com/coins/images/32611/thumb/USDC.png?1698733754"
+    },
+    {
+      "chainId": 534352,
+      "address": "0xf55bec9cafdbe8730f096aa55dad6d22d44099df",
+      "name": "Scroll Bridged USDT (Scroll)",
+      "symbol": "USDT",
+      "decimals": 6,
+      "logoURI": "https://assets.coingecko.com/coins/images/32610/thumb/usdt_%281%29.png?1698733524"
+    },
+    {
+      "chainId": 534352,
+      "address": "0x3b005fefc63ca7c8d25ee21fba3787229ba4cf03",
+      "name": "USX",
+      "symbol": "USX",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/71020/thumb/usx.png?1765270693"
     },
     {
       "chainId": 534352,
@@ -380,7 +380,7 @@
       "name": "Wild Goat Coin",
       "symbol": "WGC",
       "decimals": 6,
-      "logoURI": "https://assets.coingecko.com/coins/images/37966/thumb/COIN_200x200.png?1716778831"
+      "logoURI": "https://assets.coingecko.com/coins/images/37966/thumb/wgcCoin-256px.png?1768731012"
     },
     {
       "chainId": 534352,
@@ -394,6 +394,6 @@
   "version": {
     "major": 15,
     "minor": 0,
-    "patch": 0
+    "patch": 1
   }
 }

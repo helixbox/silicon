@@ -4,7 +4,7 @@
   "keywords": [
     "defi"
   ],
-  "timestamp": "2026-01-13T17:00:44.484+00:00",
+  "timestamp": "2026-01-18T11:00:42.455+00:00",
   "tokens": [
     {
       "chainId": 57073,
@@ -24,19 +24,19 @@
     },
     {
       "chainId": 57073,
-      "address": "0x0606fc632ee812ba970af72f8489baaa443c4b98",
-      "name": "ANITA",
-      "symbol": "ANITA",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/68173/thumb/_L_L.png?1754996486"
-    },
-    {
-      "chainId": 57073,
       "address": "0xca5f2ccbd9c40b32657df57c716de44237f80f05",
       "name": "Kraken",
       "symbol": "KRAKEN",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/52919/thumb/kraken.jpg?1734685461"
+    },
+    {
+      "chainId": 57073,
+      "address": "0x4200000000000000000000000000000000000006",
+      "name": "Ink Bridged WETH (Ink)",
+      "symbol": "WETH",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/52918/thumb/weth_2.jpg?1734684690"
     },
     {
       "chainId": 57073,
@@ -48,19 +48,19 @@
     },
     {
       "chainId": 57073,
+      "address": "0x0606fc632ee812ba970af72f8489baaa443c4b98",
+      "name": "ANITA",
+      "symbol": "ANITA",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/68173/thumb/_L_L.png?1754996486"
+    },
+    {
+      "chainId": 57073,
       "address": "0x20c69c12abf2b6f8d8ca33604dd25c700c7e70a5",
       "name": "Cat Call Agent",
       "symbol": "CAT",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/54745/thumb/DV_dS5E9_400x400_%282%29.png?1741326959"
-    },
-    {
-      "chainId": 57073,
-      "address": "0x4200000000000000000000000000000000000006",
-      "name": "Ink Bridged WETH (Ink)",
-      "symbol": "WETH",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/52918/thumb/weth_2.jpg?1734684690"
     },
     {
       "chainId": 57073,
@@ -228,7 +228,7 @@
       "name": "Wild Goat Coin",
       "symbol": "WGC",
       "decimals": 6,
-      "logoURI": "https://assets.coingecko.com/coins/images/37966/thumb/COIN_200x200.png?1716778831"
+      "logoURI": "https://assets.coingecko.com/coins/images/37966/thumb/wgcCoin-256px.png?1768731012"
     },
     {
       "chainId": 57073,
@@ -258,6 +258,6 @@
   "version": {
     "major": 3,
     "minor": 15,
-    "patch": 0
+    "patch": 1
   }
 }

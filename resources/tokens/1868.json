@@ -4,48 +4,8 @@
   "keywords": [
     "defi"
   ],
-  "timestamp": "2025-12-28T09:00:20.839+00:00",
+  "timestamp": "2026-01-18T12:00:21.286+00:00",
   "tokens": [
-    {
-      "chainId": 1868,
-      "address": "0x2cae934a1e84f693fbb78ca5ed3b0a6893259441",
-      "name": "Soneium Bridged ASTR (Soneium)",
-      "symbol": "ASTR",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/53778/thumb/astar.jpg?1737341226"
-    },
-    {
-      "chainId": 1868,
-      "address": "0x9317841c2e9f6bcb44119c184152cfb1ef79034a",
-      "name": "Lootcoin",
-      "symbol": "LOOT",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/71197/thumb/lootcoin-logo.jpg?1766302463"
-    },
-    {
-      "chainId": 1868,
-      "address": "0x60336f9296c79da4294a19153ec87f8e52158e5f",
-      "name": "Bifrost Voucher ASTR",
-      "symbol": "VASTR",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/34706/thumb/vASTR.png?1705893008"
-    },
-    {
-      "chainId": 1868,
-      "address": "0xf24e57b1cb00d98c31f04f86328e22e8fca457fb",
-      "name": "SONE",
-      "symbol": "SONE",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/53814/thumb/20250116-173015.png?1737432919"
-    },
-    {
-      "chainId": 1868,
-      "address": "0x3f99231dd03a9f0e7e3421c92b7b90fbe012985a",
-      "name": "Startale USD",
-      "symbol": "USDSC",
-      "decimals": 6,
-      "logoURI": "https://assets.coingecko.com/coins/images/70883/thumb/stataleusd_2x.png?1764684119"
-    },
     {
       "chainId": 1868,
       "address": "0xba9986d2381edf1da03b0b9c1f8b00dc4aacc369",
@@ -64,11 +24,51 @@
     },
     {
       "chainId": 1868,
+      "address": "0x2cae934a1e84f693fbb78ca5ed3b0a6893259441",
+      "name": "Soneium Bridged ASTR (Soneium)",
+      "symbol": "ASTR",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/53778/thumb/astar.jpg?1737341226"
+    },
+    {
+      "chainId": 1868,
       "address": "0x3b0dc2dac9498a024003609031d973b1171de09e",
       "name": "Wrapped stASTR",
       "symbol": "WSTASTR",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/54782/thumb/wstASTR.png?1741570094"
+    },
+    {
+      "chainId": 1868,
+      "address": "0x60336f9296c79da4294a19153ec87f8e52158e5f",
+      "name": "Bifrost Voucher ASTR",
+      "symbol": "VASTR",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/34706/thumb/vASTR.png?1705893008"
+    },
+    {
+      "chainId": 1868,
+      "address": "0x3f99231dd03a9f0e7e3421c92b7b90fbe012985a",
+      "name": "Startale USD",
+      "symbol": "USDSC",
+      "decimals": 6,
+      "logoURI": "https://assets.coingecko.com/coins/images/70883/thumb/stataleusd_2x.png?1764684119"
+    },
+    {
+      "chainId": 1868,
+      "address": "0xf24e57b1cb00d98c31f04f86328e22e8fca457fb",
+      "name": "SONE",
+      "symbol": "SONE",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/53814/thumb/20250116-173015.png?1737432919"
+    },
+    {
+      "chainId": 1868,
+      "address": "0x9317841c2e9f6bcb44119c184152cfb1ef79034a",
+      "name": "Lootcoin",
+      "symbol": "LOOT",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/71197/thumb/lootcoin-logo.jpg?1766302463"
     },
     {
       "chainId": 1868,
@@ -252,12 +252,12 @@
       "name": "Wild Goat Coin",
       "symbol": "WGC",
       "decimals": 6,
-      "logoURI": "https://assets.coingecko.com/coins/images/37966/thumb/COIN_200x200.png?1716778831"
+      "logoURI": "https://assets.coingecko.com/coins/images/37966/thumb/wgcCoin-256px.png?1768731012"
     }
   ],
   "version": {
     "major": 2,
     "minor": 4,
-    "patch": 0
+    "patch": 1
   }
 }

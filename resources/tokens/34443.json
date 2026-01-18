@@ -4,16 +4,8 @@
   "keywords": [
     "defi"
   ],
-  "timestamp": "2026-01-13T11:00:14.387+00:00",
+  "timestamp": "2026-01-18T11:00:14.594+00:00",
   "tokens": [
-    {
-      "chainId": 34443,
-      "address": "0x18470019bf0e94611f15852f7e93cf5d65bc34ca",
-      "name": "Ionic Protocol",
-      "symbol": "ION",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/36713/thumb/Ionic-icon-green.png?1712127547"
-    },
     {
       "chainId": 34443,
       "address": "0xd988097fb8612cc24eec14542bc03424c656005f",
@@ -21,14 +13,6 @@
       "symbol": "USDC",
       "decimals": 6,
       "logoURI": "https://assets.coingecko.com/coins/images/35809/thumb/usdc_%281%29.png?1709867043"
-    },
-    {
-      "chainId": 34443,
-      "address": "0xdfc7c877a950e49d2610114102175a06c2e3167a",
-      "name": "Mode",
-      "symbol": "MODE",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/34979/thumb/MODE.jpg?1714561871"
     },
     {
       "chainId": 34443,
@@ -40,11 +24,19 @@
     },
     {
       "chainId": 34443,
-      "address": "0x4200000000000000000000000000000000000006",
-      "name": "L2 Standard Bridged WETH (Mode)",
-      "symbol": "WETH",
+      "address": "0xdfc7c877a950e49d2610114102175a06c2e3167a",
+      "name": "Mode",
+      "symbol": "MODE",
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/39726/thumb/weth.png?1723757432"
+      "logoURI": "https://assets.coingecko.com/coins/images/34979/thumb/MODE.jpg?1714561871"
+    },
+    {
+      "chainId": 34443,
+      "address": "0x18470019bf0e94611f15852f7e93cf5d65bc34ca",
+      "name": "Ionic Protocol",
+      "symbol": "ION",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/36713/thumb/Ionic-icon-green.png?1712127547"
     },
     {
       "chainId": 34443,
@@ -69,6 +61,14 @@
       "symbol": "KIM",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/37504/thumb/kim.jpg?1714579040"
+    },
+    {
+      "chainId": 34443,
+      "address": "0x4200000000000000000000000000000000000006",
+      "name": "L2 Standard Bridged WETH (Mode)",
+      "symbol": "WETH",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/39726/thumb/weth.png?1723757432"
     },
     {
       "chainId": 34443,
@@ -292,7 +292,7 @@
       "name": "Wild Goat Coin",
       "symbol": "WGC",
       "decimals": 6,
-      "logoURI": "https://assets.coingecko.com/coins/images/37966/thumb/COIN_200x200.png?1716778831"
+      "logoURI": "https://assets.coingecko.com/coins/images/37966/thumb/wgcCoin-256px.png?1768731012"
     },
     {
       "chainId": 34443,
@@ -306,6 +306,6 @@
   "version": {
     "major": 10,
     "minor": 0,
-    "patch": 0
+    "patch": 1
   }
 }
