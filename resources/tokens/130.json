@@ -4,16 +4,8 @@
   "keywords": [
     "defi"
   ],
-  "timestamp": "2026-01-18T11:00:28.355+00:00",
+  "timestamp": "2026-01-19T07:00:29.588+00:00",
   "tokens": [
-    {
-      "chainId": 130,
-      "address": "0x927b51f251480a681271180da4de28d44ec4afb8",
-      "name": "Unichain Bridged WBTC (Unichain)",
-      "symbol": "WBTC",
-      "decimals": 8,
-      "logoURI": "https://assets.coingecko.com/coins/images/66722/thumb/wbtc.jpg?1750315958"
-    },
     {
       "chainId": 130,
       "address": "0x926dc7b96bb2f4a91c2a67e291faf482691a3001",
@@ -29,6 +21,14 @@
       "symbol": "USDT",
       "decimals": 6,
       "logoURI": "https://assets.coingecko.com/coins/images/66726/thumb/usdt.jpg?1750318933"
+    },
+    {
+      "chainId": 130,
+      "address": "0x927b51f251480a681271180da4de28d44ec4afb8",
+      "name": "Unichain Bridged WBTC (Unichain)",
+      "symbol": "WBTC",
+      "decimals": 8,
+      "logoURI": "https://assets.coingecko.com/coins/images/66722/thumb/wbtc.jpg?1750315958"
     },
     {
       "chainId": 130,
@@ -48,19 +48,19 @@
     },
     {
       "chainId": 130,
-      "address": "0xabe69c550ea6ec22bed4b92614511c4f31bb0f64",
-      "name": "Abe",
-      "symbol": "ABE",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/68514/thumb/logo_circle_200.png?1756440524"
-    },
-    {
-      "chainId": 130,
       "address": "0x756ee6857f915a2b5366f2ef56d8d13857aef8ad",
       "name": "Catex",
       "symbol": "CATX",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/67331/thumb/Catex_logo_Coinbgecko.png?1752402945"
+    },
+    {
+      "chainId": 130,
+      "address": "0xabe69c550ea6ec22bed4b92614511c4f31bb0f64",
+      "name": "Abe",
+      "symbol": "ABE",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/68514/thumb/logo_circle_200.png?1756440524"
     },
     {
       "chainId": 130,
@@ -300,7 +300,7 @@
       "name": "Wild Goat Coin",
       "symbol": "WGC",
       "decimals": 6,
-      "logoURI": "https://assets.coingecko.com/coins/images/37966/thumb/wgcCoin-256px.png?1768731012"
+      "logoURI": "https://assets.coingecko.com/coins/images/37966/thumb/wgcCoin-256px.png?1768798052"
     },
     {
       "chainId": 130,
@@ -314,6 +314,6 @@
   "version": {
     "major": 3,
     "minor": 3,
-    "patch": 1
+    "patch": 2
   }
 }

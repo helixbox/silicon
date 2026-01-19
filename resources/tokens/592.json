@@ -4,16 +4,8 @@
   "keywords": [
     "defi"
   ],
-  "timestamp": "2025-10-09T17:00:22.581+00:00",
+  "timestamp": "2026-01-19T10:00:22.053+00:00",
   "tokens": [
-    {
-      "chainId": 592,
-      "address": "0x733ebcc6df85f8266349defd0980f8ced9b45f35",
-      "name": "BAI Stablecoin",
-      "symbol": "BAI",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/25385/thumb/BAI_Token_Logo.png?1696524518"
-    },
     {
       "chainId": 592,
       "address": "0x6a2d262d56735dba19dd70682b39f6be9a931d98",
@@ -21,22 +13,6 @@
       "symbol": "USDC",
       "decimals": 6,
       "logoURI": "https://assets.coingecko.com/coins/images/35321/thumb/USDC.jpg?1708177478"
-    },
-    {
-      "chainId": 592,
-      "address": "0x81ecac0d6be0550a00ff064a4f9dd2400585fe9c",
-      "name": "Celer Bridged WETH (Astar)",
-      "symbol": "WETH",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/39691/thumb/weth.png?1723670097"
-    },
-    {
-      "chainId": 592,
-      "address": "0xad543f18cff85c77e140e3e5e3c3392f6ba9d5ca",
-      "name": "Bridged WBTC",
-      "symbol": "WBTC",
-      "decimals": 8,
-      "logoURI": "https://assets.coingecko.com/coins/images/39574/thumb/wbtc.png?1722994041"
     },
     {
       "chainId": 592,
@@ -56,14 +32,6 @@
     },
     {
       "chainId": 592,
-      "address": "0xffffffffffffffffffffffffffffffffffffffff",
-      "name": "WDOT",
-      "symbol": "WDOT",
-      "decimals": 10,
-      "logoURI": "https://assets.coingecko.com/coins/images/26650/thumb/polkadot.png?1696525722"
-    },
-    {
-      "chainId": 592,
       "address": "0xaeaaf0e2c81af264101b9129c00f4440ccf0f720",
       "name": "Wrapped ASTR",
       "symbol": "WASTR",
@@ -72,19 +40,43 @@
     },
     {
       "chainId": 592,
-      "address": "0xde2578edec4669ba7f41c5d5d2386300bcea4678",
-      "name": "ArthSwap",
-      "symbol": "ARSW",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/26048/thumb/arsw.png?1696525133"
-    },
-    {
-      "chainId": 592,
       "address": "0xe511ed88575c57767bafb72bfd10775413e3f2b0",
       "name": "Liquid ASTR",
       "symbol": "NASTR",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/28481/thumb/Rectangle_152.png?1696527474"
+    },
+    {
+      "chainId": 592,
+      "address": "0x733ebcc6df85f8266349defd0980f8ced9b45f35",
+      "name": "BAI Stablecoin",
+      "symbol": "BAI",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/25385/thumb/BAI_Token_Logo.png?1696524518"
+    },
+    {
+      "chainId": 592,
+      "address": "0xffffffffffffffffffffffffffffffffffffffff",
+      "name": "WDOT",
+      "symbol": "WDOT",
+      "decimals": 10,
+      "logoURI": "https://assets.coingecko.com/coins/images/26650/thumb/polkadot.png?1696525722"
+    },
+    {
+      "chainId": 592,
+      "address": "0x81ecac0d6be0550a00ff064a4f9dd2400585fe9c",
+      "name": "Celer Bridged WETH (Astar)",
+      "symbol": "WETH",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/39691/thumb/weth.png?1723670097"
+    },
+    {
+      "chainId": 592,
+      "address": "0xad543f18cff85c77e140e3e5e3c3392f6ba9d5ca",
+      "name": "Bridged WBTC",
+      "symbol": "WBTC",
+      "decimals": 8,
+      "logoURI": "https://assets.coingecko.com/coins/images/39574/thumb/wbtc.png?1722994041"
     },
     {
       "chainId": 592,
@@ -151,8 +143,8 @@
     }
   ],
   "version": {
-    "major": 4,
-    "minor": 1,
-    "patch": 2
+    "major": 5,
+    "minor": 0,
+    "patch": 0
   }
 }

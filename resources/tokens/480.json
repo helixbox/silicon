@@ -4,7 +4,7 @@
   "keywords": [
     "defi"
   ],
-  "timestamp": "2026-01-18T12:00:21.283+00:00",
+  "timestamp": "2026-01-19T07:00:22.093+00:00",
   "tokens": [
     {
       "chainId": 480,
@@ -13,14 +13,6 @@
       "symbol": "DNA",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/54349/thumb/DNA_Logo_200-200.png?1755931235"
-    },
-    {
-      "chainId": 480,
-      "address": "0x61d450a098b6a7f69fc4b98ce68198fe59768651",
-      "name": "Chilean Peso",
-      "symbol": "WCLP",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/70976/thumb/wclp_logo_1.png?1764954870"
     },
     {
       "chainId": 480,
@@ -40,6 +32,14 @@
     },
     {
       "chainId": 480,
+      "address": "0x03c7054bcb39f7b2e5b2c7acb37583e32d70cfa3",
+      "name": "Bridged Wrapped Bitcoin (Worldchain)",
+      "symbol": "WBTC",
+      "decimals": 8,
+      "logoURI": "https://assets.coingecko.com/coins/images/51159/thumb/wbtc_28.png?1730242311"
+    },
+    {
+      "chainId": 480,
       "address": "0x7047b80cb47527e864029d3cfe1899534dc15402",
       "name": "Bowser",
       "symbol": "BOWSER",
@@ -56,22 +56,6 @@
     },
     {
       "chainId": 480,
-      "address": "0xcd1e32b86953d79a6ac58e813d2ea7a1790cab63",
-      "name": "ORO",
-      "symbol": "ORO",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/70441/thumb/oro.png?1762076294"
-    },
-    {
-      "chainId": 480,
-      "address": "0x03c7054bcb39f7b2e5b2c7acb37583e32d70cfa3",
-      "name": "Bridged Wrapped Bitcoin (Worldchain)",
-      "symbol": "WBTC",
-      "decimals": 8,
-      "logoURI": "https://assets.coingecko.com/coins/images/51159/thumb/wbtc_28.png?1730242311"
-    },
-    {
-      "chainId": 480,
       "address": "0x4f34c8b3b5fb6d98da888f0fea543d4d9c9f2ebe",
       "name": "Peruvian Sol",
       "symbol": "WPEN",
@@ -85,6 +69,22 @@
       "symbol": "WORLDCAT",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/67236/thumb/worldcat-logo.jpg?1752144407"
+    },
+    {
+      "chainId": 480,
+      "address": "0x61d450a098b6a7f69fc4b98ce68198fe59768651",
+      "name": "Chilean Peso",
+      "symbol": "WCLP",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/70976/thumb/wclp_logo_1.png?1764954870"
+    },
+    {
+      "chainId": 480,
+      "address": "0xcd1e32b86953d79a6ac58e813d2ea7a1790cab63",
+      "name": "ORO",
+      "symbol": "ORO",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/70441/thumb/oro.png?1762076294"
     },
     {
       "chainId": 480,
@@ -228,12 +228,12 @@
       "name": "Wild Goat Coin",
       "symbol": "WGC",
       "decimals": 6,
-      "logoURI": "https://assets.coingecko.com/coins/images/37966/thumb/wgcCoin-256px.png?1768731012"
+      "logoURI": "https://assets.coingecko.com/coins/images/37966/thumb/wgcCoin-256px.png?1768798052"
     }
   ],
   "version": {
     "major": 1,
     "minor": 13,
-    "patch": 1
+    "patch": 2
   }
 }

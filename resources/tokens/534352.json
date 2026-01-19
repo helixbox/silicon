@@ -4,8 +4,24 @@
   "keywords": [
     "defi"
   ],
-  "timestamp": "2026-01-18T11:00:58.687+00:00",
+  "timestamp": "2026-01-19T06:00:58.210+00:00",
   "tokens": [
+    {
+      "chainId": 534352,
+      "address": "0x3c1bca5a656e69edcd0d4e36bebb3fcdaca60cf1",
+      "name": "Bridged Wrapped Bitcoin (Scroll)",
+      "symbol": "WBTC",
+      "decimals": 8,
+      "logoURI": "https://assets.coingecko.com/coins/images/32614/thumb/wrapped_bitcoin_wbtc.png?1698735124"
+    },
+    {
+      "chainId": 534352,
+      "address": "0xcb14bcdf6cd483665d10dfd6f87d908996c7f922",
+      "name": "sUSX",
+      "symbol": "SUSX",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/71611/thumb/Frame_1171274144_%281%29.png?1768548299"
+    },
     {
       "chainId": 534352,
       "address": "0x95a52ec1d60e74cd3eb002fe54a2c74b185a4c16",
@@ -13,14 +29,6 @@
       "symbol": "SKY",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/33902/thumb/icon_200x200.png?1703237670"
-    },
-    {
-      "chainId": 534352,
-      "address": "0xd29687c813d741e2f938f4ac377128810e217b1b",
-      "name": "Scroll",
-      "symbol": "SCR",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/50571/thumb/scroll.jpg?1728376125"
     },
     {
       "chainId": 534352,
@@ -72,14 +80,6 @@
     },
     {
       "chainId": 534352,
-      "address": "0x3c1bca5a656e69edcd0d4e36bebb3fcdaca60cf1",
-      "name": "Bridged Wrapped Bitcoin (Scroll)",
-      "symbol": "WBTC",
-      "decimals": 8,
-      "logoURI": "https://assets.coingecko.com/coins/images/32614/thumb/wrapped_bitcoin_wbtc.png?1698735124"
-    },
-    {
-      "chainId": 534352,
       "address": "0xdd6a49995ad38fe7409b5d5cb5539261bd1bc901",
       "name": "Danjuan Scroll Cat",
       "symbol": "CAT",
@@ -88,11 +88,11 @@
     },
     {
       "chainId": 534352,
-      "address": "0xcb14bcdf6cd483665d10dfd6f87d908996c7f922",
-      "name": "sUSX",
-      "symbol": "SUSX",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/71611/thumb/Frame_1171274144_%281%29.png?1768548299"
+      "address": "0xf55bec9cafdbe8730f096aa55dad6d22d44099df",
+      "name": "Scroll Bridged USDT (Scroll)",
+      "symbol": "USDT",
+      "decimals": 6,
+      "logoURI": "https://assets.coingecko.com/coins/images/32610/thumb/usdt_%281%29.png?1698733524"
     },
     {
       "chainId": 534352,
@@ -101,14 +101,6 @@
       "symbol": "PAPYRUS",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/32479/thumb/PapyrusLogo.png?1698286849"
-    },
-    {
-      "chainId": 534352,
-      "address": "0x330c43d22bd65a60ffea93a197f04e87faa27b70",
-      "name": "abcNURI",
-      "symbol": "ABCNURI",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/40074/thumb/abcNURI.png?1725511281"
     },
     {
       "chainId": 534352,
@@ -128,19 +120,27 @@
     },
     {
       "chainId": 534352,
+      "address": "0x330c43d22bd65a60ffea93a197f04e87faa27b70",
+      "name": "abcNURI",
+      "symbol": "ABCNURI",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/40074/thumb/abcNURI.png?1725511281"
+    },
+    {
+      "chainId": 534352,
+      "address": "0xd29687c813d741e2f938f4ac377128810e217b1b",
+      "name": "Scroll",
+      "symbol": "SCR",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/50571/thumb/scroll.jpg?1728376125"
+    },
+    {
+      "chainId": 534352,
       "address": "0x06efdbff2a14a7c8e15944d1f4a48f9f95f663a4",
       "name": "Bridged USD Coin (Scroll)",
       "symbol": "USDC",
       "decimals": 6,
       "logoURI": "https://assets.coingecko.com/coins/images/32611/thumb/USDC.png?1698733754"
-    },
-    {
-      "chainId": 534352,
-      "address": "0xf55bec9cafdbe8730f096aa55dad6d22d44099df",
-      "name": "Scroll Bridged USDT (Scroll)",
-      "symbol": "USDT",
-      "decimals": 6,
-      "logoURI": "https://assets.coingecko.com/coins/images/32610/thumb/usdt_%281%29.png?1698733524"
     },
     {
       "chainId": 534352,
@@ -380,7 +380,7 @@
       "name": "Wild Goat Coin",
       "symbol": "WGC",
       "decimals": 6,
-      "logoURI": "https://assets.coingecko.com/coins/images/37966/thumb/wgcCoin-256px.png?1768731012"
+      "logoURI": "https://assets.coingecko.com/coins/images/37966/thumb/wgcCoin-256px.png?1768798052"
     },
     {
       "chainId": 534352,
@@ -394,6 +394,6 @@
   "version": {
     "major": 15,
     "minor": 0,
-    "patch": 1
+    "patch": 2
   }
 }

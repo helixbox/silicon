@@ -4,8 +4,16 @@
   "keywords": [
     "defi"
   ],
-  "timestamp": "2026-01-18T11:00:03.807+00:00",
+  "timestamp": "2026-01-19T05:00:04.833+00:00",
   "tokens": [
+    {
+      "chainId": 9745,
+      "address": "0xe0126f0c4451b2b917064a93040fd4770d6774b5",
+      "name": "Wrapped Aave Plasma USDT0",
+      "symbol": "WAPLAUSDT0",
+      "decimals": 6,
+      "logoURI": "https://assets.coingecko.com/coins/images/69597/thumb/waplasusdt0.png?1759197676"
+    },
     {
       "chainId": 9745,
       "address": "0x616185600989bf8339b58ac9e539d49536598343",
@@ -24,19 +32,27 @@
     },
     {
       "chainId": 9745,
-      "address": "0x6100e367285b01f48d07953803a2d8dca5d19873",
-      "name": "Wrapped XPL",
-      "symbol": "WXPL",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/69509/thumb/plasma.png?1758805469"
-    },
-    {
-      "chainId": 9745,
       "address": "0x6695c0f8706c5ace3bdf8995073179cca47926dc",
       "name": "Yuzu USD",
       "symbol": "YZUSD",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/70558/thumb/yzusd.png?1762518733"
+    },
+    {
+      "chainId": 9745,
+      "address": "0xc63f1a8c0cd4493e18f6f3371182be01ce0bef02",
+      "name": "Wrapped Aave Plasma USDe",
+      "symbol": "WAPLAUSDE",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/69605/thumb/waplausde.png?1759216970"
+    },
+    {
+      "chainId": 9745,
+      "address": "0xf91c31299e998c5127bc5f11e4a657fc0cf358cd",
+      "name": "Trevee Plasma USD",
+      "symbol": "PLUSD",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/70358/thumb/plUSD.png?1761654752"
     },
     {
       "chainId": 9745,
@@ -72,22 +88,6 @@
     },
     {
       "chainId": 9745,
-      "address": "0xf91c31299e998c5127bc5f11e4a657fc0cf358cd",
-      "name": "Trevee Plasma USD",
-      "symbol": "PLUSD",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/70358/thumb/plUSD.png?1761654752"
-    },
-    {
-      "chainId": 9745,
-      "address": "0xc63f1a8c0cd4493e18f6f3371182be01ce0bef02",
-      "name": "Wrapped Aave Plasma USDe",
-      "symbol": "WAPLAUSDE",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/69605/thumb/waplausde.png?1759216970"
-    },
-    {
-      "chainId": 9745,
       "address": "0xc8a8df9b210243c55d31c73090f06787ad0a1bf6",
       "name": "Staked Yuzu USD",
       "symbol": "SYZUSD",
@@ -120,19 +120,19 @@
     },
     {
       "chainId": 9745,
+      "address": "0x6100e367285b01f48d07953803a2d8dca5d19873",
+      "name": "Wrapped XPL",
+      "symbol": "WXPL",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/69509/thumb/plasma.png?1758805469"
+    },
+    {
+      "chainId": 9745,
       "address": "0x9c46ee1f01d2b551048f5ff99a4659d98d04bed1",
       "name": "TelosC USDT0 Euler Vault",
       "symbol": "246USDT0",
       "decimals": 6,
       "logoURI": "https://assets.coingecko.com/coins/images/70920/thumb/246usdt0.jpeg?1764576880"
-    },
-    {
-      "chainId": 9745,
-      "address": "0xe0126f0c4451b2b917064a93040fd4770d6774b5",
-      "name": "Wrapped Aave Plasma USDT0",
-      "symbol": "WAPLAUSDT0",
-      "decimals": 6,
-      "logoURI": "https://assets.coingecko.com/coins/images/69597/thumb/waplasusdt0.png?1759197676"
     },
     {
       "chainId": 9745,
@@ -308,7 +308,7 @@
       "name": "Wild Goat Coin",
       "symbol": "WGC",
       "decimals": 6,
-      "logoURI": "https://assets.coingecko.com/coins/images/37966/thumb/wgcCoin-256px.png?1768731012"
+      "logoURI": "https://assets.coingecko.com/coins/images/37966/thumb/wgcCoin-256px.png?1768798052"
     },
     {
       "chainId": 9745,
@@ -338,6 +338,6 @@
   "version": {
     "major": 0,
     "minor": 24,
-    "patch": 1
+    "patch": 2
   }
 }

@@ -4,16 +4,8 @@
   "keywords": [
     "defi"
   ],
-  "timestamp": "2026-01-18T12:00:21.286+00:00",
+  "timestamp": "2026-01-19T07:00:22.655+00:00",
   "tokens": [
-    {
-      "chainId": 1868,
-      "address": "0xba9986d2381edf1da03b0b9c1f8b00dc4aacc369",
-      "name": "Soneium Bridged USDC (Soneium)",
-      "symbol": "USDC.E",
-      "decimals": 6,
-      "logoURI": "https://assets.coingecko.com/coins/images/53776/thumb/usdc.jpg?1737340150"
-    },
     {
       "chainId": 1868,
       "address": "0x3a337a6ada9d885b6ad95ec48f9b75f197b5ae35",
@@ -21,22 +13,6 @@
       "symbol": "USDT",
       "decimals": 6,
       "logoURI": "https://assets.coingecko.com/coins/images/53779/thumb/usdt.jpg?1737341724"
-    },
-    {
-      "chainId": 1868,
-      "address": "0x2cae934a1e84f693fbb78ca5ed3b0a6893259441",
-      "name": "Soneium Bridged ASTR (Soneium)",
-      "symbol": "ASTR",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/53778/thumb/astar.jpg?1737341226"
-    },
-    {
-      "chainId": 1868,
-      "address": "0x3b0dc2dac9498a024003609031d973b1171de09e",
-      "name": "Wrapped stASTR",
-      "symbol": "WSTASTR",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/54782/thumb/wstASTR.png?1741570094"
     },
     {
       "chainId": 1868,
@@ -48,11 +24,19 @@
     },
     {
       "chainId": 1868,
-      "address": "0x3f99231dd03a9f0e7e3421c92b7b90fbe012985a",
-      "name": "Startale USD",
-      "symbol": "USDSC",
-      "decimals": 6,
-      "logoURI": "https://assets.coingecko.com/coins/images/70883/thumb/stataleusd_2x.png?1764684119"
+      "address": "0x3b0dc2dac9498a024003609031d973b1171de09e",
+      "name": "Wrapped stASTR",
+      "symbol": "WSTASTR",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/54782/thumb/wstASTR.png?1741570094"
+    },
+    {
+      "chainId": 1868,
+      "address": "0x2cae934a1e84f693fbb78ca5ed3b0a6893259441",
+      "name": "Soneium Bridged ASTR (Soneium)",
+      "symbol": "ASTR",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/53778/thumb/astar.jpg?1737341226"
     },
     {
       "chainId": 1868,
@@ -61,6 +45,14 @@
       "symbol": "SONE",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/53814/thumb/20250116-173015.png?1737432919"
+    },
+    {
+      "chainId": 1868,
+      "address": "0x3f99231dd03a9f0e7e3421c92b7b90fbe012985a",
+      "name": "Startale USD",
+      "symbol": "USDSC",
+      "decimals": 6,
+      "logoURI": "https://assets.coingecko.com/coins/images/70883/thumb/stataleusd_2x.png?1764684119"
     },
     {
       "chainId": 1868,
@@ -77,6 +69,14 @@
       "symbol": "HAHA",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/36245/thumb/HAHA_Logo.png?1710921482"
+    },
+    {
+      "chainId": 1868,
+      "address": "0xba9986d2381edf1da03b0b9c1f8b00dc4aacc369",
+      "name": "Soneium Bridged USDC (Soneium)",
+      "symbol": "USDC.E",
+      "decimals": 6,
+      "logoURI": "https://assets.coingecko.com/coins/images/53776/thumb/usdc.jpg?1737340150"
     },
     {
       "chainId": 1868,
@@ -252,12 +252,12 @@
       "name": "Wild Goat Coin",
       "symbol": "WGC",
       "decimals": 6,
-      "logoURI": "https://assets.coingecko.com/coins/images/37966/thumb/wgcCoin-256px.png?1768731012"
+      "logoURI": "https://assets.coingecko.com/coins/images/37966/thumb/wgcCoin-256px.png?1768798052"
     }
   ],
   "version": {
     "major": 2,
     "minor": 4,
-    "patch": 1
+    "patch": 2
   }
 }
