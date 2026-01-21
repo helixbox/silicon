@@ -4,31 +4,15 @@
   "keywords": [
     "defi"
   ],
-  "timestamp": "2026-01-19T06:00:58.210+00:00",
+  "timestamp": "2026-01-21T10:00:53.832+00:00",
   "tokens": [
     {
       "chainId": 534352,
-      "address": "0x3c1bca5a656e69edcd0d4e36bebb3fcdaca60cf1",
-      "name": "Bridged Wrapped Bitcoin (Scroll)",
-      "symbol": "WBTC",
-      "decimals": 8,
-      "logoURI": "https://assets.coingecko.com/coins/images/32614/thumb/wrapped_bitcoin_wbtc.png?1698735124"
-    },
-    {
-      "chainId": 534352,
-      "address": "0xcb14bcdf6cd483665d10dfd6f87d908996c7f922",
-      "name": "sUSX",
-      "symbol": "SUSX",
+      "address": "0xd29687c813d741e2f938f4ac377128810e217b1b",
+      "name": "Scroll",
+      "symbol": "SCR",
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/71611/thumb/Frame_1171274144_%281%29.png?1768548299"
-    },
-    {
-      "chainId": 534352,
-      "address": "0x95a52ec1d60e74cd3eb002fe54a2c74b185a4c16",
-      "name": "Skydrome",
-      "symbol": "SKY",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/33902/thumb/icon_200x200.png?1703237670"
+      "logoURI": "https://assets.coingecko.com/coins/images/50571/thumb/scroll.jpg?1728376125"
     },
     {
       "chainId": 534352,
@@ -64,6 +48,22 @@
     },
     {
       "chainId": 534352,
+      "address": "0x06efdbff2a14a7c8e15944d1f4a48f9f95f663a4",
+      "name": "Bridged USD Coin (Scroll)",
+      "symbol": "USDC",
+      "decimals": 6,
+      "logoURI": "https://assets.coingecko.com/coins/images/32611/thumb/USDC.png?1698733754"
+    },
+    {
+      "chainId": 534352,
+      "address": "0x95a52ec1d60e74cd3eb002fe54a2c74b185a4c16",
+      "name": "Skydrome",
+      "symbol": "SKY",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/33902/thumb/icon_200x200.png?1703237670"
+    },
+    {
+      "chainId": 534352,
       "address": "0x2147a89fb4608752807216d5070471c09a0dce32",
       "name": "Z Protocol",
       "symbol": "ZP",
@@ -88,14 +88,6 @@
     },
     {
       "chainId": 534352,
-      "address": "0xf55bec9cafdbe8730f096aa55dad6d22d44099df",
-      "name": "Scroll Bridged USDT (Scroll)",
-      "symbol": "USDT",
-      "decimals": 6,
-      "logoURI": "https://assets.coingecko.com/coins/images/32610/thumb/usdt_%281%29.png?1698733524"
-    },
-    {
-      "chainId": 534352,
       "address": "0x0fc479e2f9b7310bfb1db606cf565dea6910eedc",
       "name": "Papyrus Swap",
       "symbol": "PAPYRUS",
@@ -104,19 +96,35 @@
     },
     {
       "chainId": 534352,
-      "address": "0x65421ba909200b81640d98b979d07487c9781b66",
-      "name": "KelpDAO Bridged rsETH (Scroll)",
-      "symbol": "RSETH",
+      "address": "0xcb14bcdf6cd483665d10dfd6f87d908996c7f922",
+      "name": "sUSX",
+      "symbol": "SUSX",
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/39545/thumb/rseth.png?1722849918"
+      "logoURI": "https://assets.coingecko.com/coins/images/71611/thumb/Frame_1171274144_%281%29.png?1768548299"
     },
     {
       "chainId": 534352,
-      "address": "0x5300000000000000000000000000000000000004",
-      "name": "Bridged Wrapped Ether (Scroll)",
-      "symbol": "WETH",
+      "address": "0x3c1bca5a656e69edcd0d4e36bebb3fcdaca60cf1",
+      "name": "Bridged Wrapped Bitcoin (Scroll)",
+      "symbol": "WBTC",
+      "decimals": 8,
+      "logoURI": "https://assets.coingecko.com/coins/images/32614/thumb/wrapped_bitcoin_wbtc.png?1698735124"
+    },
+    {
+      "chainId": 534352,
+      "address": "0x3b005fefc63ca7c8d25ee21fba3787229ba4cf03",
+      "name": "USX",
+      "symbol": "USX",
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/32315/thumb/weth_%281%29.png?1697365181"
+      "logoURI": "https://assets.coingecko.com/coins/images/71020/thumb/usx.png?1765270693"
+    },
+    {
+      "chainId": 534352,
+      "address": "0xf55bec9cafdbe8730f096aa55dad6d22d44099df",
+      "name": "Scroll Bridged USDT (Scroll)",
+      "symbol": "USDT",
+      "decimals": 6,
+      "logoURI": "https://assets.coingecko.com/coins/images/32610/thumb/usdt_%281%29.png?1698733524"
     },
     {
       "chainId": 534352,
@@ -128,27 +136,11 @@
     },
     {
       "chainId": 534352,
-      "address": "0xd29687c813d741e2f938f4ac377128810e217b1b",
-      "name": "Scroll",
-      "symbol": "SCR",
+      "address": "0x5300000000000000000000000000000000000004",
+      "name": "Bridged Wrapped Ether (Scroll)",
+      "symbol": "WETH",
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/50571/thumb/scroll.jpg?1728376125"
-    },
-    {
-      "chainId": 534352,
-      "address": "0x06efdbff2a14a7c8e15944d1f4a48f9f95f663a4",
-      "name": "Bridged USD Coin (Scroll)",
-      "symbol": "USDC",
-      "decimals": 6,
-      "logoURI": "https://assets.coingecko.com/coins/images/32611/thumb/USDC.png?1698733754"
-    },
-    {
-      "chainId": 534352,
-      "address": "0x3b005fefc63ca7c8d25ee21fba3787229ba4cf03",
-      "name": "USX",
-      "symbol": "USX",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/71020/thumb/usx.png?1765270693"
+      "logoURI": "https://assets.coingecko.com/coins/images/32315/thumb/weth_%281%29.png?1697365181"
     },
     {
       "chainId": 534352,
@@ -189,6 +181,14 @@
       "symbol": "MAHA",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/13404/thumb/black.png?1724679606"
+    },
+    {
+      "chainId": 534352,
+      "address": "0x65421ba909200b81640d98b979d07487c9781b66",
+      "name": "Kelp DAO Restaked ETH",
+      "symbol": "RSETH",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/33800/thumb/Icon___Dark.png?1702991855"
     },
     {
       "chainId": 534352,
@@ -394,6 +394,6 @@
   "version": {
     "major": 15,
     "minor": 0,
-    "patch": 2
+    "patch": 3
   }
 }

@@ -4,15 +4,23 @@
   "keywords": [
     "defi"
   ],
-  "timestamp": "2026-01-19T05:00:04.833+00:00",
+  "timestamp": "2026-01-21T09:00:04.137+00:00",
   "tokens": [
     {
       "chainId": 9745,
-      "address": "0xe0126f0c4451b2b917064a93040fd4770d6774b5",
-      "name": "Wrapped Aave Plasma USDT0",
-      "symbol": "WAPLAUSDT0",
-      "decimals": 6,
-      "logoURI": "https://assets.coingecko.com/coins/images/69597/thumb/waplasusdt0.png?1759197676"
+      "address": "0xabb48792a3161e81b47ca084c0b7a22a50324a44",
+      "name": "Lithos",
+      "symbol": "LITH",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/70098/thumb/logo-lith1.png?1760553212"
+    },
+    {
+      "chainId": 9745,
+      "address": "0x6100e367285b01f48d07953803a2d8dca5d19873",
+      "name": "Wrapped XPL",
+      "symbol": "WXPL",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/69509/thumb/plasma.png?1758805469"
     },
     {
       "chainId": 9745,
@@ -32,19 +40,11 @@
     },
     {
       "chainId": 9745,
-      "address": "0x6695c0f8706c5ace3bdf8995073179cca47926dc",
-      "name": "Yuzu USD",
-      "symbol": "YZUSD",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/70558/thumb/yzusd.png?1762518733"
-    },
-    {
-      "chainId": 9745,
-      "address": "0xc63f1a8c0cd4493e18f6f3371182be01ce0bef02",
-      "name": "Wrapped Aave Plasma USDe",
-      "symbol": "WAPLAUSDE",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/69605/thumb/waplausde.png?1759216970"
+      "address": "0xe0126f0c4451b2b917064a93040fd4770d6774b5",
+      "name": "Wrapped Aave Plasma USDT0",
+      "symbol": "WAPLAUSDT0",
+      "decimals": 6,
+      "logoURI": "https://assets.coingecko.com/coins/images/69597/thumb/waplasusdt0.png?1759197676"
     },
     {
       "chainId": 9745,
@@ -61,14 +61,6 @@
       "symbol": "YZPP",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/71043/thumb/yzPP_%281%29.png?1765442029"
-    },
-    {
-      "chainId": 9745,
-      "address": "0xabb48792a3161e81b47ca084c0b7a22a50324a44",
-      "name": "Lithos",
-      "symbol": "LITH",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/70098/thumb/logo-lith1.png?1760553212"
     },
     {
       "chainId": 9745,
@@ -96,6 +88,22 @@
     },
     {
       "chainId": 9745,
+      "address": "0xc63f1a8c0cd4493e18f6f3371182be01ce0bef02",
+      "name": "Wrapped Aave Plasma USDe",
+      "symbol": "WAPLAUSDE",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/69605/thumb/waplausde.png?1759216970"
+    },
+    {
+      "chainId": 9745,
+      "address": "0x6695c0f8706c5ace3bdf8995073179cca47926dc",
+      "name": "Yuzu USD",
+      "symbol": "YZUSD",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/70558/thumb/yzusd.png?1762518733"
+    },
+    {
+      "chainId": 9745,
       "address": "0x133a09dd6169f6f0509658a911f2a82fc8ab6a0d",
       "name": "Ionex Token",
       "symbol": "INX",
@@ -117,14 +125,6 @@
       "symbol": "CHUSD",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/71634/thumb/chusdn.png?1768641680"
-    },
-    {
-      "chainId": 9745,
-      "address": "0x6100e367285b01f48d07953803a2d8dca5d19873",
-      "name": "Wrapped XPL",
-      "symbol": "WXPL",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/69509/thumb/plasma.png?1758805469"
     },
     {
       "chainId": 9745,
@@ -333,11 +333,19 @@
       "symbol": "EUROP",
       "decimals": 6,
       "logoURI": "https://assets.coingecko.com/coins/images/52132/thumb/europ-symbol-rgb.jpg?1732634862"
+    },
+    {
+      "chainId": 9745,
+      "address": "0x9ecaf80c1303cca8791afbc0ad405c8a35e8d9f1",
+      "name": "Kelp DAO Restaked ETH",
+      "symbol": "RSETH",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/33800/thumb/Icon___Dark.png?1702991855"
     }
   ],
   "version": {
     "major": 0,
-    "minor": 24,
-    "patch": 2
+    "minor": 25,
+    "patch": 0
   }
 }

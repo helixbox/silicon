@@ -4,16 +4,8 @@
   "keywords": [
     "defi"
   ],
-  "timestamp": "2025-11-10T11:00:24.324+00:00",
+  "timestamp": "2026-01-21T10:00:17.111+00:00",
   "tokens": [
-    {
-      "chainId": 9001,
-      "address": "0x50de24b3f0b3136c50fa8a3b8ebc8bd80a269ce5",
-      "name": "Axelar Wrapped Ether",
-      "symbol": "AXLETH",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/28171/thumb/weth-wei_D_3x.png?1696527174"
-    },
     {
       "chainId": 9001,
       "address": "0xf5b24c0093b65408ace53df7ce86a02448d53b25",
@@ -21,6 +13,14 @@
       "symbol": "AXLWBTC",
       "decimals": 8,
       "logoURI": "https://assets.coingecko.com/coins/images/28173/thumb/wbtc-satoshi_D_3x.png?1696986732"
+    },
+    {
+      "chainId": 9001,
+      "address": "0x50de24b3f0b3136c50fa8a3b8ebc8bd80a269ce5",
+      "name": "Axelar Wrapped Ether",
+      "symbol": "AXLETH",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/28171/thumb/weth-wei_D_3x.png?1696527174"
     },
     {
       "chainId": 9001,
@@ -100,7 +100,7 @@
       "name": "Frax (prev. FXS)",
       "symbol": "FRAX",
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/13423/thumb/frax.png?1745921071"
+      "logoURI": "https://assets.coingecko.com/coins/images/13423/thumb/FRAX_icon.png?1768982703"
     },
     {
       "chainId": 9001,
@@ -114,6 +114,6 @@
   "version": {
     "major": 10,
     "minor": 0,
-    "patch": 0
+    "patch": 1
   }
 }

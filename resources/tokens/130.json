@@ -4,7 +4,7 @@
   "keywords": [
     "defi"
   ],
-  "timestamp": "2026-01-19T07:00:29.588+00:00",
+  "timestamp": "2026-01-21T09:00:26.217+00:00",
   "tokens": [
     {
       "chainId": 130,
@@ -13,6 +13,14 @@
       "symbol": "UNICORN",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/54332/thumb/unicorn.jpg?1739325321"
+    },
+    {
+      "chainId": 130,
+      "address": "0xabe69c550ea6ec22bed4b92614511c4f31bb0f64",
+      "name": "Abe",
+      "symbol": "ABE",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/68514/thumb/logo_circle_200.png?1756440524"
     },
     {
       "chainId": 130,
@@ -40,14 +48,6 @@
     },
     {
       "chainId": 130,
-      "address": "0xec4a56061d86955d0df883efb2e5791d99ea71f2",
-      "name": "hoonicorn.lol",
-      "symbol": "HOONI",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/54996/thumb/hooni-logo-fixed.png?1743095425"
-    },
-    {
-      "chainId": 130,
       "address": "0x756ee6857f915a2b5366f2ef56d8d13857aef8ad",
       "name": "Catex",
       "symbol": "CATX",
@@ -56,19 +56,11 @@
     },
     {
       "chainId": 130,
-      "address": "0xabe69c550ea6ec22bed4b92614511c4f31bb0f64",
-      "name": "Abe",
-      "symbol": "ABE",
+      "address": "0xec4a56061d86955d0df883efb2e5791d99ea71f2",
+      "name": "hoonicorn.lol",
+      "symbol": "HOONI",
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/68514/thumb/logo_circle_200.png?1756440524"
-    },
-    {
-      "chainId": 130,
-      "address": "0xc3eacf0612346366db554c991d7858716db09f58",
-      "name": "KelpDAO Bridged rsETH (Unichain)",
-      "symbol": "RSETH",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/67283/thumb/rseth.jpg?1752298197"
+      "logoURI": "https://assets.coingecko.com/coins/images/54996/thumb/hooni-logo-fixed.png?1743095425"
     },
     {
       "chainId": 130,
@@ -309,11 +301,19 @@
       "symbol": "UNIBTC",
       "decimals": 8,
       "logoURI": "https://assets.coingecko.com/coins/images/39599/thumb/uniBTC_200px.png?1723064455"
+    },
+    {
+      "chainId": 130,
+      "address": "0xc3eacf0612346366db554c991d7858716db09f58",
+      "name": "Kelp DAO Restaked ETH",
+      "symbol": "RSETH",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/33800/thumb/Icon___Dark.png?1702991855"
     }
   ],
   "version": {
     "major": 3,
     "minor": 3,
-    "patch": 2
+    "patch": 3
   }
 }

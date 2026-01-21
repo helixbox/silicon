@@ -4,7 +4,7 @@
   "keywords": [
     "defi"
   ],
-  "timestamp": "2026-01-03T09:01:11.518+00:00",
+  "timestamp": "2026-01-21T09:01:04.548+00:00",
   "tokens": [
     {
       "chainId": 43111,
@@ -16,22 +16,6 @@
     },
     {
       "chainId": 43111,
-      "address": "0x4200000000000000000000000000000000000006",
-      "name": "Hemi Bridged WETH (Hemi)",
-      "symbol": "WETH",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/67025/thumb/weth_2.jpg?1751514061"
-    },
-    {
-      "chainId": 43111,
-      "address": "0x71881974e96152643c74a8e0214b877cfb2a0aa1",
-      "name": "VCRED",
-      "symbol": "VCRED",
-      "decimals": 6,
-      "logoURI": "https://assets.coingecko.com/coins/images/69495/thumb/vcred.jpg?1758767359"
-    },
-    {
-      "chainId": 43111,
       "address": "0xaa40c0c7644e0b2b224509571e10ad20d9c4ef28",
       "name": "Hemi Bitcoin",
       "symbol": "HEMIBTC",
@@ -40,11 +24,27 @@
     },
     {
       "chainId": 43111,
+      "address": "0x4200000000000000000000000000000000000006",
+      "name": "Hemi Bridged WETH (Hemi)",
+      "symbol": "WETH",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/67025/thumb/weth_2.jpg?1751514061"
+    },
+    {
+      "chainId": 43111,
       "address": "0x03c7054bcb39f7b2e5b2c7acb37583e32d70cfa3",
       "name": "Hemi Bridged WBTC (Hemi)",
       "symbol": "WBTC",
       "decimals": 8,
       "logoURI": "https://assets.coingecko.com/coins/images/68384/thumb/wbtc.jpg?1755570014"
+    },
+    {
+      "chainId": 43111,
+      "address": "0x71881974e96152643c74a8e0214b877cfb2a0aa1",
+      "name": "VCRED",
+      "symbol": "VCRED",
+      "decimals": 6,
+      "logoURI": "https://assets.coingecko.com/coins/images/69495/thumb/vcred.jpg?1758767359"
     },
     {
       "chainId": 43111,
@@ -125,11 +125,19 @@
       "symbol": "USDT",
       "decimals": 6,
       "logoURI": "https://assets.coingecko.com/coins/images/70631/thumb/usdt.jpg?1762857609"
+    },
+    {
+      "chainId": 43111,
+      "address": "0xc3eacf0612346366db554c991d7858716db09f58",
+      "name": "Kelp DAO Restaked ETH",
+      "symbol": "RSETH",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/33800/thumb/Icon___Dark.png?1702991855"
     }
   ],
   "version": {
     "major": 1,
-    "minor": 0,
+    "minor": 1,
     "patch": 0
   }
 }

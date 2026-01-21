@@ -4,16 +4,8 @@
   "keywords": [
     "defi"
   ],
-  "timestamp": "2026-01-19T06:00:14.085+00:00",
+  "timestamp": "2026-01-21T10:00:13.359+00:00",
   "tokens": [
-    {
-      "chainId": 34443,
-      "address": "0x4200000000000000000000000000000000000006",
-      "name": "L2 Standard Bridged WETH (Mode)",
-      "symbol": "WETH",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/39726/thumb/weth.png?1723757432"
-    },
     {
       "chainId": 34443,
       "address": "0xd988097fb8612cc24eec14542bc03424c656005f",
@@ -21,6 +13,14 @@
       "symbol": "USDC",
       "decimals": 6,
       "logoURI": "https://assets.coingecko.com/coins/images/35809/thumb/usdc_%281%29.png?1709867043"
+    },
+    {
+      "chainId": 34443,
+      "address": "0xdfc7c877a950e49d2610114102175a06c2e3167a",
+      "name": "Mode",
+      "symbol": "MODE",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/34979/thumb/MODE.jpg?1714561871"
     },
     {
       "chainId": 34443,
@@ -40,11 +40,11 @@
     },
     {
       "chainId": 34443,
-      "address": "0x4186bfc76e2e237523cbc30fd220fe055156b41f",
-      "name": "KelpDAO Bridged rsETH (Mode)",
-      "symbol": "RSETH",
+      "address": "0x6863fb62ed27a9ddf458105b507c15b5d741d62e",
+      "name": "KIM Token",
+      "symbol": "KIM",
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/39546/thumb/rseth.png?1722850045"
+      "logoURI": "https://assets.coingecko.com/coins/images/37504/thumb/kim.jpg?1714579040"
     },
     {
       "chainId": 34443,
@@ -56,19 +56,11 @@
     },
     {
       "chainId": 34443,
-      "address": "0x6863fb62ed27a9ddf458105b507c15b5d741d62e",
-      "name": "KIM Token",
-      "symbol": "KIM",
+      "address": "0x4200000000000000000000000000000000000006",
+      "name": "L2 Standard Bridged WETH (Mode)",
+      "symbol": "WETH",
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/37504/thumb/kim.jpg?1714579040"
-    },
-    {
-      "chainId": 34443,
-      "address": "0xdfc7c877a950e49d2610114102175a06c2e3167a",
-      "name": "Mode",
-      "symbol": "MODE",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/34979/thumb/MODE.jpg?1714561871"
+      "logoURI": "https://assets.coingecko.com/coins/images/39726/thumb/weth.png?1723757432"
     },
     {
       "chainId": 34443,
@@ -141,6 +133,14 @@
       "symbol": "WEETH",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/33033/thumb/weETH.png?1701438396"
+    },
+    {
+      "chainId": 34443,
+      "address": "0x4186bfc76e2e237523cbc30fd220fe055156b41f",
+      "name": "Kelp DAO Restaked ETH",
+      "symbol": "RSETH",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/33800/thumb/Icon___Dark.png?1702991855"
     },
     {
       "chainId": 34443,
@@ -306,6 +306,6 @@
   "version": {
     "major": 10,
     "minor": 0,
-    "patch": 2
+    "patch": 3
   }
 }

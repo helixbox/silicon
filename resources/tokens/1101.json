@@ -4,15 +4,23 @@
   "keywords": [
     "defi"
   ],
-  "timestamp": "2026-01-06T18:00:25.825+00:00",
+  "timestamp": "2026-01-21T10:00:16.813+00:00",
   "tokens": [
     {
       "chainId": 1101,
-      "address": "0x6a92b1e99de09f71cd96bc91f934826d96b8b26e",
-      "name": "AKAS",
-      "symbol": "AS",
-      "decimals": 9,
-      "logoURI": "https://assets.coingecko.com/coins/images/67909/thumb/AKAS-Logo.png?1754282426"
+      "address": "0xa8ce8aee21bc2a48a5ef670afcc9274c7bbbc035",
+      "name": "Polygon Hermez Bridged USDC (Polygon zkEVM)",
+      "symbol": "USDC",
+      "decimals": 6,
+      "logoURI": "https://assets.coingecko.com/coins/images/35263/thumb/USDC_Icon.png?1708009475"
+    },
+    {
+      "chainId": 1101,
+      "address": "0xc5015b9d9161dca7e18e32f6f25c4ad850731fd4",
+      "name": "Polygon zkEVM Bridged DAI (Polygon zkEVM)",
+      "symbol": "DAI",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/39806/thumb/dai.png?1724126469"
     },
     {
       "chainId": 1101,
@@ -24,14 +32,6 @@
     },
     {
       "chainId": 1101,
-      "address": "0xa8ce8aee21bc2a48a5ef670afcc9274c7bbbc035",
-      "name": "Polygon Hermez Bridged USDC (Polygon zkEVM)",
-      "symbol": "USDC",
-      "decimals": 6,
-      "logoURI": "https://assets.coingecko.com/coins/images/35263/thumb/USDC_Icon.png?1708009475"
-    },
-    {
-      "chainId": 1101,
       "address": "0x1e4a5963abfd975d8c9021ce480b42188849d41d",
       "name": "Polygon Hermez Bridged USDT (Polygon zkEVM)",
       "symbol": "USDT",
@@ -40,11 +40,11 @@
     },
     {
       "chainId": 1101,
-      "address": "0xc5015b9d9161dca7e18e32f6f25c4ad850731fd4",
-      "name": "Polygon zkEVM Bridged DAI (Polygon zkEVM)",
-      "symbol": "DAI",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/39806/thumb/dai.png?1724126469"
+      "address": "0x6a92b1e99de09f71cd96bc91f934826d96b8b26e",
+      "name": "AKAS",
+      "symbol": "AS",
+      "decimals": 9,
+      "logoURI": "https://assets.coingecko.com/coins/images/67909/thumb/AKAS-Logo.png?1754282426"
     },
     {
       "chainId": 1101,
@@ -124,7 +124,7 @@
       "name": "Frax (prev. FXS)",
       "symbol": "FRAX",
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/13423/thumb/frax.png?1745921071"
+      "logoURI": "https://assets.coingecko.com/coins/images/13423/thumb/FRAX_icon.png?1768982703"
     },
     {
       "chainId": 1101,
@@ -250,6 +250,6 @@
   "version": {
     "major": 7,
     "minor": 0,
-    "patch": 0
+    "patch": 1
   }
 }

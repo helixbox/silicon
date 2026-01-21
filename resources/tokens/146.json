@@ -4,8 +4,16 @@
   "keywords": [
     "defi"
   ],
-  "timestamp": "2026-01-19T06:00:34.743+00:00",
+  "timestamp": "2026-01-21T11:00:33.953+00:00",
   "tokens": [
+    {
+      "chainId": 146,
+      "address": "0x871a101dcf22fe4fe37be7b654098c801cba1c88",
+      "name": "Beefy-escrowed Sonic",
+      "symbol": "BES",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/55186/thumb/beS.png?1744440042"
+    },
     {
       "chainId": 146,
       "address": "0x446649f0727621bdbb76644b1910be2163b62a11",
@@ -16,11 +24,11 @@
     },
     {
       "chainId": 146,
-      "address": "0x6881b80ea7c858e4aeef63893e18a8a36f3682f3",
-      "name": "Navigator Exchange",
-      "symbol": "NAVI",
+      "address": "0x4cae73a23078e7a94d1e828fa3baba5080c04fca",
+      "name": "Amped Finance",
+      "symbol": "AMPED",
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/28547/thumb/navi.jpg?1736302094"
+      "logoURI": "https://assets.coingecko.com/coins/images/37421/thumb/AmpedLogoTrans-200.png?1714377313"
     },
     {
       "chainId": 146,
@@ -40,27 +48,11 @@
     },
     {
       "chainId": 146,
-      "address": "0x4cae73a23078e7a94d1e828fa3baba5080c04fca",
-      "name": "Amped Finance",
-      "symbol": "AMPED",
+      "address": "0x0c4e186eae8acaa7f7de1315d5ad174be39ec987",
+      "name": "Angles Staked Sonic",
+      "symbol": "ANS",
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/37421/thumb/AmpedLogoTrans-200.png?1714377313"
-    },
-    {
-      "chainId": 146,
-      "address": "0x261dfa2528dfa19011f10b168c856e02baaf0eb6",
-      "name": "Foxify",
-      "symbol": "FOX",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/32354/thumb/Foxify_200x200.png?1697475371"
-    },
-    {
-      "chainId": 146,
-      "address": "0x63a522f6e7d5b96f7aebb74d2648545e9e14078d",
-      "name": "ShibaPoconk",
-      "symbol": "CONK",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/29080/thumb/conk.png?1696528045"
+      "logoURI": "https://assets.coingecko.com/coins/images/66942/thumb/Angleslogo.png?1751108670"
     },
     {
       "chainId": 146,
@@ -72,19 +64,35 @@
     },
     {
       "chainId": 146,
-      "address": "0x3e08cb3067dc198fc313e1789347c9ae72c079d4",
-      "name": "Womo",
-      "symbol": "WM",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/67129/thumb/WOMO_LOGO.jpg?1751839587"
-    },
-    {
-      "chainId": 146,
       "address": "0xe6cc4d855b4fd4a9d02f46b9adae4c5efb1764b5",
       "name": "LUDWIG",
       "symbol": "LUDWIG",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/54544/thumb/Ludwig_Wif_Goggles_Logo_200x200.png?1740219187"
+    },
+    {
+      "chainId": 146,
+      "address": "0x261dfa2528dfa19011f10b168c856e02baaf0eb6",
+      "name": "Foxify",
+      "symbol": "FOX",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/32354/thumb/Foxify_200x200.png?1697475371"
+    },
+    {
+      "chainId": 146,
+      "address": "0x2f872623d1e1af5835b08b0e49aad2d81d649d30",
+      "name": "OS ARM LP Token",
+      "symbol": "ARM-WS-OS",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/68682/thumb/arm-ws-os-256x256.png?1756240786"
+    },
+    {
+      "chainId": 146,
+      "address": "0x6047828dc181963ba44974801ff68e538da5eaf9",
+      "name": "Sonic Gateway Bridged USDT (Sonic)",
+      "symbol": "USDT",
+      "decimals": 6,
+      "logoURI": "https://assets.coingecko.com/coins/images/67303/thumb/usdt.jpg?1752311572"
     },
     {
       "chainId": 146,
@@ -104,14 +112,6 @@
     },
     {
       "chainId": 146,
-      "address": "0xb4444468e444f89e1c2cac2f1d3ee7e336cbd1f5",
-      "name": "Rezerve Money",
-      "symbol": "RZR",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/67679/thumb/New_Project_%289%29.png?1753503135"
-    },
-    {
-      "chainId": 146,
       "address": "0x78a76316f66224cbaca6e70acb24d5ee5b2bd2c7",
       "name": "Stability",
       "symbol": "STBL",
@@ -128,35 +128,11 @@
     },
     {
       "chainId": 146,
-      "address": "0x7a0c53f7eb34c5bc8b01691723669ada9d6cb384",
-      "name": "SpookySwap",
-      "symbol": "BOO",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/67614/thumb/logo_200x200.png?1753265002"
-    },
-    {
-      "chainId": 146,
       "address": "0x65a3e654790a2b7ed80afca646caaebaa84db4df",
       "name": "Magic Internet Money (Meme)",
       "symbol": "MIM",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/54667/thumb/logo200x.png?1740900280"
-    },
-    {
-      "chainId": 146,
-      "address": "0x6c9b3a74ae4779da5ca999371ee8950e8db3407f",
-      "name": "Fly",
-      "symbol": "FLY",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/66394/thumb/fly.jpg?1749286672"
-    },
-    {
-      "chainId": 146,
-      "address": "0x05e31a691405d06708a355c029599c12d5da8b28",
-      "name": "Fantomsonicinu",
-      "symbol": "FSONIC",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/53278/thumb/VaSB8Eil_400x400.jpg?1735953637"
     },
     {
       "chainId": 146,
@@ -168,11 +144,19 @@
     },
     {
       "chainId": 146,
-      "address": "0xe5fb2ed6832def99dde57c0b9d9a56537c89121d",
-      "name": "Main Street USD",
-      "symbol": "MSUSD",
+      "address": "0x1cb934e1f5acdb5b805c609a2c5a09aa8489f124",
+      "name": "aarna atv111 (Sonic)",
+      "symbol": "ATV111",
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/66996/thumb/msUSD.png?1751389184"
+      "logoURI": "https://assets.coingecko.com/coins/images/67786/thumb/atv111_sonic.png?1765613589"
+    },
+    {
+      "chainId": 146,
+      "address": "0xf61ccfc0ec470b2595fa08132c0102968b36cabc",
+      "name": "SONAR",
+      "symbol": "SONAR",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/55268/thumb/SONAR.JPG?1745113491"
     },
     {
       "chainId": 146,
@@ -184,27 +168,27 @@
     },
     {
       "chainId": 146,
-      "address": "0x6646248971427b80ce531bdd793e2eb859347e55",
-      "name": "Wrapped Aave Sonic USDC",
-      "symbol": "WASONUSDC",
-      "decimals": 6,
-      "logoURI": "https://assets.coingecko.com/coins/images/69684/thumb/wasonusdc.png?1759296986"
+      "address": "0x05e31a691405d06708a355c029599c12d5da8b28",
+      "name": "Fantomsonicinu",
+      "symbol": "FSONIC",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/53278/thumb/VaSB8Eil_400x400.jpg?1735953637"
     },
     {
       "chainId": 146,
-      "address": "0x1cb934e1f5acdb5b805c609a2c5a09aa8489f124",
-      "name": "aarna atv111 (Sonic)",
-      "symbol": "ATV111",
+      "address": "0x3333111a391cc08fa51353e9195526a70b333333",
+      "name": "Shadow Liquid Staking Token",
+      "symbol": "X33",
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/67786/thumb/atv111_sonic.png?1765613589"
+      "logoURI": "https://assets.coingecko.com/coins/images/54526/thumb/shadow_liquid_staking_token17400.jpg?1740148577"
     },
     {
       "chainId": 146,
-      "address": "0x71e99522ead5e21cf57f1f542dc4ad2e841f7321",
-      "name": "Metropolis",
-      "symbol": "METRO",
+      "address": "0x9138a8733dce2e877f430b7500e3c229ad7599d9",
+      "name": "Atlantis AQUA Token",
+      "symbol": "AQUA",
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/54040/thumb/metropolis_logo_square.png?1738076053"
+      "logoURI": "https://assets.coingecko.com/coins/images/66414/thumb/atlantis.jpg?1749372880"
     },
     {
       "chainId": 146,
@@ -224,27 +208,11 @@
     },
     {
       "chainId": 146,
-      "address": "0x3a516e01f82c1e18916ed69a81dd498ef64bb157",
-      "name": "SNAKE",
-      "symbol": "SNAKE",
+      "address": "0x9d549c39e5e1a0e7ef41d4b7d74c49f976102e36",
+      "name": "JACK",
+      "symbol": "JACK",
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/54855/thumb/logo192.png?1742106374"
-    },
-    {
-      "chainId": 146,
-      "address": "0x9138a8733dce2e877f430b7500e3c229ad7599d9",
-      "name": "Atlantis AQUA Token",
-      "symbol": "AQUA",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/66414/thumb/atlantis.jpg?1749372880"
-    },
-    {
-      "chainId": 146,
-      "address": "0x2f872623d1e1af5835b08b0e49aad2d81d649d30",
-      "name": "OS ARM LP Token",
-      "symbol": "ARM-WS-OS",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/68682/thumb/arm-ws-os-256x256.png?1756240786"
+      "logoURI": "https://assets.coingecko.com/coins/images/54835/thumb/200x200_token.png?1741969713"
     },
     {
       "chainId": 146,
@@ -256,11 +224,11 @@
     },
     {
       "chainId": 146,
-      "address": "0xb1e25689d55734fd3fffc939c4c3eb52dff8a794",
-      "name": "Origin Sonic",
-      "symbol": "OS",
+      "address": "0x79bbf4508b1391af3a0f4b30bb5fc4aa9ab0e07c",
+      "name": "Hey Anon",
+      "symbol": "ANON",
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/53773/thumb/os-256x256.png?1737271726"
+      "logoURI": "https://assets.coingecko.com/coins/images/52961/thumb/AAI__ANON_SQ_Wb_250x250.png?1740500195"
     },
     {
       "chainId": 146,
@@ -272,11 +240,11 @@
     },
     {
       "chainId": 146,
-      "address": "0x871a101dcf22fe4fe37be7b654098c801cba1c88",
-      "name": "Beefy-escrowed Sonic",
-      "symbol": "BES",
+      "address": "0x7a0c53f7eb34c5bc8b01691723669ada9d6cb384",
+      "name": "SpookySwap",
+      "symbol": "BOO",
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/55186/thumb/beS.png?1744440042"
+      "logoURI": "https://assets.coingecko.com/coins/images/67614/thumb/logo_200x200.png?1753265002"
     },
     {
       "chainId": 146,
@@ -285,6 +253,14 @@
       "symbol": "FA",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/54414/thumb/_Final__Token_Symbol_200.png?1739555103"
+    },
+    {
+      "chainId": 146,
+      "address": "0xe5fb2ed6832def99dde57c0b9d9a56537c89121d",
+      "name": "Main Street USD",
+      "symbol": "MSUSD",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/66996/thumb/msUSD.png?1751389184"
     },
     {
       "chainId": 146,
@@ -312,19 +288,19 @@
     },
     {
       "chainId": 146,
-      "address": "0x9d549c39e5e1a0e7ef41d4b7d74c49f976102e36",
-      "name": "JACK",
-      "symbol": "JACK",
+      "address": "0xf26ff70573ddc8a90bd7865af8d7d70b8ff019bc",
+      "name": "Eggs Finance",
+      "symbol": "EGGS",
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/54835/thumb/200x200_token.png?1741969713"
+      "logoURI": "https://assets.coingecko.com/coins/images/54477/thumb/eggs-logo200px.png?1739954642"
     },
     {
       "chainId": 146,
-      "address": "0x6fb9897896fe5d05025eb43306675727887d0b7c",
-      "name": "Hedgy the hedgehog",
-      "symbol": "HEDGY",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/51742/thumb/cVKJGU_W_400x400.jpg?1731923818"
+      "address": "0x6646248971427b80ce531bdd793e2eb859347e55",
+      "name": "Wrapped Aave Sonic USDC",
+      "symbol": "WASONUSDC",
+      "decimals": 6,
+      "logoURI": "https://assets.coingecko.com/coins/images/69684/thumb/wasonusdc.png?1759296986"
     },
     {
       "chainId": 146,
@@ -336,14 +312,6 @@
     },
     {
       "chainId": 146,
-      "address": "0x486b6fa0419b33a0c7a6e4698c231d7e2f2d5299",
-      "name": "Moon Bay",
-      "symbol": "MOON",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/53021/thumb/moonbay.png?1735003620"
-    },
-    {
-      "chainId": 146,
       "address": "0x3333b97138d4b086720b5ae8a7844b1345a33333",
       "name": "Shadow",
       "symbol": "SHADOW",
@@ -352,11 +320,35 @@
     },
     {
       "chainId": 146,
-      "address": "0x6047828dc181963ba44974801ff68e538da5eaf9",
-      "name": "Sonic Gateway Bridged USDT (Sonic)",
-      "symbol": "USDT",
-      "decimals": 6,
-      "logoURI": "https://assets.coingecko.com/coins/images/67303/thumb/usdt.jpg?1752311572"
+      "address": "0x6fb9897896fe5d05025eb43306675727887d0b7c",
+      "name": "Hedgy the hedgehog",
+      "symbol": "HEDGY",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/51742/thumb/cVKJGU_W_400x400.jpg?1731923818"
+    },
+    {
+      "chainId": 146,
+      "address": "0x486b6fa0419b33a0c7a6e4698c231d7e2f2d5299",
+      "name": "Moon Bay",
+      "symbol": "MOON",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/53021/thumb/moonbay.png?1735003620"
+    },
+    {
+      "chainId": 146,
+      "address": "0x6881b80ea7c858e4aeef63893e18a8a36f3682f3",
+      "name": "Navigator Exchange",
+      "symbol": "NAVI",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/28547/thumb/navi.jpg?1736302094"
+    },
+    {
+      "chainId": 146,
+      "address": "0x3e08cb3067dc198fc313e1789347c9ae72c079d4",
+      "name": "Womo",
+      "symbol": "WM",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/67129/thumb/WOMO_LOGO.jpg?1751839587"
     },
     {
       "chainId": 146,
@@ -384,19 +376,11 @@
     },
     {
       "chainId": 146,
-      "address": "0x4451765739b2d7bce5f8bc95beaf966c45e1dcc9",
-      "name": "XSilo",
-      "symbol": "XSILO",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/66788/thumb/xSILO.png?1750575606"
-    },
-    {
-      "chainId": 146,
-      "address": "0x3333111a391cc08fa51353e9195526a70b333333",
-      "name": "Shadow Liquid Staking Token",
-      "symbol": "X33",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/54526/thumb/shadow_liquid_staking_token17400.jpg?1740148577"
+      "address": "0x7f883da3b0d77978075f7c9c03e1b9f461ca1b8d",
+      "name": "Muttski",
+      "symbol": "WOOF",
+      "decimals": 9,
+      "logoURI": "https://assets.coingecko.com/coins/images/54318/thumb/muttski.jpg?1739233507"
     },
     {
       "chainId": 146,
@@ -408,11 +392,19 @@
     },
     {
       "chainId": 146,
-      "address": "0xe5da20f15420ad15de0fa650600afc998bbe3955",
-      "name": "Beets Staked Sonic",
-      "symbol": "STS",
+      "address": "0x3a516e01f82c1e18916ed69a81dd498ef64bb157",
+      "name": "SNAKE",
+      "symbol": "SNAKE",
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/52937/thumb/token-beets-staked-sonic.png?1734712659"
+      "logoURI": "https://assets.coingecko.com/coins/images/54855/thumb/logo192.png?1742106374"
+    },
+    {
+      "chainId": 146,
+      "address": "0x63a522f6e7d5b96f7aebb74d2648545e9e14078d",
+      "name": "ShibaPoconk",
+      "symbol": "CONK",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/29080/thumb/conk.png?1696528045"
     },
     {
       "chainId": 146,
@@ -424,43 +416,51 @@
     },
     {
       "chainId": 146,
-      "address": "0x79bbf4508b1391af3a0f4b30bb5fc4aa9ab0e07c",
-      "name": "Hey Anon",
-      "symbol": "ANON",
+      "address": "0xb4444468e444f89e1c2cac2f1d3ee7e336cbd1f5",
+      "name": "Rezerve Money",
+      "symbol": "RZR",
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/52961/thumb/AAI__ANON_SQ_Wb_250x250.png?1740500195"
+      "logoURI": "https://assets.coingecko.com/coins/images/67679/thumb/New_Project_%289%29.png?1753503135"
     },
     {
       "chainId": 146,
-      "address": "0xf26ff70573ddc8a90bd7865af8d7d70b8ff019bc",
-      "name": "Eggs Finance",
-      "symbol": "EGGS",
+      "address": "0x6c9b3a74ae4779da5ca999371ee8950e8db3407f",
+      "name": "Fly",
+      "symbol": "FLY",
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/54477/thumb/eggs-logo200px.png?1739954642"
+      "logoURI": "https://assets.coingecko.com/coins/images/66394/thumb/fly.jpg?1749286672"
     },
     {
       "chainId": 146,
-      "address": "0x7f883da3b0d77978075f7c9c03e1b9f461ca1b8d",
-      "name": "Muttski",
-      "symbol": "WOOF",
-      "decimals": 9,
-      "logoURI": "https://assets.coingecko.com/coins/images/54318/thumb/muttski.jpg?1739233507"
+      "address": "0x71e99522ead5e21cf57f1f542dc4ad2e841f7321",
+      "name": "Metropolis",
+      "symbol": "METRO",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/54040/thumb/metropolis_logo_square.png?1738076053"
     },
     {
       "chainId": 146,
-      "address": "0x0c4e186eae8acaa7f7de1315d5ad174be39ec987",
-      "name": "Angles Staked Sonic",
-      "symbol": "ANS",
+      "address": "0xe5da20f15420ad15de0fa650600afc998bbe3955",
+      "name": "Beets Staked Sonic",
+      "symbol": "STS",
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/66942/thumb/Angleslogo.png?1751108670"
+      "logoURI": "https://assets.coingecko.com/coins/images/52937/thumb/token-beets-staked-sonic.png?1734712659"
     },
     {
       "chainId": 146,
-      "address": "0xf61ccfc0ec470b2595fa08132c0102968b36cabc",
-      "name": "SONAR",
-      "symbol": "SONAR",
+      "address": "0x4451765739b2d7bce5f8bc95beaf966c45e1dcc9",
+      "name": "XSilo",
+      "symbol": "XSILO",
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/55268/thumb/SONAR.JPG?1745113491"
+      "logoURI": "https://assets.coingecko.com/coins/images/66788/thumb/xSILO.png?1750575606"
+    },
+    {
+      "chainId": 146,
+      "address": "0xb1e25689d55734fd3fffc939c4c3eb52dff8a794",
+      "name": "Origin Sonic",
+      "symbol": "OS",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/53773/thumb/os-256x256.png?1737271726"
     },
     {
       "chainId": 146,
@@ -864,6 +864,14 @@
     },
     {
       "chainId": 146,
+      "address": "0xd75787ba9aba324420d522bda84c08c87e5099b1",
+      "name": "Kelp DAO Restaked ETH",
+      "symbol": "RSETH",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/33800/thumb/Icon___Dark.png?1702991855"
+    },
+    {
+      "chainId": 146,
       "address": "0x2f2f2f74ab5db61ae8bd3c13ccd4dc8c9e8a2f2f",
       "name": "zkSwap Finance",
       "symbol": "ZF",
@@ -929,7 +937,7 @@
   ],
   "version": {
     "major": 23,
-    "minor": 0,
-    "patch": 2
+    "minor": 1,
+    "patch": 0
   }
 }

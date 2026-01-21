@@ -4,16 +4,8 @@
   "keywords": [
     "defi"
   ],
-  "timestamp": "2026-01-19T06:00:48.540+00:00",
+  "timestamp": "2026-01-21T10:00:44.243+00:00",
   "tokens": [
-    {
-      "chainId": 1923,
-      "address": "0x4200000000000000000000000000000000000006",
-      "name": "Layerzero Bridged Wrapped Ether (Swellchain)",
-      "symbol": "WETH",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/54515/thumb/weth_2.jpg?1740119347"
-    },
     {
       "chainId": 1923,
       "address": "0x1cf7b5f266a0f39d6f9408b90340e3e71df8bf7b",
@@ -24,19 +16,27 @@
     },
     {
       "chainId": 1923,
-      "address": "0x2826d136f5630ada89c1678b64a61620aab77aea",
-      "name": "Layerzero Bridged Swell",
-      "symbol": "SWELL",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/53670/thumb/66ff8288d441ad252025f769_swellToken.png?1737007034"
-    },
-    {
-      "chainId": 1923,
       "address": "0x0000baa0b1678229863c0a941c1056b83a1955f5",
       "name": "Orki USDK",
       "symbol": "USDK",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/55912/thumb/Orki-Stablecoin-RGB-Blue.png?1747677290"
+    },
+    {
+      "chainId": 1923,
+      "address": "0x4200000000000000000000000000000000000006",
+      "name": "Layerzero Bridged Wrapped Ether (Swellchain)",
+      "symbol": "WETH",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/54515/thumb/weth_2.jpg?1740119347"
+    },
+    {
+      "chainId": 1923,
+      "address": "0x2826d136f5630ada89c1678b64a61620aab77aea",
+      "name": "Layerzero Bridged Swell",
+      "symbol": "SWELL",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/53670/thumb/66ff8288d441ad252025f769_swellToken.png?1737007034"
     },
     {
       "chainId": 1923,
@@ -128,6 +128,14 @@
     },
     {
       "chainId": 1923,
+      "address": "0xc3eacf0612346366db554c991d7858716db09f58",
+      "name": "Kelp DAO Restaked ETH",
+      "symbol": "RSETH",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/33800/thumb/Icon___Dark.png?1702991855"
+    },
+    {
+      "chainId": 1923,
       "address": "0x3d63825b0d8669307366e6c8202f656b9e91d368",
       "name": "Wild Goat Coin",
       "symbol": "WGC",
@@ -137,7 +145,7 @@
   ],
   "version": {
     "major": 4,
-    "minor": 0,
-    "patch": 2
+    "minor": 1,
+    "patch": 0
   }
 }

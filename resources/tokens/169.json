@@ -4,47 +4,15 @@
   "keywords": [
     "defi"
   ],
-  "timestamp": "2025-12-12T12:00:26.183+00:00",
+  "timestamp": "2026-01-21T10:00:21.790+00:00",
   "tokens": [
     {
       "chainId": 169,
-      "address": "0xaccbc418a994a27a75644d8d591afc22faba594e",
-      "name": "Manta mETH",
-      "symbol": "METH",
+      "address": "0x649d4524897ce85a864dc2a2d5a11adb3044f44a",
+      "name": "Manta mUSD",
+      "symbol": "MUSD",
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/38337/thumb/token_m_eth.png?1717126380"
-    },
-    {
-      "chainId": 169,
-      "address": "0x9582b518d28dc65945f8151c25e44a4e80504205",
-      "name": "GULL",
-      "symbol": "GULL",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/51373/thumb/gulllogo.png?1730938086"
-    },
-    {
-      "chainId": 169,
-      "address": "0xb73603c5d87fa094b7314c74ace2e64d165016fb",
-      "name": "Bridged USD Coin (Manta Pacific)",
-      "symbol": "USDC",
-      "decimals": 6,
-      "logoURI": "https://assets.coingecko.com/coins/images/32215/thumb/usdc.png?1696832099"
-    },
-    {
-      "chainId": 169,
-      "address": "0x95cef13441be50d20ca4558cc0a27b601ac544e5",
-      "name": "Manta Network",
-      "symbol": "MANTA",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/34289/thumb/manta.jpg?1704468717"
-    },
-    {
-      "chainId": 169,
-      "address": "0x41c49790967067a71f893b51f2f311ace46fb773",
-      "name": "CirclePacific",
-      "symbol": "CIRCLE",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/34757/thumb/logo.png?1705981096"
+      "logoURI": "https://assets.coingecko.com/coins/images/38336/thumb/token_m_usd.png?1717126272"
     },
     {
       "chainId": 169,
@@ -56,11 +24,11 @@
     },
     {
       "chainId": 169,
-      "address": "0xcd5d6de3fdbce1895f0dac13a065673599ed6806",
-      "name": "AsMatch",
-      "symbol": "ASM",
+      "address": "0xaccbc418a994a27a75644d8d591afc22faba594e",
+      "name": "Manta mETH",
+      "symbol": "METH",
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/33920/thumb/AsMatch_coin_image.jpg?1703363249"
+      "logoURI": "https://assets.coingecko.com/coins/images/38337/thumb/token_m_eth.png?1717126380"
     },
     {
       "chainId": 169,
@@ -72,11 +40,11 @@
     },
     {
       "chainId": 169,
-      "address": "0x649d4524897ce85a864dc2a2d5a11adb3044f44a",
-      "name": "Manta mUSD",
-      "symbol": "MUSD",
+      "address": "0x2fe3ad97a60eb7c79a976fc18bb5ffd07dd94ba5",
+      "name": "Bridged Wrapped stETH (Manta Pacific)",
+      "symbol": "WSTETH",
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/38336/thumb/token_m_usd.png?1717126272"
+      "logoURI": "https://assets.coingecko.com/coins/images/32218/thumb/wstETH.png?1696832978"
     },
     {
       "chainId": 169,
@@ -96,11 +64,43 @@
     },
     {
       "chainId": 169,
-      "address": "0x2fe3ad97a60eb7c79a976fc18bb5ffd07dd94ba5",
-      "name": "Bridged Wrapped stETH (Manta Pacific)",
-      "symbol": "WSTETH",
+      "address": "0xb73603c5d87fa094b7314c74ace2e64d165016fb",
+      "name": "Bridged USD Coin (Manta Pacific)",
+      "symbol": "USDC",
+      "decimals": 6,
+      "logoURI": "https://assets.coingecko.com/coins/images/32215/thumb/usdc.png?1696832099"
+    },
+    {
+      "chainId": 169,
+      "address": "0x41c49790967067a71f893b51f2f311ace46fb773",
+      "name": "CirclePacific",
+      "symbol": "CIRCLE",
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/32218/thumb/wstETH.png?1696832978"
+      "logoURI": "https://assets.coingecko.com/coins/images/34757/thumb/logo.png?1705981096"
+    },
+    {
+      "chainId": 169,
+      "address": "0x9582b518d28dc65945f8151c25e44a4e80504205",
+      "name": "GULL",
+      "symbol": "GULL",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/51373/thumb/gulllogo.png?1730938086"
+    },
+    {
+      "chainId": 169,
+      "address": "0xcd5d6de3fdbce1895f0dac13a065673599ed6806",
+      "name": "AsMatch",
+      "symbol": "ASM",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/33920/thumb/AsMatch_coin_image.jpg?1703363249"
+    },
+    {
+      "chainId": 169,
+      "address": "0x95cef13441be50d20ca4558cc0a27b601ac544e5",
+      "name": "Manta Network",
+      "symbol": "MANTA",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/34289/thumb/manta.jpg?1704468717"
     },
     {
       "chainId": 169,
@@ -125,6 +125,14 @@
       "symbol": "BEL",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/12478/thumb/Bella.png?1696512296"
+    },
+    {
+      "chainId": 169,
+      "address": "0x4186bfc76e2e237523cbc30fd220fe055156b41f",
+      "name": "Kelp DAO Restaked ETH",
+      "symbol": "RSETH",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/33800/thumb/Icon___Dark.png?1702991855"
     },
     {
       "chainId": 169,
@@ -241,7 +249,7 @@
   ],
   "version": {
     "major": 15,
-    "minor": 0,
-    "patch": 1
+    "minor": 1,
+    "patch": 0
   }
 }

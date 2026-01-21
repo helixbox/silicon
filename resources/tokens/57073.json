@@ -4,7 +4,7 @@
   "keywords": [
     "defi"
   ],
-  "timestamp": "2026-01-19T06:00:41.751+00:00",
+  "timestamp": "2026-01-21T10:00:37.848+00:00",
   "tokens": [
     {
       "chainId": 57073,
@@ -13,6 +13,14 @@
       "symbol": "WATCH",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/67089/thumb/GkveKRgXcAESEPj_%281%29.png?1751702681"
+    },
+    {
+      "chainId": 57073,
+      "address": "0x4200000000000000000000000000000000000006",
+      "name": "Ink Bridged WETH (Ink)",
+      "symbol": "WETH",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/52918/thumb/weth_2.jpg?1734684690"
     },
     {
       "chainId": 57073,
@@ -32,27 +40,11 @@
     },
     {
       "chainId": 57073,
-      "address": "0x4200000000000000000000000000000000000006",
-      "name": "Ink Bridged WETH (Ink)",
-      "symbol": "WETH",
+      "address": "0x20c69c12abf2b6f8d8ca33604dd25c700c7e70a5",
+      "name": "Cat Call Agent",
+      "symbol": "CAT",
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/52918/thumb/weth_2.jpg?1734684690"
-    },
-    {
-      "chainId": 57073,
-      "address": "0x0200c29006150606b650577bbe7b6248f58470c1",
-      "name": "USDT0",
-      "symbol": "USDT0",
-      "decimals": 6,
-      "logoURI": "https://assets.coingecko.com/coins/images/53705/thumb/usdt0.jpg?1737086183"
-    },
-    {
-      "chainId": 57073,
-      "address": "0x7160644365e7011fa96ce60706743b434df32690",
-      "name": "KEK",
-      "symbol": "KEK",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/67904/thumb/200x200.jpg?1754222647"
+      "logoURI": "https://assets.coingecko.com/coins/images/54745/thumb/DV_dS5E9_400x400_%282%29.png?1741326959"
     },
     {
       "chainId": 57073,
@@ -64,11 +56,19 @@
     },
     {
       "chainId": 57073,
-      "address": "0x20c69c12abf2b6f8d8ca33604dd25c700c7e70a5",
-      "name": "Cat Call Agent",
-      "symbol": "CAT",
+      "address": "0x7160644365e7011fa96ce60706743b434df32690",
+      "name": "KEK",
+      "symbol": "KEK",
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/54745/thumb/DV_dS5E9_400x400_%282%29.png?1741326959"
+      "logoURI": "https://assets.coingecko.com/coins/images/67904/thumb/200x200.jpg?1754222647"
+    },
+    {
+      "chainId": 57073,
+      "address": "0x0200c29006150606b650577bbe7b6248f58470c1",
+      "name": "USDT0",
+      "symbol": "USDT0",
+      "decimals": 6,
+      "logoURI": "https://assets.coingecko.com/coins/images/53705/thumb/usdt0.jpg?1737086183"
     },
     {
       "chainId": 57073,
@@ -117,6 +117,14 @@
       "symbol": "EZETH",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/34753/thumb/Ezeth_logo_circle.png?1713496404"
+    },
+    {
+      "chainId": 57073,
+      "address": "0xc3eacf0612346366db554c991d7858716db09f58",
+      "name": "Kelp DAO Restaked ETH",
+      "symbol": "RSETH",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/33800/thumb/Icon___Dark.png?1702991855"
     },
     {
       "chainId": 57073,
@@ -257,7 +265,7 @@
   ],
   "version": {
     "major": 3,
-    "minor": 15,
-    "patch": 2
+    "minor": 16,
+    "patch": 0
   }
 }

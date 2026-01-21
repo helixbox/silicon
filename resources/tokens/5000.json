@@ -4,8 +4,32 @@
   "keywords": [
     "defi"
   ],
-  "timestamp": "2026-01-19T06:00:38.937+00:00",
+  "timestamp": "2026-01-21T10:00:35.155+00:00",
   "tokens": [
+    {
+      "chainId": 5000,
+      "address": "0x78c1b0c915c4faa5fffa6cabf0219da63d7f4cb8",
+      "name": "Wrapped Mantle",
+      "symbol": "WMNT",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/30983/thumb/mantle.jpeg?1696529822"
+    },
+    {
+      "chainId": 5000,
+      "address": "0x26a6b0dcdcfb981362afa56d581e4a7dba3be140",
+      "name": "Puff The Dragon",
+      "symbol": "PUFF",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/35950/thumb/photo_2024-03-11_10.18.27.jpeg?1710240090"
+    },
+    {
+      "chainId": 5000,
+      "address": "0x09bc4e0d864854c6afb6eb9a9cdf58ac190d0df9",
+      "name": "Mantle Bridged USDC (Mantle)",
+      "symbol": "USDC",
+      "decimals": 6,
+      "logoURI": "https://assets.coingecko.com/coins/images/35296/thumb/USDC_Icon.png?1708082083"
+    },
     {
       "chainId": 5000,
       "address": "0xabbeed1d173541e0546b38b1c0394975be200000",
@@ -32,19 +56,11 @@
     },
     {
       "chainId": 5000,
-      "address": "0x78c1b0c915c4faa5fffa6cabf0219da63d7f4cb8",
-      "name": "Wrapped Mantle",
-      "symbol": "WMNT",
+      "address": "0x4515a45337f461a11ff0fe8abf3c606ae5dc00c9",
+      "name": "MOE",
+      "symbol": "MOE",
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/30983/thumb/mantle.jpeg?1696529822"
-    },
-    {
-      "chainId": 5000,
-      "address": "0x26a6b0dcdcfb981362afa56d581e4a7dba3be140",
-      "name": "Puff The Dragon",
-      "symbol": "PUFF",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/35950/thumb/photo_2024-03-11_10.18.27.jpeg?1710240090"
+      "logoURI": "https://assets.coingecko.com/coins/images/34422/thumb/MOE.png?1704821927"
     },
     {
       "chainId": 5000,
@@ -60,22 +76,6 @@
       "name": "Mantle USD",
       "symbol": "MUSD",
       "decimals": 18
-    },
-    {
-      "chainId": 5000,
-      "address": "0x09bc4e0d864854c6afb6eb9a9cdf58ac190d0df9",
-      "name": "Mantle Bridged USDC (Mantle)",
-      "symbol": "USDC",
-      "decimals": 6,
-      "logoURI": "https://assets.coingecko.com/coins/images/35296/thumb/USDC_Icon.png?1708082083"
-    },
-    {
-      "chainId": 5000,
-      "address": "0x4515a45337f461a11ff0fe8abf3c606ae5dc00c9",
-      "name": "MOE",
-      "symbol": "MOE",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/34422/thumb/MOE.png?1704821927"
     },
     {
       "chainId": 5000,
@@ -188,6 +188,14 @@
       "symbol": "USDY",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/31700/thumb/usdy_%281%29.png?1696530524"
+    },
+    {
+      "chainId": 5000,
+      "address": "0x4186bfc76e2e237523cbc30fd220fe055156b41f",
+      "name": "Kelp DAO Restaked ETH",
+      "symbol": "RSETH",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/33800/thumb/Icon___Dark.png?1702991855"
     },
     {
       "chainId": 5000,
@@ -616,7 +624,7 @@
   ],
   "version": {
     "major": 21,
-    "minor": 0,
-    "patch": 2
+    "minor": 1,
+    "patch": 0
   }
 }
