@@ -4,7 +4,7 @@
   "keywords": [
     "defi"
   ],
-  "timestamp": "2025-10-09T17:00:33.666+00:00",
+  "timestamp": "2026-01-20T13:00:29.669+00:00",
   "tokens": [
     {
       "chainId": 388,
@@ -24,14 +24,6 @@
     },
     {
       "chainId": 388,
-      "address": "0xcaf2fd3f47e7f46e99f74be579b2cc2233f33ef8",
-      "name": "H2 Finance",
-      "symbol": "$H2",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/39766/thumb/H2_Finance.png?1724018149"
-    },
-    {
-      "chainId": 388,
       "address": "0x18d40bd95e34d1a4fcaf9027db11f6988e5b860a",
       "name": "AgentFun.AI",
       "symbol": "AGENTFUN",
@@ -40,19 +32,27 @@
     },
     {
       "chainId": 388,
-      "address": "0x66b1e42b2d5bce3d701efa3c86cc334d80ceefab",
-      "name": "AMPLY",
-      "symbol": "AMPLY",
+      "address": "0xc1bf55ee54e16229d9b369a5502bfe5fc9f20b6d",
+      "name": "Wrapped zkCRO",
+      "symbol": "WZKCRO",
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/51236/thumb/Token_%282%29.png?1730448040"
+      "logoURI": "https://assets.coingecko.com/coins/images/39773/thumb/Cronos_zkEVM_ZKCRO_Token_Logo_2.png?1724056918"
     },
     {
       "chainId": 388,
-      "address": "0xf226a595b83056ff3d26b827e3d5b0896e4392a9",
-      "name": "Veno Yield Bearing ETH",
-      "symbol": "YBETH",
+      "address": "0xcaf2fd3f47e7f46e99f74be579b2cc2233f33ef8",
+      "name": "H2 Finance",
+      "symbol": "$H2",
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/39978/thumb/Rectangle_381.png?1724994497"
+      "logoURI": "https://assets.coingecko.com/coins/images/39766/thumb/H2_Finance.png?1724018149"
+    },
+    {
+      "chainId": 388,
+      "address": "0x5b91e29ae5a71d9052620acb813d5ac25ec7a4a2",
+      "name": "Veno USD",
+      "symbol": "VUSD",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/39775/thumb/Screenshot_2024-08-19_at_5.09.13%E2%80%AFPM.png?1724058679"
     },
     {
       "chainId": 388,
@@ -72,14 +72,6 @@
     },
     {
       "chainId": 388,
-      "address": "0xc1bf55ee54e16229d9b369a5502bfe5fc9f20b6d",
-      "name": "Wrapped zkCRO",
-      "symbol": "WZKCRO",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/39773/thumb/Cronos_zkEVM_ZKCRO_Token_Logo_2.png?1724056918"
-    },
-    {
-      "chainId": 388,
       "address": "0xbcaa34ff9d5bfd0d948b18cf6bf39a882f4a1cbd",
       "name": "Cronos zkEVM Bridged CRO (Cronos zkEVM)",
       "symbol": "CRO",
@@ -88,19 +80,27 @@
     },
     {
       "chainId": 388,
+      "address": "0x66b1e42b2d5bce3d701efa3c86cc334d80ceefab",
+      "name": "AMPLY",
+      "symbol": "AMPLY",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/51236/thumb/Token_%282%29.png?1730448040"
+    },
+    {
+      "chainId": 388,
+      "address": "0xf226a595b83056ff3d26b827e3d5b0896e4392a9",
+      "name": "Veno Yield Bearing ETH",
+      "symbol": "YBETH",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/39978/thumb/Rectangle_381.png?1724994497"
+    },
+    {
+      "chainId": 388,
       "address": "0x271602a97027ee1dd03b1e6e5db153eb659a80b1",
       "name": "Veno ETH",
       "symbol": "VETH",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/39776/thumb/Screenshot_2024-08-19_at_5.07.51%E2%80%AFPM.png?1724058891"
-    },
-    {
-      "chainId": 388,
-      "address": "0x5b91e29ae5a71d9052620acb813d5ac25ec7a4a2",
-      "name": "Veno USD",
-      "symbol": "VUSD",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/39775/thumb/Screenshot_2024-08-19_at_5.09.13%E2%80%AFPM.png?1724058679"
     },
     {
       "chainId": 388,
@@ -113,7 +113,7 @@
     {
       "chainId": 388,
       "address": "0xc80b437c4c0f9c74cfb2e2d063a58ffb4f82d4f0",
-      "name": "Moonflow",
+      "name": "Moonflow [OLD]",
       "symbol": "MOON",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/34862/thumb/profile_pic_test_%281%29.jpg?1716085666"
@@ -138,6 +138,6 @@
   "version": {
     "major": 5,
     "minor": 1,
-    "patch": 2
+    "patch": 3
   }
 }
