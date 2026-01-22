@@ -4,8 +4,16 @@
   "keywords": [
     "defi"
   ],
-  "timestamp": "2025-09-29T09:00:47.910+00:00",
+  "timestamp": "2026-01-22T07:00:43.778+00:00",
   "tokens": [
+    {
+      "chainId": 31612,
+      "address": "0x7b7c000000000000000000000000000000000001",
+      "name": "MEZO",
+      "symbol": "MEZO",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/71716/thumb/KnBgdkXh_400x400_%281%29.jpg?1769058618"
+    },
     {
       "chainId": 31612,
       "address": "0x04671c72aab5ac02a03c1098314b1bb6b560c197",
@@ -16,19 +24,19 @@
     },
     {
       "chainId": 31612,
-      "address": "0x7b7c000000000000000000000000000000000000",
-      "name": "Mezo Wrapped BTC",
-      "symbol": "BTC",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/68244/thumb/btc.png?1755159546"
-    },
-    {
-      "chainId": 31612,
       "address": "0xeb5a5d39de4ea42c2aa6a57eca2894376683bb8e",
       "name": "Mezo Bridged USDT (Mezo)",
       "symbol": "MUSDT",
       "decimals": 6,
       "logoURI": "https://assets.coingecko.com/coins/images/68246/thumb/usdt.jpg?1755159808"
+    },
+    {
+      "chainId": 31612,
+      "address": "0x7b7c000000000000000000000000000000000000",
+      "name": "Mezo Wrapped BTC",
+      "symbol": "BTC",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/68244/thumb/btc.png?1755159546"
     },
     {
       "chainId": 31612,
@@ -41,7 +49,7 @@
   ],
   "version": {
     "major": 0,
-    "minor": 1,
-    "patch": 2
+    "minor": 2,
+    "patch": 0
   }
 }
