@@ -4,7 +4,7 @@
   "keywords": [
     "defi"
   ],
-  "timestamp": "2026-01-21T09:00:26.217+00:00",
+  "timestamp": "2026-01-23T07:00:26.046+00:00",
   "tokens": [
     {
       "chainId": 130,
@@ -32,6 +32,14 @@
     },
     {
       "chainId": 130,
+      "address": "0x756ee6857f915a2b5366f2ef56d8d13857aef8ad",
+      "name": "Catex",
+      "symbol": "CATX",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/67331/thumb/Catex_logo_Coinbgecko.png?1752402945"
+    },
+    {
+      "chainId": 130,
       "address": "0x927b51f251480a681271180da4de28d44ec4afb8",
       "name": "Unichain Bridged WBTC (Unichain)",
       "symbol": "WBTC",
@@ -45,14 +53,6 @@
       "symbol": "HOOF",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/55345/thumb/Logo_%282%29.png?1745565191"
-    },
-    {
-      "chainId": 130,
-      "address": "0x756ee6857f915a2b5366f2ef56d8d13857aef8ad",
-      "name": "Catex",
-      "symbol": "CATX",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/67331/thumb/Catex_logo_Coinbgecko.png?1752402945"
     },
     {
       "chainId": 130,
@@ -133,14 +133,6 @@
       "symbol": "BETS",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/26618/thumb/icon_200.png?1696525691"
-    },
-    {
-      "chainId": 130,
-      "address": "0x139451953ef1865c096f89c5e522c081dc3b5f11",
-      "name": "Plasma",
-      "symbol": "XPL",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/66489/thumb/Plasma-symbol-green-1.png?1755142558"
     },
     {
       "chainId": 130,
@@ -309,11 +301,19 @@
       "symbol": "RSETH",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/33800/thumb/Icon___Dark.png?1702991855"
+    },
+    {
+      "chainId": 130,
+      "address": "0x139451953ef1865c096f89c5e522c081dc3b5f11",
+      "name": "Wrapped XPL",
+      "symbol": "WXPL",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/69509/thumb/plasma.png?1758805469"
     }
   ],
   "version": {
     "major": 3,
     "minor": 3,
-    "patch": 3
+    "patch": 4
   }
 }
