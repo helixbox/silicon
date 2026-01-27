@@ -4,16 +4,8 @@
   "keywords": [
     "defi"
   ],
-  "timestamp": "2026-01-23T07:00:26.046+00:00",
+  "timestamp": "2026-01-27T04:00:25.888+00:00",
   "tokens": [
-    {
-      "chainId": 130,
-      "address": "0x926dc7b96bb2f4a91c2a67e291faf482691a3001",
-      "name": "Unicorn",
-      "symbol": "UNICORN",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/54332/thumb/unicorn.jpg?1739325321"
-    },
     {
       "chainId": 130,
       "address": "0xabe69c550ea6ec22bed4b92614511c4f31bb0f64",
@@ -69,6 +61,14 @@
       "symbol": "WETH",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/54331/thumb/weth_2.jpg?1739325052"
+    },
+    {
+      "chainId": 130,
+      "address": "0x926dc7b96bb2f4a91c2a67e291faf482691a3001",
+      "name": "Unicorn",
+      "symbol": "UNICORN",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/54332/thumb/unicorn.jpg?1739325321"
     },
     {
       "chainId": 130,
@@ -133,6 +133,14 @@
       "symbol": "BETS",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/26618/thumb/icon_200.png?1696525691"
+    },
+    {
+      "chainId": 130,
+      "address": "0x139451953ef1865c096f89c5e522c081dc3b5f11",
+      "name": "Plasma",
+      "symbol": "XPL",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/66489/thumb/Plasma-symbol-green-1.png?1755142558"
     },
     {
       "chainId": 130,
@@ -301,19 +309,11 @@
       "symbol": "RSETH",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/33800/thumb/Icon___Dark.png?1702991855"
-    },
-    {
-      "chainId": 130,
-      "address": "0x139451953ef1865c096f89c5e522c081dc3b5f11",
-      "name": "Wrapped XPL",
-      "symbol": "WXPL",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/69509/thumb/plasma.png?1758805469"
     }
   ],
   "version": {
     "major": 3,
     "minor": 3,
-    "patch": 4
+    "patch": 5
   }
 }

@@ -4,16 +4,8 @@
   "keywords": [
     "defi"
   ],
-  "timestamp": "2026-01-26T06:00:24.703+00:00",
+  "timestamp": "2026-01-27T04:00:27.633+00:00",
   "tokens": [
-    {
-      "chainId": 30,
-      "address": "0xef213441a85df4d7acbdae0cf78004e1e486bb96",
-      "name": "Rootstock Bridged USDT (Rootstock)",
-      "symbol": "RUSDT",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/67003/thumb/tether-usdt-logo.png?1751445952"
-    },
     {
       "chainId": 30,
       "address": "0x9ac7fe28967b30e3a4e6e03286d715b42b453d10",
@@ -24,11 +16,11 @@
     },
     {
       "chainId": 30,
-      "address": "0x967f8799af07df1534d48a95a5c9febe92c53ae0",
-      "name": "Wrapped rBTC",
-      "symbol": "WRBTC",
+      "address": "0xef213441a85df4d7acbdae0cf78004e1e486bb96",
+      "name": "Rootstock Bridged USDT (Rootstock)",
+      "symbol": "RUSDT",
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/71617/thumb/wrapped-rbtc.jpg?1768560194"
+      "logoURI": "https://assets.coingecko.com/coins/images/67003/thumb/tether-usdt-logo.png?1751445952"
     },
     {
       "chainId": 30,
@@ -56,22 +48,6 @@
     },
     {
       "chainId": 30,
-      "address": "0x5db91e24bd32059584bbdb831a901f1199f3d459",
-      "name": "Staked RIF",
-      "symbol": "STRIF",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/71616/thumb/staked-rif.jpg?1768559807"
-    },
-    {
-      "chainId": 30,
-      "address": "0xc1411567d2670e24d9c4daaa7cda95686e1250aa",
-      "name": "Sovryn Dollar",
-      "symbol": "DLLR",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/30947/thumb/sovryn_dllr.jpg?1696529786"
-    },
-    {
-      "chainId": 30,
       "address": "0xe700691da7b9851f2f35f8b8182c69c53ccad9db",
       "name": "Dollar On Chain",
       "symbol": "DOC",
@@ -80,11 +56,35 @@
     },
     {
       "chainId": 30,
+      "address": "0x5db91e24bd32059584bbdb831a901f1199f3d459",
+      "name": "Staked RIF",
+      "symbol": "STRIF",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/71616/thumb/staked-rif.jpg?1768559807"
+    },
+    {
+      "chainId": 30,
       "address": "0xb5999795be0ebb5bab23144aa5fd6a02d080299f",
       "name": "XUSD (BabelFish)",
       "symbol": "XUSD",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/28294/thumb/XUSD.png?1696527293"
+    },
+    {
+      "chainId": 30,
+      "address": "0x967f8799af07df1534d48a95a5c9febe92c53ae0",
+      "name": "Wrapped rBTC",
+      "symbol": "WRBTC",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/71617/thumb/wrapped-rbtc.jpg?1768560194"
+    },
+    {
+      "chainId": 30,
+      "address": "0xc1411567d2670e24d9c4daaa7cda95686e1250aa",
+      "name": "Sovryn Dollar",
+      "symbol": "DLLR",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/30947/thumb/sovryn_dllr.jpg?1696529786"
     },
     {
       "chainId": 30,
@@ -200,14 +200,6 @@
     },
     {
       "chainId": 30,
-      "address": "0x7f71f02ae0945364f658860d67dbc10c86ca3a3c",
-      "name": "Midas Hyperithm BTC",
-      "symbol": "MHYPERBTC",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/71550/thumb/mhyperbtc-Bvh-K9IL.png?1768299091"
-    },
-    {
-      "chainId": 30,
       "address": "0xaf368c91793cb22739386dfcbbb2f1a9e4bcbebf",
       "name": "Stargate Bridged USDT",
       "symbol": "USDT",
@@ -216,8 +208,8 @@
     }
   ],
   "version": {
-    "major": 1,
-    "minor": 1,
+    "major": 2,
+    "minor": 0,
     "patch": 0
   }
 }

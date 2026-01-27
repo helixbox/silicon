@@ -4726,6 +4726,14 @@
     }
   },
   {
+    "id": "ai-powered-finance",
+    "symbol": "aipf",
+    "name": "AI Powered Finance",
+    "platforms": {
+      "polygon-pos": "0x2c72d25530191ebd244eb6325e1892480b0e6e28"
+    }
+  },
+  {
     "id": "ai-power-grid",
     "symbol": "aipg",
     "name": "AI Power Grid",
@@ -10655,8 +10663,8 @@
     "name": "Astrovault",
     "platforms": {
       "archway": "archway1ecjefhcf8r60wtfnhwefrxhj9caeqa90fj58cqsaafqveawn6cjs5znd2n",
-      "nibiru": "tf/nibi1vetfuua65frvf6f458xgtjerf0ra7wwjykrdpuyn0jur5x07awxsfka0ga/axv",
-      "neutron": "neutron10dxyft3nv4vpxh5vrpn0xw8geej8dw3g39g7nqp8mrm307ypssksau29af"
+      "neutron": "neutron10dxyft3nv4vpxh5vrpn0xw8geej8dw3g39g7nqp8mrm307ypssksau29af",
+      "nibiru": "tf/nibi1vetfuua65frvf6f458xgtjerf0ra7wwjykrdpuyn0jur5x07awxsfka0ga/axv"
     }
   },
   {
@@ -29627,8 +29635,8 @@
     "name": "Chilean Peso",
     "platforms": {
       "world-chain": "0x61d450a098b6a7f69fc4b98ce68198fe59768651",
-      "ethereum": "0x61d450a098b6a7f69fc4b98ce68198fe59768651",
-      "base": "0x61d450a098b6a7f69fc4b98ce68198fe59768651"
+      "base": "0x61d450a098b6a7f69fc4b98ce68198fe59768651",
+      "ethereum": "0x61d450a098b6a7f69fc4b98ce68198fe59768651"
     }
   },
   {
@@ -29903,6 +29911,14 @@
     "name": "CHIPS Protocol",
     "platforms": {
       "binance-smart-chain": "0xceed119bbb38518962a2c130f0354cdcbd35d782"
+    }
+  },
+  {
+    "id": "chip-the-wooly-mouse",
+    "symbol": "chip",
+    "name": "Chip The Wooly Mouse",
+    "platforms": {
+      "solana": "7kAux1bLGB68VzisQaaXiNKg3sjP89uDDotpuKmTpump"
     }
   },
   {
@@ -52883,14 +52899,6 @@
     }
   },
   {
-    "id": "force-bridge-usdc",
-    "symbol": "usdc",
-    "name": "Bridged USD Coin (Force Bridge)",
-    "platforms": {
-      "godwoken": "0x186181e225dc1ad85a4a94164232bd261e351c33"
-    }
-  },
-  {
     "id": "forcefi",
     "symbol": "forc",
     "name": "Forcefi",
@@ -53081,6 +53089,16 @@
     "name": "Fort Block Games",
     "platforms": {
       "avalanche": "0x9728db5817d51ccec8605f97fbc598302dda4f66"
+    }
+  },
+  {
+    "id": "forte-aud",
+    "symbol": "audf",
+    "name": "Forte AUD",
+    "platforms": {
+      "ethereum": "0xd2a530170d71a9cfe1651fb468e2b98f7ed7456b",
+      "avalanche": "0xd2a530170d71a9cfe1651fb468e2b98f7ed7456b",
+      "polygon-pos": "0xd2a530170d71a9cfe1651fb468e2b98f7ed7456b"
     }
   },
   {
@@ -54119,11 +54137,11 @@
     "platforms": {
       "ethereum": "0x5e817f2abccb9095585d26c2a3ce234a440574fc",
       "avalanche": "0x5e817f2abccb9095585d26c2a3ce234a440574fc",
+      "solana": "FRNTPi9V3Sw9b9U8d5Q3WY7tNANT6Q394d7dYtv7Jdog",
+      "base": "0x5e817f2abccb9095585d26c2a3ce234a440574fc",
       "polygon-pos": "0x5e817f2abccb9095585d26c2a3ce234a440574fc",
       "arbitrum-one": "0x5e817f2abccb9095585d26c2a3ce234a440574fc",
-      "optimistic-ethereum": "0x5e817f2abccb9095585d26c2a3ce234a440574fc",
-      "solana": "FRNTPi9V3Sw9b9U8d5Q3WY7tNANT6Q394d7dYtv7Jdog",
-      "base": "0x5e817f2abccb9095585d26c2a3ce234a440574fc"
+      "optimistic-ethereum": "0x5e817f2abccb9095585d26c2a3ce234a440574fc"
     }
   },
   {
@@ -76817,9 +76835,9 @@
     "platforms": {
       "injective": "ibc/4971C5E4786D5995EC7EF894FCFA9CF2E127E95D5D53A982F6A062F3F410EDB8",
       "osmosis": "factory/osmo1mlng7pz4pnyxtpq0akfwall37czyk9lukaucsrn30ameplhhshtqdvfm5c/ulvn",
+      "neutron": "ibc/4971C5E4786D5995EC7EF894FCFA9CF2E127E95D5D53A982F6A062F3F410EDB8",
       "terra-2": "ibc/4971C5E4786D5995EC7EF894FCFA9CF2E127E95D5D53A982F6A062F3F410EDB8",
-      "archway": "ibc/6A9571DE6A3F60D7703C3290E2944E806C15A47C1EA6D4AFCD3AE4DC8AF080B1",
-      "neutron": "ibc/4971C5E4786D5995EC7EF894FCFA9CF2E127E95D5D53A982F6A062F3F410EDB8"
+      "archway": "ibc/6A9571DE6A3F60D7703C3290E2944E806C15A47C1EA6D4AFCD3AE4DC8AF080B1"
     }
   },
   {
@@ -82219,14 +82237,6 @@
     }
   },
   {
-    "id": "margaritis",
-    "symbol": "marga",
-    "name": "Margaritis",
-    "platforms": {
-      "the-open-network": "EQBjEw-SOe8yV2kIbGVZGrsPpLTaaoAOE87CGXI2ca4XdzXA"
-    }
-  },
-  {
     "id": "marginswap",
     "symbol": "mfi",
     "name": "Marginswap",
@@ -86204,8 +86214,7 @@
     "symbol": "mhyperbtc",
     "name": "Midas Hyperithm BTC",
     "platforms": {
-      "ethereum": "0xc8495eaff71d3a563b906295fcf2f685b1783085",
-      "rootstock": "0x7f71f02ae0945364f658860d67dbc10c86ca3a3c"
+      "ethereum": "0xc8495eaff71d3a563b906295fcf2f685b1783085"
     }
   },
   {
@@ -86634,7 +86643,6 @@
     "platforms": {
       "ethereum": "0x6b4c7a5e3f0b99fcd83e9c089bddd6c7fce5c611",
       "tomochain": "0x0f320856fa4bc7e4030a6ab989d494c5e4d58308",
-      "solana": "2PoF4gqWg97yjJk276yUYaGVkkASE7tqAU7H5faEBkeC",
       "binance-smart-chain": "0xbf05279f9bf1ce69bbfed670813b7e431142afa4"
     }
   },
@@ -88247,7 +88255,6 @@
       "osmosis": "ibc/92AE2F53284505223A1BB80D132F859A00E190C6A738772F0B3EF65E20BA484F",
       "linea": "0x3ff47c5bf409c86533fe1f4907524d304062428d",
       "terra-2": "ibc/8D52B251B447B7160421ACFBD50F6B0ABE5F98D2C404B03701130F12044439A1",
-      "base": "0xbf6e2966a9c3d99c9e4d069e04f7bdb9c8aa762c",
       "scroll": "0xd7bb130a48595fcdf9480e36c1ae97ff2938ac21",
       "arbitrum-one": "0x0c06ccf38114ddfc35e07427b9424adcca9f44f8",
       "polygon-pos": "0xe0aea583266584dafbb3f9c3211d5588c73fea8d"
@@ -93380,14 +93387,6 @@
     "name": "NFPrompt",
     "platforms": {
       "binance-smart-chain": "0x551897f8203bd131b350601d3ac0679ba0fc0136"
-    }
-  },
-  {
-    "id": "nfstay",
-    "symbol": "stay",
-    "name": "NFsTay",
-    "platforms": {
-      "binance-smart-chain": "0x7f14ce2a5df31ad0d2bf658d3840b1f7559d3ee0"
     }
   },
   {
@@ -102028,8 +102027,7 @@
       "binance-smart-chain": "0x0a80bbfcfe280eb072e767e4c015a2fc2da5145c",
       "base": "0x5fe872bf640e06380b848976c7927827a0f2a3ce",
       "avalanche": "0x53c44c368a11f54b8dc496915dd71bd42bd64a91",
-      "solana": "FyJvH1WvCPPvhZaH8F46DAHdgMKvgKSvDRXF6A4Lp1Uv",
-      "monad": "0x85a0b9bda81a12c760e96497a5b7155dbf897a39"
+      "solana": "FyJvH1WvCPPvhZaH8F46DAHdgMKvgKSvDRXF6A4Lp1Uv"
     }
   },
   {
@@ -104238,7 +104236,10 @@
     "id": "plasma",
     "symbol": "xpl",
     "name": "Plasma",
-    "platforms": {}
+    "platforms": {
+      "unichain": "0x139451953ef1865c096f89c5e522c081dc3b5f11",
+      "plasma": "0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee"
+    }
   },
   {
     "id": "plasma-finance",
@@ -108725,8 +108726,7 @@
     "symbol": "pf",
     "name": "Purple Frog",
     "platforms": {
-      "ethereum": "0x491b67a94ec0a59b81b784f4719d0387c4510c36",
-      "base": "0x491b67a94ec0a59b81b784f4719d0387c4510c36"
+      "ethereum": "0x491b67a94ec0a59b81b784f4719d0387c4510c36"
     }
   },
   {
@@ -118695,9 +118695,9 @@
   {
     "id": "she-rises",
     "symbol": "aka",
-    "name": "She Rises",
+    "name": "Akasha",
     "platforms": {
-      "solana": "4TwC4AiF1uUSHES2eBftGqemp6TqjEnKghqiH6dFpump"
+      "solana": "9F6VbPeM8xR9Nkntyjp5nPY52w9YG9331bLuyhe3pump"
     }
   },
   {
@@ -123862,14 +123862,6 @@
     }
   },
   {
-    "id": "soulbucks",
-    "symbol": "sbx",
-    "name": "Soulbucks",
-    "platforms": {
-      "binance-smart-chain": "0x84fcb6f9031fce00bb89433d5df9e69a6ba3a4f8"
-    }
-  },
-  {
     "id": "soul-dog-city-bones",
     "symbol": "bones",
     "name": "Soul Dogs City Bones",
@@ -124149,8 +124141,7 @@
     "symbol": "space",
     "name": "Spacecoin",
     "platforms": {
-      "ethereum": "0x87acfa3fd7a6e0d48677d070644d76905c2bdc00",
-      "binance-smart-chain": "0x87acfa3fd7a6e0d48677d070644d76905c2bdc00"
+      "ethereum": "0x87acfa3fd7a6e0d48677d070644d76905c2bdc00"
     }
   },
   {
@@ -140893,6 +140884,16 @@
     }
   },
   {
+    "id": "usdm1",
+    "symbol": "usdm1",
+    "name": "USDM1",
+    "platforms": {
+      "ethereum": "0x90a1717e0dabe37693f79afe43ae236dc3b65957",
+      "solana": "BNgsQdjfWmjoy3cw8T3VXWswHfgCzEMyQzUno8gmzmRC",
+      "stellar": "CAC743NYRBMS76L2DCPAXZTOEF6EJPKPVEC5OX2SXY7HOWNXISSLUE2C"
+    }
+  },
+  {
     "id": "usdm-2",
     "symbol": "usdm",
     "name": "USDM",
@@ -142785,14 +142786,6 @@
     "name": "Vertus",
     "platforms": {
       "the-open-network": "EQDfglfrf0Os38cKPHaOKqQenJpls2s0cey8acQFjPC_VERT"
-    }
-  },
-  {
-    "id": "verum-coin",
-    "symbol": "verum",
-    "name": "Verum Coin",
-    "platforms": {
-      "binance-smart-chain": "0xe6e4d9e1ddd783b6beeccc059abc17be88ee1a03"
     }
   },
   {
@@ -148920,14 +148913,6 @@
     }
   },
   {
-    "id": "wrapped-ckb",
-    "symbol": "wckb",
-    "name": "Wrapped CKB",
-    "platforms": {
-      "godwoken": "0xc296f806d15e97243a08334256c705ba5c5754cd"
-    }
-  },
-  {
     "id": "wrapped-club-atletico-independiente-kayen",
     "symbol": "wcai",
     "name": "Wrapped Club Atlético Independiente (Kayen)",
@@ -151054,9 +151039,7 @@
     "symbol": "wxpl",
     "name": "Wrapped XPL",
     "platforms": {
-      "plasma": "0x6100e367285b01f48d07953803a2d8dca5d19873",
-      "binance-smart-chain": "0x405fbc9004d857903bfd6b3357792d71a50726b0",
-      "unichain": "0x139451953ef1865c096f89c5e522c081dc3b5f11"
+      "plasma": "0x6100e367285b01f48d07953803a2d8dca5d19873"
     }
   },
   {
@@ -151945,14 +151928,6 @@
     "name": "XerisCoin",
     "platforms": {
       "solana": "9ezFthWrDUpSSeMdpLW6SDD9TJigHdc4AuQ5QN5bpump"
-    }
-  },
-  {
-    "id": "xero-ai-2",
-    "symbol": "xerai",
-    "name": "XERO AI",
-    "platforms": {
-      "ethereum": "0x72bb0df29b6c595d0636bf028c3093a0d7fd9403"
     }
   },
   {
