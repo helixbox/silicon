@@ -4,47 +4,15 @@
   "keywords": [
     "defi"
   ],
-  "timestamp": "2026-01-14T21:00:04.499+00:00",
+  "timestamp": "2026-01-28T08:00:04.364+00:00",
   "tokens": [
     {
       "chainId": 98866,
-      "address": "0x6a64f470293630e08d24455ec0b73960ab7dbb23",
-      "name": "SPICE pUSD Vault",
-      "symbol": "PUSDNOTE",
-      "decimals": 6,
-      "logoURI": "https://assets.coingecko.com/coins/images/69199/thumb/pUSDnote.png?1757836459"
-    },
-    {
-      "chainId": 98866,
-      "address": "0xdea149f84859d1ec50480c209b71bffa482b0530",
-      "name": "Nest Treasury Vault (LP)",
-      "symbol": "INTBILL",
-      "decimals": 6,
-      "logoURI": "https://assets.coingecko.com/coins/images/66318/thumb/inTbill.png?1749197830"
-    },
-    {
-      "chainId": 98866,
-      "address": "0xea237441c92cae6fc17caaf9a7acb3f953be4bd1",
-      "name": "Wrapped Plume",
-      "symbol": "WPLUME",
+      "address": "0x39d1f90ef89c52dda276194e9a832b484ee45574",
+      "name": "Plume Staked ETH",
+      "symbol": "PETH",
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/70470/thumb/plume.jpg?1762154772"
-    },
-    {
-      "chainId": 98866,
-      "address": "0x9477724bb54ad5417de8baff29e59df3fb4da74f",
-      "name": "Anemoy Tokenized Apollo Diversified Credit Fund",
-      "symbol": "ACDRX",
-      "decimals": 6,
-      "logoURI": "https://assets.coingecko.com/coins/images/70454/thumb/acdrx.png?1762081579"
-    },
-    {
-      "chainId": 98866,
-      "address": "0x2b89048d45e9eff64bc5ff563b8ba40a2f0aa83e",
-      "name": "Nest Goldfinch Prime Vault",
-      "symbol": "NGPRIME",
-      "decimals": 6,
-      "logoURI": "https://assets.coingecko.com/coins/images/70786/thumb/Vault_nGPRIME.png?1763752504"
+      "logoURI": "https://assets.coingecko.com/coins/images/67514/thumb/peth.png?1753068541"
     },
     {
       "chainId": 98866,
@@ -56,11 +24,27 @@
     },
     {
       "chainId": 98866,
-      "address": "0xafb068838136358cfa6b54bea580b86df70bba7f",
-      "name": "exSat Staking BTC",
-      "symbol": "ESBTC",
+      "address": "0x2b89048d45e9eff64bc5ff563b8ba40a2f0aa83e",
+      "name": "Nest Goldfinch Prime Vault",
+      "symbol": "NGPRIME",
+      "decimals": 6,
+      "logoURI": "https://assets.coingecko.com/coins/images/70786/thumb/Vault_nGPRIME.png?1763752504"
+    },
+    {
+      "chainId": 98866,
+      "address": "0xea237441c92cae6fc17caaf9a7acb3f953be4bd1",
+      "name": "Wrapped Plume",
+      "symbol": "WPLUME",
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/67691/thumb/esbtc_logo-_1_.png?1753521998"
+      "logoURI": "https://assets.coingecko.com/coins/images/70470/thumb/plume.jpg?1762154772"
+    },
+    {
+      "chainId": 98866,
+      "address": "0x6a64f470293630e08d24455ec0b73960ab7dbb23",
+      "name": "SPICE pUSD Vault",
+      "symbol": "PUSDNOTE",
+      "decimals": 6,
+      "logoURI": "https://assets.coingecko.com/coins/images/69199/thumb/pUSDnote.png?1757836459"
     },
     {
       "chainId": 98866,
@@ -72,11 +56,19 @@
     },
     {
       "chainId": 98866,
-      "address": "0x39d1f90ef89c52dda276194e9a832b484ee45574",
-      "name": "Plume Staked ETH",
-      "symbol": "PETH",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/67514/thumb/peth.png?1753068541"
+      "address": "0x9477724bb54ad5417de8baff29e59df3fb4da74f",
+      "name": "Anemoy Tokenized Apollo Diversified Credit Fund",
+      "symbol": "ACDRX",
+      "decimals": 6,
+      "logoURI": "https://assets.coingecko.com/coins/images/70454/thumb/acdrx.png?1762081579"
+    },
+    {
+      "chainId": 98866,
+      "address": "0xdea149f84859d1ec50480c209b71bffa482b0530",
+      "name": "Nest Treasury Vault (LP)",
+      "symbol": "INTBILL",
+      "decimals": 6,
+      "logoURI": "https://assets.coingecko.com/coins/images/66318/thumb/inTbill.png?1749197830"
     },
     {
       "chainId": 98866,
@@ -85,6 +77,14 @@
       "symbol": "PAYUSD",
       "decimals": 6,
       "logoURI": "https://assets.coingecko.com/coins/images/55876/thumb/PayUSD-token.png?1747555725"
+    },
+    {
+      "chainId": 98866,
+      "address": "0xafb068838136358cfa6b54bea580b86df70bba7f",
+      "name": "exSat Staking BTC",
+      "symbol": "ESBTC",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/67691/thumb/esbtc_logo-_1_.png?1753521998"
     },
     {
       "chainId": 98866,
@@ -165,14 +165,6 @@
       "symbol": "PUSD",
       "decimals": 6,
       "logoURI": "https://assets.coingecko.com/coins/images/55542/thumb/pUSD-token.png?1746610746"
-    },
-    {
-      "chainId": 98866,
-      "address": "0x2de8a403f7a5c6c5161d4a129918ec9f0b653918",
-      "name": "Wrapped Super OETH",
-      "symbol": "WSUPEROETH",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/39829/thumb/Wrapped_Super_OETH.png?1724208632"
     },
     {
       "chainId": 98866,
@@ -440,8 +432,8 @@
     }
   ],
   "version": {
-    "major": 2,
-    "minor": 1,
-    "patch": 1
+    "major": 3,
+    "minor": 0,
+    "patch": 0
   }
 }
