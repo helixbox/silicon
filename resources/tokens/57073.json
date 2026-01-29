@@ -4,16 +4,8 @@
   "keywords": [
     "defi"
   ],
-  "timestamp": "2026-01-21T18:00:39.285+00:00",
+  "timestamp": "2026-01-28T16:00:42.214+00:00",
   "tokens": [
-    {
-      "chainId": 57073,
-      "address": "0x53eb0098d09b8d1008f382bbd2a5d4f649111710",
-      "name": "WATCHDOGS",
-      "symbol": "WATCH",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/67089/thumb/GkveKRgXcAESEPj_%281%29.png?1751702681"
-    },
     {
       "chainId": 57073,
       "address": "0xd642b49d10cc6e1bc1c6945725667c35e0875f22",
@@ -24,19 +16,19 @@
     },
     {
       "chainId": 57073,
-      "address": "0xca5f2ccbd9c40b32657df57c716de44237f80f05",
-      "name": "Kraken",
-      "symbol": "KRAKEN",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/52919/thumb/kraken.jpg?1734685461"
-    },
-    {
-      "chainId": 57073,
       "address": "0x0200c29006150606b650577bbe7b6248f58470c1",
       "name": "USDT0",
       "symbol": "USDT0",
       "decimals": 6,
       "logoURI": "https://assets.coingecko.com/coins/images/53705/thumb/usdt0.jpg?1737086183"
+    },
+    {
+      "chainId": 57073,
+      "address": "0xca5f2ccbd9c40b32657df57c716de44237f80f05",
+      "name": "Kraken",
+      "symbol": "KRAKEN",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/52919/thumb/kraken.jpg?1734685461"
     },
     {
       "chainId": 57073,
@@ -56,6 +48,14 @@
     },
     {
       "chainId": 57073,
+      "address": "0x53eb0098d09b8d1008f382bbd2a5d4f649111710",
+      "name": "WATCHDOGS",
+      "symbol": "WATCH",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/67089/thumb/GkveKRgXcAESEPj_%281%29.png?1751702681"
+    },
+    {
+      "chainId": 57073,
       "address": "0x0606fc632ee812ba970af72f8489baaa443c4b98",
       "name": "ANITA",
       "symbol": "ANITA",
@@ -72,14 +72,6 @@
     },
     {
       "chainId": 57073,
-      "address": "0xa802bccd14f7e78e48ffe0c9cf9ad0273c77d4b0",
-      "name": "Ink USDT Veda Vault",
-      "symbol": "INKEDUSDT",
-      "decimals": 6,
-      "logoURI": "https://assets.coingecko.com/coins/images/66510/thumb/usdt.png?1749593577"
-    },
-    {
-      "chainId": 57073,
       "address": "0x0c5e2d1c98cd265c751e02f8f3293bc5764f9111",
       "name": "Shroomy",
       "symbol": "SHROOMY",
@@ -93,6 +85,14 @@
       "symbol": "BERT",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/68104/thumb/BERT_LOGO_4.jpg?1754802668"
+    },
+    {
+      "chainId": 57073,
+      "address": "0xa802bccd14f7e78e48ffe0c9cf9ad0273c77d4b0",
+      "name": "Ink USDT Veda Vault",
+      "symbol": "INKEDUSDT",
+      "decimals": 6,
+      "logoURI": "https://assets.coingecko.com/coins/images/66510/thumb/usdt.png?1749593577"
     },
     {
       "chainId": 57073,
@@ -140,7 +140,7 @@
       "name": "USDC",
       "symbol": "USDC",
       "decimals": 6,
-      "logoURI": "https://assets.coingecko.com/coins/images/6319/thumb/usdc.png?1696506694"
+      "logoURI": "https://assets.coingecko.com/coins/images/6319/thumb/USDC.png?1769615602"
     },
     {
       "chainId": 57073,
@@ -274,6 +274,6 @@
   "version": {
     "major": 3,
     "minor": 17,
-    "patch": 0
+    "patch": 1
   }
 }

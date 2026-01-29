@@ -4,15 +4,15 @@
   "keywords": [
     "defi"
   ],
-  "timestamp": "2026-01-21T09:00:23.568+00:00",
+  "timestamp": "2026-01-28T18:00:24.148+00:00",
   "tokens": [
     {
       "chainId": 1285,
-      "address": "0x98878b06940ae243284ca214f92bb71a2b032b8a",
-      "name": "Moonriver",
-      "symbol": "MOVR",
+      "address": "0x0f47ba9d9bde3442b42175e51d6a367928a1173b",
+      "name": "Zenlink Network",
+      "symbol": "ZLK",
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/17984/thumb/Moonriver_MOVR_ICON.png?1716647589"
+      "logoURI": "https://assets.coingecko.com/coins/images/20884/thumb/zenlink.PNG?1696520277"
     },
     {
       "chainId": 1285,
@@ -24,10 +24,11 @@
     },
     {
       "chainId": 1285,
-      "address": "0x5d9ab5522c64e1f6ef5e3627eccc093f56167818",
-      "name": "Multichain Bridged BUSD (Moonriver)",
-      "symbol": "BUSD",
-      "decimals": 18
+      "address": "0xbb8d88bcd9749636bc4d2be22aac4bb3b01a58f1",
+      "name": "Moonwell Apollo",
+      "symbol": "MFAM",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/23914/thumb/moonwell-logo-200px.png?1696523113"
     },
     {
       "chainId": 1285,
@@ -36,14 +37,6 @@
       "symbol": "ROME",
       "decimals": 9,
       "logoURI": "https://assets.coingecko.com/coins/images/21078/thumb/rome-dao.jpeg?1696520460"
-    },
-    {
-      "chainId": 1285,
-      "address": "0xbb8d88bcd9749636bc4d2be22aac4bb3b01a58f1",
-      "name": "Moonwell Apollo",
-      "symbol": "MFAM",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/23914/thumb/moonwell-logo-200px.png?1696523113"
     },
     {
       "chainId": 1285,
@@ -71,14 +64,6 @@
     },
     {
       "chainId": 1285,
-      "address": "0xbd90a6125a84e5c512129d622a75cdde176ade5e",
-      "name": "RiverBoat",
-      "symbol": "RIB",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/19007/thumb/rib.png?1696518459"
-    },
-    {
-      "chainId": 1285,
       "address": "0x80a16016cc4a2e6a2caca8a4a498b1699ff0f844",
       "name": "Multichain Bridged DAI (Moonriver)",
       "symbol": "DAI",
@@ -87,11 +72,11 @@
     },
     {
       "chainId": 1285,
-      "address": "0x2bf9b864cdc97b08b6d79ad4663e71b8ab65c45c",
-      "name": "Multichain Bridged WBNB (Moonriver)",
-      "symbol": "WBNB",
+      "address": "0xbd90a6125a84e5c512129d622a75cdde176ade5e",
+      "name": "RiverBoat",
+      "symbol": "RIB",
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/53098/thumb/wrapped_bnb.png?1735265298"
+      "logoURI": "https://assets.coingecko.com/coins/images/19007/thumb/rib.png?1696518459"
     },
     {
       "chainId": 1285,
@@ -103,11 +88,26 @@
     },
     {
       "chainId": 1285,
-      "address": "0x0f47ba9d9bde3442b42175e51d6a367928a1173b",
-      "name": "Zenlink Network",
-      "symbol": "ZLK",
+      "address": "0x98878b06940ae243284ca214f92bb71a2b032b8a",
+      "name": "Moonriver",
+      "symbol": "MOVR",
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/20884/thumb/zenlink.PNG?1696520277"
+      "logoURI": "https://assets.coingecko.com/coins/images/17984/thumb/Moonriver_MOVR_ICON.png?1716647589"
+    },
+    {
+      "chainId": 1285,
+      "address": "0x5d9ab5522c64e1f6ef5e3627eccc093f56167818",
+      "name": "Multichain Bridged BUSD (Moonriver)",
+      "symbol": "BUSD",
+      "decimals": 18
+    },
+    {
+      "chainId": 1285,
+      "address": "0x2bf9b864cdc97b08b6d79ad4663e71b8ab65c45c",
+      "name": "Multichain Bridged WBNB (Moonriver)",
+      "symbol": "WBNB",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/53098/thumb/wrapped_bnb.png?1735265298"
     },
     {
       "chainId": 1285,
@@ -123,7 +123,7 @@
       "name": "USDC",
       "symbol": "USDC",
       "decimals": 6,
-      "logoURI": "https://assets.coingecko.com/coins/images/6319/thumb/usdc.png?1696506694"
+      "logoURI": "https://assets.coingecko.com/coins/images/6319/thumb/USDC.png?1769615602"
     },
     {
       "chainId": 1285,
@@ -217,6 +217,6 @@
   "version": {
     "major": 5,
     "minor": 0,
-    "patch": 1
+    "patch": 2
   }
 }

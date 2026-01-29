@@ -4,7 +4,7 @@
   "keywords": [
     "defi"
   ],
-  "timestamp": "2026-01-28T08:00:04.364+00:00",
+  "timestamp": "2026-01-28T18:00:05.199+00:00",
   "tokens": [
     {
       "chainId": 98866,
@@ -13,6 +13,14 @@
       "symbol": "PETH",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/67514/thumb/peth.png?1753068541"
+    },
+    {
+      "chainId": 98866,
+      "address": "0xea237441c92cae6fc17caaf9a7acb3f953be4bd1",
+      "name": "Wrapped Plume",
+      "symbol": "WPLUME",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/70470/thumb/plume.jpg?1762154772"
     },
     {
       "chainId": 98866,
@@ -29,14 +37,6 @@
       "symbol": "NGPRIME",
       "decimals": 6,
       "logoURI": "https://assets.coingecko.com/coins/images/70786/thumb/Vault_nGPRIME.png?1763752504"
-    },
-    {
-      "chainId": 98866,
-      "address": "0xea237441c92cae6fc17caaf9a7acb3f953be4bd1",
-      "name": "Wrapped Plume",
-      "symbol": "WPLUME",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/70470/thumb/plume.jpg?1762154772"
     },
     {
       "chainId": 98866,
@@ -388,7 +388,7 @@
       "name": "USDC",
       "symbol": "USDC",
       "decimals": 6,
-      "logoURI": "https://assets.coingecko.com/coins/images/6319/thumb/usdc.png?1696506694"
+      "logoURI": "https://assets.coingecko.com/coins/images/6319/thumb/USDC.png?1769615602"
     },
     {
       "chainId": 98866,
@@ -424,6 +424,14 @@
     },
     {
       "chainId": 98866,
+      "address": "0xd2b65e851be3d80d3c2ce795eb2e78f16cb088b2",
+      "name": "Ondo US Dollar Yield",
+      "symbol": "USDY",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/31700/thumb/usdy_%281%29.png?1696530524"
+    },
+    {
+      "chainId": 98866,
       "address": "0xcf7a8813bd3bdaf70a9f46d310ce1ee8d80a4f5a",
       "name": "WisdomTree Treasury Money Market Digital Fund",
       "symbol": "WTGXX",
@@ -433,7 +441,7 @@
   ],
   "version": {
     "major": 3,
-    "minor": 0,
+    "minor": 1,
     "patch": 0
   }
 }
