@@ -4,8 +4,16 @@
   "keywords": [
     "defi"
   ],
-  "timestamp": "2026-01-28T17:00:24.728+00:00",
+  "timestamp": "2026-01-29T04:00:27.795+00:00",
   "tokens": [
+    {
+      "chainId": 130,
+      "address": "0x756ee6857f915a2b5366f2ef56d8d13857aef8ad",
+      "name": "Catex",
+      "symbol": "CATX",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/67331/thumb/Catex_logo_Coinbgecko.png?1752402945"
+    },
     {
       "chainId": 130,
       "address": "0xabe69c550ea6ec22bed4b92614511c4f31bb0f64",
@@ -21,22 +29,6 @@
       "symbol": "USDT",
       "decimals": 6,
       "logoURI": "https://assets.coingecko.com/coins/images/66726/thumb/usdt.jpg?1750318933"
-    },
-    {
-      "chainId": 130,
-      "address": "0x756ee6857f915a2b5366f2ef56d8d13857aef8ad",
-      "name": "Catex",
-      "symbol": "CATX",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/67331/thumb/Catex_logo_Coinbgecko.png?1752402945"
-    },
-    {
-      "chainId": 130,
-      "address": "0x4200000000000000000000000000000000000006",
-      "name": "Unichain Bridged WETH (Unichain)",
-      "symbol": "WETH",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/54331/thumb/weth_2.jpg?1739325052"
     },
     {
       "chainId": 130,
@@ -61,6 +53,14 @@
       "symbol": "WBTC",
       "decimals": 8,
       "logoURI": "https://assets.coingecko.com/coins/images/66722/thumb/wbtc.jpg?1750315958"
+    },
+    {
+      "chainId": 130,
+      "address": "0x4200000000000000000000000000000000000006",
+      "name": "Unichain Bridged WETH (Unichain)",
+      "symbol": "WETH",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/54331/thumb/weth_2.jpg?1739325052"
     },
     {
       "chainId": 130,
@@ -133,14 +133,6 @@
       "symbol": "BETS",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/26618/thumb/icon_200.png?1696525691"
-    },
-    {
-      "chainId": 130,
-      "address": "0x139451953ef1865c096f89c5e522c081dc3b5f11",
-      "name": "Plasma",
-      "symbol": "XPL",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/66489/thumb/Plasma-symbol-green-1.png?1755142558"
     },
     {
       "chainId": 130,
@@ -309,11 +301,19 @@
       "symbol": "RSETH",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/33800/thumb/Icon___Dark.png?1702991855"
+    },
+    {
+      "chainId": 130,
+      "address": "0x139451953ef1865c096f89c5e522c081dc3b5f11",
+      "name": "Wrapped XPL",
+      "symbol": "WXPL",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/69509/thumb/plasma.png?1758805469"
     }
   ],
   "version": {
     "major": 3,
     "minor": 3,
-    "patch": 6
+    "patch": 7
   }
 }

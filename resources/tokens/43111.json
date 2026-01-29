@@ -4,24 +4,8 @@
   "keywords": [
     "defi"
   ],
-  "timestamp": "2026-01-21T09:01:04.548+00:00",
+  "timestamp": "2026-01-29T10:01:06.828+00:00",
   "tokens": [
-    {
-      "chainId": 43111,
-      "address": "0x7a06c4aef988e7925575c50261297a946ad204a8",
-      "name": "VUSD",
-      "symbol": "VUSD",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/67026/thumb/vusd.jpg?1751514327"
-    },
-    {
-      "chainId": 43111,
-      "address": "0xaa40c0c7644e0b2b224509571e10ad20d9c4ef28",
-      "name": "Hemi Bitcoin",
-      "symbol": "HEMIBTC",
-      "decimals": 8,
-      "logoURI": "https://assets.coingecko.com/coins/images/67027/thumb/hemibtc.jpg?1751514905"
-    },
     {
       "chainId": 43111,
       "address": "0x4200000000000000000000000000000000000006",
@@ -37,6 +21,22 @@
       "symbol": "WBTC",
       "decimals": 8,
       "logoURI": "https://assets.coingecko.com/coins/images/68384/thumb/wbtc.jpg?1755570014"
+    },
+    {
+      "chainId": 43111,
+      "address": "0x7a06c4aef988e7925575c50261297a946ad204a8",
+      "name": "VUSD",
+      "symbol": "VUSD",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/67026/thumb/vusd.jpg?1751514327"
+    },
+    {
+      "chainId": 43111,
+      "address": "0xaa40c0c7644e0b2b224509571e10ad20d9c4ef28",
+      "name": "Hemi Bitcoin",
+      "symbol": "HEMIBTC",
+      "decimals": 8,
+      "logoURI": "https://assets.coingecko.com/coins/images/67027/thumb/hemibtc.jpg?1751514905"
     },
     {
       "chainId": 43111,
@@ -69,14 +69,6 @@
       "symbol": "HEMI",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/68469/thumb/hemi.png?1755838145"
-    },
-    {
-      "chainId": 43111,
-      "address": "0xafb068838136358cfa6b54bea580b86df70bba7f",
-      "name": "exSat Staking BTC",
-      "symbol": "ESBTC",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/67691/thumb/esbtc_logo-_1_.png?1753521998"
     },
     {
       "chainId": 43111,
@@ -136,8 +128,8 @@
     }
   ],
   "version": {
-    "major": 1,
-    "minor": 1,
+    "major": 2,
+    "minor": 0,
     "patch": 0
   }
 }
