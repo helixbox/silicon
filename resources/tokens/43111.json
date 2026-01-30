@@ -4,7 +4,7 @@
   "keywords": [
     "defi"
   ],
-  "timestamp": "2026-01-29T10:01:06.828+00:00",
+  "timestamp": "2026-01-29T17:01:03.277+00:00",
   "tokens": [
     {
       "chainId": 43111,
@@ -21,6 +21,14 @@
       "symbol": "WBTC",
       "decimals": 8,
       "logoURI": "https://assets.coingecko.com/coins/images/68384/thumb/wbtc.jpg?1755570014"
+    },
+    {
+      "chainId": 43111,
+      "address": "0x6a9a65b84843f5fd4ac9a0471c4fc11afffbce4a",
+      "name": "Lorenzo Wrapped Bitcoin",
+      "symbol": "ENZOBTC",
+      "decimals": 8,
+      "logoURI": "https://assets.coingecko.com/coins/images/54447/thumb/enzo_btc.png?1739773963"
     },
     {
       "chainId": 43111,
@@ -129,7 +137,7 @@
   ],
   "version": {
     "major": 2,
-    "minor": 0,
+    "minor": 1,
     "patch": 0
   }
 }
