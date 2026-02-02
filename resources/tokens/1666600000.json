@@ -4,15 +4,8 @@
   "keywords": [
     "defi"
   ],
-  "timestamp": "2026-01-22T10:00:12.438+00:00",
+  "timestamp": "2026-01-30T11:00:11.424+00:00",
   "tokens": [
-    {
-      "chainId": 1666600000,
-      "address": "0xe176ebe47d621b984a73036b9da5d834411ef734",
-      "name": "Harmony Horizen Bridged BUSD (Harmony)",
-      "symbol": "BUSD",
-      "decimals": 18
-    },
     {
       "chainId": 1666600000,
       "address": "0x01a4b054110d57069c1658afbc46730529a3e326",
@@ -20,6 +13,13 @@
       "symbol": "OPENX",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/19274/thumb/X_color.png?1696518717"
+    },
+    {
+      "chainId": 1666600000,
+      "address": "0xe176ebe47d621b984a73036b9da5d834411ef734",
+      "name": "Harmony Horizen Bridged BUSD (Harmony)",
+      "symbol": "BUSD",
+      "decimals": 18
     },
     {
       "chainId": 1666600000,
@@ -31,19 +31,19 @@
     },
     {
       "chainId": 1666600000,
+      "address": "0xfe1b516a7297eb03229a8b5afad80703911e81cb",
+      "name": "Crypto Royale",
+      "symbol": "ROY",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/20668/thumb/ROY_logo_new_design_small.png?1696520069"
+    },
+    {
+      "chainId": 1666600000,
       "address": "0xef977d2f931c1978db5f6747666fa1eacb0d0339",
       "name": "Harmony Horizon Bridged DAI (Harmony Shard 0)",
       "symbol": "DAI",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/39789/thumb/dai.png?1724111370"
-    },
-    {
-      "chainId": 1666600000,
-      "address": "0xcf664087a5bb0237a0bad6742852ec6c8d69a27a",
-      "name": "Wrapped One",
-      "symbol": "WONE",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/18183/thumb/wonelogo.png?1696517683"
     },
     {
       "chainId": 1666600000,
@@ -55,19 +55,11 @@
     },
     {
       "chainId": 1666600000,
-      "address": "0xfe1b516a7297eb03229a8b5afad80703911e81cb",
-      "name": "Crypto Royale",
-      "symbol": "ROY",
+      "address": "0xcf664087a5bb0237a0bad6742852ec6c8d69a27a",
+      "name": "Wrapped One",
+      "symbol": "WONE",
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/20668/thumb/ROY_logo_new_design_small.png?1696520069"
-    },
-    {
-      "chainId": 1666600000,
-      "address": "0x985458e523db3d53125813ed68c274899e9dfab4",
-      "name": "Harmony Horizon Bridged USDC (Harmony)",
-      "symbol": "1USDC",
-      "decimals": 6,
-      "logoURI": "https://assets.coingecko.com/coins/images/35224/thumb/USDC.jpg?1707920252"
+      "logoURI": "https://assets.coingecko.com/coins/images/18183/thumb/wonelogo.png?1696517683"
     },
     {
       "chainId": 1666600000,
@@ -100,6 +92,14 @@
       "symbol": "LOP",
       "decimals": 6,
       "logoURI": "https://assets.coingecko.com/coins/images/29496/thumb/logo_kilopi_200sq.png?1696528442"
+    },
+    {
+      "chainId": 1666600000,
+      "address": "0x985458e523db3d53125813ed68c274899e9dfab4",
+      "name": "Harmony Horizon Bridged USDC (Harmony)",
+      "symbol": "1USDC",
+      "decimals": 6,
+      "logoURI": "https://assets.coingecko.com/coins/images/35224/thumb/USDC.jpg?1707920252"
     },
     {
       "chainId": 1666600000,
@@ -407,14 +407,6 @@
     },
     {
       "chainId": 1666600000,
-      "address": "0x7202adf025cbd1cc9411fd56e3cc8ef2e9dffa9d",
-      "name": "YAM",
-      "symbol": "YAM",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/12530/thumb/YAM-icon.png?1696512343"
-    },
-    {
-      "chainId": 1666600000,
       "address": "0xe7e3c4d1cfc722b45a428736845b6aff862842a1",
       "name": "Wise",
       "symbol": "WISE",
@@ -639,7 +631,7 @@
     }
   ],
   "version": {
-    "major": 28,
+    "major": 29,
     "minor": 0,
     "patch": 0
   }
