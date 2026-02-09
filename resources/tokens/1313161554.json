@@ -4,15 +4,15 @@
   "keywords": [
     "defi"
   ],
-  "timestamp": "2026-01-09T10:00:18.425+00:00",
+  "timestamp": "2026-02-02T10:00:18.089+00:00",
   "tokens": [
     {
       "chainId": 1313161554,
-      "address": "0x07f9f7f963c5cd2bbffd30ccfb964be114332e30",
-      "name": "Staked NEAR",
-      "symbol": "STNEAR",
-      "decimals": 24,
-      "logoURI": "https://assets.coingecko.com/coins/images/24250/thumb/st-NEAR-token-white-dark-purple-circle.png?1696523435"
+      "address": "0xb12bfca5a55806aaf64e99521918a4bf0fc40802",
+      "name": "Rainbow Bridged USDC (Aurora)",
+      "symbol": "USDC",
+      "decimals": 6,
+      "logoURI": "https://assets.coingecko.com/coins/images/35229/thumb/USDC.jpg?1707924633"
     },
     {
       "chainId": 1313161554,
@@ -32,6 +32,22 @@
     },
     {
       "chainId": 1313161554,
+      "address": "0x09c9d464b58d96837f8d8b6f4d9fe4ad408d3a4f",
+      "name": "Aurigami",
+      "symbol": "PLY",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/24074/thumb/EbB5N8IN_400x400.jpg?1696523268"
+    },
+    {
+      "chainId": 1313161554,
+      "address": "0x07f9f7f963c5cd2bbffd30ccfb964be114332e30",
+      "name": "Staked NEAR",
+      "symbol": "STNEAR",
+      "decimals": 24,
+      "logoURI": "https://assets.coingecko.com/coins/images/24250/thumb/st-NEAR-token-white-dark-purple-circle.png?1696523435"
+    },
+    {
+      "chainId": 1313161554,
       "address": "0x2451db68ded81900c4f16ae1af597e9658689734",
       "name": "Vaporwave",
       "symbol": "VWAVE",
@@ -40,11 +56,11 @@
     },
     {
       "chainId": 1313161554,
-      "address": "0xf4eb217ba2454613b15dbdea6e5f22276410e89e",
-      "name": "Rainbow Bridged WBTC (Aurora)",
-      "symbol": "WBTC",
-      "decimals": 8,
-      "logoURI": "https://assets.coingecko.com/coins/images/39680/thumb/wbtc.png?1723622053"
+      "address": "0xfa94348467f64d5a457f75f8bc40495d33c65abb",
+      "name": "Trisolaris",
+      "symbol": "TRI",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/20607/thumb/logo_-_2021-11-19T104946.772.png?1696520013"
     },
     {
       "chainId": 1313161554,
@@ -56,19 +72,11 @@
     },
     {
       "chainId": 1313161554,
-      "address": "0xb12bfca5a55806aaf64e99521918a4bf0fc40802",
-      "name": "Rainbow Bridged USDC (Aurora)",
-      "symbol": "USDC",
+      "address": "0x4988a896b1227218e4a686fde5eabdcabd91571f",
+      "name": "Rainbow Bridged USDT (Aurora)",
+      "symbol": "USDT.E",
       "decimals": 6,
-      "logoURI": "https://assets.coingecko.com/coins/images/35229/thumb/USDC.jpg?1707924633"
-    },
-    {
-      "chainId": 1313161554,
-      "address": "0x09c9d464b58d96837f8d8b6f4d9fe4ad408d3a4f",
-      "name": "Aurigami",
-      "symbol": "PLY",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/24074/thumb/EbB5N8IN_400x400.jpg?1696523268"
+      "logoURI": "https://assets.coingecko.com/coins/images/35055/thumb/USDT.png?1707233747"
     },
     {
       "chainId": 1313161554,
@@ -80,19 +88,11 @@
     },
     {
       "chainId": 1313161554,
-      "address": "0x4988a896b1227218e4a686fde5eabdcabd91571f",
-      "name": "Rainbow Bridged USDT (Aurora)",
-      "symbol": "USDT.E",
-      "decimals": 6,
-      "logoURI": "https://assets.coingecko.com/coins/images/35055/thumb/USDT.png?1707233747"
-    },
-    {
-      "chainId": 1313161554,
-      "address": "0xfa94348467f64d5a457f75f8bc40495d33c65abb",
-      "name": "Trisolaris",
-      "symbol": "TRI",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/20607/thumb/logo_-_2021-11-19T104946.772.png?1696520013"
+      "address": "0xf4eb217ba2454613b15dbdea6e5f22276410e89e",
+      "name": "Rainbow Bridged WBTC (Aurora)",
+      "symbol": "WBTC",
+      "decimals": 8,
+      "logoURI": "https://assets.coingecko.com/coins/images/39680/thumb/wbtc.png?1723622053"
     },
     {
       "chainId": 1313161554,
@@ -216,14 +216,6 @@
     },
     {
       "chainId": 1313161554,
-      "address": "0x7ca1c28663b76cfde424a9494555b94846205585",
-      "name": "Chronicle",
-      "symbol": "XNL",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/18413/thumb/tg_image_2344271539.png?1728193881"
-    },
-    {
-      "chainId": 1313161554,
       "address": "0x291c8fceaca3342b29cc36171deb98106f712c66",
       "name": "Pickle Finance",
       "symbol": "PICKLE",
@@ -256,7 +248,7 @@
     }
   ],
   "version": {
-    "major": 9,
+    "major": 10,
     "minor": 0,
     "patch": 0
   }

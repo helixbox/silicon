@@ -4,16 +4,8 @@
   "keywords": [
     "defi"
   ],
-  "timestamp": "2026-01-11T10:00:40.701+00:00",
+  "timestamp": "2026-02-07T04:00:35.180+00:00",
   "tokens": [
-    {
-      "chainId": 2818,
-      "address": "0xc7d67a9cbb121b3b0b9c053dd9f469523243379a",
-      "name": "Morph L2 Bridged USDT (Morph L2)",
-      "symbol": "USDT",
-      "decimals": 6,
-      "logoURI": "https://assets.coingecko.com/coins/images/52915/thumb/usdt.jpg?1734682309"
-    },
     {
       "chainId": 2818,
       "address": "0xe34c91815d7fc18a9e2148bcd4241d0a5848b693",
@@ -24,11 +16,27 @@
     },
     {
       "chainId": 2818,
+      "address": "0xc7d67a9cbb121b3b0b9c053dd9f469523243379a",
+      "name": "Morph L2 Bridged USDT (Morph L2)",
+      "symbol": "USDT",
+      "decimals": 6,
+      "logoURI": "https://assets.coingecko.com/coins/images/52915/thumb/usdt.jpg?1734682309"
+    },
+    {
+      "chainId": 2818,
       "address": "0x5300000000000000000000000000000000000011",
       "name": "Bridged Wrapped Ether (Morph L2)",
       "symbol": "WETH",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/52916/thumb/weth_2.jpg?1734682436"
+    },
+    {
+      "chainId": 2818,
+      "address": "0xe7cd86e13ac4309349f30b3435a9d337750fc82d",
+      "name": "USDT0",
+      "symbol": "USDT0",
+      "decimals": 6,
+      "logoURI": "https://assets.coingecko.com/coins/images/53705/thumb/usdt0.jpg?1737086183"
     },
     {
       "chainId": 2818,
@@ -89,7 +97,7 @@
   ],
   "version": {
     "major": 2,
-    "minor": 0,
+    "minor": 1,
     "patch": 0
   }
 }

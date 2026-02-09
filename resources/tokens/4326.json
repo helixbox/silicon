@@ -4,8 +4,24 @@
   "keywords": [
     "defi"
   ],
-  "timestamp": "2026-01-20T13:00:00.181+00:00",
+  "timestamp": "2026-02-05T03:01:22.519+00:00",
   "tokens": [
+    {
+      "chainId": 4326,
+      "address": "0x4200000000000000000000000000000000000006",
+      "name": "L2 Standard Bridged WETH (MegaETH)",
+      "symbol": "WETH",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/102171886/thumb/weth.png?1770258060"
+    },
+    {
+      "chainId": 4326,
+      "address": "0xfafddbb3fc7688494971a79cc65dca3ef82079e7",
+      "name": "MegaUSD",
+      "symbol": "USDM",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/69955/thumb/USDm.png?1760170136"
+    },
     {
       "chainId": 4326,
       "address": "0xb8ce59fc3717ada4c02eadf9682a9e934f625ebb",
@@ -17,7 +33,7 @@
   ],
   "version": {
     "major": 0,
-    "minor": 1,
+    "minor": 3,
     "patch": 0
   }
 }

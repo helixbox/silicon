@@ -4,8 +4,16 @@
   "keywords": [
     "defi"
   ],
-  "timestamp": "2026-01-28T16:00:42.214+00:00",
+  "timestamp": "2026-02-04T11:00:36.736+00:00",
   "tokens": [
+    {
+      "chainId": 57073,
+      "address": "0x20c69c12abf2b6f8d8ca33604dd25c700c7e70a5",
+      "name": "Cat Call Agent",
+      "symbol": "CAT",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/54745/thumb/DV_dS5E9_400x400_%282%29.png?1741326959"
+    },
     {
       "chainId": 57073,
       "address": "0xd642b49d10cc6e1bc1c6945725667c35e0875f22",
@@ -13,14 +21,6 @@
       "symbol": "PURPLE",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/53880/thumb/ink_purple.png?1738227741"
-    },
-    {
-      "chainId": 57073,
-      "address": "0x0200c29006150606b650577bbe7b6248f58470c1",
-      "name": "USDT0",
-      "symbol": "USDT0",
-      "decimals": 6,
-      "logoURI": "https://assets.coingecko.com/coins/images/53705/thumb/usdt0.jpg?1737086183"
     },
     {
       "chainId": 57073,
@@ -40,14 +40,6 @@
     },
     {
       "chainId": 57073,
-      "address": "0x20c69c12abf2b6f8d8ca33604dd25c700c7e70a5",
-      "name": "Cat Call Agent",
-      "symbol": "CAT",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/54745/thumb/DV_dS5E9_400x400_%282%29.png?1741326959"
-    },
-    {
-      "chainId": 57073,
       "address": "0x53eb0098d09b8d1008f382bbd2a5d4f649111710",
       "name": "WATCHDOGS",
       "symbol": "WATCH",
@@ -56,19 +48,19 @@
     },
     {
       "chainId": 57073,
+      "address": "0x0200c29006150606b650577bbe7b6248f58470c1",
+      "name": "USDT0",
+      "symbol": "USDT0",
+      "decimals": 6,
+      "logoURI": "https://assets.coingecko.com/coins/images/53705/thumb/usdt0.jpg?1737086183"
+    },
+    {
+      "chainId": 57073,
       "address": "0x0606fc632ee812ba970af72f8489baaa443c4b98",
       "name": "ANITA",
       "symbol": "ANITA",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/68173/thumb/_L_L.png?1754996486"
-    },
-    {
-      "chainId": 57073,
-      "address": "0x7160644365e7011fa96ce60706743b434df32690",
-      "name": "KEK",
-      "symbol": "KEK",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/67904/thumb/200x200.jpg?1754222647"
     },
     {
       "chainId": 57073,
@@ -240,14 +232,6 @@
     },
     {
       "chainId": 57073,
-      "address": "0xd3c8da379d71a33bfee8875f87ac2748beb1d58d",
-      "name": "Universal BTC",
-      "symbol": "UNIBTC",
-      "decimals": 8,
-      "logoURI": "https://assets.coingecko.com/coins/images/39599/thumb/uniBTC_200px.png?1723064455"
-    },
-    {
-      "chainId": 57073,
       "address": "0xa161132371c94299d215915d4cbc3b629e2059be",
       "name": "Bedrock BTC",
       "symbol": "BRBTC",
@@ -269,11 +253,19 @@
       "symbol": "LCAP",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/69331/thumb/LCAP_1024.png?1758220127"
+    },
+    {
+      "chainId": 57073,
+      "address": "0xd3c8da379d71a33bfee8875f87ac2748beb1d58d",
+      "name": "Universal BTC",
+      "symbol": "UNIBTC",
+      "decimals": 8,
+      "logoURI": "https://assets.coingecko.com/coins/images/39599/thumb/uniBTC_200px.png?1723064455"
     }
   ],
   "version": {
-    "major": 3,
-    "minor": 17,
-    "patch": 1
+    "major": 4,
+    "minor": 0,
+    "patch": 0
   }
 }
