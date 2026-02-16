@@ -4,8 +4,16 @@
   "keywords": [
     "defi"
   ],
-  "timestamp": "2026-01-29T04:00:27.795+00:00",
+  "timestamp": "2026-02-13T07:00:23.860+00:00",
   "tokens": [
+    {
+      "chainId": 130,
+      "address": "0xec4a56061d86955d0df883efb2e5791d99ea71f2",
+      "name": "hoonicorn.lol",
+      "symbol": "HOONI",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/54996/thumb/hooni-logo-fixed.png?1743095425"
+    },
     {
       "chainId": 130,
       "address": "0x756ee6857f915a2b5366f2ef56d8d13857aef8ad",
@@ -13,14 +21,6 @@
       "symbol": "CATX",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/67331/thumb/Catex_logo_Coinbgecko.png?1752402945"
-    },
-    {
-      "chainId": 130,
-      "address": "0xabe69c550ea6ec22bed4b92614511c4f31bb0f64",
-      "name": "Abe",
-      "symbol": "ABE",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/68514/thumb/logo_circle_200.png?1756440524"
     },
     {
       "chainId": 130,
@@ -40,19 +40,19 @@
     },
     {
       "chainId": 130,
-      "address": "0xec4a56061d86955d0df883efb2e5791d99ea71f2",
-      "name": "hoonicorn.lol",
-      "symbol": "HOONI",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/54996/thumb/hooni-logo-fixed.png?1743095425"
-    },
-    {
-      "chainId": 130,
       "address": "0x927b51f251480a681271180da4de28d44ec4afb8",
       "name": "Unichain Bridged WBTC (Unichain)",
       "symbol": "WBTC",
       "decimals": 8,
       "logoURI": "https://assets.coingecko.com/coins/images/66722/thumb/wbtc.jpg?1750315958"
+    },
+    {
+      "chainId": 130,
+      "address": "0xabe69c550ea6ec22bed4b92614511c4f31bb0f64",
+      "name": "Abe",
+      "symbol": "ABE",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/68514/thumb/logo_circle_200.png?1756440524"
     },
     {
       "chainId": 130,
@@ -85,6 +85,14 @@
       "symbol": "RETH",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/20764/thumb/reth.png?1696520159"
+    },
+    {
+      "chainId": 130,
+      "address": "0x03c2868c6d7fd27575426f395ee081498b1120dd",
+      "name": "RigoBlock",
+      "symbol": "GRG",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/1532/thumb/Symbol-RigoblockRGB.png?1696502572"
     },
     {
       "chainId": 130,
@@ -288,14 +296,6 @@
     },
     {
       "chainId": 130,
-      "address": "0xd3c8da379d71a33bfee8875f87ac2748beb1d58d",
-      "name": "Universal BTC",
-      "symbol": "UNIBTC",
-      "decimals": 8,
-      "logoURI": "https://assets.coingecko.com/coins/images/39599/thumb/uniBTC_200px.png?1723064455"
-    },
-    {
-      "chainId": 130,
       "address": "0xc3eacf0612346366db554c991d7858716db09f58",
       "name": "Kelp DAO Restaked ETH",
       "symbol": "RSETH",
@@ -309,11 +309,19 @@
       "symbol": "WXPL",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/69509/thumb/plasma.png?1758805469"
+    },
+    {
+      "chainId": 130,
+      "address": "0xd3c8da379d71a33bfee8875f87ac2748beb1d58d",
+      "name": "Universal BTC",
+      "symbol": "UNIBTC",
+      "decimals": 8,
+      "logoURI": "https://assets.coingecko.com/coins/images/39599/thumb/uniBTC_200px.png?1723064455"
     }
   ],
   "version": {
     "major": 3,
-    "minor": 3,
-    "patch": 7
+    "minor": 4,
+    "patch": 0
   }
 }

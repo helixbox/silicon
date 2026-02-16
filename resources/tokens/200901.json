@@ -4,16 +4,8 @@
   "keywords": [
     "defi"
   ],
-  "timestamp": "2025-10-09T17:00:19.178+00:00",
+  "timestamp": "2026-02-10T09:00:18.621+00:00",
   "tokens": [
-    {
-      "chainId": 200901,
-      "address": "0x0e4cf4affdb72b39ea91fa726d291781cbd020bf",
-      "name": "Bitlayer",
-      "symbol": "BTR",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/55177/thumb/App_Logo.png?1744368194"
-    },
     {
       "chainId": 200901,
       "address": "0x2729868df87d062020e4a4867ff507fb52ee697c",
@@ -24,19 +16,19 @@
     },
     {
       "chainId": 200901,
+      "address": "0x0e4cf4affdb72b39ea91fa726d291781cbd020bf",
+      "name": "Bitlayer",
+      "symbol": "BTR",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/55177/thumb/App_Logo.png?1744368194"
+    },
+    {
+      "chainId": 200901,
       "address": "0xdfd0660032c2d0d38a9092a43d1669d6568caf71",
       "name": "XLink Bridged BTC",
       "symbol": "ABTC",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/33363/thumb/aBTC.png?1757222917"
-    },
-    {
-      "chainId": 200901,
-      "address": "0x3228995749610bea00b59c44f8d1df21c14027f1",
-      "name": "Avalon",
-      "symbol": "AVL",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/54119/thumb/AV.png?1738314011"
     },
     {
       "chainId": 200901,
@@ -56,14 +48,6 @@
     },
     {
       "chainId": 200901,
-      "address": "0xcdfb58c8c859cb3f62ebe9cf2767f9e036c7fb15",
-      "name": "BitFi Bitcoin",
-      "symbol": "BFBTC",
-      "decimals": 8,
-      "logoURI": "https://assets.coingecko.com/coins/images/69326/thumb/bfBTC-logo-symbol-color.png?1758193458"
-    },
-    {
-      "chainId": 200901,
       "address": "0xba50ddac6b2f5482ca064efac621e0c7c0f6a783",
       "name": "Satoshi Stablecoin",
       "symbol": "SATUSD",
@@ -80,6 +64,14 @@
     },
     {
       "chainId": 200901,
+      "address": "0xcdfb58c8c859cb3f62ebe9cf2767f9e036c7fb15",
+      "name": "BitFi Bitcoin",
+      "symbol": "BFBTC",
+      "decimals": 8,
+      "logoURI": "https://assets.coingecko.com/coins/images/69326/thumb/bfBTC-logo-symbol-color.png?1758193458"
+    },
+    {
+      "chainId": 200901,
       "address": "0x56b275c0ec034a229a1ded8db17089544bc276d9",
       "name": "Chainlink",
       "symbol": "LINK",
@@ -88,16 +80,16 @@
     },
     {
       "chainId": 200901,
-      "address": "0x4fdb0511f1e5c6c215596570f855cb1f9924b8b6",
-      "name": "SatLayer Restaked uniBTC",
-      "symbol": "SATUNIBTC",
-      "decimals": 8,
-      "logoURI": "https://assets.coingecko.com/coins/images/67943/thumb/satUniBTC.png?1754391309"
+      "address": "0x3228995749610bea00b59c44f8d1df21c14027f1",
+      "name": "Avalon",
+      "symbol": "AVL",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/54119/thumb/AV.png?1738314011"
     }
   ],
   "version": {
-    "major": 1,
-    "minor": 4,
-    "patch": 1
+    "major": 2,
+    "minor": 0,
+    "patch": 0
   }
 }

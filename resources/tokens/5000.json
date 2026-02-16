@@ -4,8 +4,63 @@
   "keywords": [
     "defi"
   ],
-  "timestamp": "2026-01-22T09:00:34.386+00:00",
+  "timestamp": "2026-02-13T11:00:33.502+00:00",
   "tokens": [
+    {
+      "chainId": 5000,
+      "address": "0x671642ac281c760e34251d51bc9eef27026f3b7a",
+      "name": "Mantle Index Four Fund",
+      "symbol": "MI4",
+      "decimals": 6,
+      "logoURI": "https://assets.coingecko.com/coins/images/66570/thumb/mi4.png?1749795929"
+    },
+    {
+      "chainId": 5000,
+      "address": "0x26a6b0dcdcfb981362afa56d581e4a7dba3be140",
+      "name": "Puff The Dragon",
+      "symbol": "PUFF",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/35950/thumb/photo_2024-03-11_10.18.27.jpeg?1710240090"
+    },
+    {
+      "chainId": 5000,
+      "address": "0xabbeed1d173541e0546b38b1c0394975be200000",
+      "name": "Slash Vision Labs",
+      "symbol": "SVL",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/37444/thumb/svl.jpeg?1714443652"
+    },
+    {
+      "chainId": 5000,
+      "address": "0x4515a45337f461a11ff0fe8abf3c606ae5dc00c9",
+      "name": "MOE",
+      "symbol": "MOE",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/34422/thumb/MOE.png?1704821927"
+    },
+    {
+      "chainId": 5000,
+      "address": "0xab575258d37eaa5c8956efabe71f4ee8f6397cf3",
+      "name": "Mantle USD",
+      "symbol": "MUSD",
+      "decimals": 18
+    },
+    {
+      "chainId": 5000,
+      "address": "0x51cfe5b1e764dc253f4c8c1f19a081ff4c3517ed",
+      "name": "Mantle Inu",
+      "symbol": "MINU",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/31014/thumb/mantle-inu.jpeg?1696529851"
+    },
+    {
+      "chainId": 5000,
+      "address": "0x25356aeca4210ef7553140edb9b8026089e49396",
+      "name": "Lendle",
+      "symbol": "LEND",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/31588/thumb/lendle_logo_200_200_cg.png?1696530405"
+    },
     {
       "chainId": 5000,
       "address": "0x78c1b0c915c4faa5fffa6cabf0219da63d7f4cb8",
@@ -21,61 +76,6 @@
       "symbol": "USDC",
       "decimals": 6,
       "logoURI": "https://assets.coingecko.com/coins/images/35296/thumb/USDC_Icon.png?1708082083"
-    },
-    {
-      "chainId": 5000,
-      "address": "0x26a6b0dcdcfb981362afa56d581e4a7dba3be140",
-      "name": "Puff The Dragon",
-      "symbol": "PUFF",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/35950/thumb/photo_2024-03-11_10.18.27.jpeg?1710240090"
-    },
-    {
-      "chainId": 5000,
-      "address": "0x51cfe5b1e764dc253f4c8c1f19a081ff4c3517ed",
-      "name": "Mantle Inu",
-      "symbol": "MINU",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/31014/thumb/mantle-inu.jpeg?1696529851"
-    },
-    {
-      "chainId": 5000,
-      "address": "0x671642ac281c760e34251d51bc9eef27026f3b7a",
-      "name": "Mantle Index Four Fund",
-      "symbol": "MI4",
-      "decimals": 6,
-      "logoURI": "https://assets.coingecko.com/coins/images/66570/thumb/mi4.png?1749795929"
-    },
-    {
-      "chainId": 5000,
-      "address": "0xab575258d37eaa5c8956efabe71f4ee8f6397cf3",
-      "name": "Mantle USD",
-      "symbol": "MUSD",
-      "decimals": 18
-    },
-    {
-      "chainId": 5000,
-      "address": "0xabbeed1d173541e0546b38b1c0394975be200000",
-      "name": "Slash Vision Labs",
-      "symbol": "SVL",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/37444/thumb/svl.jpeg?1714443652"
-    },
-    {
-      "chainId": 5000,
-      "address": "0x25356aeca4210ef7553140edb9b8026089e49396",
-      "name": "Lendle",
-      "symbol": "LEND",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/31588/thumb/lendle_logo_200_200_cg.png?1696530405"
-    },
-    {
-      "chainId": 5000,
-      "address": "0x4515a45337f461a11ff0fe8abf3c606ae5dc00c9",
-      "name": "MOE",
-      "symbol": "MOE",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/34422/thumb/MOE.png?1704821927"
     },
     {
       "chainId": 5000,
@@ -383,14 +383,6 @@
     },
     {
       "chainId": 5000,
-      "address": "0x91824fc3573c5043837f6357b72f60014a710501",
-      "name": "Aperture Finance",
-      "symbol": "APTR",
-      "decimals": 6,
-      "logoURI": "https://assets.coingecko.com/coins/images/37940/thumb/icon_white.png?1715967425"
-    },
-    {
-      "chainId": 5000,
       "address": "0xe6829d9a7ee3040e1276fa75293bde931859e8fa",
       "name": "Mantle Restaked ETH",
       "symbol": "CMETH",
@@ -631,8 +623,8 @@
     }
   ],
   "version": {
-    "major": 21,
-    "minor": 2,
+    "major": 22,
+    "minor": 0,
     "patch": 0
   }
 }
