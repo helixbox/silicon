@@ -4,16 +4,8 @@
   "keywords": [
     "defi"
   ],
-  "timestamp": "2026-02-14T10:00:21.110+00:00",
+  "timestamp": "2026-02-22T11:00:19.295+00:00",
   "tokens": [
-    {
-      "chainId": 5464,
-      "address": "0xa19377761fed745723b90993988e04d641c2cffe",
-      "name": "Wrapped SAGA",
-      "symbol": "SAGA",
-      "decimals": 6,
-      "logoURI": "https://assets.coingecko.com/coins/images/54884/thumb/saga.jpg?1742379892"
-    },
     {
       "chainId": 5464,
       "address": "usaga",
@@ -32,31 +24,23 @@
     },
     {
       "chainId": 5464,
+      "address": "0xa19377761fed745723b90993988e04d641c2cffe",
+      "name": "Wrapped SAGA",
+      "symbol": "SAGA",
+      "decimals": 6,
+      "logoURI": "https://assets.coingecko.com/coins/images/54884/thumb/saga.jpg?1742379892"
+    },
+    {
+      "chainId": 5464,
       "address": "0xa8b56ce258a7f55327bde886b0e947ee059ca434",
       "name": "Mustang",
       "symbol": "MUST",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/70999/thumb/mustang-icon.png?1765092466"
-    },
-    {
-      "chainId": 5464,
-      "address": "0xfc960c233b8e98e0cf282e29bde8d3f105fc24d5",
-      "name": "Squid Bridged USDC (Saga)",
-      "symbol": "USDC",
-      "decimals": 6,
-      "logoURI": "https://assets.coingecko.com/coins/images/54883/thumb/usdc.jpg?1742379795"
-    },
-    {
-      "chainId": 5464,
-      "address": "0xeb41d53f14cb9a67907f2b8b5dbc223944158ccb",
-      "name": "Saga Bridged WETH (Saga)",
-      "symbol": "WETH",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/54882/thumb/weth_2.jpg?1742379717"
     }
   ],
   "version": {
-    "major": 2,
+    "major": 3,
     "minor": 0,
     "patch": 0
   }

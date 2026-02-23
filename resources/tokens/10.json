@@ -4,7 +4,7 @@
   "keywords": [
     "defi"
   ],
-  "timestamp": "2026-02-14T09:00:48.343+00:00",
+  "timestamp": "2026-02-16T10:00:38.743+00:00",
   "tokens": [
     {
       "chainId": 10,
@@ -13,6 +13,22 @@
       "symbol": "DAI+",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/29634/thumb/DAI_.png?1696528571"
+    },
+    {
+      "chainId": 10,
+      "address": "0x81c9a7b55a4df39a9b7b5f781ec0e53539694873",
+      "name": "Exactly USD.e Coin",
+      "symbol": "EXAUSDC.E",
+      "decimals": 6,
+      "logoURI": "https://assets.coingecko.com/coins/images/31175/thumb/ExaUSDC_1.png?1696530003"
+    },
+    {
+      "chainId": 10,
+      "address": "0xb153fb3d196a8eb25522705560ac152eeec57901",
+      "name": "Magic Internet Money (Optimism)",
+      "symbol": "MIM",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/37659/thumb/mim.png?1715165153"
     },
     {
       "chainId": 10,
@@ -48,11 +64,11 @@
     },
     {
       "chainId": 10,
-      "address": "0x065399a1e5522af1c9044c18ce60ec70d64d74a1",
-      "name": "Aktionariat Finelli Studios AG Tokenized Shares",
-      "symbol": "FNLS",
-      "decimals": 0,
-      "logoURI": "https://assets.coingecko.com/coins/images/33374/thumb/FNL.png?1701649817"
+      "address": "0x9560e827af36c94d2ac33a39bce1fe78631088db",
+      "name": "Velodrome Finance",
+      "symbol": "VELO",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/25783/thumb/velo.png?1696524870"
     },
     {
       "chainId": 10,
@@ -64,35 +80,11 @@
     },
     {
       "chainId": 10,
-      "address": "0xb153fb3d196a8eb25522705560ac152eeec57901",
-      "name": "Magic Internet Money (Optimism)",
-      "symbol": "MIM",
+      "address": "0xef4461891dfb3ac8572ccf7c794664a8dd927945",
+      "name": "WalletConnect Token",
+      "symbol": "WCT",
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/37659/thumb/mim.png?1715165153"
-    },
-    {
-      "chainId": 10,
-      "address": "0x81c9a7b55a4df39a9b7b5f781ec0e53539694873",
-      "name": "Exactly USD.e Coin",
-      "symbol": "EXAUSDC.E",
-      "decimals": 6,
-      "logoURI": "https://assets.coingecko.com/coins/images/31175/thumb/ExaUSDC_1.png?1696530003"
-    },
-    {
-      "chainId": 10,
-      "address": "0x9560e827af36c94d2ac33a39bce1fe78631088db",
-      "name": "Velodrome Finance",
-      "symbol": "VELO",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/25783/thumb/velo.png?1696524870"
-    },
-    {
-      "chainId": 10,
-      "address": "0x10398abc267496e49106b07dd6be13364d10dc71",
-      "name": "Let's Get HAI",
-      "symbol": "HAI",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/35863/thumb/hai-logo-200x200.png?1711190591"
+      "logoURI": "https://assets.coingecko.com/coins/images/50390/thumb/wc-token1.png?1727569464"
     },
     {
       "chainId": 10,
@@ -101,6 +93,14 @@
       "symbol": "USD+",
       "decimals": 6,
       "logoURI": "https://assets.coingecko.com/coins/images/39629/thumb/usd_plus.png?1723181559"
+    },
+    {
+      "chainId": 10,
+      "address": "0x0a7b751fcdbbaa8bb988b9217ad5fb5cfe7bf7a0",
+      "name": "Infinite Trading Protocol",
+      "symbol": "ITP",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/68308/thumb/itplogo.png?1755327311"
     },
     {
       "chainId": 10,
@@ -120,19 +120,27 @@
     },
     {
       "chainId": 10,
+      "address": "0x7f5c764cbc14f9669b88837ca1490cca17c31607",
+      "name": "Standard Bridged USDC.e (Optimism)",
+      "symbol": "USDC.E",
+      "decimals": 6,
+      "logoURI": "https://assets.coingecko.com/coins/images/31580/thumb/USDC-icon.png?1696530397"
+    },
+    {
+      "chainId": 10,
+      "address": "0xc47da4cb96ce65a96844a01bfae509f9d5454534",
+      "name": "Dephaser JPY",
+      "symbol": "JPYT",
+      "decimals": 6,
+      "logoURI": "https://assets.coingecko.com/coins/images/68576/thumb/JPYT_Logo_200x200_px.png?1756110424"
+    },
+    {
+      "chainId": 10,
       "address": "0x139052115f8b1773cf7dcba6a553f922a2e54f69",
       "name": "Nekocoin",
       "symbol": "((=ↀΩↀ=))",
       "decimals": 6,
       "logoURI": "https://assets.coingecko.com/coins/images/50449/thumb/Token-160px.png?1727772379"
-    },
-    {
-      "chainId": 10,
-      "address": "0xe061aa40be525a13296cb4bf69f513242349d708",
-      "name": "XVGOPT",
-      "symbol": "XVGOPT",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/67715/thumb/xvgopt-200x200.png?1753616135"
     },
     {
       "chainId": 10,
@@ -160,35 +168,19 @@
     },
     {
       "chainId": 10,
-      "address": "0x7f5c764cbc14f9669b88837ca1490cca17c31607",
-      "name": "Standard Bridged USDC.e (Optimism)",
-      "symbol": "USDC.E",
-      "decimals": 6,
-      "logoURI": "https://assets.coingecko.com/coins/images/31580/thumb/USDC-icon.png?1696530397"
-    },
-    {
-      "chainId": 10,
-      "address": "0xb5090d514bcaca7dafb7e52763658844121f346d",
-      "name": "Binary Holdings",
-      "symbol": "BNRY",
+      "address": "0x10398abc267496e49106b07dd6be13364d10dc71",
+      "name": "Let's Get HAI",
+      "symbol": "HAI",
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/37521/thumb/Vector-1.png?1714634222"
+      "logoURI": "https://assets.coingecko.com/coins/images/35863/thumb/hai-logo-200x200.png?1711190591"
     },
     {
       "chainId": 10,
-      "address": "0xc47da4cb96ce65a96844a01bfae509f9d5454534",
-      "name": "Dephaser JPY",
-      "symbol": "JPYT",
-      "decimals": 6,
-      "logoURI": "https://assets.coingecko.com/coins/images/68576/thumb/JPYT_Logo_200x200_px.png?1756110424"
-    },
-    {
-      "chainId": 10,
-      "address": "0xef4461891dfb3ac8572ccf7c794664a8dd927945",
-      "name": "WalletConnect Token",
-      "symbol": "WCT",
+      "address": "0xe061aa40be525a13296cb4bf69f513242349d708",
+      "name": "XVGOPT",
+      "symbol": "XVGOPT",
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/50390/thumb/wc-token1.png?1727569464"
+      "logoURI": "https://assets.coingecko.com/coins/images/67715/thumb/xvgopt-200x200.png?1753616135"
     },
     {
       "chainId": 10,
@@ -248,6 +240,22 @@
     },
     {
       "chainId": 10,
+      "address": "0x065399a1e5522af1c9044c18ce60ec70d64d74a1",
+      "name": "Aktionariat Finelli Studios AG Tokenized Shares",
+      "symbol": "FNLS",
+      "decimals": 0,
+      "logoURI": "https://assets.coingecko.com/coins/images/33374/thumb/FNL.png?1701649817"
+    },
+    {
+      "chainId": 10,
+      "address": "0xb5090d514bcaca7dafb7e52763658844121f346d",
+      "name": "Binary Holdings",
+      "symbol": "BNRY",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/37521/thumb/Vector-1.png?1714634222"
+    },
+    {
+      "chainId": 10,
       "address": "0x513c7e3a9c69ca3e22550ef58ac1c0088e918fff",
       "name": "Aave v3 OP",
       "symbol": "AOP",
@@ -269,14 +277,6 @@
       "symbol": "EXAUSDC",
       "decimals": 6,
       "logoURI": "https://assets.coingecko.com/coins/images/50240/thumb/exaUSDC.png?1726676118"
-    },
-    {
-      "chainId": 10,
-      "address": "0x0a7b751fcdbbaa8bb988b9217ad5fb5cfe7bf7a0",
-      "name": "Infinite Trading Protocol",
-      "symbol": "ITP",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/68308/thumb/itplogo.png?1755327311"
     },
     {
       "chainId": 10,
@@ -1004,14 +1004,6 @@
       "symbol": "SKR",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/37058/thumb/saakuru.jpeg?1713172376"
-    },
-    {
-      "chainId": 10,
-      "address": "0x51707dc661630f8fd624b985fa6ef4f1d4d919db",
-      "name": "Unvest",
-      "symbol": "UNV",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/18119/thumb/UNV.jpg?1696517622"
     },
     {
       "chainId": 10,
@@ -2135,7 +2127,7 @@
     }
   ],
   "version": {
-    "major": 64,
+    "major": 65,
     "minor": 0,
     "patch": 0
   }

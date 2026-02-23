@@ -4,32 +4,8 @@
   "keywords": [
     "defi"
   ],
-  "timestamp": "2025-12-11T10:00:38.772+00:00",
+  "timestamp": "2026-02-19T10:00:36.433+00:00",
   "tokens": [
-    {
-      "chainId": 1284,
-      "address": "0xe3e43888fa7803cdc7bea478ab327cf1a0dc11a7",
-      "name": "Solarflare",
-      "symbol": "FLARE",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/24310/thumb/Solarflare.png?1696523491"
-    },
-    {
-      "chainId": 1284,
-      "address": "0xffffffff43b4560bc0c451a3386e082bff50ac90",
-      "name": "Subsocial",
-      "symbol": "SUB",
-      "decimals": 10,
-      "logoURI": "https://assets.coingecko.com/coins/images/15880/thumb/icon___gradient_1.png?1696515495"
-    },
-    {
-      "chainId": 1284,
-      "address": "0xcd3b51d98478d53f4515a306be565c6eebef1d58",
-      "name": "BeamSwap",
-      "symbol": "GLINT",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/22893/thumb/glint.png?1696522190"
-    },
     {
       "chainId": 1284,
       "address": "0x511ab53f793683763e5a8829738301368a2411e3",
@@ -37,6 +13,30 @@
       "symbol": "WELL",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/26133/thumb/WELL.png?1696525221"
+    },
+    {
+      "chainId": 1284,
+      "address": "0xbc7e02c4178a7df7d3e564323a5c359dc96c4db4",
+      "name": "StellaSwap Staked DOT",
+      "symbol": "STDOT",
+      "decimals": 10,
+      "logoURI": "https://assets.coingecko.com/coins/images/33872/thumb/stDOT.png?1703132036"
+    },
+    {
+      "chainId": 1284,
+      "address": "0x0e358838ce72d5e61e0018a2ffac4bec5f4c88d2",
+      "name": "StellaSwap",
+      "symbol": "STELLA",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/22801/thumb/stellaswap.jpg?1696522104"
+    },
+    {
+      "chainId": 1284,
+      "address": "0xe3e43888fa7803cdc7bea478ab327cf1a0dc11a7",
+      "name": "Solarflare",
+      "symbol": "FLARE",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/24310/thumb/Solarflare.png?1696523491"
     },
     {
       "chainId": 1284,
@@ -56,14 +56,6 @@
     },
     {
       "chainId": 1284,
-      "address": "0x8f552a71efe5eefc207bf75485b356a0b3f01ec9",
-      "name": "Nomad Bridged USDC (Moonbeam)",
-      "symbol": "USDC",
-      "decimals": 6,
-      "logoURI": "https://assets.coingecko.com/coins/images/35231/thumb/USDC.jpg?1707925331"
-    },
-    {
-      "chainId": 1284,
       "address": "0x30d2a9f5fdf90ace8c17952cbb4ee48a55d916a7",
       "name": "Nomad Bridged WETH (Moonbeam)",
       "symbol": "WETH",
@@ -72,35 +64,11 @@
     },
     {
       "chainId": 1284,
-      "address": "0x0e358838ce72d5e61e0018a2ffac4bec5f4c88d2",
-      "name": "StellaSwap",
-      "symbol": "STELLA",
+      "address": "0xacc15dc74880c9944775448304b263d191c6077f",
+      "name": "Wrapped Moonbeam",
+      "symbol": "WGLMR",
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/22801/thumb/stellaswap.jpg?1696522104"
-    },
-    {
-      "chainId": 1284,
-      "address": "0xbc7e02c4178a7df7d3e564323a5c359dc96c4db4",
-      "name": "StellaSwap Staked DOT",
-      "symbol": "STDOT",
-      "decimals": 10,
-      "logoURI": "https://assets.coingecko.com/coins/images/33872/thumb/stDOT.png?1703132036"
-    },
-    {
-      "chainId": 1284,
-      "address": "0x6021d2c27b6fbd6e7608d1f39b41398caee2f824",
-      "name": "Cypress",
-      "symbol": "CP",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/35286/thumb/photo_2024-12-05_05-17-52.jpg?1733694753"
-    },
-    {
-      "chainId": 1284,
-      "address": "0xab3f0245b83feb11d15aaffefd7ad465a59817ed",
-      "name": "Wormhole Bridged WETH (Moonbeam)",
-      "symbol": "WETH",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/39965/thumb/weth.png?1724953086"
+      "logoURI": "https://assets.coingecko.com/coins/images/23688/thumb/Moonbeam_WGLMR_ICON.png?1716655228"
     },
     {
       "chainId": 1284,
@@ -112,11 +80,27 @@
     },
     {
       "chainId": 1284,
-      "address": "0xe8e8bd89a429526561e1283cb789719864ffd0b4",
-      "name": "Gu",
-      "symbol": "GU",
+      "address": "0xcd3b51d98478d53f4515a306be565c6eebef1d58",
+      "name": "BeamSwap",
+      "symbol": "GLINT",
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/68189/thumb/GU-logo.png?1755024305"
+      "logoURI": "https://assets.coingecko.com/coins/images/22893/thumb/glint.png?1696522190"
+    },
+    {
+      "chainId": 1284,
+      "address": "0xffffffff43b4560bc0c451a3386e082bff50ac90",
+      "name": "Subsocial",
+      "symbol": "SUB",
+      "decimals": 10,
+      "logoURI": "https://assets.coingecko.com/coins/images/15880/thumb/icon___gradient_1.png?1696515495"
+    },
+    {
+      "chainId": 1284,
+      "address": "0x8f552a71efe5eefc207bf75485b356a0b3f01ec9",
+      "name": "Nomad Bridged USDC (Moonbeam)",
+      "symbol": "USDC",
+      "decimals": 6,
+      "logoURI": "https://assets.coingecko.com/coins/images/35231/thumb/USDC.jpg?1707925331"
     },
     {
       "chainId": 1284,
@@ -128,11 +112,19 @@
     },
     {
       "chainId": 1284,
-      "address": "0xacc15dc74880c9944775448304b263d191c6077f",
-      "name": "Wrapped Moonbeam",
-      "symbol": "WGLMR",
+      "address": "0x6021d2c27b6fbd6e7608d1f39b41398caee2f824",
+      "name": "Cypress",
+      "symbol": "CP",
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/23688/thumb/Moonbeam_WGLMR_ICON.png?1716655228"
+      "logoURI": "https://assets.coingecko.com/coins/images/35286/thumb/photo_2024-12-05_05-17-52.jpg?1733694753"
+    },
+    {
+      "chainId": 1284,
+      "address": "0xe8e8bd89a429526561e1283cb789719864ffd0b4",
+      "name": "Gu",
+      "symbol": "GU",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/68189/thumb/GU-logo.png?1755024305"
     },
     {
       "chainId": 1284,
@@ -256,7 +248,7 @@
     }
   ],
   "version": {
-    "major": 16,
+    "major": 17,
     "minor": 0,
     "patch": 0
   }
