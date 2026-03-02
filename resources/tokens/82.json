@@ -4,15 +4,15 @@
   "keywords": [
     "defi"
   ],
-  "timestamp": "2025-12-18T05:00:25.361+00:00",
+  "timestamp": "2026-02-23T11:00:23.743+00:00",
   "tokens": [
     {
       "chainId": 82,
-      "address": "0xe2de616fbd8cb9180b26fcfb1b761a232fe56717",
-      "name": "Meter.io Wrapped stMTRG",
-      "symbol": "WSTMTRG",
+      "address": "0x228ebbee999c6a7ad74a6130e81b12f9fe237ba3",
+      "name": "Meter Governance",
+      "symbol": "MTRG",
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/33276/thumb/MTRG_Logo.png?1701329317"
+      "logoURI": "https://assets.coingecko.com/coins/images/11848/thumb/meter.png?1696511719"
     },
     {
       "chainId": 82,
@@ -21,6 +21,14 @@
       "symbol": "SUUSD",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/33266/thumb/Sumer_Money_Logo.jpg?1701321416"
+    },
+    {
+      "chainId": 82,
+      "address": "0xe2de616fbd8cb9180b26fcfb1b761a232fe56717",
+      "name": "Meter.io Wrapped stMTRG",
+      "symbol": "WSTMTRG",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/33276/thumb/MTRG_Logo.png?1701329317"
     },
     {
       "chainId": 82,
@@ -48,14 +56,6 @@
     },
     {
       "chainId": 82,
-      "address": "0x228ebbee999c6a7ad74a6130e81b12f9fe237ba3",
-      "name": "Meter Governance",
-      "symbol": "MTRG",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/11848/thumb/meter.png?1696511719"
-    },
-    {
-      "chainId": 82,
       "address": "0x79a61d3a28f8c8537a3df63092927cfa1150fb3c",
       "name": "Bridged WETH",
       "symbol": "WETH",
@@ -69,14 +69,6 @@
       "symbol": "WBNB",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/53070/thumb/wrapped_bnb.png?1735264554"
-    },
-    {
-      "chainId": 82,
-      "address": "0x5647f6cc997e45b81d786baa9ecd8a1ad40ef25f",
-      "name": "Meridian MST",
-      "symbol": "MST",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/34343/thumb/Meridian_Icon.png?1720634198"
     },
     {
       "chainId": 82,
@@ -127,8 +119,8 @@
     }
   ],
   "version": {
-    "major": 1,
+    "major": 2,
     "minor": 0,
-    "patch": 1
+    "patch": 0
   }
 }

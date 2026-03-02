@@ -4,8 +4,16 @@
   "keywords": [
     "defi"
   ],
-  "timestamp": "2026-01-22T17:00:22.917+00:00",
+  "timestamp": "2026-02-24T11:00:21.779+00:00",
   "tokens": [
+    {
+      "chainId": 5888,
+      "address": "aom",
+      "name": "MANTRA [Old]",
+      "symbol": "OM",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/12151/thumb/OM_Token.png?1696511991"
+    },
     {
       "chainId": 5888,
       "address": "0x5e76be0f4e09057d75140216f70fd4ce3365bb29",
@@ -16,11 +24,11 @@
     },
     {
       "chainId": 5888,
-      "address": "aom",
-      "name": "MANTRA",
-      "symbol": "OM",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/12151/thumb/OM_Token.png?1696511991"
+      "address": "0xd2b95283011e47257917770d28bb3ee44c849f6f",
+      "name": "MANTRA USD",
+      "symbol": "MANTRAUSD",
+      "decimals": 6,
+      "logoURI": "https://assets.coingecko.com/coins/images/71237/thumb/mantraUSD_token.png?1766549973"
     },
     {
       "chainId": 5888,
@@ -29,14 +37,6 @@
       "symbol": "WOM",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/71258/thumb/mantra.jpg?1766735675"
-    },
-    {
-      "chainId": 5888,
-      "address": "0xd2b95283011e47257917770d28bb3ee44c849f6f",
-      "name": "MANTRA USD",
-      "symbol": "MANTRAUSD",
-      "decimals": 6,
-      "logoURI": "https://assets.coingecko.com/coins/images/71237/thumb/mantraUSD_token.png?1766549973"
     },
     {
       "chainId": 5888,
@@ -50,6 +50,6 @@
   "version": {
     "major": 0,
     "minor": 4,
-    "patch": 0
+    "patch": 1
   }
 }

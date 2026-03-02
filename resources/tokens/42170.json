@@ -4,8 +4,16 @@
   "keywords": [
     "defi"
   ],
-  "timestamp": "2026-01-22T09:00:28.658+00:00",
+  "timestamp": "2026-02-25T09:00:31.227+00:00",
   "tokens": [
+    {
+      "chainId": 42170,
+      "address": "0x750ba8b76187092b0d1e87e28daaf484d1b5273b",
+      "name": "Arbitrum Bridged USDC (Arbitrum Nova)",
+      "symbol": "USDC",
+      "decimals": 6,
+      "logoURI": "https://assets.coingecko.com/coins/images/35259/thumb/USDC_Icon.png?1708007444"
+    },
     {
       "chainId": 42170,
       "address": "0x0057ac2d777797d31cd3f8f13bf5e927571d6ad0",
@@ -13,14 +21,6 @@
       "symbol": "MOON",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/11222/thumb/Moons.png?1696511153"
-    },
-    {
-      "chainId": 42170,
-      "address": "0xda10009cbd5d07dd0cecc66161fc93d7c9000da1",
-      "name": "MakerDAO Arbitrum Nova DAI Bridge (Arbitrum Nova)",
-      "symbol": "DAI",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/39804/thumb/dai.png?1724126141"
     },
     {
       "chainId": 42170,
@@ -32,11 +32,11 @@
     },
     {
       "chainId": 42170,
-      "address": "0x750ba8b76187092b0d1e87e28daaf484d1b5273b",
-      "name": "Arbitrum Bridged USDC (Arbitrum Nova)",
-      "symbol": "USDC",
-      "decimals": 6,
-      "logoURI": "https://assets.coingecko.com/coins/images/35259/thumb/USDC_Icon.png?1708007444"
+      "address": "0xda10009cbd5d07dd0cecc66161fc93d7c9000da1",
+      "name": "MakerDAO Arbitrum Nova DAI Bridge (Arbitrum Nova)",
+      "symbol": "DAI",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/39804/thumb/dai.png?1724126141"
     },
     {
       "chainId": 42170,
@@ -77,18 +77,10 @@
       "symbol": "GG",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/31228/thumb/gg_cyan_black_square.png?1703749951"
-    },
-    {
-      "chainId": 42170,
-      "address": "0xb5130f4767ab0acc579f25a76e8f9e977cb3f948",
-      "name": "Godcoin",
-      "symbol": "GOD",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/53848/thumb/GodcoinTickerIcon_02.png?1737582816"
     }
   ],
   "version": {
-    "major": 4,
+    "major": 5,
     "minor": 0,
     "patch": 0
   }
