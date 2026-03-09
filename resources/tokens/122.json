@@ -4,31 +4,15 @@
   "keywords": [
     "defi"
   ],
-  "timestamp": "2025-12-12T10:00:25.555+00:00",
+  "timestamp": "2026-03-04T17:00:18.276+00:00",
   "tokens": [
     {
       "chainId": 122,
-      "address": "0x34ef2cc892a88415e9f02b91bfa9c91fc0be6bd4",
-      "name": "Voltage Finance",
-      "symbol": "VOLT",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/21886/thumb/My_project.png?1696521238"
-    },
-    {
-      "chainId": 122,
-      "address": "0x6acb34b1df86e254b544189ec32cf737e2482058",
-      "name": "Fuse Bridged WBNB (Fuse)",
-      "symbol": "WBNB",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/53071/thumb/wrapped_bnb.png?1735197840"
-    },
-    {
-      "chainId": 122,
-      "address": "0x5622f6dc93e08a8b717b149677930c38d5d50682",
-      "name": "Bridged Wrapped Ether (Fuse)",
-      "symbol": "WETH",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/32759/thumb/logo_%286%29.png?1699324862"
+      "address": "0x33284f95ccb7b948d9d352e1439561cf83d8d00d",
+      "name": "Fuse Bridged WBTC (Fuse)",
+      "symbol": "WBTC",
+      "decimals": 8,
+      "logoURI": "https://assets.coingecko.com/coins/images/39557/thumb/wbtc.png?1722898201"
     },
     {
       "chainId": 122,
@@ -40,35 +24,19 @@
     },
     {
       "chainId": 122,
-      "address": "0x33284f95ccb7b948d9d352e1439561cf83d8d00d",
-      "name": "Fuse Bridged WBTC (Fuse)",
-      "symbol": "WBTC",
-      "decimals": 8,
-      "logoURI": "https://assets.coingecko.com/coins/images/39557/thumb/wbtc.png?1722898201"
-    },
-    {
-      "chainId": 122,
-      "address": "0x68c9736781e9316ebf5c3d49fe0c1f45d2d104cd",
-      "name": "Fuse Bridged USDT (Fuse)",
-      "symbol": "USDT",
-      "decimals": 6,
-      "logoURI": "https://assets.coingecko.com/coins/images/32986/thumb/logo_%288%29.png?1700094172"
-    },
-    {
-      "chainId": 122,
-      "address": "0x75333830e7014e909535389a6e5b0c02aa62ca27",
-      "name": "Solid USD (soUSD)",
-      "symbol": "SOUSD",
-      "decimals": 6,
-      "logoURI": "https://assets.coingecko.com/coins/images/68960/thumb/soUSD_logo.png?1757088705"
-    },
-    {
-      "chainId": 122,
-      "address": "0x0be9e53fd7edac9f859882afdda116645287c629",
-      "name": "Wrapped FUSE",
-      "symbol": "WFUSE",
+      "address": "0x5622f6dc93e08a8b717b149677930c38d5d50682",
+      "name": "Bridged Wrapped Ether (Fuse)",
+      "symbol": "WETH",
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/33535/thumb/3WFUSE_token_logo_crl.png?1703026207"
+      "logoURI": "https://assets.coingecko.com/coins/images/32759/thumb/logo_%286%29.png?1699324862"
+    },
+    {
+      "chainId": 122,
+      "address": "0x34ef2cc892a88415e9f02b91bfa9c91fc0be6bd4",
+      "name": "Voltage Finance",
+      "symbol": "VOLT",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/21886/thumb/My_project.png?1696521238"
     },
     {
       "chainId": 122,
@@ -80,11 +48,43 @@
     },
     {
       "chainId": 122,
+      "address": "0x75333830e7014e909535389a6e5b0c02aa62ca27",
+      "name": "Solid USD (soUSD)",
+      "symbol": "SOUSD",
+      "decimals": 6,
+      "logoURI": "https://assets.coingecko.com/coins/images/68960/thumb/soUSD_logo.png?1757088705"
+    },
+    {
+      "chainId": 122,
       "address": "0x2931b47c2cee4febad348ba3d322cb4a17662c34",
       "name": "Bridged Wrapped stETH (Fuse)",
       "symbol": "WSTETH",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/51545/thumb/logo_%2811%29.png?1731503581"
+    },
+    {
+      "chainId": 122,
+      "address": "0x6acb34b1df86e254b544189ec32cf737e2482058",
+      "name": "Fuse Bridged WBNB (Fuse)",
+      "symbol": "WBNB",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/53071/thumb/wrapped_bnb.png?1735197840"
+    },
+    {
+      "chainId": 122,
+      "address": "0x0be9e53fd7edac9f859882afdda116645287c629",
+      "name": "Wrapped FUSE",
+      "symbol": "WFUSE",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/33535/thumb/3WFUSE_token_logo_crl.png?1703026207"
+    },
+    {
+      "chainId": 122,
+      "address": "0x68c9736781e9316ebf5c3d49fe0c1f45d2d104cd",
+      "name": "Fuse Bridged USDT (Fuse)",
+      "symbol": "USDT",
+      "decimals": 6,
+      "logoURI": "https://assets.coingecko.com/coins/images/32986/thumb/logo_%288%29.png?1700094172"
     },
     {
       "chainId": 122,
@@ -163,12 +163,13 @@
       "address": "0x6a5f6a8121592becd6747a38d67451b310f7f156",
       "name": "Bridged BUSD",
       "symbol": "BUSD",
-      "decimals": 18
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/36889/thumb/BUSD.png?1772639323"
     }
   ],
   "version": {
     "major": 11,
     "minor": 0,
-    "patch": 2
+    "patch": 3
   }
 }

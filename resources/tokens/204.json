@@ -4,30 +4,15 @@
   "keywords": [
     "defi"
   ],
-  "timestamp": "2026-01-19T07:00:06.287+00:00",
+  "timestamp": "2026-03-04T09:00:07.292+00:00",
   "tokens": [
-    {
-      "chainId": 204,
-      "address": "0xb01d49c26416a352fac4fbb3d555d5f2543e3247",
-      "name": "CUBISWAP",
-      "symbol": "CUBI",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/31803/thumb/IMG_20230917_222524_599.PNG?1696530618"
-    },
     {
       "chainId": 204,
       "address": "0xe7798f023fc62146e8aa1b36da45fb70855a77ea",
       "name": "Bridged Binance-Peg Ethereum (opBNB)",
       "symbol": "ETH",
-      "decimals": 18
-    },
-    {
-      "chainId": 204,
-      "address": "0x9e5aac1ba1a2e6aed6b32689dfcf62a509ca96f3",
-      "name": "opBNB Bridged USDT (opBNB)",
-      "symbol": "USDT",
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/32613/thumb/usdt_opbnb_bridged.png?1698734789"
+      "logoURI": "https://assets.coingecko.com/coins/images/32616/thumb/eth.png?1772614093"
     },
     {
       "chainId": 204,
@@ -44,6 +29,22 @@
       "symbol": "WBNB",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/53120/thumb/wrapped_bnb.png?1735265071"
+    },
+    {
+      "chainId": 204,
+      "address": "0xb01d49c26416a352fac4fbb3d555d5f2543e3247",
+      "name": "CUBISWAP",
+      "symbol": "CUBI",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/31803/thumb/IMG_20230917_222524_599.PNG?1696530618"
+    },
+    {
+      "chainId": 204,
+      "address": "0x9e5aac1ba1a2e6aed6b32689dfcf62a509ca96f3",
+      "name": "opBNB Bridged USDT (opBNB)",
+      "symbol": "USDT",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/32613/thumb/usdt_opbnb_bridged.png?1698734789"
     },
     {
       "chainId": 204,
@@ -137,6 +138,6 @@
   "version": {
     "major": 4,
     "minor": 1,
-    "patch": 2
+    "patch": 3
   }
 }

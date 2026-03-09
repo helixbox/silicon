@@ -4,16 +4,8 @@
   "keywords": [
     "defi"
   ],
-  "timestamp": "2025-10-13T10:00:11.441+00:00",
+  "timestamp": "2026-03-04T17:00:08.328+00:00",
   "tokens": [
-    {
-      "chainId": 106,
-      "address": "0xe3f5a90f9cb311505cd691a46596599aa1a0ad7d",
-      "name": "Bridged DAI",
-      "symbol": "DAI",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/39809/thumb/dai.png?1724128089"
-    },
     {
       "chainId": 106,
       "address": "0xc579d1f3cf86749e05cd06f7ade17856c2ce3126",
@@ -21,6 +13,14 @@
       "symbol": "WVLX",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/23900/thumb/AJADWZpI_400x400.png?1696523100"
+    },
+    {
+      "chainId": 106,
+      "address": "0xe3f5a90f9cb311505cd691a46596599aa1a0ad7d",
+      "name": "Bridged DAI",
+      "symbol": "DAI",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/39809/thumb/dai.png?1724128089"
     },
     {
       "chainId": 106,
@@ -123,12 +123,13 @@
       "address": "0xc9baa8cfdde8e328787e29b4b078abf2dadc2055",
       "name": "Bridged BUSD",
       "symbol": "BUSD",
-      "decimals": 18
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/36889/thumb/BUSD.png?1772639323"
     }
   ],
   "version": {
     "major": 3,
     "minor": 0,
-    "patch": 0
+    "patch": 1
   }
 }

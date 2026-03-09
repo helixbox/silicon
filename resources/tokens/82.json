@@ -4,15 +4,15 @@
   "keywords": [
     "defi"
   ],
-  "timestamp": "2026-02-23T11:00:23.743+00:00",
+  "timestamp": "2026-03-04T17:00:23.454+00:00",
   "tokens": [
     {
       "chainId": 82,
-      "address": "0x228ebbee999c6a7ad74a6130e81b12f9fe237ba3",
-      "name": "Meter Governance",
-      "symbol": "MTRG",
+      "address": "0x1c22531aa9747d76fff8f0a43b37954ca67d28e0",
+      "name": "Sumer.Money suETH",
+      "symbol": "SUETH",
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/11848/thumb/meter.png?1696511719"
+      "logoURI": "https://assets.coingecko.com/coins/images/33265/thumb/Sumer_Money_Logo.jpg?1701321407"
     },
     {
       "chainId": 82,
@@ -32,19 +32,19 @@
     },
     {
       "chainId": 82,
-      "address": "0x1c22531aa9747d76fff8f0a43b37954ca67d28e0",
-      "name": "Sumer.Money suETH",
-      "symbol": "SUETH",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/33265/thumb/Sumer_Money_Logo.jpg?1701321407"
-    },
-    {
-      "chainId": 82,
       "address": "0xd86e243fc0007e6226b07c9a50c9d70d78299eb5",
       "name": "Meter Passport Bridged USDC (Meter)",
       "symbol": "USDC.ETH",
       "decimals": 6,
       "logoURI": "https://assets.coingecko.com/coins/images/35317/thumb/USDC.jpg?1708176554"
+    },
+    {
+      "chainId": 82,
+      "address": "0x228ebbee999c6a7ad74a6130e81b12f9fe237ba3",
+      "name": "Meter Governance",
+      "symbol": "MTRG",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/11848/thumb/meter.png?1696511719"
     },
     {
       "chainId": 82,
@@ -107,7 +107,8 @@
       "address": "0x24aa189dfaa76c671c279262f94434770f557c35",
       "name": "Bridged BUSD",
       "symbol": "BUSD",
-      "decimals": 18
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/36889/thumb/BUSD.png?1772639323"
     },
     {
       "chainId": 82,
@@ -121,6 +122,6 @@
   "version": {
     "major": 2,
     "minor": 0,
-    "patch": 0
+    "patch": 1
   }
 }

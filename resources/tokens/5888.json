@@ -4,16 +4,8 @@
   "keywords": [
     "defi"
   ],
-  "timestamp": "2026-02-24T11:00:21.779+00:00",
+  "timestamp": "2026-03-03T10:00:22.188+00:00",
   "tokens": [
-    {
-      "chainId": 5888,
-      "address": "aom",
-      "name": "MANTRA [Old]",
-      "symbol": "OM",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/12151/thumb/OM_Token.png?1696511991"
-    },
     {
       "chainId": 5888,
       "address": "0x5e76be0f4e09057d75140216f70fd4ce3365bb29",
@@ -21,6 +13,14 @@
       "symbol": "USDC",
       "decimals": 6,
       "logoURI": "https://assets.coingecko.com/coins/images/71257/thumb/usdc.jpg?1766735166"
+    },
+    {
+      "chainId": 5888,
+      "address": "aom",
+      "name": "MANTRA [Old]",
+      "symbol": "OM",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/12151/thumb/OM_Token.png?1696511991"
     },
     {
       "chainId": 5888,
@@ -32,14 +32,6 @@
     },
     {
       "chainId": 5888,
-      "address": "0xe3047710ef6cb36bcf1e58145529778ea7cb5598",
-      "name": "Wrapped OM",
-      "symbol": "WOM",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/71258/thumb/mantra.jpg?1766735675"
-    },
-    {
-      "chainId": 5888,
       "address": "0x8f726a72e3a28d21f153f1698e60d6a97efd1a00",
       "name": "Lucid USDC",
       "symbol": "LUSDC",
@@ -48,8 +40,8 @@
     }
   ],
   "version": {
-    "major": 0,
-    "minor": 4,
-    "patch": 1
+    "major": 1,
+    "minor": 0,
+    "patch": 0
   }
 }

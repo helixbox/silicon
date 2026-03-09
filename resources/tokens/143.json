@@ -4,7 +4,7 @@
   "keywords": [
     "defi"
   ],
-  "timestamp": "2026-02-25T16:00:13.342+00:00",
+  "timestamp": "2026-03-04T04:00:13.334+00:00",
   "tokens": [
     {
       "chainId": 143,
@@ -16,30 +16,6 @@
     },
     {
       "chainId": 143,
-      "address": "0x103222f020e98bba0ad9809a011fdf8e6f067496",
-      "name": "earnAUSD",
-      "symbol": "EARNAUSD",
-      "decimals": 6,
-      "logoURI": "https://assets.coingecko.com/coins/images/71069/thumb/Untitled_design.png?1765520002"
-    },
-    {
-      "chainId": 143,
-      "address": "0x0c65a0bc65a5d819235b71f554d210d3f80e0852",
-      "name": "aPriori Monad LST",
-      "symbol": "APRMON",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/102171785/thumb/aprmon.png?1769745447"
-    },
-    {
-      "chainId": 143,
-      "address": "0x65ea4cdaf74537202bfb1124131e1c68f9512d1b",
-      "name": "Salmonad",
-      "symbol": "SAL",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/70818/thumb/salmonad.jpg?1764001840"
-    },
-    {
-      "chainId": 143,
       "address": "0xa3227c5969757783154c60bf0bc1944180ed81b9",
       "name": "Kintsu Staked Monad",
       "symbol": "SMON",
@@ -48,19 +24,11 @@
     },
     {
       "chainId": 143,
-      "address": "0x9c82eb49b51f7dc61e22ff347931ca32adc6cd90",
-      "name": "Mu Digital Locked AZND",
-      "symbol": "LOAZND",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/70764/thumb/loAZND_4x.png?1763566149"
-    },
-    {
-      "chainId": 143,
-      "address": "0x7db552eeb6b77a6babe6e0a739b5382cd653cc3e",
-      "name": "GMONAD",
-      "symbol": "GMONAD",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/70825/thumb/gmonad.jpg?1764041457"
+      "address": "0xd691b0afed67f96cec28ab6308cbe5b2c103b7e9",
+      "name": "eBTC",
+      "symbol": "EBTC",
+      "decimals": 10,
+      "logoURI": "https://assets.coingecko.com/coins/images/102172176/thumb/eBTC.png?1772034448"
     },
     {
       "chainId": 143,
@@ -72,11 +40,43 @@
     },
     {
       "chainId": 143,
-      "address": "0xee8c0e9f1bffb4eb878d8f15f368a02a35481242",
-      "name": "Wormhole Bridged WETH (Monad)",
-      "symbol": "WETH",
+      "address": "0x103222f020e98bba0ad9809a011fdf8e6f067496",
+      "name": "earnAUSD",
+      "symbol": "EARNAUSD",
+      "decimals": 6,
+      "logoURI": "https://assets.coingecko.com/coins/images/71069/thumb/Untitled_design.png?1765520002"
+    },
+    {
+      "chainId": 143,
+      "address": "0x1b68626dca36c7fe922fd2d55e4f631d962de19c",
+      "name": "ShMonad",
+      "symbol": "SHMON",
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/70824/thumb/weth_2.jpg?1764040144"
+      "logoURI": "https://assets.coingecko.com/coins/images/70837/thumb/SHMONAD_ICON_%281%29.png?1764108788"
+    },
+    {
+      "chainId": 143,
+      "address": "0x65ea4cdaf74537202bfb1124131e1c68f9512d1b",
+      "name": "Salmonad",
+      "symbol": "SAL",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/70818/thumb/salmonad.jpg?1764001840"
+    },
+    {
+      "chainId": 143,
+      "address": "0x9c82eb49b51f7dc61e22ff347931ca32adc6cd90",
+      "name": "Mu Digital Locked AZND",
+      "symbol": "LOAZND",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/70764/thumb/loAZND_4x.png?1763566149"
+    },
+    {
+      "chainId": 143,
+      "address": "0x228c673cae7aad0f4d9f309616d6b546356b7777",
+      "name": "Black Currency",
+      "symbol": "BC",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/70902/thumb/Screenshot_2025-11-29_at_14.48.01.png?1764485818"
     },
     {
       "chainId": 143,
@@ -104,6 +104,14 @@
     },
     {
       "chainId": 143,
+      "address": "0x7db552eeb6b77a6babe6e0a739b5382cd653cc3e",
+      "name": "GMONAD",
+      "symbol": "GMONAD",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/70825/thumb/gmonad.jpg?1764041457"
+    },
+    {
+      "chainId": 143,
       "address": "0x1ad7052bb331a0529c1981c3ec2bc4663498a110",
       "name": "Alloca",
       "symbol": "ALLOCA",
@@ -112,19 +120,19 @@
     },
     {
       "chainId": 143,
+      "address": "0xee8c0e9f1bffb4eb878d8f15f368a02a35481242",
+      "name": "Wormhole Bridged WETH (Monad)",
+      "symbol": "WETH",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/70824/thumb/weth_2.jpg?1764040144"
+    },
+    {
+      "chainId": 143,
       "address": "0x97401d48a80b15bc7291599e24b590eedcd7ce37",
       "name": "HYPERSTITIONS",
       "symbol": "HST",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/70965/thumb/agBxURDU_400x400.jpg?1764865069"
-    },
-    {
-      "chainId": 143,
-      "address": "0x228c673cae7aad0f4d9f309616d6b546356b7777",
-      "name": "Black Currency",
-      "symbol": "BC",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/70902/thumb/Screenshot_2025-11-29_at_14.48.01.png?1764485818"
     },
     {
       "chainId": 143,
@@ -144,19 +152,11 @@
     },
     {
       "chainId": 143,
-      "address": "0x1b68626dca36c7fe922fd2d55e4f631d962de19c",
-      "name": "ShMonad",
-      "symbol": "SHMON",
+      "address": "0x0c65a0bc65a5d819235b71f554d210d3f80e0852",
+      "name": "aPriori Monad LST",
+      "symbol": "APRMON",
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/70837/thumb/SHMONAD_ICON_%281%29.png?1764108788"
-    },
-    {
-      "chainId": 143,
-      "address": "0xd691b0afed67f96cec28ab6308cbe5b2c103b7e9",
-      "name": "eBTC",
-      "symbol": "EBTC",
-      "decimals": 10,
-      "logoURI": "https://assets.coingecko.com/coins/images/102172176/thumb/eBTC.png?1772034448"
+      "logoURI": "https://assets.coingecko.com/coins/images/102171785/thumb/aprmon.png?1769745447"
     },
     {
       "chainId": 143,
@@ -312,6 +312,14 @@
     },
     {
       "chainId": 143,
+      "address": "0x8498312a6b3cbd158bf0c93abdcf29e6e4f55081",
+      "name": "Magma Staked Monad",
+      "symbol": "GMON",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/39746/thumb/gMonad_200px.png?1723781729"
+    },
+    {
+      "chainId": 143,
       "address": "0x1c8ee940b654bfced403f2a44c1603d5be0f50fa",
       "name": "Midas mEDGE",
       "symbol": "MEDGE",
@@ -320,11 +328,35 @@
     },
     {
       "chainId": 143,
+      "address": "0x7a9990ffe3057edc18558ca4c8804430fe917456",
+      "name": "Etherfuse TESOURO",
+      "symbol": "TESOURO",
+      "decimals": 6,
+      "logoURI": "https://assets.coingecko.com/coins/images/52383/thumb/stable.jpg?1733259572"
+    },
+    {
+      "chainId": 143,
+      "address": "0x834df4c1d8f51be24322e39e4766697be015512f",
+      "name": "Etherfuse CETES",
+      "symbol": "CETES",
+      "decimals": 6,
+      "logoURI": "https://assets.coingecko.com/coins/images/37855/thumb/cetes.png?1715788161"
+    },
+    {
+      "chainId": 143,
       "address": "0x3db619ff72d877490699276061fb0fa0618fdf47",
       "name": "HOLD",
       "symbol": "EARN",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/32575/thumb/200.png?1698554742"
+    },
+    {
+      "chainId": 143,
+      "address": "0xa3d68b74bf0528fdd07263c60d6488749044914b",
+      "name": "Wrapped eETH",
+      "symbol": "WEETH",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/33033/thumb/weETH.png?1701438396"
     },
     {
       "chainId": 143,
@@ -369,7 +401,7 @@
   ],
   "version": {
     "major": 1,
-    "minor": 4,
+    "minor": 7,
     "patch": 0
   }
 }

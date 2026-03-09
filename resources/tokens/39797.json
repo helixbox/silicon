@@ -4,15 +4,23 @@
   "keywords": [
     "defi"
   ],
-  "timestamp": "2026-02-25T02:00:19.204+00:00",
+  "timestamp": "2026-03-07T11:00:18.620+00:00",
   "tokens": [
     {
       "chainId": 39797,
-      "address": "0xffd7510ca0a3279c7a5f50018a26c21d5bc1dbcf",
-      "name": "Energi Bridged USDC (Energi)",
-      "symbol": "USDC",
-      "decimals": 6,
-      "logoURI": "https://assets.coingecko.com/coins/images/35323/thumb/USDC.jpg?1708178353"
+      "address": "0x78b050d981d7f6e019bf6e361d0d1167de6b19da",
+      "name": "Multichain Bridged WETH (Energi)",
+      "symbol": "WETH",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/39692/thumb/weth.png?1723670286"
+    },
+    {
+      "chainId": 39797,
+      "address": "0xa55f26319462355474a9f2c8790860776a329aa4",
+      "name": "Wrapped Energi",
+      "symbol": "WNRG",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/25462/thumb/Energi.jpeg?1696524592"
     },
     {
       "chainId": 39797,
@@ -24,14 +32,6 @@
     },
     {
       "chainId": 39797,
-      "address": "0x78b050d981d7f6e019bf6e361d0d1167de6b19da",
-      "name": "Multichain Bridged WETH (Energi)",
-      "symbol": "WETH",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/39692/thumb/weth.png?1723670286"
-    },
-    {
-      "chainId": 39797,
       "address": "0x0f46fe95a8d6573990118aee8b7ac9a3532f5963",
       "name": "Energi Dollar",
       "symbol": "USDE",
@@ -40,11 +40,11 @@
     },
     {
       "chainId": 39797,
-      "address": "0xa55f26319462355474a9f2c8790860776a329aa4",
-      "name": "Wrapped Energi",
-      "symbol": "WNRG",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/25462/thumb/Energi.jpeg?1696524592"
+      "address": "0xffd7510ca0a3279c7a5f50018a26c21d5bc1dbcf",
+      "name": "Energi Bridged USDC (Energi)",
+      "symbol": "USDC",
+      "decimals": 6,
+      "logoURI": "https://assets.coingecko.com/coins/images/35323/thumb/USDC.jpg?1708178353"
     },
     {
       "chainId": 39797,
@@ -245,14 +245,6 @@
       "symbol": "BTT",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/22457/thumb/btt_logo.png?1696521780"
-    },
-    {
-      "chainId": 39797,
-      "address": "0xe19ab0a7f5bf5b243e011bd070cf9e26296f7ebc",
-      "name": "bZx Protocol",
-      "symbol": "BZRX",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/11811/thumb/bzrx.png?1696511684"
     },
     {
       "chainId": 39797,
@@ -864,7 +856,7 @@
     }
   ],
   "version": {
-    "major": 17,
+    "major": 18,
     "minor": 0,
     "patch": 0
   }

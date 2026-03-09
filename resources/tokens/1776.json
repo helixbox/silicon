@@ -4,15 +4,15 @@
   "keywords": [
     "defi"
   ],
-  "timestamp": "2026-02-13T12:00:45.574+00:00",
+  "timestamp": "2026-03-06T04:00:44.661+00:00",
   "tokens": [
     {
       "chainId": 1776,
-      "address": "factory/inj1xy3kvlr4q4wdd6lrelsrw2fk2ged0any44hhwq/KIRA",
-      "name": "Kira the Injective Cat",
-      "symbol": "KIRA",
-      "decimals": 6,
-      "logoURI": "https://assets.coingecko.com/coins/images/33755/thumb/KIRA_LOGO_1500x1500.png?1719881603"
+      "address": "inj1fu5u29slsg2xtsj7v5la22vl4mr4ywl7wlqeck",
+      "name": "Nonja",
+      "symbol": "NONJA",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/37911/thumb/pfp.png?1715935412"
     },
     {
       "chainId": 1776,
@@ -24,11 +24,27 @@
     },
     {
       "chainId": 1776,
+      "address": "factory/inj1xy3kvlr4q4wdd6lrelsrw2fk2ged0any44hhwq/KIRA",
+      "name": "Kira the Injective Cat",
+      "symbol": "KIRA",
+      "decimals": 6,
+      "logoURI": "https://assets.coingecko.com/coins/images/33755/thumb/KIRA_LOGO_1500x1500.png?1719881603"
+    },
+    {
+      "chainId": 1776,
       "address": "peggy0xdAC17F958D2ee523a2206206994597C13D831ec7",
       "name": "Injective Bridged USDT (Injective)",
       "symbol": "USDT",
       "decimals": 6,
       "logoURI": "https://assets.coingecko.com/coins/images/68489/thumb/usdt.jpg?1755925642"
+    },
+    {
+      "chainId": 1776,
+      "address": "inj18flmwwaxxqj8m8l5zl8xhjrnah98fcjp3gcy3e/XIII",
+      "name": "XIIICOIN",
+      "symbol": "XIII",
+      "decimals": 6,
+      "logoURI": "https://assets.coingecko.com/coins/images/37220/thumb/XIII-LOGO_2.1mb.png?1732459486"
     },
     {
       "chainId": 1776,
@@ -40,27 +56,11 @@
     },
     {
       "chainId": 1776,
-      "address": "inj1fu5u29slsg2xtsj7v5la22vl4mr4ywl7wlqeck",
-      "name": "Nonja",
-      "symbol": "NONJA",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/37911/thumb/pfp.png?1715935412"
-    },
-    {
-      "chainId": 1776,
       "address": "factory/inj1etz0laas6h7vemg3qtd67jpr6lh8v7xz7gfzqw/hdro",
       "name": "Hydro Protocol",
       "symbol": "HDRO",
       "decimals": 6,
       "logoURI": "https://assets.coingecko.com/coins/images/36110/thumb/Hydro_logo_200x200.png?1710486646"
-    },
-    {
-      "chainId": 1776,
-      "address": "inj18flmwwaxxqj8m8l5zl8xhjrnah98fcjp3gcy3e/XIII",
-      "name": "XIIICOIN",
-      "symbol": "XIII",
-      "decimals": 6,
-      "logoURI": "https://assets.coingecko.com/coins/images/37220/thumb/XIII-LOGO_2.1mb.png?1732459486"
     },
     {
       "chainId": 1776,
@@ -88,13 +88,6 @@
     },
     {
       "chainId": 1776,
-      "address": "factory/inj1sn34edy635nv4yhts3khgpy5qxw8uey6wvzq53/DUDE",
-      "name": "DUDE (Injective)",
-      "symbol": "DUDE",
-      "decimals": 6
-    },
-    {
-      "chainId": 1776,
       "address": "factory/inj16eckaf75gcu9uxdglyvmh63k9t0l7chd0qmu85/black",
       "name": "Black Panther",
       "symbol": "BLACK",
@@ -116,14 +109,6 @@
       "symbol": "TRUINJ",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/66995/thumb/truINJ-logo.png?1751388978"
-    },
-    {
-      "chainId": 1776,
-      "address": "ibc/D6E6A20ABDD600742D22464340A7701558027759CE14D12590F8EA869CCCF445",
-      "name": "White Whale",
-      "symbol": "WHALE",
-      "decimals": 6,
-      "logoURI": "https://assets.coingecko.com/coins/images/21628/thumb/whale.png?1696520988"
     },
     {
       "chainId": 1776,
@@ -167,7 +152,7 @@
     }
   ],
   "version": {
-    "major": 6,
+    "major": 8,
     "minor": 0,
     "patch": 0
   }

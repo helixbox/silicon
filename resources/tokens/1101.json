@@ -4,7 +4,7 @@
   "keywords": [
     "defi"
   ],
-  "timestamp": "2026-01-21T10:00:16.813+00:00",
+  "timestamp": "2026-03-03T10:00:15.609+00:00",
   "tokens": [
     {
       "chainId": 1101,
@@ -24,11 +24,19 @@
     },
     {
       "chainId": 1101,
-      "address": "0xd4e38eb4a9581e05de8aeb5f895916647b5933f1",
-      "name": "Forwards Rec BH-2024",
-      "symbol": "FJLT-B24",
-      "decimals": 6,
-      "logoURI": "https://assets.coingecko.com/coins/images/36305/thumb/Artboard_1fJLT-B24.png?1711090025"
+      "address": "0xcfde7c43edb3c9f71331aac1003b099ce40c94ea",
+      "name": "GIFT",
+      "symbol": "GIFT",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/69356/thumb/GIFT-icon.png?1758304581"
+    },
+    {
+      "chainId": 1101,
+      "address": "0x4f9a0e7fd2bf6067db6994cf12e4495df938e6e9",
+      "name": "Polygon Hermez Bridged WETH (Polygon zkEVM)",
+      "symbol": "WETH",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/39698/thumb/weth.png?1723671580"
     },
     {
       "chainId": 1101,
@@ -48,19 +56,11 @@
     },
     {
       "chainId": 1101,
-      "address": "0xcfde7c43edb3c9f71331aac1003b099ce40c94ea",
-      "name": "GIFT",
-      "symbol": "GIFT",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/69356/thumb/GIFT-icon.png?1758304581"
-    },
-    {
-      "chainId": 1101,
-      "address": "0x4f9a0e7fd2bf6067db6994cf12e4495df938e6e9",
-      "name": "Polygon Hermez Bridged WETH (Polygon zkEVM)",
-      "symbol": "WETH",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/39698/thumb/weth.png?1723671580"
+      "address": "0xd4e38eb4a9581e05de8aeb5f895916647b5933f1",
+      "name": "Forwards Rec BH-2024",
+      "symbol": "FJLT-B24",
+      "decimals": 6,
+      "logoURI": "https://assets.coingecko.com/coins/images/36305/thumb/Artboard_1fJLT-B24.png?1711090025"
     },
     {
       "chainId": 1101,
@@ -69,14 +69,6 @@
       "symbol": "WBTC",
       "decimals": 8,
       "logoURI": "https://assets.coingecko.com/coins/images/39593/thumb/wbtc.png?1723016350"
-    },
-    {
-      "chainId": 1101,
-      "address": "0xca5d8f8a8d49439357d3cf46ca2e720702f132b8",
-      "name": "Gyroscope GYD",
-      "symbol": "GYD",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/33428/thumb/GYD-gradient_resized_transparent.png?1702316822"
     },
     {
       "chainId": 1101,
@@ -200,14 +192,6 @@
     },
     {
       "chainId": 1101,
-      "address": "0xd507361174a0fde521bf8c097ef19dd31ffca710",
-      "name": "Amulet Protocol",
-      "symbol": "AMU",
-      "decimals": 9,
-      "logoURI": "https://assets.coingecko.com/coins/images/34716/thumb/AMT200x200.png?1705904544"
-    },
-    {
-      "chainId": 1101,
       "address": "0x0d1e753a25ebda689453309112904807625befbe",
       "name": "PancakeSwap",
       "symbol": "CAKE",
@@ -248,8 +232,8 @@
     }
   ],
   "version": {
-    "major": 7,
+    "major": 9,
     "minor": 0,
-    "patch": 1
+    "patch": 0
   }
 }
