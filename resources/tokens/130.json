@@ -4,16 +4,8 @@
   "keywords": [
     "defi"
   ],
-  "timestamp": "2026-02-13T07:00:23.860+00:00",
+  "timestamp": "2026-03-10T09:00:23.617+00:00",
   "tokens": [
-    {
-      "chainId": 130,
-      "address": "0xec4a56061d86955d0df883efb2e5791d99ea71f2",
-      "name": "hoonicorn.lol",
-      "symbol": "HOONI",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/54996/thumb/hooni-logo-fixed.png?1743095425"
-    },
     {
       "chainId": 130,
       "address": "0x756ee6857f915a2b5366f2ef56d8d13857aef8ad",
@@ -21,30 +13,6 @@
       "symbol": "CATX",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/67331/thumb/Catex_logo_Coinbgecko.png?1752402945"
-    },
-    {
-      "chainId": 130,
-      "address": "0x588ce4f028d8e7b53b687865d6a67b3a54c75518",
-      "name": "Unichain Bridged USDT (Unichain)",
-      "symbol": "USDT",
-      "decimals": 6,
-      "logoURI": "https://assets.coingecko.com/coins/images/66726/thumb/usdt.jpg?1750318933"
-    },
-    {
-      "chainId": 130,
-      "address": "0x849f05f7cfdc4215b16a3c5a58361445c4d56c8e",
-      "name": "Hooffather",
-      "symbol": "HOOF",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/55345/thumb/Logo_%282%29.png?1745565191"
-    },
-    {
-      "chainId": 130,
-      "address": "0x927b51f251480a681271180da4de28d44ec4afb8",
-      "name": "Unichain Bridged WBTC (Unichain)",
-      "symbol": "WBTC",
-      "decimals": 8,
-      "logoURI": "https://assets.coingecko.com/coins/images/66722/thumb/wbtc.jpg?1750315958"
     },
     {
       "chainId": 130,
@@ -56,11 +24,43 @@
     },
     {
       "chainId": 130,
+      "address": "0xec4a56061d86955d0df883efb2e5791d99ea71f2",
+      "name": "hoonicorn.lol",
+      "symbol": "HOONI",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/54996/thumb/hooni-logo-fixed.png?1743095425"
+    },
+    {
+      "chainId": 130,
       "address": "0x4200000000000000000000000000000000000006",
       "name": "Unichain Bridged WETH (Unichain)",
       "symbol": "WETH",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/54331/thumb/weth_2.jpg?1739325052"
+    },
+    {
+      "chainId": 130,
+      "address": "0x849f05f7cfdc4215b16a3c5a58361445c4d56c8e",
+      "name": "Hooffather",
+      "symbol": "HOOF",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/55345/thumb/Logo_%282%29.png?1745565191"
+    },
+    {
+      "chainId": 130,
+      "address": "0x588ce4f028d8e7b53b687865d6a67b3a54c75518",
+      "name": "Unichain Bridged USDT (Unichain)",
+      "symbol": "USDT",
+      "decimals": 6,
+      "logoURI": "https://assets.coingecko.com/coins/images/66726/thumb/usdt.jpg?1750318933"
+    },
+    {
+      "chainId": 130,
+      "address": "0x927b51f251480a681271180da4de28d44ec4afb8",
+      "name": "Unichain Bridged WBTC (Unichain)",
+      "symbol": "WBTC",
+      "decimals": 8,
+      "logoURI": "https://assets.coingecko.com/coins/images/66722/thumb/wbtc.jpg?1750315958"
     },
     {
       "chainId": 130,
@@ -224,14 +224,6 @@
     },
     {
       "chainId": 130,
-      "address": "0x4809010926aec940b550d34a46a52739f996d75d",
-      "name": "Wrapped Savings rUSD",
-      "symbol": "WSRUSD",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/66163/thumb/wsrUSD.png?1748500965"
-    },
-    {
-      "chainId": 130,
       "address": "0x64445f0aecc51e94ad52d8ac56b7190e764e561a",
       "name": "Wrapped FRAX",
       "symbol": "WFRAX",
@@ -320,8 +312,8 @@
     }
   ],
   "version": {
-    "major": 3,
-    "minor": 4,
+    "major": 4,
+    "minor": 0,
     "patch": 0
   }
 }

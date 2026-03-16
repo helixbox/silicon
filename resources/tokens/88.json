@@ -4,8 +4,16 @@
   "keywords": [
     "defi"
   ],
-  "timestamp": "2026-03-04T11:00:15.139+00:00",
+  "timestamp": "2026-03-12T19:00:15.620+00:00",
   "tokens": [
+    {
+      "chainId": 88,
+      "address": "0x69b946132b4a6c74cd29ba3ff614ceea1ef9ff2b",
+      "name": "Arken Bridged USDT (Viction)",
+      "symbol": "USDT",
+      "decimals": 6,
+      "logoURI": "https://assets.coingecko.com/coins/images/54311/thumb/usdt-logo.png?1739207903"
+    },
     {
       "chainId": 88,
       "address": "0xa959fa5a859365b440367a7b0c41e1c4d3424242",
@@ -21,14 +29,6 @@
       "symbol": "SVIC",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/35557/thumb/color.png?1709127127"
-    },
-    {
-      "chainId": 88,
-      "address": "0x1f4e8d4da48bf094565092eae0004b82d420304b",
-      "name": "Vikto",
-      "symbol": "VIKTO",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/55756/thumb/Vikto_Logo.png?1747298546"
     },
     {
       "chainId": 88,
@@ -64,14 +64,6 @@
     },
     {
       "chainId": 88,
-      "address": "0x69b946132b4a6c74cd29ba3ff614ceea1ef9ff2b",
-      "name": "Arken Bridged USDT (Viction)",
-      "symbol": "USDT",
-      "decimals": 6,
-      "logoURI": "https://assets.coingecko.com/coins/images/54311/thumb/usdt-logo.png?1739207903"
-    },
-    {
-      "chainId": 88,
       "address": "0x4359647fe0ef8b1ee201d5bc2bb5ab872c395f04",
       "name": "OneID",
       "symbol": "ONEID",
@@ -80,19 +72,19 @@
     },
     {
       "chainId": 88,
-      "address": "0xb55dd628039552a7d93a70fc8932f677499ed479",
-      "name": "Arken Finance",
-      "symbol": "$ARKEN",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/26137/thumb/arken.png?1696525225"
-    },
-    {
-      "chainId": 88,
       "address": "0xaa6f3e52cb0571b88e58a93fd1cc0744254909d2",
       "name": "deFusion",
       "symbol": "DEF",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/55382/thumb/200x200_DF_logo.png?1745702918"
+    },
+    {
+      "chainId": 88,
+      "address": "0x1f4e8d4da48bf094565092eae0004b82d420304b",
+      "name": "Vikto",
+      "symbol": "VIKTO",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/55756/thumb/Vikto_Logo.png?1747298546"
     },
     {
       "chainId": 88,
@@ -200,7 +192,7 @@
     }
   ],
   "version": {
-    "major": 10,
+    "major": 11,
     "minor": 0,
     "patch": 0
   }

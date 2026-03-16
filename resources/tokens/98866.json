@@ -4,15 +4,15 @@
   "keywords": [
     "defi"
   ],
-  "timestamp": "2026-02-03T19:00:04.089+00:00",
+  "timestamp": "2026-03-10T10:00:05.389+00:00",
   "tokens": [
     {
       "chainId": 98866,
-      "address": "0x2b89048d45e9eff64bc5ff563b8ba40a2f0aa83e",
-      "name": "Nest Goldfinch Prime Vault",
-      "symbol": "NGPRIME",
-      "decimals": 6,
-      "logoURI": "https://assets.coingecko.com/coins/images/70786/thumb/Vault_nGPRIME.png?1763752504"
+      "address": "0xea237441c92cae6fc17caaf9a7acb3f953be4bd1",
+      "name": "Wrapped Plume",
+      "symbol": "WPLUME",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/70470/thumb/plume.jpg?1762154772"
     },
     {
       "chainId": 98866,
@@ -40,19 +40,11 @@
     },
     {
       "chainId": 98866,
-      "address": "0xea237441c92cae6fc17caaf9a7acb3f953be4bd1",
-      "name": "Wrapped Plume",
-      "symbol": "WPLUME",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/70470/thumb/plume.jpg?1762154772"
-    },
-    {
-      "chainId": 98866,
-      "address": "0x9477724bb54ad5417de8baff29e59df3fb4da74f",
-      "name": "Anemoy Tokenized Apollo Diversified Credit Fund",
-      "symbol": "ACRDX",
+      "address": "0x2b89048d45e9eff64bc5ff563b8ba40a2f0aa83e",
+      "name": "Nest Goldfinch Prime Vault",
+      "symbol": "NGPRIME",
       "decimals": 6,
-      "logoURI": "https://assets.coingecko.com/coins/images/70454/thumb/acdrx.png?1762081579"
+      "logoURI": "https://assets.coingecko.com/coins/images/70786/thumb/Vault_nGPRIME.png?1763752504"
     },
     {
       "chainId": 98866,
@@ -208,14 +200,6 @@
     },
     {
       "chainId": 98866,
-      "address": "0xe4fa682f94610ccd170680cc3b045d77d9e528a8",
-      "name": "Superstate Short Duration U.S. Government Securities Fund (U",
-      "symbol": "USTB",
-      "decimals": 6,
-      "logoURI": "https://assets.coingecko.com/coins/images/35012/thumb/ustb.jpeg?1707102680"
-    },
-    {
-      "chainId": 98866,
       "address": "0xa0c4f78a29ead4abf6b7f5b3f0d05c0f3eab8ddf",
       "name": "Matrixdock Gold",
       "symbol": "XAUM",
@@ -272,14 +256,6 @@
     },
     {
       "chainId": 98866,
-      "address": "0xc96de26018a54d51c097160568752c4e3bd6c364",
-      "name": "Function FBTC",
-      "symbol": "FBTC",
-      "decimals": 8,
-      "logoURI": "https://assets.coingecko.com/coins/images/39182/thumb/Function_Token_%282%29.png?1760254065"
-    },
-    {
-      "chainId": 98866,
       "address": "0x437cc33344a0b27a429f795ff6b469c72698b291",
       "name": "WrappedM by M0",
       "symbol": "WM",
@@ -312,14 +288,6 @@
     },
     {
       "chainId": 98866,
-      "address": "0x0bbcc2c1991d0af8ec6a5ed922e6f5606923fe15",
-      "name": "Wrapped Savings rUSD",
-      "symbol": "WSRUSD",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/66163/thumb/wsrUSD.png?1748500965"
-    },
-    {
-      "chainId": 98866,
       "address": "0x64445f0aecc51e94ad52d8ac56b7190e764e561a",
       "name": "Wrapped FRAX",
       "symbol": "WFRAX",
@@ -349,6 +317,22 @@
       "symbol": "NBTC",
       "decimals": 8,
       "logoURI": "https://assets.coingecko.com/coins/images/55575/thumb/nBTC-token.png?1746774818"
+    },
+    {
+      "chainId": 98866,
+      "address": "0xe4fa682f94610ccd170680cc3b045d77d9e528a8",
+      "name": "Superstate Short Duration U.S. Government Securities Fund (U",
+      "symbol": "USTB",
+      "decimals": 6,
+      "logoURI": "https://assets.coingecko.com/coins/images/35012/thumb/ustb.jpeg?1707102680"
+    },
+    {
+      "chainId": 98866,
+      "address": "0x9477724bb54ad5417de8baff29e59df3fb4da74f",
+      "name": "Anemoy Tokenized Apollo Diversified Credit Fund",
+      "symbol": "ACRDX",
+      "decimals": 6,
+      "logoURI": "https://assets.coingecko.com/coins/images/70454/thumb/acdrx.png?1762081579"
     },
     {
       "chainId": 98866,
@@ -429,11 +413,19 @@
       "symbol": "WTGXX",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/71484/thumb/wtgxx_circle_ci.png?1767948288"
+    },
+    {
+      "chainId": 98866,
+      "address": "0xc96de26018a54d51c097160568752c4e3bd6c364",
+      "name": "Function FBTC",
+      "symbol": "FBTC",
+      "decimals": 8,
+      "logoURI": "https://assets.coingecko.com/coins/images/39182/thumb/Function_Token_%282%29.png?1760254065"
     }
   ],
   "version": {
-    "major": 4,
+    "major": 5,
     "minor": 0,
-    "patch": 1
+    "patch": 0
   }
 }

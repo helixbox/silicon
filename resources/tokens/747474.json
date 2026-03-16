@@ -4,23 +4,15 @@
   "keywords": [
     "defi"
   ],
-  "timestamp": "2026-01-22T10:00:06.314+00:00",
+  "timestamp": "2026-03-12T14:00:05.349+00:00",
   "tokens": [
     {
       "chainId": 747474,
-      "address": "0xb0f70c0bd6fd87dbeb7c10dc692a2a6106817072",
-      "name": "Bitcoin on Katana",
-      "symbol": "BTCK",
-      "decimals": 8,
-      "logoURI": "https://assets.coingecko.com/coins/images/68287/thumb/btc.png?1755248096"
-    },
-    {
-      "chainId": 747474,
-      "address": "0x203a662b0bd271a6ed5a60edfbd04bfce608fd36",
-      "name": "VaultBridge Bridged USDC (Katana)",
-      "symbol": "VBUSDC",
-      "decimals": 6,
-      "logoURI": "https://assets.coingecko.com/coins/images/67043/thumb/usdc1.png?1751581304"
+      "address": "0xfba805659e5050544e185cccdf592fd77f8c7210",
+      "name": "Kitsu",
+      "symbol": "KITSU",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/67868/thumb/KitsuPNG2.png?1754110292"
     },
     {
       "chainId": 747474,
@@ -32,19 +24,11 @@
     },
     {
       "chainId": 747474,
-      "address": "0xfba805659e5050544e185cccdf592fd77f8c7210",
-      "name": "Kitsu",
-      "symbol": "KITSU",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/67868/thumb/KitsuPNG2.png?1754110292"
-    },
-    {
-      "chainId": 747474,
-      "address": "0x9893989433e7a383cb313953e4c2365107dc19a7",
-      "name": "Polygon Bridged weETH (Katana)",
-      "symbol": "WEETH",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/69607/thumb/weeth.png?1759218669"
+      "address": "0x203a662b0bd271a6ed5a60edfbd04bfce608fd36",
+      "name": "VaultBridge Bridged USDC (Katana)",
+      "symbol": "VBUSDC",
+      "decimals": 6,
+      "logoURI": "https://assets.coingecko.com/coins/images/67043/thumb/usdc1.png?1751581304"
     },
     {
       "chainId": 747474,
@@ -53,22 +37,6 @@
       "symbol": "VBWBTC",
       "decimals": 8,
       "logoURI": "https://assets.coingecko.com/coins/images/67045/thumb/btc.png?1751581679"
-    },
-    {
-      "chainId": 747474,
-      "address": "0x7f1f4b4b29f5058fa32cc7a97141b8d7e5abdc2d",
-      "name": "Katana Network Token",
-      "symbol": "KAT",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/70225/thumb/katana-social-icon.png?1761121098"
-    },
-    {
-      "chainId": 747474,
-      "address": "0xc6135d59f8d10c9c035963ce9037b3635170d716",
-      "name": "Midas mRe7SOL",
-      "symbol": "MRE7SOL",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/70338/thumb/mre7sol-C2QhWme8.png?1761638664"
     },
     {
       "chainId": 747474,
@@ -88,11 +56,43 @@
     },
     {
       "chainId": 747474,
+      "address": "0xb0f70c0bd6fd87dbeb7c10dc692a2a6106817072",
+      "name": "Bitcoin on Katana",
+      "symbol": "BTCK",
+      "decimals": 8,
+      "logoURI": "https://assets.coingecko.com/coins/images/68287/thumb/btc.png?1755248096"
+    },
+    {
+      "chainId": 747474,
+      "address": "0x7f1f4b4b29f5058fa32cc7a97141b8d7e5abdc2d",
+      "name": "Katana",
+      "symbol": "KAT",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/70225/thumb/katana-social-icon.png?1761121098"
+    },
+    {
+      "chainId": 747474,
+      "address": "0xc6135d59f8d10c9c035963ce9037b3635170d716",
+      "name": "Midas mRe7SOL",
+      "symbol": "MRE7SOL",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/70338/thumb/mre7sol-C2QhWme8.png?1761638664"
+    },
+    {
+      "chainId": 747474,
       "address": "0xee7d8bcfb72bc1880d0cf19822eb0a2e6577ab62",
       "name": "VaultBridge Bridged ETH (Katana)",
       "symbol": "VBETH",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/67044/thumb/eth1.png?1751581519"
+    },
+    {
+      "chainId": 747474,
+      "address": "0x9893989433e7a383cb313953e4c2365107dc19a7",
+      "name": "Polygon Bridged weETH (Katana)",
+      "symbol": "WEETH",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/69607/thumb/weeth.png?1759218669"
     },
     {
       "chainId": 747474,
@@ -160,14 +160,6 @@
     },
     {
       "chainId": 747474,
-      "address": "0x4809010926aec940b550d34a46a52739f996d75d",
-      "name": "Wrapped Savings rUSD",
-      "symbol": "WSRUSD",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/66163/thumb/wsrUSD.png?1748500965"
-    },
-    {
-      "chainId": 747474,
       "address": "0x6c16e26013f2431e8b2e1ba7067ecccad0db6c52",
       "name": "Jito Staked SOL",
       "symbol": "JITOSOL",
@@ -208,8 +200,8 @@
     }
   ],
   "version": {
-    "major": 0,
-    "minor": 19,
-    "patch": 0
+    "major": 1,
+    "minor": 0,
+    "patch": 1
   }
 }
