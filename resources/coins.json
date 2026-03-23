@@ -67,7 +67,7 @@
   {
     "id": "0x0-ai-ai-smart-contract",
     "symbol": "0x0",
-    "name": "0x0.ai: AI Smart Contract",
+    "name": "0x0",
     "platforms": {
       "ethereum": "0x5a3e6a77ba2f983ec0d371ea3b475f8bc0811ad5"
     }
@@ -594,14 +594,6 @@
     }
   },
   {
-    "id": "39a-fun",
-    "symbol": "39a",
-    "name": "39a.fun",
-    "platforms": {
-      "solana": "GL3wQ5ADspXbAG3E8hUfSkWY884jSKfgFS6Fk9Npump"
-    }
-  },
-  {
     "id": "3a-lending-protocol",
     "symbol": "a3a",
     "name": "3A",
@@ -690,6 +682,14 @@
     "name": "42069COIN",
     "platforms": {
       "solana": "5CxtvaR1SskwLxfzHGurx8Enu8bgSTPyWF3YP4sWpump"
+    }
+  },
+  {
+    "id": "4-25-we-bullish",
+    "symbol": "4.25",
+    "name": "4.25 We Bullish",
+    "platforms": {
+      "solana": "EUfRMccYw5E8Jv7NFmcpgKVFABqTr3QVputRQrbZpump"
     }
   },
   {
@@ -2867,6 +2867,7 @@
     "symbol": "acu",
     "name": "Acurast",
     "platforms": {
+      "peaq": "0x165bcb970836f83c15b22c3c1622279d97a20446",
       "ethereum": "0x216b3643ff8b7bb30d8a48e9f1bd550126202add",
       "base": "0xc5fed7c8ccc75d8a72b601a66dffd7a489073f0b",
       "binance-smart-chain": "0x6ef2ffb38d64afe18ce782da280b300e358cfeaf"
@@ -3511,6 +3512,14 @@
     }
   },
   {
+    "id": "agentaxion",
+    "symbol": "aaxn",
+    "name": "AgentAxion",
+    "platforms": {
+      "solana": "8k1eciW1AN1Bi6bdcpfh1qZn71oQTpNU31gdnMi2pump"
+    }
+  },
+  {
     "id": "agentbank-x402-protocol",
     "symbol": "agentbank",
     "name": "AgentBank x402 Protocol",
@@ -3551,14 +3560,6 @@
     "platforms": {
       "base": "0xb34457736aa191ff423f84f5d669f68b231e6c4e",
       "solana": "6V1vZKRFfu6eimDNk6w4BzxR4UTYxJvt5emuJkxTcMJv"
-    }
-  },
-  {
-    "id": "agent-dora",
-    "symbol": "ad",
-    "name": "Agent DORA",
-    "platforms": {
-      "solana": "F4CRszGnLhwMRNXYsddV7aAXun9XTnbsYEGjTvdttUU2"
     }
   },
   {
@@ -3624,6 +3625,14 @@
     "name": "AgentiPy",
     "platforms": {
       "solana": "yLUD35WTiPLEY6DUqEj5W2JVXF2DfKB5arPkKJXpump"
+    }
+  },
+  {
+    "id": "agent-keef",
+    "symbol": "keef",
+    "name": "AGENT Keef",
+    "platforms": {
+      "solana": "BfbbiwubeghyQbnosCbj9LM9A56yV4K8vYiGdEtqpump"
     }
   },
   {
@@ -4143,14 +4152,6 @@
     "name": "AI Analysis Token",
     "platforms": {
       "ethereum": "0x0501b9188436e35bb10f35998c40adc079003866"
-    }
-  },
-  {
-    "id": "aiapis",
-    "symbol": "apis",
-    "name": "aiAPIS",
-    "platforms": {
-      "ethereum": "0x1078a104e8ae6a339db8e6c018b9a095423d47f7"
     }
   },
   {
@@ -5739,6 +5740,14 @@
     "name": "Aliens",
     "platforms": {
       "solana": "GCSfrFVebzoJ9kK5jh8TGW8oJwWeN1n618F98ycLpump"
+    }
+  },
+  {
+    "id": "aliens-gov",
+    "symbol": "aliens",
+    "name": "Aliens.GOV",
+    "platforms": {
+      "solana": "65YnRAiThkUda2czNFXVuMaCTiNpiq3LLLWbtGTLpump"
     }
   },
   {
@@ -7473,6 +7482,14 @@
     }
   },
   {
+    "id": "angland-fish",
+    "symbol": "fish",
+    "name": "Angland FISH",
+    "platforms": {
+      "base": "0xab646ee997975b97851a923e4e8daf4ea36d1e9b"
+    }
+  },
+  {
     "id": "angle-protocol",
     "symbol": "angle",
     "name": "ANGLE",
@@ -8175,9 +8192,17 @@
   {
     "id": "apes-2",
     "symbol": "apes",
-    "name": "APES",
+    "name": "APES [OLD]",
     "platforms": {
       "solana": "984GBL7PhceChtN64NWLdBb49rSQXX7ozpdkEbR1pump"
+    }
+  },
+  {
+    "id": "apes-2-2",
+    "symbol": "apes",
+    "name": "APES",
+    "platforms": {
+      "binance-smart-chain": "0xfbd09f771d1d76275b58eca4016978a8a8dc46de"
     }
   },
   {
@@ -8484,7 +8509,8 @@
     "name": "aPriori",
     "platforms": {
       "ethereum": "0x5a9610919f5e81183823a2be4bd1beb2b4da2a20",
-      "binance-smart-chain": "0x299ad4299da5b2b93fba4c96967b040c7f611099"
+      "binance-smart-chain": "0x299ad4299da5b2b93fba4c96967b040c7f611099",
+      "monad": "0x0a332311633c0625f63cfc51ee33fc49826e0a3c"
     }
   },
   {
@@ -8604,6 +8630,14 @@
     "platforms": {
       "ethereum": "0xf7413489c474ca4399eee604716c72879eea3615",
       "solana": "5JnZ667P3VcjDinkJFysWh2K2KtViy63FZ3oL5YghEhW"
+    }
+  },
+  {
+    "id": "apyusd",
+    "symbol": "apyusd",
+    "name": "apyUSD",
+    "platforms": {
+      "ethereum": "0x38eeb52f0771140d10c4e9a9a72349a329fe8a6a"
     }
   },
   {
@@ -9397,14 +9431,6 @@
     }
   },
   {
-    "id": "arkadiko-protocol",
-    "symbol": "diko",
-    "name": "Arkadiko",
-    "platforms": {
-      "stacks": "SP2C2YFP12AJZB4MABJBAJ55XECVS7E4PMMZ89YZR.arkadiko-token"
-    }
-  },
-  {
     "id": "arken-world",
     "symbol": "ark",
     "name": "Arken World",
@@ -10094,14 +10120,6 @@
     }
   },
   {
-    "id": "astera-usd",
-    "symbol": "asusd",
-    "name": "Astera USD",
-    "platforms": {
-      "linea": "0xa500000000e482752f032ea387390b6025a2377b"
-    }
-  },
-  {
     "id": "aster-dog",
     "symbol": "adog",
     "name": "aster dog",
@@ -10517,12 +10535,6 @@
     }
   },
   {
-    "id": "atem-network",
-    "symbol": "atem",
-    "name": "Atem Network",
-    "platforms": {}
-  },
-  {
     "id": "athena-by-virtuals",
     "symbol": "athena",
     "name": "Athena by Virtuals",
@@ -10579,12 +10591,26 @@
     "platforms": {}
   },
   {
+    "id": "atlas-2",
+    "symbol": "atlas",
+    "name": "ATLAS",
+    "platforms": {
+      "cardano": "9ff9a1b456f074e03be90631e1a5f9b6ed08eacabd0e7f95a11ffff1"
+    }
+  },
+  {
     "id": "atlas-navi",
     "symbol": "navi",
     "name": "Atlas Navi",
     "platforms": {
       "ethereum": "0xfc1c93a2507975e98b9d0e9260ded61a00152bf1"
     }
+  },
+  {
+    "id": "atlasora",
+    "symbol": "aora",
+    "name": "AtlasOra",
+    "platforms": {}
   },
   {
     "id": "atlaspad",
@@ -10795,14 +10821,6 @@
     "name": "Audit",
     "platforms": {
       "iota-evm": "0x159366809b6062960c97bc4edd548bafcd7812d8"
-    }
-  },
-  {
-    "id": "auditai",
-    "symbol": "audai",
-    "name": "AuditAI",
-    "platforms": {
-      "ethereum": "0x57d3757a8c3a6612b75480158d77ed853081471f"
     }
   },
   {
@@ -11126,14 +11144,6 @@
     }
   },
   {
-    "id": "autista-cat",
-    "symbol": "autista",
-    "name": "autista cat",
-    "platforms": {
-      "solana": "6QbkqyarW5ET7TvNsENGmV7e4fg7SpACdYb8ba5Ppump"
-    }
-  },
-  {
     "id": "auto",
     "symbol": "auto",
     "name": "Auto",
@@ -11184,14 +11194,6 @@
     "name": "Automatic Treasury Machine",
     "platforms": {
       "solana": "8QhSMvYfXome11VgxFMD75hNbGQXW5QTnjA8khENkY2c"
-    }
-  },
-  {
-    "id": "automation",
-    "symbol": "auto",
-    "name": "automation",
-    "platforms": {
-      "base": "0xbc1017f13e14b828461ae2b02821351c6edb9b07"
     }
   },
   {
@@ -11866,6 +11868,14 @@
     }
   },
   {
+    "id": "axobotl",
+    "symbol": "axobotl",
+    "name": "AXOBOTL",
+    "platforms": {
+      "base": "0x810affc8aadad2824c65e0a2c5ef96ef1de42ba3"
+    }
+  },
+  {
     "id": "axol",
     "symbol": "axol",
     "name": "AXOL",
@@ -12503,14 +12513,6 @@
     }
   },
   {
-    "id": "baby-miggles",
-    "symbol": "babymiggles",
-    "name": "Baby Miggles",
-    "platforms": {
-      "base": "0xa202b2b7b4d2fe56bf81492ffdda657fe512de07"
-    }
-  },
-  {
     "id": "babymoodeng",
     "symbol": "babydeng",
     "name": "BabyMooDeng",
@@ -12676,14 +12678,6 @@
     "name": "Baby Purple Pepe",
     "platforms": {
       "solana": "Ej9jJDCD85mZysgorrY582Vpv7HLgDyi7Fa2jRCjgscZ"
-    }
-  },
-  {
-    "id": "baby-rudi",
-    "symbol": "babyrudi",
-    "name": "Baby Rudi",
-    "platforms": {
-      "binance-smart-chain": "0x537be31d47fbb697b36a098932cfc1343ac5f538"
     }
   },
   {
@@ -13177,9 +13171,11 @@
   },
   {
     "id": "backpack",
-    "symbol": "backpack",
+    "symbol": "bp",
     "name": "Backpack",
-    "platforms": {}
+    "platforms": {
+      "solana": "BPxxfRCXkUVhig4HS1Lh7kZqV6SPJhzfEk4x6fVBjPCy"
+    }
   },
   {
     "id": "backpack-staked-sol",
@@ -13398,16 +13394,6 @@
     "name": "Baked",
     "platforms": {
       "solana": "CQbXk942c6GPcRwtZ2WMFP5JcQ9NqbXtb8jUewBi7GoT"
-    }
-  },
-  {
-    "id": "baked-token",
-    "symbol": "baked",
-    "name": "Baked",
-    "platforms": {
-      "ethereum": "0xa4cb0dce4849bdcad2d553e9e68644cf40e26cce",
-      "aurora": "0x8973c9ec7b79fe880697cdbca744892682764c37",
-      "polygon-pos": "0x32515ffdc3a84cfbf9ad4db14ef8f0a535c7afd6"
     }
   },
   {
@@ -13932,14 +13918,6 @@
       "ethereum": "0x0af55d5ff28a3269d69b98680fd034f115dd53ac",
       "hedera-hashgraph": "0x000000000000000000000000000000000043a076",
       "binance-smart-chain": "0x0af55d5ff28a3269d69b98680fd034f115dd53ac"
-    }
-  },
-  {
-    "id": "banksters",
-    "symbol": "bars",
-    "name": "Banksters",
-    "platforms": {
-      "ethereum": "0x5189688ac92a1eba1710bcba94ab25c695a4dfa2"
     }
   },
   {
@@ -14801,14 +14779,6 @@
     }
   },
   {
-    "id": "basis-markets",
-    "symbol": "basis",
-    "name": "basis.markets",
-    "platforms": {
-      "solana": "Basis9oJw9j8cw53oMV7iqsgo6ihi9ALw4QR31rcjUJa"
-    }
-  },
-  {
     "id": "basisos-by-virtuals",
     "symbol": "bios",
     "name": "BasisOS by Virtuals",
@@ -15067,14 +15037,6 @@
     }
   },
   {
-    "id": "beam-bridged-weth-beam",
-    "symbol": "weth",
-    "name": "Beam Bridged WETH (Beam)",
-    "platforms": {
-      "beam": "0x989e7863f15c548accf7b62ad432defbba2677be"
-    }
-  },
-  {
     "id": "beamcat",
     "symbol": "bcat",
     "name": "BEAMCAT",
@@ -15113,19 +15075,11 @@
     }
   },
   {
-    "id": "bear-3",
-    "symbol": "bear",
-    "name": "BEAR",
-    "platforms": {
-      "xrp": "rBEARGUAsyu7tUw53rufQzFdWmJHpJEqFW"
-    }
-  },
-  {
     "id": "bear-bull",
     "symbol": "brb",
     "name": "Bear Bull",
     "platforms": {
-      "xrp": "rUkuT9TCDTP2oeAPsrCN7XKcHZfdvHvFkG"
+      "xrp": "BRB.rUkuT9TCDTP2oeAPsrCN7XKcHZfdvHvFkG"
     }
   },
   {
@@ -15177,14 +15131,6 @@
     }
   },
   {
-    "id": "bearn-bera",
-    "symbol": "ybera",
-    "name": "Bearn BERA",
-    "platforms": {
-      "berachain": "0x982940ebfc5caa2f5b5a82aac2dfa99f18bb7da4"
-    }
-  },
-  {
     "id": "bear-scrub-money",
     "symbol": "bear",
     "name": "Bear Scrub Money",
@@ -15194,7 +15140,7 @@
   },
   {
     "id": "bearxrpl",
-    "symbol": "$bear",
+    "symbol": "bear",
     "name": "BEARXRPL",
     "platforms": {
       "xrp": "4245415200000000000000000000000000000000.rBEARGUAsyu7tUw53rufQzFdWmJHpJEqFW"
@@ -15628,6 +15574,14 @@
     "name": "believe in somETHing",
     "platforms": {
       "ethereum": "0x7c9f94a79b6b859dfb1d3312fc2311b39f89c677"
+    }
+  },
+  {
+    "id": "believe-in-something-4",
+    "symbol": "something",
+    "name": "Believe In Something",
+    "platforms": {
+      "solana": "BbiFLmfnbZPhm6hUCo78h5kAoAtwsXSHYjvDUHeNbonk"
     }
   },
   {
@@ -16272,14 +16226,6 @@
     }
   },
   {
-    "id": "betura",
-    "symbol": "betura",
-    "name": "BETURA",
-    "platforms": {
-      "solana": "BMHkAMoj2B8VUPPfEkops8XqPgN4oJkjR2oFRpRG2oqL"
-    }
-  },
-  {
     "id": "beyond-finance",
     "symbol": "byn",
     "name": "NBX",
@@ -16532,6 +16478,14 @@
     "name": "Biden Coin",
     "platforms": {
       "ethereum": "0x9e59a081320ddb046d74a106335ca6b84eadc067"
+    }
+  },
+  {
+    "id": "bid-launch",
+    "symbol": "bid",
+    "name": "bid.launch",
+    "platforms": {
+      "base": "0xe6c854488811fbd6472b684360ad5c393c7bae8f"
     }
   },
   {
@@ -18059,6 +18013,14 @@
     }
   },
   {
+    "id": "bitcoin-maxi-tears-2",
+    "symbol": "bmt",
+    "name": "Bitcoin Maxi Tears",
+    "platforms": {
+      "kasplex": "0x35fba50f52e2aa305438134c646957066608d976"
+    }
+  },
+  {
     "id": "bitcoin-on-base",
     "symbol": "btcb",
     "name": "Bitcoin on Base",
@@ -19576,14 +19538,6 @@
     }
   },
   {
-    "id": "blockgames",
-    "symbol": "block",
-    "name": "BlockProtocol",
-    "platforms": {
-      "ethereum": "0x8fc17671d853341d9e8b001f5fc3c892d09cb53a"
-    }
-  },
-  {
     "id": "blocklens-ai",
     "symbol": "bls",
     "name": "Blocklens AI",
@@ -19674,6 +19628,7 @@
     "name": "Block Street",
     "platforms": {
       "ethereum": "0xdb6ba5d510f114f9b2ea08bea7d30e32eee33411",
+      "mantle": "0xe5c330addf7aa9c7838da836436142c56a15aa95",
       "binance-smart-chain": "0x595deaad1eb5476ff1e649fdb7efc36f1e4679cc"
     }
   },
@@ -19897,6 +19852,14 @@
     "name": "Blue",
     "platforms": {
       "base": "0x7f65323e468939073ef3b5287c73f13951b0ff5b"
+    }
+  },
+  {
+    "id": "blue-agent",
+    "symbol": "blueagent",
+    "name": "Blue Agent",
+    "platforms": {
+      "base": "0xf895783b2931c919955e18b5e3343e7c7c456ba3"
     }
   },
   {
@@ -20597,14 +20560,6 @@
     }
   },
   {
-    "id": "bobby-rizz",
-    "symbol": "bobby",
-    "name": "BOBBY Rizz",
-    "platforms": {
-      "solana": "9vyLnN3TYexVA2fZ1fScHWfXdkye4XnEsGX5gfW7pump"
-    }
-  },
-  {
     "id": "bobby-the-cat",
     "symbol": "btc",
     "name": "Bobby The Cat",
@@ -21003,6 +20958,14 @@
     "platforms": {}
   },
   {
+    "id": "boneca-ambalabu",
+    "symbol": "ambalabu",
+    "name": "Boneca Ambalabu",
+    "platforms": {
+      "solana": "DfMuAxjpKMb1bi3Wn1kwGaA35HMLoBUdTfwzeDybpump"
+    }
+  },
+  {
     "id": "bonecoin",
     "symbol": "bonecoin",
     "name": "Bonecoin",
@@ -21239,14 +21202,6 @@
     "name": "Bonk Index",
     "platforms": {
       "solana": "BP95AFpABStmiAo5En9a9RXXQoqq5xKSfdaNu2ETbonk"
-    }
-  },
-  {
-    "id": "bonk-inu",
-    "symbol": "bonki",
-    "name": "BONK Inu",
-    "platforms": {
-      "ethereum": "0xf995771a957c19319a7d8d58b4082b049420340f"
     }
   },
   {
@@ -21548,14 +21503,6 @@
     }
   },
   {
-    "id": "boomer-2",
-    "symbol": "boomer",
-    "name": "Boomer",
-    "platforms": {
-      "base": "0x9495729f1ec6d9c919eb6ad10ae8a26a4f7e15d7"
-    }
-  },
-  {
     "id": "boomers-on-sol",
     "symbol": "boomer",
     "name": "Boomers on Sol",
@@ -21627,14 +21574,6 @@
     "name": "BOOPI",
     "platforms": {
       "solana": "7fodN5Vn21kZdGfvA178ZNctqsZ2kCGVRHfFNEkboop"
-    }
-  },
-  {
-    "id": "boorio-2",
-    "symbol": "orio",
-    "name": "Boorio",
-    "platforms": {
-      "polygon-pos": "0xac1cd197931810b6f115d690c72a3438990d3ba3"
     }
   },
   {
@@ -23089,7 +23028,7 @@
   {
     "id": "bridged-wrapped-ethereum-bob-network",
     "symbol": "weth",
-    "name": "Bridged Wrapped Ethereum (BOB Network)",
+    "name": "BOB Bridged WETH (BOB Network)",
     "platforms": {
       "bob-network": "0x4200000000000000000000000000000000000006"
     }
@@ -24700,14 +24639,6 @@
     }
   },
   {
-    "id": "buttpay",
-    "symbol": "bpay",
-    "name": "Buttpay",
-    "platforms": {
-      "solana": "9aLzSdra8iP4xdvKKnErFxzWwe3R7groGaeGgsb5jREV"
-    }
-  },
-  {
     "id": "but-why",
     "symbol": "butwhy",
     "name": "but why?",
@@ -24950,9 +24881,9 @@
     "symbol": "ctm",
     "name": "c8ntinuum",
     "platforms": {
-      "ethereum": "0xc8ef4398664b2eed5ee560544f659083d98a3888",
-      "binance-smart-chain": "0xc8ef4398664b2eed5ee560544f659083d98a3888",
-      "solana": "C8qKVjKNf6JH2yrVVf3aFyny6ZCbHCJUBXTQAT2Em888"
+      "ethereum": "0xc8c8fe705d05aa4f115e54d5aa557fdf88888888",
+      "binance-smart-chain": "0xc8c8fe705d05aa4f115e54d5aa557fdf88888888",
+      "solana": "C8PzjhdNVFdP7PxV8YrRXCRghEqw6fr3feAFMfJ88888"
     }
   },
   {
@@ -25211,6 +25142,14 @@
     "name": "Camel Dad",
     "platforms": {
       "solana": "AHeSgUwaAqXLXuoidLWeHMeYVH8SgaHB7QjwG3DZZDw6"
+    }
+  },
+  {
+    "id": "camell",
+    "symbol": "camt",
+    "name": "CAMELL",
+    "platforms": {
+      "tron": "TTLVdtBYipLVqVbPaaQb2Zbcubbpddtxu7"
     }
   },
   {
@@ -26547,6 +26486,14 @@
     }
   },
   {
+    "id": "caught-making-dollars",
+    "symbol": "cmd",
+    "name": "caught making dollars",
+    "platforms": {
+      "solana": "8XSRFmCAaMU617gv7RTS7j8nQ5MEgBVVmVcp24cDpump"
+    }
+  },
+  {
     "id": "cave",
     "symbol": "cave",
     "name": "CaveWorld",
@@ -27177,8 +27124,8 @@
     "platforms": {
       "solana": "CETES7CKqqKQizuSN6iWQwmTeFRjbJR6Vw2XRKfEDR8f",
       "base": "0x834df4c1d8f51be24322e39e4766697be015512f",
-      "stellar": "CETES-GCRYUGD5NVARGXT56XEZI5CIFCQETYHAPQQTHO2O3IQZTHDH4LATMYWC",
       "monad": "0x834df4c1d8f51be24322e39e4766697be015512f",
+      "stellar": "CETES-GCRYUGD5NVARGXT56XEZI5CIFCQETYHAPQQTHO2O3IQZTHDH4LATMYWC",
       "polygon-pos": "0x834df4c1d8f51be24322e39e4766697be015512f"
     }
   },
@@ -27821,14 +27768,6 @@
     }
   },
   {
-    "id": "charlie",
-    "symbol": "charlie",
-    "name": "Charlie",
-    "platforms": {
-      "solana": "kyKfGjFCekidjPPxcwaosmAXEotM9j7oN6tVhiHpump"
-    }
-  },
-  {
     "id": "charlie-2",
     "symbol": "charlie",
     "name": "Charlie",
@@ -28342,11 +28281,27 @@
     }
   },
   {
+    "id": "chibelon",
+    "symbol": "chibelon",
+    "name": "CHIBELON",
+    "platforms": {
+      "solana": "DD2xUzFzrg7Hx2DymyoqMjyVqaXfRwocaZjSXEtbpump"
+    }
+  },
+  {
     "id": "chibi",
     "symbol": "chibi",
     "name": "chibi",
     "platforms": {
       "solana": "HfXLMuSCHvsuYHRLekyW88oiz1LJvRerKh4QH1y5f8xk"
+    }
+  },
+  {
+    "id": "chibification",
+    "symbol": "chibi",
+    "name": "Chibification",
+    "platforms": {
+      "solana": "2TpMjYXnrgxoeVCq2i6EAR8vNWqe5MNvHCz3bENNpump"
     }
   },
   {
@@ -29205,14 +29160,6 @@
     }
   },
   {
-    "id": "cipherai",
-    "symbol": "cipher",
-    "name": "CipherAI",
-    "platforms": {
-      "solana": "9KFcBCNnTyCU2GXVB4jhfREgCUSGb6VLTLq6ktgRpump"
-    }
-  },
-  {
     "id": "cipher-mining-ondo-tokenized-stock",
     "symbol": "cifron",
     "name": "Cipher Mining (Ondo Tokenized Stock)",
@@ -29314,14 +29261,6 @@
     "name": "Citadel by Virtuals",
     "platforms": {
       "base": "0x4bf3ccf7da80751c0db8272ed54e2932900563a2"
-    }
-  },
-  {
-    "id": "citadel-one",
-    "symbol": "xct",
-    "name": "Citadel.one",
-    "platforms": {
-      "binance-smart-chain": "0xe8670901e86818745b28c8b30b17986958fce8cc"
     }
   },
   {
@@ -29825,6 +29764,14 @@
     "name": "CLECOIN",
     "platforms": {
       "avalanche": "0x9987b9992ecf263318c7701392c3fd6450bc8847"
+    }
+  },
+  {
+    "id": "clerk",
+    "symbol": "clerk",
+    "name": "CLERK",
+    "platforms": {
+      "base": "0x20eaba9d6818529cfffa2c1c63b97a02a0049ba3"
     }
   },
   {
@@ -30339,14 +30286,6 @@
     "name": "CODE",
     "platforms": {
       "solana": "125FKUxLgRuVUkiJZoTvcNSuXhDJ8Hsaw8HBoreaSPL2"
-    }
-  },
-  {
-    "id": "codease",
-    "symbol": "codon",
-    "name": "CodEase",
-    "platforms": {
-      "solana": "FLsQ58bYWabZKZsHWF1tZ2WYdcZ2gMFBtPjCB2HvLxb8"
     }
   },
   {
@@ -31314,6 +31253,8 @@
       "base": "0xc930784d6e14e2fc2a1f49be1068dc40f24762d3",
       "ethereum": "0x17cdb2a01e7a34cbb3dd4b83260b05d0274c8dab",
       "binance-smart-chain": "0xa8aea66b361a8d53e8865c62d142167af28af058",
+      "solana": "3jiqwBQVRC5zRwHyqvnkQurebJ5RNxg3F5fXMwaxgkv8",
+      "lisk": "0xc7ab2c35ea37236e644c24a4e4a1911c082887c0",
       "polygon-pos": "0x52828daa48c1a9a06f37500882b42daf0be04c3b"
     }
   },
@@ -32121,14 +32062,6 @@
     "name": "Core Keeper",
     "platforms": {
       "core": "0xc5cd3f4029269fe9f2d2d154594d02f13c9a5214"
-    }
-  },
-  {
-    "id": "coremind",
-    "symbol": "core",
-    "name": "Coremind",
-    "platforms": {
-      "ethereum": "0x95665780ef4fafe7822f6915a17b6d1b2d3e93d0"
     }
   },
   {
@@ -33305,14 +33238,6 @@
     }
   },
   {
-    "id": "cross-chain-degen-dao",
-    "symbol": "degen",
-    "name": "Cross Chain Degen DAO",
-    "platforms": {
-      "avalanche": "0x95430905f4b0da123d41ba96600427d2c92b188a"
-    }
-  },
-  {
     "id": "crosschain-iotx",
     "symbol": "ciotx",
     "name": "Crosschain IOTX",
@@ -33507,6 +33432,14 @@
     "name": "CROY AI",
     "platforms": {
       "solana": "6yUoLKSJtLejPNbHfk6FaUBXLJHVkjdqgTtgqaYSpump"
+    }
+  },
+  {
+    "id": "crude",
+    "symbol": "crude",
+    "name": "CRUDE",
+    "platforms": {
+      "base": "0xa4d5501deaa04807bd5c48e3f2bf3fd9b79a4ba3"
     }
   },
   {
@@ -33914,24 +33847,6 @@
     }
   },
   {
-    "id": "cryptoforce",
-    "symbol": "cof",
-    "name": "Cryptoforce",
-    "platforms": {
-      "ethereum": "0x230f5ed78a45452f726365b8ad1d6866f5faa68f"
-    }
-  },
-  {
-    "id": "crypto-global-united",
-    "symbol": "cgu",
-    "name": "Crypto Global United",
-    "platforms": {
-      "binance-smart-chain": "0x747d74db20cc422f39ab54edb2a3ce21f3c98af1",
-      "polygon-pos": "0x709d140925272ee606825781b1bef7be6b1412cd",
-      "ethereum": "0x849a226f327b89e3133d9930d927f9eb9346f8c9"
-    }
-  },
-  {
     "id": "cryptogpt",
     "symbol": "crgpt",
     "name": "CryptoGPT",
@@ -34171,7 +34086,7 @@
     "name": "Crypto Trading Fund",
     "platforms": {
       "polygon-pos": "0x7b3bd12675c6b9d6993eb81283cb68e6eb9260b5",
-      "xrp": "r9Xzi4KsSF1Xtr8WHyBmUcvfP9FzTyG5wp"
+      "xrp": "CTF.r9Xzi4KsSF1Xtr8WHyBmUcvfP9FzTyG5wp"
     }
   },
   {
@@ -35484,14 +35399,6 @@
     }
   },
   {
-    "id": "danjuan-scroll-cat",
-    "symbol": "cat",
-    "name": "Danjuan Scroll Cat",
-    "platforms": {
-      "scroll": "0xdd6a49995ad38fe7409b5d5cb5539261bd1bc901"
-    }
-  },
-  {
     "id": "dank",
     "symbol": "dank",
     "name": "Dank",
@@ -36151,14 +36058,6 @@
     }
   },
   {
-    "id": "dawn",
-    "symbol": "dawn",
-    "name": "Dawn",
-    "platforms": {
-      "solana": "CAJ4iqYG9dMueHaQyfBGkb5SJUw2awkMvKTansAupump"
-    }
-  },
-  {
     "id": "day-by-day",
     "symbol": "dbd",
     "name": "Day By Day",
@@ -36317,7 +36216,7 @@
     "symbol": "deathstr",
     "name": "DeathSTR",
     "platforms": {
-      "ethereum": "0x0c8000cb073e524a814aeb49473f0e9ee50bcbdb"
+      "ethereum": "0x1a0aacec5db6bf05f6c0ed5c2e9ad2a0199c2956"
     }
   },
   {
@@ -36361,14 +36260,6 @@
     "name": "DebtReliefBot",
     "platforms": {
       "base": "0x3ec2156d4c0a9cbdab4a016633b7bcf6a8d68ea2"
-    }
-  },
-  {
-    "id": "debut",
-    "symbol": "debut",
-    "name": "Debut",
-    "platforms": {
-      "solana": "DEBUTr2WcEsjkwKhqbRLqnuFKstX1MrEuvaz5xcoQTgn"
     }
   },
   {
@@ -36981,6 +36872,18 @@
     }
   },
   {
+    "id": "defi-janus-henderson-anemoy-aaa-clo-fund",
+    "symbol": "dejaaa",
+    "name": "DeFi Janus Henderson Anemoy AAA CLO Fund",
+    "platforms": {
+      "ethereum": "0xaaa0008c8cf3a7dca931adaf04336a5d808c82cc",
+      "base": "0xaaa0008c8cf3a7dca931adaf04336a5d808c82cc",
+      "arbitrum-one": "0xaaa0008c8cf3a7dca931adaf04336a5d808c82cc",
+      "avalanche": "0xaaa0008c8cf3a7dca931adaf04336a5d808c82cc",
+      "solana": "AAASV2sCaykNGdEQzJ1mMVNfJMsgEtR7PJaqrCuk4bq6"
+    }
+  },
+  {
     "id": "defi-kingdoms",
     "symbol": "jewel",
     "name": "DeFi Kingdoms",
@@ -37563,6 +37466,14 @@
     }
   },
   {
+    "id": "delusional-bulls",
+    "symbol": "bulls",
+    "name": "DELUSIONAL BULLS",
+    "platforms": {
+      "solana": "GBJpKgvZuEc3fzHZKoedJ14R8N5JwMd8MavfomNcpump"
+    }
+  },
+  {
     "id": "delusional-coin",
     "symbol": "delulu",
     "name": "Delusional Coin",
@@ -37628,15 +37539,6 @@
     "name": "Dent",
     "platforms": {
       "ethereum": "0x3597bfd533a99c9aa083587b074434e61eb0a258"
-    }
-  },
-  {
-    "id": "dentacoin",
-    "symbol": "dcn",
-    "name": "Dentacoin",
-    "platforms": {
-      "ethereum": "0x08d32b0da63e2c3bcf8019c9c5d849d7a9d791e6",
-      "optimistic-ethereum": "0x1da650c3b2daa8aa9ff6f661d4156ce24d08a062"
     }
   },
   {
@@ -37870,14 +37772,6 @@
     }
   },
   {
-    "id": "derp-coin",
-    "symbol": "derp",
-    "name": "Derp Coin",
-    "platforms": {
-      "ethereum": "0x878fcc2bdcccff8c56812607b9a58f29b274c4f0"
-    }
-  },
-  {
     "id": "derpy",
     "symbol": "derpy",
     "name": "Derpy",
@@ -37995,7 +37889,7 @@
     "symbol": "ddm",
     "name": "Deutsche Mark",
     "platforms": {
-      "polygon-pos": "0xcddbd374a9df30bbbe4bc4c008fa229cb3587511"
+      "binance-smart-chain": "0x9f1e8901e93a141c70cc90eee4c4cefd264b44d1"
     }
   },
   {
@@ -38020,6 +37914,14 @@
     "name": "Devin",
     "platforms": {
       "solana": "7gbEP2TAy5wM3TmMp5utCrRvdJ3FFqYjgN5KDpXiWPmo"
+    }
+  },
+  {
+    "id": "devious-mf",
+    "symbol": "devious",
+    "name": "Devious MF",
+    "platforms": {
+      "solana": "CeoReCwAmt8iqjQoKQGEMqKERDWGxxDUED9zVYg3pump"
     }
   },
   {
@@ -38270,14 +38172,6 @@
     "name": "Dexsport",
     "platforms": {
       "binance-smart-chain": "0x32f1518baace69e85b9e5ff844ebd617c52573ac"
-    }
-  },
-  {
-    "id": "dexter-2",
-    "symbol": "dexter",
-    "name": "DEXTER",
-    "platforms": {
-      "solana": "EU3Mv9ZkmfZsdEuE4QD8xDdX1aRETfKiBx9c5gSHpump"
     }
   },
   {
@@ -38717,6 +38611,14 @@
     "symbol": "dgc",
     "name": "Digitalcoin",
     "platforms": {}
+  },
+  {
+    "id": "digital-collectible",
+    "symbol": "collectible",
+    "name": "Digital Collectible",
+    "platforms": {
+      "solana": "6Xm7YzZt6JMhGofc6W41ybByfpsnHD5er5bdkK8tpump"
+    }
   },
   {
     "id": "digital-gold-2",
@@ -40123,14 +40025,6 @@
     }
   },
   {
-    "id": "diva-protocol",
-    "symbol": "diva",
-    "name": "DIVA Protocol",
-    "platforms": {
-      "ethereum": "0x4b7ffcb2b92fb4890f22f62a52fb7a180eab818e"
-    }
-  },
-  {
     "id": "diva-staking",
     "symbol": "diva",
     "name": "Diva Staking",
@@ -41141,14 +41035,6 @@
     }
   },
   {
-    "id": "doginblock",
-    "symbol": "dib",
-    "name": "doginblock",
-    "platforms": {
-      "solana": "EWYtkRuavbDKTsHqfSUSyo5diffxduGcsMufjpWfpump"
-    }
-  },
-  {
     "id": "doginhat",
     "symbol": "dih",
     "name": "doginhat",
@@ -41654,7 +41540,7 @@
   },
   {
     "id": "dolphin-2",
-    "symbol": "dphn",
+    "symbol": "pod",
     "name": "Dolphin",
     "platforms": {
       "base": "0xed664536023d8e4b1640c394777d34abaff1df8f"
@@ -41958,14 +41844,6 @@
     }
   },
   {
-    "id": "doogle-on-bonk",
-    "symbol": "doogle",
-    "name": "Doogle on Bonk",
-    "platforms": {
-      "solana": "5jidmmNR6kRXceddJwUrSGPzkMayKuDCHh7X96WHbonk"
-    }
-  },
-  {
     "id": "dook",
     "symbol": "dook",
     "name": "Dook",
@@ -42005,22 +41883,6 @@
       "ethereum": "0x241958c86c7744d15d5f6314ba1ea4c81dda2896",
       "binance-smart-chain": "0x7567c2a46bce46373b454682f3d95e6535bde144",
       "solana": "83P1gCFBZfGRCwJuBt9juxJKEsZwejJoG66eTZ6ondo"
-    }
-  },
-  {
-    "id": "dopamine",
-    "symbol": "dope",
-    "name": "Dopamine",
-    "platforms": {
-      "solana": "8Kqmghm1mkXbKYqt2wGnHxwnRdEjD9nayNKD3EanWkcD"
-    }
-  },
-  {
-    "id": "dope-2",
-    "symbol": "dope",
-    "name": "Dope",
-    "platforms": {
-      "ethereum": "0x6d56172da47ad69561a5fb8035763a68598128c9"
     }
   },
   {
@@ -42252,14 +42114,6 @@
     "name": "DOUGHGE",
     "platforms": {
       "solana": "Dsad47jgGNoJ8p4LJQ8x4yCFRMHBL7kd1Js3TJj7X52C"
-    }
-  },
-  {
-    "id": "douglas-adams",
-    "symbol": "hhgttg",
-    "name": "Douglas Adams",
-    "platforms": {
-      "ethereum": "0xee3c722d177559f73288cec91fa3e4bbfd8c27fc"
     }
   },
   {
@@ -42698,15 +42552,6 @@
     "name": "Drop Staked ATOM",
     "platforms": {
       "neutron": "neutron1k6hr0f83e7un2wjf29cspk7j69jrnskk65k3ek2nj9dztrlzpj6q00rtsa"
-    }
-  },
-  {
-    "id": "drop-staked-init",
-    "symbol": "deinit",
-    "name": "Drop Staked INIT",
-    "platforms": {
-      "neutron": "neutron10546f0nskmykr27s85l953gztyevxluqdd3ycl0guf648p68r2fsukxxnr",
-      "initia": "0x83a33a7f655530e35e7ce6167d40259fd9f77a88d55be734d8d8b604de01ce9d"
     }
   },
   {
@@ -43376,17 +43221,6 @@
     }
   },
   {
-    "id": "dypius",
-    "symbol": "dyp",
-    "name": "Dypius",
-    "platforms": {
-      "ethereum": "0x39b46b212bdf15b42b166779b9d1787a68b9d0c3",
-      "base": "0x5b2124d427fac9c80c902cbdd74b03dd85d7d3fe",
-      "binance-smart-chain": "0x1a3264f2e7b1cfc6220ec9348d33ccf02af7aaa4",
-      "avalanche": "0x1a3264f2e7b1cfc6220ec9348d33ccf02af7aaa4"
-    }
-  },
-  {
     "id": "dyzilla",
     "symbol": "dyzilla",
     "name": "DYZilla",
@@ -43739,6 +43573,14 @@
     "name": "Ecochain Finance",
     "platforms": {
       "binance-smart-chain": "0x6bfd4ca8ec078d613ed6a5248eb2c7a0d5c38b7b"
+    }
+  },
+  {
+    "id": "ecoin-finance",
+    "symbol": "ecoin",
+    "name": "Ecoin Finance",
+    "platforms": {
+      "binance-smart-chain": "0x7d38315b92d0e7a85b35b2b7fe969b25935619d7"
     }
   },
   {
@@ -44505,17 +44347,6 @@
     "name": "ELIXIR AI",
     "platforms": {
       "solana": "jriiULJQwgqdU48hTv1eKqK4ipCiCWBnP9CZbonpump"
-    }
-  },
-  {
-    "id": "elixir-deusd",
-    "symbol": "deusd",
-    "name": "Elixir deUSD",
-    "platforms": {
-      "ethereum": "0x15700b564ca08d9439c58ca5053166e8317aa138",
-      "plume-network": "0x1271656f45e251f588847721ba2c561dd1f0223f",
-      "sui": "0xf6b468748dced8435f4407d0ecb0457b921a2e89266a60862e36dbf243c71841::deusd::DEUSD",
-      "avalanche": "0xb57b25851fe2311cc3fe511c8f10e868932e0680"
     }
   },
   {
@@ -45631,7 +45462,7 @@
     "symbol": "eq",
     "name": "Equilibrium Games",
     "platforms": {
-      "xrp": "rpakCr61Q92abPXJnVboKENmpKssWyHpwu"
+      "xrp": "Equilibrium.rpakCr61Q92abPXJnVboKENmpKssWyHpwu"
     }
   },
   {
@@ -46154,6 +45985,14 @@
     }
   },
   {
+    "id": "ethereum-history",
+    "symbol": "history",
+    "name": "Ethereum History",
+    "platforms": {
+      "base": "0xd67a9266d0ae84839f62197713b2d2a9f3a62ba3"
+    }
+  },
+  {
     "id": "ethereum-is-good",
     "symbol": "ebull",
     "name": "ETHEREUM IS GOOD",
@@ -46335,8 +46174,8 @@
     "name": "Etherfuse KTB",
     "platforms": {
       "solana": "KTBeXe7VMPMLxBsqDQu4KA9PdSajF3Hkw1y9qRsKqfL",
-      "stellar": "KTB-GCRYUGD5NVARGXT56XEZI5CIFCQETYHAPQQTHO2O3IQZTHDH4LATMYWC",
       "polygon-pos": "0xe56cee16b76903b3c8eb4af3c06d1d2fab320f95",
+      "stellar": "KTB-GCRYUGD5NVARGXT56XEZI5CIFCQETYHAPQQTHO2O3IQZTHDH4LATMYWC",
       "base": "0x0f9b0468391cfa83160dae6b693df87df379bd06",
       "monad": "0xe9c082921dc3564e10196c5cc15db1250ac7d5c6"
     }
@@ -46946,7 +46785,10 @@
     "id": "everything",
     "symbol": "ev",
     "name": "Everything",
-    "platforms": {}
+    "platforms": {
+      "ethereum": "0xe7e7e741c23a4767831a56a8c99f522c5ac1e7e7",
+      "arbitrum-one": "0xe7e7e741c23a4767831a56a8c99f522c5ac1e7e7"
+    }
   },
   {
     "id": "everyworld",
@@ -47640,6 +47482,14 @@
     }
   },
   {
+    "id": "false-flag",
+    "symbol": "flag",
+    "name": "False Flag",
+    "platforms": {
+      "solana": "3XHafP5M87BvqtwCYBRGvdKLQfrFtCh4wXzBQ5BKFLAG"
+    }
+  },
+  {
     "id": "falx",
     "symbol": "falx",
     "name": "FALX",
@@ -47789,14 +47639,6 @@
     }
   },
   {
-    "id": "faptax",
-    "symbol": "faptax",
-    "name": "Faptax",
-    "platforms": {
-      "solana": "BDciduUgepb9DehoJ1CDK1gqNkUUKusQP7PwHr9cTwX2"
-    }
-  },
-  {
     "id": "faraland",
     "symbol": "fara",
     "name": "FaraLand",
@@ -47858,14 +47700,6 @@
     "name": "FARM",
     "platforms": {
       "hyperliquid": "0x11c83b5cfeb6419a74a85a5aaba0511d"
-    }
-  },
-  {
-    "id": "fart-accelerationism",
-    "symbol": "f/acc",
-    "name": "Fart Accelerationism",
-    "platforms": {
-      "solana": "BHvSWVzzo5Fm7gxqvrdgFmz67N9UpHBbcrqYAQwwpump"
     }
   },
   {
@@ -48050,14 +47884,6 @@
     "name": "FartStrategy",
     "platforms": {
       "solana": "FSTRgYfDaudjDwFg5A9LQpDMq5vxqhskHq4rkjUMwERE"
-    }
-  },
-  {
-    "id": "fartworm",
-    "symbol": "fartworm",
-    "name": "FARTWORM",
-    "platforms": {
-      "solana": "9zFU5vR7YNBzZU8HwJLUKjoDEonpgvHUdLbMgBa7pump"
     }
   },
   {
@@ -48347,6 +48173,14 @@
     "name": "Feed The World",
     "platforms": {
       "solana": "7QnHsqzjRDFSq4YwJRH5RiHh9SCNbH9k3UfubsmRyYWX"
+    }
+  },
+  {
+    "id": "feeliq",
+    "symbol": "fliq",
+    "name": "FeeLiq",
+    "platforms": {
+      "solana": "aL1UNC3fZpUSQHsQAe5id9A1Ga3UNCZsnxjgUiaFLiQ"
     }
   },
   {
@@ -48742,14 +48576,6 @@
     }
   },
   {
-    "id": "fifi-2",
-    "symbol": "fifi",
-    "name": "FiFi",
-    "platforms": {
-      "solana": "HdkPQfhUhtew1wPH5hp33q9AJcC2XmAqWJNRLj5fpump"
-    }
-  },
-  {
     "id": "fight",
     "symbol": "fight",
     "name": "FIGHT",
@@ -48993,6 +48819,14 @@
     "name": "FINE",
     "platforms": {
       "ethereum": "0x75c97384ca209f915381755c582ec0e2ce88c1ba"
+    }
+  },
+  {
+    "id": "fine-max999-9",
+    "symbol": "fine999.9",
+    "name": "fine max999.9",
+    "platforms": {
+      "solana": "4xFcvQ46GNH47Rhetk9cUGHGzWiQENp4DQRhJEFMpump"
     }
   },
   {
@@ -49310,14 +49144,6 @@
     "name": "FirstHare",
     "platforms": {
       "binance-smart-chain": "0x432b4f994760ea0c5f48baab6217e82a2b7f2c55"
-    }
-  },
-  {
-    "id": "first-meme",
-    "symbol": "lolcat",
-    "name": "First Meme",
-    "platforms": {
-      "ethereum": "0xc289c2d57e2ba371f40d594705dbf9331a2da47d"
     }
   },
   {
@@ -49853,14 +49679,6 @@
     "name": "Flip Coin",
     "platforms": {
       "solana": "DezaX4JqtoZ9TdUZ5eGbPtQtpzkQFDERuWUMFgnypump"
-    }
-  },
-  {
-    "id": "flipn",
-    "symbol": "fpn",
-    "name": "FLIPN",
-    "platforms": {
-      "base": "0xbb205edcae51eda7731cc08291ed862eba0bbb15"
     }
   },
   {
@@ -50407,6 +50225,14 @@
     }
   },
   {
+    "id": "flying-spinning-cat",
+    "symbol": "fsc",
+    "name": "Flying Spinning Cat",
+    "platforms": {
+      "solana": "BPJivqTmLmLDjfSn71gp8XaFYDXxNUuM85pMEWAcpump"
+    }
+  },
+  {
     "id": "flying-tulip",
     "symbol": "ft",
     "name": "Flying Tulip",
@@ -50432,6 +50258,14 @@
     "name": "Flyte AI",
     "platforms": {
       "base": "0x34c4a0056fad621c723433a473140aadc8998a8b"
+    }
+  },
+  {
+    "id": "fml",
+    "symbol": "fml",
+    "name": "FML",
+    "platforms": {
+      "solana": "3BHhMXMyyGGzLcTk6u5iJwTcV7eEGG9bWJrTKUttpump"
     }
   },
   {
@@ -51855,14 +51689,6 @@
     }
   },
   {
-    "id": "froggy-friends",
-    "symbol": "tad",
-    "name": "Froggy Friends",
-    "platforms": {
-      "base": "0x0afcae1208ac99addc6983a06735a199f190de09"
-    }
-  },
-  {
     "id": "frogo-2",
     "symbol": "frogo",
     "name": "FROGO",
@@ -52901,7 +52727,48 @@
     "name": "GALA",
     "platforms": {
       "ethereum": "0xd1d2eb1b1e90b638588728b4130137d262c87cae",
-      "solana": "eEUiUs4JWYZrp72djAGF1A8PhpR6rHphGeGN7GbVLp6"
+      "solana": "eEUiUs4JWYZrp72djAGF1A8PhpR6rHphGeGN7GbVLp6",
+      "galachain": "E3bVbsc7viP1A8tn3ayChk3BAt"
+    }
+  },
+  {
+    "id": "galaconnect-bridged-solana-usdt-galachain",
+    "symbol": "gsusdt",
+    "name": "GalaConnect Bridged Solana USDT (GalaChain)",
+    "platforms": {
+      "galachain": "5PPE6Tcf3HoRSaixhPc6JVVc8XtrY"
+    }
+  },
+  {
+    "id": "galaconnect-bridged-usdc-galachain",
+    "symbol": "gusdc",
+    "name": "GalaConnect Bridged USDC (GalaChain)",
+    "platforms": {
+      "galachain": "ze7u8MDi3mWh9shiybAq5rLs14Q"
+    }
+  },
+  {
+    "id": "galaconnect-bridged-usdt-galachain",
+    "symbol": "gusdt",
+    "name": "GalaConnect Bridged USDT (GalaChain)",
+    "platforms": {
+      "galachain": "ze7u8PKTsDRC8ju5SYHmYjoGaRS"
+    }
+  },
+  {
+    "id": "galaconnect-bridged-wbtc-galachain",
+    "symbol": "gwbtc",
+    "name": "GalaConnect Bridged WBTC (GalaChain)",
+    "platforms": {
+      "galachain": "zeUS5n2SFmcSN6DJDdQMCLhF4Rz"
+    }
+  },
+  {
+    "id": "galaconnect-bridged-weth-galachain",
+    "symbol": "gweth",
+    "name": "GalaConnect Bridged WETH (GalaChain)",
+    "platforms": {
+      "galachain": "zeUZJNduAGELBpqzEycAjpgNNs6"
     }
   },
   {
@@ -53315,15 +53182,6 @@
     }
   },
   {
-    "id": "gamestation",
-    "symbol": "gamer",
-    "name": "GameStation",
-    "platforms": {
-      "polygon-pos": "0x3f6b3595ecf70735d3f48d69b09c4e4506db3f47",
-      "binance-smart-chain": "0x3f6b3595ecf70735d3f48d69b09c4e4506db3f47"
-    }
-  },
-  {
     "id": "game-stop",
     "symbol": "gme",
     "name": "GME (Ethereum)",
@@ -53450,6 +53308,14 @@
     "name": "GangGang",
     "platforms": {
       "flow-evm": "0x8bd75008361517df04aa3ea033f03ba33c0c0a66"
+    }
+  },
+  {
+    "id": "ganymede-2",
+    "symbol": "gany",
+    "name": "Ganymede",
+    "platforms": {
+      "solana": "Dz4bX3snTDxqdKyZwdUgKoDvSjyvmoA23E6j5odZpump"
     }
   },
   {
@@ -54651,7 +54517,7 @@
     "symbol": "ghost",
     "name": "Ghost Coin",
     "platforms": {
-      "xrp": "rw57VKMLgWYcgdcu89Bnz1YHne1gE35F1L"
+      "xrp": "GHOST.rw57VKMLgWYcgdcu89Bnz1YHne1gE35F1L"
     }
   },
   {
@@ -54806,14 +54672,6 @@
     "name": "Giga Cat",
     "platforms": {
       "base": "0xe4fc328ae212232efc5f5dd0e0b1537cd055d715"
-    }
-  },
-  {
-    "id": "gigacat-2",
-    "symbol": "gcat",
-    "name": "Gigacat",
-    "platforms": {
-      "solana": "FufcdjDPpyir98GQ5vjg9gwb4Zb8tiPdmxzYX3STyyp7"
     }
   },
   {
@@ -55244,14 +55102,6 @@
     "name": "GlitzKoin",
     "platforms": {
       "stellar": "GTN-GARFMAHQM4JDI55SK2FGEPLOZU7BTEODS3Y5QNT3VMQQIU3WV2HTBA46"
-    }
-  },
-  {
-    "id": "glo-2",
-    "symbol": "glo",
-    "name": "GLO",
-    "platforms": {
-      "solana": "GLGfrAW1yroEQCEz4mdmXE2YF8UPfYma4t9wDbwjpump"
     }
   },
   {
@@ -56760,14 +56610,6 @@
     }
   },
   {
-    "id": "gooey-guys",
-    "symbol": "gooey",
-    "name": "Gooey Guys",
-    "platforms": {
-      "base": "0x60000eb0ac0c6c83d88e990066ac69466c35cf1c"
-    }
-  },
-  {
     "id": "goofy-2",
     "symbol": "goofy",
     "name": "GOOFY",
@@ -56813,14 +56655,6 @@
     "name": "gooncoin",
     "platforms": {
       "solana": "ENfpbQUM5xAnNP8ecyEQGFJ6KwbuPjMwv7ZjR29cDuAb"
-    }
-  },
-  {
-    "id": "gooncoin-2",
-    "symbol": "goon",
-    "name": "GOONCOIN",
-    "platforms": {
-      "solana": "EXz2e3qNMkTnwVhmYusAP9VtSXFMQ1eAmLS5treobonk"
     }
   },
   {
@@ -57232,14 +57066,6 @@
     }
   },
   {
-    "id": "grafi",
-    "symbol": "grafi",
-    "name": "Grafi",
-    "platforms": {
-      "solana": "EJSPkGUWsSAfGWBe9rCiaSusbUQuVmFmvGVvwy6qyX1d"
-    }
-  },
-  {
     "id": "grai",
     "symbol": "grai",
     "name": "Grai",
@@ -57451,14 +57277,6 @@
     }
   },
   {
-    "id": "grdm",
-    "symbol": "grdm",
-    "name": "GRDM",
-    "platforms": {
-      "binance-smart-chain": "0xdc5d7f9e812d7575239bb03ab3823416fff04444"
-    }
-  },
-  {
     "id": "great-bounty-dealer",
     "symbol": "gbd",
     "name": "Great Bounty Dealer",
@@ -57534,7 +57352,9 @@
     "id": "green-dollar-coin",
     "symbol": "gdc",
     "name": "Green Dollar Coin",
-    "platforms": {}
+    "platforms": {
+      "ethereum": "0x2b75edb4820bdcd52cb160fe0c3b181ca8a376e8"
+    }
   },
   {
     "id": "greenenvcoalition",
@@ -58123,6 +57943,12 @@
     }
   },
   {
+    "id": "grvt",
+    "symbol": "grvt",
+    "name": "GRVT Token",
+    "platforms": {}
+  },
+  {
     "id": "grx-chain",
     "symbol": "grx",
     "name": "GRX Chain",
@@ -58474,8 +58300,8 @@
     "name": "GYEN",
     "platforms": {
       "ethereum": "0xc08512927d12348f6620a698105e1baac6ecd911",
-      "stellar": "GYEN-GDF6VOEGRWLOZ64PQQGKD2IYWA22RLT37GJKS2EJXZHT2VLAGWLC5TOB",
       "solana": "Crn4x1Y2HUKko7ox2EZMT6N2t2ZyH7eKtwkBGVnhEq1g",
+      "stellar": "GYEN-GDF6VOEGRWLOZ64PQQGKD2IYWA22RLT37GJKS2EJXZHT2VLAGWLC5TOB",
       "arbitrum-one": "0x589d35656641d6ab57a545f08cf473ecd9b6d5f7"
     }
   },
@@ -58485,14 +58311,6 @@
     "name": "Gym Network",
     "platforms": {
       "binance-smart-chain": "0x0012365f0a1e5f30a5046c680dcb21d07b15fcf7"
-    }
-  },
-  {
-    "id": "gyoshi",
-    "symbol": "gyoshi",
-    "name": "GYOSHI",
-    "platforms": {
-      "ethereum": "0x1f17d72cbe65df609315df5c4f5f729efbd00ade"
     }
   },
   {
@@ -58979,14 +58797,6 @@
     }
   },
   {
-    "id": "hanabi-chan",
-    "symbol": "hanabi",
-    "name": "Hanabi-chan",
-    "platforms": {
-      "ethereum": "0x124386504d774979e1e9d2d19c6188391d7af8e3"
-    }
-  },
-  {
     "id": "hana-by-virtuals",
     "symbol": "hana",
     "name": "Hana by Virtuals",
@@ -59050,8 +58860,8 @@
     "symbol": "handl",
     "name": "HandlPay",
     "platforms": {
-      "polygon-pos": "0xf4c3fac9c98aa62474998e299495b699dfdb00eb",
-      "base": "0x3bbcb624cb9a1f73163a886f460f47603e5e4425"
+      "base": "0x3bbcb624cb9a1f73163a886f460f47603e5e4425",
+      "polygon-pos": "0xf4c3fac9c98aa62474998e299495b699dfdb00eb"
     }
   },
   {
@@ -59774,14 +59584,6 @@
     "name": "HeadStarter",
     "platforms": {
       "hedera-hashgraph": "0x00000000000000000000000000000000000ec585"
-    }
-  },
-  {
-    "id": "healix-ai",
-    "symbol": "hxai",
-    "name": "Healix AI",
-    "platforms": {
-      "ethereum": "0x384efd1e8b05c23dc392a40cb4e515e2229a5243"
     }
   },
   {
@@ -60746,14 +60548,6 @@
     }
   },
   {
-    "id": "hinkal-staked-eth",
-    "symbol": "heth",
-    "name": "Hinkal Staked ETH",
-    "platforms": {
-      "ethereum": "0x270b7748cdf8243bfe68face7230ef0fce695389"
-    }
-  },
-  {
     "id": "hinted-data",
     "symbol": "hint",
     "name": "Hinted Data",
@@ -61434,14 +61228,6 @@
     }
   },
   {
-    "id": "homie",
-    "symbol": "homie",
-    "name": "Homie",
-    "platforms": {
-      "solana": "FGgiujRQMu6CUk3ybxxJ6pEZvDNVLwSGqZmFSTHGA7J"
-    }
-  },
-  {
     "id": "homo-memetus",
     "symbol": "homo",
     "name": "Homo Memetus",
@@ -61654,14 +61440,6 @@
     }
   },
   {
-    "id": "hopium",
-    "symbol": "$hopium",
-    "name": "HOPIUM",
-    "platforms": {
-      "xrp": "rk9Egj7nqrfX3tXDPUubrTrwqqwsBSqSs"
-    }
-  },
-  {
     "id": "hop-protocol",
     "symbol": "hop",
     "name": "Hop Protocol",
@@ -61862,14 +61640,6 @@
     }
   },
   {
-    "id": "hot-dad",
-    "symbol": "hotdad",
-    "name": "Hot Dad",
-    "platforms": {
-      "solana": "5n1XvZdq1NDvLnPitmfTnFh9NxdJ4aKTi8mGnweYpump"
-    }
-  },
-  {
     "id": "hotdog",
     "symbol": "hotdog",
     "name": "Hotdog",
@@ -61999,6 +61769,14 @@
     }
   },
   {
+    "id": "how-to-become-a-plumber",
+    "symbol": "plumber",
+    "name": "how to become a plumber?",
+    "platforms": {
+      "solana": "2Pah9ZUfpii27ABrWfQorzdW8FSJimxj6izFr4oGpump"
+    }
+  },
+  {
     "id": "how-to-fly",
     "symbol": "puff",
     "name": "HOW TO FLY",
@@ -62108,14 +61886,6 @@
     "name": "Huggi",
     "platforms": {
       "solana": "96zMCM9nALK2cDv5p2CiDkGrgbJX9McCnQkxyBaoBAGS"
-    }
-  },
-  {
-    "id": "hughug-coin",
-    "symbol": "hghg",
-    "name": "HUGHUG",
-    "platforms": {
-      "binance-smart-chain": "0xb626213cb1d52caa1ed71e2a0e62c0113ed8d642"
     }
   },
   {
@@ -63495,14 +63265,6 @@
     }
   },
   {
-    "id": "idle-network",
-    "symbol": "idle",
-    "name": "Idle Network",
-    "platforms": {
-      "ethereum": "0x8102c01df1b3f917a159047315fb901b18ce3bd9"
-    }
-  },
-  {
     "id": "idle-susd-yield",
     "symbol": "idlesusdyield",
     "name": "IdleSUSD (Yield)",
@@ -63650,14 +63412,6 @@
     "name": "IF Science",
     "platforms": {
       "solana": "RqGHXg2eh3zPjyzNM7kUyrrSmhb9M9q4mCKFH1mpump"
-    }
-  },
-  {
-    "id": "ig3",
-    "symbol": "tops",
-    "name": "iG3",
-    "platforms": {
-      "peaq": "0x6c1ca31a9f3a57bb680f82a8fe97fc00ac4aad21"
     }
   },
   {
@@ -63831,14 +63585,6 @@
     "name": "Illusion of Life",
     "platforms": {
       "solana": "5zCETicUCJqJ5Z3wbfFPZqtSpHPYqnggs1wX7ZRpump"
-    }
-  },
-  {
-    "id": "illusion-of-trader",
-    "symbol": "retard",
-    "name": "Illusion of Trader",
-    "platforms": {
-      "solana": "BzggRTH4TQb8x3MeensGffz7NUa6wWCETcDA79Ptbonk"
     }
   },
   {
@@ -64207,6 +63953,14 @@
     "name": "Incinerator",
     "platforms": {
       "solana": "A8vTTQXH5qPHazNmEGrBnBvk2XYkj1i4e5AMVVN5aC44"
+    }
+  },
+  {
+    "id": "incog-cash",
+    "symbol": "incog",
+    "name": "Incog Cash",
+    "platforms": {
+      "solana": "3vqvkb7XBTRwBndj9V6WNiSqKGugWyMXLrdBwnkCpump"
     }
   },
   {
@@ -64872,7 +64626,9 @@
     "id": "instabridge-wrapped-eth",
     "symbol": "xeth",
     "name": "Instabridge Wrapped ETH (Radix)",
-    "platforms": {}
+    "platforms": {
+      "radix": "resource_rdx1th88qcj5syl9ghka2g9l7tw497vy5x6zaatyvgfkwcfe8n9jt2npww"
+    }
   },
   {
     "id": "instabridge-wrapped-usdt",
@@ -65455,14 +65211,6 @@
     "name": "INVO Shop System",
     "platforms": {
       "solana": "9DowFjAVk2svDXzFxcfuTgSTHjniW5D6TVaEmxFvpump"
-    }
-  },
-  {
-    "id": "inx-token-2",
-    "symbol": "inx",
-    "name": "INX Token",
-    "platforms": {
-      "ethereum": "0xbbc7f7a6aadac103769c66cbc69ab720f7f9eae3"
     }
   },
   {
@@ -67045,6 +66793,14 @@
     }
   },
   {
+    "id": "jazzer-guys",
+    "symbol": "jazzer",
+    "name": "Jazzer Guys",
+    "platforms": {
+      "base": "0xe497a3444ca6cbfc1c5a1ce537b743a21ff9f1ca"
+    }
+  },
+  {
     "id": "jd-com-ondo-tokenized-stock",
     "symbol": "jdon",
     "name": "JD.com (Ondo Tokenized Stock)",
@@ -67329,14 +67085,6 @@
     }
   },
   {
-    "id": "jexchange",
-    "symbol": "jex",
-    "name": "JEXchange",
-    "platforms": {
-      "elrond": "erd1hmfwpvsqn8ktzw3dqd0ltpcyfyasgv8mr9w0qecnmpexyp280y8q47ca9d"
-    }
-  },
-  {
     "id": "jfin-coin",
     "symbol": "jfin",
     "name": "JFIN Coin",
@@ -67406,14 +67154,6 @@
     "name": "JinPeng",
     "platforms": {
       "solana": "GgzJWhQWTpv2VHqvJnx5uEWQzNkfQSncDEWUdgQk4fvh"
-    }
-  },
-  {
-    "id": "jin-the-snake",
-    "symbol": "jin",
-    "name": "Jin the Snake",
-    "platforms": {
-      "solana": "FdpH2hc9kXewsvNtrbWbgtWXVHHFCe2YbjE7S57upump"
     }
   },
   {
@@ -67988,14 +67728,6 @@
     }
   },
   {
-    "id": "jumoney",
-    "symbol": "jum",
-    "name": "Jumoney",
-    "platforms": {
-      "klay-token": "0x3eef2b8d8050197e409b69f09462f49eab562979"
-    }
-  },
-  {
     "id": "jumpbox-eth",
     "symbol": "jumpbox.eth",
     "name": "JUMPBOX.ETH",
@@ -68241,6 +67973,14 @@
     "name": "Just a LOTTO",
     "platforms": {
       "solana": "bwCs4bAMoExahc8Np2rxufxfrGai2Jb3mwkMqxkpump"
+    }
+  },
+  {
+    "id": "just-a-memecoin",
+    "symbol": "memecoin",
+    "name": "just a memecoin",
+    "platforms": {
+      "solana": "Bb4jR951QtVjeFAYFLBYXDSMKjbTDroCLPbFLdd7pump"
     }
   },
   {
@@ -69648,14 +69388,6 @@
     }
   },
   {
-    "id": "keren",
-    "symbol": "keren",
-    "name": "Keren",
-    "platforms": {
-      "base": "0x174e33ef2effa0a4893d97dda5db4044cc7993a3"
-    }
-  },
-  {
     "id": "kermit-cc0e2d66-4b46-4eaf-9f4e-5caa883d1c09",
     "symbol": "kermit",
     "name": "Kermit",
@@ -70178,14 +69910,6 @@
     "name": "KingdomX",
     "platforms": {
       "binance-smart-chain": "0x52da44b5e584f730005dac8d2d2acbdee44d4ba3"
-    }
-  },
-  {
-    "id": "king-forever",
-    "symbol": "kfr",
-    "name": "KING FOREVER",
-    "platforms": {
-      "binance-smart-chain": "0xacff4e9e9110971e1a4d8f013f5f97dd8fb4f430"
     }
   },
   {
@@ -71412,7 +71136,7 @@
   },
   {
     "id": "kpk-eth-prime",
-    "symbol": "kpk eth prime",
+    "symbol": "kpk_weth_v2",
     "name": "kpk ETH Prime V2 Morpho Vault (Ethereum)",
     "platforms": {
       "ethereum": "0xbb50a5341368751024ddf33385ba8cf61fe65ff9"
@@ -71420,7 +71144,7 @@
   },
   {
     "id": "kpk-eth-yield",
-    "symbol": "kpk eth yield",
+    "symbol": "kpk_eth_yieldv2",
     "name": "kpk ETH Yield V2 Morpho Vault (Ethereum)",
     "platforms": {
       "ethereum": "0x5dbf760b4fd0cddde0366b33aeb338b2a6d77725"
@@ -71428,7 +71152,7 @@
   },
   {
     "id": "kpk-eurc-yield",
-    "symbol": "kpk eurc yield",
+    "symbol": "kpk_eurc_v2",
     "name": "kpk EURC Yield V2 Morpho Vault (Ethereum)",
     "platforms": {
       "ethereum": "0xa877d5bb0274dccba8556154a30e1ca4021a275f"
@@ -71436,15 +71160,23 @@
   },
   {
     "id": "kpk-usdc-prime",
-    "symbol": "kpk usdc prime",
+    "symbol": "kpk_usdc_v2",
     "name": "kpk USDC Prime V2 Morpho Vault (Ethereum)",
     "platforms": {
       "ethereum": "0x4ef53d2caa51c447fdfeeedee8f07fd1962c9ee6"
     }
   },
   {
+    "id": "kpk-usdc-rwa-euler",
+    "symbol": "kpk_rwa_usdc",
+    "name": "kpk USDC RWA Euler Vault (Ethereum)",
+    "platforms": {
+      "ethereum": "0x2b47c128b35dddcb66ce2fa5b33c95314a7de245"
+    }
+  },
+  {
     "id": "kpk-usdc-yield",
-    "symbol": "kpk usdc yieldv2",
+    "symbol": "kpk_usdc_yieldv2",
     "name": "kpk USDC Yield V2 Morpho Vault (Ethereum)",
     "platforms": {
       "ethereum": "0xd5cce260e7a755ddf0fb9cdf06443d593aaeaa13"
@@ -71452,7 +71184,7 @@
   },
   {
     "id": "kpk-usdc-yield-2",
-    "symbol": "kpk usdc yieldv2",
+    "symbol": "kpk_usdc_yieldv2",
     "name": "kpk USDC Yield V2 Morpho Vault (Arbitrum)",
     "platforms": {
       "arbitrum-one": "0x5837e4189819637853a357af36650902347f5e73"
@@ -71717,14 +71449,6 @@
     "name": "Krypton DAO",
     "platforms": {
       "binance-smart-chain": "0xb020805e0bc7f0e353d1343d67a239f417d57bbf"
-    }
-  },
-  {
-    "id": "kryza-network",
-    "symbol": "krn",
-    "name": "KRYZA Network",
-    "platforms": {
-      "binance-smart-chain": "0x8013d731f429b3ad418f5467f9f68285efd67ca7"
     }
   },
   {
@@ -73495,14 +73219,6 @@
     }
   },
   {
-    "id": "lemonrocks",
-    "symbol": "lemon",
-    "name": "Lemonrocks",
-    "platforms": {
-      "ethereum": "0x898843fb909e3562c82f2b96f4e3d0693af041df"
-    }
-  },
-  {
     "id": "lendle",
     "symbol": "lend",
     "name": "Lendle",
@@ -74203,6 +73919,14 @@
     }
   },
   {
+    "id": "lifemaxxing",
+    "symbol": "qi",
+    "name": "Lifemaxxing",
+    "platforms": {
+      "solana": "6D1hQ22C7oCUKKVuy91i8HTHnzSjsHCuNAcH9WH2pump"
+    }
+  },
+  {
     "id": "lifi",
     "symbol": "lifi",
     "name": "LIFI",
@@ -74351,6 +74075,14 @@
     "name": "Lil Bean",
     "platforms": {
       "base": "0xccae4fe9719a6b492803613a0a7f2832944a4630"
+    }
+  },
+  {
+    "id": "lil-bits",
+    "symbol": "lil",
+    "name": "LIL Bits",
+    "platforms": {
+      "solana": "qnko6WJGEwEU3JYQFZakLe9V8dmS4YAXFARHeRipump"
     }
   },
   {
@@ -74672,14 +74404,6 @@
     }
   },
   {
-    "id": "linkfi",
-    "symbol": "linkfi",
-    "name": "LINKFI",
-    "platforms": {
-      "binance-smart-chain": "0x679d2c23497d4431311ac001618cd0b8789ac29c"
-    }
-  },
-  {
     "id": "linkhash",
     "symbol": "lhx",
     "name": "LinkHash",
@@ -74907,14 +74631,6 @@
     "name": "Liquid Hydra",
     "platforms": {
       "hydra": "0x0000000000000000000000000000000000001013"
-    }
-  },
-  {
-    "id": "liquid-hype-yield",
-    "symbol": "liquidhype",
-    "name": "Liquid HYPE Yield",
-    "platforms": {
-      "hyperevm": "0x441794d6a8f9a3739f5d4e98a728937b33489d29"
     }
   },
   {
@@ -75831,14 +75547,6 @@
     }
   },
   {
-    "id": "lok",
-    "symbol": "lok",
-    "name": "LOK",
-    "platforms": {
-      "avalanche": "0x41cbfd7c8709d1e459ce816703a1fc882daa77d3"
-    }
-  },
-  {
     "id": "lokr",
     "symbol": "lkr",
     "name": "Lokr",
@@ -75870,6 +75578,14 @@
     "name": "LOL",
     "platforms": {
       "binance-smart-chain": "0x5f970c855c063df6b093e19bda889fdda3ca4444"
+    }
+  },
+  {
+    "id": "lol-5",
+    "symbol": "lol",
+    "name": "LOL",
+    "platforms": {
+      "solana": "34q2KmCvapecJgR6ZrtbCTrzZVtkt3a5mHEA3TuEsWYb"
     }
   },
   {
@@ -77278,6 +76994,14 @@
     }
   },
   {
+    "id": "lux-token-2",
+    "symbol": "lux",
+    "name": "Lux Token",
+    "platforms": {
+      "polygon-pos": "0xa3baaad9c19805f52cfa2490700c297359b4fa52"
+    }
+  },
+  {
     "id": "luxury-travel-token",
     "symbol": "ltt",
     "name": "Luxury Travel Token",
@@ -77523,6 +77247,7 @@
     "name": "Macropod",
     "platforms": {
       "ethereum": "0x081599e4936d12c46bd48913b2329115cd26cbdd",
+      "solana": "CiYXBwHPrdNkMtxR8YEWKv78K6bQjFoEWhPQrZqEmubi",
       "redbelly-network": "0x081599e4936d12c46bd48913b2329115cd26cbdd"
     }
   },
@@ -78067,14 +77792,6 @@
     "name": "Magnetix",
     "platforms": {
       "solana": "HPm64oG8eoCKuPj2MaHc1ruqdZ4Pe71UEGiUET1MtJAu"
-    }
-  },
-  {
-    "id": "magnificent-7777",
-    "symbol": "magic",
-    "name": "Magnificent 7777",
-    "platforms": {
-      "ethereum": "0x435cbf7c09e01d6a07b9997770f7b9d1ab754020"
     }
   },
   {
@@ -78826,14 +78543,6 @@
     }
   },
   {
-    "id": "manyu",
-    "symbol": "manyu",
-    "name": "MANYU",
-    "platforms": {
-      "binance-smart-chain": "0x39878e8a41af06d99e605c1e65eea755128f05f1"
-    }
-  },
-  {
     "id": "manyu-2",
     "symbol": "manyu",
     "name": "Manyu",
@@ -79134,9 +78843,9 @@
   {
     "id": "markhor",
     "symbol": "markhor",
-    "name": "Markhor",
+    "name": "Markhor The Goat",
     "platforms": {
-      "binance-smart-chain": "0x01ee1f75d0e80ed907aa0221bf29e380d03ba15a"
+      "binance-smart-chain": "0xfbe01e78c22d659680eab15e2d17803a6347c126"
     }
   },
   {
@@ -79287,15 +78996,6 @@
     "name": "MarsMi",
     "platforms": {
       "solana": "GqXX9MfkURBZ5cFym9HDzqTL7uZkjtCSqLkUSe2xpump"
-    }
-  },
-  {
-    "id": "mars-protocol-a7fcbcfb-fd61-4017-92f0-7ee9f9cc6da3",
-    "symbol": "mars",
-    "name": "Mars Protocol",
-    "platforms": {
-      "neutron": "factory/neutron1ndu2wvkrxtane8se2tr48gv7nsm46y5gcqjhux/MARS",
-      "osmosis": "ibc/B67DF59507B3755EEDE0866C449445BD54B4DA82CCEBA89D775E53DC35664255"
     }
   },
   {
@@ -79730,6 +79430,14 @@
     }
   },
   {
+    "id": "matrixdock-silver",
+    "symbol": "xagm",
+    "name": "Matrixdock Silver",
+    "platforms": {
+      "ethereum": "0x123ffe0a3c62878dcbee2742227dc8990058d9e1"
+    }
+  },
+  {
     "id": "matrixetf",
     "symbol": "mdf",
     "name": "MatrixETF",
@@ -80015,6 +79723,12 @@
     "platforms": {
       "solana": "81uWcu3yN3VJmsnXnfEpbTZ5T9EZg9aJCRsnTMER72NE"
     }
+  },
+  {
+    "id": "maza",
+    "symbol": "mzc",
+    "name": "Maza",
+    "platforms": {}
   },
   {
     "id": "mazimatic",
@@ -80873,14 +80587,6 @@
     }
   },
   {
-    "id": "memeless",
-    "symbol": "memeless",
-    "name": "MEMELESS",
-    "platforms": {
-      "solana": "6QTtRnuq3kPqVMeyYtGA59ibEtfdiKVYjJJY9WBf7N9z"
-    }
-  },
-  {
     "id": "memeless-coin",
     "symbol": "memeless",
     "name": "MEMELESS COIN",
@@ -81460,12 +81166,6 @@
     "platforms": {
       "polygon-pos": "0x82362ec182db3cf7829014bc61e9be8a2e82868a"
     }
-  },
-  {
-    "id": "meso-finance",
-    "symbol": "meso",
-    "name": "Meso Finance",
-    "platforms": {}
   },
   {
     "id": "meson-network",
@@ -82533,14 +82233,6 @@
     }
   },
   {
-    "id": "microbuy-bot",
-    "symbol": "microbuy",
-    "name": "MicroBuy Bot",
-    "platforms": {
-      "base": "0x84fb6f9788c14534161e24cde3d5ae559054104a"
-    }
-  },
-  {
     "id": "microcap",
     "symbol": "microcap",
     "name": "microcap",
@@ -82690,7 +82382,9 @@
     "symbol": "mhyperbtc",
     "name": "Midas Hyperithm BTC",
     "platforms": {
-      "ethereum": "0xc8495eaff71d3a563b906295fcf2f685b1783085"
+      "ethereum": "0xc8495eaff71d3a563b906295fcf2f685b1783085",
+      "monad": "0xf7cf282ec810fded974f99c0163e792f432892bc",
+      "rootstock": "0x7f71f02ae0945364f658860d67dbc10c86ca3a3c"
     }
   },
   {
@@ -83100,11 +82794,11 @@
     }
   },
   {
-    "id": "millionaire-2",
-    "symbol": "mlnr",
-    "name": "Millionaire",
+    "id": "million-airdrop",
+    "symbol": "mad",
+    "name": "Million Airdrop",
     "platforms": {
-      "solana": "2HCsmkJ7SufKxbvikKR4Y3wGYb39dz6MywPdazeS9TsD"
+      "solana": "3tzhVtTYHmqSuzLfne4S8YX6cpyaCCsWXW14XxESpump"
     }
   },
   {
@@ -83252,6 +82946,14 @@
     "name": "Mind",
     "platforms": {
       "ethereum": "0xa0dd6dd7775e93eb842db0aa142c9c581031ed3b"
+    }
+  },
+  {
+    "id": "mindless-coin",
+    "symbol": "mindless",
+    "name": "MINDLESS COIN",
+    "platforms": {
+      "solana": "AJofCoVif3wj2Uy7mpzgxbqDyHPyn7xp6WzJBy7gpump"
     }
   },
   {
@@ -83445,14 +83147,6 @@
     "name": "mini",
     "platforms": {
       "solana": "2JcXacFwt9mVAwBQ5nZkYwCyXQkRcdsYrDXn6hj22SbP"
-    }
-  },
-  {
-    "id": "minji",
-    "symbol": "minji",
-    "name": "minji",
-    "platforms": {
-      "solana": "3DBNEs4Cuo5EfNC5jx23jG2GMm9LEYL2bgz9MyF6pump"
     }
   },
   {
@@ -83675,14 +83369,6 @@
     }
   },
   {
-    "id": "miraya-7f",
-    "symbol": "m7f",
-    "name": "Miraya 7f",
-    "platforms": {
-      "solana": "ADJxo3f8KHLt9iFujdW9HBtn8QaCaq6KDUdRsSfVpump"
-    }
-  },
-  {
     "id": "mirror-chain",
     "symbol": "mir",
     "name": "Mirror Chain",
@@ -83745,14 +83431,6 @@
     "name": "Miss AI",
     "platforms": {
       "binance-smart-chain": "0xb142417eb86799115fe353675fca7eb8b59ee0df"
-    }
-  },
-  {
-    "id": "miss-china",
-    "symbol": "mschina",
-    "name": "Miss China",
-    "platforms": {
-      "binance-smart-chain": "0xb34c7d41076ed2c58839ab1fad43358affe6ce49"
     }
   },
   {
@@ -84686,11 +84364,27 @@
     }
   },
   {
+    "id": "momo-5",
+    "symbol": "momo",
+    "name": "Momo",
+    "platforms": {
+      "solana": "9JbxQSKNukRA7cPZxCfhSNEcAP9iKRo3PSyYNbW4pump"
+    }
+  },
+  {
     "id": "momoai",
     "symbol": "mtos",
     "name": "MomoAI",
     "platforms": {
       "solana": "HcQbgvMTCNDgMDY6GAFzP1WwCNZeMoEwZfUuHepzC9L5"
+    }
+  },
+  {
+    "id": "momo-chan",
+    "symbol": "momo-chan",
+    "name": "モモちゃん (Momo-chan)",
+    "platforms": {
+      "solana": "3zomtMhRRsBpLZeJLS86fgueXE7xAhoN8dnymNh8pump"
     }
   },
   {
@@ -85277,14 +84971,6 @@
     "name": "Moolahverse",
     "platforms": {
       "ethereum": "0xdf87270e04bc5ac140e93571d0dd0c6f4a058b41"
-    }
-  },
-  {
-    "id": "moo-moo",
-    "symbol": "moomoo",
-    "name": "MOO MOO",
-    "platforms": {
-      "aptos": "0xc5fbbcc4637aeebb4e732767abee8a21f2b0776f73b73e16ce13e7d31d6700da::MOOMOO::MOOMOO"
     }
   },
   {
@@ -85978,15 +85664,6 @@
     }
   },
   {
-    "id": "morpheus-labs",
-    "symbol": "mind",
-    "name": "Morpheus Infrastructure Node",
-    "platforms": {
-      "ethereum": "0xc9eb61ffb66d5815d643bbb8195e17c49687ae1e",
-      "polygon-pos": "0x280053c54006a624c26989cb8354fa4cb86f14d1"
-    }
-  },
-  {
     "id": "morpheus-network",
     "symbol": "mnw",
     "name": "Morpheus Network",
@@ -86481,6 +86158,14 @@
     "name": "MPX6900",
     "platforms": {
       "solana": "39Mzpdw7NDGiXmZZGWiCdR6Nzoc7muWuYkPsVDV4pump"
+    }
+  },
+  {
+    "id": "mrcashclaw",
+    "symbol": "cashclaw",
+    "name": "MrCashClaw",
+    "platforms": {
+      "base": "0x45b9a03a05f86088cd1a00874a05dda2c6915ba3"
     }
   },
   {
@@ -87454,14 +87139,6 @@
     }
   },
   {
-    "id": "myrowifhat",
-    "symbol": "mif",
-    "name": "MyroWifHat",
-    "platforms": {
-      "solana": "FLKtRpDyRpSbswWUUxG1HCU5674cRAK96SX7h67jfPSu"
-    }
-  },
-  {
     "id": "myshell",
     "symbol": "shell",
     "name": "MyShell",
@@ -87693,14 +87370,6 @@
     "name": "Naka Go",
     "platforms": {
       "ethereum": "0x6967b9a8c0b14849cfe8f9e5732b401433fd2898"
-    }
-  },
-  {
-    "id": "nakama-coin",
-    "symbol": "nakama",
-    "name": "Nakama Coin",
-    "platforms": {
-      "polygon-pos": "0xaa694b85c6aa5c983d211b50e27d2d4b8109589a"
     }
   },
   {
@@ -89423,14 +89092,6 @@
     }
   },
   {
-    "id": "nexea",
-    "symbol": "nexea",
-    "name": "NEXEA",
-    "platforms": {
-      "solana": "DMHR12jjZS4v295w1MebqmEuh4np6ziReN8oLJo96NEX"
-    }
-  },
-  {
     "id": "nexellia",
     "symbol": "nxl",
     "name": "Nexell-AI",
@@ -89642,14 +89303,6 @@
     "name": "nfinityAI",
     "platforms": {
       "ethereum": "0x82d36570842fc1ac2a3b4dbe0e7c5c0e2e665090"
-    }
-  },
-  {
-    "id": "nfmart",
-    "symbol": "nfm",
-    "name": "NFMart",
-    "platforms": {
-      "ethereum": "0x9df03fba103491fffde4fbc5fea15efaa43c67a5"
     }
   },
   {
@@ -90451,14 +90104,6 @@
     }
   },
   {
-    "id": "nofap",
-    "symbol": "nofap",
-    "name": "nofap",
-    "platforms": {
-      "solana": "6c1dUwKi49kbEQLubirFgrPLfcRbF3a6tQmESsXbpump"
-    }
-  },
-  {
     "id": "noggles",
     "symbol": "nogs",
     "name": "Noggles",
@@ -90908,14 +90553,6 @@
     }
   },
   {
-    "id": "not-a-cult",
-    "symbol": "cult",
-    "name": "NOT A CULT",
-    "platforms": {
-      "apechain": "0xc7689ac46bc7a2c2819f0d9f280dc09c43295aba"
-    }
-  },
-  {
     "id": "notai",
     "symbol": "notai",
     "name": "NOTAI",
@@ -90981,11 +90618,11 @@
     }
   },
   {
-    "id": "nothing-token",
-    "symbol": "thing",
-    "name": "Nothing Token",
+    "id": "nothing-to-lose",
+    "symbol": "nothing",
+    "name": "Nothing To Lose",
     "platforms": {
-      "ethereum": "0xffd822149fa6749176c7a1424e71a417f26189c8"
+      "solana": "7mtXLUoAcT9Sxrf1K5PjSmfkPbYMyMP5pmrdFFixbonk"
     }
   },
   {
@@ -91188,9 +90825,9 @@
       "hedera-hashgraph": "0x39ceba2b467fa987546000eb5d1373acf1f3a2e1",
       "xdc-network": "0x9fe4e6321eeb7c4bc537570f015e4734b15002b8",
       "solana": "AUDDttiEpCydTm7joUMbYddm72jAWXZnCpPZtDoxqBSw",
-      "stellar": "AUDD-GDC7X2MXTYSAKUUGAIQ7J7RPEIM7GXSAIWFYWWH4GLNFECQVJJLB2EEU",
       "redbelly-network": "0x54a210e824b0f89da988e4b5586440ab354f0e46",
-      "xrp": "rUN5Zxt3K1AnMRJgEWywDJT8QDMMeLH5ok"
+      "xrp": "4155444400000000000000000000000000000000.rUN5Zxt3K1AnMRJgEWywDJT8QDMMeLH5ok",
+      "stellar": "AUDD-GDC7X2MXTYSAKUUGAIQ7J7RPEIM7GXSAIWFYWWH4GLNFECQVJJLB2EEU"
     }
   },
   {
@@ -92064,14 +91701,6 @@
     }
   },
   {
-    "id": "ocelex",
-    "symbol": "ocx",
-    "name": "Ocelex",
-    "platforms": {
-      "zircuit": "0x58024021fe3ef613fa76e2f36a3da97eb1454c36"
-    }
-  },
-  {
     "id": "och",
     "symbol": "och",
     "name": "Orchai",
@@ -92258,14 +91887,6 @@
     "name": "Luce",
     "platforms": {
       "solana": "CBdCxKo9QavR9hfShgpEBG3zekorAeD7W1jfq2o3pump"
-    }
-  },
-  {
-    "id": "officat",
-    "symbol": "officat",
-    "name": "Officat",
-    "platforms": {
-      "solana": "3F6zgJ1H7JGXrfJtPS5iiyREWnTY1AuX2gQNrfyqpump"
     }
   },
   {
@@ -93213,6 +92834,22 @@
     }
   },
   {
+    "id": "one-life-its-worth-an-attempt",
+    "symbol": "worth",
+    "name": "one life, its worth an attempt",
+    "platforms": {
+      "solana": "8tKWk9c3o8sbvcqTBePv2B99ZTthMdXAhSVRQ1zApump"
+    }
+  },
+  {
+    "id": "one-million-pixels",
+    "symbol": "pixels",
+    "name": "One Million Pixels",
+    "platforms": {
+      "solana": "pixvL7orpc8AfVUmeQ3kJZ588EegnXSQd7UW4TcVzDk"
+    }
+  },
+  {
     "id": "oneoneone",
     "symbol": "sn111",
     "name": "Oneoneone",
@@ -93672,7 +93309,7 @@
     "name": "OpenEden TBILL",
     "platforms": {
       "ethereum": "0xdd50c053c096cb04a3e3362e2b622529ec5f2e8a",
-      "xrp": "rJNE2NNz83GJYtWVLwMvchDWEon3huWnFn",
+      "xrp": "TBL.rJNE2NNz83GJYtWVLwMvchDWEon3huWnFn",
       "arbitrum-one": "0xf84d28a8d28292842dd73d1c5f99476a80b6666a",
       "solana": "4MmJVdwYN8LwvbGeCowYjSx7KoEi6BJWg8XXnW4fDDp6"
     }
@@ -93885,6 +93522,14 @@
     "name": "OpenVPP",
     "platforms": {
       "ethereum": "0xb4c6fedd984bc983b1a758d0875f1ea34f81a6af"
+    }
+  },
+  {
+    "id": "openvpp-2",
+    "symbol": "ovpp",
+    "name": "OpenVPP",
+    "platforms": {
+      "base": "0x8c0d3adcf8ce094e1ae437557ec90a6374dc9bdd"
     }
   },
   {
@@ -94140,7 +93785,7 @@
     "symbol": "opulence",
     "name": "OPULENCE",
     "platforms": {
-      "xrp": "rs5wxrBTSErywDDfPs5NY4Zorrca5QMGVd",
+      "xrp": "Opulence.rs5wxrBTSErywDDfPs5NY4Zorrca5QMGVd",
       "binance-smart-chain": "0x6a68abc18806cdf5665e16fca665c4fe3cf1bd13"
     }
   },
@@ -95230,16 +94875,6 @@
     }
   },
   {
-    "id": "overnight-dai",
-    "symbol": "dai+",
-    "name": "Overnight.fi DAI+",
-    "platforms": {
-      "optimistic-ethereum": "0x970d50d09f3a656b43e11b0d45241a84e3a6e011",
-      "base": "0x65a2508c429a6078a7bc2f7df81ab575bd9d9275",
-      "arbitrum-one": "0xeb8e93a0c7504bffd8a8ffa56cd754c63aaebfe8"
-    }
-  },
-  {
     "id": "overnight-finance",
     "symbol": "ovn",
     "name": "Overnight Finance",
@@ -96079,14 +95714,6 @@
     }
   },
   {
-    "id": "pangolin-2",
-    "symbol": "pang",
-    "name": "Pangolin",
-    "platforms": {
-      "abstract": "0xd5cc17f92b41d57a4b34d4b08587bf55342d4bc1"
-    }
-  },
-  {
     "id": "pangolin-flare",
     "symbol": "pfl",
     "name": "Pangolin Flare",
@@ -96293,7 +95920,8 @@
     "symbol": "dime",
     "name": "Paradex",
     "platforms": {
-      "ethereum": "0xb32e10022ffbedfe10bc818a1c7e67d9d87e0fa7"
+      "ethereum": "0xb32e10022ffbedfe10bc818a1c7e67d9d87e0fa7",
+      "solana": "3ywtR9qQH4BuA7LSfLvEuW1gh6ha7EK18XwLbHvhryPZ"
     }
   },
   {
@@ -96605,6 +96233,14 @@
     "platforms": {}
   },
   {
+    "id": "pathusd",
+    "symbol": "pathusd",
+    "name": "pathUSD",
+    "platforms": {
+      "tempo": "0x20c0000000000000000000000000000000000000"
+    }
+  },
+  {
     "id": "patic",
     "symbol": "ptc",
     "name": "PATIC",
@@ -96789,14 +96425,6 @@
     "name": "Pax Unitas",
     "platforms": {
       "ethereum": "0x4e452b391a86c9240e98df7277ce0bea5be08e43"
-    }
-  },
-  {
-    "id": "pay-2-win",
-    "symbol": "p2w",
-    "name": "Pay 2 Win",
-    "platforms": {
-      "solana": "yFw3pkz7cPdLNHiKcErBR2okqy4Bfb2yVXz7aZAindi"
     }
   },
   {
@@ -97632,14 +97260,6 @@
     }
   },
   {
-    "id": "pepeapukekiussimonpepuhoppymysterygroyperfefe6900",
-    "symbol": "pepe",
-    "name": "PepeApuKekiusSimonPepuHoppyMysteryGroyperFefe6900",
-    "platforms": {
-      "ethereum": "0x6a82b057425fb4396793bd163e6a7b87963efe83"
-    }
-  },
-  {
     "id": "pepe-black",
     "symbol": "pepe",
     "name": "PEPE BLACK",
@@ -97701,14 +97321,6 @@
     "name": "PEPE Chain",
     "platforms": {
       "binance-smart-chain": "0x3d17e0abd8d2f023970d8df8b43776a1a2bd737c"
-    }
-  },
-  {
-    "id": "pepe-chain-2",
-    "symbol": "pc",
-    "name": "Pepe Chain",
-    "platforms": {
-      "ethereum": "0x4f311c430540db1d64e635eb55f969f1660b2016"
     }
   },
   {
@@ -97981,14 +97593,6 @@
     "platforms": {
       "ethereum": "0xa6345ffadfa23dfc9014bce72ff2fa8712e54231",
       "binance-smart-chain": "0x9f02af2d749ee3745fb3bd6ef76f1b5e4947cf9f"
-    }
-  },
-  {
-    "id": "pepercetti",
-    "symbol": "pct",
-    "name": "Pepercetti",
-    "platforms": {
-      "solana": "nmYddoZf1KZgpKphcrXKMFNNscWGS2ULuV3rmUHpump"
     }
   },
   {
@@ -98367,6 +97971,14 @@
       "binance-smart-chain": "0x4e7f408be2d4e9d60f49a64b89bb619c84c7c6f5",
       "arbitrum-one": "0x753d224bcf9aafacd81558c32341416df61d3dac",
       "optimistic-ethereum": "0x9e1028f5f1d5ede59748ffcee5532509976840e0"
+    }
+  },
+  {
+    "id": "perpolator",
+    "symbol": "perp",
+    "name": "Perpolator",
+    "platforms": {
+      "solana": "5UCNsNY2oHDB7i2m8bW7nKJXxRoh5WS4N4xKmUB2pump"
     }
   },
   {
@@ -99008,14 +98620,6 @@
     }
   },
   {
-    "id": "picklecharts-token",
-    "symbol": "pcc",
-    "name": "PickleCharts Token",
-    "platforms": {
-      "binance-smart-chain": "0x8b704e7833fa459f2a0da323bd727b39ae7e3608"
-    }
-  },
-  {
     "id": "pickle-finance",
     "symbol": "pickle",
     "name": "Pickle Finance",
@@ -99628,6 +99232,14 @@
     }
   },
   {
+    "id": "pissmissle",
+    "symbol": "piss",
+    "name": "pissmissle",
+    "platforms": {
+      "solana": "927pdppLekfgaVsS49gFcJhz8vpeHSHuHKSWo4Nqpump"
+    }
+  },
+  {
     "id": "pitaya",
     "symbol": "pitaya",
     "name": "Pitaya",
@@ -99855,15 +99467,6 @@
     "platforms": {
       "ethereum": "0x536825370f1159cba953055f5c2f16ddc7b5a348",
       "solana": "XsMJtFbb8BwzQtck3oRXyAfs7SAPRuTXnSEDNd7BAVz"
-    }
-  },
-  {
-    "id": "planet-mojo",
-    "symbol": "mojo",
-    "name": "Planet Mojo",
-    "platforms": {
-      "base": "0xed2d13a70acbd61074fc56bd0d0845e35f793e5e",
-      "ethereum": "0xed2d13a70acbd61074fc56bd0d0845e35f793e5e"
     }
   },
   {
@@ -100159,14 +99762,6 @@
     }
   },
   {
-    "id": "plaza-leveth",
-    "symbol": "leveth",
-    "name": "Plaza LevETH",
-    "platforms": {
-      "base": "0x091a5a1e3aa8b96ab0fb0bc217f5e60ec4c611a0"
-    }
-  },
-  {
     "id": "plazzy-the-dog",
     "symbol": "plazzy",
     "name": "Plazzy the dog",
@@ -100281,14 +99876,6 @@
     "name": "PL^Gnet",
     "platforms": {
       "ethereum": "0x47da5456bc2e1ce391b645ce80f2e97192e4976a"
-    }
-  },
-  {
-    "id": "plink-cat",
-    "symbol": "plink",
-    "name": "Plink Cat",
-    "platforms": {
-      "solana": "9kCuaGMx6GNBcTfZHEJquzjZaayVThVLPzoQ16SYNj2c"
     }
   },
   {
@@ -101402,14 +100989,6 @@
     }
   },
   {
-    "id": "polyyield-token",
-    "symbol": "yield",
-    "name": "PolyYield",
-    "platforms": {
-      "polygon-pos": "0xce4e6da9c509cb33c23d748713c681c959f68658"
-    }
-  },
-  {
     "id": "pom",
     "symbol": "$pom",
     "name": "POM",
@@ -101591,14 +101170,6 @@
     "name": "Pooku",
     "platforms": {
       "solana": "AmXoXkTmLvwoQSVqgRnEXA5mLg7f5D7gpJ4wJVGCpump"
-    }
-  },
-  {
-    "id": "poolfans",
-    "symbol": "fans",
-    "name": "PoolFans",
-    "platforms": {
-      "base": "0x04cafd53ecfa6f6a9168de3d6d2b837d04a51b07"
     }
   },
   {
@@ -101798,14 +101369,6 @@
     "name": "Popo",
     "platforms": {
       "solana": "6kJhG826LGowg7zG6PLd6tg7mqvVSdq2WzHhsfc7pump"
-    }
-  },
-  {
-    "id": "popo-pepe-s-dog",
-    "symbol": "$popo",
-    "name": "Popo, Pepe's Dog",
-    "platforms": {
-      "solana": "96QoNkZLTKH7Gecf6dKMRXBQXW1wqh378uF9pnTejgAw"
     }
   },
   {
@@ -102235,14 +101798,6 @@
     "name": "Predict Crypto",
     "platforms": {
       "ethereum": "0xabd0e3535ecfbf6959b1798220335faf1b7ada3a"
-    }
-  },
-  {
-    "id": "prediction-arena",
-    "symbol": "arena",
-    "name": "Prediction Arena",
-    "platforms": {
-      "solana": "HFqQ6xKTEyL2RSS7b8Ss5Sn4qgFqbL5b4rZmDhMhpkin"
     }
   },
   {
@@ -103320,14 +102875,6 @@
     }
   },
   {
-    "id": "psy-the-cat",
-    "symbol": "psycat",
-    "name": "Psy The Cat",
-    "platforms": {
-      "solana": "V45AAvmrvP8REvwS2xB3gv4GGsPLgL656MneJZSpump"
-    }
-  },
-  {
     "id": "ptokens-btc",
     "symbol": "pbtc",
     "name": "pTokens BTC [OLD]",
@@ -103787,14 +103334,6 @@
     }
   },
   {
-    "id": "pumpcat",
-    "symbol": "pumpcat",
-    "name": "Pumpcat",
-    "platforms": {
-      "solana": "5r6ZqgrT4kwcBu7XWKdKHzXvAwL6nXJumQWryQyu8qEJ"
-    }
-  },
-  {
     "id": "pumpcorn",
     "symbol": "pumpcorn",
     "name": "PUMPCORN",
@@ -104207,7 +103746,8 @@
     "symbol": "pf",
     "name": "Purple Frog",
     "platforms": {
-      "ethereum": "0x491b67a94ec0a59b81b784f4719d0387c4510c36"
+      "ethereum": "0x491b67a94ec0a59b81b784f4719d0387c4510c36",
+      "base": "0x491b67a94ec0a59b81b784f4719d0387c4510c36"
     }
   },
   {
@@ -104590,28 +104130,12 @@
     }
   },
   {
-    "id": "qoomer",
-    "symbol": "qoomer",
-    "name": "Qoomer",
-    "platforms": {
-      "solana": "6psH6FbcQMoEMmyt55me8ZY2siESQwggAM1PU1bkTSH1"
-    }
-  },
-  {
     "id": "qopro",
     "symbol": "qorpo",
     "name": "QORPO WORLD",
     "platforms": {
       "ethereum": "0x22514ffb0d7232a56f0c24090e7b68f179faa940",
       "binance-smart-chain": "0x22514ffb0d7232a56f0c24090e7b68f179faa940"
-    }
-  },
-  {
-    "id": "qoryn",
-    "symbol": "qor",
-    "name": "Qoryn",
-    "platforms": {
-      "solana": "HydiN3AwN6s3DLqZo86UTgovoHNxRFqE2MpDdVuXbonk"
     }
   },
   {
@@ -104779,14 +104303,6 @@
     "name": "Quan2um",
     "platforms": {
       "solana": "qntmuw54sn81ZawbbA7FwHZZQygBnfXUyHJeCCix5ag"
-    }
-  },
-  {
-    "id": "quant",
-    "symbol": "quant",
-    "name": "QUANT",
-    "platforms": {
-      "ethereum": "0xd692cb29aa3958a7f5c583323be2990903a57977"
     }
   },
   {
@@ -106040,14 +105556,6 @@
     "platforms": {}
   },
   {
-    "id": "ratecoin-2",
-    "symbol": "rate",
-    "name": "Ratecoin",
-    "platforms": {
-      "solana": "2wQ7b9uNdP7EUsKXguZqdD1PmrtBkoKwPCKySNMmpump"
-    }
-  },
-  {
     "id": "rat-escape",
     "symbol": "rat",
     "name": "RAT Escape",
@@ -106151,14 +105659,6 @@
     "platforms": {
       "ethereum": "0x1fc122fe8b6fa6b8598799baf687539b5d3b2783",
       "immutable": "0x8a1e8cf52954c8d72907774d4b2b81f38dd1c5c4"
-    }
-  },
-  {
-    "id": "ravenra",
-    "symbol": "raven",
-    "name": "Ravenra",
-    "platforms": {
-      "ethereum": "0xab9e60754e27099b93f8e59b50d2238047f1a38c"
     }
   },
   {
@@ -106666,6 +106166,14 @@
     "name": "Real World AI",
     "platforms": {
       "solana": "G8aVC4nk5oPWzTHp4PDm3kAuixCebv9WRQMD93h9pump"
+    }
+  },
+  {
+    "id": "real-world-services",
+    "symbol": "rws",
+    "name": "Real World Services",
+    "platforms": {
+      "binance-smart-chain": "0xa226dfdd0e2168676ba13889e93c07ce3a0b4e37"
     }
   },
   {
@@ -108858,7 +108366,7 @@
     "symbol": "rizzle",
     "name": "RIPPLE WITH RIZZ",
     "platforms": {
-      "xrp": "rE99nDT3riuM9VjMQkVstMqRGBsnUHw6vm"
+      "xrp": "RIZZLE.rE99nDT3riuM9VjMQkVstMqRGBsnUHw6vm"
     }
   },
   {
@@ -109243,14 +108751,6 @@
     "name": "Robert",
     "platforms": {
       "ethereum": "0xbae2a140b80d85c17678e4a75413039d863cba07"
-    }
-  },
-  {
-    "id": "robie",
-    "symbol": "$robie",
-    "name": "Robie",
-    "platforms": {
-      "ethereum": "0x2025bf4e0c1117685b1bf2ea2be56c7deb11bc99"
     }
   },
   {
@@ -110991,6 +110491,17 @@
     }
   },
   {
+    "id": "safo",
+    "symbol": "safo",
+    "name": "SAFO",
+    "platforms": {
+      "ethereum": "0xcbade7d9bdee88411cb6cbcbb29952b742036992",
+      "polygon-pos": "0x6f64f47f95cf656f21b40e14798f6b49f80b3dc5",
+      "arbitrum-one": "0x0c709396739b9cfb72bcea6ac691ce0ddf66479c",
+      "base": "0x0bb754d8940e283d9ff6855ab5dafbc14165c059"
+    }
+  },
+  {
     "id": "safu",
     "symbol": "safu",
     "name": "SAFU",
@@ -111442,7 +110953,7 @@
     "symbol": "sanctum",
     "name": "Sanctum",
     "platforms": {
-      "xrp": "rNcqT1tds4vdroichNKuTh3Ppd8KAdFHnN"
+      "xrp": "Sanctum.rNcqT1tds4vdroichNKuTh3Ppd8KAdFHnN"
     }
   },
   {
@@ -111526,14 +111037,6 @@
     "name": "Sanke Wallet",
     "platforms": {
       "ethereum": "0x72943fb986c7cc044740ff7bbf4ec722cd7d5436"
-    }
-  },
-  {
-    "id": "sanko-bridged-usdc-sanko",
-    "symbol": "usdc",
-    "name": "Sanko Bridged USDC (Sanko)",
-    "platforms": {
-      "sanko": "0x13d675bc5e659b11cfa331594cf35a20815dcf02"
     }
   },
   {
@@ -112065,18 +111568,6 @@
     }
   },
   {
-    "id": "savings-usx",
-    "symbol": "susx",
-    "name": "Savings USX",
-    "platforms": {
-      "ethereum": "0xbc404429558292ee2d769e57d57d6e74bbd2792d",
-      "binance-smart-chain": "0xbc404429558292ee2d769e57d57d6e74bbd2792d",
-      "base": "0xbc404429558292ee2d769e57d57d6e74bbd2792d",
-      "arbitrum-one": "0xbc404429558292ee2d769e57d57d6e74bbd2792d",
-      "optimistic-ethereum": "0xbc404429558292ee2d769e57d57d6e74bbd2792d"
-    }
-  },
-  {
     "id": "savings-xdai",
     "symbol": "sdai",
     "name": "Savings xDAI",
@@ -112334,7 +111825,7 @@
     "platforms": {
       "ethereum": "0x888883b5f5d21fb10dfeb70e8f9722b9fb0e5e51",
       "polygon-pos": "0x888883b5f5d21fb10dfeb70e8f9722b9fb0e5e51",
-      "xrp": "rMkEuRii9w9uBMQDnWV5AA43gvYZR9JxVK",
+      "xrp": "EUROP.rMkEuRii9w9uBMQDnWV5AA43gvYZR9JxVK",
       "plasma": "0x98658bd74ef231158cadc21d8aba733a4e947e6a",
       "avalanche": "0x8835a2f66a7aaccb297cb985831a616b75e2e16c"
     }
@@ -113431,14 +112922,6 @@
     }
   },
   {
-    "id": "shadowladys-dn404",
-    "symbol": "$shadow",
-    "name": "Shadowladys DN404",
-    "platforms": {
-      "ethereum": "0x46305b2ebcd92809d5fcef577c20c28a185af03c"
-    }
-  },
-  {
     "id": "shadow-liquid-staking-token",
     "symbol": "x33",
     "name": "Shadow Liquid Staking Token",
@@ -113771,14 +113254,6 @@
     "name": "shaww",
     "platforms": {
       "solana": "GtPhXAYvP3hmPJ1QSkn4Nu8ajgnuh2RXMdZYugHWtime"
-    }
-  },
-  {
-    "id": "sheboshis",
-    "symbol": "sheb",
-    "name": "SHEBOSHIS",
-    "platforms": {
-      "ethereum": "0x6930450a416252c7206fbce76c01ecc850a36cb9"
     }
   },
   {
@@ -114709,19 +114184,19 @@
     }
   },
   {
-    "id": "shopnext-loyalty-token",
-    "symbol": "next",
-    "name": "ShopNext Loyalty Token",
-    "platforms": {
-      "binance-smart-chain": "0xa6c59de838f1eeb82d86f5af0750f5f656439999"
-    }
-  },
-  {
     "id": "shopping-io-2",
     "symbol": "spi",
     "name": "Shopping.io",
     "platforms": {
       "ethereum": "0x4feea34369a00740ba41b2d7cabe121f076ffe6e"
+    }
+  },
+  {
+    "id": "short-arena",
+    "symbol": "shar",
+    "name": "Short Arena",
+    "platforms": {
+      "base": "0x10b2057bc08d1d50ba18a536172244fb96c7dba3"
     }
   },
   {
@@ -115405,14 +114880,6 @@
     "name": "Simps",
     "platforms": {
       "base": "0x60222751504796934bddee8218f9725f0c95d2c1"
-    }
-  },
-  {
-    "id": "simps-on-sol",
-    "symbol": "simp",
-    "name": "SIMPS ON SOL",
-    "platforms": {
-      "solana": "B39SX6An7SE3BEj6wq9k8eeZNAgERNgoT8U7a6EJPUMp"
     }
   },
   {
@@ -116488,6 +115955,14 @@
     }
   },
   {
+    "id": "smoking-wizard",
+    "symbol": "wizard",
+    "name": "Smoking Wizard",
+    "platforms": {
+      "solana": "7XdCaKpqLmKE2K7yr9xaeWB1H2CVZ1oGwxB6hmd9pump"
+    }
+  },
+  {
     "id": "smolano",
     "symbol": "slo",
     "name": "SmoLanO",
@@ -117013,7 +116488,7 @@
       "ethereum": "0x5f7827fdeb7c20b443265fc2f40845b715385ff2",
       "xrp": "4555524356000000000000000000000000000000.rUNaS5sqRuxZz6V7rBGhoSaZiVYA3ut4UL",
       "solana": "DghpMkatCiUsofbTmid3M3kAbDTPqDwKiYHnudXeGG52",
-      "stellar": "EURCV-GCEYGIVOLAVBF2TG2RUSGTUJCIN75KEX3NGLMY4VPL4GFE5L355AXW3G"
+      "stellar": "CANKBYNNAYKEZXLB655F2UPNTAZFK5HILZUXL7ZTFR3NF6LKDSVY7KFH"
     }
   },
   {
@@ -117412,6 +116887,14 @@
     }
   },
   {
+    "id": "solana-the-pygmy-hippo",
+    "symbol": "solana",
+    "name": "Solana The Pygmy Hippo",
+    "platforms": {
+      "solana": "De4ULouuU2cAQkhKuYrsrFtJGRRmcSwQD5esmnAUpump"
+    }
+  },
+  {
     "id": "solana-wars",
     "symbol": "solwars",
     "name": "Solana Wars",
@@ -117687,14 +117170,6 @@
     }
   },
   {
-    "id": "solcypher",
-    "symbol": "cypher",
-    "name": "SolCypher",
-    "platforms": {
-      "solana": "iQbAiVeCbyGJBbrxwxEa7LYSykSGd5FMVshgeRayGFM"
-    }
-  },
-  {
     "id": "soldocs",
     "symbol": "docs",
     "name": "SolDocs",
@@ -117813,6 +117288,12 @@
     "platforms": {
       "solana": "METAmTMXwdb8gYzyCPfXXFmZZw4rUsXX58PNsDg7zjL"
     }
+  },
+  {
+    "id": "soli-coin",
+    "symbol": "soli",
+    "name": "Soli Coin",
+    "platforms": {}
   },
   {
     "id": "solid",
@@ -119133,15 +118614,6 @@
     }
   },
   {
-    "id": "spacedawgs",
-    "symbol": "dawgs",
-    "name": "SpaceDawgs",
-    "platforms": {
-      "ethereum": "0x64a77277e37d44957fe5815d6ff442ab8b16cc29",
-      "binance-smart-chain": "0x222cf80a8514f8ce551c06d1b8d01db3678688ad"
-    }
-  },
-  {
     "id": "spacedoge-2",
     "symbol": "spdg",
     "name": "SPACEDOGE",
@@ -119718,6 +119190,42 @@
     }
   },
   {
+    "id": "spiko-amundi-overnight-swap-fund-chf",
+    "symbol": "chfsafo",
+    "name": "Spiko Amundi Overnight Swap Fund (CHF)",
+    "platforms": {
+      "ethereum": "0x18b5c15e5196a38a162b1787875295b76e4313fb",
+      "polygon-pos": "0x9de2b2dcdcf43540e47143f28484b6d15118f089",
+      "arbitrum-one": "0x97e7962bcd091e7ecfb583fc96289b1e1553ac6e",
+      "base": "0xd9aa2300e126869182dfb6ecf54984e4c687f36b",
+      "etherlink": "0xef53e7d17822b641c6481837238a64a688709301"
+    }
+  },
+  {
+    "id": "spiko-amundi-overnight-swap-fund-eur",
+    "symbol": "eursafo",
+    "name": "Spiko Amundi Overnight Swap Fund (EUR)",
+    "platforms": {
+      "ethereum": "0x0990b149e915cb08e2143a5c6f669c907eddc8b0",
+      "polygon-pos": "0x272ea767712cc4839f4a27ee35eb73116158c8a2",
+      "arbitrum-one": "0x1412632f2b89e87bfa20c1318a43ced25f1d7b76",
+      "base": "0xd879846cbe20751bde8a9342a3cca00a3e56ca47",
+      "etherlink": "0x35dfec1813c43d82e6b87c682f560bbb8ea0c121"
+    }
+  },
+  {
+    "id": "spiko-amundi-overnight-swap-fund-gbp",
+    "symbol": "gbpsafo",
+    "name": "Spiko Amundi Overnight Swap Fund (GBP)",
+    "platforms": {
+      "ethereum": "0xc273986a91e4bfc543610a5cb5860b7cfefb6cc0",
+      "polygon-pos": "0x4fe515c67eeeadb3282780325f09bb7c244fe774",
+      "arbitrum-one": "0xbe023308ac2ef7e1c3799f4e6a3003ee6d342635",
+      "base": "0x2f6c0e5e06b43512706a9cdf66cd21f723fe0ec3",
+      "etherlink": "0xfe20ebe3881491b2e158b9d10cb95bcfa652262d"
+    }
+  },
+  {
     "id": "spiko-digital-assets-cash-carry-fund",
     "symbol": "spkcc",
     "name": "Spiko Digital Assets Cash & Carry Fund",
@@ -120013,6 +119521,14 @@
     }
   },
   {
+    "id": "spot-2",
+    "symbol": "spot",
+    "name": "SPOT",
+    "platforms": {
+      "solana": "AhpyRU8g4kva6JAcqTcNRBvi565a8g76CpG8ocY8oMoo"
+    }
+  },
+  {
     "id": "spotify-ondo-tokenized-stock",
     "symbol": "spoton",
     "name": "Spotify (Ondo Tokenized Stock)",
@@ -120077,14 +119593,6 @@
     "name": "Spring Staked SUI",
     "platforms": {
       "sui": "0x83556891f4a0f233ce7b05cfe7f957d4020492a34f5405b2cb9377d060bef4bf::spring_sui::SPRING_SUI"
-    }
-  },
-  {
-    "id": "sprotostrategy",
-    "symbol": "sprstr",
-    "name": "SprotoStrategy",
-    "platforms": {
-      "ethereum": "0x2e0e7dd22ad56705237a59759918e20267b111f2"
     }
   },
   {
@@ -121426,6 +120934,7 @@
       "telos": "0xf1815bd50389c46847f0bda824ec8da914045d14",
       "fuse": "0xc6bc407706b7140ee8eef2f86f9504651b63e7f9",
       "rootstock": "0x74c9f2b00581f1b11aa7ff05aa9f608b7389de67",
+      "tempo": "0x20c000000000000000000000b9537d11c60e8b50",
       "goat": "0x3022b87ac063de95b1570f46f5e470f8b53112d8"
     }
   },
@@ -121698,14 +121207,6 @@
     "platforms": {
       "stellar": "SSLX-GBHFGY3ZNEJWLNO4LBUKLYOCEK4V7ENEBJGPRHHX7JU47GWHBREH37UR",
       "binance-smart-chain": "0xced4ad3e56fdbdd31cca3f76f4ffb1eadd920dcf"
-    }
-  },
-  {
-    "id": "starsmint",
-    "symbol": "stars",
-    "name": "StarsMint",
-    "platforms": {
-      "x-layer": "0x0af1b7d7a063b339afe7a64c8e7fd71693e4fe45"
     }
   },
   {
@@ -122224,14 +121725,6 @@
     }
   },
   {
-    "id": "step-staked-sol",
-    "symbol": "stepsol",
-    "name": "Step Staked SOL",
-    "platforms": {
-      "solana": "StPsoHokZryePePFV8N7iXvfEmgUoJ87rivABX7gaW6"
-    }
-  },
-  {
     "id": "steth-arm-lp-token",
     "symbol": "arm-weth-steth",
     "name": "stETH ARM LP Token",
@@ -122245,14 +121738,6 @@
     "name": "STEVE",
     "platforms": {
       "solana": "2s8AT36jzHfYDnkT1rTTFZti7EkVHhXon6ptAi8cpump"
-    }
-  },
-  {
-    "id": "steve-2",
-    "symbol": "steve",
-    "name": "Steve",
-    "platforms": {
-      "ethereum": "0x6e068796ba34613eb9b285affe0283fef3f4d66f"
     }
   },
   {
@@ -123856,14 +123341,6 @@
     }
   },
   {
-    "id": "superciety",
-    "symbol": "super",
-    "name": "PeerMe SUPER",
-    "platforms": {
-      "elrond": "SUPER-507aa6"
-    }
-  },
-  {
     "id": "superclaw",
     "symbol": "super",
     "name": "Superclaw",
@@ -123909,15 +123386,6 @@
     "name": "supercycle(real)",
     "platforms": {
       "solana": "2G8LH53fcr3aCrEsmAo73eunbZRbyjKrGH5qmur6pump"
-    }
-  },
-  {
-    "id": "superdapp",
-    "symbol": "supr",
-    "name": "SuperDapp",
-    "platforms": {
-      "syscoin": "0x9ce31ff4c2ccfcc2ae8708c0178fc021a86ac18e",
-      "rollux": "0x3390108e913824b8ead638444cc52b9abdf63798"
     }
   },
   {
@@ -124812,15 +124280,6 @@
     }
   },
   {
-    "id": "swtcoin",
-    "symbol": "swat",
-    "name": "SWTCoin",
-    "platforms": {
-      "ethereum": "0xc0f1728d9513efc316d0e93a0758c992f88b0809",
-      "binance-smart-chain": "0x82e7eb8f4c307f2dcf522fdca7b7038296584f29"
-    }
-  },
-  {
     "id": "swusd",
     "symbol": "swusd",
     "name": "Swerve.fi USD",
@@ -124869,7 +124328,8 @@
     "name": "Symbiosis SyBTC",
     "platforms": {
       "binance-smart-chain": "0xa67c48f86fc6d0176dca38883ca8153c76a532c7",
-      "rootstock": "0xb52e582263c1d0189b3cc1402c1b7205b7f2e9ba"
+      "rootstock": "0xb52e582263c1d0189b3cc1402c1b7205b7f2e9ba",
+      "ethereum": "0x01a8b61e7b03891a736b5df865e0ef9c511850ad"
     }
   },
   {
@@ -125139,14 +124599,6 @@
     }
   },
   {
-    "id": "synternet-synt",
-    "symbol": "synt",
-    "name": "Synternet",
-    "platforms": {
-      "ethereum": "0xda987c655ebc38c801db64a8608bc1aa56cd9a31"
-    }
-  },
-  {
     "id": "syntetika-bitcoin",
     "symbol": "hbtc",
     "name": "Syntetika Bitcoin",
@@ -125352,6 +124804,14 @@
     }
   },
   {
+    "id": "tachi",
+    "symbol": "tachi",
+    "name": "TACHI",
+    "platforms": {
+      "base": "0x39b4b879b8521d6a8c3a87cda64b969327b7fba3"
+    }
+  },
+  {
     "id": "ta-da",
     "symbol": "tada",
     "name": "Ta-da",
@@ -125424,7 +124884,7 @@
     "symbol": "taix",
     "name": "TAIX",
     "platforms": {
-      "base": "0x3394a562a38cebd02afc56380a108bb98c5ac3b7"
+      "binance-smart-chain": "0x3394a562a38cebd02afc56380a108bb98c5ac3b7"
     }
   },
   {
@@ -125819,7 +125279,9 @@
     "id": "tapp",
     "symbol": "tapp",
     "name": "TAPP",
-    "platforms": {}
+    "platforms": {
+      "aptos": "0x7e464f3d2c1aed51cdcbdc653cc5c21526fe424bed2944bdd21dabb389dd7921"
+    }
   },
   {
     "id": "taproot",
@@ -126641,14 +126103,6 @@
     }
   },
   {
-    "id": "tensorscan-ai",
-    "symbol": "tsa",
-    "name": "TensorScan AI",
-    "platforms": {
-      "ethereum": "0xf02c2dc9b3cb7f1ba21ccd82dff4ebc92da8996f"
-    }
-  },
-  {
     "id": "tensorspace",
     "symbol": "tpu",
     "name": "TensorSpace",
@@ -127069,6 +126523,12 @@
     }
   },
   {
+    "id": "tetreum",
+    "symbol": "tet",
+    "name": "Tetreum",
+    "platforms": {}
+  },
+  {
     "id": "tetsuo-coin",
     "symbol": "tetsuo",
     "name": "Tetsuo Coin",
@@ -127383,6 +126843,14 @@
     }
   },
   {
+    "id": "the-bagworkoor",
+    "symbol": "bagworkoor",
+    "name": "THE BAGWORKOOR",
+    "platforms": {
+      "solana": "FDQ77aHDgV6ozbv1b4WM5oXuHGV1cMnjSXpxvgSzpump"
+    }
+  },
+  {
     "id": "the-balkan-dwarf",
     "symbol": "$kekec",
     "name": "The Balkan Dwarf",
@@ -127605,6 +127073,14 @@
     "name": "The Corgi of PolkaBridge",
     "platforms": {
       "binance-smart-chain": "0x1cfd6813a59d7b90c41dd5990ed99c3bf2eb8f55"
+    }
+  },
+  {
+    "id": "the-corporation",
+    "symbol": "corp",
+    "name": "The Corporation",
+    "platforms": {
+      "solana": "zxRFshyxLo1dN8BrRsVYb8MDRUYJkSyfw9o1Ehspump"
     }
   },
   {
@@ -128493,14 +127969,6 @@
     }
   },
   {
-    "id": "the-right-wing",
-    "symbol": "right",
-    "name": "The Right Wing",
-    "platforms": {
-      "solana": "G9NuZu43iESYk4bGpEuPTfovzyoDFUgP6tdshHhGpump"
-    }
-  },
-  {
     "id": "thermo-fisher-scientific-ondo-tokenized-stock",
     "symbol": "tmoon",
     "name": "Thermo Fisher Scientific (Ondo Tokenized Stock)",
@@ -128697,15 +128165,6 @@
     "name": "The Spirit of Gambling",
     "platforms": {
       "solana": "H8xQ6poBjB9DTPMDTKWzWPrnxu4bDEhybxiouF8Ppump"
-    }
-  },
-  {
-    "id": "the-standard-euro",
-    "symbol": "euros",
-    "name": "The Standard EURO",
-    "platforms": {
-      "arbitrum-one": "0x643b34980e635719c15a2d4ce69571a258f940e9",
-      "ethereum": "0xb399511642fe1666c6a07f83483e6e4feaed9a00"
     }
   },
   {
@@ -129011,18 +128470,18 @@
     }
   },
   {
-    "id": "the-year-of-the-snake",
-    "symbol": "2025",
-    "name": "The Year Of The Snake",
-    "platforms": {
-      "solana": "9RDKFJaqv9N8yrvJPD5hRPFCpskv2hFc6CZs7roppump"
-    }
-  },
-  {
     "id": "thgold",
     "symbol": "thgold",
     "name": "thGOLD",
     "platforms": {}
+  },
+  {
+    "id": "thicc",
+    "symbol": "thicc",
+    "name": "THICC",
+    "platforms": {
+      "solana": "91RxDpxbxVhBJV2Yn9P4SbVBgZitjtceFxn5dDtDbonk"
+    }
   },
   {
     "id": "thief",
@@ -129158,14 +128617,6 @@
     "name": "Tholana",
     "platforms": {
       "solana": "EKCW975DWdt1roK1NVQDf4QGfaGTcQPU5tFD1DMcMe9Q"
-    }
-  },
-  {
-    "id": "thor",
-    "symbol": "thor",
-    "name": "ThorFi",
-    "platforms": {
-      "avalanche": "0x8f47416cae600bccf9530e9f3aeaa06bdd1caa79"
     }
   },
   {
@@ -129598,6 +129049,14 @@
     "name": "timmythetoaster",
     "platforms": {
       "solana": "a788oktKgqmoZUQvLyxPN95sDWE7Wpu7hyPNmGDxfun"
+    }
+  },
+  {
+    "id": "tinfoil-hat-cult",
+    "symbol": "tinfoil",
+    "name": "tinfoil hat cult",
+    "platforms": {
+      "solana": "z6eiti618XERFhoB9j5FpbJ7sGf5yTjpw4zp7twpump"
     }
   },
   {
@@ -130440,14 +129899,6 @@
     }
   },
   {
-    "id": "tom-s-odyssey",
-    "symbol": "tom",
-    "name": "Tom's Odyssey",
-    "platforms": {
-      "solana": "3Jam4LGfFxPZJAQEzruiBTt28bi1Da64QCaxdLaB7o4g"
-    }
-  },
-  {
     "id": "tomwifhat",
     "symbol": "twif",
     "name": "Tomwifhat",
@@ -130802,6 +130253,14 @@
     }
   },
   {
+    "id": "toriva",
+    "symbol": "toriva",
+    "name": "Toriva",
+    "platforms": {
+      "base": "0xb886cf1444bff05e9a99e00543bc4054d423ebfd"
+    }
+  },
+  {
     "id": "tornado-cash",
     "symbol": "torn",
     "name": "Tornado Cash",
@@ -130989,14 +130448,6 @@
     "name": "Tour Billion Coin",
     "platforms": {
       "binance-smart-chain": "0xda0f9f1204395c2481070c1d4dc1f996915527f2"
-    }
-  },
-  {
-    "id": "tourism-industry-metavers",
-    "symbol": "tim",
-    "name": "Tourism Industry Metavers",
-    "platforms": {
-      "tron": "TQH4JFjzGnWswNeaCxFJi3pSqmsvTXULY8"
     }
   },
   {
@@ -131843,6 +131294,14 @@
     }
   },
   {
+    "id": "triple-plus",
+    "symbol": "tpt",
+    "name": "Triple Plus",
+    "platforms": {
+      "polygon-pos": "0x95f9b9beceb273815f7f22a5729924acf88050a6"
+    }
+  },
+  {
     "id": "tri-sigma",
     "symbol": "trisig",
     "name": "Tri Sigma",
@@ -132543,6 +132002,14 @@
     }
   },
   {
+    "id": "tsuki-2",
+    "symbol": "tsuki",
+    "name": "月 (Tsuki)",
+    "platforms": {
+      "solana": "GAdg5dJgNNmuBUh4N8PXM7YXKjTADmPuu3pZ2C8Zpump"
+    }
+  },
+  {
     "id": "tsuki-inu",
     "symbol": "tkinu",
     "name": "Tsuki Inu",
@@ -132853,7 +132320,7 @@
     "symbol": "twins",
     "name": "TWINS",
     "platforms": {
-      "xrp": "rsVBsaW2P1SiFHhUBdNTNjucTyARw39FPD"
+      "xrp": "TWINS.rsVBsaW2P1SiFHhUBdNTNjucTyARw39FPD"
     }
   },
   {
@@ -132948,6 +132415,14 @@
     "name": "Typus",
     "platforms": {
       "sui": "0xf82dc05634970553615eef6112a1ac4fb7bf10272bf6cbe0f80ef44a6c489385::typus::TYPUS"
+    }
+  },
+  {
+    "id": "tytan",
+    "symbol": "tytan",
+    "name": "TYTAN",
+    "platforms": {
+      "solana": "BnYKTZjTf42u5G9qqsBBzYCuGZT8CvrGL3JuRcLnpump"
     }
   },
   {
@@ -133084,14 +132559,6 @@
     }
   },
   {
-    "id": "udder-chaos-milk",
-    "symbol": "milk",
-    "name": "MILK",
-    "platforms": {
-      "solana": "MLKmUCaj1dpBY881aFsrBwR9RUMoKic8SWT3u1q5Nkj"
-    }
-  },
-  {
     "id": "udog",
     "symbol": "udog",
     "name": "UDOG",
@@ -133183,9 +132650,17 @@
   {
     "id": "ugold-inc",
     "symbol": "ugold",
-    "name": "UGOLD Inc.",
+    "name": "UGOLD Inc. [OLD]",
     "platforms": {
       "ethereum": "0xa6089dbfed19d1bcd43146bbdca2b8f9d9f84a9a"
+    }
+  },
+  {
+    "id": "ugold-inc-2",
+    "symbol": "ugold",
+    "name": "UGOLD Inc.",
+    "platforms": {
+      "ethereum": "0x6abbf52276856dab63c5dee566965aa1a5fae664"
     }
   },
   {
@@ -133328,14 +132803,6 @@
     "platforms": {
       "ethereum": "0xc0a4df35568f116c370e6a6a6022ceb908eeddac",
       "osmosis": "ibc/67795E528DF67C5606FC20F824EA39A6EF55BA133F4DC79C90A8C47A0901E17C"
-    }
-  },
-  {
-    "id": "umi-2",
-    "symbol": "umi",
-    "name": "Umi",
-    "platforms": {
-      "base": "0x98623dc972d52b8e1aca2262fa62aced989d7948"
     }
   },
   {
@@ -133821,15 +133288,6 @@
     "platforms": {}
   },
   {
-    "id": "unique-one",
-    "symbol": "rare",
-    "name": "Unique One",
-    "platforms": {
-      "ethereum": "0x93dfaf57d986b9ca77df9376c50878e013d9c7c8",
-      "sora": "0x0047e323378d23116261954e67836f350c45625124bbadb35404d9109026feb5"
-    }
-  },
-  {
     "id": "unisocks",
     "symbol": "socks",
     "name": "Unisocks",
@@ -133906,9 +133364,9 @@
     "symbol": "up",
     "name": "Unitas",
     "platforms": {
+      "binance-smart-chain": "0x000008d2175f9aeaddb2430c26f8a6f73c5a0000",
       "ethereum": "0x00007ac313f4f4c1ad809e8a4ca42bc613aa0000",
-      "solana": "7Zhxshgt7Ft6pHFYMrHE1epWdWre7sJ1Af1GhEUnitas",
-      "binance-smart-chain": "0x000008d2175f9aeaddb2430c26f8a6f73c5a0000"
+      "solana": "7Zhxshgt7Ft6pHFYMrHE1epWdWre7sJ1Af1GhEUnitas"
     }
   },
   {
@@ -134219,6 +133677,14 @@
     "symbol": "uht",
     "name": "Universal Health Token",
     "platforms": {}
+  },
+  {
+    "id": "universal-high-income",
+    "symbol": "income",
+    "name": "Universal High Income",
+    "platforms": {
+      "solana": "5QmbJw7mM6tcCdXVy8ftc2bu8izded7Etc57TMA2pump"
+    }
   },
   {
     "id": "universal-operating-system",
@@ -135570,14 +135036,6 @@
     }
   },
   {
-    "id": "uspepe",
-    "symbol": "uspepe",
-    "name": "Uspepe",
-    "platforms": {
-      "ethereum": "0x27bbb7e6d8b8b9a4c36e67c5d7ce7fa8d51628e1"
-    }
-  },
-  {
     "id": "us-permissionless-dollar",
     "symbol": "uspd",
     "name": "US Permissionless Dollar",
@@ -136560,14 +136018,6 @@
       "binance-smart-chain": "0xb8e3bb633f7276cc17735d86154e0ad5ec9928c0",
       "velas": "0xa065e0858417dfc7abc6f2bd4d0185332475c180",
       "ethereum": "0xb8e3bb633f7276cc17735d86154e0ad5ec9928c0"
-    }
-  },
-  {
-    "id": "velhalla",
-    "symbol": "scar",
-    "name": "ScarQuest",
-    "platforms": {
-      "binance-smart-chain": "0x8d9fb713587174ee97e91866050c383b5cee6209"
     }
   },
   {
@@ -139142,6 +138592,14 @@
     }
   },
   {
+    "id": "war-dogs",
+    "symbol": "wardogs",
+    "name": "War Dogs",
+    "platforms": {
+      "solana": "D26ztC28zZf1QBhrY47NtvK7aeLfDvj41H5wgkUqpump"
+    }
+  },
+  {
     "id": "warena",
     "symbol": "rena",
     "name": "Warena",
@@ -139173,6 +138631,14 @@
     "platforms": {
       "ethereum": "0xc435b3c41ae56d9bc57b8525f4d522c978f168e8",
       "solana": "XsZUSqxAXKJkEimvD4CoVvEb4WUC92TFgj5zRtBxFeL"
+    }
+  },
+  {
+    "id": "warp-2",
+    "symbol": "wrp",
+    "name": "Warp",
+    "platforms": {
+      "avalanche": "0xef282b38d1ceab52134ca2cc653a569435744687"
     }
   },
   {
@@ -139332,6 +138798,14 @@
     "name": "Water",
     "platforms": {
       "solana": "BEaQ6StD98khBPqKjT4mLasqoDa6RuBCXcK4aNMFpump"
+    }
+  },
+  {
+    "id": "water-5",
+    "symbol": "water",
+    "name": "Water",
+    "platforms": {
+      "solana": "WATERR4RJzjvDGZjuMhiy155f6uA9qbbjNFfRPvAKfP"
     }
   },
   {
@@ -139554,6 +139028,14 @@
     "name": "Way of The Future",
     "platforms": {
       "solana": "yJcC48AWnaFQxb4CfZY6U19aQr3Pw6RKVhuGCLVpump"
+    }
+  },
+  {
+    "id": "wazabi-ai",
+    "symbol": "zab",
+    "name": "Wazabi AI",
+    "platforms": {
+      "base": "0xdb88c481af72731fcdc7eaf37be0d4d15b734e69"
     }
   },
   {
@@ -140063,14 +139545,6 @@
     }
   },
   {
-    "id": "wen-soon",
-    "symbol": "$soon",
-    "name": "Wen? Soon!",
-    "platforms": {
-      "solana": "aQqFBwSUpNKLuAE1ovbrPKQgZJKB1wywBpuiBoJ8GFM"
-    }
-  },
-  {
     "id": "wen-token",
     "symbol": "wen",
     "name": "WEN Token",
@@ -140494,14 +139968,6 @@
     }
   },
   {
-    "id": "whispy",
-    "symbol": "whispy",
-    "name": "Whispy",
-    "platforms": {
-      "solana": "EEBA6E69rhvGgLSs633u5qVeNjo77fp2wY3yj8Aipump"
-    }
-  },
-  {
     "id": "whistle-privacy-focused-utility-and-cult",
     "symbol": "whistle",
     "name": "WHISTLE - Privacy Focused Utility and Cult",
@@ -140844,14 +140310,6 @@
     }
   },
   {
-    "id": "wildwest",
-    "symbol": "wildw",
-    "name": "WILDWEST",
-    "platforms": {
-      "base": "0x8129609e5303910464fce3022a809fa44455fe9a"
-    }
-  },
-  {
     "id": "will",
     "symbol": "will",
     "name": "Will",
@@ -140881,14 +140339,6 @@
     "name": "Will U",
     "platforms": {
       "binance-smart-chain": "0x36a650e757da5fb28f1c50c3405360f60c5bffff"
-    }
-  },
-  {
-    "id": "willy-3",
-    "symbol": "willy",
-    "name": "willy",
-    "platforms": {
-      "solana": "6KVcC37iUeYmAS1kMUFEi3kS9G91tA8isqZ54ebgpump"
     }
   },
   {
@@ -141141,14 +140591,6 @@
     "name": "Wiz",
     "platforms": {
       "solana": "2TobzM4NNpEvyVAEpFC8AkxJGBHz8fFgMksK1gBy5dub"
-    }
-  },
-  {
-    "id": "wizard-cat",
-    "symbol": "wizard",
-    "name": "Wizard Cat",
-    "platforms": {
-      "ethereum": "0x4a7c9897ae01ff08d6e3820507a6b967bdbffa29"
     }
   },
   {
@@ -141755,6 +141197,14 @@
     "name": "World Peace",
     "platforms": {
       "solana": "atVjZ7uM8sVrLFi5Xe1JiLGW6mW9pvQdTCWzhNFpump"
+    }
+  },
+  {
+    "id": "world-rebuilding-trust",
+    "symbol": "wrt",
+    "name": "World Rebuilding Trust",
+    "platforms": {
+      "solana": "JCcd7NmyHVmiuycHP6drEesBSZhZUJXhBMbhxq42RNg3"
     }
   },
   {
@@ -143133,14 +142583,6 @@
     }
   },
   {
-    "id": "wrapped-dmt",
-    "symbol": "wdmt",
-    "name": "Wrapped DMT",
-    "platforms": {
-      "sanko": "0x754cdad6f5821077d6915004be2ce05f93d176f8"
-    }
-  },
-  {
     "id": "wrapped-dog",
     "symbol": "wdog",
     "name": "Wrapped DOG",
@@ -143682,14 +143124,6 @@
     "name": "Wrapped HLUSD",
     "platforms": {
       "hela": "0x3a035615e101373fa9ba21c5bea7fe4026fc40b4"
-    }
-  },
-  {
-    "id": "wrapped-hns",
-    "symbol": "whns",
-    "name": "Wrapped HNS",
-    "platforms": {
-      "ethereum": "0xa771b49064da011df051052848477f18dba1d2ac"
     }
   },
   {
@@ -145457,6 +144891,14 @@
     }
   },
   {
+    "id": "xaicash",
+    "symbol": "xaic",
+    "name": "XAICASH",
+    "platforms": {
+      "solana": "KfByHk48ecitUq8gXji2vr9smmRJKtqJwGAh2E9pump"
+    }
+  },
+  {
     "id": "xai-corp",
     "symbol": "xai",
     "name": "XAI Corp",
@@ -146091,6 +145533,14 @@
     }
   },
   {
+    "id": "xianfudaidonghoufu",
+    "symbol": "先富带动后富",
+    "name": "先富带动后富",
+    "platforms": {
+      "binance-smart-chain": "0x40030e3e47b955351d00c98b392142ed23fa4444"
+    }
+  },
+  {
     "id": "xiaobai",
     "symbol": "xiaobai",
     "name": "XiaoBai",
@@ -146274,7 +145724,7 @@
     "symbol": "xmeme",
     "name": "XMEME",
     "platforms": {
-      "xrp": "r4UPddYeGeZgDhSGPkooURsQtmGda4oYQW"
+      "xrp": "XMEME.r4UPddYeGeZgDhSGPkooURsQtmGda4oYQW"
     }
   },
   {
@@ -146612,7 +146062,7 @@
     "symbol": "xrpaynet",
     "name": "XRPayNet",
     "platforms": {
-      "xrp": "r9rRLst96Ue4YTDQkWWkX1ePB6p6Ye4FkA"
+      "xrp": "XRPayNet.r9rRLst96Ue4YTDQkWWkX1ePB6p6Ye4FkA"
     }
   },
   {
@@ -146620,7 +146070,7 @@
     "symbol": "xrpc",
     "name": "XRP Classic",
     "platforms": {
-      "xrp": "rHTZAic4QVErSS2AMbPJUe3zdUJPgWzXJe"
+      "xrp": "XRPC.rHTZAic4QVErSS2AMbPJUe3zdUJPgWzXJe"
     }
   },
   {
@@ -146628,7 +146078,7 @@
     "symbol": "xgc",
     "name": "XRP GOD CANDLE",
     "platforms": {
-      "xrp": "rM4qkDcRyMDks5v1hYakKnLbTeppmgCpM1"
+      "xrp": "XGC.rM4qkDcRyMDks5v1hYakKnLbTeppmgCpM1"
     }
   },
   {
@@ -146636,7 +146086,7 @@
     "symbol": "xrph",
     "name": "XRP Healthcare",
     "platforms": {
-      "xrp": "rM8hNqA3jRJ5Zgp3Xf3xzdZcx2G37guiZk"
+      "xrp": "XRPH.rM8hNqA3jRJ5Zgp3Xf3xzdZcx2G37guiZk"
     }
   },
   {
@@ -146669,10 +146119,10 @@
     "name": "XSGD",
     "platforms": {
       "ethereum": "0x70e8de73ce538da2beed35d14187f6959a8eca96",
-      "xrp": "rK67JczCpaYXVtfw3qJVmqwpSfa1bYTptw",
       "hedera-hashgraph": "0x00000000000000000000000000000000001e4d82",
       "zilliqa": "zil180v66mlw007ltdv8tq5t240y7upwgf7djklmwh",
       "base": "0x0a4c9cb2778ab3302996a34befcf9a8bc288c33b",
+      "xrp": "XSGD.rK67JczCpaYXVtfw3qJVmqwpSfa1bYTptw",
       "polygon-pos": "0xdc3326e71d45186f113a2f448984ca0e8d201995",
       "avalanche": "0xb2f85b7ab3c2b6f62df06de6ae7d09c010a5096e",
       "arbitrum-one": "0xe333e7754a2dc1e020a162ecab019254b9dab653"
@@ -147069,14 +146519,6 @@
     }
   },
   {
-    "id": "yawn-s-world",
-    "symbol": "yawn",
-    "name": "Yawn's World",
-    "platforms": {
-      "ethereum": "0x88ce174c655b6d11210a069b2c106632dabdb068"
-    }
-  },
-  {
     "id": "yay-games",
     "symbol": "yay",
     "name": "YAY Network",
@@ -147272,6 +146714,14 @@
     "name": "Yellow Umbrella",
     "platforms": {
       "solana": "6r6YZkHNmphgZYYrhMzrXSXqa9i8MJhQigM1jCetVvbQ"
+    }
+  },
+  {
+    "id": "yepe",
+    "symbol": "yepe",
+    "name": "YEPE",
+    "platforms": {
+      "solana": "GaREwVYcNnvi55vPXtQFQYgspmzv3wypZfLSWWgJpump"
     }
   },
   {
@@ -147531,6 +146981,14 @@
     }
   },
   {
+    "id": "yieldfi-ypythagoras",
+    "symbol": "ypymn",
+    "name": "YieldFi yPYMN",
+    "platforms": {
+      "ethereum": "0x06c2c73f30135c831d010ec7b82d0f32321c4f27"
+    }
+  },
+  {
     "id": "yieldfi-ytoken",
     "symbol": "yusd",
     "name": "YieldFi yToken",
@@ -147654,6 +147112,14 @@
     "name": "Yield Optimizer Gold",
     "platforms": {
       "ethereum": "0x586675a3a46b008d8408933cf42d8ff6c9cc61a1"
+    }
+  },
+  {
+    "id": "yield-optimizer-sol",
+    "symbol": "yosol",
+    "name": "Yield Optimizer SOL",
+    "platforms": {
+      "solana": "yoSoLJkgRYFwmt8apEDVKxHy6FktjYEWLvxB6NyJuNj"
     }
   },
   {
@@ -147877,6 +147343,14 @@
     "name": "YOLO Games",
     "platforms": {
       "blast": "0xf77dd21c5ce38ac08786be35ef1d1dec1a6a15f3"
+    }
+  },
+  {
+    "id": "yom",
+    "symbol": "$yom",
+    "name": "$YOM",
+    "platforms": {
+      "avalanche": "0xb6314518b61b4864162c7ae7fdc36261e0a14c4b"
     }
   },
   {
@@ -148997,6 +148471,14 @@
     }
   },
   {
+    "id": "zentience",
+    "symbol": "zent",
+    "name": "Zentience",
+    "platforms": {
+      "solana": "87qaShD91K66KaPD9esCc2TgP55fUFkW7PMyJEb8pump"
+    }
+  },
+  {
     "id": "zentra",
     "symbol": "zntr",
     "name": "Zentra",
@@ -149540,6 +149022,14 @@
     }
   },
   {
+    "id": "z-generation-coin",
+    "symbol": "zgc",
+    "name": "Z Generation Coin",
+    "platforms": {
+      "binance-smart-chain": "0xad4f3b563f2363e7593ddcaab322604cedf55952"
+    }
+  },
+  {
     "id": "zhc-zero-hour-cash",
     "symbol": "zhc",
     "name": "ZHC : Zero Hour Cash",
@@ -149941,22 +149431,6 @@
     }
   },
   {
-    "id": "zoa-ai",
-    "symbol": "zoa",
-    "name": "ZOA AI",
-    "platforms": {
-      "solana": "AwcCFuJgUYNYHXm6tHhr7DsXDY6FKvXUt2DFjmgHpump"
-    }
-  },
-  {
-    "id": "zodia",
-    "symbol": "zodia",
-    "name": "ZODIA",
-    "platforms": {
-      "ethereum": "0xe1270268fa6fcef965958bf2f24e09d70deed06f"
-    }
-  },
-  {
     "id": "zodor",
     "symbol": "zod",
     "name": "Zodor",
@@ -150269,6 +149743,14 @@
     "name": "ZygoSwap",
     "platforms": {
       "binance-smart-chain": "0x2e44ab95549b8a12afdb970bde5a6a78365e4444"
+    }
+  },
+  {
+    "id": "zygoswap-io-rewards-token",
+    "symbol": "zrw",
+    "name": "Zygoswap.io rewards token ",
+    "platforms": {
+      "solana": "RhoE4GiuQLBM3ziC8thBRGd3T1wEys8KNjfTkCppump"
     }
   },
   {

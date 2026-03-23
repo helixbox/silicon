@@ -4,16 +4,8 @@
   "keywords": [
     "defi"
   ],
-  "timestamp": "2026-03-10T10:00:05.389+00:00",
+  "timestamp": "2026-03-17T11:00:03.212+00:00",
   "tokens": [
-    {
-      "chainId": 98866,
-      "address": "0xea237441c92cae6fc17caaf9a7acb3f953be4bd1",
-      "name": "Wrapped Plume",
-      "symbol": "WPLUME",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/70470/thumb/plume.jpg?1762154772"
-    },
     {
       "chainId": 98866,
       "address": "0x2a3e301dbd45c143dfbb7b1ce1c55bf0bbf161cb",
@@ -21,6 +13,14 @@
       "symbol": "NACRDX",
       "decimals": 6,
       "logoURI": "https://assets.coingecko.com/coins/images/70512/thumb/Nest_ACRDX_Vault.png?1762268426"
+    },
+    {
+      "chainId": 98866,
+      "address": "0x15c09c0ffb3717325e60a564d1acfbfe999c2f88",
+      "name": "Dinari SRLN",
+      "symbol": "SRLN.D",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/66390/thumb/d-token-200.png?1749284651"
     },
     {
       "chainId": 98866,
@@ -32,11 +32,11 @@
     },
     {
       "chainId": 98866,
-      "address": "0x15c09c0ffb3717325e60a564d1acfbfe999c2f88",
-      "name": "Dinari SRLN",
-      "symbol": "SRLN.D",
+      "address": "0xea237441c92cae6fc17caaf9a7acb3f953be4bd1",
+      "name": "Wrapped Plume",
+      "symbol": "WPLUME",
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/66390/thumb/d-token-200.png?1749284651"
+      "logoURI": "https://assets.coingecko.com/coins/images/70470/thumb/plume.jpg?1762154772"
     },
     {
       "chainId": 98866,
@@ -240,14 +240,6 @@
     },
     {
       "chainId": 98866,
-      "address": "0x1271656f45e251f588847721ba2c561dd1f0223f",
-      "name": "Elixir deUSD",
-      "symbol": "DEUSD",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/39494/thumb/deUSD_Logo_%281%29.png?1723689002"
-    },
-    {
-      "chainId": 98866,
       "address": "0x0c78ca789e826fe339de61934896f5d170b66d78",
       "name": "Midas mBASIS",
       "symbol": "MBASIS",
@@ -400,19 +392,19 @@
     },
     {
       "chainId": 98866,
-      "address": "0xd2b65e851be3d80d3c2ce795eb2e78f16cb088b2",
-      "name": "Ondo US Dollar Yield",
-      "symbol": "USDY",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/31700/thumb/usdy_%281%29.png?1696530524"
-    },
-    {
-      "chainId": 98866,
       "address": "0xcf7a8813bd3bdaf70a9f46d310ce1ee8d80a4f5a",
       "name": "WisdomTree Treasury Money Market Digital Fund",
       "symbol": "WTGXX",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/71484/thumb/wtgxx_circle_ci.png?1767948288"
+    },
+    {
+      "chainId": 98866,
+      "address": "0xd2b65e851be3d80d3c2ce795eb2e78f16cb088b2",
+      "name": "Ondo US Dollar Yield",
+      "symbol": "USDY",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/31700/thumb/usdy_%281%29.png?1696530524"
     },
     {
       "chainId": 98866,
@@ -424,7 +416,7 @@
     }
   ],
   "version": {
-    "major": 5,
+    "major": 6,
     "minor": 0,
     "patch": 0
   }
