@@ -4,16 +4,8 @@
   "keywords": [
     "defi"
   ],
-  "timestamp": "2026-03-22T10:00:40.497+00:00",
+  "timestamp": "2026-03-29T09:00:42.110+00:00",
   "tokens": [
-    {
-      "chainId": 10,
-      "address": "0x6f748fd65d7c71949ba6641b3248c4c191f3b322",
-      "name": "Exactly WBTC",
-      "symbol": "EXAWBTC",
-      "decimals": 8,
-      "logoURI": "https://assets.coingecko.com/coins/images/34170/thumb/exactly-wbtc.jpg?1772705067"
-    },
     {
       "chainId": 10,
       "address": "0xc3248a1bd9d72fa3da6e6ba701e58cbf818354eb",
@@ -40,51 +32,19 @@
     },
     {
       "chainId": 10,
-      "address": "0x7f5c764cbc14f9669b88837ca1490cca17c31607",
-      "name": "Standard Bridged USDC.e (Optimism)",
-      "symbol": "USDC.E",
-      "decimals": 6,
-      "logoURI": "https://assets.coingecko.com/coins/images/31580/thumb/USDC-icon.png?1696530397"
-    },
-    {
-      "chainId": 10,
-      "address": "0xc02b55bb2fe3643e1955b13515396ce23b110f80",
-      "name": "Aktionariat Axelra Early Stage AG Tokenized Shares",
-      "symbol": "AXRAS",
-      "decimals": 0,
-      "logoURI": "https://assets.coingecko.com/coins/images/33333/thumb/AXRAS.png?1701519079"
-    },
-    {
-      "chainId": 10,
-      "address": "0xa72f7df6c1454096387dbb74f70b3dac4f0a61f5",
-      "name": "Aktionariat Carnault AG Tokenized Shares",
-      "symbol": "CAS",
-      "decimals": 0,
-      "logoURI": "https://assets.coingecko.com/coins/images/33334/thumb/CAS.png?1701519269"
-    },
-    {
-      "chainId": 10,
-      "address": "0xb9243c495117343981ec9f8aa2abffee54396fc0",
-      "name": "Perpetual Delta Neutral Yield (Optimism)",
-      "symbol": "USDPY",
+      "address": "0x22ab31cd55130435b5efbf9224b6a9d5ec36533f",
+      "name": "Exactly Wrapped stETH",
+      "symbol": "EXAWSTETH",
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/40153/thumb/usdpy.png?1726073418"
+      "logoURI": "https://assets.coingecko.com/coins/images/31172/thumb/ExawstETH_1.png?1696530000"
     },
     {
       "chainId": 10,
-      "address": "0xc5b001dc33727f8f26880b184090d3e252470d45",
-      "name": "Ethos Reserve Note",
-      "symbol": "ERN",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/29744/thumb/ERN200x200.png?1696528676"
-    },
-    {
-      "chainId": 10,
-      "address": "0xb153fb3d196a8eb25522705560ac152eeec57901",
-      "name": "Magic Internet Money (Optimism)",
-      "symbol": "MIM",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/37659/thumb/mim.png?1715165153"
+      "address": "0x6f748fd65d7c71949ba6641b3248c4c191f3b322",
+      "name": "Exactly WBTC",
+      "symbol": "EXAWBTC",
+      "decimals": 8,
+      "logoURI": "https://assets.coingecko.com/coins/images/34170/thumb/exactly-wbtc.jpg?1772705067"
     },
     {
       "chainId": 10,
@@ -96,19 +56,83 @@
     },
     {
       "chainId": 10,
-      "address": "0x22ab31cd55130435b5efbf9224b6a9d5ec36533f",
-      "name": "Exactly Wrapped stETH",
-      "symbol": "EXAWSTETH",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/31172/thumb/ExawstETH_1.png?1696530000"
+      "address": "0xc02b55bb2fe3643e1955b13515396ce23b110f80",
+      "name": "Aktionariat Axelra Early Stage AG Tokenized Shares",
+      "symbol": "AXRAS",
+      "decimals": 0,
+      "logoURI": "https://assets.coingecko.com/coins/images/33333/thumb/AXRAS.png?1701519079"
     },
     {
       "chainId": 10,
-      "address": "0x10398abc267496e49106b07dd6be13364d10dc71",
-      "name": "Let's Get HAI",
-      "symbol": "HAI",
+      "address": "0x7f5c764cbc14f9669b88837ca1490cca17c31607",
+      "name": "Standard Bridged USDC.e (Optimism)",
+      "symbol": "USDC.E",
+      "decimals": 6,
+      "logoURI": "https://assets.coingecko.com/coins/images/31580/thumb/USDC-icon.png?1696530397"
+    },
+    {
+      "chainId": 10,
+      "address": "0xb9243c495117343981ec9f8aa2abffee54396fc0",
+      "name": "Perpetual Delta Neutral Yield (Optimism)",
+      "symbol": "USDPY",
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/35863/thumb/hai-logo-200x200.png?1711190591"
+      "logoURI": "https://assets.coingecko.com/coins/images/40153/thumb/usdpy.png?1726073418"
+    },
+    {
+      "chainId": 10,
+      "address": "0x4200000000000000000000000000000000000042",
+      "name": "Optimism",
+      "symbol": "OP",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/25244/thumb/Token.png?1774456081"
+    },
+    {
+      "chainId": 10,
+      "address": "0x0a7b751fcdbbaa8bb988b9217ad5fb5cfe7bf7a0",
+      "name": "Infinite Trading Protocol",
+      "symbol": "ITP",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/68308/thumb/itplogo.png?1755327311"
+    },
+    {
+      "chainId": 10,
+      "address": "0xb153fb3d196a8eb25522705560ac152eeec57901",
+      "name": "Magic Internet Money (Optimism)",
+      "symbol": "MIM",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/37659/thumb/mim.png?1715165153"
+    },
+    {
+      "chainId": 10,
+      "address": "0xc5b001dc33727f8f26880b184090d3e252470d45",
+      "name": "Ethos Reserve Note",
+      "symbol": "ERN",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/29744/thumb/ERN200x200.png?1696528676"
+    },
+    {
+      "chainId": 10,
+      "address": "0x6926b434cce9b5b7966ae1bfeef6d0a7dcf3a8bb",
+      "name": "Exactly USD Coin",
+      "symbol": "EXAUSDC",
+      "decimals": 6,
+      "logoURI": "https://assets.coingecko.com/coins/images/50240/thumb/exaUSDC.png?1726676118"
+    },
+    {
+      "chainId": 10,
+      "address": "0xef4461891dfb3ac8572ccf7c794664a8dd927945",
+      "name": "WalletConnect Token",
+      "symbol": "WCT",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/50390/thumb/wc-token1.png?1727569464"
+    },
+    {
+      "chainId": 10,
+      "address": "0x9560e827af36c94d2ac33a39bce1fe78631088db",
+      "name": "Velodrome Finance",
+      "symbol": "VELO",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/25783/thumb/velo.png?1696524870"
     },
     {
       "chainId": 10,
@@ -120,11 +144,19 @@
     },
     {
       "chainId": 10,
-      "address": "0x513c7e3a9c69ca3e22550ef58ac1c0088e918fff",
-      "name": "Aave v3 OP",
-      "symbol": "AOP",
+      "address": "0x81c9a7b55a4df39a9b7b5f781ec0e53539694873",
+      "name": "Exactly USD.e Coin",
+      "symbol": "EXAUSDC.E",
+      "decimals": 6,
+      "logoURI": "https://assets.coingecko.com/coins/images/31175/thumb/ExaUSDC_1.png?1696530003"
+    },
+    {
+      "chainId": 10,
+      "address": "0x4200000000000000000000000000000000000006",
+      "name": "L2 Standard Bridged WETH (Optimism)",
+      "symbol": "WETH",
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/32919/thumb/op.png?1699825542"
+      "logoURI": "https://assets.coingecko.com/coins/images/39715/thumb/WETH.PNG?1723731805"
     },
     {
       "chainId": 10,
@@ -144,11 +176,11 @@
     },
     {
       "chainId": 10,
-      "address": "0x9560e827af36c94d2ac33a39bce1fe78631088db",
-      "name": "Velodrome Finance",
-      "symbol": "VELO",
+      "address": "0x10398abc267496e49106b07dd6be13364d10dc71",
+      "name": "Let's Get HAI",
+      "symbol": "HAI",
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/25783/thumb/velo.png?1696524870"
+      "logoURI": "https://assets.coingecko.com/coins/images/35863/thumb/hai-logo-200x200.png?1711190591"
     },
     {
       "chainId": 10,
@@ -168,59 +200,19 @@
     },
     {
       "chainId": 10,
-      "address": "0x4200000000000000000000000000000000000042",
-      "name": "Optimism",
-      "symbol": "OP",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/25244/thumb/Optimism.png?1696524385"
-    },
-    {
-      "chainId": 10,
-      "address": "0xb5090d514bcaca7dafb7e52763658844121f346d",
-      "name": "Binary Holdings",
-      "symbol": "BNRY",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/37521/thumb/Vector-1.png?1714634222"
-    },
-    {
-      "chainId": 10,
-      "address": "0xef4461891dfb3ac8572ccf7c794664a8dd927945",
-      "name": "WalletConnect Token",
-      "symbol": "WCT",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/50390/thumb/wc-token1.png?1727569464"
-    },
-    {
-      "chainId": 10,
-      "address": "0x8fb94e08bc984497aaaf1a545ed455be89f8c675",
-      "name": "Aktionariat TV PLUS AG Tokenized Shares",
-      "symbol": "TVPLS",
-      "decimals": 0,
-      "logoURI": "https://assets.coingecko.com/coins/images/33375/thumb/TVPLS.png?1701649948"
-    },
-    {
-      "chainId": 10,
-      "address": "0x0a7b751fcdbbaa8bb988b9217ad5fb5cfe7bf7a0",
-      "name": "Infinite Trading Protocol",
-      "symbol": "ITP",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/68308/thumb/itplogo.png?1755327311"
-    },
-    {
-      "chainId": 10,
-      "address": "0x6926b434cce9b5b7966ae1bfeef6d0a7dcf3a8bb",
-      "name": "Exactly USD Coin",
-      "symbol": "EXAUSDC",
-      "decimals": 6,
-      "logoURI": "https://assets.coingecko.com/coins/images/50240/thumb/exaUSDC.png?1726676118"
-    },
-    {
-      "chainId": 10,
       "address": "0xe64b4eb5eec6343887c4683da31f0ca62ea39ce3",
       "name": "Aktionariat BEE Digital Growth AG Tokenized Shares",
       "symbol": "BEES",
       "decimals": 0,
       "logoURI": "https://assets.coingecko.com/coins/images/33367/thumb/BEES.png?1701613820"
+    },
+    {
+      "chainId": 10,
+      "address": "0xa72f7df6c1454096387dbb74f70b3dac4f0a61f5",
+      "name": "Aktionariat Carnault AG Tokenized Shares",
+      "symbol": "CAS",
+      "decimals": 0,
+      "logoURI": "https://assets.coingecko.com/coins/images/33334/thumb/CAS.png?1701519269"
     },
     {
       "chainId": 10,
@@ -232,19 +224,19 @@
     },
     {
       "chainId": 10,
-      "address": "0x0d82b5d3a8420c285c6d353a6bdc30d164bb50f0",
-      "name": "Aktionariat Sportsparadise Switzerland AG Tokenized Shares",
-      "symbol": "SPOS",
-      "decimals": 0,
-      "logoURI": "https://assets.coingecko.com/coins/images/33391/thumb/SPOS.png?1701680250"
+      "address": "0x513c7e3a9c69ca3e22550ef58ac1c0088e918fff",
+      "name": "Aave v3 OP",
+      "symbol": "AOP",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/32919/thumb/op.png?1699825542"
     },
     {
       "chainId": 10,
-      "address": "0x5ad323d764301e057614edb0449f470d68ea9485",
-      "name": "Aktionariat SIA Swiss Influencer Award AG Tokenized Shares",
-      "symbol": "SIAS",
-      "decimals": 0,
-      "logoURI": "https://assets.coingecko.com/coins/images/33373/thumb/SIA.png?1701649606"
+      "address": "0xb5090d514bcaca7dafb7e52763658844121f346d",
+      "name": "Binary Holdings",
+      "symbol": "BNRY",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/37521/thumb/Vector-1.png?1714634222"
     },
     {
       "chainId": 10,
@@ -264,27 +256,35 @@
     },
     {
       "chainId": 10,
+      "address": "0x8fb94e08bc984497aaaf1a545ed455be89f8c675",
+      "name": "Aktionariat TV PLUS AG Tokenized Shares",
+      "symbol": "TVPLS",
+      "decimals": 0,
+      "logoURI": "https://assets.coingecko.com/coins/images/33375/thumb/TVPLS.png?1701649948"
+    },
+    {
+      "chainId": 10,
+      "address": "0x5ad323d764301e057614edb0449f470d68ea9485",
+      "name": "Aktionariat SIA Swiss Influencer Award AG Tokenized Shares",
+      "symbol": "SIAS",
+      "decimals": 0,
+      "logoURI": "https://assets.coingecko.com/coins/images/33373/thumb/SIA.png?1701649606"
+    },
+    {
+      "chainId": 10,
+      "address": "0x0d82b5d3a8420c285c6d353a6bdc30d164bb50f0",
+      "name": "Aktionariat Sportsparadise Switzerland AG Tokenized Shares",
+      "symbol": "SPOS",
+      "decimals": 0,
+      "logoURI": "https://assets.coingecko.com/coins/images/33391/thumb/SPOS.png?1701680250"
+    },
+    {
+      "chainId": 10,
       "address": "0xda10009cbd5d07dd0cecc66161fc93d7c9000da1",
       "name": "MakerDAO Optimism Bridged DAI (Optimism)",
       "symbol": "DAI",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/39818/thumb/dai.png?1724190656"
-    },
-    {
-      "chainId": 10,
-      "address": "0x81c9a7b55a4df39a9b7b5f781ec0e53539694873",
-      "name": "Exactly USD.e Coin",
-      "symbol": "EXAUSDC.E",
-      "decimals": 6,
-      "logoURI": "https://assets.coingecko.com/coins/images/31175/thumb/ExaUSDC_1.png?1696530003"
-    },
-    {
-      "chainId": 10,
-      "address": "0x4200000000000000000000000000000000000006",
-      "name": "L2 Standard Bridged WETH (Optimism)",
-      "symbol": "WETH",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/39715/thumb/WETH.PNG?1723731805"
     },
     {
       "chainId": 10,
@@ -741,14 +741,6 @@
       "symbol": "ZRO",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/28206/thumb/ftxG9_TJ_400x400.jpeg?1696527208"
-    },
-    {
-      "chainId": 10,
-      "address": "0x2b1d36f5b61addaf7da7ebbd11b35fd8cfb0de31",
-      "name": "Interport Token",
-      "symbol": "ITP",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/28338/thumb/ITP_Logo_200.png?1696527344"
     },
     {
       "chainId": 10,
@@ -1864,14 +1856,6 @@
     },
     {
       "chainId": 10,
-      "address": "0x087c440f251ff6cfe62b86dde1be558b95b4bb9b",
-      "name": "Legacy BOLD",
-      "symbol": "BOLD",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/53755/thumb/BOLD_logo.png?1737183873"
-    },
-    {
-      "chainId": 10,
       "address": "0xf4f447e6afa04c9d11ef0e2fc0d7f19c24ee55de",
       "name": "YieldFi vyUSD",
       "symbol": "VYUSD",
@@ -2016,7 +2000,7 @@
     }
   ],
   "version": {
-    "major": 78,
+    "major": 80,
     "minor": 0,
     "patch": 0
   }

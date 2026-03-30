@@ -4,24 +4,8 @@
   "keywords": [
     "defi"
   ],
-  "timestamp": "2026-03-07T11:00:18.620+00:00",
+  "timestamp": "2026-03-26T09:00:18.580+00:00",
   "tokens": [
-    {
-      "chainId": 39797,
-      "address": "0x78b050d981d7f6e019bf6e361d0d1167de6b19da",
-      "name": "Multichain Bridged WETH (Energi)",
-      "symbol": "WETH",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/39692/thumb/weth.png?1723670286"
-    },
-    {
-      "chainId": 39797,
-      "address": "0xa55f26319462355474a9f2c8790860776a329aa4",
-      "name": "Wrapped Energi",
-      "symbol": "WNRG",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/25462/thumb/Energi.jpeg?1696524592"
-    },
     {
       "chainId": 39797,
       "address": "0x0ee5893f434017d8881750101ea2f7c49c0eb503",
@@ -29,6 +13,14 @@
       "symbol": "DAI",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/39802/thumb/dai.png?1724125849"
+    },
+    {
+      "chainId": 39797,
+      "address": "0x78b050d981d7f6e019bf6e361d0d1167de6b19da",
+      "name": "Multichain Bridged WETH (Energi)",
+      "symbol": "WETH",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/39692/thumb/weth.png?1723670286"
     },
     {
       "chainId": 39797,
@@ -40,19 +32,27 @@
     },
     {
       "chainId": 39797,
-      "address": "0xffd7510ca0a3279c7a5f50018a26c21d5bc1dbcf",
-      "name": "Energi Bridged USDC (Energi)",
-      "symbol": "USDC",
-      "decimals": 6,
-      "logoURI": "https://assets.coingecko.com/coins/images/35323/thumb/USDC.jpg?1708178353"
-    },
-    {
-      "chainId": 39797,
       "address": "0xc3c19ee91cf3c1f7fbf3716a09d21dc35de0bd6d",
       "name": "Multichain Bridged WBNB (Energi)",
       "symbol": "WBNB",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/53080/thumb/wrapped_bnb.png?1735265046"
+    },
+    {
+      "chainId": 39797,
+      "address": "0xa55f26319462355474a9f2c8790860776a329aa4",
+      "name": "Wrapped Energi",
+      "symbol": "WNRG",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/25462/thumb/Energi.jpeg?1696524592"
+    },
+    {
+      "chainId": 39797,
+      "address": "0xffd7510ca0a3279c7a5f50018a26c21d5bc1dbcf",
+      "name": "Energi Bridged USDC (Energi)",
+      "symbol": "USDC",
+      "decimals": 6,
+      "logoURI": "https://assets.coingecko.com/coins/images/35323/thumb/USDC.jpg?1708178353"
     },
     {
       "chainId": 39797,
@@ -125,14 +125,6 @@
       "symbol": "NEXO",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/3695/thumb/CG-nexo-token-200x200_2x.png?1730414360"
-    },
-    {
-      "chainId": 39797,
-      "address": "0x1bf6ea422574e0f5d336083a771768cb4e11390d",
-      "name": "Pundi X [OLD]",
-      "symbol": "NPXS",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/2170/thumb/pundi-x.png?1696503130"
     },
     {
       "chainId": 39797,
@@ -856,7 +848,7 @@
     }
   ],
   "version": {
-    "major": 18,
+    "major": 19,
     "minor": 0,
     "patch": 0
   }

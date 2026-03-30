@@ -4,8 +4,16 @@
   "keywords": [
     "defi"
   ],
-  "timestamp": "2026-03-16T09:00:52.077+00:00",
+  "timestamp": "2026-03-29T09:00:55.193+00:00",
   "tokens": [
+    {
+      "chainId": 534352,
+      "address": "0x0fc479e2f9b7310bfb1db606cf565dea6910eedc",
+      "name": "Papyrus Swap",
+      "symbol": "PAPYRUS",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/32479/thumb/PapyrusLogo.png?1698286849"
+    },
     {
       "chainId": 534352,
       "address": "0xf610a9dfb7c89644979b4a0f27063e9e7d7cda32",
@@ -16,11 +24,11 @@
     },
     {
       "chainId": 534352,
-      "address": "0x0fc479e2f9b7310bfb1db606cf565dea6910eedc",
-      "name": "Papyrus Swap",
-      "symbol": "PAPYRUS",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/32479/thumb/PapyrusLogo.png?1698286849"
+      "address": "0x06efdbff2a14a7c8e15944d1f4a48f9f95f663a4",
+      "name": "Bridged USD Coin (Scroll)",
+      "symbol": "USDC",
+      "decimals": 6,
+      "logoURI": "https://assets.coingecko.com/coins/images/32611/thumb/USDC.png?1698733754"
     },
     {
       "chainId": 534352,
@@ -32,22 +40,6 @@
     },
     {
       "chainId": 534352,
-      "address": "0x5300000000000000000000000000000000000004",
-      "name": "Bridged Wrapped Ether (Scroll)",
-      "symbol": "WETH",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/32315/thumb/weth_%281%29.png?1697365181"
-    },
-    {
-      "chainId": 534352,
-      "address": "0xcb14bcdf6cd483665d10dfd6f87d908996c7f922",
-      "name": "sUSX",
-      "symbol": "SUSX",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/71611/thumb/Frame_1171274144_%281%29.png?1768548299"
-    },
-    {
-      "chainId": 534352,
       "address": "0xf55bec9cafdbe8730f096aa55dad6d22d44099df",
       "name": "Scroll Bridged USDT (Scroll)",
       "symbol": "USDT",
@@ -56,11 +48,11 @@
     },
     {
       "chainId": 534352,
-      "address": "0x3c1bca5a656e69edcd0d4e36bebb3fcdaca60cf1",
-      "name": "Bridged Wrapped Bitcoin (Scroll)",
-      "symbol": "WBTC",
-      "decimals": 8,
-      "logoURI": "https://assets.coingecko.com/coins/images/32614/thumb/wrapped_bitcoin_wbtc.png?1698735124"
+      "address": "0xcb14bcdf6cd483665d10dfd6f87d908996c7f922",
+      "name": "sUSX",
+      "symbol": "SUSX",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/71611/thumb/Frame_1171274144_%281%29.png?1768548299"
     },
     {
       "chainId": 534352,
@@ -80,27 +72,19 @@
     },
     {
       "chainId": 534352,
+      "address": "0x5300000000000000000000000000000000000004",
+      "name": "Bridged Wrapped Ether (Scroll)",
+      "symbol": "WETH",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/32315/thumb/weth_%281%29.png?1697365181"
+    },
+    {
+      "chainId": 534352,
       "address": "0x3b005fefc63ca7c8d25ee21fba3787229ba4cf03",
       "name": "USX",
       "symbol": "USX",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/71020/thumb/usx.png?1765270693"
-    },
-    {
-      "chainId": 534352,
-      "address": "0x750351a9f75f98f2c2e91d4edb3beb14e719557e",
-      "name": "Scribes",
-      "symbol": "SCRIBES",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/38185/thumb/scribes.png?1716788481"
-    },
-    {
-      "chainId": 534352,
-      "address": "0x06efdbff2a14a7c8e15944d1f4a48f9f95f663a4",
-      "name": "Bridged USD Coin (Scroll)",
-      "symbol": "USDC",
-      "decimals": 6,
-      "logoURI": "https://assets.coingecko.com/coins/images/32611/thumb/USDC.png?1698733754"
     },
     {
       "chainId": 534352,
@@ -112,11 +96,19 @@
     },
     {
       "chainId": 534352,
-      "address": "0xdb9e8f82d6d45fff803161f2a5f75543972b229a",
-      "name": "Quill USDQ",
-      "symbol": "USDQ",
+      "address": "0x3c1bca5a656e69edcd0d4e36bebb3fcdaca60cf1",
+      "name": "Bridged Wrapped Bitcoin (Scroll)",
+      "symbol": "WBTC",
+      "decimals": 8,
+      "logoURI": "https://assets.coingecko.com/coins/images/32614/thumb/wrapped_bitcoin_wbtc.png?1698735124"
+    },
+    {
+      "chainId": 534352,
+      "address": "0x750351a9f75f98f2c2e91d4edb3beb14e719557e",
+      "name": "Scribes",
+      "symbol": "SCRIBES",
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/66132/thumb/image_%289%29.png?1748439949"
+      "logoURI": "https://assets.coingecko.com/coins/images/38185/thumb/scribes.png?1716788481"
     },
     {
       "chainId": 534352,
@@ -288,14 +280,6 @@
     },
     {
       "chainId": 534352,
-      "address": "0x2b1d36f5b61addaf7da7ebbd11b35fd8cfb0de31",
-      "name": "Interport Token",
-      "symbol": "ITP",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/28338/thumb/ITP_Logo_200.png?1696527344"
-    },
-    {
-      "chainId": 534352,
       "address": "0xb9010964301326160173da694c0697a2fce82f39",
       "name": "DackieSwap [OLD]",
       "symbol": "DACKIE",
@@ -309,14 +293,6 @@
       "symbol": "LINK",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/877/thumb/Chainlink_Logo_500.png?1760023405"
-    },
-    {
-      "chainId": 534352,
-      "address": "0x087c440f251ff6cfe62b86dde1be558b95b4bb9b",
-      "name": "Legacy BOLD",
-      "symbol": "BOLD",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/53755/thumb/BOLD_logo.png?1737183873"
     },
     {
       "chainId": 534352,
@@ -368,7 +344,7 @@
     }
   ],
   "version": {
-    "major": 18,
+    "major": 21,
     "minor": 0,
     "patch": 0
   }

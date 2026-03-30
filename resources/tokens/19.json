@@ -4,8 +4,16 @@
   "keywords": [
     "defi"
   ],
-  "timestamp": "2025-11-06T10:00:17.156+00:00",
+  "timestamp": "2026-03-23T11:00:11.249+00:00",
   "tokens": [
+    {
+      "chainId": 19,
+      "address": "0x02f0826ef6ad107cfc861152b32b52fd11bab9ed",
+      "name": "Wrapped Songbird",
+      "symbol": "WSGB",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/28770/thumb/songbird.jpeg?1696527750"
+    },
     {
       "chainId": 19,
       "address": "0xd7565b16b65376e2ddb6c71e7971c7185a7ff3ff",
@@ -13,22 +21,6 @@
       "symbol": "ORACLE",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/28123/thumb/OS_Logo_200.png?1696527131"
-    },
-    {
-      "chainId": 19,
-      "address": "0xf810576a68c3731875bde07404be815b16fc0b4e",
-      "name": "Prophet",
-      "symbol": "PRO",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/28124/thumb/PRO_Logo_200.png?1696527131"
-    },
-    {
-      "chainId": 19,
-      "address": "0xb2987753d1561570f726aa373f48e77e27aa5ff4",
-      "name": "Pangolin Songbird",
-      "symbol": "PSB",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/27383/thumb/PSB_token.png?1696526426"
     },
     {
       "chainId": 19,
@@ -40,11 +32,11 @@
     },
     {
       "chainId": 19,
-      "address": "0x02f0826ef6ad107cfc861152b32b52fd11bab9ed",
-      "name": "Wrapped Songbird",
-      "symbol": "WSGB",
+      "address": "0xf810576a68c3731875bde07404be815b16fc0b4e",
+      "name": "Prophet",
+      "symbol": "PRO",
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/28770/thumb/songbird.jpeg?1696527750"
+      "logoURI": "https://assets.coingecko.com/coins/images/28124/thumb/PRO_Logo_200.png?1696527131"
     },
     {
       "chainId": 19,
@@ -56,7 +48,7 @@
     }
   ],
   "version": {
-    "major": 4,
+    "major": 5,
     "minor": 0,
     "patch": 0
   }
