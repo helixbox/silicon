@@ -4,15 +4,15 @@
   "keywords": [
     "defi"
   ],
-  "timestamp": "2026-03-12T16:00:11.111+00:00",
+  "timestamp": "2026-04-02T11:00:12.105+00:00",
   "tokens": [
     {
       "chainId": 1666600000,
-      "address": "0xe176ebe47d621b984a73036b9da5d834411ef734",
-      "name": "Harmony Horizen Bridged BUSD (Harmony)",
-      "symbol": "BUSD",
+      "address": "0xcf664087a5bb0237a0bad6742852ec6c8d69a27a",
+      "name": "Wrapped One",
+      "symbol": "WONE",
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/36882/thumb/harmony-horizen-bridged-busd-harmony.jpg?1772704345"
+      "logoURI": "https://assets.coingecko.com/coins/images/18183/thumb/wonelogo.png?1696517683"
     },
     {
       "chainId": 1666600000,
@@ -24,11 +24,11 @@
     },
     {
       "chainId": 1666600000,
-      "address": "0xcf664087a5bb0237a0bad6742852ec6c8d69a27a",
-      "name": "Wrapped One",
-      "symbol": "WONE",
+      "address": "0x22fb638a010e922d53fd2671a598a3334c228b62",
+      "name": "Speed Star JOC",
+      "symbol": "JOC",
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/18183/thumb/wonelogo.png?1696517683"
+      "logoURI": "https://assets.coingecko.com/coins/images/24883/thumb/f2zOnAa4_400x400.jpg?1696524042"
     },
     {
       "chainId": 1666600000,
@@ -48,14 +48,6 @@
     },
     {
       "chainId": 1666600000,
-      "address": "0x22fb638a010e922d53fd2671a598a3334c228b62",
-      "name": "Speed Star JOC",
-      "symbol": "JOC",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/24883/thumb/f2zOnAa4_400x400.jpg?1696524042"
-    },
-    {
-      "chainId": 1666600000,
       "address": "0x2dae9ac8e3195715f308b59e7e9326f115ab4d98",
       "name": "Speed Star SPEED",
       "symbol": "SPEED",
@@ -69,6 +61,14 @@
       "symbol": "1ETH",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/39710/thumb/WETH.PNG?1723730735"
+    },
+    {
+      "chainId": 1666600000,
+      "address": "0xe176ebe47d621b984a73036b9da5d834411ef734",
+      "name": "Harmony Horizen Bridged BUSD (Harmony)",
+      "symbol": "BUSD",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/36882/thumb/harmony-horizen-bridged-busd-harmony.jpg?1772704345"
     },
     {
       "chainId": 1666600000,
@@ -336,14 +336,6 @@
     },
     {
       "chainId": 1666600000,
-      "address": "0x85fd5f8dbd0c9ef1806e6c7d4b787d438621c1dc",
-      "name": "Iris",
-      "symbol": "IRIS",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/18361/thumb/hermes.PNG?1696517854"
-    },
-    {
-      "chainId": 1666600000,
       "address": "0x5693fe17ad04f0d8f768ceeb863e62b522901440",
       "name": "Furucombo",
       "symbol": "COMBO",
@@ -608,7 +600,7 @@
     }
   ],
   "version": {
-    "major": 32,
+    "major": 33,
     "minor": 0,
     "patch": 0
   }
