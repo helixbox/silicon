@@ -4,31 +4,15 @@
   "keywords": [
     "defi"
   ],
-  "timestamp": "2026-03-28T18:00:04.679+00:00",
+  "timestamp": "2026-04-06T10:00:04.656+00:00",
   "tokens": [
     {
       "chainId": 747474,
-      "address": "0x7f1f4b4b29f5058fa32cc7a97141b8d7e5abdc2d",
-      "name": "Katana",
-      "symbol": "KAT",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/70225/thumb/katana-social-icon.png?1761121098"
-    },
-    {
-      "chainId": 747474,
-      "address": "0x7fb4d0f51544f24f385a421db6e7d4fc71ad8e5c",
-      "name": "Polygon zkEVM Bridged wstETH (Katana)",
-      "symbol": "WSTETH",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/70008/thumb/wsteth.png?1760347317"
-    },
-    {
-      "chainId": 747474,
-      "address": "0x203a662b0bd271a6ed5a60edfbd04bfce608fd36",
-      "name": "VaultBridge Bridged USDC (Katana)",
-      "symbol": "VBUSDC",
+      "address": "0x2dca96907fde857dd3d816880a0df407eeb2d2f2",
+      "name": "Vault Bridge Bridged USDT (Katana)",
+      "symbol": "VBUSDT",
       "decimals": 6,
-      "logoURI": "https://assets.coingecko.com/coins/images/67043/thumb/usdc1.png?1751581304"
+      "logoURI": "https://assets.coingecko.com/coins/images/67046/thumb/usdt.png?1751581786"
     },
     {
       "chainId": 747474,
@@ -40,11 +24,11 @@
     },
     {
       "chainId": 747474,
-      "address": "0x7231dbacdfc968e07656d12389ab20de82fbfceb",
-      "name": "Autocompounding Voting KAT",
-      "symbol": "AVKAT",
+      "address": "0x7f1f4b4b29f5058fa32cc7a97141b8d7e5abdc2d",
+      "name": "Katana",
+      "symbol": "KAT",
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/102172675/thumb/avKAT-200.png?1774713450"
+      "logoURI": "https://assets.coingecko.com/coins/images/70225/thumb/katana-social-icon.png?1761121098"
     },
     {
       "chainId": 747474,
@@ -56,11 +40,19 @@
     },
     {
       "chainId": 747474,
-      "address": "0x2dca96907fde857dd3d816880a0df407eeb2d2f2",
-      "name": "Vault Bridge Bridged USDT (Katana)",
-      "symbol": "VBUSDT",
+      "address": "0x203a662b0bd271a6ed5a60edfbd04bfce608fd36",
+      "name": "VaultBridge Bridged USDC (Katana)",
+      "symbol": "VBUSDC",
       "decimals": 6,
-      "logoURI": "https://assets.coingecko.com/coins/images/67046/thumb/usdt.png?1751581786"
+      "logoURI": "https://assets.coingecko.com/coins/images/67043/thumb/usdc1.png?1751581304"
+    },
+    {
+      "chainId": 747474,
+      "address": "0x7231dbacdfc968e07656d12389ab20de82fbfceb",
+      "name": "Autocompounding Voting KAT",
+      "symbol": "AVKAT",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/102172675/thumb/avKAT-200.png?1774713450"
     },
     {
       "chainId": 747474,
@@ -69,6 +61,14 @@
       "symbol": "BTCK",
       "decimals": 8,
       "logoURI": "https://assets.coingecko.com/coins/images/68287/thumb/btc.png?1755248096"
+    },
+    {
+      "chainId": 747474,
+      "address": "0x7fb4d0f51544f24f385a421db6e7d4fc71ad8e5c",
+      "name": "Polygon zkEVM Bridged wstETH (Katana)",
+      "symbol": "WSTETH",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/70008/thumb/wsteth.png?1760347317"
     },
     {
       "chainId": 747474,
@@ -168,6 +168,14 @@
     },
     {
       "chainId": 747474,
+      "address": "0x4809010926aec940b550d34a46a52739f996d75d",
+      "name": "Wrapped Savings rUSD",
+      "symbol": "WSRUSD",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/66163/thumb/wsrUSD.png?1748500965"
+    },
+    {
+      "chainId": 747474,
       "address": "0x6c16e26013f2431e8b2e1ba7067ecccad0db6c52",
       "name": "Jito Staked SOL",
       "symbol": "JITOSOL",
@@ -209,7 +217,7 @@
   ],
   "version": {
     "major": 1,
-    "minor": 1,
+    "minor": 2,
     "patch": 0
   }
 }

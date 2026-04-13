@@ -4,16 +4,8 @@
   "keywords": [
     "defi"
   ],
-  "timestamp": "2026-03-26T07:00:22.236+00:00",
+  "timestamp": "2026-04-06T09:00:25.881+00:00",
   "tokens": [
-    {
-      "chainId": 130,
-      "address": "0x756ee6857f915a2b5366f2ef56d8d13857aef8ad",
-      "name": "Catex",
-      "symbol": "CATX",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/67331/thumb/Catex_logo_Coinbgecko.png?1752402945"
-    },
     {
       "chainId": 130,
       "address": "0x984ae4c68fb3ec037fac36d48622f30eb5ae1361",
@@ -61,6 +53,14 @@
       "symbol": "HOONI",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/54996/thumb/hooni-logo-fixed.png?1743095425"
+    },
+    {
+      "chainId": 130,
+      "address": "0x756ee6857f915a2b5366f2ef56d8d13857aef8ad",
+      "name": "Catex",
+      "symbol": "CATX",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/67331/thumb/Catex_logo_Coinbgecko.png?1752402945"
     },
     {
       "chainId": 130,
@@ -232,6 +232,14 @@
     },
     {
       "chainId": 130,
+      "address": "0x4809010926aec940b550d34a46a52739f996d75d",
+      "name": "Wrapped Savings rUSD",
+      "symbol": "WSRUSD",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/66163/thumb/wsrUSD.png?1748500965"
+    },
+    {
+      "chainId": 130,
       "address": "0x64445f0aecc51e94ad52d8ac56b7190e764e561a",
       "name": "Wrapped FRAX",
       "symbol": "WFRAX",
@@ -321,7 +329,7 @@
   ],
   "version": {
     "major": 4,
-    "minor": 1,
+    "minor": 2,
     "patch": 0
   }
 }

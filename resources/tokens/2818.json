@@ -4,7 +4,7 @@
   "keywords": [
     "defi"
   ],
-  "timestamp": "2026-03-12T11:00:36.532+00:00",
+  "timestamp": "2026-04-09T17:00:38.179+00:00",
   "tokens": [
     {
       "chainId": 2818,
@@ -32,22 +32,6 @@
     },
     {
       "chainId": 2818,
-      "address": "0xe7cd86e13ac4309349f30b3435a9d337750fc82d",
-      "name": "USDT0",
-      "symbol": "USDT0",
-      "decimals": 6,
-      "logoURI": "https://assets.coingecko.com/coins/images/53705/thumb/usdt0.jpg?1737086183"
-    },
-    {
-      "chainId": 2818,
-      "address": "0xcfb1186f4e93d60e60a8bdd997427d1f33bc372b",
-      "name": "USDC",
-      "symbol": "USDC",
-      "decimals": 6,
-      "logoURI": "https://assets.coingecko.com/coins/images/6319/thumb/USDC.png?1769615602"
-    },
-    {
-      "chainId": 2818,
       "address": "0x5d3a1ff2b6bab83b63cd9ad0787074081a52ef34",
       "name": "Ethena USDe",
       "symbol": "USDE",
@@ -72,6 +56,14 @@
     },
     {
       "chainId": 2818,
+      "address": "0x389c08bc23a7317000a1fd76c7c5b0cb0b4640b5",
+      "name": "Bitget Token",
+      "symbol": "BGB",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/11610/thumb/Bitget_logo.png?1736925727"
+    },
+    {
+      "chainId": 2818,
       "address": "0x58538e6a46e07434d7e7375bc268d3cb839c0133",
       "name": "Ethena",
       "symbol": "ENA",
@@ -80,11 +72,11 @@
     },
     {
       "chainId": 2818,
-      "address": "0x55d1f1879969bdbb9960d269974564c58dbc3238",
-      "name": "Bitget Token",
-      "symbol": "BGB",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/11610/thumb/Bitget_logo.png?1736925727"
+      "address": "0xe7cd86e13ac4309349f30b3435a9d337750fc82d",
+      "name": "USDT0",
+      "symbol": "USDT0",
+      "decimals": 6,
+      "logoURI": "https://assets.coingecko.com/coins/images/53705/thumb/usdt0.jpg?1737086183"
     },
     {
       "chainId": 2818,
@@ -101,11 +93,19 @@
       "symbol": "USD1",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/54977/thumb/USD1_1000x1000_transparent.png?1749297002"
+    },
+    {
+      "chainId": 2818,
+      "address": "0xcfb1186f4e93d60e60a8bdd997427d1f33bc372b",
+      "name": "USDC",
+      "symbol": "USDC",
+      "decimals": 6,
+      "logoURI": "https://assets.coingecko.com/coins/images/6319/thumb/USDC.png?1769615602"
     }
   ],
   "version": {
-    "major": 2,
-    "minor": 2,
+    "major": 3,
+    "minor": 0,
     "patch": 0
   }
 }

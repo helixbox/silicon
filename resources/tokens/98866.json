@@ -4,8 +4,24 @@
   "keywords": [
     "defi"
   ],
-  "timestamp": "2026-04-02T08:00:04.081+00:00",
+  "timestamp": "2026-04-06T08:00:03.854+00:00",
   "tokens": [
+    {
+      "chainId": 98866,
+      "address": "0xdf45b8322ea4ce898331602e2d1f3d1a67ae0ee8",
+      "name": "Nest Liquid Credit Vault",
+      "symbol": "NLCRD",
+      "decimals": 6,
+      "logoURI": "https://assets.coingecko.com/coins/images/102172627/thumb/nLCRD-token.png?1774372939"
+    },
+    {
+      "chainId": 98866,
+      "address": "0xea237441c92cae6fc17caaf9a7acb3f953be4bd1",
+      "name": "Wrapped Plume",
+      "symbol": "WPLUME",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/70470/thumb/plume.jpg?1762154772"
+    },
     {
       "chainId": 98866,
       "address": "0x2b89048d45e9eff64bc5ff563b8ba40a2f0aa83e",
@@ -13,22 +29,6 @@
       "symbol": "NGPRIME",
       "decimals": 6,
       "logoURI": "https://assets.coingecko.com/coins/images/70786/thumb/Vault_nGPRIME.png?1763752504"
-    },
-    {
-      "chainId": 98866,
-      "address": "0xd99076fcfd61b3695c5a00740364a84ac8c46cba",
-      "name": "Nest Perena Vault",
-      "symbol": "NPERENA",
-      "decimals": 6,
-      "logoURI": "https://assets.coingecko.com/coins/images/102172628/thumb/nPERENA-token.png?1774372959"
-    },
-    {
-      "chainId": 98866,
-      "address": "0x2a3e301dbd45c143dfbb7b1ce1c55bf0bbf161cb",
-      "name": "Nest Apollo ACRDX Vault",
-      "symbol": "NACRDX",
-      "decimals": 6,
-      "logoURI": "https://assets.coingecko.com/coins/images/70512/thumb/Nest_ACRDX_Vault.png?1762268426"
     },
     {
       "chainId": 98866,
@@ -40,19 +40,27 @@
     },
     {
       "chainId": 98866,
+      "address": "0x2a3e301dbd45c143dfbb7b1ce1c55bf0bbf161cb",
+      "name": "Nest Apollo ACRDX Vault",
+      "symbol": "NACRDX",
+      "decimals": 6,
+      "logoURI": "https://assets.coingecko.com/coins/images/70512/thumb/Nest_ACRDX_Vault.png?1762268426"
+    },
+    {
+      "chainId": 98866,
+      "address": "0xd99076fcfd61b3695c5a00740364a84ac8c46cba",
+      "name": "Nest Perena Vault",
+      "symbol": "NPERENA",
+      "decimals": 6,
+      "logoURI": "https://assets.coingecko.com/coins/images/102172628/thumb/nPERENA-token.png?1774372959"
+    },
+    {
+      "chainId": 98866,
       "address": "0x15c09c0ffb3717325e60a564d1acfbfe999c2f88",
       "name": "Dinari SRLN",
       "symbol": "SRLN.D",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/66390/thumb/d-token-200.png?1749284651"
-    },
-    {
-      "chainId": 98866,
-      "address": "0xea237441c92cae6fc17caaf9a7acb3f953be4bd1",
-      "name": "Wrapped Plume",
-      "symbol": "WPLUME",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/70470/thumb/plume.jpg?1762154772"
     },
     {
       "chainId": 98866,
@@ -77,14 +85,6 @@
       "symbol": "NSCOPE",
       "decimals": 6,
       "logoURI": "https://assets.coingecko.com/coins/images/102172626/thumb/nSCOPE-token.png?1774372903"
-    },
-    {
-      "chainId": 98866,
-      "address": "0xdf45b8322ea4ce898331602e2d1f3d1a67ae0ee8",
-      "name": "Nest Liquid Credit Vault",
-      "symbol": "NLCRD",
-      "decimals": 6,
-      "logoURI": "https://assets.coingecko.com/coins/images/102172627/thumb/nLCRD-token.png?1774372939"
     },
     {
       "chainId": 98866,
@@ -344,6 +344,14 @@
     },
     {
       "chainId": 98866,
+      "address": "0x0bbcc2c1991d0af8ec6a5ed922e6f5606923fe15",
+      "name": "Wrapped Savings rUSD",
+      "symbol": "WSRUSD",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/66163/thumb/wsrUSD.png?1748500965"
+    },
+    {
+      "chainId": 98866,
       "address": "0xe4fa682f94610ccd170680cc3b045d77d9e528a8",
       "name": "Superstate Short Duration U.S. Government Securities Fund (U",
       "symbol": "USTB",
@@ -449,7 +457,7 @@
   ],
   "version": {
     "major": 6,
-    "minor": 2,
+    "minor": 3,
     "patch": 0
   }
 }
