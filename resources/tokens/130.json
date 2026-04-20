@@ -4,8 +4,16 @@
   "keywords": [
     "defi"
   ],
-  "timestamp": "2026-04-06T09:00:25.881+00:00",
+  "timestamp": "2026-04-15T06:00:24.598+00:00",
   "tokens": [
+    {
+      "chainId": 130,
+      "address": "0x756ee6857f915a2b5366f2ef56d8d13857aef8ad",
+      "name": "Catex",
+      "symbol": "CATX",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/67331/thumb/Catex_logo_Coinbgecko.png?1752402945"
+    },
     {
       "chainId": 130,
       "address": "0x984ae4c68fb3ec037fac36d48622f30eb5ae1361",
@@ -32,19 +40,19 @@
     },
     {
       "chainId": 130,
-      "address": "0xabe69c550ea6ec22bed4b92614511c4f31bb0f64",
-      "name": "Abe",
-      "symbol": "ABE",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/68514/thumb/logo_circle_200.png?1756440524"
-    },
-    {
-      "chainId": 130,
       "address": "0x588ce4f028d8e7b53b687865d6a67b3a54c75518",
       "name": "Unichain Bridged USDT (Unichain)",
       "symbol": "USDT",
       "decimals": 6,
       "logoURI": "https://assets.coingecko.com/coins/images/66726/thumb/usdt.jpg?1750318933"
+    },
+    {
+      "chainId": 130,
+      "address": "0x4200000000000000000000000000000000000006",
+      "name": "Unichain Bridged WETH (Unichain)",
+      "symbol": "WETH",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/54331/thumb/weth_2.jpg?1739325052"
     },
     {
       "chainId": 130,
@@ -56,19 +64,11 @@
     },
     {
       "chainId": 130,
-      "address": "0x756ee6857f915a2b5366f2ef56d8d13857aef8ad",
-      "name": "Catex",
-      "symbol": "CATX",
+      "address": "0xabe69c550ea6ec22bed4b92614511c4f31bb0f64",
+      "name": "Abe",
+      "symbol": "ABE",
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/67331/thumb/Catex_logo_Coinbgecko.png?1752402945"
-    },
-    {
-      "chainId": 130,
-      "address": "0x4200000000000000000000000000000000000006",
-      "name": "Unichain Bridged WETH (Unichain)",
-      "symbol": "WETH",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/54331/thumb/weth_2.jpg?1739325052"
+      "logoURI": "https://assets.coingecko.com/coins/images/68514/thumb/logo_circle_200.png?1756440524"
     },
     {
       "chainId": 130,
@@ -300,7 +300,7 @@
       "name": "Wild Goat Coin",
       "symbol": "WGC",
       "decimals": 6,
-      "logoURI": "https://assets.coingecko.com/coins/images/37966/thumb/wgcCoin-256px.png?1768798052"
+      "logoURI": "https://assets.coingecko.com/coins/images/37966/thumb/wgc-v3-logo.png?1776225874"
     },
     {
       "chainId": 130,
@@ -330,6 +330,6 @@
   "version": {
     "major": 4,
     "minor": 2,
-    "patch": 0
+    "patch": 1
   }
 }

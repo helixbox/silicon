@@ -4,8 +4,32 @@
   "keywords": [
     "defi"
   ],
-  "timestamp": "2026-01-19T07:00:22.655+00:00",
+  "timestamp": "2026-04-15T05:00:19.751+00:00",
   "tokens": [
+    {
+      "chainId": 1868,
+      "address": "0xa8feaae65c44b458a16ea4e709036a2ee85d073a",
+      "name": "Mother of Memes",
+      "symbol": "HAHA",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/36245/thumb/HAHA_Logo.png?1710921482"
+    },
+    {
+      "chainId": 1868,
+      "address": "0x9317841c2e9f6bcb44119c184152cfb1ef79034a",
+      "name": "Lootcoin",
+      "symbol": "LOOT",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/71197/thumb/lootcoin-logo.jpg?1766302463"
+    },
+    {
+      "chainId": 1868,
+      "address": "0xf24e57b1cb00d98c31f04f86328e22e8fca457fb",
+      "name": "SONE",
+      "symbol": "SONE",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/53814/thumb/20250116-173015.png?1737432919"
+    },
     {
       "chainId": 1868,
       "address": "0x3a337a6ada9d885b6ad95ec48f9b75f197b5ae35",
@@ -13,6 +37,30 @@
       "symbol": "USDT",
       "decimals": 6,
       "logoURI": "https://assets.coingecko.com/coins/images/53779/thumb/usdt.jpg?1737341724"
+    },
+    {
+      "chainId": 1868,
+      "address": "0x3f99231dd03a9f0e7e3421c92b7b90fbe012985a",
+      "name": "Startale USD",
+      "symbol": "USDSC",
+      "decimals": 6,
+      "logoURI": "https://assets.coingecko.com/coins/images/70883/thumb/stataleusd_2x.png?1764684119"
+    },
+    {
+      "chainId": 1868,
+      "address": "0xba9986d2381edf1da03b0b9c1f8b00dc4aacc369",
+      "name": "Soneium Bridged USDC (Soneium)",
+      "symbol": "USDC.E",
+      "decimals": 6,
+      "logoURI": "https://assets.coingecko.com/coins/images/53776/thumb/usdc.jpg?1737340150"
+    },
+    {
+      "chainId": 1868,
+      "address": "0x4200000000000000000000000000000000000006",
+      "name": "Superbridge Bridged WETH (Soneium)",
+      "symbol": "WETH",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/53777/thumb/weth_2.jpg?1737340348"
     },
     {
       "chainId": 1868,
@@ -40,59 +88,11 @@
     },
     {
       "chainId": 1868,
-      "address": "0xf24e57b1cb00d98c31f04f86328e22e8fca457fb",
-      "name": "SONE",
-      "symbol": "SONE",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/53814/thumb/20250116-173015.png?1737432919"
-    },
-    {
-      "chainId": 1868,
-      "address": "0x3f99231dd03a9f0e7e3421c92b7b90fbe012985a",
-      "name": "Startale USD",
-      "symbol": "USDSC",
-      "decimals": 6,
-      "logoURI": "https://assets.coingecko.com/coins/images/70883/thumb/stataleusd_2x.png?1764684119"
-    },
-    {
-      "chainId": 1868,
-      "address": "0x9317841c2e9f6bcb44119c184152cfb1ef79034a",
-      "name": "Lootcoin",
-      "symbol": "LOOT",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/71197/thumb/lootcoin-logo.jpg?1766302463"
-    },
-    {
-      "chainId": 1868,
-      "address": "0xa8feaae65c44b458a16ea4e709036a2ee85d073a",
-      "name": "Mother of Memes",
-      "symbol": "HAHA",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/36245/thumb/HAHA_Logo.png?1710921482"
-    },
-    {
-      "chainId": 1868,
-      "address": "0xba9986d2381edf1da03b0b9c1f8b00dc4aacc369",
-      "name": "Soneium Bridged USDC (Soneium)",
-      "symbol": "USDC.E",
-      "decimals": 6,
-      "logoURI": "https://assets.coingecko.com/coins/images/53776/thumb/usdc.jpg?1737340150"
-    },
-    {
-      "chainId": 1868,
       "address": "0xc67476893c166c537afd9bc6bc87b3f228b44337",
       "name": "Neemo Staked Astar",
       "symbol": "NSASTR",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/53907/thumb/nsASTR_2x.png?1737707599"
-    },
-    {
-      "chainId": 1868,
-      "address": "0x4200000000000000000000000000000000000006",
-      "name": "Superbridge Bridged WETH (Soneium)",
-      "symbol": "WETH",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/53777/thumb/weth_2.jpg?1737340348"
     },
     {
       "chainId": 1868,
@@ -252,12 +252,12 @@
       "name": "Wild Goat Coin",
       "symbol": "WGC",
       "decimals": 6,
-      "logoURI": "https://assets.coingecko.com/coins/images/37966/thumb/wgcCoin-256px.png?1768798052"
+      "logoURI": "https://assets.coingecko.com/coins/images/37966/thumb/wgc-v3-logo.png?1776225874"
     }
   ],
   "version": {
     "major": 2,
     "minor": 4,
-    "patch": 2
+    "patch": 3
   }
 }

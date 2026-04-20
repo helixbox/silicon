@@ -4,15 +4,23 @@
   "keywords": [
     "defi"
   ],
-  "timestamp": "2026-03-23T11:00:34.001+00:00",
+  "timestamp": "2026-04-15T05:00:35.727+00:00",
   "tokens": [
     {
       "chainId": 5000,
-      "address": "0x671642ac281c760e34251d51bc9eef27026f3b7a",
-      "name": "Mantle Index Four Fund",
-      "symbol": "MI4",
-      "decimals": 6,
-      "logoURI": "https://assets.coingecko.com/coins/images/66570/thumb/mi4.png?1749795929"
+      "address": "0xabbeed1d173541e0546b38b1c0394975be200000",
+      "name": "Slash Vision Labs",
+      "symbol": "SVL",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/37444/thumb/svl.jpeg?1714443652"
+    },
+    {
+      "chainId": 5000,
+      "address": "0x26a6b0dcdcfb981362afa56d581e4a7dba3be140",
+      "name": "Puff The Dragon",
+      "symbol": "PUFF",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/35950/thumb/photo_2024-03-11_10.18.27.jpeg?1710240090"
     },
     {
       "chainId": 5000,
@@ -21,14 +29,6 @@
       "symbol": "LEND",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/31588/thumb/lendle_logo_200_200_cg.png?1696530405"
-    },
-    {
-      "chainId": 5000,
-      "address": "0xabbeed1d173541e0546b38b1c0394975be200000",
-      "name": "Slash Vision Labs",
-      "symbol": "SVL",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/37444/thumb/svl.jpeg?1714443652"
     },
     {
       "chainId": 5000,
@@ -48,19 +48,19 @@
     },
     {
       "chainId": 5000,
-      "address": "0x26a6b0dcdcfb981362afa56d581e4a7dba3be140",
-      "name": "Puff The Dragon",
-      "symbol": "PUFF",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/35950/thumb/photo_2024-03-11_10.18.27.jpeg?1710240090"
-    },
-    {
-      "chainId": 5000,
       "address": "0x4515a45337f461a11ff0fe8abf3c606ae5dc00c9",
       "name": "MOE",
       "symbol": "MOE",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/34422/thumb/MOE.png?1704821927"
+    },
+    {
+      "chainId": 5000,
+      "address": "0x671642ac281c760e34251d51bc9eef27026f3b7a",
+      "name": "Mantle Index Four Fund",
+      "symbol": "MI4",
+      "decimals": 6,
+      "logoURI": "https://assets.coingecko.com/coins/images/66570/thumb/mi4.png?1749795929"
     },
     {
       "chainId": 5000,
@@ -568,14 +568,6 @@
     },
     {
       "chainId": 5000,
-      "address": "0xc53ac24320e3a54c7211e4993c8095078a0cb3cf",
-      "name": "Wild Goat Coin",
-      "symbol": "WGC",
-      "decimals": 6,
-      "logoURI": "https://assets.coingecko.com/coins/images/37966/thumb/wgcCoin-256px.png?1768798052"
-    },
-    {
-      "chainId": 5000,
       "address": "0x111111d2bf19e43c34263401e0cad979ed1cdb61",
       "name": "USD1",
       "symbol": "USD1",
@@ -589,6 +581,14 @@
       "symbol": "STONE",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/33103/thumb/200_200.png?1702602672"
+    },
+    {
+      "chainId": 5000,
+      "address": "0xc53ac24320e3a54c7211e4993c8095078a0cb3cf",
+      "name": "Wild Goat Coin",
+      "symbol": "WGC",
+      "decimals": 6,
+      "logoURI": "https://assets.coingecko.com/coins/images/37966/thumb/wgc-v3-logo.png?1776225874"
     },
     {
       "chainId": 5000,
@@ -610,6 +610,6 @@
   "version": {
     "major": 25,
     "minor": 0,
-    "patch": 0
+    "patch": 1
   }
 }

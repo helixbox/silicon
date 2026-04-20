@@ -4,16 +4,8 @@
   "keywords": [
     "defi"
   ],
-  "timestamp": "2026-04-03T15:00:32.517+00:00",
+  "timestamp": "2026-04-19T10:00:30.562+00:00",
   "tokens": [
-    {
-      "chainId": 42793,
-      "address": "0x796ea11fa2dd751ed01b53c372ffdb4aaa8f00f9",
-      "name": "Etherlink Bridged USDC (Etherlink)",
-      "symbol": "USDC",
-      "decimals": 6,
-      "logoURI": "https://assets.coingecko.com/coins/images/39584/thumb/USDC-icon.webp?1723013425"
-    },
     {
       "chainId": 42793,
       "address": "0x79052ab3c166d4899a1e0dd033ac3b379af0b1fd",
@@ -37,6 +29,14 @@
       "symbol": "TZPEPE",
       "decimals": 2,
       "logoURI": "https://assets.coingecko.com/coins/images/53279/thumb/tzPEPE_%281%29.jpeg?1735957333"
+    },
+    {
+      "chainId": 42793,
+      "address": "0x796ea11fa2dd751ed01b53c372ffdb4aaa8f00f9",
+      "name": "Etherlink Bridged USDC (Etherlink)",
+      "symbol": "USDC",
+      "decimals": 6,
+      "logoURI": "https://assets.coingecko.com/coins/images/39584/thumb/USDC-icon.webp?1723013425"
     },
     {
       "chainId": 42793,
@@ -72,14 +72,6 @@
     },
     {
       "chainId": 42793,
-      "address": "0x35dfec1813c43d82e6b87c682f560bbb8ea0c121",
-      "name": "Spiko Amundi Overnight Swap Fund (EUR)",
-      "symbol": "EURSAFO",
-      "decimals": 5,
-      "logoURI": "https://assets.coingecko.com/coins/images/102172591/thumb/Fund_eurSAF0.png?1774104814"
-    },
-    {
-      "chainId": 42793,
       "address": "0x5542f82389b76c23f5848268893234d8a63fd5c8",
       "name": "Midas mMEV",
       "symbol": "MMEV",
@@ -93,14 +85,6 @@
       "symbol": "LBTC",
       "decimals": 8,
       "logoURI": "https://assets.coingecko.com/coins/images/39969/thumb/LBTC_Logo.png?1724959872"
-    },
-    {
-      "chainId": 42793,
-      "address": "0xfe20ebe3881491b2e158b9d10cb95bcfa652262d",
-      "name": "Spiko Amundi Overnight Swap Fund (GBP)",
-      "symbol": "GBPSAFO",
-      "decimals": 5,
-      "logoURI": "https://assets.coingecko.com/coins/images/102172592/thumb/Fund_gbpSAFO.png?1774104818"
     },
     {
       "chainId": 42793,
@@ -160,19 +144,11 @@
     },
     {
       "chainId": 42793,
-      "address": "0x6b43732a9ae9f8654d496c0a075aa4aa43057a0b",
-      "name": "Sugarverse",
-      "symbol": "CNDY",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/52864/thumb/twitter_profile.jpg?1734543227"
-    },
-    {
-      "chainId": 42793,
-      "address": "0xef53e7d17822b641c6481837238a64a688709301",
-      "name": "Spiko Amundi Overnight Swap Fund (CHF)",
-      "symbol": "CHFSAFO",
+      "address": "0x970e2adc2fdf53aea6b5fa73ca6dc30eafedfe3d",
+      "name": "Spiko UK T-Bills Money Market Fund",
+      "symbol": "UKTBL",
       "decimals": 5,
-      "logoURI": "https://assets.coingecko.com/coins/images/102172593/thumb/Fund_chfSAFO.png?1774104821"
+      "logoURI": "https://assets.coingecko.com/coins/images/102172855/thumb/Fund_UKTBL-4.png?1776258706"
     },
     {
       "chainId": 42793,
@@ -181,6 +157,30 @@
       "symbol": "SOGNI",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/67008/thumb/sogni.jpg?1751450446"
+    },
+    {
+      "chainId": 42793,
+      "address": "0x35dfec1813c43d82e6b87c682f560bbb8ea0c121",
+      "name": "Spiko Amundi Overnight Swap Fund (EUR)",
+      "symbol": "EURSAFO",
+      "decimals": 5,
+      "logoURI": "https://assets.coingecko.com/coins/images/102172591/thumb/Fund_eurSAF0.png?1774104814"
+    },
+    {
+      "chainId": 42793,
+      "address": "0xfe20ebe3881491b2e158b9d10cb95bcfa652262d",
+      "name": "Spiko Amundi Overnight Swap Fund (GBP)",
+      "symbol": "GBPSAFO",
+      "decimals": 5,
+      "logoURI": "https://assets.coingecko.com/coins/images/102172592/thumb/Fund_gbpSAFO.png?1774104818"
+    },
+    {
+      "chainId": 42793,
+      "address": "0xef53e7d17822b641c6481837238a64a688709301",
+      "name": "Spiko Amundi Overnight Swap Fund (CHF)",
+      "symbol": "CHFSAFO",
+      "decimals": 5,
+      "logoURI": "https://assets.coingecko.com/coins/images/102172593/thumb/Fund_chfSAFO.png?1774104821"
     },
     {
       "chainId": 42793,
@@ -200,8 +200,8 @@
     }
   ],
   "version": {
-    "major": 1,
-    "minor": 7,
+    "major": 2,
+    "minor": 0,
     "patch": 0
   }
 }

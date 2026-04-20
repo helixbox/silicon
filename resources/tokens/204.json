@@ -4,23 +4,15 @@
   "keywords": [
     "defi"
   ],
-  "timestamp": "2026-03-24T11:00:05.325+00:00",
+  "timestamp": "2026-04-15T06:00:04.781+00:00",
   "tokens": [
     {
       "chainId": 204,
-      "address": "0x4200000000000000000000000000000000000006",
-      "name": "opBNB Bridged WBNB (opBNB)",
-      "symbol": "WBNB",
+      "address": "0x9e5aac1ba1a2e6aed6b32689dfcf62a509ca96f3",
+      "name": "opBNB Bridged USDT (opBNB)",
+      "symbol": "USDT",
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/53120/thumb/wrapped_bnb.png?1735265071"
-    },
-    {
-      "chainId": 204,
-      "address": "0x317bc431f7ef8b012dfbb563814de202f5469516",
-      "name": "WalkMining Governance",
-      "symbol": "WKG",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/38633/thumb/symbol_wkm_200.png?1718172340"
+      "logoURI": "https://assets.coingecko.com/coins/images/32613/thumb/usdt_opbnb_bridged.png?1698734789"
     },
     {
       "chainId": 204,
@@ -32,6 +24,14 @@
     },
     {
       "chainId": 204,
+      "address": "0x4200000000000000000000000000000000000006",
+      "name": "opBNB Bridged WBNB (opBNB)",
+      "symbol": "WBNB",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/53120/thumb/wrapped_bnb.png?1735265071"
+    },
+    {
+      "chainId": 204,
       "address": "0xb01d49c26416a352fac4fbb3d555d5f2543e3247",
       "name": "CUBISWAP",
       "symbol": "CUBI",
@@ -40,11 +40,11 @@
     },
     {
       "chainId": 204,
-      "address": "0x9e5aac1ba1a2e6aed6b32689dfcf62a509ca96f3",
-      "name": "opBNB Bridged USDT (opBNB)",
-      "symbol": "USDT",
+      "address": "0x317bc431f7ef8b012dfbb563814de202f5469516",
+      "name": "WalkMining Governance",
+      "symbol": "WKG",
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/32613/thumb/usdt_opbnb_bridged.png?1698734789"
+      "logoURI": "https://assets.coingecko.com/coins/images/38633/thumb/symbol_wkm_200.png?1718172340"
     },
     {
       "chainId": 204,
@@ -124,12 +124,12 @@
       "name": "Wild Goat Coin",
       "symbol": "WGC",
       "decimals": 6,
-      "logoURI": "https://assets.coingecko.com/coins/images/37966/thumb/wgcCoin-256px.png?1768798052"
+      "logoURI": "https://assets.coingecko.com/coins/images/37966/thumb/wgc-v3-logo.png?1776225874"
     }
   ],
   "version": {
     "major": 5,
     "minor": 0,
-    "patch": 0
+    "patch": 1
   }
 }

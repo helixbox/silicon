@@ -4,15 +4,39 @@
   "keywords": [
     "defi"
   ],
-  "timestamp": "2026-04-05T09:00:49.518+00:00",
+  "timestamp": "2026-04-15T05:00:55.183+00:00",
   "tokens": [
     {
       "chainId": 534352,
-      "address": "0x0fc479e2f9b7310bfb1db606cf565dea6910eedc",
-      "name": "Papyrus Swap",
-      "symbol": "PAPYRUS",
+      "address": "0x06efdbff2a14a7c8e15944d1f4a48f9f95f663a4",
+      "name": "Bridged USD Coin (Scroll)",
+      "symbol": "USDC",
+      "decimals": 6,
+      "logoURI": "https://assets.coingecko.com/coins/images/32611/thumb/USDC.png?1698733754"
+    },
+    {
+      "chainId": 534352,
+      "address": "0x3b005fefc63ca7c8d25ee21fba3787229ba4cf03",
+      "name": "USX",
+      "symbol": "USX",
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/32479/thumb/PapyrusLogo.png?1698286849"
+      "logoURI": "https://assets.coingecko.com/coins/images/71020/thumb/usx.png?1765270693"
+    },
+    {
+      "chainId": 534352,
+      "address": "0x3c1bca5a656e69edcd0d4e36bebb3fcdaca60cf1",
+      "name": "Bridged Wrapped Bitcoin (Scroll)",
+      "symbol": "WBTC",
+      "decimals": 8,
+      "logoURI": "https://assets.coingecko.com/coins/images/32614/thumb/wrapped_bitcoin_wbtc.png?1698735124"
+    },
+    {
+      "chainId": 534352,
+      "address": "0x5300000000000000000000000000000000000004",
+      "name": "Bridged Wrapped Ether (Scroll)",
+      "symbol": "WETH",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/32315/thumb/weth_%281%29.png?1697365181"
     },
     {
       "chainId": 534352,
@@ -32,35 +56,11 @@
     },
     {
       "chainId": 534352,
-      "address": "0x5300000000000000000000000000000000000004",
-      "name": "Bridged Wrapped Ether (Scroll)",
-      "symbol": "WETH",
+      "address": "0xcb14bcdf6cd483665d10dfd6f87d908996c7f922",
+      "name": "sUSX",
+      "symbol": "SUSX",
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/32315/thumb/weth_%281%29.png?1697365181"
-    },
-    {
-      "chainId": 534352,
-      "address": "0x3b005fefc63ca7c8d25ee21fba3787229ba4cf03",
-      "name": "USX",
-      "symbol": "USX",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/71020/thumb/usx.png?1765270693"
-    },
-    {
-      "chainId": 534352,
-      "address": "0x95a52ec1d60e74cd3eb002fe54a2c74b185a4c16",
-      "name": "Skydrome",
-      "symbol": "SKY",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/33902/thumb/icon_200x200.png?1703237670"
-    },
-    {
-      "chainId": 534352,
-      "address": "0xf55bec9cafdbe8730f096aa55dad6d22d44099df",
-      "name": "Scroll Bridged USDT (Scroll)",
-      "symbol": "USDT",
-      "decimals": 6,
-      "logoURI": "https://assets.coingecko.com/coins/images/32610/thumb/usdt_%281%29.png?1698733524"
+      "logoURI": "https://assets.coingecko.com/coins/images/71611/thumb/Frame_1171274144_%281%29.png?1768548299"
     },
     {
       "chainId": 534352,
@@ -72,19 +72,19 @@
     },
     {
       "chainId": 534352,
-      "address": "0xfec65bfb6e5bbcc9ab8ae98f62a8aab2ea51c495",
-      "name": "Perseid Finance",
-      "symbol": "PED",
+      "address": "0x95a52ec1d60e74cd3eb002fe54a2c74b185a4c16",
+      "name": "Skydrome",
+      "symbol": "SKY",
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/32805/thumb/perseid.png?1704711269"
+      "logoURI": "https://assets.coingecko.com/coins/images/33902/thumb/icon_200x200.png?1703237670"
     },
     {
       "chainId": 534352,
-      "address": "0x3c1bca5a656e69edcd0d4e36bebb3fcdaca60cf1",
-      "name": "Bridged Wrapped Bitcoin (Scroll)",
-      "symbol": "WBTC",
-      "decimals": 8,
-      "logoURI": "https://assets.coingecko.com/coins/images/32614/thumb/wrapped_bitcoin_wbtc.png?1698735124"
+      "address": "0x0fc479e2f9b7310bfb1db606cf565dea6910eedc",
+      "name": "Papyrus Swap",
+      "symbol": "PAPYRUS",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/32479/thumb/PapyrusLogo.png?1698286849"
     },
     {
       "chainId": 534352,
@@ -96,19 +96,19 @@
     },
     {
       "chainId": 534352,
-      "address": "0x06efdbff2a14a7c8e15944d1f4a48f9f95f663a4",
-      "name": "Bridged USD Coin (Scroll)",
-      "symbol": "USDC",
+      "address": "0xf55bec9cafdbe8730f096aa55dad6d22d44099df",
+      "name": "Scroll Bridged USDT (Scroll)",
+      "symbol": "USDT",
       "decimals": 6,
-      "logoURI": "https://assets.coingecko.com/coins/images/32611/thumb/USDC.png?1698733754"
+      "logoURI": "https://assets.coingecko.com/coins/images/32610/thumb/usdt_%281%29.png?1698733524"
     },
     {
       "chainId": 534352,
-      "address": "0xcb14bcdf6cd483665d10dfd6f87d908996c7f922",
-      "name": "sUSX",
-      "symbol": "SUSX",
+      "address": "0xfec65bfb6e5bbcc9ab8ae98f62a8aab2ea51c495",
+      "name": "Perseid Finance",
+      "symbol": "PED",
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/71611/thumb/Frame_1171274144_%281%29.png?1768548299"
+      "logoURI": "https://assets.coingecko.com/coins/images/32805/thumb/perseid.png?1704711269"
     },
     {
       "chainId": 534352,
@@ -320,24 +320,24 @@
     },
     {
       "chainId": 534352,
-      "address": "0xc53ac24320e3a54c7211e4993c8095078a0cb3cf",
-      "name": "Wild Goat Coin",
-      "symbol": "WGC",
-      "decimals": 6,
-      "logoURI": "https://assets.coingecko.com/coins/images/37966/thumb/wgcCoin-256px.png?1768798052"
-    },
-    {
-      "chainId": 534352,
       "address": "0xeb466342c4d449bc9f53a865d5cb90586f405215",
       "name": "Axelar Bridged USDC",
       "symbol": "AXLUSDC",
       "decimals": 6,
       "logoURI": "https://assets.coingecko.com/coins/images/26476/thumb/uausdc_D_3x.png?1696525548"
+    },
+    {
+      "chainId": 534352,
+      "address": "0xc53ac24320e3a54c7211e4993c8095078a0cb3cf",
+      "name": "Wild Goat Coin",
+      "symbol": "WGC",
+      "decimals": 6,
+      "logoURI": "https://assets.coingecko.com/coins/images/37966/thumb/wgc-v3-logo.png?1776225874"
     }
   ],
   "version": {
     "major": 22,
     "minor": 0,
-    "patch": 0
+    "patch": 1
   }
 }

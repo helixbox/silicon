@@ -4,7 +4,7 @@
   "keywords": [
     "defi"
   ],
-  "timestamp": "2026-02-25T09:00:31.227+00:00",
+  "timestamp": "2026-04-19T12:00:28.673+00:00",
   "tokens": [
     {
       "chainId": 42170,
@@ -13,6 +13,14 @@
       "symbol": "USDC",
       "decimals": 6,
       "logoURI": "https://assets.coingecko.com/coins/images/35259/thumb/USDC_Icon.png?1708007444"
+    },
+    {
+      "chainId": 42170,
+      "address": "0xda10009cbd5d07dd0cecc66161fc93d7c9000da1",
+      "name": "MakerDAO Arbitrum Nova DAI Bridge (Arbitrum Nova)",
+      "symbol": "DAI",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/39804/thumb/dai.png?1724126141"
     },
     {
       "chainId": 42170,
@@ -29,14 +37,6 @@
       "symbol": "WETH",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/39697/thumb/weth.png?1723671407"
-    },
-    {
-      "chainId": 42170,
-      "address": "0xda10009cbd5d07dd0cecc66161fc93d7c9000da1",
-      "name": "MakerDAO Arbitrum Nova DAI Bridge (Arbitrum Nova)",
-      "symbol": "DAI",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/39804/thumb/dai.png?1724126141"
     },
     {
       "chainId": 42170,
@@ -69,18 +69,10 @@
       "symbol": "AIUS",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/35246/thumb/arbius-200x-logo.png?1707987961"
-    },
-    {
-      "chainId": 42170,
-      "address": "0x000000000026839b3f4181f2cf69336af6153b99",
-      "name": "Reboot",
-      "symbol": "GG",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/31228/thumb/gg_cyan_black_square.png?1703749951"
     }
   ],
   "version": {
-    "major": 5,
+    "major": 6,
     "minor": 0,
     "patch": 0
   }

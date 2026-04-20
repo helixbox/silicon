@@ -4,8 +4,16 @@
   "keywords": [
     "defi"
   ],
-  "timestamp": "2026-03-04T17:00:23.454+00:00",
+  "timestamp": "2026-04-18T11:00:22.143+00:00",
   "tokens": [
+    {
+      "chainId": 82,
+      "address": "0xd86e243fc0007e6226b07c9a50c9d70d78299eb5",
+      "name": "Meter Passport Bridged USDC (Meter)",
+      "symbol": "USDC.ETH",
+      "decimals": 6,
+      "logoURI": "https://assets.coingecko.com/coins/images/35317/thumb/USDC.jpg?1708176554"
+    },
     {
       "chainId": 82,
       "address": "0x1c22531aa9747d76fff8f0a43b37954ca67d28e0",
@@ -24,22 +32,6 @@
     },
     {
       "chainId": 82,
-      "address": "0xe2de616fbd8cb9180b26fcfb1b761a232fe56717",
-      "name": "Meter.io Wrapped stMTRG",
-      "symbol": "WSTMTRG",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/33276/thumb/MTRG_Logo.png?1701329317"
-    },
-    {
-      "chainId": 82,
-      "address": "0xd86e243fc0007e6226b07c9a50c9d70d78299eb5",
-      "name": "Meter Passport Bridged USDC (Meter)",
-      "symbol": "USDC.ETH",
-      "decimals": 6,
-      "logoURI": "https://assets.coingecko.com/coins/images/35317/thumb/USDC.jpg?1708176554"
-    },
-    {
-      "chainId": 82,
       "address": "0x228ebbee999c6a7ad74a6130e81b12f9fe237ba3",
       "name": "Meter Governance",
       "symbol": "MTRG",
@@ -48,11 +40,11 @@
     },
     {
       "chainId": 82,
-      "address": "0x8df95e66cb0ef38f91d2776da3c921768982fba0",
-      "name": "VoltSwap",
-      "symbol": "VOLT",
+      "address": "0xe2de616fbd8cb9180b26fcfb1b761a232fe56717",
+      "name": "Meter.io Wrapped stMTRG",
+      "symbol": "WSTMTRG",
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/22841/thumb/voltswap.png?1696522142"
+      "logoURI": "https://assets.coingecko.com/coins/images/33276/thumb/MTRG_Logo.png?1701329317"
     },
     {
       "chainId": 82,
@@ -120,8 +112,8 @@
     }
   ],
   "version": {
-    "major": 2,
+    "major": 3,
     "minor": 0,
-    "patch": 1
+    "patch": 0
   }
 }

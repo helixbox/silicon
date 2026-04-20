@@ -4,47 +4,15 @@
   "keywords": [
     "defi"
   ],
-  "timestamp": "2026-03-04T11:00:12.121+00:00",
+  "timestamp": "2026-04-15T06:00:12.772+00:00",
   "tokens": [
     {
       "chainId": 34443,
-      "address": "0xf0f161fda2712db8b566946122a5af183995e2ed",
-      "name": "Mode Bridged USDT (Mode)",
-      "symbol": "USDT",
-      "decimals": 6,
-      "logoURI": "https://assets.coingecko.com/coins/images/35808/thumb/usdt_%281%29.png?1709866389"
-    },
-    {
-      "chainId": 34443,
-      "address": "0xdfc7c877a950e49d2610114102175a06c2e3167a",
-      "name": "Mode",
-      "symbol": "MODE",
+      "address": "0x4200000000000000000000000000000000000006",
+      "name": "L2 Standard Bridged WETH (Mode)",
+      "symbol": "WETH",
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/34979/thumb/MODE.jpg?1714561871"
-    },
-    {
-      "chainId": 34443,
-      "address": "0xcdd475325d6f564d27247d1dddbb0dac6fa0a5cf",
-      "name": "Mode Bridged WBTC (Mode)",
-      "symbol": "WBTC",
-      "decimals": 8,
-      "logoURI": "https://assets.coingecko.com/coins/images/35916/thumb/wrapped-bitcoin-wbtc-logo.png?1710210285"
-    },
-    {
-      "chainId": 34443,
-      "address": "0xd988097fb8612cc24eec14542bc03424c656005f",
-      "name": "Mode Bridged USDC (Mode)",
-      "symbol": "USDC",
-      "decimals": 6,
-      "logoURI": "https://assets.coingecko.com/coins/images/35809/thumb/usdc_%281%29.png?1709867043"
-    },
-    {
-      "chainId": 34443,
-      "address": "0x18470019bf0e94611f15852f7e93cf5d65bc34ca",
-      "name": "Ionic Protocol",
-      "symbol": "ION",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/36713/thumb/Ionic-icon-green.png?1712127547"
+      "logoURI": "https://assets.coingecko.com/coins/images/39726/thumb/weth.png?1723757432"
     },
     {
       "chainId": 34443,
@@ -64,11 +32,43 @@
     },
     {
       "chainId": 34443,
-      "address": "0x4200000000000000000000000000000000000006",
-      "name": "L2 Standard Bridged WETH (Mode)",
-      "symbol": "WETH",
+      "address": "0x18470019bf0e94611f15852f7e93cf5d65bc34ca",
+      "name": "Ionic Protocol",
+      "symbol": "ION",
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/39726/thumb/weth.png?1723757432"
+      "logoURI": "https://assets.coingecko.com/coins/images/36713/thumb/Ionic-icon-green.png?1712127547"
+    },
+    {
+      "chainId": 34443,
+      "address": "0xdfc7c877a950e49d2610114102175a06c2e3167a",
+      "name": "Mode",
+      "symbol": "MODE",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/34979/thumb/MODE.jpg?1714561871"
+    },
+    {
+      "chainId": 34443,
+      "address": "0xcdd475325d6f564d27247d1dddbb0dac6fa0a5cf",
+      "name": "Mode Bridged WBTC (Mode)",
+      "symbol": "WBTC",
+      "decimals": 8,
+      "logoURI": "https://assets.coingecko.com/coins/images/35916/thumb/wrapped-bitcoin-wbtc-logo.png?1710210285"
+    },
+    {
+      "chainId": 34443,
+      "address": "0xf0f161fda2712db8b566946122a5af183995e2ed",
+      "name": "Mode Bridged USDT (Mode)",
+      "symbol": "USDT",
+      "decimals": 6,
+      "logoURI": "https://assets.coingecko.com/coins/images/35808/thumb/usdt_%281%29.png?1709866389"
+    },
+    {
+      "chainId": 34443,
+      "address": "0xd988097fb8612cc24eec14542bc03424c656005f",
+      "name": "Mode Bridged USDC (Mode)",
+      "symbol": "USDC",
+      "decimals": 6,
+      "logoURI": "https://assets.coingecko.com/coins/images/35809/thumb/usdc_%281%29.png?1709867043"
     },
     {
       "chainId": 34443,
@@ -280,24 +280,24 @@
     },
     {
       "chainId": 34443,
-      "address": "0x3d63825b0d8669307366e6c8202f656b9e91d368",
-      "name": "Wild Goat Coin",
-      "symbol": "WGC",
-      "decimals": 6,
-      "logoURI": "https://assets.coingecko.com/coins/images/37966/thumb/wgcCoin-256px.png?1768798052"
-    },
-    {
-      "chainId": 34443,
       "address": "0xd678b48dc9b92626b5c406c3f07a153fb9f23687",
       "name": "Davos Protocol Staked DUSD",
       "symbol": "SDUSD",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/37909/thumb/image_%281%29.png?1715934988"
+    },
+    {
+      "chainId": 34443,
+      "address": "0x3d63825b0d8669307366e6c8202f656b9e91d368",
+      "name": "Wild Goat Coin",
+      "symbol": "WGC",
+      "decimals": 6,
+      "logoURI": "https://assets.coingecko.com/coins/images/37966/thumb/wgc-v3-logo.png?1776225874"
     }
   ],
   "version": {
     "major": 11,
     "minor": 0,
-    "patch": 0
+    "patch": 1
   }
 }

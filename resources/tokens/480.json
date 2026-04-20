@@ -4,8 +4,16 @@
   "keywords": [
     "defi"
   ],
-  "timestamp": "2026-04-06T08:00:32.680+00:00",
+  "timestamp": "2026-04-15T06:00:33.597+00:00",
   "tokens": [
+    {
+      "chainId": 480,
+      "address": "0x6fb9df9530e302be9dc126363bd7529b807f7167",
+      "name": "CrazyFootball token",
+      "symbol": "FOOTBALL",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/69748/thumb/Logo.jpg?1759482957"
+    },
     {
       "chainId": 480,
       "address": "0x6770a7133bd0d74f95e4c9e9b7735bb4cd5653a6",
@@ -13,14 +21,6 @@
       "symbol": "WORLDCAT",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/67236/thumb/worldcat-logo.jpg?1752144407"
-    },
-    {
-      "chainId": 480,
-      "address": "0x4200000000000000000000000000000000000006",
-      "name": "Wrapped ETH (World Chain)",
-      "symbol": "WETH",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/50790/thumb/wETH_32.png?1729214345"
     },
     {
       "chainId": 480,
@@ -32,19 +32,19 @@
     },
     {
       "chainId": 480,
-      "address": "0x8a1d45e102e886510e891d2ec656a708991e2d76",
-      "name": "Colombian Peso",
-      "symbol": "WCOP",
+      "address": "0x61d450a098b6a7f69fc4b98ce68198fe59768651",
+      "name": "Chilean Peso",
+      "symbol": "WCLP",
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/70887/thumb/wcop_logo_1.png?1764394538"
+      "logoURI": "https://assets.coingecko.com/coins/images/70976/thumb/wclp_logo_1.png?1764954870"
     },
     {
       "chainId": 480,
-      "address": "0x6fb9df9530e302be9dc126363bd7529b807f7167",
-      "name": "CrazyFootball token",
-      "symbol": "FOOTBALL",
+      "address": "0xd76f5faf6888e24d9f04bf92a0c8b921fe4390e0",
+      "name": "Brazilian real",
+      "symbol": "WBRL",
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/69748/thumb/Logo.jpg?1759482957"
+      "logoURI": "https://assets.coingecko.com/coins/images/70862/thumb/wbrl.png?1764272108"
     },
     {
       "chainId": 480,
@@ -56,11 +56,19 @@
     },
     {
       "chainId": 480,
-      "address": "0xd76f5faf6888e24d9f04bf92a0c8b921fe4390e0",
-      "name": "Brazilian real",
-      "symbol": "WBRL",
+      "address": "0xcd1e32b86953d79a6ac58e813d2ea7a1790cab63",
+      "name": "ORO",
+      "symbol": "ORO",
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/70862/thumb/wbrl.png?1764272108"
+      "logoURI": "https://assets.coingecko.com/coins/images/70441/thumb/oro.png?1762076294"
+    },
+    {
+      "chainId": 480,
+      "address": "0x8a1d45e102e886510e891d2ec656a708991e2d76",
+      "name": "Colombian Peso",
+      "symbol": "WCOP",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/70887/thumb/wcop_logo_1.png?1764394538"
     },
     {
       "chainId": 480,
@@ -88,19 +96,11 @@
     },
     {
       "chainId": 480,
-      "address": "0xcd1e32b86953d79a6ac58e813d2ea7a1790cab63",
-      "name": "ORO",
-      "symbol": "ORO",
+      "address": "0x4200000000000000000000000000000000000006",
+      "name": "Wrapped ETH (World Chain)",
+      "symbol": "WETH",
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/70441/thumb/oro.png?1762076294"
-    },
-    {
-      "chainId": 480,
-      "address": "0x61d450a098b6a7f69fc4b98ce68198fe59768651",
-      "name": "Chilean Peso",
-      "symbol": "WCLP",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/70976/thumb/wclp_logo_1.png?1764954870"
+      "logoURI": "https://assets.coingecko.com/coins/images/50790/thumb/wETH_32.png?1729214345"
     },
     {
       "chainId": 480,
@@ -220,7 +220,7 @@
       "name": "Wild Goat Coin",
       "symbol": "WGC",
       "decimals": 6,
-      "logoURI": "https://assets.coingecko.com/coins/images/37966/thumb/wgcCoin-256px.png?1768798052"
+      "logoURI": "https://assets.coingecko.com/coins/images/37966/thumb/wgc-v3-logo.png?1776225874"
     },
     {
       "chainId": 480,
@@ -234,6 +234,6 @@
   "version": {
     "major": 2,
     "minor": 1,
-    "patch": 0
+    "patch": 1
   }
 }
