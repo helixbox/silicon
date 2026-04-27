@@ -4,16 +4,8 @@
   "keywords": [
     "defi"
   ],
-  "timestamp": "2026-04-15T05:00:35.727+00:00",
+  "timestamp": "2026-04-22T09:00:38.362+00:00",
   "tokens": [
-    {
-      "chainId": 5000,
-      "address": "0xabbeed1d173541e0546b38b1c0394975be200000",
-      "name": "Slash Vision Labs",
-      "symbol": "SVL",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/37444/thumb/svl.jpeg?1714443652"
-    },
     {
       "chainId": 5000,
       "address": "0x26a6b0dcdcfb981362afa56d581e4a7dba3be140",
@@ -24,19 +16,11 @@
     },
     {
       "chainId": 5000,
-      "address": "0x25356aeca4210ef7553140edb9b8026089e49396",
-      "name": "Lendle",
-      "symbol": "LEND",
+      "address": "0xabbeed1d173541e0546b38b1c0394975be200000",
+      "name": "Slash Vision Labs",
+      "symbol": "SVL",
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/31588/thumb/lendle_logo_200_200_cg.png?1696530405"
-    },
-    {
-      "chainId": 5000,
-      "address": "0xab575258d37eaa5c8956efabe71f4ee8f6397cf3",
-      "name": "Mantle USD",
-      "symbol": "MUSD",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/33405/thumb/mantle-usd.jpg?1772703839"
+      "logoURI": "https://assets.coingecko.com/coins/images/37444/thumb/svl.jpeg?1714443652"
     },
     {
       "chainId": 5000,
@@ -56,11 +40,27 @@
     },
     {
       "chainId": 5000,
+      "address": "0x25356aeca4210ef7553140edb9b8026089e49396",
+      "name": "Lendle",
+      "symbol": "LEND",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/31588/thumb/lendle_logo_200_200_cg.png?1696530405"
+    },
+    {
+      "chainId": 5000,
       "address": "0x671642ac281c760e34251d51bc9eef27026f3b7a",
       "name": "Mantle Index Four Fund",
       "symbol": "MI4",
       "decimals": 6,
       "logoURI": "https://assets.coingecko.com/coins/images/66570/thumb/mi4.png?1749795929"
+    },
+    {
+      "chainId": 5000,
+      "address": "0xab575258d37eaa5c8956efabe71f4ee8f6397cf3",
+      "name": "Mantle USD",
+      "symbol": "MUSD",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/33405/thumb/mantle-usd.jpg?1772703839"
     },
     {
       "chainId": 5000,
@@ -141,14 +141,6 @@
       "symbol": "YNETHX",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/51623/thumb/ynETHx.png?1731659494"
-    },
-    {
-      "chainId": 5000,
-      "address": "0x62a509ba95c75cabc7190469025e5abee4eddb2a",
-      "name": "Davos.xyz USD",
-      "symbol": "DUSD",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/28775/thumb/dusd_logo_200x200.png?1696527754"
     },
     {
       "chainId": 5000,
@@ -608,8 +600,8 @@
     }
   ],
   "version": {
-    "major": 25,
+    "major": 26,
     "minor": 0,
-    "patch": 1
+    "patch": 0
   }
 }
