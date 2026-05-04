@@ -4,16 +4,8 @@
   "keywords": [
     "defi"
   ],
-  "timestamp": "2026-04-06T08:00:03.854+00:00",
+  "timestamp": "2026-04-27T10:00:03.160+00:00",
   "tokens": [
-    {
-      "chainId": 98866,
-      "address": "0xdf45b8322ea4ce898331602e2d1f3d1a67ae0ee8",
-      "name": "Nest Liquid Credit Vault",
-      "symbol": "NLCRD",
-      "decimals": 6,
-      "logoURI": "https://assets.coingecko.com/coins/images/102172627/thumb/nLCRD-token.png?1774372939"
-    },
     {
       "chainId": 98866,
       "address": "0xea237441c92cae6fc17caaf9a7acb3f953be4bd1",
@@ -24,11 +16,27 @@
     },
     {
       "chainId": 98866,
-      "address": "0x2b89048d45e9eff64bc5ff563b8ba40a2f0aa83e",
-      "name": "Nest Goldfinch Prime Vault",
-      "symbol": "NGPRIME",
+      "address": "0x6a64f470293630e08d24455ec0b73960ab7dbb23",
+      "name": "SPICE pUSD Vault",
+      "symbol": "PUSDNOTE",
       "decimals": 6,
-      "logoURI": "https://assets.coingecko.com/coins/images/70786/thumb/Vault_nGPRIME.png?1763752504"
+      "logoURI": "https://assets.coingecko.com/coins/images/69199/thumb/pUSDnote.png?1757836459"
+    },
+    {
+      "chainId": 98866,
+      "address": "0x15c09c0ffb3717325e60a564d1acfbfe999c2f88",
+      "name": "Dinari SRLN",
+      "symbol": "SRLN.D",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/66390/thumb/d-token-200.png?1749284651"
+    },
+    {
+      "chainId": 98866,
+      "address": "0xdf45b8322ea4ce898331602e2d1f3d1a67ae0ee8",
+      "name": "Nest Liquid Credit Vault",
+      "symbol": "NLCRD",
+      "decimals": 6,
+      "logoURI": "https://assets.coingecko.com/coins/images/102172627/thumb/nLCRD-token.png?1774372939"
     },
     {
       "chainId": 98866,
@@ -48,35 +56,11 @@
     },
     {
       "chainId": 98866,
-      "address": "0xd99076fcfd61b3695c5a00740364a84ac8c46cba",
-      "name": "Nest Perena Vault",
-      "symbol": "NPERENA",
+      "address": "0x2b89048d45e9eff64bc5ff563b8ba40a2f0aa83e",
+      "name": "Nest Goldfinch Prime Vault",
+      "symbol": "NGPRIME",
       "decimals": 6,
-      "logoURI": "https://assets.coingecko.com/coins/images/102172628/thumb/nPERENA-token.png?1774372959"
-    },
-    {
-      "chainId": 98866,
-      "address": "0x15c09c0ffb3717325e60a564d1acfbfe999c2f88",
-      "name": "Dinari SRLN",
-      "symbol": "SRLN.D",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/66390/thumb/d-token-200.png?1749284651"
-    },
-    {
-      "chainId": 98866,
-      "address": "0x6a64f470293630e08d24455ec0b73960ab7dbb23",
-      "name": "SPICE pUSD Vault",
-      "symbol": "PUSDNOTE",
-      "decimals": 6,
-      "logoURI": "https://assets.coingecko.com/coins/images/69199/thumb/pUSDnote.png?1757836459"
-    },
-    {
-      "chainId": 98866,
-      "address": "0x39d1f90ef89c52dda276194e9a832b484ee45574",
-      "name": "Plume Staked ETH",
-      "symbol": "PETH",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/67514/thumb/peth.png?1753068541"
+      "logoURI": "https://assets.coingecko.com/coins/images/70786/thumb/Vault_nGPRIME.png?1763752504"
     },
     {
       "chainId": 98866,
@@ -85,6 +69,14 @@
       "symbol": "NSCOPE",
       "decimals": 6,
       "logoURI": "https://assets.coingecko.com/coins/images/102172626/thumb/nSCOPE-token.png?1774372903"
+    },
+    {
+      "chainId": 98866,
+      "address": "0xd99076fcfd61b3695c5a00740364a84ac8c46cba",
+      "name": "Nest Perena Vault",
+      "symbol": "NPERENA",
+      "decimals": 6,
+      "logoURI": "https://assets.coingecko.com/coins/images/102172628/thumb/nPERENA-token.png?1774372959"
     },
     {
       "chainId": 98866,
@@ -456,8 +448,8 @@
     }
   ],
   "version": {
-    "major": 6,
-    "minor": 3,
+    "major": 7,
+    "minor": 0,
     "patch": 0
   }
 }

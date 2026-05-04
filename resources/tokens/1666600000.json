@@ -4,31 +4,15 @@
   "keywords": [
     "defi"
   ],
-  "timestamp": "2026-04-02T11:00:12.105+00:00",
+  "timestamp": "2026-04-29T11:00:11.491+00:00",
   "tokens": [
     {
       "chainId": 1666600000,
-      "address": "0xcf664087a5bb0237a0bad6742852ec6c8d69a27a",
-      "name": "Wrapped One",
-      "symbol": "WONE",
+      "address": "0x673d2ec54e0a6580fc7e098295b70e3ce0350d03",
+      "name": "Bridged WBNB",
+      "symbol": "WBNB",
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/18183/thumb/wonelogo.png?1696517683"
-    },
-    {
-      "chainId": 1666600000,
-      "address": "0xef977d2f931c1978db5f6747666fa1eacb0d0339",
-      "name": "Harmony Horizon Bridged DAI (Harmony Shard 0)",
-      "symbol": "DAI",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/39789/thumb/dai.png?1724111370"
-    },
-    {
-      "chainId": 1666600000,
-      "address": "0x22fb638a010e922d53fd2671a598a3334c228b62",
-      "name": "Speed Star JOC",
-      "symbol": "JOC",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/24883/thumb/f2zOnAa4_400x400.jpg?1696524042"
+      "logoURI": "https://assets.coingecko.com/coins/images/53070/thumb/wrapped_bnb.png?1735264554"
     },
     {
       "chainId": 1666600000,
@@ -40,11 +24,19 @@
     },
     {
       "chainId": 1666600000,
-      "address": "0x673d2ec54e0a6580fc7e098295b70e3ce0350d03",
-      "name": "Bridged WBNB",
-      "symbol": "WBNB",
+      "address": "0xef977d2f931c1978db5f6747666fa1eacb0d0339",
+      "name": "Harmony Horizon Bridged DAI (Harmony Shard 0)",
+      "symbol": "DAI",
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/53070/thumb/wrapped_bnb.png?1735264554"
+      "logoURI": "https://assets.coingecko.com/coins/images/39789/thumb/dai.png?1724111370"
+    },
+    {
+      "chainId": 1666600000,
+      "address": "0xcf664087a5bb0237a0bad6742852ec6c8d69a27a",
+      "name": "Wrapped One",
+      "symbol": "WONE",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/18183/thumb/wonelogo.png?1696517683"
     },
     {
       "chainId": 1666600000,
@@ -53,14 +45,6 @@
       "symbol": "SPEED",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/24983/thumb/f2zOnAa4_400x400.jpg?1696524136"
-    },
-    {
-      "chainId": 1666600000,
-      "address": "0x6983d1e6def3690c4d616b13597a09e6193ea013",
-      "name": "Harmony Horizon Bridged cETH (Harmony Shard 0)",
-      "symbol": "1ETH",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/39710/thumb/WETH.PNG?1723730735"
     },
     {
       "chainId": 1666600000,
@@ -77,6 +61,22 @@
       "symbol": "ROY",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/20668/thumb/ROY_logo_new_design_small.png?1696520069"
+    },
+    {
+      "chainId": 1666600000,
+      "address": "0x6983d1e6def3690c4d616b13597a09e6193ea013",
+      "name": "Harmony Horizon Bridged cETH (Harmony Shard 0)",
+      "symbol": "1ETH",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/39710/thumb/WETH.PNG?1723730735"
+    },
+    {
+      "chainId": 1666600000,
+      "address": "0x22fb638a010e922d53fd2671a598a3334c228b62",
+      "name": "Speed Star JOC",
+      "symbol": "JOC",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/24883/thumb/f2zOnAa4_400x400.jpg?1696524042"
     },
     {
       "chainId": 1666600000,
@@ -520,14 +520,6 @@
     },
     {
       "chainId": 1666600000,
-      "address": "0xae0609a062a4eaed49de28c5f6a193261e0150ea",
-      "name": "AAG",
-      "symbol": "AAG",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/21382/thumb/aag-token-icon.png?1696520747"
-    },
-    {
-      "chainId": 1666600000,
       "address": "0xd754ae7bb55feb0c4ba6bc037b4a140f14ebe018",
       "name": "Templar DAO",
       "symbol": "TEM",
@@ -600,7 +592,7 @@
     }
   ],
   "version": {
-    "major": 33,
+    "major": 34,
     "minor": 0,
     "patch": 0
   }

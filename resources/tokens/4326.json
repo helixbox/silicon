@@ -4,15 +4,23 @@
   "keywords": [
     "defi"
   ],
-  "timestamp": "2026-04-22T13:00:47.993+00:00",
+  "timestamp": "2026-04-30T19:00:48.751+00:00",
   "tokens": [
     {
       "chainId": 4326,
-      "address": "0xfafddbb3fc7688494971a79cc65dca3ef82079e7",
-      "name": "MegaUSD",
-      "symbol": "USDM",
+      "address": "0x2a3a4c92ce37abd7239fb010bc390710f4062407",
+      "name": "Fluffey",
+      "symbol": "FLUFFEY",
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/69955/thumb/USDm.png?1760170136"
+      "logoURI": "https://assets.coingecko.com/coins/images/102173058/thumb/fluffey.jpg?1777554743"
+    },
+    {
+      "chainId": 4326,
+      "address": "0x141cf6bfe9d5057883b9becb39fee8a62982dc93",
+      "name": "Sigma Bunny",
+      "symbol": "Σ:",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/102173060/thumb/sigma_bunny.jpg?1777555311"
     },
     {
       "chainId": 4326,
@@ -24,11 +32,35 @@
     },
     {
       "chainId": 4326,
+      "address": "0xfafddbb3fc7688494971a79cc65dca3ef82079e7",
+      "name": "MegaUSD",
+      "symbol": "USDM",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/69955/thumb/USDm.png?1760170136"
+    },
+    {
+      "chainId": 4326,
+      "address": "0x021ee124cf23d302a7f725ae7a01b77a8ce9782b",
+      "name": "Duck Token",
+      "symbol": "DUCK",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/102173059/thumb/duck.jpg?1777555120"
+    },
+    {
+      "chainId": 4326,
       "address": "0x28b7e77f82b25b95953825f1e3ea0e36c1c29861",
       "name": "MegaETH",
       "symbol": "MEGA",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/69995/thumb/ICON.png?1760337992"
+    },
+    {
+      "chainId": 4326,
+      "address": "0x214b26a427df89437898dec7efd2bc4472b983ea",
+      "name": "Meka",
+      "symbol": "MEKA",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/102173066/thumb/meka.jpg?1777568903"
     },
     {
       "chainId": 4326,
@@ -48,6 +80,14 @@
     },
     {
       "chainId": 4326,
+      "address": "0x5d3a1ff2b6bab83b63cd9ad0787074081a52ef34",
+      "name": "Ethena USDe",
+      "symbol": "USDE",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/33613/thumb/usde.png?1733810059"
+    },
+    {
+      "chainId": 4326,
       "address": "0x996ce957408804fec19237d866799d9c7076e48c",
       "name": "Brix iTRY",
       "symbol": "ITRY",
@@ -64,8 +104,8 @@
     }
   ],
   "version": {
-    "major": 1,
-    "minor": 0,
+    "major": 2,
+    "minor": 4,
     "patch": 0
   }
 }

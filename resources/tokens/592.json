@@ -4,8 +4,16 @@
   "keywords": [
     "defi"
   ],
-  "timestamp": "2026-03-04T17:00:17.924+00:00",
+  "timestamp": "2026-05-01T09:00:17.084+00:00",
   "tokens": [
+    {
+      "chainId": 592,
+      "address": "0x3795c36e7d12a8c252a20c5a7b455f7c57b60283",
+      "name": "Celer Bridged USDT (Astar)",
+      "symbol": "USDT",
+      "decimals": 6,
+      "logoURI": "https://assets.coingecko.com/coins/images/35137/thumb/usdt_logo.png?1707447287"
+    },
     {
       "chainId": 592,
       "address": "0xaeaaf0e2c81af264101b9129c00f4440ccf0f720",
@@ -16,11 +24,11 @@
     },
     {
       "chainId": 592,
-      "address": "0x37795fdd8c165cab4d6c05771d564d80439cd093",
-      "name": "Wrapped ASTR",
-      "symbol": "WASTR",
+      "address": "0x733ebcc6df85f8266349defd0980f8ced9b45f35",
+      "name": "BAI Stablecoin",
+      "symbol": "BAI",
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/102172250/thumb/astar.jpg?1772510285"
+      "logoURI": "https://assets.coingecko.com/coins/images/25385/thumb/BAI_Token_Logo.png?1696524518"
     },
     {
       "chainId": 592,
@@ -40,27 +48,19 @@
     },
     {
       "chainId": 592,
+      "address": "0x37795fdd8c165cab4d6c05771d564d80439cd093",
+      "name": "Wrapped ASTR",
+      "symbol": "WASTR",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/102172250/thumb/astar.jpg?1772510285"
+    },
+    {
+      "chainId": 592,
       "address": "0xffffffffffffffffffffffffffffffffffffffff",
       "name": "WDOT",
       "symbol": "WDOT",
       "decimals": 10,
       "logoURI": "https://assets.coingecko.com/coins/images/26650/thumb/polkadot.png?1696525722"
-    },
-    {
-      "chainId": 592,
-      "address": "0x733ebcc6df85f8266349defd0980f8ced9b45f35",
-      "name": "BAI Stablecoin",
-      "symbol": "BAI",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/25385/thumb/BAI_Token_Logo.png?1696524518"
-    },
-    {
-      "chainId": 592,
-      "address": "0x3795c36e7d12a8c252a20c5a7b455f7c57b60283",
-      "name": "Celer Bridged USDT (Astar)",
-      "symbol": "USDT",
-      "decimals": 6,
-      "logoURI": "https://assets.coingecko.com/coins/images/35137/thumb/usdt_logo.png?1707447287"
     },
     {
       "chainId": 592,
@@ -93,14 +93,6 @@
       "symbol": "WSDN",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/24817/thumb/sdn.png?1696523975"
-    },
-    {
-      "chainId": 592,
-      "address": "0x29f6e49c6e3397c3a84f715885f9f233a441165c",
-      "name": "Origin Dollar",
-      "symbol": "OUSD",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/12589/thumb/ousd-logo-200x200.png?1696512399"
     },
     {
       "chainId": 592,
@@ -144,8 +136,8 @@
     }
   ],
   "version": {
-    "major": 6,
+    "major": 7,
     "minor": 0,
-    "patch": 1
+    "patch": 0
   }
 }
