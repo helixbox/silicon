@@ -4,8 +4,16 @@
   "keywords": [
     "defi"
   ],
-  "timestamp": "2026-04-27T10:00:03.160+00:00",
+  "timestamp": "2026-05-04T09:00:03.384+00:00",
   "tokens": [
+    {
+      "chainId": 98866,
+      "address": "0xd99076fcfd61b3695c5a00740364a84ac8c46cba",
+      "name": "Nest Perena Vault",
+      "symbol": "NPERENA",
+      "decimals": 6,
+      "logoURI": "https://assets.coingecko.com/coins/images/102172628/thumb/nPERENA-token.png?1774372959"
+    },
     {
       "chainId": 98866,
       "address": "0xea237441c92cae6fc17caaf9a7acb3f953be4bd1",
@@ -13,6 +21,14 @@
       "symbol": "WPLUME",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/70470/thumb/plume.jpg?1762154772"
+    },
+    {
+      "chainId": 98866,
+      "address": "0x7488b23f4c26b44eef2e0766896be47443e86d79",
+      "name": "Nest USDC PayFi Lending Vault",
+      "symbol": "NAXI",
+      "decimals": 6,
+      "logoURI": "https://assets.coingecko.com/coins/images/102172731/thumb/nAXI-token.png?1775116403"
     },
     {
       "chainId": 98866,
@@ -29,22 +45,6 @@
       "symbol": "SRLN.D",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/66390/thumb/d-token-200.png?1749284651"
-    },
-    {
-      "chainId": 98866,
-      "address": "0xdf45b8322ea4ce898331602e2d1f3d1a67ae0ee8",
-      "name": "Nest Liquid Credit Vault",
-      "symbol": "NLCRD",
-      "decimals": 6,
-      "logoURI": "https://assets.coingecko.com/coins/images/102172627/thumb/nLCRD-token.png?1774372939"
-    },
-    {
-      "chainId": 98866,
-      "address": "0x7488b23f4c26b44eef2e0766896be47443e86d79",
-      "name": "Nest USDC PayFi Lending Vault",
-      "symbol": "NAXI",
-      "decimals": 6,
-      "logoURI": "https://assets.coingecko.com/coins/images/102172731/thumb/nAXI-token.png?1775116403"
     },
     {
       "chainId": 98866,
@@ -72,11 +72,11 @@
     },
     {
       "chainId": 98866,
-      "address": "0xd99076fcfd61b3695c5a00740364a84ac8c46cba",
-      "name": "Nest Perena Vault",
-      "symbol": "NPERENA",
+      "address": "0xdf45b8322ea4ce898331602e2d1f3d1a67ae0ee8",
+      "name": "Nest Liquid Credit Vault",
+      "symbol": "NLCRD",
       "decimals": 6,
-      "logoURI": "https://assets.coingecko.com/coins/images/102172628/thumb/nPERENA-token.png?1774372959"
+      "logoURI": "https://assets.coingecko.com/coins/images/102172627/thumb/nLCRD-token.png?1774372939"
     },
     {
       "chainId": 98866,
@@ -205,14 +205,6 @@
       "symbol": "NTBILL",
       "decimals": 6,
       "logoURI": "https://assets.coingecko.com/coins/images/55513/thumb/nTBILL-token.png?1746437745"
-    },
-    {
-      "chainId": 98866,
-      "address": "0xfcbe50dbe43bf7e5c88c6f6fb9ef432d4165406e",
-      "name": "Super OETH",
-      "symbol": "SUPEROETH",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/39828/thumb/Super_OETH.png?1724208268"
     },
     {
       "chainId": 98866,
@@ -448,7 +440,7 @@
     }
   ],
   "version": {
-    "major": 7,
+    "major": 8,
     "minor": 0,
     "patch": 0
   }

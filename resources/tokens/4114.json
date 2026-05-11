@@ -4,15 +4,15 @@
   "keywords": [
     "defi"
   ],
-  "timestamp": "2026-04-21T17:00:49.638+00:00",
+  "timestamp": "2026-05-08T09:00:47.290+00:00",
   "tokens": [
     {
       "chainId": 4114,
-      "address": "0x1b70ae756b1089cc5948e4f8a2ad498df30e897d",
-      "name": "Savings Vault JUSD (Citrea)",
-      "symbol": "SVJUSD",
+      "address": "0x547afd93b9c47d552059feb556909e017f8a9b25",
+      "name": "Citrea",
+      "symbol": "CTR",
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/102172892/thumb/JuiceDollar_Coinlogo.png?1776439475"
+      "logoURI": "https://assets.coingecko.com/coins/images/102173169/thumb/CTR.png?1778226916"
     },
     {
       "chainId": 4114,
@@ -32,19 +32,27 @@
     },
     {
       "chainId": 4114,
-      "address": "0x3100000000000000000000000000000000000006",
-      "name": "Wrapped Citrea Bitcoin",
-      "symbol": "WCBTC",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/102172843/thumb/cBTC.png?1776227743"
-    },
-    {
-      "chainId": 4114,
       "address": "0xe045e6c36cf77faa2cfb54466d71a3aef7bbe839",
       "name": "Citrea Bridged USDC (Citrea)",
       "symbol": "USDC.E",
       "decimals": 6,
       "logoURI": "https://assets.coingecko.com/coins/images/102172830/thumb/usdc.png?1776133757"
+    },
+    {
+      "chainId": 4114,
+      "address": "0x8d82c4e3c936c7b5724a382a9c5a4e6eb7ab6d5d",
+      "name": "Citrea USD",
+      "symbol": "CTUSD",
+      "decimals": 6,
+      "logoURI": "https://assets.coingecko.com/coins/images/71615/thumb/ctUSD.png?1776133927"
+    },
+    {
+      "chainId": 4114,
+      "address": "0x3100000000000000000000000000000000000006",
+      "name": "Wrapped Citrea Bitcoin",
+      "symbol": "WCBTC",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/102172843/thumb/cBTC.png?1776227743"
     },
     {
       "chainId": 4114,
@@ -64,11 +72,11 @@
     },
     {
       "chainId": 4114,
-      "address": "0x8d82c4e3c936c7b5724a382a9c5a4e6eb7ab6d5d",
-      "name": "Citrea USD",
-      "symbol": "CTUSD",
-      "decimals": 6,
-      "logoURI": "https://assets.coingecko.com/coins/images/71615/thumb/ctUSD.png?1776133927"
+      "address": "0x1b70ae756b1089cc5948e4f8a2ad498df30e897d",
+      "name": "Savings Vault JUSD (Citrea)",
+      "symbol": "SVJUSD",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/102172892/thumb/JuiceDollar_Coinlogo.png?1776439475"
     },
     {
       "chainId": 4114,
@@ -81,7 +89,7 @@
   ],
   "version": {
     "major": 0,
-    "minor": 4,
+    "minor": 5,
     "patch": 0
   }
 }
