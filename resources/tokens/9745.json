@@ -4,7 +4,7 @@
   "keywords": [
     "defi"
   ],
-  "timestamp": "2026-05-08T10:00:02.882+00:00",
+  "timestamp": "2026-05-12T05:00:03.576+00:00",
   "tokens": [
     {
       "chainId": 9745,
@@ -16,19 +16,19 @@
     },
     {
       "chainId": 9745,
-      "address": "0xc4374775489cb9c56003bf2c9b12495fc64f0771",
-      "name": "syrupUSDT",
-      "symbol": "SYRUPUSDT",
-      "decimals": 6,
-      "logoURI": "https://assets.coingecko.com/coins/images/69514/thumb/syrupUSDT.png?1761824990"
-    },
-    {
-      "chainId": 9745,
       "address": "0xabb48792a3161e81b47ca084c0b7a22a50324a44",
       "name": "Lithos",
       "symbol": "LITH",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/70098/thumb/logo-lith1.png?1760553212"
+    },
+    {
+      "chainId": 9745,
+      "address": "0x6100e367285b01f48d07953803a2d8dca5d19873",
+      "name": "Wrapped XPL",
+      "symbol": "WXPL",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/69509/thumb/plasma.png?1758805469"
     },
     {
       "chainId": 9745,
@@ -53,6 +53,14 @@
       "symbol": "USDX",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/102172783/thumb/axis-usd.jpg?1775659788"
+    },
+    {
+      "chainId": 9745,
+      "address": "0x92a01ab7317ac318b39b00eb6704ba56f0245d7a",
+      "name": "Trillions",
+      "symbol": "TRILLIONS",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/69560/thumb/trillions.png?1759039612"
     },
     {
       "chainId": 9745,
@@ -88,19 +96,19 @@
     },
     {
       "chainId": 9745,
-      "address": "0x92a01ab7317ac318b39b00eb6704ba56f0245d7a",
-      "name": "Trillions",
-      "symbol": "TRILLIONS",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/69560/thumb/trillions.png?1759039612"
+      "address": "0xe0126f0c4451b2b917064a93040fd4770d6774b5",
+      "name": "Wrapped Aave Plasma USDT0",
+      "symbol": "WAPLAUSDT0",
+      "decimals": 6,
+      "logoURI": "https://assets.coingecko.com/coins/images/69597/thumb/waplasusdt0.png?1759197676"
     },
     {
       "chainId": 9745,
-      "address": "0x6100e367285b01f48d07953803a2d8dca5d19873",
-      "name": "Wrapped XPL",
-      "symbol": "WXPL",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/69509/thumb/plasma.png?1758805469"
+      "address": "0xc4374775489cb9c56003bf2c9b12495fc64f0771",
+      "name": "syrupUSDT",
+      "symbol": "SYRUPUSDT",
+      "decimals": 6,
+      "logoURI": "https://assets.coingecko.com/coins/images/69514/thumb/syrupUSDT.png?1761824990"
     },
     {
       "chainId": 9745,
@@ -109,14 +117,6 @@
       "symbol": "SYZUSD",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/70132/thumb/Group_427319351.png?1760695727"
-    },
-    {
-      "chainId": 9745,
-      "address": "0xe0126f0c4451b2b917064a93040fd4770d6774b5",
-      "name": "Wrapped Aave Plasma USDT0",
-      "symbol": "WAPLAUSDT0",
-      "decimals": 6,
-      "logoURI": "https://assets.coingecko.com/coins/images/69597/thumb/waplasusdt0.png?1759197676"
     },
     {
       "chainId": 9745,
@@ -272,6 +272,14 @@
     },
     {
       "chainId": 9745,
+      "address": "0x7230a9d42d622e18fdf7207041eca18465f9f1be",
+      "name": "Metronome Synth ETH",
+      "symbol": "MSETH",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/67512/thumb/metronome_mseth.png?1753017508"
+    },
+    {
+      "chainId": 9745,
       "address": "0x0a1a1a107e45b7ced86833863f482bc5f4ed82ef",
       "name": "USDai",
       "symbol": "USDAI",
@@ -313,7 +321,7 @@
   ],
   "version": {
     "major": 6,
-    "minor": 0,
+    "minor": 1,
     "patch": 0
   }
 }

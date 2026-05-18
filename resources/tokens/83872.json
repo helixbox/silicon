@@ -1,26 +1,42 @@
 {
   "name": "CoinGecko",
-  "logoURI": "https://static.coingecko.com/s/thumbnail-007177f3eca19695592f0b8b0eabbdae282b54154e1be912285c9034ea6cbaf2.png",
+  "logoURI": "https://static.coingecko.com/gecko-new.svg",
   "keywords": [
     "defi"
   ],
-  "timestamp": "2024-11-24T10:00:42.031+00:00",
+  "timestamp": "2026-05-16T10:00:58.910+00:00",
   "tokens": [
-    {
-      "chainId": 83872,
-      "address": "0x3f7be9db9d37bd89c3fa722bb29ba17300c18fc8",
-      "name": "Wrapped Zedxion",
-      "symbol": "WZEDX",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/38099/thumb/wzedx.png?1716526998"
-    },
     {
       "chainId": 83872,
       "address": "0x240962a6ddd67dd382db4d417cbdf0d8822aca2f",
       "name": "Bitcoin Bridged ZED20",
-      "symbol": "BTCZ",
+      "symbol": "BTC.Z",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/38101/thumb/btc-z.png?1716527089"
+    },
+    {
+      "chainId": 83872,
+      "address": "0xb78e2642b875928254cf50683d0589ca249f4efc",
+      "name": "Zedxion Bridged USDT (Zedxion)",
+      "symbol": "USDT.Z",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/66516/thumb/usdt.jpg?1749629616"
+    },
+    {
+      "chainId": 83872,
+      "address": "0x3fca4992b704b0c0e1ce0c654b8a57f6aaa4fc4f",
+      "name": "Wrapped Oil",
+      "symbol": "WOIL",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/69411/thumb/170190755.jpg?1758527631"
+    },
+    {
+      "chainId": 83872,
+      "address": "0xfe5f4fa42e7a3027475a3eb54f7ee16c332298f1",
+      "name": "ZEDX Bridged USDC (Zedxion)",
+      "symbol": "USDC.Z",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/38100/thumb/usdc-z.png?1716527049"
     },
     {
       "chainId": 83872,
@@ -32,7 +48,7 @@
     }
   ],
   "version": {
-    "major": null,
+    "major": 1,
     "minor": 0,
     "patch": 0
   }
