@@ -4,39 +4,15 @@
   "keywords": [
     "defi"
   ],
-  "timestamp": "2026-03-19T10:00:26.410+00:00",
+  "timestamp": "2026-05-23T09:00:24.744+00:00",
   "tokens": [
     {
       "chainId": 30,
-      "address": "0x2acc95758f8b5f583470ba265eb685a8f45fc9d5",
-      "name": "Rootstock Infrastructure Framework",
-      "symbol": "RIF",
+      "address": "0x055a902303746382fbb7d18f6ae0df56efdc5213",
+      "name": "Babelfish",
+      "symbol": "$FISH",
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/7460/thumb/8befc44a46c247e8a3f7fc8abba586b1_%283%29.png?1705501867"
-    },
-    {
-      "chainId": 30,
-      "address": "0x9ac7fe28967b30e3a4e6e03286d715b42b453d10",
-      "name": "Money On Chain",
-      "symbol": "MOC",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/33004/thumb/moc-token-moc.png?1700122500"
-    },
-    {
-      "chainId": 30,
-      "address": "0xb5999795be0ebb5bab23144aa5fd6a02d080299f",
-      "name": "XUSD (BabelFish)",
-      "symbol": "XUSD",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/28294/thumb/XUSD.png?1696527293"
-    },
-    {
-      "chainId": 30,
-      "address": "0x5db91e24bd32059584bbdb831a901f1199f3d459",
-      "name": "Staked RIF",
-      "symbol": "STRIF",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/71616/thumb/staked-rif.jpg?1768559807"
+      "logoURI": "https://assets.coingecko.com/coins/images/35564/thumb/babiii.png?1709174430"
     },
     {
       "chainId": 30,
@@ -48,27 +24,19 @@
     },
     {
       "chainId": 30,
-      "address": "0x542fda317318ebf1d3deaf76e0b632741a7e677d",
-      "name": "Rootstock Bitcoin",
-      "symbol": "RBTC",
+      "address": "0x5db91e24bd32059584bbdb831a901f1199f3d459",
+      "name": "Staked RIF",
+      "symbol": "STRIF",
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/5070/thumb/RBTC-logo.png?1718152038"
+      "logoURI": "https://assets.coingecko.com/coins/images/71616/thumb/staked-rif.jpg?1768559807"
     },
     {
       "chainId": 30,
-      "address": "0x055a902303746382fbb7d18f6ae0df56efdc5213",
-      "name": "Babelfish",
-      "symbol": "$FISH",
+      "address": "0xc1411567d2670e24d9c4daaa7cda95686e1250aa",
+      "name": "Sovryn Dollar",
+      "symbol": "DLLR",
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/35564/thumb/babiii.png?1709174430"
-    },
-    {
-      "chainId": 30,
-      "address": "0xef213441a85df4d7acbdae0cf78004e1e486bb96",
-      "name": "Rootstock Bridged USDT (Rootstock)",
-      "symbol": "RUSDT",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/67003/thumb/tether-usdt-logo.png?1751445952"
+      "logoURI": "https://assets.coingecko.com/coins/images/30947/thumb/sovryn_dllr.jpg?1696529786"
     },
     {
       "chainId": 30,
@@ -80,6 +48,38 @@
     },
     {
       "chainId": 30,
+      "address": "0xb5999795be0ebb5bab23144aa5fd6a02d080299f",
+      "name": "XUSD (BabelFish)",
+      "symbol": "XUSD",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/28294/thumb/XUSD.png?1696527293"
+    },
+    {
+      "chainId": 30,
+      "address": "0x9ac7fe28967b30e3a4e6e03286d715b42b453d10",
+      "name": "Money On Chain",
+      "symbol": "MOC",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/33004/thumb/moc-token-moc.png?1700122500"
+    },
+    {
+      "chainId": 30,
+      "address": "0x2acc95758f8b5f583470ba265eb685a8f45fc9d5",
+      "name": "Rootstock Infrastructure Framework",
+      "symbol": "RIF",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/7460/thumb/8befc44a46c247e8a3f7fc8abba586b1_%283%29.png?1705501867"
+    },
+    {
+      "chainId": 30,
+      "address": "0xef213441a85df4d7acbdae0cf78004e1e486bb96",
+      "name": "Rootstock Bridged USDT (Rootstock)",
+      "symbol": "RUSDT",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/67003/thumb/tether-usdt-logo.png?1751445952"
+    },
+    {
+      "chainId": 30,
       "address": "0x967f8799af07df1534d48a95a5c9febe92c53ae0",
       "name": "Wrapped rBTC",
       "symbol": "WRBTC",
@@ -88,11 +88,11 @@
     },
     {
       "chainId": 30,
-      "address": "0xc1411567d2670e24d9c4daaa7cda95686e1250aa",
-      "name": "Sovryn Dollar",
-      "symbol": "DLLR",
+      "address": "0x542fda317318ebf1d3deaf76e0b632741a7e677d",
+      "name": "Bitcoin on Rootstock",
+      "symbol": "RBTC",
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/30947/thumb/sovryn_dllr.jpg?1696529786"
+      "logoURI": "https://assets.coingecko.com/coins/images/5070/thumb/rBTC_primary_symbol_256x256_%281%29.png?1779524021"
     },
     {
       "chainId": 30,
@@ -218,6 +218,6 @@
   "version": {
     "major": 2,
     "minor": 1,
-    "patch": 0
+    "patch": 1
   }
 }

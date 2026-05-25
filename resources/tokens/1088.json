@@ -4,8 +4,16 @@
   "keywords": [
     "defi"
   ],
-  "timestamp": "2026-03-11T11:00:07.878+00:00",
+  "timestamp": "2026-05-21T11:00:06.366+00:00",
   "tokens": [
+    {
+      "chainId": 1088,
+      "address": "0x90fe084f877c65e1b577c7b2ea64b8d8dd1ab278",
+      "name": "Netswap",
+      "symbol": "NETT",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/22262/thumb/netswpa.PNG?1696521606"
+    },
     {
       "chainId": 1088,
       "address": "0xa5b55ab1daf0f8e1efc0eb1931a957fd89b918f4",
@@ -13,14 +21,6 @@
       "symbol": "WBTC",
       "decimals": 8,
       "logoURI": "https://assets.coingecko.com/coins/images/39556/thumb/wbtc.png?1722898064"
-    },
-    {
-      "chainId": 1088,
-      "address": "0x721532bc0da5ffaeb0a6a45fb24271e8098629a7",
-      "name": "BinaryDAO",
-      "symbol": "BYTE",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/24539/thumb/binarydao.PNG?1696523717"
     },
     {
       "chainId": 1088,
@@ -32,27 +32,19 @@
     },
     {
       "chainId": 1088,
-      "address": "0xea32a96608495e54156ae48931a7c20f0dcc1a21",
-      "name": "Metis Bridged USDC (Metis Andromeda)",
-      "symbol": "M.USDC",
-      "decimals": 6,
-      "logoURI": "https://assets.coingecko.com/coins/images/69751/thumb/usdc.jpg?1759486323"
-    },
-    {
-      "chainId": 1088,
-      "address": "0x90fe084f877c65e1b577c7b2ea64b8d8dd1ab278",
-      "name": "Netswap",
-      "symbol": "NETT",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/22262/thumb/netswpa.PNG?1696521606"
-    },
-    {
-      "chainId": 1088,
       "address": "0x6f05709bc91bad933346f9e159f0d3fdbc2c9dce",
       "name": "Hera Finance",
       "symbol": "HERA",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/24751/thumb/heraLogo-200px.png?1721043422"
+    },
+    {
+      "chainId": 1088,
+      "address": "0xea32a96608495e54156ae48931a7c20f0dcc1a21",
+      "name": "Metis Bridged USDC (Metis Andromeda)",
+      "symbol": "M.USDC",
+      "decimals": 6,
+      "logoURI": "https://assets.coingecko.com/coins/images/69751/thumb/usdc.jpg?1759486323"
     },
     {
       "chainId": 1088,
@@ -248,7 +240,7 @@
     }
   ],
   "version": {
-    "major": 26,
+    "major": 27,
     "minor": 0,
     "patch": 0
   }

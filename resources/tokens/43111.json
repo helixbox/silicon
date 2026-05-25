@@ -4,7 +4,7 @@
   "keywords": [
     "defi"
   ],
-  "timestamp": "2026-01-29T17:01:03.277+00:00",
+  "timestamp": "2026-05-23T11:01:01.516+00:00",
   "tokens": [
     {
       "chainId": 43111,
@@ -16,11 +16,11 @@
     },
     {
       "chainId": 43111,
-      "address": "0x03c7054bcb39f7b2e5b2c7acb37583e32d70cfa3",
-      "name": "Hemi Bridged WBTC (Hemi)",
-      "symbol": "WBTC",
-      "decimals": 8,
-      "logoURI": "https://assets.coingecko.com/coins/images/68384/thumb/wbtc.jpg?1755570014"
+      "address": "0x7a06c4aef988e7925575c50261297a946ad204a8",
+      "name": "VUSD",
+      "symbol": "VUSD",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/67026/thumb/vusd.jpg?1751514327"
     },
     {
       "chainId": 43111,
@@ -32,11 +32,11 @@
     },
     {
       "chainId": 43111,
-      "address": "0x7a06c4aef988e7925575c50261297a946ad204a8",
-      "name": "VUSD",
-      "symbol": "VUSD",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/67026/thumb/vusd.jpg?1751514327"
+      "address": "0x03c7054bcb39f7b2e5b2c7acb37583e32d70cfa3",
+      "name": "Hemi Bridged WBTC (Hemi)",
+      "symbol": "WBTC",
+      "decimals": 8,
+      "logoURI": "https://assets.coingecko.com/coins/images/68384/thumb/wbtc.jpg?1755570014"
     },
     {
       "chainId": 43111,
@@ -80,14 +80,6 @@
     },
     {
       "chainId": 43111,
-      "address": "0x78e26e8b953c7c78a58d69d8b9a91745c2bbb258",
-      "name": "uBTC",
-      "symbol": "UBTC",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/55079/thumb/uBTC.png?1743613297"
-    },
-    {
-      "chainId": 43111,
       "address": "0xad11a8beb98bbf61dbb1aa0f6d6f2ecd87b35afa",
       "name": "Stargate Bridged USDC",
       "symbol": "USDC.E",
@@ -101,14 +93,6 @@
       "symbol": "LINK",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/877/thumb/Chainlink_Logo_500.png?1760023405"
-    },
-    {
-      "chainId": 43111,
-      "address": "0xf9775085d726e782e83585033b58606f7731ab18",
-      "name": "Universal BTC",
-      "symbol": "UNIBTC",
-      "decimals": 8,
-      "logoURI": "https://assets.coingecko.com/coins/images/39599/thumb/uniBTC_200px.png?1723064455"
     },
     {
       "chainId": 43111,
@@ -133,11 +117,19 @@
       "symbol": "RSETH",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/33800/thumb/Icon___Dark.png?1702991855"
+    },
+    {
+      "chainId": 43111,
+      "address": "0xf9775085d726e782e83585033b58606f7731ab18",
+      "name": "Universal BTC",
+      "symbol": "UNIBTC",
+      "decimals": 8,
+      "logoURI": "https://assets.coingecko.com/coins/images/39599/thumb/uniBTC_200px.png?1723064455"
     }
   ],
   "version": {
-    "major": 2,
-    "minor": 1,
+    "major": 3,
+    "minor": 0,
     "patch": 0
   }
 }

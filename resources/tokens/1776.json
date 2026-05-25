@@ -4,15 +4,23 @@
   "keywords": [
     "defi"
   ],
-  "timestamp": "2026-05-08T10:00:45.343+00:00",
+  "timestamp": "2026-05-20T11:00:46.258+00:00",
   "tokens": [
     {
       "chainId": 1776,
-      "address": "factory/inj16eckaf75gcu9uxdglyvmh63k9t0l7chd0qmu85/black",
-      "name": "Black Panther",
-      "symbol": "BLACK",
+      "address": "inj18flmwwaxxqj8m8l5zl8xhjrnah98fcjp3gcy3e/XIII",
+      "name": "XIIICOIN",
+      "symbol": "XIII",
       "decimals": 6,
-      "logoURI": "https://assets.coingecko.com/coins/images/37219/thumb/BLACK.png?1713774259"
+      "logoURI": "https://assets.coingecko.com/coins/images/37220/thumb/XIII-LOGO_2.1mb.png?1732459486"
+    },
+    {
+      "chainId": 1776,
+      "address": "factory/inj1xy3kvlr4q4wdd6lrelsrw2fk2ged0any44hhwq/KIRA",
+      "name": "Kira the Injective Cat",
+      "symbol": "KIRA",
+      "decimals": 6,
+      "logoURI": "https://assets.coingecko.com/coins/images/33755/thumb/KIRA_LOGO_1500x1500.png?1719881603"
     },
     {
       "chainId": 1776,
@@ -24,11 +32,11 @@
     },
     {
       "chainId": 1776,
-      "address": "inj1n73yuus64z0yrda9hvn77twkspc4uste9j9ydd",
-      "name": "Sushi Fighter",
-      "symbol": "$SUSHI",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/35792/thumb/Sushi_Fighter_Logo_Round.JPG?1709799643"
+      "address": "factory/inj1v3a4zznudwpukpr8y987pu5gnh4xuf7v36jhva/nept",
+      "name": "Neptune",
+      "symbol": "NEPT",
+      "decimals": 6,
+      "logoURI": "https://assets.coingecko.com/coins/images/54516/thumb/NEPT-200px.png?1740119354"
     },
     {
       "chainId": 1776,
@@ -40,19 +48,27 @@
     },
     {
       "chainId": 1776,
-      "address": "factory/inj1v3a4zznudwpukpr8y987pu5gnh4xuf7v36jhva/nept",
-      "name": "Neptune",
-      "symbol": "NEPT",
+      "address": "ibc/4971C5E4786D5995EC7EF894FCFA9CF2E127E95D5D53A982F6A062F3F410EDB8",
+      "name": "Levana",
+      "symbol": "LVN",
       "decimals": 6,
-      "logoURI": "https://assets.coingecko.com/coins/images/54516/thumb/NEPT-200px.png?1740119354"
+      "logoURI": "https://assets.coingecko.com/coins/images/33427/thumb/levana-token-icon_%281%29.png?1701819338"
     },
     {
       "chainId": 1776,
-      "address": "inj18flmwwaxxqj8m8l5zl8xhjrnah98fcjp3gcy3e/XIII",
-      "name": "XIIICOIN",
-      "symbol": "XIII",
+      "address": "inj1n73yuus64z0yrda9hvn77twkspc4uste9j9ydd",
+      "name": "Sushi Fighter",
+      "symbol": "$SUSHI",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/35792/thumb/Sushi_Fighter_Logo_Round.JPG?1709799643"
+    },
+    {
+      "chainId": 1776,
+      "address": "factory/inj16eckaf75gcu9uxdglyvmh63k9t0l7chd0qmu85/black",
+      "name": "Black Panther",
+      "symbol": "BLACK",
       "decimals": 6,
-      "logoURI": "https://assets.coingecko.com/coins/images/37220/thumb/XIII-LOGO_2.1mb.png?1732459486"
+      "logoURI": "https://assets.coingecko.com/coins/images/37219/thumb/BLACK.png?1713774259"
     },
     {
       "chainId": 1776,
@@ -72,27 +88,11 @@
     },
     {
       "chainId": 1776,
-      "address": "ibc/4971C5E4786D5995EC7EF894FCFA9CF2E127E95D5D53A982F6A062F3F410EDB8",
-      "name": "Levana",
-      "symbol": "LVN",
-      "decimals": 6,
-      "logoURI": "https://assets.coingecko.com/coins/images/33427/thumb/levana-token-icon_%281%29.png?1701819338"
-    },
-    {
-      "chainId": 1776,
       "address": "factory/inj1etz0laas6h7vemg3qtd67jpr6lh8v7xz7gfzqw/hdro",
       "name": "Hydro Protocol",
       "symbol": "HDRO",
       "decimals": 6,
       "logoURI": "https://assets.coingecko.com/coins/images/36110/thumb/Hydro_logo_200x200.png?1710486646"
-    },
-    {
-      "chainId": 1776,
-      "address": "factory/inj1xy3kvlr4q4wdd6lrelsrw2fk2ged0any44hhwq/KIRA",
-      "name": "Kira the Injective Cat",
-      "symbol": "KIRA",
-      "decimals": 6,
-      "logoURI": "https://assets.coingecko.com/coins/images/33755/thumb/KIRA_LOGO_1500x1500.png?1719881603"
     },
     {
       "chainId": 1776,
@@ -140,7 +140,7 @@
       "name": "ZIGChain",
       "symbol": "ZIG",
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/14796/thumb/zig.jpg?1731990265"
+      "logoURI": "https://assets.coingecko.com/coins/images/14796/thumb/ZIG_COIN_%281%29.png?1779272472"
     },
     {
       "chainId": 1776,
@@ -162,6 +162,6 @@
   "version": {
     "major": 8,
     "minor": 1,
-    "patch": 0
+    "patch": 1
   }
 }
