@@ -4,16 +4,8 @@
   "keywords": [
     "defi"
   ],
-  "timestamp": "2026-05-23T11:01:01.516+00:00",
+  "timestamp": "2026-05-29T10:01:01.471+00:00",
   "tokens": [
-    {
-      "chainId": 43111,
-      "address": "0x4200000000000000000000000000000000000006",
-      "name": "Hemi Bridged WETH (Hemi)",
-      "symbol": "WETH",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/67025/thumb/weth_2.jpg?1751514061"
-    },
     {
       "chainId": 43111,
       "address": "0x7a06c4aef988e7925575c50261297a946ad204a8",
@@ -37,6 +29,14 @@
       "symbol": "WBTC",
       "decimals": 8,
       "logoURI": "https://assets.coingecko.com/coins/images/68384/thumb/wbtc.jpg?1755570014"
+    },
+    {
+      "chainId": 43111,
+      "address": "0x4200000000000000000000000000000000000006",
+      "name": "Hemi Bridged WETH (Hemi)",
+      "symbol": "WETH",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/67025/thumb/weth_2.jpg?1751514061"
     },
     {
       "chainId": 43111,
@@ -96,6 +96,14 @@
     },
     {
       "chainId": 43111,
+      "address": "0x78e26e8b953c7c78a58d69d8b9a91745c2bbb258",
+      "name": "uBTC",
+      "symbol": "UBTC",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/55079/thumb/uBTC.png?1743613297"
+    },
+    {
+      "chainId": 43111,
       "address": "0x93919784c523f39cacaa98ee0a9d96c3f32b593e",
       "name": "Bedrock BTC",
       "symbol": "BRBTC",
@@ -129,7 +137,7 @@
   ],
   "version": {
     "major": 3,
-    "minor": 0,
+    "minor": 1,
     "patch": 0
   }
 }

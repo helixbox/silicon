@@ -4,15 +4,15 @@
   "keywords": [
     "defi"
   ],
-  "timestamp": "2026-04-15T06:00:44.547+00:00",
+  "timestamp": "2026-05-29T16:00:48.997+00:00",
   "tokens": [
     {
       "chainId": 1923,
-      "address": "0x2826d136f5630ada89c1678b64a61620aab77aea",
-      "name": "Layerzero Bridged Swell",
-      "symbol": "SWELL",
+      "address": "0x4200000000000000000000000000000000000006",
+      "name": "Layerzero Bridged Wrapped Ether (Swellchain)",
+      "symbol": "WETH",
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/53670/thumb/66ff8288d441ad252025f769_swellToken.png?1737007034"
+      "logoURI": "https://assets.coingecko.com/coins/images/54515/thumb/weth_2.jpg?1740119347"
     },
     {
       "chainId": 1923,
@@ -24,11 +24,11 @@
     },
     {
       "chainId": 1923,
-      "address": "0x4200000000000000000000000000000000000006",
-      "name": "Layerzero Bridged Wrapped Ether (Swellchain)",
-      "symbol": "WETH",
+      "address": "0x2826d136f5630ada89c1678b64a61620aab77aea",
+      "name": "Layerzero Bridged Swell",
+      "symbol": "SWELL",
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/54515/thumb/weth_2.jpg?1740119347"
+      "logoURI": "https://assets.coingecko.com/coins/images/53670/thumb/66ff8288d441ad252025f769_swellToken.png?1737007034"
     },
     {
       "chainId": 1923,
@@ -129,7 +129,7 @@
     {
       "chainId": 1923,
       "address": "0x3d63825b0d8669307366e6c8202f656b9e91d368",
-      "name": "Wild Goat Coin",
+      "name": "Wild Goat Coin [OLD]",
       "symbol": "WGC",
       "decimals": 6,
       "logoURI": "https://assets.coingecko.com/coins/images/37966/thumb/wgc-v3-logo.png?1776225874"
@@ -138,6 +138,6 @@
   "version": {
     "major": 5,
     "minor": 0,
-    "patch": 1
+    "patch": 2
   }
 }

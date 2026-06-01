@@ -4,15 +4,23 @@
   "keywords": [
     "defi"
   ],
-  "timestamp": "2026-05-19T17:00:41.149+00:00",
+  "timestamp": "2026-05-29T17:00:46.412+00:00",
   "tokens": [
     {
       "chainId": 57073,
-      "address": "0xd642b49d10cc6e1bc1c6945725667c35e0875f22",
-      "name": "Purple",
-      "symbol": "PURPLE",
+      "address": "0x4200000000000000000000000000000000000006",
+      "name": "Ink Bridged WETH (Ink)",
+      "symbol": "WETH",
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/53880/thumb/ink_purple.png?1738227741"
+      "logoURI": "https://assets.coingecko.com/coins/images/52918/thumb/weth_2.jpg?1734684690"
+    },
+    {
+      "chainId": 57073,
+      "address": "0xca5f2ccbd9c40b32657df57c716de44237f80f05",
+      "name": "Kraken",
+      "symbol": "KRAKEN",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/52919/thumb/kraken.jpg?1734685461"
     },
     {
       "chainId": 57073,
@@ -24,30 +32,6 @@
     },
     {
       "chainId": 57073,
-      "address": "0x4200000000000000000000000000000000000006",
-      "name": "Ink Bridged WETH (Ink)",
-      "symbol": "WETH",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/52918/thumb/weth_2.jpg?1734684690"
-    },
-    {
-      "chainId": 57073,
-      "address": "0x0200c29006150606b650577bbe7b6248f58470c1",
-      "name": "USDT0",
-      "symbol": "USDT0",
-      "decimals": 6,
-      "logoURI": "https://assets.coingecko.com/coins/images/53705/thumb/usdt0.jpg?1737086183"
-    },
-    {
-      "chainId": 57073,
-      "address": "0x0606fc632ee812ba970af72f8489baaa443c4b98",
-      "name": "ANITA",
-      "symbol": "ANITA",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/68173/thumb/_L_L.png?1754996486"
-    },
-    {
-      "chainId": 57073,
       "address": "0x20c69c12abf2b6f8d8ca33604dd25c700c7e70a5",
       "name": "Cat Call Agent",
       "symbol": "CAT",
@@ -56,11 +40,11 @@
     },
     {
       "chainId": 57073,
-      "address": "0xca5f2ccbd9c40b32657df57c716de44237f80f05",
-      "name": "Kraken",
-      "symbol": "KRAKEN",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/52919/thumb/kraken.jpg?1734685461"
+      "address": "0x0200c29006150606b650577bbe7b6248f58470c1",
+      "name": "USDT0",
+      "symbol": "USDT0",
+      "decimals": 6,
+      "logoURI": "https://assets.coingecko.com/coins/images/53705/thumb/usdt0.jpg?1737086183"
     },
     {
       "chainId": 57073,
@@ -77,6 +61,22 @@
       "symbol": "SHROOMY",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/54002/thumb/1000000182.jpg?1737942213"
+    },
+    {
+      "chainId": 57073,
+      "address": "0x0606fc632ee812ba970af72f8489baaa443c4b98",
+      "name": "ANITA",
+      "symbol": "ANITA",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/68173/thumb/_L_L.png?1754996486"
+    },
+    {
+      "chainId": 57073,
+      "address": "0xd642b49d10cc6e1bc1c6945725667c35e0875f22",
+      "name": "Purple",
+      "symbol": "PURPLE",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/53880/thumb/ink_purple.png?1738227741"
     },
     {
       "chainId": 57073,
@@ -273,7 +273,7 @@
     {
       "chainId": 57073,
       "address": "0x3d63825b0d8669307366e6c8202f656b9e91d368",
-      "name": "Wild Goat Coin",
+      "name": "Wild Goat Coin [OLD]",
       "symbol": "WGC",
       "decimals": 6,
       "logoURI": "https://assets.coingecko.com/coins/images/37966/thumb/wgc-v3-logo.png?1776225874"
@@ -322,6 +322,6 @@
   "version": {
     "major": 4,
     "minor": 5,
-    "patch": 0
+    "patch": 1
   }
 }

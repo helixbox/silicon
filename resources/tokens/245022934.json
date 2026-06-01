@@ -4,16 +4,8 @@
   "keywords": [
     "defi"
   ],
-  "timestamp": "2026-04-03T11:00:03.762+00:00",
+  "timestamp": "2026-05-26T16:00:05.908+00:00",
   "tokens": [
-    {
-      "chainId": 245022934,
-      "address": "0xea6b04272f9f62f997f666f07d3a974134f7ffb9",
-      "name": "NeonPass Bridged USDC (Neon)",
-      "symbol": "USDC",
-      "decimals": 6,
-      "logoURI": "https://assets.coingecko.com/coins/images/35295/thumb/USDC_Icon.png?1708081860"
-    },
     {
       "chainId": 245022934,
       "address": "0x5f38248f339bf4e84a2caf4e4c0552862dc9f82a",
@@ -32,6 +24,14 @@
     },
     {
       "chainId": 245022934,
+      "address": "0xea6b04272f9f62f997f666f07d3a974134f7ffb9",
+      "name": "NeonPass Bridged USDC (Neon)",
+      "symbol": "USDC",
+      "decimals": 6,
+      "logoURI": "https://assets.coingecko.com/coins/images/35295/thumb/USDC_Icon.png?1708081860"
+    },
+    {
+      "chainId": 245022934,
       "address": "0x14ccffc97ac156a7f1e3183adaa8e7cc888ad162",
       "name": "Liquid Staking Token",
       "symbol": "LST",
@@ -44,7 +44,7 @@
       "name": "Jito Staked SOL",
       "symbol": "JITOSOL",
       "decimals": 9,
-      "logoURI": "https://assets.coingecko.com/coins/images/28046/thumb/JitoSOL-200.png?1696527060"
+      "logoURI": "https://assets.coingecko.com/coins/images/28046/thumb/JitoSOL_Token_Logo_Green.png?1779807693"
     },
     {
       "chainId": 245022934,
@@ -82,6 +82,6 @@
   "version": {
     "major": 6,
     "minor": 0,
-    "patch": 0
+    "patch": 1
   }
 }

@@ -4,8 +4,16 @@
   "keywords": [
     "defi"
   ],
-  "timestamp": "2026-04-15T06:00:33.597+00:00",
+  "timestamp": "2026-05-29T16:00:38.064+00:00",
   "tokens": [
+    {
+      "chainId": 480,
+      "address": "0x7047b80cb47527e864029d3cfe1899534dc15402",
+      "name": "Bowser",
+      "symbol": "BOWSER",
+      "decimals": 9,
+      "logoURI": "https://assets.coingecko.com/coins/images/50784/thumb/BOWSER_200.jpg?1729193270"
+    },
     {
       "chainId": 480,
       "address": "0x6fb9df9530e302be9dc126363bd7529b807f7167",
@@ -16,19 +24,51 @@
     },
     {
       "chainId": 480,
-      "address": "0x6770a7133bd0d74f95e4c9e9b7735bb4cd5653a6",
-      "name": "World Cat",
-      "symbol": "WORLDCAT",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/67236/thumb/worldcat-logo.jpg?1752144407"
-    },
-    {
-      "chainId": 480,
       "address": "0xed49fe44fd4249a09843c2ba4bba7e50beca7113",
       "name": "DNA Token",
       "symbol": "DNA",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/54349/thumb/DNA_Logo_200-200.png?1755931235"
+    },
+    {
+      "chainId": 480,
+      "address": "0x337e7456b420bd3481e7fa61fa9850343d610d34",
+      "name": "Mexican Peso",
+      "symbol": "WMXN",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/70880/thumb/wmxn_logo_1.png?1764392404"
+    },
+    {
+      "chainId": 480,
+      "address": "0x8a1d45e102e886510e891d2ec656a708991e2d76",
+      "name": "Colombian Peso",
+      "symbol": "WCOP",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/70887/thumb/wcop_logo_1.png?1764394538"
+    },
+    {
+      "chainId": 480,
+      "address": "0xcd1e32b86953d79a6ac58e813d2ea7a1790cab63",
+      "name": "ORO",
+      "symbol": "ORO",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/70441/thumb/oro.png?1762076294"
+    },
+    {
+      "chainId": 480,
+      "address": "0x4f34c8b3b5fb6d98da888f0fea543d4d9c9f2ebe",
+      "name": "Peruvian Sol",
+      "symbol": "WPEN",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/70975/thumb/wpen_logo_1.png?1764954695"
+    },
+    {
+      "chainId": 480,
+      "address": "0x4200000000000000000000000000000000000006",
+      "name": "Wrapped ETH (World Chain)",
+      "symbol": "WETH",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/50790/thumb/wETH_32.png?1729214345"
     },
     {
       "chainId": 480,
@@ -56,51 +96,11 @@
     },
     {
       "chainId": 480,
-      "address": "0xcd1e32b86953d79a6ac58e813d2ea7a1790cab63",
-      "name": "ORO",
-      "symbol": "ORO",
+      "address": "0x6770a7133bd0d74f95e4c9e9b7735bb4cd5653a6",
+      "name": "World Cat",
+      "symbol": "WORLDCAT",
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/70441/thumb/oro.png?1762076294"
-    },
-    {
-      "chainId": 480,
-      "address": "0x8a1d45e102e886510e891d2ec656a708991e2d76",
-      "name": "Colombian Peso",
-      "symbol": "WCOP",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/70887/thumb/wcop_logo_1.png?1764394538"
-    },
-    {
-      "chainId": 480,
-      "address": "0x7047b80cb47527e864029d3cfe1899534dc15402",
-      "name": "Bowser",
-      "symbol": "BOWSER",
-      "decimals": 9,
-      "logoURI": "https://assets.coingecko.com/coins/images/50784/thumb/BOWSER_200.jpg?1729193270"
-    },
-    {
-      "chainId": 480,
-      "address": "0x337e7456b420bd3481e7fa61fa9850343d610d34",
-      "name": "Mexican Peso",
-      "symbol": "WMXN",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/70880/thumb/wmxn_logo_1.png?1764392404"
-    },
-    {
-      "chainId": 480,
-      "address": "0x4f34c8b3b5fb6d98da888f0fea543d4d9c9f2ebe",
-      "name": "Peruvian Sol",
-      "symbol": "WPEN",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/70975/thumb/wpen_logo_1.png?1764954695"
-    },
-    {
-      "chainId": 480,
-      "address": "0x4200000000000000000000000000000000000006",
-      "name": "Wrapped ETH (World Chain)",
-      "symbol": "WETH",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/50790/thumb/wETH_32.png?1729214345"
+      "logoURI": "https://assets.coingecko.com/coins/images/67236/thumb/worldcat-logo.jpg?1752144407"
     },
     {
       "chainId": 480,
@@ -217,7 +217,7 @@
     {
       "chainId": 480,
       "address": "0x3d63825b0d8669307366e6c8202f656b9e91d368",
-      "name": "Wild Goat Coin",
+      "name": "Wild Goat Coin [OLD]",
       "symbol": "WGC",
       "decimals": 6,
       "logoURI": "https://assets.coingecko.com/coins/images/37966/thumb/wgc-v3-logo.png?1776225874"
@@ -234,6 +234,6 @@
   "version": {
     "major": 2,
     "minor": 1,
-    "patch": 1
+    "patch": 2
   }
 }
