@@ -4,8 +4,16 @@
   "keywords": [
     "defi"
   ],
-  "timestamp": "2026-03-04T05:01:01.406+00:00",
+  "timestamp": "2026-06-04T11:00:21.823+00:00",
   "tokens": [
+    {
+      "chainId": 4488,
+      "address": "0xa2f1c73fe7705c80f65d4db43529220d5b4fb154",
+      "name": "ANI Token",
+      "symbol": "ANI",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/102172277/thumb/ani.jpg?1772594596"
+    },
     {
       "chainId": 4488,
       "address": "0x71f16bcb805566f322a0904885d6147a76c249c5",
@@ -13,14 +21,6 @@
       "symbol": "HYUSD",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/102172066/thumb/hyUSD_logo_200x200.png?1771349486"
-    },
-    {
-      "chainId": 4488,
-      "address": "0x900e563a74be93807e8a4a3b52d72a351badd6bf",
-      "name": "Wrapped Hydra",
-      "symbol": "WHYDRA",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/27391/thumb/Logo_Hydra_200x200.png?1754447815"
     },
     {
       "chainId": 4488,
@@ -32,11 +32,11 @@
     },
     {
       "chainId": 4488,
-      "address": "0xa2f1c73fe7705c80f65d4db43529220d5b4fb154",
-      "name": "ANI Token",
-      "symbol": "ANI",
+      "address": "0x900e563a74be93807e8a4a3b52d72a351badd6bf",
+      "name": "Wrapped Hydra",
+      "symbol": "WHYDRA",
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/102172277/thumb/ani.jpg?1772594596"
+      "logoURI": "https://assets.coingecko.com/coins/images/27391/thumb/Logo_Hydra_200x200.png?1754447815"
     },
     {
       "chainId": 4488,
@@ -45,19 +45,11 @@
       "symbol": "CHANGE",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/26487/thumb/blue-logo-200_x200-v0.2.png?1753938184"
-    },
-    {
-      "chainId": 4488,
-      "address": "0x8c3814babbc5dadccee2b1b448b7a037ec4fc6f2",
-      "name": "LockTrip",
-      "symbol": "LOC",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/1357/thumb/LOC_Transparent_New.png?1696502416"
     }
   ],
   "version": {
-    "major": 2,
-    "minor": 2,
+    "major": 3,
+    "minor": 0,
     "patch": 0
   }
 }

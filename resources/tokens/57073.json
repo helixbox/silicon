@@ -4,16 +4,8 @@
   "keywords": [
     "defi"
   ],
-  "timestamp": "2026-05-29T17:00:46.412+00:00",
+  "timestamp": "2026-06-02T15:00:39.451+00:00",
   "tokens": [
-    {
-      "chainId": 57073,
-      "address": "0x4200000000000000000000000000000000000006",
-      "name": "Ink Bridged WETH (Ink)",
-      "symbol": "WETH",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/52918/thumb/weth_2.jpg?1734684690"
-    },
     {
       "chainId": 57073,
       "address": "0xca5f2ccbd9c40b32657df57c716de44237f80f05",
@@ -61,6 +53,14 @@
       "symbol": "SHROOMY",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/54002/thumb/1000000182.jpg?1737942213"
+    },
+    {
+      "chainId": 57073,
+      "address": "0x4200000000000000000000000000000000000006",
+      "name": "Ink Bridged WETH (Ink)",
+      "symbol": "WETH",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/52918/thumb/weth_2.jpg?1734684690"
     },
     {
       "chainId": 57073,
@@ -280,6 +280,14 @@
     },
     {
       "chainId": 57073,
+      "address": "0x5e8a26a9ed06b56bc1d90ceee2c6ae892b4b835c",
+      "name": "Boardwalk",
+      "symbol": "BMX",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/31699/thumb/256x256_frame.png?1777046529"
+    },
+    {
+      "chainId": 57073,
       "address": "0xa161132371c94299d215915d4cbc3b629e2059be",
       "name": "Bedrock BTC",
       "symbol": "BRBTC",
@@ -321,7 +329,7 @@
   ],
   "version": {
     "major": 4,
-    "minor": 5,
-    "patch": 1
+    "minor": 6,
+    "patch": 0
   }
 }

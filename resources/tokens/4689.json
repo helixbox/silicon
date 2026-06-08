@@ -4,23 +4,15 @@
   "keywords": [
     "defi"
   ],
-  "timestamp": "2026-05-05T11:00:24.451+00:00",
+  "timestamp": "2026-06-04T12:00:24.587+00:00",
   "tokens": [
     {
       "chainId": 4689,
-      "address": "0x2716789482ea21b15ee9bb6c07dc8251150f36f6",
-      "name": "DePINs",
-      "symbol": "DEPINS",
+      "address": "0xf87aed04889a1dd0159d9c22b0d57b345ab16ddd",
+      "name": "ZoomSwap",
+      "symbol": "ZM",
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/52026/thumb/depins.png?1732355695"
-    },
-    {
-      "chainId": 4689,
-      "address": "0x84abcb2832be606341a50128aeb1db43aa017449",
-      "name": "IoTeX Bridged BUSD (IoTeX)",
-      "symbol": "BUSD",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/36881/thumb/busd.png?1772613737"
+      "logoURI": "https://assets.coingecko.com/coins/images/18807/thumb/icon_zoomswap.png?1696518269"
     },
     {
       "chainId": 4689,
@@ -32,43 +24,11 @@
     },
     {
       "chainId": 4689,
-      "address": "0x8e33229206f726993e4a7bf7da2347f3743bf8b4",
-      "name": "ioTube Bridged GEOD (IoTeX)",
-      "symbol": "GEOD",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/33515/thumb/GEOD.jpg?1702120175"
-    },
-    {
-      "chainId": 4689,
-      "address": "0x3b2bf2b523f54c4e454f08aa286d03115aff326c",
-      "name": "Bridged USD Coin (IoTeX)",
-      "symbol": "IOUSDC",
-      "decimals": 6,
-      "logoURI": "https://assets.coingecko.com/coins/images/19346/thumb/io18v4l9dfr74xyu320pz4zsmgrz9d07vnvy20yrh.png?1696518787"
-    },
-    {
-      "chainId": 4689,
       "address": "0x52df59be0be8abdabba9e3862c8c0f1f8b3fe9ca",
       "name": "ioTube Bridged XNET (IoTeX)",
       "symbol": "XNET",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/33517/thumb/XNET.jpg?1702120695"
-    },
-    {
-      "chainId": 4689,
-      "address": "0x6fbcdc1169b5130c59e72e51ed68a84841c98cd1",
-      "name": "iotube Bridged USDT (IoTeX)",
-      "symbol": "IOUSDT",
-      "decimals": 6,
-      "logoURI": "https://assets.coingecko.com/coins/images/19345/thumb/io1d77dcytfk5fsck089eg7669gfpqunrx35ue5ln.png?1696518786"
-    },
-    {
-      "chainId": 4689,
-      "address": "0xc7b93720f73b037394ce00f954f849ed484a3dea",
-      "name": "ioWBTC",
-      "symbol": "IOWBTC",
-      "decimals": 8,
-      "logoURI": "https://assets.coingecko.com/coins/images/19347/thumb/io1c7unwg8h8vph89xwqru4f7zfa4yy5002wxvlrm.png?1696518788"
     },
     {
       "chainId": 4689,
@@ -80,11 +40,59 @@
     },
     {
       "chainId": 4689,
-      "address": "0xf87aed04889a1dd0159d9c22b0d57b345ab16ddd",
-      "name": "ZoomSwap",
-      "symbol": "ZM",
+      "address": "0x8e33229206f726993e4a7bf7da2347f3743bf8b4",
+      "name": "ioTube Bridged GEOD (IoTeX)",
+      "symbol": "GEOD",
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/18807/thumb/icon_zoomswap.png?1696518269"
+      "logoURI": "https://assets.coingecko.com/coins/images/33515/thumb/GEOD.jpg?1702120175"
+    },
+    {
+      "chainId": 4689,
+      "address": "0x6fbcdc1169b5130c59e72e51ed68a84841c98cd1",
+      "name": "iotube Bridged USDT (IoTeX)",
+      "symbol": "IOUSDT",
+      "decimals": 6,
+      "logoURI": "https://assets.coingecko.com/coins/images/19345/thumb/io1d77dcytfk5fsck089eg7669gfpqunrx35ue5ln.png?1696518786"
+    },
+    {
+      "chainId": 4689,
+      "address": "0x84abcb2832be606341a50128aeb1db43aa017449",
+      "name": "IoTeX Bridged BUSD (IoTeX)",
+      "symbol": "BUSD",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/36881/thumb/busd.png?1772613737"
+    },
+    {
+      "chainId": 4689,
+      "address": "0x3b2bf2b523f54c4e454f08aa286d03115aff326c",
+      "name": "Bridged USD Coin (IoTeX)",
+      "symbol": "IOUSDC",
+      "decimals": 6,
+      "logoURI": "https://assets.coingecko.com/coins/images/19346/thumb/io18v4l9dfr74xyu320pz4zsmgrz9d07vnvy20yrh.png?1696518787"
+    },
+    {
+      "chainId": 4689,
+      "address": "0xc7b93720f73b037394ce00f954f849ed484a3dea",
+      "name": "ioWBTC",
+      "symbol": "IOWBTC",
+      "decimals": 8,
+      "logoURI": "https://assets.coingecko.com/coins/images/19347/thumb/io1c7unwg8h8vph89xwqru4f7zfa4yy5002wxvlrm.png?1696518788"
+    },
+    {
+      "chainId": 4689,
+      "address": "0xa7108637552cec7e8c2dd08a9cd995caff8b4280",
+      "name": "Drop Wireless Infrastructure",
+      "symbol": "DWIN",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/31695/thumb/icon_png.png?1696530513"
+    },
+    {
+      "chainId": 4689,
+      "address": "0x2716789482ea21b15ee9bb6c07dc8251150f36f6",
+      "name": "DePINs",
+      "symbol": "DEPINS",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/52026/thumb/depins.png?1732355695"
     },
     {
       "chainId": 4689,
@@ -101,14 +109,6 @@
       "symbol": "IOBUSD",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/19254/thumb/io14nhfkywdfvl40evgsqnh43ev33q6he8yez8c8a.png?1696518699"
-    },
-    {
-      "chainId": 4689,
-      "address": "0xa7108637552cec7e8c2dd08a9cd995caff8b4280",
-      "name": "Drop Wireless Infrastructure",
-      "symbol": "DWIN",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/31695/thumb/icon_png.png?1696530513"
     },
     {
       "chainId": 4689,
@@ -176,14 +176,6 @@
     },
     {
       "chainId": 4689,
-      "address": "0x99b2b0efb56e62e36960c20cd5ca8ec6abd5557a",
-      "name": "Crosschain IOTX",
-      "symbol": "CIOTX",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/18331/thumb/iotx.PNG?1696517822"
-    },
-    {
-      "chainId": 4689,
       "address": "0x3f56e0c36d275367b8c502090edf38289b3dea0d",
       "name": "MAI",
       "symbol": "MIMATIC",
@@ -192,7 +184,7 @@
     }
   ],
   "version": {
-    "major": 7,
+    "major": 8,
     "minor": 0,
     "patch": 0
   }
