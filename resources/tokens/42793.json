@@ -4,7 +4,7 @@
   "keywords": [
     "defi"
   ],
-  "timestamp": "2026-06-05T11:00:31.097+00:00",
+  "timestamp": "2026-06-08T16:00:34.143+00:00",
   "tokens": [
     {
       "chainId": 42793,
@@ -21,6 +21,14 @@
       "symbol": "USDC",
       "decimals": 6,
       "logoURI": "https://assets.coingecko.com/coins/images/39584/thumb/USDC-icon.webp?1723013425"
+    },
+    {
+      "chainId": 42793,
+      "address": "0x6bde51212203ae5d592cc5180da2abbd41c922de",
+      "name": "Stable Mint USD",
+      "symbol": "USDSM",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/102173681/thumb/USDSM-logo-2.png?1780931561"
     },
     {
       "chainId": 42793,
@@ -185,7 +193,7 @@
   ],
   "version": {
     "major": 4,
-    "minor": 0,
+    "minor": 1,
     "patch": 0
   }
 }

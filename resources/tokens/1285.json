@@ -4,15 +4,31 @@
   "keywords": [
     "defi"
   ],
-  "timestamp": "2026-05-31T11:00:24.511+00:00",
+  "timestamp": "2026-06-12T11:00:21.810+00:00",
   "tokens": [
     {
       "chainId": 1285,
-      "address": "0x0f47ba9d9bde3442b42175e51d6a367928a1173b",
-      "name": "Zenlink Network",
-      "symbol": "ZLK",
+      "address": "0xbd90a6125a84e5c512129d622a75cdde176ade5e",
+      "name": "RiverBoat",
+      "symbol": "RIB",
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/20884/thumb/zenlink.PNG?1696520277"
+      "logoURI": "https://assets.coingecko.com/coins/images/19007/thumb/rib.png?1696518459"
+    },
+    {
+      "chainId": 1285,
+      "address": "0x80a16016cc4a2e6a2caca8a4a498b1699ff0f844",
+      "name": "Multichain Bridged DAI (Moonriver)",
+      "symbol": "DAI",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/39817/thumb/dai.png?1724190493"
+    },
+    {
+      "chainId": 1285,
+      "address": "0xffffffff1fcacbd218edc0eba20fc2308c778080",
+      "name": "xcKSM",
+      "symbol": "XCKSM",
+      "decimals": 12,
+      "logoURI": "https://assets.coingecko.com/coins/images/28405/thumb/xcksm.jpeg?1696527403"
     },
     {
       "chainId": 1285,
@@ -29,14 +45,6 @@
       "symbol": "WETH",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/39714/thumb/WETH.PNG?1723731624"
-    },
-    {
-      "chainId": 1285,
-      "address": "0x80a16016cc4a2e6a2caca8a4a498b1699ff0f844",
-      "name": "Multichain Bridged DAI (Moonriver)",
-      "symbol": "DAI",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/39817/thumb/dai.png?1724190493"
     },
     {
       "chainId": 1285,
@@ -72,22 +80,6 @@
     },
     {
       "chainId": 1285,
-      "address": "0xbd90a6125a84e5c512129d622a75cdde176ade5e",
-      "name": "RiverBoat",
-      "symbol": "RIB",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/19007/thumb/rib.png?1696518459"
-    },
-    {
-      "chainId": 1285,
-      "address": "0x0cae51e1032e8461f4806e26332c030e34de3adb",
-      "name": "Magic Internet Money (Moonriver)",
-      "symbol": "MIM",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/37609/thumb/mim.png?1715050916"
-    },
-    {
-      "chainId": 1285,
       "address": "0x2bf9b864cdc97b08b6d79ad4663e71b8ab65c45c",
       "name": "Multichain Bridged WBNB (Moonriver)",
       "symbol": "WBNB",
@@ -96,19 +88,19 @@
     },
     {
       "chainId": 1285,
-      "address": "0xffffffff1fcacbd218edc0eba20fc2308c778080",
-      "name": "xcKSM",
-      "symbol": "XCKSM",
-      "decimals": 12,
-      "logoURI": "https://assets.coingecko.com/coins/images/28405/thumb/xcksm.jpeg?1696527403"
-    },
-    {
-      "chainId": 1285,
       "address": "0x6bd193ee6d2104f14f94e2ca6efefae561a4334b",
       "name": "Solarbeam",
       "symbol": "SOLAR",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/18260/thumb/solarbeamlogo.png?1696517755"
+    },
+    {
+      "chainId": 1285,
+      "address": "0x0cae51e1032e8461f4806e26332c030e34de3adb",
+      "name": "Magic Internet Money (Moonriver)",
+      "symbol": "MIM",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/37609/thumb/mim.png?1715050916"
     },
     {
       "chainId": 1285,
@@ -200,7 +192,7 @@
     }
   ],
   "version": {
-    "major": 7,
+    "major": 8,
     "minor": 0,
     "patch": 0
   }
