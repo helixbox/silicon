@@ -4,15 +4,31 @@
   "keywords": [
     "defi"
   ],
-  "timestamp": "2026-05-23T11:00:34.085+00:00",
+  "timestamp": "2026-06-28T10:01:12.435+00:00",
   "tokens": [
     {
       "chainId": 1284,
-      "address": "0xe8e8bd89a429526561e1283cb789719864ffd0b4",
-      "name": "Gu",
-      "symbol": "GU",
+      "address": "0xacc15dc74880c9944775448304b263d191c6077f",
+      "name": "Wrapped Moonbeam",
+      "symbol": "WGLMR",
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/68189/thumb/GU-logo.png?1755024305"
+      "logoURI": "https://assets.coingecko.com/coins/images/23688/thumb/Moonbeam_WGLMR_ICON.png?1716655228"
+    },
+    {
+      "chainId": 1284,
+      "address": "0x511ab53f793683763e5a8829738301368a2411e3",
+      "name": "Moonwell",
+      "symbol": "WELL",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/26133/thumb/WELL.png?1696525221"
+    },
+    {
+      "chainId": 1284,
+      "address": "0xcd3b51d98478d53f4515a306be565c6eebef1d58",
+      "name": "BeamSwap",
+      "symbol": "GLINT",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/22893/thumb/glint.png?1696522190"
     },
     {
       "chainId": 1284,
@@ -24,11 +40,11 @@
     },
     {
       "chainId": 1284,
-      "address": "0xffffffffea09fb06d082fd1275cd48b191cbcd1d",
-      "name": "xcUSDT",
-      "symbol": "XCUSDT",
+      "address": "0x8f552a71efe5eefc207bf75485b356a0b3f01ec9",
+      "name": "Nomad Bridged USDC (Moonbeam)",
+      "symbol": "USDC",
       "decimals": 6,
-      "logoURI": "https://assets.coingecko.com/coins/images/29019/thumb/usdt.png?1696527990"
+      "logoURI": "https://assets.coingecko.com/coins/images/35231/thumb/USDC.jpg?1707925331"
     },
     {
       "chainId": 1284,
@@ -48,22 +64,6 @@
     },
     {
       "chainId": 1284,
-      "address": "0x0e358838ce72d5e61e0018a2ffac4bec5f4c88d2",
-      "name": "StellaSwap",
-      "symbol": "STELLA",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/22801/thumb/stellaswap.jpg?1696522104"
-    },
-    {
-      "chainId": 1284,
-      "address": "0xcd3b51d98478d53f4515a306be565c6eebef1d58",
-      "name": "BeamSwap",
-      "symbol": "GLINT",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/22893/thumb/glint.png?1696522190"
-    },
-    {
-      "chainId": 1284,
       "address": "0x765277eebeca2e31912c9946eae1021199b39c61",
       "name": "Multichain Bridged DAI (Moonbeam)",
       "symbol": "DAI",
@@ -72,27 +72,27 @@
     },
     {
       "chainId": 1284,
-      "address": "0x511ab53f793683763e5a8829738301368a2411e3",
-      "name": "Moonwell",
-      "symbol": "WELL",
+      "address": "0x0e358838ce72d5e61e0018a2ffac4bec5f4c88d2",
+      "name": "StellaSwap",
+      "symbol": "STELLA",
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/26133/thumb/WELL.png?1696525221"
+      "logoURI": "https://assets.coingecko.com/coins/images/22801/thumb/stellaswap.jpg?1696522104"
     },
     {
       "chainId": 1284,
-      "address": "0xacc15dc74880c9944775448304b263d191c6077f",
-      "name": "Wrapped Moonbeam",
-      "symbol": "WGLMR",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/23688/thumb/Moonbeam_WGLMR_ICON.png?1716655228"
-    },
-    {
-      "chainId": 1284,
-      "address": "0x8f552a71efe5eefc207bf75485b356a0b3f01ec9",
-      "name": "Nomad Bridged USDC (Moonbeam)",
-      "symbol": "USDC",
+      "address": "0xffffffffea09fb06d082fd1275cd48b191cbcd1d",
+      "name": "xcUSDT",
+      "symbol": "XCUSDT",
       "decimals": 6,
-      "logoURI": "https://assets.coingecko.com/coins/images/35231/thumb/USDC.jpg?1707925331"
+      "logoURI": "https://assets.coingecko.com/coins/images/29019/thumb/usdt.png?1696527990"
+    },
+    {
+      "chainId": 1284,
+      "address": "0xe8e8bd89a429526561e1283cb789719864ffd0b4",
+      "name": "Gu",
+      "symbol": "GU",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/68189/thumb/GU-logo.png?1755024305"
     },
     {
       "chainId": 1284,
@@ -176,14 +176,6 @@
     },
     {
       "chainId": 1284,
-      "address": "0x6a2d262d56735dba19dd70682b39f6be9a931d98",
-      "name": "Bridged USD Coin (Celer)",
-      "symbol": "CEUSDC",
-      "decimals": 6,
-      "logoURI": "https://assets.coingecko.com/coins/images/24823/thumb/usdc.png?1696523981"
-    },
-    {
-      "chainId": 1284,
       "address": "0xca01a1d0993565291051daff390892518acfad3a",
       "name": "Axelar Bridged USDC",
       "symbol": "AXLUSDC",
@@ -216,7 +208,7 @@
     }
   ],
   "version": {
-    "major": 21,
+    "major": 22,
     "minor": 0,
     "patch": 0
   }

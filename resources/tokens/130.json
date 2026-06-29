@@ -4,16 +4,8 @@
   "keywords": [
     "defi"
   ],
-  "timestamp": "2026-05-29T16:00:29.044+00:00",
+  "timestamp": "2026-06-27T11:00:53.499+00:00",
   "tokens": [
-    {
-      "chainId": 130,
-      "address": "0x927b51f251480a681271180da4de28d44ec4afb8",
-      "name": "Unichain Bridged WBTC (Unichain)",
-      "symbol": "WBTC",
-      "decimals": 8,
-      "logoURI": "https://assets.coingecko.com/coins/images/66722/thumb/wbtc.jpg?1750315958"
-    },
     {
       "chainId": 130,
       "address": "0x849f05f7cfdc4215b16a3c5a58361445c4d56c8e",
@@ -21,38 +13,6 @@
       "symbol": "HOOF",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/55345/thumb/Logo_%282%29.png?1745565191"
-    },
-    {
-      "chainId": 130,
-      "address": "0x756ee6857f915a2b5366f2ef56d8d13857aef8ad",
-      "name": "Catex",
-      "symbol": "CATX",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/67331/thumb/Catex_logo_Coinbgecko.png?1752402945"
-    },
-    {
-      "chainId": 130,
-      "address": "0x588ce4f028d8e7b53b687865d6a67b3a54c75518",
-      "name": "Unichain Bridged USDT (Unichain)",
-      "symbol": "USDT",
-      "decimals": 6,
-      "logoURI": "https://assets.coingecko.com/coins/images/66726/thumb/usdt.jpg?1750318933"
-    },
-    {
-      "chainId": 130,
-      "address": "0xec4a56061d86955d0df883efb2e5791d99ea71f2",
-      "name": "hoonicorn.lol",
-      "symbol": "HOONI",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/54996/thumb/hooni-logo-fixed.png?1743095425"
-    },
-    {
-      "chainId": 130,
-      "address": "0x4200000000000000000000000000000000000006",
-      "name": "Unichain Bridged WETH (Unichain)",
-      "symbol": "WETH",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/54331/thumb/weth_2.jpg?1739325052"
     },
     {
       "chainId": 130,
@@ -64,11 +24,43 @@
     },
     {
       "chainId": 130,
+      "address": "0x927b51f251480a681271180da4de28d44ec4afb8",
+      "name": "Unichain Bridged WBTC (Unichain)",
+      "symbol": "WBTC",
+      "decimals": 8,
+      "logoURI": "https://assets.coingecko.com/coins/images/66722/thumb/wbtc.jpg?1750315958"
+    },
+    {
+      "chainId": 130,
+      "address": "0x588ce4f028d8e7b53b687865d6a67b3a54c75518",
+      "name": "Unichain Bridged USDT (Unichain)",
+      "symbol": "USDT",
+      "decimals": 6,
+      "logoURI": "https://assets.coingecko.com/coins/images/66726/thumb/usdt.jpg?1750318933"
+    },
+    {
+      "chainId": 130,
       "address": "0x984ae4c68fb3ec037fac36d48622f30eb5ae1361",
       "name": "Vyro vyUSD",
       "symbol": "VYUSD",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/102172646/thumb/vyUSD_token.png?1774503397"
+    },
+    {
+      "chainId": 130,
+      "address": "0x4200000000000000000000000000000000000006",
+      "name": "Unichain Bridged WETH (Unichain)",
+      "symbol": "WETH",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/54331/thumb/weth_2.jpg?1739325052"
+    },
+    {
+      "chainId": 130,
+      "address": "0x756ee6857f915a2b5366f2ef56d8d13857aef8ad",
+      "name": "Catex",
+      "symbol": "CATX",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/67331/thumb/Catex_logo_Coinbgecko.png?1752402945"
     },
     {
       "chainId": 130,
@@ -141,14 +133,6 @@
       "symbol": "UTAO",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/54906/thumb/Untitled_%281%29.png?1742450295"
-    },
-    {
-      "chainId": 130,
-      "address": "0x94025780a1ab58868d9b2dbbb775f44b32e8e6e5",
-      "name": "BetSwirl",
-      "symbol": "BETS",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/26618/thumb/icon_200.png?1696525691"
     },
     {
       "chainId": 130,
@@ -325,11 +309,19 @@
       "symbol": "UNIBTC",
       "decimals": 8,
       "logoURI": "https://assets.coingecko.com/coins/images/39599/thumb/uniBTC_200px.png?1723064455"
+    },
+    {
+      "chainId": 130,
+      "address": "0x94025780a1ab58868d9b2dbbb775f44b32e8e6e5",
+      "name": "BetSwirl",
+      "symbol": "BETS",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/26618/thumb/icon_200.png?1696525691"
     }
   ],
   "version": {
-    "major": 4,
-    "minor": 2,
-    "patch": 2
+    "major": 5,
+    "minor": 0,
+    "patch": 0
   }
 }
