@@ -4,7 +4,7 @@
   "keywords": [
     "defi"
   ],
-  "timestamp": "2026-06-18T10:00:45.808+00:00",
+  "timestamp": "2026-06-30T11:01:28.846+00:00",
   "tokens": [
     {
       "chainId": 8217,
@@ -24,27 +24,19 @@
     },
     {
       "chainId": 8217,
-      "address": "0x754288077d0ff82af7a5317c7cb8c444d421d103",
-      "name": "Bridged USD Coin (Orbit Bridge)",
-      "symbol": "OUSDC",
-      "decimals": 6,
-      "logoURI": "https://assets.coingecko.com/coins/images/26943/thumb/ousdc.png?1696525998"
+      "address": "0x4836cc1f355bb2a61c210eaa0cd3f729160cd95e",
+      "name": "GemHUB",
+      "symbol": "GHUB",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/25239/thumb/19709.png?1696524380"
     },
     {
       "chainId": 8217,
-      "address": "0xb49e754228bc716129e63b1a7b0b6cf27299979e",
-      "name": "PANGEA GOVERNANCE TOKEN",
-      "symbol": "STONE",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/28588/thumb/STONE_Logo.png?1696527575"
-    },
-    {
-      "chainId": 8217,
-      "address": "0x02cbe46fb8a1f579254a9b485788f2d86cad51aa",
-      "name": "BORA",
-      "symbol": "BORA",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/7646/thumb/mqFw8hxm_400x400.jpeg?1696507900"
+      "address": "0x3cb6be2fc6677a63cb52b07aed523f93f5a06cb4",
+      "name": "Observer",
+      "symbol": "OBSR",
+      "decimals": 8,
+      "logoURI": "https://assets.coingecko.com/coins/images/7474/thumb/obsr.png?1696507745"
     },
     {
       "chainId": 8217,
@@ -64,19 +56,27 @@
     },
     {
       "chainId": 8217,
-      "address": "0x15512e654ddc92273dceac1399e09c7fb9def476",
-      "name": "STO Operating System Token",
-      "symbol": "STOOS",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/52088/thumb/STO_LOGO_%28200X200%29.jpg?1732541151"
+      "address": "0xcee8faf64bb97a73bb51e115aa89c17ffa8dd167",
+      "name": "Orbit Bridged USDT (Kaia)",
+      "symbol": "OUSDT",
+      "decimals": 6,
+      "logoURI": "https://assets.coingecko.com/coins/images/26273/thumb/-p1Br7oh_400x400.png?1696525357"
     },
     {
       "chainId": 8217,
-      "address": "0x63dec0c0cf911d8967446ce422dd31f13e1e0556",
-      "name": "SOMESING",
-      "symbol": "SSG",
+      "address": "0x5c13e303a62fc5dedf5b52d66873f2e59fedadc2",
+      "name": "Wormhole Bridged USDT (Kaia)",
+      "symbol": "USDT",
+      "decimals": 6,
+      "logoURI": "https://assets.coingecko.com/coins/images/54181/thumb/usdt.jpg?1738665239"
+    },
+    {
+      "chainId": 8217,
+      "address": "0xb49e754228bc716129e63b1a7b0b6cf27299979e",
+      "name": "PANGEA GOVERNANCE TOKEN",
+      "symbol": "STONE",
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/10089/thumb/ico_ss_4x.png?1696510118"
+      "logoURI": "https://assets.coingecko.com/coins/images/28588/thumb/STONE_Logo.png?1696527575"
     },
     {
       "chainId": 8217,
@@ -88,35 +88,11 @@
     },
     {
       "chainId": 8217,
-      "address": "0x6e6c55ac20c41669261969089fad7f7fcd9ba690",
-      "name": "AMO Coin",
-      "symbol": "AMO",
+      "address": "0x63dec0c0cf911d8967446ce422dd31f13e1e0556",
+      "name": "SOMESING",
+      "symbol": "SSG",
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/4009/thumb/amo-logomark_black.png?1696504648"
-    },
-    {
-      "chainId": 8217,
-      "address": "0x3cb6be2fc6677a63cb52b07aed523f93f5a06cb4",
-      "name": "Observer",
-      "symbol": "OBSR",
-      "decimals": 8,
-      "logoURI": "https://assets.coingecko.com/coins/images/7474/thumb/obsr.png?1696507745"
-    },
-    {
-      "chainId": 8217,
-      "address": "0xfaea8f7839f343a52c11a2d5395406eb2a87c55b",
-      "name": "WeBuy",
-      "symbol": "WE",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/25876/thumb/we.png?1696524959"
-    },
-    {
-      "chainId": 8217,
-      "address": "0xcee8faf64bb97a73bb51e115aa89c17ffa8dd167",
-      "name": "Orbit Bridged USDT (Kaia)",
-      "symbol": "OUSDT",
-      "decimals": 6,
-      "logoURI": "https://assets.coingecko.com/coins/images/26273/thumb/-p1Br7oh_400x400.png?1696525357"
+      "logoURI": "https://assets.coingecko.com/coins/images/10089/thumb/ico_ss_4x.png?1696510118"
     },
     {
       "chainId": 8217,
@@ -144,6 +120,14 @@
     },
     {
       "chainId": 8217,
+      "address": "0x02cbe46fb8a1f579254a9b485788f2d86cad51aa",
+      "name": "BORA",
+      "symbol": "BORA",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/7646/thumb/mqFw8hxm_400x400.jpeg?1696507900"
+    },
+    {
+      "chainId": 8217,
       "address": "0x608e8512d31cae43cd8058d81e6b56203a112539",
       "name": "BIRDSPING",
       "symbol": "PING",
@@ -152,11 +136,19 @@
     },
     {
       "chainId": 8217,
-      "address": "0xad27ace6f0f6cef2c192a3c8f0f3fa2611154eb3",
-      "name": "Empower",
-      "symbol": "MPWR",
+      "address": "0x15512e654ddc92273dceac1399e09c7fb9def476",
+      "name": "STO Operating System Token",
+      "symbol": "STOOS",
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/25456/thumb/MPWR_200x200.png?1696524587"
+      "logoURI": "https://assets.coingecko.com/coins/images/52088/thumb/STO_LOGO_%28200X200%29.jpg?1732541151"
+    },
+    {
+      "chainId": 8217,
+      "address": "0x5c74070fdea071359b86082bd9f9b3deaafbe32b",
+      "name": "Klaytn Dai",
+      "symbol": "KDAI",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/27010/thumb/download_%284%29.png?1696526062"
     },
     {
       "chainId": 8217,
@@ -176,19 +168,11 @@
     },
     {
       "chainId": 8217,
-      "address": "0xfe41102f325deaa9f303fdd9484eb5911a7ba557",
-      "name": "Orbit Bridge Klaytn Orbit Chain",
-      "symbol": "OORC",
+      "address": "0x6e6c55ac20c41669261969089fad7f7fcd9ba690",
+      "name": "AMO Coin",
+      "symbol": "AMO",
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/28458/thumb/oorc.png?1696527453"
-    },
-    {
-      "chainId": 8217,
-      "address": "0x5c74070fdea071359b86082bd9f9b3deaafbe32b",
-      "name": "Klaytn Dai",
-      "symbol": "KDAI",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/27010/thumb/download_%284%29.png?1696526062"
+      "logoURI": "https://assets.coingecko.com/coins/images/4009/thumb/amo-logomark_black.png?1696504648"
     },
     {
       "chainId": 8217,
@@ -200,6 +184,14 @@
     },
     {
       "chainId": 8217,
+      "address": "0xfe41102f325deaa9f303fdd9484eb5911a7ba557",
+      "name": "Orbit Bridge Klaytn Orbit Chain",
+      "symbol": "OORC",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/28458/thumb/oorc.png?1696527453"
+    },
+    {
+      "chainId": 8217,
       "address": "0x4b91c67a89d4c4b2a4ed9fcde6130d7495330972",
       "name": "Treecle",
       "symbol": "TRCL",
@@ -208,19 +200,27 @@
     },
     {
       "chainId": 8217,
-      "address": "0x5c13e303a62fc5dedf5b52d66873f2e59fedadc2",
-      "name": "Wormhole Bridged USDT (Kaia)",
-      "symbol": "USDT",
-      "decimals": 6,
-      "logoURI": "https://assets.coingecko.com/coins/images/54181/thumb/usdt.jpg?1738665239"
+      "address": "0xfaea8f7839f343a52c11a2d5395406eb2a87c55b",
+      "name": "WeBuy",
+      "symbol": "WE",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/25876/thumb/we.png?1696524959"
     },
     {
       "chainId": 8217,
-      "address": "0x4836cc1f355bb2a61c210eaa0cd3f729160cd95e",
-      "name": "GemHUB",
-      "symbol": "GHUB",
+      "address": "0xad27ace6f0f6cef2c192a3c8f0f3fa2611154eb3",
+      "name": "Empower",
+      "symbol": "MPWR",
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/25239/thumb/19709.png?1696524380"
+      "logoURI": "https://assets.coingecko.com/coins/images/25456/thumb/MPWR_200x200.png?1696524587"
+    },
+    {
+      "chainId": 8217,
+      "address": "0x754288077d0ff82af7a5317c7cb8c444d421d103",
+      "name": "Bridged USD Coin (Orbit Bridge)",
+      "symbol": "OUSDC",
+      "decimals": 6,
+      "logoURI": "https://assets.coingecko.com/coins/images/26943/thumb/ousdc.png?1696525998"
     },
     {
       "chainId": 8217,
@@ -464,14 +464,6 @@
     },
     {
       "chainId": 8217,
-      "address": "0xc53ac24320e3a54c7211e4993c8095078a0cb3cf",
-      "name": "Wild Goat Coin [OLD]",
-      "symbol": "WGC",
-      "decimals": 6,
-      "logoURI": "https://assets.coingecko.com/coins/images/37966/thumb/wgc-v3-logo.png?1776225874"
-    },
-    {
-      "chainId": 8217,
       "address": "0x18bc5bcc660cf2b9ce3cd51a404afe1a0cbd3c22",
       "name": "IDRX",
       "symbol": "IDRX",
@@ -480,7 +472,7 @@
     }
   ],
   "version": {
-    "major": 40,
+    "major": 41,
     "minor": 0,
     "patch": 0
   }

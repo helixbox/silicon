@@ -4,23 +4,15 @@
   "keywords": [
     "defi"
   ],
-  "timestamp": "2026-06-28T10:01:12.435+00:00",
+  "timestamp": "2026-06-30T10:01:15.168+00:00",
   "tokens": [
     {
       "chainId": 1284,
-      "address": "0xacc15dc74880c9944775448304b263d191c6077f",
-      "name": "Wrapped Moonbeam",
-      "symbol": "WGLMR",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/23688/thumb/Moonbeam_WGLMR_ICON.png?1716655228"
-    },
-    {
-      "chainId": 1284,
-      "address": "0x511ab53f793683763e5a8829738301368a2411e3",
-      "name": "Moonwell",
-      "symbol": "WELL",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/26133/thumb/WELL.png?1696525221"
+      "address": "0xffffffff1fcacbd218edc0eba20fc2308c778080",
+      "name": "xcDOT",
+      "symbol": "DOT",
+      "decimals": 10,
+      "logoURI": "https://assets.coingecko.com/coins/images/26044/thumb/polkadot-asset_32.png?1696525125"
     },
     {
       "chainId": 1284,
@@ -32,11 +24,19 @@
     },
     {
       "chainId": 1284,
-      "address": "0xffffffff1fcacbd218edc0eba20fc2308c778080",
-      "name": "xcDOT",
-      "symbol": "DOT",
-      "decimals": 10,
-      "logoURI": "https://assets.coingecko.com/coins/images/26044/thumb/polkadot-asset_32.png?1696525125"
+      "address": "0xe8e8bd89a429526561e1283cb789719864ffd0b4",
+      "name": "Gu",
+      "symbol": "GU",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/68189/thumb/GU-logo.png?1755024305"
+    },
+    {
+      "chainId": 1284,
+      "address": "0x511ab53f793683763e5a8829738301368a2411e3",
+      "name": "Moonwell",
+      "symbol": "WELL",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/26133/thumb/WELL.png?1696525221"
     },
     {
       "chainId": 1284,
@@ -56,11 +56,11 @@
     },
     {
       "chainId": 1284,
-      "address": "0x818ec0a7fe18ff94269904fced6ae3dae6d6dc0b",
-      "name": "Multichain Bridged USDC (Moonbeam)",
-      "symbol": "USDC",
+      "address": "0xffffffffea09fb06d082fd1275cd48b191cbcd1d",
+      "name": "xcUSDT",
+      "symbol": "XCUSDT",
       "decimals": 6,
-      "logoURI": "https://assets.coingecko.com/coins/images/35230/thumb/USDC.jpg?1707924914"
+      "logoURI": "https://assets.coingecko.com/coins/images/29019/thumb/usdt.png?1696527990"
     },
     {
       "chainId": 1284,
@@ -80,19 +80,11 @@
     },
     {
       "chainId": 1284,
-      "address": "0xffffffffea09fb06d082fd1275cd48b191cbcd1d",
-      "name": "xcUSDT",
-      "symbol": "XCUSDT",
-      "decimals": 6,
-      "logoURI": "https://assets.coingecko.com/coins/images/29019/thumb/usdt.png?1696527990"
-    },
-    {
-      "chainId": 1284,
-      "address": "0xe8e8bd89a429526561e1283cb789719864ffd0b4",
-      "name": "Gu",
-      "symbol": "GU",
+      "address": "0xacc15dc74880c9944775448304b263d191c6077f",
+      "name": "Wrapped Moonbeam",
+      "symbol": "WGLMR",
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/68189/thumb/GU-logo.png?1755024305"
+      "logoURI": "https://assets.coingecko.com/coins/images/23688/thumb/Moonbeam_WGLMR_ICON.png?1716655228"
     },
     {
       "chainId": 1284,
@@ -208,7 +200,7 @@
     }
   ],
   "version": {
-    "major": 22,
+    "major": 23,
     "minor": 0,
     "patch": 0
   }

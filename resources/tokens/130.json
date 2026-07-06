@@ -4,8 +4,16 @@
   "keywords": [
     "defi"
   ],
-  "timestamp": "2026-06-27T11:00:53.499+00:00",
+  "timestamp": "2026-06-30T11:00:52.374+00:00",
   "tokens": [
+    {
+      "chainId": 130,
+      "address": "0x4200000000000000000000000000000000000006",
+      "name": "Unichain Bridged WETH (Unichain)",
+      "symbol": "WETH",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/54331/thumb/weth_2.jpg?1739325052"
+    },
     {
       "chainId": 130,
       "address": "0x849f05f7cfdc4215b16a3c5a58361445c4d56c8e",
@@ -45,14 +53,6 @@
       "symbol": "VYUSD",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/102172646/thumb/vyUSD_token.png?1774503397"
-    },
-    {
-      "chainId": 130,
-      "address": "0x4200000000000000000000000000000000000006",
-      "name": "Unichain Bridged WETH (Unichain)",
-      "symbol": "WETH",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/54331/thumb/weth_2.jpg?1739325052"
     },
     {
       "chainId": 130,
@@ -280,14 +280,6 @@
     },
     {
       "chainId": 130,
-      "address": "0x3d63825b0d8669307366e6c8202f656b9e91d368",
-      "name": "Wild Goat Coin [OLD]",
-      "symbol": "WGC",
-      "decimals": 6,
-      "logoURI": "https://assets.coingecko.com/coins/images/37966/thumb/wgc-v3-logo.png?1776225874"
-    },
-    {
-      "chainId": 130,
       "address": "0xc3eacf0612346366db554c991d7858716db09f58",
       "name": "Kelp DAO Restaked ETH",
       "symbol": "RSETH",
@@ -320,7 +312,7 @@
     }
   ],
   "version": {
-    "major": 5,
+    "major": 6,
     "minor": 0,
     "patch": 0
   }
