@@ -4,8 +4,16 @@
   "keywords": [
     "defi"
   ],
-  "timestamp": "2026-05-21T11:00:06.366+00:00",
+  "timestamp": "2026-07-10T03:00:12.168+00:00",
   "tokens": [
+    {
+      "chainId": 1088,
+      "address": "0x75cb093e4d61d2a2e65d8e0bbb01de8d89b53481",
+      "name": "Wrapped Metis",
+      "symbol": "WMETIS",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/34526/thumb/metis.jpeg?1705305707"
+    },
     {
       "chainId": 1088,
       "address": "0x90fe084f877c65e1b577c7b2ea64b8d8dd1ab278",
@@ -13,38 +21,6 @@
       "symbol": "NETT",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/22262/thumb/netswpa.PNG?1696521606"
-    },
-    {
-      "chainId": 1088,
-      "address": "0xa5b55ab1daf0f8e1efc0eb1931a957fd89b918f4",
-      "name": "Metis Bridged WBTC (Metis Andromeda)",
-      "symbol": "WBTC",
-      "decimals": 8,
-      "logoURI": "https://assets.coingecko.com/coins/images/39556/thumb/wbtc.png?1722898064"
-    },
-    {
-      "chainId": 1088,
-      "address": "0x7314ef2ca509490f65f52cc8fc9e0675c66390b8",
-      "name": "Aave v3 Metis",
-      "symbol": "AMETIS",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/32927/thumb/metis.png?1699826503"
-    },
-    {
-      "chainId": 1088,
-      "address": "0x6f05709bc91bad933346f9e159f0d3fdbc2c9dce",
-      "name": "Hera Finance",
-      "symbol": "HERA",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/24751/thumb/heraLogo-200px.png?1721043422"
-    },
-    {
-      "chainId": 1088,
-      "address": "0xea32a96608495e54156ae48931a7c20f0dcc1a21",
-      "name": "Metis Bridged USDC (Metis Andromeda)",
-      "symbol": "M.USDC",
-      "decimals": 6,
-      "logoURI": "https://assets.coingecko.com/coins/images/69751/thumb/usdc.jpg?1759486323"
     },
     {
       "chainId": 1088,
@@ -56,6 +32,30 @@
     },
     {
       "chainId": 1088,
+      "address": "0xea32a96608495e54156ae48931a7c20f0dcc1a21",
+      "name": "Metis Bridged USDC (Metis Andromeda)",
+      "symbol": "M.USDC",
+      "decimals": 6,
+      "logoURI": "https://assets.coingecko.com/coins/images/69751/thumb/usdc.jpg?1759486323"
+    },
+    {
+      "chainId": 1088,
+      "address": "0x6f05709bc91bad933346f9e159f0d3fdbc2c9dce",
+      "name": "Hera Finance",
+      "symbol": "HERA",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/24751/thumb/heraLogo-200px.png?1721043422"
+    },
+    {
+      "chainId": 1088,
+      "address": "0x7314ef2ca509490f65f52cc8fc9e0675c66390b8",
+      "name": "Aave v3 Metis",
+      "symbol": "AMETIS",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/32927/thumb/metis.png?1699826503"
+    },
+    {
+      "chainId": 1088,
       "address": "0x2583a2538272f31e9a15dd12a432b8c96ab4821d",
       "name": "Staked Metis Token",
       "symbol": "ARTMETIS",
@@ -64,19 +64,19 @@
     },
     {
       "chainId": 1088,
+      "address": "0xa5b55ab1daf0f8e1efc0eb1931a957fd89b918f4",
+      "name": "Metis Bridged WBTC (Metis Andromeda)",
+      "symbol": "WBTC",
+      "decimals": 8,
+      "logoURI": "https://assets.coingecko.com/coins/images/39556/thumb/wbtc.png?1722898064"
+    },
+    {
+      "chainId": 1088,
       "address": "0x096a84536ab84e68ee210561ffd3a038e79736f1",
       "name": "ENKI Protocol",
       "symbol": "ENKI",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/37228/thumb/token-logo.png?1713779279"
-    },
-    {
-      "chainId": 1088,
-      "address": "0x75cb093e4d61d2a2e65d8e0bbb01de8d89b53481",
-      "name": "Wrapped Metis",
-      "symbol": "WMETIS",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/34526/thumb/metis.jpeg?1705305707"
     },
     {
       "chainId": 1088,
@@ -240,8 +240,8 @@
     }
   ],
   "version": {
-    "major": 27,
-    "minor": 0,
+    "major": 28,
+    "minor": 1,
     "patch": 0
   }
 }

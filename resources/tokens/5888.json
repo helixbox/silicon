@@ -4,8 +4,16 @@
   "keywords": [
     "defi"
   ],
-  "timestamp": "2026-06-15T07:00:07.139+00:00",
+  "timestamp": "2026-07-06T08:00:10.636+00:00",
   "tokens": [
+    {
+      "chainId": 5888,
+      "address": "0x5e76be0f4e09057d75140216f70fd4ce3365bb29",
+      "name": "Hyperlane Bridged USDC (Mantra EVM)",
+      "symbol": "USDC",
+      "decimals": 6,
+      "logoURI": "https://assets.coingecko.com/coins/images/71257/thumb/usdc.jpg?1766735166"
+    },
     {
       "chainId": 5888,
       "address": "0xd2b95283011e47257917770d28bb3ee44c849f6f",
@@ -16,11 +24,11 @@
     },
     {
       "chainId": 5888,
-      "address": "0x5e76be0f4e09057d75140216f70fd4ce3365bb29",
-      "name": "Hyperlane Bridged USDC (Mantra EVM)",
-      "symbol": "USDC",
-      "decimals": 6,
-      "logoURI": "https://assets.coingecko.com/coins/images/71257/thumb/usdc.jpg?1766735166"
+      "address": "0xe3047710ef6cb36bcf1e58145529778ea7cb5598",
+      "name": "Wrapped MANTRA",
+      "symbol": "WMANTRA",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/102172251/thumb/wmantra.jpg?1772528796"
     },
     {
       "chainId": 5888,
@@ -33,7 +41,7 @@
   ],
   "version": {
     "major": 2,
-    "minor": 0,
+    "minor": 1,
     "patch": 0
   }
 }

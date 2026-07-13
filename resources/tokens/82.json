@@ -4,7 +4,7 @@
   "keywords": [
     "defi"
   ],
-  "timestamp": "2026-04-18T11:00:22.143+00:00",
+  "timestamp": "2026-07-09T12:00:46.508+00:00",
   "tokens": [
     {
       "chainId": 82,
@@ -13,6 +13,14 @@
       "symbol": "USDC.ETH",
       "decimals": 6,
       "logoURI": "https://assets.coingecko.com/coins/images/35317/thumb/USDC.jpg?1708176554"
+    },
+    {
+      "chainId": 82,
+      "address": "0xe2de616fbd8cb9180b26fcfb1b761a232fe56717",
+      "name": "Meter.io Wrapped stMTRG",
+      "symbol": "WSTMTRG",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/33276/thumb/MTRG_Logo.png?1701329317"
     },
     {
       "chainId": 82,
@@ -37,14 +45,6 @@
       "symbol": "MTRG",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/11848/thumb/meter.png?1696511719"
-    },
-    {
-      "chainId": 82,
-      "address": "0xe2de616fbd8cb9180b26fcfb1b761a232fe56717",
-      "name": "Meter.io Wrapped stMTRG",
-      "symbol": "WSTMTRG",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/33276/thumb/MTRG_Logo.png?1701329317"
     },
     {
       "chainId": 82,
@@ -112,8 +112,8 @@
     }
   ],
   "version": {
-    "major": 3,
-    "minor": 0,
+    "major": 4,
+    "minor": 1,
     "patch": 0
   }
 }

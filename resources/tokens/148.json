@@ -4,16 +4,8 @@
   "keywords": [
     "defi"
   ],
-  "timestamp": "2026-01-21T10:00:13.981+00:00",
+  "timestamp": "2026-07-10T03:00:27.243+00:00",
   "tokens": [
-    {
-      "chainId": 148,
-      "address": "0x5c09ef80efb7aefd0a25289715e0a164c98ac713",
-      "name": "ZeroSwapNFT",
-      "symbol": "ZERO",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/32446/thumb/ZEROToken.png?1698239086"
-    },
     {
       "chainId": 148,
       "address": "0x4794aeafa5efe2fc1f6f5eb745798aaf39a81d3e",
@@ -21,22 +13,6 @@
       "symbol": "LUM",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/32429/thumb/lum.jpg?1698121504"
-    },
-    {
-      "chainId": 148,
-      "address": "0x1074010000000000000000000000000000000000",
-      "name": "Shimmer",
-      "symbol": "SMR",
-      "decimals": 6,
-      "logoURI": "https://assets.coingecko.com/coins/images/27286/thumb/shimmer_mark_transparent_200x200.png?1696526338"
-    },
-    {
-      "chainId": 148,
-      "address": "0xa4f8c7c1018b9dd3be5835bf00f335d9910af6bd",
-      "name": "ShimmerBridge Bridged USDT (ShimmerEVM)",
-      "symbol": "USDT",
-      "decimals": 6,
-      "logoURI": "https://assets.coingecko.com/coins/images/35550/thumb/usdt.jpeg?1709102692"
     },
     {
       "chainId": 148,
@@ -48,6 +24,30 @@
     },
     {
       "chainId": 148,
+      "address": "0x5c09ef80efb7aefd0a25289715e0a164c98ac713",
+      "name": "ZeroSwapNFT",
+      "symbol": "ZERO",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/32446/thumb/ZEROToken.png?1698239086"
+    },
+    {
+      "chainId": 148,
+      "address": "0xa4f8c7c1018b9dd3be5835bf00f335d9910af6bd",
+      "name": "ShimmerBridge Bridged USDT (ShimmerEVM)",
+      "symbol": "USDT",
+      "decimals": 6,
+      "logoURI": "https://assets.coingecko.com/coins/images/35550/thumb/usdt.jpeg?1709102692"
+    },
+    {
+      "chainId": 148,
+      "address": "0x1074010000000000000000000000000000000000",
+      "name": "Shimmer",
+      "symbol": "SMR",
+      "decimals": 6,
+      "logoURI": "https://assets.coingecko.com/coins/images/27286/thumb/shimmer_mark_transparent_200x200.png?1696526338"
+    },
+    {
+      "chainId": 148,
       "address": "0x326f23422ce22ee5fbb5f37f9fa1092d095546f8",
       "name": "DEEPR",
       "symbol": "DEEPR",
@@ -56,8 +56,8 @@
     }
   ],
   "version": {
-    "major": 4,
-    "minor": 0,
+    "major": 5,
+    "minor": 1,
     "patch": 0
   }
 }

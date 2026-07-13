@@ -4,8 +4,16 @@
   "keywords": [
     "defi"
   ],
-  "timestamp": "2025-11-10T09:00:34.836+00:00",
+  "timestamp": "2026-07-10T01:01:01.947+00:00",
   "tokens": [
+    {
+      "chainId": 2000,
+      "address": "0xe3fca919883950c5cd468156392a6477ff5d18de",
+      "name": "Doge Eat Doge",
+      "symbol": "OMNOM",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/26878/thumb/omnom.jpg?1696525937"
+    },
     {
       "chainId": 2000,
       "address": "0xb7ddc6414bf4f5515b52d8bdd69973ae205ff101",
@@ -32,14 +40,6 @@
     },
     {
       "chainId": 2000,
-      "address": "0x6fc4563460d5f45932c473334d5c1c5b4aea0e01",
-      "name": "YodeSwap",
-      "symbol": "YODE",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/26944/thumb/yodeswap.png?1696525999"
-    },
-    {
-      "chainId": 2000,
       "address": "0x8a764cf73438de795c98707b07034e577af54825",
       "name": "Doge Inu",
       "symbol": "DINU",
@@ -48,11 +48,11 @@
     },
     {
       "chainId": 2000,
-      "address": "0xe3fca919883950c5cd468156392a6477ff5d18de",
-      "name": "Doge Eat Doge",
-      "symbol": "OMNOM",
+      "address": "0x6fc4563460d5f45932c473334d5c1c5b4aea0e01",
+      "name": "YodeSwap",
+      "symbol": "YODE",
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/26878/thumb/omnom.jpg?1696525937"
+      "logoURI": "https://assets.coingecko.com/coins/images/26944/thumb/yodeswap.png?1696525999"
     },
     {
       "chainId": 2000,
@@ -88,8 +88,8 @@
     }
   ],
   "version": {
-    "major": 8,
-    "minor": 0,
+    "major": 10,
+    "minor": 1,
     "patch": 0
   }
 }

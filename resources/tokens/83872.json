@@ -4,16 +4,8 @@
   "keywords": [
     "defi"
   ],
-  "timestamp": "2026-05-23T11:00:58.069+00:00",
+  "timestamp": "2026-07-10T01:03:45.061+00:00",
   "tokens": [
-    {
-      "chainId": 83872,
-      "address": "0x240962a6ddd67dd382db4d417cbdf0d8822aca2f",
-      "name": "Bitcoin Bridged ZED20",
-      "symbol": "BTC.Z",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/38101/thumb/btc-z.png?1716527089"
-    },
     {
       "chainId": 83872,
       "address": "0xfe5f4fa42e7a3027475a3eb54f7ee16c332298f1",
@@ -21,6 +13,14 @@
       "symbol": "USDC.Z",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/38100/thumb/usdc-z.png?1716527049"
+    },
+    {
+      "chainId": 83872,
+      "address": "0x240962a6ddd67dd382db4d417cbdf0d8822aca2f",
+      "name": "Bitcoin Bridged ZED20",
+      "symbol": "BTC.Z",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/38101/thumb/btc-z.png?1716527089"
     },
     {
       "chainId": 83872,
@@ -32,8 +32,8 @@
     }
   ],
   "version": {
-    "major": 3,
-    "minor": 0,
+    "major": 4,
+    "minor": 2,
     "patch": 0
   }
 }

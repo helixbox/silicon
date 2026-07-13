@@ -4,15 +4,23 @@
   "keywords": [
     "defi"
   ],
-  "timestamp": "2026-03-09T10:00:17.210+00:00",
+  "timestamp": "2026-07-10T03:00:41.089+00:00",
   "tokens": [
     {
       "chainId": 122,
-      "address": "0x33284f95ccb7b948d9d352e1439561cf83d8d00d",
-      "name": "Fuse Bridged WBTC (Fuse)",
-      "symbol": "WBTC",
-      "decimals": 8,
-      "logoURI": "https://assets.coingecko.com/coins/images/39557/thumb/wbtc.png?1722898201"
+      "address": "0x0be9e53fd7edac9f859882afdda116645287c629",
+      "name": "Wrapped FUSE",
+      "symbol": "WFUSE",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/33535/thumb/3WFUSE_token_logo_crl.png?1703026207"
+    },
+    {
+      "chainId": 122,
+      "address": "0x68c9736781e9316ebf5c3d49fe0c1f45d2d104cd",
+      "name": "Fuse Bridged USDT (Fuse)",
+      "symbol": "USDT",
+      "decimals": 6,
+      "logoURI": "https://assets.coingecko.com/coins/images/32986/thumb/logo_%288%29.png?1700094172"
     },
     {
       "chainId": 122,
@@ -48,11 +56,11 @@
     },
     {
       "chainId": 122,
-      "address": "0x2931b47c2cee4febad348ba3d322cb4a17662c34",
-      "name": "Bridged Wrapped stETH (Fuse)",
-      "symbol": "WSTETH",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/51545/thumb/logo_%2811%29.png?1731503581"
+      "address": "0x33284f95ccb7b948d9d352e1439561cf83d8d00d",
+      "name": "Fuse Bridged WBTC (Fuse)",
+      "symbol": "WBTC",
+      "decimals": 8,
+      "logoURI": "https://assets.coingecko.com/coins/images/39557/thumb/wbtc.png?1722898201"
     },
     {
       "chainId": 122,
@@ -64,19 +72,11 @@
     },
     {
       "chainId": 122,
-      "address": "0x0be9e53fd7edac9f859882afdda116645287c629",
-      "name": "Wrapped FUSE",
-      "symbol": "WFUSE",
+      "address": "0x2931b47c2cee4febad348ba3d322cb4a17662c34",
+      "name": "Bridged Wrapped stETH (Fuse)",
+      "symbol": "WSTETH",
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/33535/thumb/3WFUSE_token_logo_crl.png?1703026207"
-    },
-    {
-      "chainId": 122,
-      "address": "0x68c9736781e9316ebf5c3d49fe0c1f45d2d104cd",
-      "name": "Fuse Bridged USDT (Fuse)",
-      "symbol": "USDT",
-      "decimals": 6,
-      "logoURI": "https://assets.coingecko.com/coins/images/32986/thumb/logo_%288%29.png?1700094172"
+      "logoURI": "https://assets.coingecko.com/coins/images/51545/thumb/logo_%2811%29.png?1731503581"
     },
     {
       "chainId": 122,
@@ -160,8 +160,8 @@
     }
   ],
   "version": {
-    "major": 12,
-    "minor": 0,
+    "major": 13,
+    "minor": 1,
     "patch": 0
   }
 }

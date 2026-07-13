@@ -4,32 +4,8 @@
   "keywords": [
     "defi"
   ],
-  "timestamp": "2026-07-03T05:03:21.595+00:00",
+  "timestamp": "2026-07-09T12:02:44.472+00:00",
   "tokens": [
-    {
-      "chainId": 4326,
-      "address": "0x214b26a427df89437898dec7efd2bc4472b983ea",
-      "name": "Meka",
-      "symbol": "MEKA",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/102173066/thumb/meka.jpg?1777568903"
-    },
-    {
-      "chainId": 4326,
-      "address": "0x4200000000000000000000000000000000000006",
-      "name": "L2 Standard Bridged WETH (MegaETH)",
-      "symbol": "WETH",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/102171886/thumb/weth.png?1770258060"
-    },
-    {
-      "chainId": 4326,
-      "address": "0x996ce957408804fec19237d866799d9c7076e48c",
-      "name": "Brix iTRY",
-      "symbol": "ITRY",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/102172904/thumb/iTRY_DEX.png?1776512598"
-    },
     {
       "chainId": 4326,
       "address": "0x021ee124cf23d302a7f725ae7a01b77a8ce9782b",
@@ -48,11 +24,11 @@
     },
     {
       "chainId": 4326,
-      "address": "0x28b7e77f82b25b95953825f1e3ea0e36c1c29861",
-      "name": "MegaETH",
-      "symbol": "MEGA",
+      "address": "0x4200000000000000000000000000000000000006",
+      "name": "L2 Standard Bridged WETH (MegaETH)",
+      "symbol": "WETH",
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/69995/thumb/9fcb2fa4-b240-46e2-9016-c4f6101a139d.jpeg?1778485816"
+      "logoURI": "https://assets.coingecko.com/coins/images/102171886/thumb/weth.png?1770258060"
     },
     {
       "chainId": 4326,
@@ -64,11 +40,35 @@
     },
     {
       "chainId": 4326,
+      "address": "0x214b26a427df89437898dec7efd2bc4472b983ea",
+      "name": "Meka",
+      "symbol": "MEKA",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/102173066/thumb/meka.jpg?1777568903"
+    },
+    {
+      "chainId": 4326,
+      "address": "0x996ce957408804fec19237d866799d9c7076e48c",
+      "name": "Brix iTRY",
+      "symbol": "ITRY",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/102172904/thumb/iTRY_DEX.png?1776512598"
+    },
+    {
+      "chainId": 4326,
       "address": "0x2a3a4c92ce37abd7239fb010bc390710f4062407",
       "name": "Fluffey",
       "symbol": "FLUFFEY",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/102173058/thumb/fluffey.jpg?1777554743"
+    },
+    {
+      "chainId": 4326,
+      "address": "0x28b7e77f82b25b95953825f1e3ea0e36c1c29861",
+      "name": "MegaETH",
+      "symbol": "MEGA",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/69995/thumb/9fcb2fa4-b240-46e2-9016-c4f6101a139d.jpeg?1778485816"
     },
     {
       "chainId": 4326,
@@ -136,8 +136,8 @@
     }
   ],
   "version": {
-    "major": 3,
-    "minor": 2,
-    "patch": 3
+    "major": 4,
+    "minor": 1,
+    "patch": 0
   }
 }

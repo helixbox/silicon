@@ -4,8 +4,16 @@
   "keywords": [
     "defi"
   ],
-  "timestamp": "2026-04-14T15:00:12.892+00:00",
+  "timestamp": "2026-07-10T03:00:27.825+00:00",
   "tokens": [
+    {
+      "chainId": 9008,
+      "address": "0xfb889425b72c97c5b4484cf148ae2404ab7a13e7",
+      "name": "Kensei",
+      "symbol": "KENSEI",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/55210/thumb/kensei.png?1771562998"
+    },
     {
       "chainId": 9008,
       "address": "0xe550bde2f0898552b38a41635d7a8ddb1fd81276",
@@ -13,22 +21,6 @@
       "symbol": "SHDX",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/55234/thumb/LOGO_GOLD_-_200x200_CMC.png?1744873516"
-    },
-    {
-      "chainId": 9008,
-      "address": "0xee1fc22381e6b6bb5ee3bf6b5ec58df6f5480df8",
-      "name": "Shido Bridged USDC (Shido)",
-      "symbol": "USDC",
-      "decimals": 6,
-      "logoURI": "https://assets.coingecko.com/coins/images/67400/thumb/usd-coin-usdc-logo_%282%29_200x200.png?1752678492"
-    },
-    {
-      "chainId": 9008,
-      "address": "0x56009a137ed6d56e0133a52363a78063f429ece4",
-      "name": "Rakun",
-      "symbol": "RAKUN",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/102172114/thumb/rakun.png?1771638587"
     },
     {
       "chainId": 9008,
@@ -40,11 +32,19 @@
     },
     {
       "chainId": 9008,
-      "address": "0xfb889425b72c97c5b4484cf148ae2404ab7a13e7",
-      "name": "Kensei",
-      "symbol": "KENSEI",
+      "address": "0x56009a137ed6d56e0133a52363a78063f429ece4",
+      "name": "Rakun",
+      "symbol": "RAKUN",
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/55210/thumb/kensei.png?1771562998"
+      "logoURI": "https://assets.coingecko.com/coins/images/102172114/thumb/rakun.png?1771638587"
+    },
+    {
+      "chainId": 9008,
+      "address": "0xee1fc22381e6b6bb5ee3bf6b5ec58df6f5480df8",
+      "name": "Shido Bridged USDC (Shido)",
+      "symbol": "USDC",
+      "decimals": 6,
+      "logoURI": "https://assets.coingecko.com/coins/images/67400/thumb/usd-coin-usdc-logo_%282%29_200x200.png?1752678492"
     },
     {
       "chainId": 9008,
@@ -56,8 +56,8 @@
     }
   ],
   "version": {
-    "major": 1,
-    "minor": 2,
+    "major": 2,
+    "minor": 1,
     "patch": 0
   }
 }

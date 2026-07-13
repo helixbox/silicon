@@ -4,8 +4,16 @@
   "keywords": [
     "defi"
   ],
-  "timestamp": "2026-03-29T11:00:20.837+00:00",
+  "timestamp": "2026-07-10T03:00:49.732+00:00",
   "tokens": [
+    {
+      "chainId": 128,
+      "address": "0x410a56541bd912f9b60943fcb344f1e3d6f09567",
+      "name": "Minto",
+      "symbol": "BTCMT",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/21819/thumb/MNVvqe2n_400x400.png?1696521171"
+    },
     {
       "chainId": 128,
       "address": "0x180dae91d6d56235453a892d2e56a3e40ba81df8",
@@ -37,14 +45,6 @@
       "symbol": "NT",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/17415/thumb/nextype.PNG?1696516963"
-    },
-    {
-      "chainId": 128,
-      "address": "0x410a56541bd912f9b60943fcb344f1e3d6f09567",
-      "name": "Minto",
-      "symbol": "BTCMT",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/21819/thumb/MNVvqe2n_400x400.png?1696521171"
     },
     {
       "chainId": 128,
@@ -184,8 +184,8 @@
     }
   ],
   "version": {
-    "major": 14,
-    "minor": 0,
+    "major": 15,
+    "minor": 1,
     "patch": 0
   }
 }

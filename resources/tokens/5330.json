@@ -4,16 +4,8 @@
   "keywords": [
     "defi"
   ],
-  "timestamp": "2026-06-28T10:00:49.656+00:00",
+  "timestamp": "2026-07-10T01:00:59.206+00:00",
   "tokens": [
-    {
-      "chainId": 5330,
-      "address": "0x4200000000000000000000000000000000000006",
-      "name": "Superseed Bridged WETH (Superseed)",
-      "symbol": "WETH",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/55065/thumb/weth_2.jpg?1743576561"
-    },
     {
       "chainId": 5330,
       "address": "0xc316c8252b5f2176d0135ebb0999e99296998f2e",
@@ -21,6 +13,14 @@
       "symbol": "USDC",
       "decimals": 6,
       "logoURI": "https://assets.coingecko.com/coins/images/55064/thumb/usdc.jpg?1743576313"
+    },
+    {
+      "chainId": 5330,
+      "address": "0x4200000000000000000000000000000000000006",
+      "name": "Superseed Bridged WETH (Superseed)",
+      "symbol": "WETH",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/55065/thumb/weth_2.jpg?1743576561"
     },
     {
       "chainId": 5330,
@@ -48,8 +48,8 @@
     }
   ],
   "version": {
-    "major": 1,
-    "minor": 0,
+    "major": 2,
+    "minor": 2,
     "patch": 0
   }
 }

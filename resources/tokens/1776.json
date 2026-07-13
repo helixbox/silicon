@@ -4,8 +4,16 @@
   "keywords": [
     "defi"
   ],
-  "timestamp": "2026-05-20T11:00:46.258+00:00",
+  "timestamp": "2026-07-10T01:01:45.147+00:00",
   "tokens": [
+    {
+      "chainId": 1776,
+      "address": "factory/inj127l5a2wmkyvucxdlupqyac3y0v6wqfhq03ka64/qunt",
+      "name": "Injective Quants",
+      "symbol": "QUNT",
+      "decimals": 6,
+      "logoURI": "https://assets.coingecko.com/coins/images/37868/thumb/pfp.png?1730240353"
+    },
     {
       "chainId": 1776,
       "address": "inj18flmwwaxxqj8m8l5zl8xhjrnah98fcjp3gcy3e/XIII",
@@ -16,19 +24,11 @@
     },
     {
       "chainId": 1776,
-      "address": "factory/inj1xy3kvlr4q4wdd6lrelsrw2fk2ged0any44hhwq/KIRA",
-      "name": "Kira the Injective Cat",
-      "symbol": "KIRA",
-      "decimals": 6,
-      "logoURI": "https://assets.coingecko.com/coins/images/33755/thumb/KIRA_LOGO_1500x1500.png?1719881603"
-    },
-    {
-      "chainId": 1776,
-      "address": "factory/inj127l5a2wmkyvucxdlupqyac3y0v6wqfhq03ka64/qunt",
-      "name": "Injective Quants",
-      "symbol": "QUNT",
-      "decimals": 6,
-      "logoURI": "https://assets.coingecko.com/coins/images/37868/thumb/pfp.png?1730240353"
+      "address": "inj1x997dy6ka7y8u0r56yk2k83llspy33yet9zcnq",
+      "name": "TruFin Staked INJ",
+      "symbol": "TRUINJ",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/66995/thumb/truINJ-logo.png?1751388978"
     },
     {
       "chainId": 1776,
@@ -40,22 +40,6 @@
     },
     {
       "chainId": 1776,
-      "address": "factory/inj1maeyvxfamtn8lfyxpjca8kuvauuf2qeu6gtxm3/Talis",
-      "name": "Talis Protocol",
-      "symbol": "TALIS",
-      "decimals": 6,
-      "logoURI": "https://assets.coingecko.com/coins/images/33380/thumb/28715.png?1702661851"
-    },
-    {
-      "chainId": 1776,
-      "address": "ibc/4971C5E4786D5995EC7EF894FCFA9CF2E127E95D5D53A982F6A062F3F410EDB8",
-      "name": "Levana",
-      "symbol": "LVN",
-      "decimals": 6,
-      "logoURI": "https://assets.coingecko.com/coins/images/33427/thumb/levana-token-icon_%281%29.png?1701819338"
-    },
-    {
-      "chainId": 1776,
       "address": "inj1n73yuus64z0yrda9hvn77twkspc4uste9j9ydd",
       "name": "Sushi Fighter",
       "symbol": "$SUSHI",
@@ -64,11 +48,19 @@
     },
     {
       "chainId": 1776,
-      "address": "factory/inj16eckaf75gcu9uxdglyvmh63k9t0l7chd0qmu85/black",
-      "name": "Black Panther",
-      "symbol": "BLACK",
+      "address": "factory/inj1xy3kvlr4q4wdd6lrelsrw2fk2ged0any44hhwq/KIRA",
+      "name": "Kira the Injective Cat",
+      "symbol": "KIRA",
       "decimals": 6,
-      "logoURI": "https://assets.coingecko.com/coins/images/37219/thumb/BLACK.png?1713774259"
+      "logoURI": "https://assets.coingecko.com/coins/images/33755/thumb/KIRA_LOGO_1500x1500.png?1719881603"
+    },
+    {
+      "chainId": 1776,
+      "address": "factory/inj1xtel2knkt8hmc9dnzpjz6kdmacgcfmlv5f308w/ninja",
+      "name": "Dog Wif Nunchucks",
+      "symbol": "NINJA",
+      "decimals": 6,
+      "logoURI": "https://assets.coingecko.com/coins/images/33761/thumb/NinjaLogoResized.png?1706179533"
     },
     {
       "chainId": 1776,
@@ -88,6 +80,22 @@
     },
     {
       "chainId": 1776,
+      "address": "ibc/4971C5E4786D5995EC7EF894FCFA9CF2E127E95D5D53A982F6A062F3F410EDB8",
+      "name": "Levana",
+      "symbol": "LVN",
+      "decimals": 6,
+      "logoURI": "https://assets.coingecko.com/coins/images/33427/thumb/levana-token-icon_%281%29.png?1701819338"
+    },
+    {
+      "chainId": 1776,
+      "address": "factory/inj16eckaf75gcu9uxdglyvmh63k9t0l7chd0qmu85/black",
+      "name": "Black Panther",
+      "symbol": "BLACK",
+      "decimals": 6,
+      "logoURI": "https://assets.coingecko.com/coins/images/37219/thumb/BLACK.png?1713774259"
+    },
+    {
+      "chainId": 1776,
       "address": "factory/inj1etz0laas6h7vemg3qtd67jpr6lh8v7xz7gfzqw/hdro",
       "name": "Hydro Protocol",
       "symbol": "HDRO",
@@ -96,19 +104,11 @@
     },
     {
       "chainId": 1776,
-      "address": "factory/inj1xtel2knkt8hmc9dnzpjz6kdmacgcfmlv5f308w/ninja",
-      "name": "Dog Wif Nunchucks",
-      "symbol": "NINJA",
+      "address": "factory/inj1maeyvxfamtn8lfyxpjca8kuvauuf2qeu6gtxm3/Talis",
+      "name": "Talis Protocol",
+      "symbol": "TALIS",
       "decimals": 6,
-      "logoURI": "https://assets.coingecko.com/coins/images/33761/thumb/NinjaLogoResized.png?1706179533"
-    },
-    {
-      "chainId": 1776,
-      "address": "inj1x997dy6ka7y8u0r56yk2k83llspy33yet9zcnq",
-      "name": "TruFin Staked INJ",
-      "symbol": "TRUINJ",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/66995/thumb/truINJ-logo.png?1751388978"
+      "logoURI": "https://assets.coingecko.com/coins/images/33380/thumb/28715.png?1702661851"
     },
     {
       "chainId": 1776,
@@ -160,8 +160,8 @@
     }
   ],
   "version": {
-    "major": 8,
-    "minor": 1,
-    "patch": 1
+    "major": 9,
+    "minor": 2,
+    "patch": 0
   }
 }

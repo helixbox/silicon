@@ -4,8 +4,24 @@
   "keywords": [
     "defi"
   ],
-  "timestamp": "2026-06-07T11:00:04.721+00:00",
+  "timestamp": "2026-07-10T02:00:08.858+00:00",
   "tokens": [
+    {
+      "chainId": 2222,
+      "address": "0x38481fdc1af61e6e72e0ff46f069315a59779c65",
+      "name": "Bear Scrub Money",
+      "symbol": "BEAR",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/29960/thumb/Bear.png?1696528886"
+    },
+    {
+      "chainId": 2222,
+      "address": "0xb51efaf2f7afb8a2f5be0b730281e414fb487636",
+      "name": "hKAVA",
+      "symbol": "HKAVA",
+      "decimals": 8,
+      "logoURI": "https://assets.coingecko.com/coins/images/36101/thumb/hover.jpeg?1710483234"
+    },
     {
       "chainId": 2222,
       "address": "0x990e157fc8a492c28f5b50022f000183131b9026",
@@ -24,27 +40,11 @@
     },
     {
       "chainId": 2222,
-      "address": "0x38481fdc1af61e6e72e0ff46f069315a59779c65",
-      "name": "Bear Scrub Money",
-      "symbol": "BEAR",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/29960/thumb/Bear.png?1696528886"
-    },
-    {
-      "chainId": 2222,
       "address": "0x471f79616569343e8e84a66f342b7b433b958154",
       "name": "Tiger Scrub Money",
       "symbol": "TIGER",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/28277/thumb/Tiger.png?1696527278"
-    },
-    {
-      "chainId": 2222,
-      "address": "0xb51efaf2f7afb8a2f5be0b730281e414fb487636",
-      "name": "hKAVA",
-      "symbol": "HKAVA",
-      "decimals": 8,
-      "logoURI": "https://assets.coingecko.com/coins/images/36101/thumb/hover.jpeg?1710483234"
     },
     {
       "chainId": 2222,
@@ -184,8 +184,8 @@
     }
   ],
   "version": {
-    "major": 15,
-    "minor": 0,
+    "major": 16,
+    "minor": 1,
     "patch": 0
   }
 }

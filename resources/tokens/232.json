@@ -4,16 +4,8 @@
   "keywords": [
     "defi"
   ],
-  "timestamp": "2026-06-16T11:00:34.732+00:00",
+  "timestamp": "2026-07-09T12:01:11.767+00:00",
   "tokens": [
-    {
-      "chainId": 232,
-      "address": "0x88f08e304ec4f90d644cec3fb69b8ad414acf884",
-      "name": "Lens Bridged USDC (Lens)",
-      "symbol": "USDC",
-      "decimals": 6,
-      "logoURI": "https://assets.coingecko.com/coins/images/55549/thumb/usdc1.png?1746723205"
-    },
     {
       "chainId": 232,
       "address": "0x6bdc36e20d267ff0dd6097799f82e78907105e2f",
@@ -21,6 +13,14 @@
       "symbol": "WGHO",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/55536/thumb/gho.png?1746569568"
+    },
+    {
+      "chainId": 232,
+      "address": "0x88f08e304ec4f90d644cec3fb69b8ad414acf884",
+      "name": "Lens Bridged USDC (Lens)",
+      "symbol": "USDC",
+      "decimals": 6,
+      "logoURI": "https://assets.coingecko.com/coins/images/55549/thumb/usdc1.png?1746723205"
     },
     {
       "chainId": 232,
@@ -32,8 +32,8 @@
     }
   ],
   "version": {
-    "major": 2,
-    "minor": 0,
+    "major": 3,
+    "minor": 1,
     "patch": 0
   }
 }

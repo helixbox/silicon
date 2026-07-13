@@ -4,7 +4,7 @@
   "keywords": [
     "defi"
   ],
-  "timestamp": "2026-06-30T10:01:11.167+00:00",
+  "timestamp": "2026-07-10T01:01:20.022+00:00",
   "tokens": [
     {
       "chainId": 5000,
@@ -16,19 +16,11 @@
     },
     {
       "chainId": 5000,
-      "address": "0xabbeed1d173541e0546b38b1c0394975be200000",
-      "name": "Slash Vision Labs",
-      "symbol": "SVL",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/37444/thumb/svl.jpeg?1714443652"
-    },
-    {
-      "chainId": 5000,
-      "address": "0x25356aeca4210ef7553140edb9b8026089e49396",
-      "name": "Lendle",
-      "symbol": "LEND",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/31588/thumb/lendle_logo_200_200_cg.png?1696530405"
+      "address": "0x671642ac281c760e34251d51bc9eef27026f3b7a",
+      "name": "Mantle Index Four Fund",
+      "symbol": "MI4",
+      "decimals": 6,
+      "logoURI": "https://assets.coingecko.com/coins/images/66570/thumb/mi4.png?1749795929"
     },
     {
       "chainId": 5000,
@@ -40,11 +32,11 @@
     },
     {
       "chainId": 5000,
-      "address": "0x671642ac281c760e34251d51bc9eef27026f3b7a",
-      "name": "Mantle Index Four Fund",
-      "symbol": "MI4",
+      "address": "0x09bc4e0d864854c6afb6eb9a9cdf58ac190d0df9",
+      "name": "Mantle Bridged USDC (Mantle)",
+      "symbol": "USDC",
       "decimals": 6,
-      "logoURI": "https://assets.coingecko.com/coins/images/66570/thumb/mi4.png?1749795929"
+      "logoURI": "https://assets.coingecko.com/coins/images/35296/thumb/USDC_Icon.png?1708082083"
     },
     {
       "chainId": 5000,
@@ -56,19 +48,27 @@
     },
     {
       "chainId": 5000,
-      "address": "0x09bc4e0d864854c6afb6eb9a9cdf58ac190d0df9",
-      "name": "Mantle Bridged USDC (Mantle)",
-      "symbol": "USDC",
-      "decimals": 6,
-      "logoURI": "https://assets.coingecko.com/coins/images/35296/thumb/USDC_Icon.png?1708082083"
-    },
-    {
-      "chainId": 5000,
       "address": "0xdeaddeaddeaddeaddeaddeaddeaddeaddead1111",
       "name": "Mantle Bridged WETH (Mantle)",
       "symbol": "WETH",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/31013/thumb/weth_2.jpg?1758795984"
+    },
+    {
+      "chainId": 5000,
+      "address": "0x25356aeca4210ef7553140edb9b8026089e49396",
+      "name": "Lendle",
+      "symbol": "LEND",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/31588/thumb/lendle_logo_200_200_cg.png?1696530405"
+    },
+    {
+      "chainId": 5000,
+      "address": "0xabbeed1d173541e0546b38b1c0394975be200000",
+      "name": "Slash Vision Labs",
+      "symbol": "SVL",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/37444/thumb/svl.jpeg?1714443652"
     },
     {
       "chainId": 5000,
@@ -600,8 +600,8 @@
     }
   ],
   "version": {
-    "major": 29,
-    "minor": 0,
+    "major": 30,
+    "minor": 1,
     "patch": 0
   }
 }

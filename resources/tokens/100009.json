@@ -4,16 +4,8 @@
   "keywords": [
     "defi"
   ],
-  "timestamp": "2026-01-02T09:00:29.945+00:00",
+  "timestamp": "2026-07-09T12:00:46.398+00:00",
   "tokens": [
-    {
-      "chainId": 100009,
-      "address": "0x5db3c8a942333f6468176a870db36eef120a34dc",
-      "name": "Safe Haven",
-      "symbol": "SHA",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/2584/thumb/safehaven.png?1696503388"
-    },
     {
       "chainId": 100009,
       "address": "0x5ef79995fe8a89e0812330e4378eb2660cede699",
@@ -21,6 +13,14 @@
       "symbol": "B3TR",
       "decimals": 4,
       "logoURI": "https://assets.coingecko.com/coins/images/52286/thumb/B3TR_%281%29.png?1742383317"
+    },
+    {
+      "chainId": 100009,
+      "address": "0x5db3c8a942333f6468176a870db36eef120a34dc",
+      "name": "Safe Haven",
+      "symbol": "SHA",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/2584/thumb/safehaven.png?1696503388"
     },
     {
       "chainId": 100009,
@@ -40,8 +40,8 @@
     }
   ],
   "version": {
-    "major": 2,
-    "minor": 0,
+    "major": 3,
+    "minor": 1,
     "patch": 0
   }
 }

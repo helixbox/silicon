@@ -4,8 +4,16 @@
   "keywords": [
     "defi"
   ],
-  "timestamp": "2026-06-30T10:01:15.168+00:00",
+  "timestamp": "2026-07-10T10:01:12.245+00:00",
   "tokens": [
+    {
+      "chainId": 1284,
+      "address": "0x0e358838ce72d5e61e0018a2ffac4bec5f4c88d2",
+      "name": "StellaSwap",
+      "symbol": "STELLA",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/22801/thumb/stellaswap.jpg?1696522104"
+    },
     {
       "chainId": 1284,
       "address": "0xffffffff1fcacbd218edc0eba20fc2308c778080",
@@ -13,14 +21,6 @@
       "symbol": "DOT",
       "decimals": 10,
       "logoURI": "https://assets.coingecko.com/coins/images/26044/thumb/polkadot-asset_32.png?1696525125"
-    },
-    {
-      "chainId": 1284,
-      "address": "0xcd3b51d98478d53f4515a306be565c6eebef1d58",
-      "name": "BeamSwap",
-      "symbol": "GLINT",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/22893/thumb/glint.png?1696522190"
     },
     {
       "chainId": 1284,
@@ -40,19 +40,11 @@
     },
     {
       "chainId": 1284,
-      "address": "0x8f552a71efe5eefc207bf75485b356a0b3f01ec9",
-      "name": "Nomad Bridged USDC (Moonbeam)",
-      "symbol": "USDC",
-      "decimals": 6,
-      "logoURI": "https://assets.coingecko.com/coins/images/35231/thumb/USDC.jpg?1707925331"
-    },
-    {
-      "chainId": 1284,
-      "address": "0x30d2a9f5fdf90ace8c17952cbb4ee48a55d916a7",
-      "name": "Nomad Bridged WETH (Moonbeam)",
-      "symbol": "WETH",
+      "address": "0xacc15dc74880c9944775448304b263d191c6077f",
+      "name": "Wrapped Moonbeam",
+      "symbol": "WGLMR",
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/39720/thumb/WETH.PNG?1723732514"
+      "logoURI": "https://assets.coingecko.com/coins/images/23688/thumb/Moonbeam_WGLMR_ICON.png?1716655228"
     },
     {
       "chainId": 1284,
@@ -72,27 +64,35 @@
     },
     {
       "chainId": 1284,
-      "address": "0x0e358838ce72d5e61e0018a2ffac4bec5f4c88d2",
-      "name": "StellaSwap",
-      "symbol": "STELLA",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/22801/thumb/stellaswap.jpg?1696522104"
-    },
-    {
-      "chainId": 1284,
-      "address": "0xacc15dc74880c9944775448304b263d191c6077f",
-      "name": "Wrapped Moonbeam",
-      "symbol": "WGLMR",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/23688/thumb/Moonbeam_WGLMR_ICON.png?1716655228"
-    },
-    {
-      "chainId": 1284,
       "address": "0x6021d2c27b6fbd6e7608d1f39b41398caee2f824",
       "name": "Cypress",
       "symbol": "CP",
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/35286/thumb/photo_2024-12-05_05-17-52.jpg?1733694753"
+      "logoURI": "https://assets.coingecko.com/coins/images/35286/thumb/IMG_9405.JPG?1783674461"
+    },
+    {
+      "chainId": 1284,
+      "address": "0x8f552a71efe5eefc207bf75485b356a0b3f01ec9",
+      "name": "Nomad Bridged USDC (Moonbeam)",
+      "symbol": "USDC",
+      "decimals": 6,
+      "logoURI": "https://assets.coingecko.com/coins/images/35231/thumb/USDC.jpg?1707925331"
+    },
+    {
+      "chainId": 1284,
+      "address": "0x30d2a9f5fdf90ace8c17952cbb4ee48a55d916a7",
+      "name": "Nomad Bridged WETH (Moonbeam)",
+      "symbol": "WETH",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/39720/thumb/WETH.PNG?1723732514"
+    },
+    {
+      "chainId": 1284,
+      "address": "0xcd3b51d98478d53f4515a306be565c6eebef1d58",
+      "name": "BeamSwap",
+      "symbol": "GLINT",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/22893/thumb/glint.png?1696522190"
     },
     {
       "chainId": 1284,
@@ -200,8 +200,8 @@
     }
   ],
   "version": {
-    "major": 23,
-    "minor": 0,
-    "patch": 0
+    "major": 25,
+    "minor": 1,
+    "patch": 1
   }
 }
