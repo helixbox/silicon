@@ -4,8 +4,16 @@
   "keywords": [
     "defi"
   ],
-  "timestamp": "2026-07-10T03:01:21.245+00:00",
+  "timestamp": "2026-07-14T09:01:18.865+00:00",
   "tokens": [
+    {
+      "chainId": 57073,
+      "address": "0x0c5e2d1c98cd265c751e02f8f3293bc5764f9111",
+      "name": "Shroomy",
+      "symbol": "SHROOMY",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/54002/thumb/1000000182.jpg?1737942213"
+    },
     {
       "chainId": 57073,
       "address": "0x0606fc632ee812ba970af72f8489baaa443c4b98",
@@ -13,14 +21,6 @@
       "symbol": "ANITA",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/68173/thumb/_L_L.png?1754996486"
-    },
-    {
-      "chainId": 57073,
-      "address": "0x53eb0098d09b8d1008f382bbd2a5d4f649111710",
-      "name": "WATCHDOGS",
-      "symbol": "WATCH",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/67089/thumb/GkveKRgXcAESEPj_%281%29.png?1751702681"
     },
     {
       "chainId": 57073,
@@ -32,11 +32,11 @@
     },
     {
       "chainId": 57073,
-      "address": "0x0c5e2d1c98cd265c751e02f8f3293bc5764f9111",
-      "name": "Shroomy",
-      "symbol": "SHROOMY",
+      "address": "0x53eb0098d09b8d1008f382bbd2a5d4f649111710",
+      "name": "WATCHDOGS",
+      "symbol": "WATCH",
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/54002/thumb/1000000182.jpg?1737942213"
+      "logoURI": "https://assets.coingecko.com/coins/images/67089/thumb/GkveKRgXcAESEPj_%281%29.png?1751702681"
     },
     {
       "chainId": 57073,
@@ -93,6 +93,14 @@
       "symbol": "CEGX",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/102172728/thumb/CEGx-logo.png?1775052068"
+    },
+    {
+      "chainId": 57073,
+      "address": "0x142cdc44890978b506e745bb3bd11607b7f7faef",
+      "name": "PayPal USD",
+      "symbol": "PYUSD",
+      "decimals": 6,
+      "logoURI": "https://assets.coingecko.com/coins/images/31212/thumb/PYUSD_Token_Logo_2x.png?1765987788"
     },
     {
       "chainId": 57073,
@@ -321,7 +329,7 @@
   ],
   "version": {
     "major": 7,
-    "minor": 1,
+    "minor": 2,
     "patch": 0
   }
 }

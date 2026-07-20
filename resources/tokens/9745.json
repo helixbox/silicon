@@ -4,15 +4,15 @@
   "keywords": [
     "defi"
   ],
-  "timestamp": "2026-07-09T11:00:07.134+00:00",
+  "timestamp": "2026-07-15T14:00:04.244+00:00",
   "tokens": [
     {
       "chainId": 9745,
-      "address": "0xe0126f0c4451b2b917064a93040fd4770d6774b5",
-      "name": "Wrapped Aave Plasma USDT0",
-      "symbol": "WAPLAUSDT0",
-      "decimals": 6,
-      "logoURI": "https://assets.coingecko.com/coins/images/69597/thumb/waplasusdt0.png?1759197676"
+      "address": "0x6695c0f8706c5ace3bdf8995073179cca47926dc",
+      "name": "Yuzu USD",
+      "symbol": "YZUSD",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/70558/thumb/yzusd.png?1762518733"
     },
     {
       "chainId": 9745,
@@ -24,14 +24,6 @@
     },
     {
       "chainId": 9745,
-      "address": "0xa1fa77779e6866fa3ef48fc0720657e042158387",
-      "name": "Axis USD",
-      "symbol": "USDX",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/102172783/thumb/axis-usd.jpg?1775659788"
-    },
-    {
-      "chainId": 9745,
       "address": "0xc4374775489cb9c56003bf2c9b12495fc64f0771",
       "name": "syrupUSDT",
       "symbol": "SYRUPUSDT",
@@ -40,11 +32,19 @@
     },
     {
       "chainId": 9745,
-      "address": "0x6695c0f8706c5ace3bdf8995073179cca47926dc",
-      "name": "Yuzu USD",
-      "symbol": "YZUSD",
+      "address": "0xa1fa77779e6866fa3ef48fc0720657e042158387",
+      "name": "Axis USD",
+      "symbol": "USDX",
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/70558/thumb/yzusd.png?1762518733"
+      "logoURI": "https://assets.coingecko.com/coins/images/102172783/thumb/axis-usd.jpg?1775659788"
+    },
+    {
+      "chainId": 9745,
+      "address": "0xebfc8c2fe73c431ef2a371aea9132110aab50dca",
+      "name": "Yuzu Protection Pool",
+      "symbol": "YZPP",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/71043/thumb/yzPP_%281%29.png?1765442029"
     },
     {
       "chainId": 9745,
@@ -56,11 +56,11 @@
     },
     {
       "chainId": 9745,
-      "address": "0xebfc8c2fe73c431ef2a371aea9132110aab50dca",
-      "name": "Yuzu Protection Pool",
-      "symbol": "YZPP",
+      "address": "0x22222215d4edc5510d23d0886133e7ece7f5fdc1",
+      "name": "Chateau USD",
+      "symbol": "CHUSD",
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/71043/thumb/yzPP_%281%29.png?1765442029"
+      "logoURI": "https://assets.coingecko.com/coins/images/71634/thumb/chusdn.png?1768641680"
     },
     {
       "chainId": 9745,
@@ -80,11 +80,11 @@
     },
     {
       "chainId": 9745,
-      "address": "0x22222215d4edc5510d23d0886133e7ece7f5fdc1",
-      "name": "Chateau USD",
-      "symbol": "CHUSD",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/71634/thumb/chusdn.png?1768641680"
+      "address": "0xe0126f0c4451b2b917064a93040fd4770d6774b5",
+      "name": "Wrapped Aave Plasma USDT0",
+      "symbol": "WAPLAUSDT0",
+      "decimals": 6,
+      "logoURI": "https://assets.coingecko.com/coins/images/69597/thumb/waplasusdt0.png?1759197676"
     },
     {
       "chainId": 9745,
@@ -117,14 +117,6 @@
       "symbol": "LITH",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/70098/thumb/logo-lith1.png?1760553212"
-    },
-    {
-      "chainId": 9745,
-      "address": "0x61e030a56d33e8260fdd81f03b162a79fe3449cd",
-      "name": "Fluid",
-      "symbol": "FLUID",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/14688/thumb/Logo_1_%28brighter%29.png?1734430693"
     },
     {
       "chainId": 9745,
@@ -205,6 +197,14 @@
       "symbol": "WSTUSR",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/51880/thumb/USR_LOGO.png?1732098841"
+    },
+    {
+      "chainId": 9745,
+      "address": "0x61e030a56d33e8260fdd81f03b162a79fe3449cd",
+      "name": "Fluid",
+      "symbol": "FLUID",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/14688/thumb/fluid.png?1784121639"
     },
     {
       "chainId": 9745,
@@ -298,6 +298,6 @@
   "version": {
     "major": 10,
     "minor": 1,
-    "patch": 0
+    "patch": 2
   }
 }

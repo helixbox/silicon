@@ -4,15 +4,15 @@
   "keywords": [
     "defi"
   ],
-  "timestamp": "2026-07-10T01:00:54.198+00:00",
+  "timestamp": "2026-07-17T00:00:46.532+00:00",
   "tokens": [
     {
       "chainId": 196,
-      "address": "0x505000008de8748dbd4422ff4687a4fc9beba15b",
-      "name": "OKX Wrapped SOL",
-      "symbol": "XSOL",
-      "decimals": 9,
-      "logoURI": "https://assets.coingecko.com/coins/images/71715/thumb/okxsol.png?1769055437"
+      "address": "0xa7bc49339b416c310f0c0d9a8e6aaa0d71178696",
+      "name": "DOGSHIT",
+      "symbol": "DOGSHIT",
+      "decimals": 1,
+      "logoURI": "https://assets.coingecko.com/coins/images/68818/thumb/logo_%281%29.png?1756872888"
     },
     {
       "chainId": 196,
@@ -32,11 +32,11 @@
     },
     {
       "chainId": 196,
-      "address": "0xa7bc49339b416c310f0c0d9a8e6aaa0d71178696",
-      "name": "DOGSHIT",
-      "symbol": "DOGSHIT",
-      "decimals": 1,
-      "logoURI": "https://assets.coingecko.com/coins/images/68818/thumb/logo_%281%29.png?1756872888"
+      "address": "0xfdc4a45a4bf53957b2c73b1ff323d8cbe39118dd",
+      "name": "TITAN",
+      "symbol": "TITAN",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/102171883/thumb/04478B9E-9666-4B71-837D-545D0028C708.png?1770218770"
     },
     {
       "chainId": 196,
@@ -56,19 +56,11 @@
     },
     {
       "chainId": 196,
-      "address": "0xfdc4a45a4bf53957b2c73b1ff323d8cbe39118dd",
-      "name": "TITAN",
-      "symbol": "TITAN",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/102171883/thumb/04478B9E-9666-4B71-837D-545D0028C708.png?1770218770"
-    },
-    {
-      "chainId": 196,
-      "address": "0xe538905cf8410324e03a5a23c1c177a474d59b2b",
-      "name": "Wrapped OKB",
-      "symbol": "WOKB",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/37278/thumb/okb.png?1713935642"
+      "address": "0x505000008de8748dbd4422ff4687a4fc9beba15b",
+      "name": "OKX Wrapped SOL",
+      "symbol": "XSOL",
+      "decimals": 9,
+      "logoURI": "https://assets.coingecko.com/coins/images/71715/thumb/okxsol.png?1769055437"
     },
     {
       "chainId": 196,
@@ -77,6 +69,14 @@
       "symbol": "WETH",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/38360/thumb/weth.png?1717175703"
+    },
+    {
+      "chainId": 196,
+      "address": "0xe538905cf8410324e03a5a23c1c177a474d59b2b",
+      "name": "Wrapped OKB",
+      "symbol": "WOKB",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/37278/thumb/okb.png?1713935642"
     },
     {
       "chainId": 196,
@@ -168,11 +168,27 @@
     },
     {
       "chainId": 196,
+      "address": "0x87b4a8176b3df6b71e26cc095edcaf4db07506b4",
+      "name": "PayPal USD",
+      "symbol": "PYUSD",
+      "decimals": 6,
+      "logoURI": "https://assets.coingecko.com/coins/images/31212/thumb/PYUSD_Token_Logo_2x.png?1765987788"
+    },
+    {
+      "chainId": 196,
       "address": "0x5bff88ca1442c2496f7e475e9e7786383bc070c0",
       "name": "Frax Staked frxUSD",
       "symbol": "SFRXUSD",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/53964/thumb/sfrxUSD.png?1737792232"
+    },
+    {
+      "chainId": 196,
+      "address": "0xcef6c74ce218c0e1f48ca2430635d0a65cd3737a",
+      "name": "Satoshi Stablecoin",
+      "symbol": "SATUSD",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/37760/thumb/Instagram_post_-_25.png?1715475306"
     },
     {
       "chainId": 196,
@@ -289,7 +305,7 @@
   ],
   "version": {
     "major": 26,
-    "minor": 1,
+    "minor": 3,
     "patch": 0
   }
 }
