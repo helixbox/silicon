@@ -4,15 +4,15 @@
   "keywords": [
     "defi"
   ],
-  "timestamp": "2026-07-10T03:00:24.706+00:00",
+  "timestamp": "2026-07-21T09:00:23.344+00:00",
   "tokens": [
     {
       "chainId": 34443,
-      "address": "0xdfc7c877a950e49d2610114102175a06c2e3167a",
-      "name": "Mode",
-      "symbol": "MODE",
+      "address": "0x4200000000000000000000000000000000000006",
+      "name": "L2 Standard Bridged WETH (Mode)",
+      "symbol": "WETH",
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/34979/thumb/MODE.jpg?1714561871"
+      "logoURI": "https://assets.coingecko.com/coins/images/39726/thumb/weth.png?1723757432"
     },
     {
       "chainId": 34443,
@@ -24,19 +24,19 @@
     },
     {
       "chainId": 34443,
+      "address": "0xdfc7c877a950e49d2610114102175a06c2e3167a",
+      "name": "Mode",
+      "symbol": "MODE",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/34979/thumb/MODE.jpg?1714561871"
+    },
+    {
+      "chainId": 34443,
       "address": "0xc53edeafb6d502daec5a7015d67936cea0cd0f52",
       "name": "Ionic USD Coin",
       "symbol": "IONUSDC",
       "decimals": 7,
       "logoURI": "https://assets.coingecko.com/coins/images/39224/thumb/ionUSDC.png?1721184505"
-    },
-    {
-      "chainId": 34443,
-      "address": "0x4200000000000000000000000000000000000006",
-      "name": "L2 Standard Bridged WETH (Mode)",
-      "symbol": "WETH",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/39726/thumb/weth.png?1723757432"
     },
     {
       "chainId": 34443,
@@ -193,7 +193,7 @@
     {
       "chainId": 34443,
       "address": "0x66eed5ff1701e6ed8470dc391f05e27b1d0657eb",
-      "name": "Boardwalk",
+      "name": "Boardwalk [OLD]",
       "symbol": "BMX",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/31699/thumb/256x256_frame.png?1777046529"
@@ -282,6 +282,6 @@
   "version": {
     "major": 14,
     "minor": 1,
-    "patch": 0
+    "patch": 1
   }
 }

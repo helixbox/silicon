@@ -4,15 +4,23 @@
   "keywords": [
     "defi"
   ],
-  "timestamp": "2026-07-10T01:03:43.561+00:00",
+  "timestamp": "2026-07-21T09:03:08.853+00:00",
   "tokens": [
     {
       "chainId": 252,
-      "address": "0x6e58089d8e8f664823d26454f49a5a0f2ff697fe",
-      "name": "Leviathan Points",
-      "symbol": "SQUID",
+      "address": "0xfc00000000000000000000000000000000000002",
+      "name": "Wrapped FRAX",
+      "symbol": "WFRAX",
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/37738/thumb/0x6e58089d8e8f664823d26454f49a5a0f2ff697fe.png?1742413661"
+      "logoURI": "https://assets.coingecko.com/coins/images/55432/thumb/wfrax_64.png?1745993624"
+    },
+    {
+      "chainId": 252,
+      "address": "0x58acc2600835211dcb5847c5fa422791fd492409",
+      "name": "dTRINITY Staked dUSD",
+      "symbol": "SDUSD",
+      "decimals": 6,
+      "logoURI": "https://assets.coingecko.com/coins/images/68063/thumb/sdUSD_Logo.png?1754642699"
     },
     {
       "chainId": 252,
@@ -32,27 +40,19 @@
     },
     {
       "chainId": 252,
+      "address": "0x6e58089d8e8f664823d26454f49a5a0f2ff697fe",
+      "name": "Leviathan Points",
+      "symbol": "SQUID",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/37738/thumb/0x6e58089d8e8f664823d26454f49a5a0f2ff697fe.png?1742413661"
+    },
+    {
+      "chainId": 252,
       "address": "0x788d96f655735f52c676a133f4dfc53cec614d4a",
       "name": "dTRINITY USD",
       "symbol": "DUSD",
       "decimals": 6,
       "logoURI": "https://assets.coingecko.com/coins/images/53290/thumb/dUSD_Logo.png?1735997462"
-    },
-    {
-      "chainId": 252,
-      "address": "0x58acc2600835211dcb5847c5fa422791fd492409",
-      "name": "dTRINITY Staked dUSD",
-      "symbol": "SDUSD",
-      "decimals": 6,
-      "logoURI": "https://assets.coingecko.com/coins/images/68063/thumb/sdUSD_Logo.png?1754642699"
-    },
-    {
-      "chainId": 252,
-      "address": "0xfc00000000000000000000000000000000000002",
-      "name": "Wrapped FRAX",
-      "symbol": "WFRAX",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/55432/thumb/wfrax_64.png?1745993624"
     },
     {
       "chainId": 252,
@@ -201,7 +201,7 @@
     {
       "chainId": 252,
       "address": "0xea34ebbc94df7bfec5d9cdcd373a4221b7c87810",
-      "name": "Boardwalk",
+      "name": "Boardwalk [OLD]",
       "symbol": "BMX",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/31699/thumb/256x256_frame.png?1777046529"
@@ -210,6 +210,6 @@
   "version": {
     "major": 9,
     "minor": 2,
-    "patch": 0
+    "patch": 1
   }
 }

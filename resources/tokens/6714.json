@@ -4,8 +4,16 @@
   "keywords": [
     "defi"
   ],
-  "timestamp": "2026-07-14T11:03:28.383+00:00",
+  "timestamp": "2026-07-22T03:03:33.335+00:00",
   "tokens": [
+    {
+      "chainId": 6714,
+      "address": "0x83fd06f0846d9d90b3016bf670efe2e0b11cde14",
+      "name": "Anubis Bridged DAI (Anubis)",
+      "symbol": "DAI",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/102174565/thumb/dai.png?1784026244"
+    },
     {
       "chainId": 6714,
       "address": "0x7dd9c7cbc32df500fa3c06fd60cd62c4e97b2eef",
@@ -16,16 +24,40 @@
     },
     {
       "chainId": 6714,
-      "address": "0x83fd06f0846d9d90b3016bf670efe2e0b11cde14",
-      "name": "Anubis Bridged DAI (Anubis)",
-      "symbol": "DAI",
+      "address": "0x699d13487ed6b78953da2750887b58ef738f9636",
+      "name": "Anubis Bridged BNB (Anubis)",
+      "symbol": "BNB",
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/102174565/thumb/dai.png?1784026244"
+      "logoURI": "https://assets.coingecko.com/coins/images/102174719/thumb/bnb.png?1784687115"
+    },
+    {
+      "chainId": 6714,
+      "address": "0x4d1d808a081fdac440703b3765fc61f8028c06b8",
+      "name": "Anubis Bridged LGNS (Anubis)",
+      "symbol": "LGNS",
+      "decimals": 9,
+      "logoURI": "https://assets.coingecko.com/coins/images/102174720/thumb/lgns.png?1784687220"
+    },
+    {
+      "chainId": 6714,
+      "address": "0xca326ae4fe47d07e7d20421170dadacd92ed694c",
+      "name": "Anubis Bridged ETH (Anubis)",
+      "symbol": "ETH",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/102174717/thumb/eth.png?1784686499"
+    },
+    {
+      "chainId": 6714,
+      "address": "0x72cf15f74657bb00dd1d8dd475248dee644f689a",
+      "name": "Anubis Bridged POL (Anubis)",
+      "symbol": "POL",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/102174718/thumb/polygon-matic-logo.png?1784686972"
     }
   ],
   "version": {
     "major": 0,
-    "minor": 1,
+    "minor": 2,
     "patch": 0
   }
 }

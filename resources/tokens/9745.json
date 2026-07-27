@@ -4,23 +4,15 @@
   "keywords": [
     "defi"
   ],
-  "timestamp": "2026-07-15T14:00:04.244+00:00",
+  "timestamp": "2026-07-22T10:00:05.265+00:00",
   "tokens": [
     {
       "chainId": 9745,
-      "address": "0x6695c0f8706c5ace3bdf8995073179cca47926dc",
-      "name": "Yuzu USD",
-      "symbol": "YZUSD",
+      "address": "0x22222215d4edc5510d23d0886133e7ece7f5fdc1",
+      "name": "Chateau USD",
+      "symbol": "CHUSD",
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/70558/thumb/yzusd.png?1762518733"
-    },
-    {
-      "chainId": 9745,
-      "address": "0x133a09dd6169f6f0509658a911f2a82fc8ab6a0d",
-      "name": "Ionex Token",
-      "symbol": "INX",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/70089/thumb/tokenLogo.png?1760540852"
+      "logoURI": "https://assets.coingecko.com/coins/images/71634/thumb/chusdn.png?1768641680"
     },
     {
       "chainId": 9745,
@@ -29,6 +21,14 @@
       "symbol": "SYRUPUSDT",
       "decimals": 6,
       "logoURI": "https://assets.coingecko.com/coins/images/69514/thumb/syrupUSDT.png?1761824990"
+    },
+    {
+      "chainId": 9745,
+      "address": "0xc8a8df9b210243c55d31c73090f06787ad0a1bf6",
+      "name": "Staked Yuzu USD",
+      "symbol": "SYZUSD",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/70132/thumb/Group_427319351.png?1760695727"
     },
     {
       "chainId": 9745,
@@ -48,19 +48,11 @@
     },
     {
       "chainId": 9745,
-      "address": "0xc8a8df9b210243c55d31c73090f06787ad0a1bf6",
-      "name": "Staked Yuzu USD",
-      "symbol": "SYZUSD",
+      "address": "0x6695c0f8706c5ace3bdf8995073179cca47926dc",
+      "name": "Yuzu USD",
+      "symbol": "YZUSD",
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/70132/thumb/Group_427319351.png?1760695727"
-    },
-    {
-      "chainId": 9745,
-      "address": "0x22222215d4edc5510d23d0886133e7ece7f5fdc1",
-      "name": "Chateau USD",
-      "symbol": "CHUSD",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/71634/thumb/chusdn.png?1768641680"
+      "logoURI": "https://assets.coingecko.com/coins/images/70558/thumb/yzusd.png?1762518733"
     },
     {
       "chainId": 9745,
@@ -69,6 +61,14 @@
       "symbol": "SCHUSD",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/71635/thumb/schusd.png?1768641802"
+    },
+    {
+      "chainId": 9745,
+      "address": "0x133a09dd6169f6f0509658a911f2a82fc8ab6a0d",
+      "name": "Ionex Token",
+      "symbol": "INX",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/70089/thumb/tokenLogo.png?1760540852"
     },
     {
       "chainId": 9745,
@@ -204,7 +204,7 @@
       "name": "Fluid",
       "symbol": "FLUID",
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/14688/thumb/fluid.png?1784121639"
+      "logoURI": "https://assets.coingecko.com/coins/images/14688/thumb/Frame_1686566116_%281%29_%281%29.png?1784708239"
     },
     {
       "chainId": 9745,
@@ -298,6 +298,6 @@
   "version": {
     "major": 10,
     "minor": 1,
-    "patch": 2
+    "patch": 3
   }
 }
