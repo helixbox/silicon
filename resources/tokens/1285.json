@@ -4,15 +4,23 @@
   "keywords": [
     "defi"
   ],
-  "timestamp": "2026-07-10T01:00:53.891+00:00",
+  "timestamp": "2026-07-27T22:00:50.178+00:00",
   "tokens": [
     {
       "chainId": 1285,
-      "address": "0x2bf9b864cdc97b08b6d79ad4663e71b8ab65c45c",
-      "name": "Multichain Bridged WBNB (Moonriver)",
-      "symbol": "WBNB",
+      "address": "0xe3f5a90f9cb311505cd691a46596599aa1a0ad7d",
+      "name": "Bridged USDC (Moonriver)",
+      "symbol": "USDC",
+      "decimals": 6,
+      "logoURI": "https://assets.coingecko.com/coins/images/102174860/thumb/bridged-usdc-moonriver.webp?1785187024"
+    },
+    {
+      "chainId": 1285,
+      "address": "0x0cae51e1032e8461f4806e26332c030e34de3adb",
+      "name": "Magic Internet Money (Moonriver)",
+      "symbol": "MIM",
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/53098/thumb/wrapped_bnb.png?1735265298"
+      "logoURI": "https://assets.coingecko.com/coins/images/37609/thumb/mim.png?1715050916"
     },
     {
       "chainId": 1285,
@@ -32,19 +40,19 @@
     },
     {
       "chainId": 1285,
+      "address": "0x2bf9b864cdc97b08b6d79ad4663e71b8ab65c45c",
+      "name": "Multichain Bridged WBNB (Moonriver)",
+      "symbol": "WBNB",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/53098/thumb/wrapped_bnb.png?1735265298"
+    },
+    {
+      "chainId": 1285,
       "address": "0x6bd193ee6d2104f14f94e2ca6efefae561a4334b",
       "name": "Solarbeam",
       "symbol": "SOLAR",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/18260/thumb/solarbeamlogo.png?1696517755"
-    },
-    {
-      "chainId": 1285,
-      "address": "0x0cae51e1032e8461f4806e26332c030e34de3adb",
-      "name": "Magic Internet Money (Moonriver)",
-      "symbol": "MIM",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/37609/thumb/mim.png?1715050916"
     },
     {
       "chainId": 1285,
@@ -101,14 +109,6 @@
       "symbol": "RIB",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/19007/thumb/rib.png?1696518459"
-    },
-    {
-      "chainId": 1285,
-      "address": "0xffffffff7d2b0b761af01ca8e25242976ac0ad7d",
-      "name": "USDC",
-      "symbol": "USDC",
-      "decimals": 6,
-      "logoURI": "https://assets.coingecko.com/coins/images/6319/thumb/USDC.png?1769615602"
     },
     {
       "chainId": 1285,
@@ -192,8 +192,8 @@
     }
   ],
   "version": {
-    "major": 10,
-    "minor": 1,
+    "major": 11,
+    "minor": 0,
     "patch": 0
   }
 }
