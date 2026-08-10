@@ -4,23 +4,15 @@
   "keywords": [
     "defi"
   ],
-  "timestamp": "2026-07-10T01:01:20.022+00:00",
+  "timestamp": "2026-08-06T11:01:13.537+00:00",
   "tokens": [
     {
       "chainId": 5000,
-      "address": "0x4515a45337f461a11ff0fe8abf3c606ae5dc00c9",
-      "name": "MOE",
-      "symbol": "MOE",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/34422/thumb/MOE.png?1704821927"
-    },
-    {
-      "chainId": 5000,
-      "address": "0x671642ac281c760e34251d51bc9eef27026f3b7a",
-      "name": "Mantle Index Four Fund",
-      "symbol": "MI4",
+      "address": "0x09bc4e0d864854c6afb6eb9a9cdf58ac190d0df9",
+      "name": "Mantle Bridged USDC (Mantle)",
+      "symbol": "USDC",
       "decimals": 6,
-      "logoURI": "https://assets.coingecko.com/coins/images/66570/thumb/mi4.png?1749795929"
+      "logoURI": "https://assets.coingecko.com/coins/images/35296/thumb/USDC_Icon.png?1708082083"
     },
     {
       "chainId": 5000,
@@ -32,11 +24,19 @@
     },
     {
       "chainId": 5000,
-      "address": "0x09bc4e0d864854c6afb6eb9a9cdf58ac190d0df9",
-      "name": "Mantle Bridged USDC (Mantle)",
-      "symbol": "USDC",
+      "address": "0x671642ac281c760e34251d51bc9eef27026f3b7a",
+      "name": "Mantle Index Four Fund",
+      "symbol": "MI4",
       "decimals": 6,
-      "logoURI": "https://assets.coingecko.com/coins/images/35296/thumb/USDC_Icon.png?1708082083"
+      "logoURI": "https://assets.coingecko.com/coins/images/66570/thumb/mi4.png?1749795929"
+    },
+    {
+      "chainId": 5000,
+      "address": "0x4515a45337f461a11ff0fe8abf3c606ae5dc00c9",
+      "name": "MOE",
+      "symbol": "MOE",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/34422/thumb/MOE.png?1704821927"
     },
     {
       "chainId": 5000,
@@ -141,6 +141,14 @@
       "symbol": "USDT0",
       "decimals": 6,
       "logoURI": "https://assets.coingecko.com/coins/images/53705/thumb/usdt0.jpg?1737086183"
+    },
+    {
+      "chainId": 5000,
+      "address": "0x3557ba345b01efa20a1bddc61f573bfd87195081",
+      "name": "Amazon xStock",
+      "symbol": "AMZNX",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/55590/thumb/Ticker_AMZN__Company_Name_Amazon.com_Inc.__size_200x200_2x.png?1746809003"
     },
     {
       "chainId": 5000,
@@ -368,6 +376,14 @@
     },
     {
       "chainId": 5000,
+      "address": "0x93e62845c1dd5822ebc807ab71a5fb750decd15a",
+      "name": "Wrapped NVIDIA xStock",
+      "symbol": "WNVDAX",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/55770/thumb/Ticker_NVDA__Company_Name_NVIDIA_Corp__size_200x200_2x.png?1747330806"
+    },
+    {
+      "chainId": 5000,
       "address": "0x201eba5cc46d216ce6dc03f6a759e8e766e956ae",
       "name": "Stargate Bridged USDT",
       "symbol": "USDT",
@@ -389,14 +405,6 @@
       "symbol": "MSFTX",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/55630/thumb/Ticker_MSFT__Company_Name_Microsoft_Inc.__size_200x200_2x.png?1746862508"
-    },
-    {
-      "chainId": 5000,
-      "address": "0x3557ba345b01efa20a1bddc61f573bfd87195081",
-      "name": "Amazon xStock",
-      "symbol": "AMZNX",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/55590/thumb/Ticker_AMZN__Company_Name_Amazon.com_Inc.__size_200x200_2x.png?1746809003"
     },
     {
       "chainId": 5000,
@@ -601,7 +609,7 @@
   ],
   "version": {
     "major": 30,
-    "minor": 1,
+    "minor": 2,
     "patch": 0
   }
 }
