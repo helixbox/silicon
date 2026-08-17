@@ -4,7 +4,7 @@
   "keywords": [
     "defi"
   ],
-  "timestamp": "2026-07-26T18:00:30.979+00:00",
+  "timestamp": "2026-08-14T02:00:29.628+00:00",
   "tokens": [
     {
       "chainId": 988,
@@ -13,6 +13,14 @@
       "symbol": "FEFER",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/102174848/thumb/1000024435.jpg?1785086194"
+    },
+    {
+      "chainId": 988,
+      "address": "0xfa0a8ea31f65eebfe31b83d2b9759a36396a98dd",
+      "name": "coins.fun",
+      "symbol": "COINS",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/102175536/thumb/coinsfun-icon-2048.png?1786669347"
     },
     {
       "chainId": 988,
@@ -56,6 +64,14 @@
     },
     {
       "chainId": 988,
+      "address": "0xecac9c5f704e954931349da37f60e39f515c11c1",
+      "name": "Lombard BTC",
+      "symbol": "LBTC",
+      "decimals": 8,
+      "logoURI": "https://assets.coingecko.com/coins/images/39969/thumb/lbtc-token-circle-200.png?1786635984"
+    },
+    {
+      "chainId": 988,
       "address": "0x80eede496655fb9047dd39d9f418d5483ed600df",
       "name": "Frax USD",
       "symbol": "FRXUSD",
@@ -81,7 +97,7 @@
     {
       "chainId": 988,
       "address": "0xb0f70c0bd6fd87dbeb7c10dc692a2a6106817072",
-      "name": "Lombard BTC",
+      "name": "Lombard BTC.b",
       "symbol": "BTC.B",
       "decimals": 8,
       "logoURI": "https://assets.coingecko.com/coins/images/26115/thumb/BTC.b.png?1772210755"
@@ -101,19 +117,11 @@
       "symbol": "PYUSD0",
       "decimals": 6,
       "logoURI": "https://assets.coingecko.com/coins/images/102172280/thumb/pyusd.png?1772598646"
-    },
-    {
-      "chainId": 988,
-      "address": "0xecac9c5f704e954931349da37f60e39f515c11c1",
-      "name": "Lombard Staked BTC",
-      "symbol": "LBTC",
-      "decimals": 8,
-      "logoURI": "https://assets.coingecko.com/coins/images/39969/thumb/LBTC_Logo.png?1724959872"
     }
   ],
   "version": {
     "major": 1,
-    "minor": 2,
+    "minor": 3,
     "patch": 0
   }
 }

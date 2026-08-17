@@ -4,15 +4,15 @@
   "keywords": [
     "defi"
   ],
-  "timestamp": "2026-07-21T09:01:01.583+00:00",
+  "timestamp": "2026-08-13T16:01:08.665+00:00",
   "tokens": [
     {
       "chainId": 747474,
-      "address": "0x0ef68c1ab3c83cf11f9546faba385e8a1bd38d74",
-      "name": "Woofy",
-      "symbol": "WOOFY",
-      "decimals": 12,
-      "logoURI": "https://assets.coingecko.com/coins/images/102173146/thumb/photo_2026-05-05_10-18-59.jpg?1778063675"
+      "address": "0x203a662b0bd271a6ed5a60edfbd04bfce608fd36",
+      "name": "VaultBridge Bridged USDC (Katana)",
+      "symbol": "VBUSDC",
+      "decimals": 6,
+      "logoURI": "https://assets.coingecko.com/coins/images/67043/thumb/usdc1.png?1751581304"
     },
     {
       "chainId": 747474,
@@ -24,19 +24,27 @@
     },
     {
       "chainId": 747474,
-      "address": "0x203a662b0bd271a6ed5a60edfbd04bfce608fd36",
-      "name": "VaultBridge Bridged USDC (Katana)",
-      "symbol": "VBUSDC",
-      "decimals": 6,
-      "logoURI": "https://assets.coingecko.com/coins/images/67043/thumb/usdc1.png?1751581304"
+      "address": "0x7231dbacdfc968e07656d12389ab20de82fbfceb",
+      "name": "Autocompounding Voting KAT",
+      "symbol": "AVKAT",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/102172675/thumb/avKAT-200.png?1774713450"
     },
     {
       "chainId": 747474,
-      "address": "0xb0f70c0bd6fd87dbeb7c10dc692a2a6106817072",
-      "name": "Bitcoin on Katana",
-      "symbol": "BTCK",
-      "decimals": 8,
-      "logoURI": "https://assets.coingecko.com/coins/images/68287/thumb/btc.png?1755248096"
+      "address": "0x2dca96907fde857dd3d816880a0df407eeb2d2f2",
+      "name": "Vault Bridge Bridged USDT (Katana)",
+      "symbol": "VBUSDT",
+      "decimals": 6,
+      "logoURI": "https://assets.coingecko.com/coins/images/67046/thumb/usdt.png?1751581786"
+    },
+    {
+      "chainId": 747474,
+      "address": "0x9893989433e7a383cb313953e4c2365107dc19a7",
+      "name": "Polygon Bridged weETH (Katana)",
+      "symbol": "WEETH",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/69607/thumb/weeth.png?1759218669"
     },
     {
       "chainId": 747474,
@@ -56,22 +64,6 @@
     },
     {
       "chainId": 747474,
-      "address": "0x9893989433e7a383cb313953e4c2365107dc19a7",
-      "name": "Polygon Bridged weETH (Katana)",
-      "symbol": "WEETH",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/69607/thumb/weeth.png?1759218669"
-    },
-    {
-      "chainId": 747474,
-      "address": "0x2dca96907fde857dd3d816880a0df407eeb2d2f2",
-      "name": "Vault Bridge Bridged USDT (Katana)",
-      "symbol": "VBUSDT",
-      "decimals": 6,
-      "logoURI": "https://assets.coingecko.com/coins/images/67046/thumb/usdt.png?1751581786"
-    },
-    {
-      "chainId": 747474,
       "address": "0x7f1f4b4b29f5058fa32cc7a97141b8d7e5abdc2d",
       "name": "Katana",
       "symbol": "KAT",
@@ -80,11 +72,19 @@
     },
     {
       "chainId": 747474,
-      "address": "0x7231dbacdfc968e07656d12389ab20de82fbfceb",
-      "name": "Autocompounding Voting KAT",
-      "symbol": "AVKAT",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/102172675/thumb/avKAT-200.png?1774713450"
+      "address": "0xb0f70c0bd6fd87dbeb7c10dc692a2a6106817072",
+      "name": "Bitcoin on Katana",
+      "symbol": "BTCK",
+      "decimals": 8,
+      "logoURI": "https://assets.coingecko.com/coins/images/68287/thumb/btc.png?1755248096"
+    },
+    {
+      "chainId": 747474,
+      "address": "0x0ef68c1ab3c83cf11f9546faba385e8a1bd38d74",
+      "name": "Woofy",
+      "symbol": "WOOFY",
+      "decimals": 12,
+      "logoURI": "https://assets.coingecko.com/coins/images/102173146/thumb/photo_2026-05-05_10-18-59.jpg?1778063675"
     },
     {
       "chainId": 747474,
@@ -137,10 +137,10 @@
     {
       "chainId": 747474,
       "address": "0xecac9c5f704e954931349da37f60e39f515c11c1",
-      "name": "Lombard Staked BTC",
+      "name": "Lombard BTC",
       "symbol": "LBTC",
       "decimals": 8,
-      "logoURI": "https://assets.coingecko.com/coins/images/39969/thumb/LBTC_Logo.png?1724959872"
+      "logoURI": "https://assets.coingecko.com/coins/images/39969/thumb/lbtc-token-circle-200.png?1786635984"
     },
     {
       "chainId": 747474,
@@ -234,6 +234,6 @@
   "version": {
     "major": 2,
     "minor": 1,
-    "patch": 1
+    "patch": 2
   }
 }

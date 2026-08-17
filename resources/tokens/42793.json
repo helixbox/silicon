@@ -4,15 +4,15 @@
   "keywords": [
     "defi"
   ],
-  "timestamp": "2026-07-09T11:01:01.059+00:00",
+  "timestamp": "2026-08-13T16:01:05.231+00:00",
   "tokens": [
     {
       "chainId": 42793,
-      "address": "0xbfc94cd2b1e55999cfc7347a9313e88702b83d0f",
-      "name": "Etherlink Bridged WBTC (Etherlink)",
-      "symbol": "WBTC",
-      "decimals": 8,
-      "logoURI": "https://assets.coingecko.com/coins/images/66719/thumb/wbtc.jpg?1750306081"
+      "address": "0x796ea11fa2dd751ed01b53c372ffdb4aaa8f00f9",
+      "name": "Etherlink Bridged USDC (Etherlink)",
+      "symbol": "USDC",
+      "decimals": 6,
+      "logoURI": "https://assets.coingecko.com/coins/images/39584/thumb/USDC-icon.webp?1723013425"
     },
     {
       "chainId": 42793,
@@ -21,6 +21,14 @@
       "symbol": "USDSM",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/102173681/thumb/USDSM-logo-2.png?1780931561"
+    },
+    {
+      "chainId": 42793,
+      "address": "0xbfc94cd2b1e55999cfc7347a9313e88702b83d0f",
+      "name": "Etherlink Bridged WBTC (Etherlink)",
+      "symbol": "WBTC",
+      "decimals": 8,
+      "logoURI": "https://assets.coingecko.com/coins/images/66719/thumb/wbtc.jpg?1750306081"
     },
     {
       "chainId": 42793,
@@ -37,14 +45,6 @@
       "symbol": "XU3O8",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/67758/thumb/xu.png?1753733711"
-    },
-    {
-      "chainId": 42793,
-      "address": "0x796ea11fa2dd751ed01b53c372ffdb4aaa8f00f9",
-      "name": "Etherlink Bridged USDC (Etherlink)",
-      "symbol": "USDC",
-      "decimals": 6,
-      "logoURI": "https://assets.coingecko.com/coins/images/39584/thumb/USDC-icon.webp?1723013425"
     },
     {
       "chainId": 42793,
@@ -73,10 +73,10 @@
     {
       "chainId": 42793,
       "address": "0xecac9c5f704e954931349da37f60e39f515c11c1",
-      "name": "Lombard Staked BTC",
+      "name": "Lombard BTC",
       "symbol": "LBTC",
       "decimals": 8,
-      "logoURI": "https://assets.coingecko.com/coins/images/39969/thumb/LBTC_Logo.png?1724959872"
+      "logoURI": "https://assets.coingecko.com/coins/images/39969/thumb/lbtc-token-circle-200.png?1786635984"
     },
     {
       "chainId": 42793,
@@ -194,6 +194,6 @@
   "version": {
     "major": 5,
     "minor": 1,
-    "patch": 0
+    "patch": 1
   }
 }

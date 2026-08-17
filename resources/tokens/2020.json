@@ -4,56 +4,8 @@
   "keywords": [
     "defi"
   ],
-  "timestamp": "2026-07-21T17:01:22.589+00:00",
+  "timestamp": "2026-08-13T15:01:33.265+00:00",
   "tokens": [
-    {
-      "chainId": 2020,
-      "address": "0x6a1d85c9876ea93ee460ca1d36ae7d95d0cd8f05",
-      "name": "MGold",
-      "symbol": "MGT",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/50911/thumb/mgold.jpg?1729565611"
-    },
-    {
-      "chainId": 2020,
-      "address": "0xe514d9deb7966c8be0ca922de8a064264ea6bcd4",
-      "name": "Wrapped Ronin",
-      "symbol": "WRON",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/102172394/thumb/ronin.jpg?1773284723"
-    },
-    {
-      "chainId": 2020,
-      "address": "0x0176eea5ec1bf7420617a80a046547793ad4c147",
-      "name": "KANSTAR",
-      "symbol": "$KANSTAR",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/53999/thumb/KANSTAR_ICON.PNG?1737889150"
-    },
-    {
-      "chainId": 2020,
-      "address": "0x1467c159680db9255cc07fea22e1718fee896aae",
-      "name": "Rough Love Potion",
-      "symbol": "RLP",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/53901/thumb/slp-1024-border2.png?1737704905"
-    },
-    {
-      "chainId": 2020,
-      "address": "0x06f7481d937eb637d7d9deedf175957d5d881397",
-      "name": "Cute Asian Girl",
-      "symbol": "CAG",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/53898/thumb/_CAGPNG_%28512_x_512_px%29.png?1737695369"
-    },
-    {
-      "chainId": 2020,
-      "address": "0x5f3262ede02ca4a31bda6683124539c87cc73138",
-      "name": "Fishing Frenzy",
-      "symbol": "FISH",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/70780/thumb/fish200x200.png?1763708762"
-    },
     {
       "chainId": 2020,
       "address": "0xa5450417bdca0bdfb058ffe41205400ffda1174d",
@@ -61,14 +13,6 @@
       "symbol": "MATT",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/102174706/thumb/ki3y30mojz67s7uokd1jyuwvsx4s.?1784644584"
-    },
-    {
-      "chainId": 2020,
-      "address": "0x7dc167e270d5ef683ceaf4afcdf2efbdd667a9a7",
-      "name": "COIN",
-      "symbol": "COIN",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/102172344/thumb/DynoCoin_%281%29.png?1772992309"
     },
     {
       "chainId": 2020,
@@ -80,11 +24,67 @@
     },
     {
       "chainId": 2020,
+      "address": "0x0176eea5ec1bf7420617a80a046547793ad4c147",
+      "name": "KANSTAR",
+      "symbol": "$KANSTAR",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/53999/thumb/KANSTAR_ICON.PNG?1737889150"
+    },
+    {
+      "chainId": 2020,
+      "address": "0x5f3262ede02ca4a31bda6683124539c87cc73138",
+      "name": "Fishing Frenzy",
+      "symbol": "FISH",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/70780/thumb/fish200x200.png?1763708762"
+    },
+    {
+      "chainId": 2020,
+      "address": "0x06f7481d937eb637d7d9deedf175957d5d881397",
+      "name": "Cute Asian Girl",
+      "symbol": "CAG",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/53898/thumb/_CAGPNG_%28512_x_512_px%29.png?1737695369"
+    },
+    {
+      "chainId": 2020,
+      "address": "0x7dc167e270d5ef683ceaf4afcdf2efbdd667a9a7",
+      "name": "COIN",
+      "symbol": "COIN",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/102172344/thumb/DynoCoin_%281%29.png?1772992309"
+    },
+    {
+      "chainId": 2020,
+      "address": "0x1467c159680db9255cc07fea22e1718fee896aae",
+      "name": "Rough Love Potion",
+      "symbol": "RLP",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/53901/thumb/slp-1024-border2.png?1737704905"
+    },
+    {
+      "chainId": 2020,
+      "address": "0x6a1d85c9876ea93ee460ca1d36ae7d95d0cd8f05",
+      "name": "MGold",
+      "symbol": "MGT",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/50911/thumb/mgold.jpg?1729565611"
+    },
+    {
+      "chainId": 2020,
       "address": "0xc99a6a985ed2cac1ef41640596c5a5f9f4e19ef5",
       "name": "Ronin Bridged WETH (Ronin)",
       "symbol": "WETH",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/39716/thumb/WETH.PNG?1723731945"
+    },
+    {
+      "chainId": 2020,
+      "address": "0xe514d9deb7966c8be0ca922de8a064264ea6bcd4",
+      "name": "Wrapped Ronin",
+      "symbol": "WRON",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/102172394/thumb/ronin.jpg?1773284723"
     },
     {
       "chainId": 2020,
@@ -184,14 +184,6 @@
     },
     {
       "chainId": 2020,
-      "address": "0x18d2bdef572c67127e218c425f546fe64430a92c",
-      "name": "Lumi Finance LUAUSD",
-      "symbol": "LUAUSD",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/33503/thumb/LUAUSD.png?1702038709"
-    },
-    {
-      "chainId": 2020,
       "address": "0x3902228d6a3d2dc44731fd9d45fee6a61c722d0b",
       "name": "Chainlink",
       "symbol": "LINK",
@@ -288,8 +280,8 @@
     }
   ],
   "version": {
-    "major": 16,
-    "minor": 2,
+    "major": 17,
+    "minor": 0,
     "patch": 0
   }
 }

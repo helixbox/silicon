@@ -4,8 +4,16 @@
   "keywords": [
     "defi"
   ],
-  "timestamp": "2026-08-07T09:00:44.905+00:00",
+  "timestamp": "2026-08-13T03:00:46.017+00:00",
   "tokens": [
+    {
+      "chainId": 196,
+      "address": "0x6215a58ed045d71f2561aaabe54f4c885c522998",
+      "name": "Wrapped SK hynix xStock",
+      "symbol": "WSKHYX",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/102175319/thumb/wrapped_skhynix.webp?1786091091"
+    },
     {
       "chainId": 196,
       "address": "0xfdc4a45a4bf53957b2c73b1ff323d8cbe39118dd",
@@ -16,11 +24,19 @@
     },
     {
       "chainId": 196,
-      "address": "0x0cc24c51bf89c00c5affbfcf5e856c25ecbdb48e",
-      "name": "XDOG",
-      "symbol": "XDOG",
+      "address": "0x8e2eed8b8b5e13ea7bf38e50d7821d2c57309072",
+      "name": "Wrapped SpaceX xStock",
+      "symbol": "WSPCXX",
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/68279/thumb/xdog_logo_.png?1765296386"
+      "logoURI": "https://assets.coingecko.com/coins/images/102175318/thumb/wrapped_spacex.webp?1786090858"
+    },
+    {
+      "chainId": 196,
+      "address": "0x74b7f16337b8972027f6196a17a631ac6de26d22",
+      "name": "Polygon Hermez Bridged USDC (X Layer)",
+      "symbol": "USDC",
+      "decimals": 6,
+      "logoURI": "https://assets.coingecko.com/coins/images/37201/thumb/USDC.png?1713718345"
     },
     {
       "chainId": 196,
@@ -40,51 +56,11 @@
     },
     {
       "chainId": 196,
-      "address": "0x6215a58ed045d71f2561aaabe54f4c885c522998",
-      "name": "Wrapped SK hynix xStock",
-      "symbol": "WSKHYX",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/102175319/thumb/wrapped_skhynix.webp?1786091091"
-    },
-    {
-      "chainId": 196,
-      "address": "0x8e2eed8b8b5e13ea7bf38e50d7821d2c57309072",
-      "name": "Wrapped SpaceX xStock",
-      "symbol": "WSPCXX",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/102175318/thumb/wrapped_spacex.webp?1786090858"
-    },
-    {
-      "chainId": 196,
-      "address": "0x505000008de8748dbd4422ff4687a4fc9beba15b",
-      "name": "OKX Wrapped SOL",
-      "symbol": "XSOL",
-      "decimals": 9,
-      "logoURI": "https://assets.coingecko.com/coins/images/71715/thumb/okxsol.png?1769055437"
-    },
-    {
-      "chainId": 196,
       "address": "0xe538905cf8410324e03a5a23c1c177a474d59b2b",
       "name": "Wrapped OKB",
       "symbol": "WOKB",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/37278/thumb/okb.png?1713935642"
-    },
-    {
-      "chainId": 196,
-      "address": "0x74b7f16337b8972027f6196a17a631ac6de26d22",
-      "name": "Polygon Hermez Bridged USDC (X Layer)",
-      "symbol": "USDC",
-      "decimals": 6,
-      "logoURI": "https://assets.coingecko.com/coins/images/37201/thumb/USDC.png?1713718345"
-    },
-    {
-      "chainId": 196,
-      "address": "0x4d87750a795b0ae310a24349fa9108585100a90e",
-      "name": "HOW TO FLY",
-      "symbol": "PUFF",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/38331/thumb/PUFF.jpg?1717098970"
     },
     {
       "chainId": 196,
@@ -96,11 +72,19 @@
     },
     {
       "chainId": 196,
-      "address": "0xe7b000003a45145decf8a28fc755ad5ec5ea025a",
-      "name": "OKX Wrapped ETH",
-      "symbol": "XETH",
+      "address": "0x0cc24c51bf89c00c5affbfcf5e856c25ecbdb48e",
+      "name": "XDOG",
+      "symbol": "XDOG",
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/71719/thumb/xeth.png?1769060815"
+      "logoURI": "https://assets.coingecko.com/coins/images/68279/thumb/xdog_logo_.png?1765296386"
+    },
+    {
+      "chainId": 196,
+      "address": "0x505000008de8748dbd4422ff4687a4fc9beba15b",
+      "name": "OKX Wrapped SOL",
+      "symbol": "XSOL",
+      "decimals": 9,
+      "logoURI": "https://assets.coingecko.com/coins/images/71715/thumb/okxsol.png?1769055437"
     },
     {
       "chainId": 196,
@@ -117,6 +101,22 @@
       "symbol": "WETH",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/38360/thumb/weth.png?1717175703"
+    },
+    {
+      "chainId": 196,
+      "address": "0x4d87750a795b0ae310a24349fa9108585100a90e",
+      "name": "HOW TO FLY",
+      "symbol": "PUFF",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/38331/thumb/PUFF.jpg?1717098970"
+    },
+    {
+      "chainId": 196,
+      "address": "0xe7b000003a45145decf8a28fc755ad5ec5ea025a",
+      "name": "OKX Wrapped ETH",
+      "symbol": "XETH",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/71719/thumb/xeth.png?1769060815"
     },
     {
       "chainId": 196,
@@ -229,6 +229,22 @@
       "symbol": "SATUSD",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/37760/thumb/Instagram_post_-_25.png?1715475306"
+    },
+    {
+      "chainId": 196,
+      "address": "0xc3fdbe3a68ee5de461d30415a8165cf9aefe1171",
+      "name": "Wrapped Tesla xStock",
+      "symbol": "WTSLAX",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/55826/thumb/Ticker_TSLA__Company_Name_Tesla_Inc.__size_200x200_2x.png?1747384693"
+    },
+    {
+      "chainId": 196,
+      "address": "0xf8c5308f80e459bb53d9ebe689854d9cbb2caa6f",
+      "name": "Wrapped Alphabet xStock",
+      "symbol": "WGOOGLX",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/55796/thumb/Ticker_GOOG__Company_Name_Alphabet_Inc.__size_200x200_2x.png?1747382754"
     },
     {
       "chainId": 196,
@@ -349,11 +365,19 @@
       "symbol": "UNIBTC",
       "decimals": 8,
       "logoURI": "https://assets.coingecko.com/coins/images/39599/thumb/uniBTC_200px.png?1723064455"
+    },
+    {
+      "chainId": 196,
+      "address": "0xb6ceceab302e2e4948951ee7843fc24e92933061",
+      "name": "USDC",
+      "symbol": "USDC",
+      "decimals": 6,
+      "logoURI": "https://assets.coingecko.com/coins/images/6319/thumb/USDC.png?1769615602"
     }
   ],
   "version": {
     "major": 26,
-    "minor": 5,
+    "minor": 7,
     "patch": 0
   }
 }

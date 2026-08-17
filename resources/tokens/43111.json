@@ -4,7 +4,7 @@
   "keywords": [
     "defi"
   ],
-  "timestamp": "2026-07-10T01:03:52.697+00:00",
+  "timestamp": "2026-08-14T03:03:34.733+00:00",
   "tokens": [
     {
       "chainId": 43111,
@@ -13,14 +13,6 @@
       "symbol": "WETH",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/67025/thumb/weth_2.jpg?1751514061"
-    },
-    {
-      "chainId": 43111,
-      "address": "0x7a06c4aef988e7925575c50261297a946ad204a8",
-      "name": "VUSD",
-      "symbol": "VUSD",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/67026/thumb/vusd.jpg?1751514327"
     },
     {
       "chainId": 43111,
@@ -56,6 +48,14 @@
     },
     {
       "chainId": 43111,
+      "address": "0x63dbe12a6381d64ade47bc3d92abf4393dff4bc8",
+      "name": "Chainlink",
+      "symbol": "LINK",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/877/thumb/Chainlink_Logo_500.png?1760023405"
+    },
+    {
+      "chainId": 43111,
       "address": "0x623f2774d9f27b59bc6b954544487532ce79d9df",
       "name": "BitFi Bitcoin",
       "symbol": "BFBTC",
@@ -85,14 +85,6 @@
       "symbol": "USDC.E",
       "decimals": 6,
       "logoURI": "https://assets.coingecko.com/coins/images/69316/thumb/usdc.jpg?1758186473"
-    },
-    {
-      "chainId": 43111,
-      "address": "0x63dbe12a6381d64ade47bc3d92abf4393dff4bc8",
-      "name": "Chainlink",
-      "symbol": "LINK",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/877/thumb/Chainlink_Logo_500.png?1760023405"
     },
     {
       "chainId": 43111,
@@ -128,8 +120,8 @@
     }
   ],
   "version": {
-    "major": 5,
-    "minor": 2,
+    "major": 6,
+    "minor": 0,
     "patch": 0
   }
 }

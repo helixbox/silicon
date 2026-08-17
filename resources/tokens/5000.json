@@ -4,7 +4,7 @@
   "keywords": [
     "defi"
   ],
-  "timestamp": "2026-08-06T11:01:13.537+00:00",
+  "timestamp": "2026-08-12T03:01:14.723+00:00",
   "tokens": [
     {
       "chainId": 5000,
@@ -13,6 +13,14 @@
       "symbol": "USDC",
       "decimals": 6,
       "logoURI": "https://assets.coingecko.com/coins/images/35296/thumb/USDC_Icon.png?1708082083"
+    },
+    {
+      "chainId": 5000,
+      "address": "0x78c1b0c915c4faa5fffa6cabf0219da63d7f4cb8",
+      "name": "Wrapped Mantle",
+      "symbol": "WMNT",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/30983/thumb/mantle.jpeg?1696529822"
     },
     {
       "chainId": 5000,
@@ -37,14 +45,6 @@
       "symbol": "MOE",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/34422/thumb/MOE.png?1704821927"
-    },
-    {
-      "chainId": 5000,
-      "address": "0x78c1b0c915c4faa5fffa6cabf0219da63d7f4cb8",
-      "name": "Wrapped Mantle",
-      "symbol": "WMNT",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/30983/thumb/mantle.jpeg?1696529822"
     },
     {
       "chainId": 5000,
@@ -605,11 +605,35 @@
       "symbol": "SPCXX",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/102173688/thumb/SPCXx.png?1780961372"
+    },
+    {
+      "chainId": 5000,
+      "address": "0xa90872aca656ebe47bdebf3b19ec9dd9c5adc7f8",
+      "name": "Wrapped Circle xStock",
+      "symbol": "WCRCLX",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/102175317/thumb/wrapped_circl.webp?1786090416"
+    },
+    {
+      "chainId": 5000,
+      "address": "0x1630f08370917e79df0b7572395a5e907508bbbc",
+      "name": "Wrapped Alphabet xStock",
+      "symbol": "WGOOGLX",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/55796/thumb/Ticker_GOOG__Company_Name_Alphabet_Inc.__size_200x200_2x.png?1747382754"
+    },
+    {
+      "chainId": 5000,
+      "address": "0x43680abf18cf54898be84c6ef78237cfbd441883",
+      "name": "Wrapped Tesla xStock",
+      "symbol": "WTSLAX",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/55826/thumb/Ticker_TSLA__Company_Name_Tesla_Inc.__size_200x200_2x.png?1747384693"
     }
   ],
   "version": {
     "major": 30,
-    "minor": 2,
+    "minor": 4,
     "patch": 0
   }
 }

@@ -4,16 +4,8 @@
   "keywords": [
     "defi"
   ],
-  "timestamp": "2026-01-22T10:00:09.784+00:00",
+  "timestamp": "2026-08-13T16:00:22.252+00:00",
   "tokens": [
-    {
-      "chainId": 239,
-      "address": "0xb76d91340f5ce3577f0a056d29f6e3eb4e88b140",
-      "name": "TAC Bridged TON (TAC)",
-      "symbol": "TON",
-      "decimals": 9,
-      "logoURI": "https://assets.coingecko.com/coins/images/67547/thumb/ton.jpeg?1753153388"
-    },
     {
       "chainId": 239,
       "address": "0xb63b9f0eb4a6e6f191529d71d4d88cc8900df2c9",
@@ -29,6 +21,14 @@
       "symbol": "USDT",
       "decimals": 6,
       "logoURI": "https://assets.coingecko.com/coins/images/67548/thumb/usdt.png?1753153539"
+    },
+    {
+      "chainId": 239,
+      "address": "0xb76d91340f5ce3577f0a056d29f6e3eb4e88b140",
+      "name": "TAC Bridged TON (TAC)",
+      "symbol": "TON",
+      "decimals": 9,
+      "logoURI": "https://assets.coingecko.com/coins/images/67547/thumb/ton.jpeg?1753153388"
     },
     {
       "chainId": 239,
@@ -73,10 +73,10 @@
     {
       "chainId": 239,
       "address": "0xecac9c5f704e954931349da37f60e39f515c11c1",
-      "name": "Lombard Staked BTC",
+      "name": "Lombard BTC",
       "symbol": "LBTC",
       "decimals": 8,
-      "logoURI": "https://assets.coingecko.com/coins/images/39969/thumb/LBTC_Logo.png?1724959872"
+      "logoURI": "https://assets.coingecko.com/coins/images/39969/thumb/lbtc-token-circle-200.png?1786635984"
     },
     {
       "chainId": 239,
@@ -130,6 +130,6 @@
   "version": {
     "major": 1,
     "minor": 0,
-    "patch": 0
+    "patch": 1
   }
 }
