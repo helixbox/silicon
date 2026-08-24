@@ -4,7 +4,7 @@
   "keywords": [
     "defi"
   ],
-  "timestamp": "2026-07-09T12:01:14.482+00:00",
+  "timestamp": "2026-08-20T08:01:13.647+00:00",
   "tokens": [
     {
       "chainId": 2818,
@@ -32,6 +32,30 @@
     },
     {
       "chainId": 2818,
+      "address": "0x389c08bc23a7317000a1fd76c7c5b0cb0b4640b5",
+      "name": "Bitget Token",
+      "symbol": "BGB",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/11610/thumb/Bitget_logo.png?1736925727"
+    },
+    {
+      "chainId": 2818,
+      "address": "0x58538e6a46e07434d7e7375bc268d3cb839c0133",
+      "name": "Ethena",
+      "symbol": "ENA",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/36530/thumb/ethena.png?1711701436"
+    },
+    {
+      "chainId": 2818,
+      "address": "0x211cc4dd073734da055fbf44a2b4667d5e5fe5d2",
+      "name": "Ethena Staked USDe",
+      "symbol": "SUSDE",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/33669/thumb/sUSDe-Symbol-Color.png?1716307680"
+    },
+    {
+      "chainId": 2818,
       "address": "0x5d3a1ff2b6bab83b63cd9ad0787074081a52ef34",
       "name": "Ethena USDe",
       "symbol": "USDE",
@@ -56,35 +80,11 @@
     },
     {
       "chainId": 2818,
-      "address": "0x389c08bc23a7317000a1fd76c7c5b0cb0b4640b5",
-      "name": "Bitget Token",
-      "symbol": "BGB",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/11610/thumb/Bitget_logo.png?1736925727"
-    },
-    {
-      "chainId": 2818,
-      "address": "0x58538e6a46e07434d7e7375bc268d3cb839c0133",
-      "name": "Ethena",
-      "symbol": "ENA",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/36530/thumb/ethena.png?1711701436"
-    },
-    {
-      "chainId": 2818,
       "address": "0xe7cd86e13ac4309349f30b3435a9d337750fc82d",
       "name": "USDT0",
       "symbol": "USDT0",
       "decimals": 6,
       "logoURI": "https://assets.coingecko.com/coins/images/53705/thumb/usdt0.jpg?1737086183"
-    },
-    {
-      "chainId": 2818,
-      "address": "0x211cc4dd073734da055fbf44a2b4667d5e5fe5d2",
-      "name": "Ethena Staked USDe",
-      "symbol": "SUSDE",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/33669/thumb/sUSDe-Symbol-Color.png?1716307680"
     },
     {
       "chainId": 2818,
@@ -109,11 +109,19 @@
       "symbol": "AUDX",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/71222/thumb/AUDX_Logo.png?1766480331"
+    },
+    {
+      "chainId": 2818,
+      "address": "0x76a443768a5e3b8d1aed0105fc250877841deb40",
+      "name": "Chainlink",
+      "symbol": "LINK",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/877/thumb/Chainlink_Logo_500.png?1760023405"
     }
   ],
   "version": {
     "major": 4,
-    "minor": 1,
+    "minor": 2,
     "patch": 0
   }
 }

@@ -4,24 +4,8 @@
   "keywords": [
     "defi"
   ],
-  "timestamp": "2026-08-12T03:01:14.723+00:00",
+  "timestamp": "2026-08-19T03:01:10.552+00:00",
   "tokens": [
-    {
-      "chainId": 5000,
-      "address": "0x09bc4e0d864854c6afb6eb9a9cdf58ac190d0df9",
-      "name": "Mantle Bridged USDC (Mantle)",
-      "symbol": "USDC",
-      "decimals": 6,
-      "logoURI": "https://assets.coingecko.com/coins/images/35296/thumb/USDC_Icon.png?1708082083"
-    },
-    {
-      "chainId": 5000,
-      "address": "0x78c1b0c915c4faa5fffa6cabf0219da63d7f4cb8",
-      "name": "Wrapped Mantle",
-      "symbol": "WMNT",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/30983/thumb/mantle.jpeg?1696529822"
-    },
     {
       "chainId": 5000,
       "address": "0x26a6b0dcdcfb981362afa56d581e4a7dba3be140",
@@ -29,6 +13,22 @@
       "symbol": "PUFF",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/35950/thumb/photo_2024-03-11_10.18.27.jpeg?1710240090"
+    },
+    {
+      "chainId": 5000,
+      "address": "0x4515a45337f461a11ff0fe8abf3c606ae5dc00c9",
+      "name": "MOE",
+      "symbol": "MOE",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/34422/thumb/MOE.png?1704821927"
+    },
+    {
+      "chainId": 5000,
+      "address": "0x09bc4e0d864854c6afb6eb9a9cdf58ac190d0df9",
+      "name": "Mantle Bridged USDC (Mantle)",
+      "symbol": "USDC",
+      "decimals": 6,
+      "logoURI": "https://assets.coingecko.com/coins/images/35296/thumb/USDC_Icon.png?1708082083"
     },
     {
       "chainId": 5000,
@@ -40,11 +40,11 @@
     },
     {
       "chainId": 5000,
-      "address": "0x4515a45337f461a11ff0fe8abf3c606ae5dc00c9",
-      "name": "MOE",
-      "symbol": "MOE",
+      "address": "0x78c1b0c915c4faa5fffa6cabf0219da63d7f4cb8",
+      "name": "Wrapped Mantle",
+      "symbol": "WMNT",
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/34422/thumb/MOE.png?1704821927"
+      "logoURI": "https://assets.coingecko.com/coins/images/30983/thumb/mantle.jpeg?1696529822"
     },
     {
       "chainId": 5000,
@@ -608,6 +608,14 @@
     },
     {
       "chainId": 5000,
+      "address": "0xeec6574eabba52bac3f0277f2cd5ac7e67197886",
+      "name": "KiiChain",
+      "symbol": "KII",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/102175539/thumb/KII.jpg?1786688852"
+    },
+    {
+      "chainId": 5000,
       "address": "0xa90872aca656ebe47bdebf3b19ec9dd9c5adc7f8",
       "name": "Wrapped Circle xStock",
       "symbol": "WCRCLX",
@@ -633,7 +641,7 @@
   ],
   "version": {
     "major": 30,
-    "minor": 4,
+    "minor": 5,
     "patch": 0
   }
 }
