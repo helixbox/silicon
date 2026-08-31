@@ -4,16 +4,8 @@
   "keywords": [
     "defi"
   ],
-  "timestamp": "2026-07-30T12:00:56.922+00:00",
+  "timestamp": "2026-08-28T05:01:06.199+00:00",
   "tokens": [
-    {
-      "chainId": 130,
-      "address": "0x927b51f251480a681271180da4de28d44ec4afb8",
-      "name": "Unichain Bridged WBTC (Unichain)",
-      "symbol": "WBTC",
-      "decimals": 8,
-      "logoURI": "https://assets.coingecko.com/coins/images/66722/thumb/wbtc.jpg?1750315958"
-    },
     {
       "chainId": 130,
       "address": "0xabe69c550ea6ec22bed4b92614511c4f31bb0f64",
@@ -21,6 +13,14 @@
       "symbol": "ABE",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/68514/thumb/logo_circle_200.png?1756440524"
+    },
+    {
+      "chainId": 130,
+      "address": "0x984ae4c68fb3ec037fac36d48622f30eb5ae1361",
+      "name": "Vyro vyUSD",
+      "symbol": "VYUSD",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/102172646/thumb/vyUSD_token.png?1774503397"
     },
     {
       "chainId": 130,
@@ -32,14 +32,6 @@
     },
     {
       "chainId": 130,
-      "address": "0x15d0e0c55a3e7ee67152ad7e89acf164253ff68d",
-      "name": "Wormhole Bridged HYPE",
-      "symbol": "HYPE",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/68481/thumb/hype.png?1755878697"
-    },
-    {
-      "chainId": 130,
       "address": "0x756ee6857f915a2b5366f2ef56d8d13857aef8ad",
       "name": "Catex",
       "symbol": "CATX",
@@ -48,11 +40,19 @@
     },
     {
       "chainId": 130,
-      "address": "0x984ae4c68fb3ec037fac36d48622f30eb5ae1361",
-      "name": "Vyro vyUSD",
-      "symbol": "VYUSD",
+      "address": "0x15d0e0c55a3e7ee67152ad7e89acf164253ff68d",
+      "name": "Wormhole Bridged HYPE",
+      "symbol": "HYPE",
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/102172646/thumb/vyUSD_token.png?1774503397"
+      "logoURI": "https://assets.coingecko.com/coins/images/68481/thumb/hype.png?1755878697"
+    },
+    {
+      "chainId": 130,
+      "address": "0x927b51f251480a681271180da4de28d44ec4afb8",
+      "name": "Unichain Bridged WBTC (Unichain)",
+      "symbol": "WBTC",
+      "decimals": 8,
+      "logoURI": "https://assets.coingecko.com/coins/images/66722/thumb/wbtc.jpg?1750315958"
     },
     {
       "chainId": 130,
@@ -284,7 +284,7 @@
       "name": "1INCH",
       "symbol": "1INCH",
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/13469/thumb/1inch-logo.jpeg?1759404663"
+      "logoURI": "https://assets.coingecko.com/coins/images/13469/thumb/0x111111111117dc0aa78b770fa6a738034120c302_0x2b2c127f11a6604d4319c936334506b86c339a3773b6f2731db0ed4a4fb7fb72.jpg?1787890016"
     },
     {
       "chainId": 130,
@@ -322,6 +322,6 @@
   "version": {
     "major": 8,
     "minor": 2,
-    "patch": 0
+    "patch": 1
   }
 }

@@ -4,8 +4,16 @@
   "keywords": [
     "defi"
   ],
-  "timestamp": "2026-07-10T03:00:27.825+00:00",
+  "timestamp": "2026-08-26T15:00:45.319+00:00",
   "tokens": [
+    {
+      "chainId": 9008,
+      "address": "0x56009a137ed6d56e0133a52363a78063f429ece4",
+      "name": "Rakun",
+      "symbol": "RAKUN",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/102172114/thumb/rakun.png?1771638587"
+    },
     {
       "chainId": 9008,
       "address": "0xfb889425b72c97c5b4484cf148ae2404ab7a13e7",
@@ -28,15 +36,7 @@
       "name": "Bubble Protocol",
       "symbol": "BPL",
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/102172839/thumb/bubblepro.png?1776177328"
-    },
-    {
-      "chainId": 9008,
-      "address": "0x56009a137ed6d56e0133a52363a78063f429ece4",
-      "name": "Rakun",
-      "symbol": "RAKUN",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/102172114/thumb/rakun.png?1771638587"
+      "logoURI": "https://assets.coingecko.com/coins/images/102172839/thumb/bpl.png?1787753648"
     },
     {
       "chainId": 9008,
@@ -58,6 +58,6 @@
   "version": {
     "major": 2,
     "minor": 1,
-    "patch": 0
+    "patch": 1
   }
 }

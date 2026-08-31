@@ -4,8 +4,16 @@
   "keywords": [
     "defi"
   ],
-  "timestamp": "2026-07-10T01:01:45.147+00:00",
+  "timestamp": "2026-08-28T07:02:27.291+00:00",
   "tokens": [
+    {
+      "chainId": 1776,
+      "address": "factory/inj1xtel2knkt8hmc9dnzpjz6kdmacgcfmlv5f308w/ninja",
+      "name": "Dog Wif Nunchucks",
+      "symbol": "NINJA",
+      "decimals": 6,
+      "logoURI": "https://assets.coingecko.com/coins/images/33761/thumb/NinjaLogoResized.png?1706179533"
+    },
     {
       "chainId": 1776,
       "address": "factory/inj127l5a2wmkyvucxdlupqyac3y0v6wqfhq03ka64/qunt",
@@ -13,30 +21,6 @@
       "symbol": "QUNT",
       "decimals": 6,
       "logoURI": "https://assets.coingecko.com/coins/images/37868/thumb/pfp.png?1730240353"
-    },
-    {
-      "chainId": 1776,
-      "address": "inj18flmwwaxxqj8m8l5zl8xhjrnah98fcjp3gcy3e/XIII",
-      "name": "XIIICOIN",
-      "symbol": "XIII",
-      "decimals": 6,
-      "logoURI": "https://assets.coingecko.com/coins/images/37220/thumb/XIII-LOGO_2.1mb.png?1732459486"
-    },
-    {
-      "chainId": 1776,
-      "address": "inj1x997dy6ka7y8u0r56yk2k83llspy33yet9zcnq",
-      "name": "TruFin Staked INJ",
-      "symbol": "TRUINJ",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/66995/thumb/truINJ-logo.png?1751388978"
-    },
-    {
-      "chainId": 1776,
-      "address": "factory/inj1v3a4zznudwpukpr8y987pu5gnh4xuf7v36jhva/nept",
-      "name": "Neptune",
-      "symbol": "NEPT",
-      "decimals": 6,
-      "logoURI": "https://assets.coingecko.com/coins/images/54516/thumb/NEPT-200px.png?1740119354"
     },
     {
       "chainId": 1776,
@@ -48,6 +32,30 @@
     },
     {
       "chainId": 1776,
+      "address": "factory/inj13j2rpnlwl30c02d4pzukykwfeyyhelvry9cqte/shroom_0_3b4d31d5571b97db",
+      "name": "MOTION",
+      "symbol": "MOTION",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/102176494/thumb/motion-avatar-2048-sharp.png?1787899860"
+    },
+    {
+      "chainId": 1776,
+      "address": "inj18flmwwaxxqj8m8l5zl8xhjrnah98fcjp3gcy3e/XIII",
+      "name": "XIIICOIN",
+      "symbol": "XIII",
+      "decimals": 6,
+      "logoURI": "https://assets.coingecko.com/coins/images/37220/thumb/XIII-LOGO_2.1mb.png?1732459486"
+    },
+    {
+      "chainId": 1776,
+      "address": "factory/inj1v3a4zznudwpukpr8y987pu5gnh4xuf7v36jhva/nept",
+      "name": "Neptune",
+      "symbol": "NEPT",
+      "decimals": 6,
+      "logoURI": "https://assets.coingecko.com/coins/images/54516/thumb/NEPT-200px.png?1740119354"
+    },
+    {
+      "chainId": 1776,
       "address": "factory/inj1xy3kvlr4q4wdd6lrelsrw2fk2ged0any44hhwq/KIRA",
       "name": "Kira the Injective Cat",
       "symbol": "KIRA",
@@ -56,11 +64,19 @@
     },
     {
       "chainId": 1776,
-      "address": "factory/inj1xtel2knkt8hmc9dnzpjz6kdmacgcfmlv5f308w/ninja",
-      "name": "Dog Wif Nunchucks",
-      "symbol": "NINJA",
+      "address": "inj1x997dy6ka7y8u0r56yk2k83llspy33yet9zcnq",
+      "name": "TruFin Staked INJ",
+      "symbol": "TRUINJ",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/66995/thumb/truINJ-logo.png?1751388978"
+    },
+    {
+      "chainId": 1776,
+      "address": "factory/inj1etz0laas6h7vemg3qtd67jpr6lh8v7xz7gfzqw/hdro",
+      "name": "Hydro Protocol",
+      "symbol": "HDRO",
       "decimals": 6,
-      "logoURI": "https://assets.coingecko.com/coins/images/33761/thumb/NinjaLogoResized.png?1706179533"
+      "logoURI": "https://assets.coingecko.com/coins/images/36110/thumb/Hydro_logo_200x200.png?1710486646"
     },
     {
       "chainId": 1776,
@@ -93,14 +109,6 @@
       "symbol": "BLACK",
       "decimals": 6,
       "logoURI": "https://assets.coingecko.com/coins/images/37219/thumb/BLACK.png?1713774259"
-    },
-    {
-      "chainId": 1776,
-      "address": "factory/inj1etz0laas6h7vemg3qtd67jpr6lh8v7xz7gfzqw/hdro",
-      "name": "Hydro Protocol",
-      "symbol": "HDRO",
-      "decimals": 6,
-      "logoURI": "https://assets.coingecko.com/coins/images/36110/thumb/Hydro_logo_200x200.png?1710486646"
     },
     {
       "chainId": 1776,
@@ -161,7 +169,7 @@
   ],
   "version": {
     "major": 9,
-    "minor": 2,
+    "minor": 3,
     "patch": 0
   }
 }

@@ -4,16 +4,8 @@
   "keywords": [
     "defi"
   ],
-  "timestamp": "2026-07-22T10:00:05.265+00:00",
+  "timestamp": "2026-08-29T14:00:03.685+00:00",
   "tokens": [
-    {
-      "chainId": 9745,
-      "address": "0x22222215d4edc5510d23d0886133e7ece7f5fdc1",
-      "name": "Chateau USD",
-      "symbol": "CHUSD",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/71634/thumb/chusdn.png?1768641680"
-    },
     {
       "chainId": 9745,
       "address": "0xc4374775489cb9c56003bf2c9b12495fc64f0771",
@@ -24,19 +16,19 @@
     },
     {
       "chainId": 9745,
-      "address": "0xc8a8df9b210243c55d31c73090f06787ad0a1bf6",
-      "name": "Staked Yuzu USD",
-      "symbol": "SYZUSD",
+      "address": "0x22222215d4edc5510d23d0886133e7ece7f5fdc1",
+      "name": "Chateau USD",
+      "symbol": "CHUSD",
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/70132/thumb/Group_427319351.png?1760695727"
+      "logoURI": "https://assets.coingecko.com/coins/images/71634/thumb/chusdn.png?1768641680"
     },
     {
       "chainId": 9745,
-      "address": "0xa1fa77779e6866fa3ef48fc0720657e042158387",
-      "name": "Axis USD",
-      "symbol": "USDX",
+      "address": "0x133a09dd6169f6f0509658a911f2a82fc8ab6a0d",
+      "name": "Ionex Token",
+      "symbol": "INX",
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/102172783/thumb/axis-usd.jpg?1775659788"
+      "logoURI": "https://assets.coingecko.com/coins/images/70089/thumb/tokenLogo.png?1760540852"
     },
     {
       "chainId": 9745,
@@ -56,19 +48,19 @@
     },
     {
       "chainId": 9745,
-      "address": "0x888888bab58a7bd3068110749bc7b63b62ce874d",
-      "name": "Staked chUSD",
-      "symbol": "SCHUSD",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/71635/thumb/schusd.png?1768641802"
+      "address": "0xe0126f0c4451b2b917064a93040fd4770d6774b5",
+      "name": "Wrapped Aave Plasma USDT0",
+      "symbol": "WAPLAUSDT0",
+      "decimals": 6,
+      "logoURI": "https://assets.coingecko.com/coins/images/69597/thumb/waplasusdt0.png?1759197676"
     },
     {
       "chainId": 9745,
-      "address": "0x133a09dd6169f6f0509658a911f2a82fc8ab6a0d",
-      "name": "Ionex Token",
-      "symbol": "INX",
+      "address": "0xc8a8df9b210243c55d31c73090f06787ad0a1bf6",
+      "name": "Staked Yuzu USD",
+      "symbol": "SYZUSD",
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/70089/thumb/tokenLogo.png?1760540852"
+      "logoURI": "https://assets.coingecko.com/coins/images/70132/thumb/Group_427319351.png?1760695727"
     },
     {
       "chainId": 9745,
@@ -80,11 +72,11 @@
     },
     {
       "chainId": 9745,
-      "address": "0xe0126f0c4451b2b917064a93040fd4770d6774b5",
-      "name": "Wrapped Aave Plasma USDT0",
-      "symbol": "WAPLAUSDT0",
-      "decimals": 6,
-      "logoURI": "https://assets.coingecko.com/coins/images/69597/thumb/waplasusdt0.png?1759197676"
+      "address": "0x888888bab58a7bd3068110749bc7b63b62ce874d",
+      "name": "Staked chUSD",
+      "symbol": "SCHUSD",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/71635/thumb/schusd.png?1768641802"
     },
     {
       "chainId": 9745,
@@ -293,11 +285,27 @@
       "symbol": "RSETH",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/33800/thumb/Icon___Dark.png?1702991855"
+    },
+    {
+      "chainId": 9745,
+      "address": "0x2d661c89d812261039af9764eceaaee884f5f67f",
+      "name": "USDC",
+      "symbol": "USDC",
+      "decimals": 6,
+      "logoURI": "https://assets.coingecko.com/coins/images/6319/thumb/USDC.png?1769615602"
+    },
+    {
+      "chainId": 9745,
+      "address": "0x3ee196e78d4d4248b849b8e1c7f44c5457fafd2c",
+      "name": "EURC",
+      "symbol": "EURC",
+      "decimals": 6,
+      "logoURI": "https://assets.coingecko.com/coins/images/26045/thumb/EURC.png?1769615705"
     }
   ],
   "version": {
-    "major": 10,
+    "major": 11,
     "minor": 1,
-    "patch": 3
+    "patch": 0
   }
 }

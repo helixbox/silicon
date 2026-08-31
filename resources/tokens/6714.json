@@ -4,15 +4,23 @@
   "keywords": [
     "defi"
   ],
-  "timestamp": "2026-07-22T03:03:33.335+00:00",
+  "timestamp": "2026-08-27T11:04:17.175+00:00",
   "tokens": [
     {
       "chainId": 6714,
-      "address": "0x83fd06f0846d9d90b3016bf670efe2e0b11cde14",
-      "name": "Anubis Bridged DAI (Anubis)",
-      "symbol": "DAI",
+      "address": "0xca326ae4fe47d07e7d20421170dadacd92ed694c",
+      "name": "Anubis Bridged ETH (Anubis)",
+      "symbol": "ETH",
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/102174565/thumb/dai.png?1784026244"
+      "logoURI": "https://assets.coingecko.com/coins/images/102174717/thumb/eth.png?1784686499"
+    },
+    {
+      "chainId": 6714,
+      "address": "0x72cf15f74657bb00dd1d8dd475248dee644f689a",
+      "name": "Anubis Bridged POL (Anubis)",
+      "symbol": "POL",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/102174718/thumb/polygon-matic-logo.png?1784686972"
     },
     {
       "chainId": 6714,
@@ -32,6 +40,14 @@
     },
     {
       "chainId": 6714,
+      "address": "0xdfb6a28bc6dc51fed17c27c880f2c66cdd040a3e",
+      "name": "Anubis Bridged USDT (Anubis)",
+      "symbol": "USDT",
+      "decimals": 6,
+      "logoURI": "https://assets.coingecko.com/coins/images/102176478/thumb/usdt_logo.png?1787825460"
+    },
+    {
+      "chainId": 6714,
       "address": "0x4d1d808a081fdac440703b3765fc61f8028c06b8",
       "name": "Anubis Bridged LGNS (Anubis)",
       "symbol": "LGNS",
@@ -40,24 +56,16 @@
     },
     {
       "chainId": 6714,
-      "address": "0xca326ae4fe47d07e7d20421170dadacd92ed694c",
-      "name": "Anubis Bridged ETH (Anubis)",
-      "symbol": "ETH",
+      "address": "0x83fd06f0846d9d90b3016bf670efe2e0b11cde14",
+      "name": "Anubis Bridged DAI (Anubis)",
+      "symbol": "DAI",
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/102174717/thumb/eth.png?1784686499"
-    },
-    {
-      "chainId": 6714,
-      "address": "0x72cf15f74657bb00dd1d8dd475248dee644f689a",
-      "name": "Anubis Bridged POL (Anubis)",
-      "symbol": "POL",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/102174718/thumb/polygon-matic-logo.png?1784686972"
+      "logoURI": "https://assets.coingecko.com/coins/images/102174565/thumb/dai.png?1784026244"
     }
   ],
   "version": {
     "major": 0,
-    "minor": 2,
+    "minor": 3,
     "patch": 0
   }
 }
