@@ -4,15 +4,15 @@
   "keywords": [
     "defi"
   ],
-  "timestamp": "2026-08-28T10:03:30.425+00:00",
+  "timestamp": "2026-09-04T12:01:33.335+00:00",
   "tokens": [
     {
       "chainId": 5000,
-      "address": "0x78c1b0c915c4faa5fffa6cabf0219da63d7f4cb8",
-      "name": "Wrapped Mantle",
-      "symbol": "WMNT",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/30983/thumb/mantle.jpeg?1696529822"
+      "address": "0x09bc4e0d864854c6afb6eb9a9cdf58ac190d0df9",
+      "name": "Mantle Bridged USDC (Mantle)",
+      "symbol": "USDC",
+      "decimals": 6,
+      "logoURI": "https://assets.coingecko.com/coins/images/35296/thumb/USDC_Icon.png?1708082083"
     },
     {
       "chainId": 5000,
@@ -24,19 +24,19 @@
     },
     {
       "chainId": 5000,
+      "address": "0x78c1b0c915c4faa5fffa6cabf0219da63d7f4cb8",
+      "name": "Wrapped Mantle",
+      "symbol": "WMNT",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/30983/thumb/mantle.jpeg?1696529822"
+    },
+    {
+      "chainId": 5000,
       "address": "0xdeaddeaddeaddeaddeaddeaddeaddeaddead1111",
       "name": "Mantle Bridged WETH (Mantle)",
       "symbol": "WETH",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/31013/thumb/weth_2.jpg?1758795984"
-    },
-    {
-      "chainId": 5000,
-      "address": "0x671642ac281c760e34251d51bc9eef27026f3b7a",
-      "name": "Mantle Index Four Fund",
-      "symbol": "MI4",
-      "decimals": 6,
-      "logoURI": "https://assets.coingecko.com/coins/images/66570/thumb/mi4.png?1749795929"
     },
     {
       "chainId": 5000,
@@ -48,11 +48,11 @@
     },
     {
       "chainId": 5000,
-      "address": "0x09bc4e0d864854c6afb6eb9a9cdf58ac190d0df9",
-      "name": "Mantle Bridged USDC (Mantle)",
-      "symbol": "USDC",
+      "address": "0x671642ac281c760e34251d51bc9eef27026f3b7a",
+      "name": "Mantle Index Four Fund",
+      "symbol": "MI4",
       "decimals": 6,
-      "logoURI": "https://assets.coingecko.com/coins/images/35296/thumb/USDC_Icon.png?1708082083"
+      "logoURI": "https://assets.coingecko.com/coins/images/66570/thumb/mi4.png?1749795929"
     },
     {
       "chainId": 5000,
@@ -2010,14 +2010,6 @@
     },
     {
       "chainId": 5000,
-      "address": "0x409de3004a6f1bd0c37cddee8efd86b13b058435",
-      "name": "Electronic Arts xStock",
-      "symbol": "EAX",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/102176044/thumb/EAx.png?1787821411"
-    },
-    {
-      "chainId": 5000,
       "address": "0xe3b2e4a76489d00905c48794a383b5c7ddd35a34",
       "name": "Ecolab xStock",
       "symbol": "ECLX",
@@ -2151,14 +2143,6 @@
       "symbol": "EQIXX",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/102176061/thumb/EQIXx.png?1787821487"
-    },
-    {
-      "chainId": 5000,
-      "address": "0x130032f4475e95b68958994c696992ddaaab65c4",
-      "name": "Equity Residential xStock",
-      "symbol": "EQRX",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/102176062/thumb/EQRx.png?1787821491"
     },
     {
       "chainId": 5000,
@@ -4454,11 +4438,11 @@
     },
     {
       "chainId": 5000,
-      "address": "0x8d512a03600981b8e86556fd5c0fbdd726fe1821",
-      "name": "VanEck Semiconductor ETF xStock",
-      "symbol": "SMHX",
+      "address": "0x4d0ba049c430a7a80a61e7ebdf50b6daac6c3bd6",
+      "name": "SHEIN xStock",
+      "symbol": "SHEINX",
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/102176352/thumb/SMHx.png?1787822653"
+      "logoURI": "https://assets.coingecko.com/coins/images/102176611/thumb/sheinxstock.png?1788327462"
     },
     {
       "chainId": 5000,
@@ -4946,14 +4930,6 @@
     },
     {
       "chainId": 5000,
-      "address": "0x0e6607ab45d2ca779068cd6d9426c409773969fd",
-      "name": "Global X Uranium ETF xStock",
-      "symbol": "URAX",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/102176414/thumb/URAx.png?1787822889"
-    },
-    {
-      "chainId": 5000,
       "address": "0x96d62c35816809a4e7575bbfe3f8587444b7b286",
       "name": "United Rentals xStock",
       "symbol": "URIX",
@@ -5030,14 +5006,6 @@
       "symbol": "VICIX",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/102176424/thumb/VICIx.png?1787822926"
-    },
-    {
-      "chainId": 5000,
-      "address": "0x44e49dde02c954cd9b67923af7b1070412e8f34e",
-      "name": "Vida Global xStock",
-      "symbol": "VIDAX",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/102176425/thumb/VIDAx.png?1787822930"
     },
     {
       "chainId": 5000,
@@ -5161,14 +5129,6 @@
       "symbol": "WATX",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/102176441/thumb/WATx.png?1787822978"
-    },
-    {
-      "chainId": 5000,
-      "address": "0x39a5f238fbafa97261eecb683551db70f8d82888",
-      "name": "Webster Financial xStock",
-      "symbol": "WBSX",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/102176442/thumb/WBSx.png?1787822981"
     },
     {
       "chainId": 5000,
@@ -5451,6 +5411,14 @@
     },
     {
       "chainId": 5000,
+      "address": "0x8d512a03600981b8e86556fd5c0fbdd726fe1821",
+      "name": "VanEck Semiconductor ETF xStock",
+      "symbol": "SMHX",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/102176352/thumb/SMHx.png?1787822653"
+    },
+    {
+      "chainId": 5000,
       "address": "0xf706585e7e8900be0267bee3b9a2f70835ec6628",
       "name": "PayPal xStock",
       "symbol": "PYPLX",
@@ -5496,11 +5464,35 @@
       "symbol": "TMUSX",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/69658/thumb/Ticker_TMUSx__Company_Name_T-Mobile__size_200x200.png?1759233844"
+    },
+    {
+      "chainId": 5000,
+      "address": "0x44e49dde02c954cd9b67923af7b1070412e8f34e",
+      "name": "Vida Global xStock",
+      "symbol": "VIDAX",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/102176425/thumb/VIDAx.png?1787822930"
+    },
+    {
+      "chainId": 5000,
+      "address": "0x0e6607ab45d2ca779068cd6d9426c409773969fd",
+      "name": "Global X Uranium ETF xStock",
+      "symbol": "URAX",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/102176414/thumb/URAx.png?1787822889"
+    },
+    {
+      "chainId": 5000,
+      "address": "0x063c1d1ef6e9099ce3e8e9ad5c6173d12c49c086",
+      "name": "Global Dollar",
+      "symbol": "USDG",
+      "decimals": 6,
+      "logoURI": "https://assets.coingecko.com/coins/images/51281/thumb/GDN_USDG_Token_200x200.png?1730484111"
     }
   ],
   "version": {
-    "major": 30,
-    "minor": 9,
+    "major": 31,
+    "minor": 0,
     "patch": 0
   }
 }
