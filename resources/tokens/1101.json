@@ -4,8 +4,16 @@
   "keywords": [
     "defi"
   ],
-  "timestamp": "2026-07-10T02:00:38.342+00:00",
+  "timestamp": "2026-09-09T12:00:41.418+00:00",
   "tokens": [
+    {
+      "chainId": 1101,
+      "address": "0xd4e38eb4a9581e05de8aeb5f895916647b5933f1",
+      "name": "Forwards Rec BH-2024",
+      "symbol": "FJLT-B24",
+      "decimals": 6,
+      "logoURI": "https://assets.coingecko.com/coins/images/36305/thumb/Artboard_1fJLT-B24.png?1711090025"
+    },
     {
       "chainId": 1101,
       "address": "0xa8ce8aee21bc2a48a5ef670afcc9274c7bbbc035",
@@ -45,14 +53,6 @@
       "symbol": "WETH",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/39698/thumb/weth.png?1723671580"
-    },
-    {
-      "chainId": 1101,
-      "address": "0xd4e38eb4a9581e05de8aeb5f895916647b5933f1",
-      "name": "Forwards Rec BH-2024",
-      "symbol": "FJLT-B24",
-      "decimals": 6,
-      "logoURI": "https://assets.coingecko.com/coins/images/36305/thumb/Artboard_1fJLT-B24.png?1711090025"
     },
     {
       "chainId": 1101,
@@ -197,11 +197,19 @@
       "symbol": "SLN",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/35397/thumb/sln.jpeg?1708488815"
+    },
+    {
+      "chainId": 1101,
+      "address": "0x11175910c6f02913782777840ac008f30720046f",
+      "name": "Global Currency Restart Master",
+      "symbol": "GCRM",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/102174622/thumb/Lg_GCRM_200X200.png?1784258376"
     }
   ],
   "version": {
     "major": 14,
-    "minor": 1,
+    "minor": 2,
     "patch": 0
   }
 }

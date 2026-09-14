@@ -4,8 +4,16 @@
   "keywords": [
     "defi"
   ],
-  "timestamp": "2026-09-05T19:01:53.352+00:00",
+  "timestamp": "2026-09-11T07:02:07.312+00:00",
   "tokens": [
+    {
+      "chainId": 57073,
+      "address": "0xd95b9a5fa7c2708fd4fe0e07e59bde1ef35b194a",
+      "name": "Beast",
+      "symbol": "BEAST",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/102176648/thumb/Backgroundless_Beast_200x200.png?1788410365"
+    },
     {
       "chainId": 57073,
       "address": "0x0c5e2d1c98cd265c751e02f8f3293bc5764f9111",
@@ -16,11 +24,19 @@
     },
     {
       "chainId": 57073,
-      "address": "0x4200000000000000000000000000000000000006",
-      "name": "Ink Bridged WETH (Ink)",
-      "symbol": "WETH",
+      "address": "0xad09cd20e513e4d8cb78036f77ab9afde8555929",
+      "name": "Kraken Wrapped HYPE",
+      "symbol": "KHYPE",
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/52918/thumb/weth_2.jpg?1734684690"
+      "logoURI": "https://assets.coingecko.com/coins/images/102176672/thumb/kHYPE.png?1788459787"
+    },
+    {
+      "chainId": 57073,
+      "address": "0x0e04ca25b5cd15047946d89e21cbcdbae43a323b",
+      "name": "Otomate",
+      "symbol": "OTO",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/102176957/thumb/oto-dexscreener-logo-200.png?1789108556"
     },
     {
       "chainId": 57073,
@@ -40,11 +56,11 @@
     },
     {
       "chainId": 57073,
-      "address": "0x0606fc632ee812ba970af72f8489baaa443c4b98",
-      "name": "ANITA",
-      "symbol": "ANITA",
+      "address": "0x4200000000000000000000000000000000000006",
+      "name": "Ink Bridged WETH (Ink)",
+      "symbol": "WETH",
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/68173/thumb/_L_L.png?1754996486"
+      "logoURI": "https://assets.coingecko.com/coins/images/52918/thumb/weth_2.jpg?1734684690"
     },
     {
       "chainId": 57073,
@@ -56,19 +72,11 @@
     },
     {
       "chainId": 57073,
-      "address": "0xad09cd20e513e4d8cb78036f77ab9afde8555929",
-      "name": "Kraken Wrapped HYPE",
-      "symbol": "KHYPE",
+      "address": "0x0606fc632ee812ba970af72f8489baaa443c4b98",
+      "name": "ANITA",
+      "symbol": "ANITA",
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/102176672/thumb/kHYPE.png?1788459787"
-    },
-    {
-      "chainId": 57073,
-      "address": "0xd95b9a5fa7c2708fd4fe0e07e59bde1ef35b194a",
-      "name": "Beast",
-      "symbol": "BEAST",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/102176648/thumb/Backgroundless_Beast_200x200.png?1788410365"
+      "logoURI": "https://assets.coingecko.com/coins/images/68173/thumb/_L_L.png?1754996486"
     },
     {
       "chainId": 57073,
@@ -5043,14 +5051,6 @@
     },
     {
       "chainId": 57073,
-      "address": "0x0ca6992ef0b684ea09d99dae60accfa4a9f794a9",
-      "name": "Xylem xStock",
-      "symbol": "XYLX",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/102176467/thumb/XYLx.png?1787823079"
-    },
-    {
-      "chainId": 57073,
       "address": "0xae7267bda08c44f0422e3c85d0967c7a71f120df",
       "name": "Block xStock",
       "symbol": "XYZX",
@@ -5072,6 +5072,14 @@
       "symbol": "YUMX",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/102176470/thumb/YUMx.png?1787823091"
+    },
+    {
+      "chainId": 57073,
+      "address": "0x0ca6992ef0b684ea09d99dae60accfa4a9f794a9",
+      "name": "Xylem xStock",
+      "symbol": "XYLX",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/102176467/thumb/XYLx.png?1787823079"
     },
     {
       "chainId": 57073,
@@ -5204,7 +5212,7 @@
   ],
   "version": {
     "major": 8,
-    "minor": 1,
+    "minor": 2,
     "patch": 0
   }
 }
