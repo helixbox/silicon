@@ -4,16 +4,8 @@
   "keywords": [
     "defi"
   ],
-  "timestamp": "2026-08-13T16:01:05.231+00:00",
+  "timestamp": "2026-09-17T07:01:13.367+00:00",
   "tokens": [
-    {
-      "chainId": 42793,
-      "address": "0x796ea11fa2dd751ed01b53c372ffdb4aaa8f00f9",
-      "name": "Etherlink Bridged USDC (Etherlink)",
-      "symbol": "USDC",
-      "decimals": 6,
-      "logoURI": "https://assets.coingecko.com/coins/images/39584/thumb/USDC-icon.webp?1723013425"
-    },
     {
       "chainId": 42793,
       "address": "0x6bde51212203ae5d592cc5180da2abbd41c922de",
@@ -21,6 +13,14 @@
       "symbol": "USDSM",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/102173681/thumb/USDSM-logo-2.png?1780931561"
+    },
+    {
+      "chainId": 42793,
+      "address": "0x796ea11fa2dd751ed01b53c372ffdb4aaa8f00f9",
+      "name": "Etherlink Bridged USDC (Etherlink)",
+      "symbol": "USDC",
+      "decimals": 6,
+      "logoURI": "https://assets.coingecko.com/coins/images/39584/thumb/USDC-icon.webp?1723013425"
     },
     {
       "chainId": 42793,
@@ -181,19 +181,11 @@
       "symbol": "CRV",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/12124/thumb/Curve.png?1696511967"
-    },
-    {
-      "chainId": 42793,
-      "address": "0x18bc5bcc660cf2b9ce3cd51a404afe1a0cbd3c22",
-      "name": "IDRX",
-      "symbol": "IDRX",
-      "decimals": 2,
-      "logoURI": "https://assets.coingecko.com/coins/images/34883/thumb/IDRX_BLUE_COIN_200x200.png?1734983273"
     }
   ],
   "version": {
-    "major": 5,
-    "minor": 1,
-    "patch": 1
+    "major": 6,
+    "minor": 0,
+    "patch": 0
   }
 }
