@@ -4,16 +4,8 @@
   "keywords": [
     "defi"
   ],
-  "timestamp": "2026-09-11T11:02:23.243+00:00",
+  "timestamp": "2026-09-24T05:02:31.787+00:00",
   "tokens": [
-    {
-      "chainId": 2818,
-      "address": "0x5300000000000000000000000000000000000011",
-      "name": "Bridged Wrapped Ether (Morph L2)",
-      "symbol": "WETH",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/52916/thumb/weth_2.jpg?1734682436"
-    },
     {
       "chainId": 2818,
       "address": "0xc7d67a9cbb121b3b0b9c053dd9f469523243379a",
@@ -21,6 +13,14 @@
       "symbol": "USDT",
       "decimals": 6,
       "logoURI": "https://assets.coingecko.com/coins/images/52915/thumb/usdt.jpg?1734682309"
+    },
+    {
+      "chainId": 2818,
+      "address": "0x5300000000000000000000000000000000000011",
+      "name": "Bridged Wrapped Ether (Morph L2)",
+      "symbol": "WETH",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/52916/thumb/weth_2.jpg?1734682436"
     },
     {
       "chainId": 2818,
@@ -40,11 +40,243 @@
     },
     {
       "chainId": 2818,
+      "address": "0xfae5a3bb172ef2afe77ce92df8f89c6a6be16ba5",
+      "name": "Abrdn Palladium ETF Trust rStock",
+      "symbol": "RPALL",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/102177343/thumb/PALL.png?1789117605"
+    },
+    {
+      "chainId": 2818,
+      "address": "0x3693ce2a6c7e7dd27f37eaae58b696364e0caec5",
+      "name": "Abrdn Platinum ETF Trust rStock",
+      "symbol": "RPPLT",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/102177307/thumb/PPLT.png?1789117486"
+    },
+    {
+      "chainId": 2818,
+      "address": "0x2c1c7a6d4f703be84e446c24909a8fad30b68ab1",
+      "name": "Abrdn Precious Metals Basket ETF rStock",
+      "symbol": "RGLTR",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/102177288/thumb/GLTR.png?1789117424"
+    },
+    {
+      "chainId": 2818,
+      "address": "0x4a035e7f935205099015214f8ed91987de02db73",
+      "name": "ARK Innovation ETF rStock",
+      "symbol": "RARKK",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/102177120/thumb/f8c0e9308e727358364dbeea4d7948ea.png?1789116891"
+    },
+    {
+      "chainId": 2818,
+      "address": "0x4513021b54b69eba2ec2865e6977c02a25e8f06a",
+      "name": "Defiance Daily Target 2X Long AVGO ETF rStock",
+      "symbol": "RAVGX",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/102177192/thumb/069be1fd7818b3e36c2fd76bd136976c.png?1789117114"
+    },
+    {
+      "chainId": 2818,
+      "address": "0xfe17a1d347cc17789e8a2f76ee14848e1ddca679",
+      "name": "Defiance Daily Target 2X Long IREN ETF rStock",
+      "symbol": "RIRE",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/102177198/thumb/928c7da3385c072d0857a26930e31743.png?1789117134"
+    },
+    {
+      "chainId": 2818,
+      "address": "0xfd9793408b2686397916e5291f9985f9ba8eac63",
+      "name": "Direxion Daily AVGO Bull 2X Shares rStock",
+      "symbol": "RAVL",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/102177197/thumb/0bac803c3f96ea9baba548ecaa5b1fba.png?1789117130"
+    },
+    {
+      "chainId": 2818,
+      "address": "0xe7922623fe27a91f1f02238421e0e6be02c5a353",
+      "name": "Direxion Daily Financial Bear 3X Shares ETF rStock",
+      "symbol": "RFAZ",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/102177171/thumb/bbbbc59eeb49cea3e0ba5ba8026396f8.png?1789117049"
+    },
+    {
+      "chainId": 2818,
+      "address": "0x41d7c6dcd1b46b2b7bb1436aae0c9d508edee61d",
+      "name": "Direxion Daily Financial Bull 3X Shares ETF rStock",
+      "symbol": "RFAS",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/102177170/thumb/bbbbc59eeb49cea3e0ba5ba8026396f8.png?1789117046"
+    },
+    {
+      "chainId": 2818,
+      "address": "0x7e057476a53720039143e05d0d2b58e6847222ed",
+      "name": "Pimco Etf Trust 0-5 Yr High Yld Corp Bd Idx ETF rStock",
+      "symbol": "RHYS",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/102177290/thumb/HYS.png?1789117430"
+    },
+    {
+      "chainId": 2818,
+      "address": "0xa484864e488d22cd1491504c80c6b60ae8f21c91",
+      "name": "iShares 7-10 Year Treasury Bond ETF rStock",
+      "symbol": "RIEF",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/102177292/thumb/IEF.png?1789117437"
+    },
+    {
+      "chainId": 2818,
+      "address": "0xdbc60337ab49507c99f3dd15adc26a1eaa8dcebe",
+      "name": "Direxion Daily FTSE China Bear 3X Shares ETF rStock",
+      "symbol": "RYANG",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/102177163/thumb/bbbbc59eeb49cea3e0ba5ba8026396f8.png?1789117027"
+    },
+    {
+      "chainId": 2818,
+      "address": "0x5f34ce02a1c6bc336dc1868b87e84520c5ede458",
+      "name": "GraniteShares 2X Long MRVL Daily ETF rStock",
+      "symbol": "RMVLL",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/102177259/thumb/MVLL.png?1789117329"
+    },
+    {
+      "chainId": 2818,
+      "address": "0x2b0bc6fbc3bf1bb654353b06ca4c41b4c5f588be",
+      "name": "iShares Gold Trust rStock",
+      "symbol": "RIAU",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/102177291/thumb/IAU.png?1789117433"
+    },
+    {
+      "chainId": 2818,
       "address": "0x58538e6a46e07434d7e7375bc268d3cb839c0133",
       "name": "Ethena",
       "symbol": "ENA",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/36530/thumb/ethena.png?1711701436"
+    },
+    {
+      "chainId": 2818,
+      "address": "0x532962db5fe836ca64dd87762bfc8ec089bef176",
+      "name": "FRANKLIN FOCUSED GROWTH ETF rStock",
+      "symbol": "RFFOG",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/102177279/thumb/FFOG.png?1789117394"
+    },
+    {
+      "chainId": 2818,
+      "address": "0x5b5c40653b280c380fee2bc7fa40e15262749e5e",
+      "name": "Global X Uranium ETF rStock",
+      "symbol": "RURA",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/102177157/thumb/71b5d75c174a07d45429acfa2dbab217.png?1789117008"
+    },
+    {
+      "chainId": 2818,
+      "address": "0xfb6159c8861e2adac5dab7e63b2c6db28fd79c6a",
+      "name": "Fidelity Solana Fund ETF rStock",
+      "symbol": "RFSOL",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/102177285/thumb/FSOL.png?1789117414"
+    },
+    {
+      "chainId": 2818,
+      "address": "0x899bb6aeaa8130c394d7d3b4455e212b55246c2e",
+      "name": "First Trust Exch Traded Fund 2 Nasdaq Cybersecurity ETF rSto",
+      "symbol": "RCIBR",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/102177271/thumb/CIBR.png?1789117368"
+    },
+    {
+      "chainId": 2818,
+      "address": "0x46f090b954e259e937a678be1dd2c6b50e02b440",
+      "name": "Global X Robotics & Artificial Intelligence Thematic ETF rSt",
+      "symbol": "RBOTZ",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/102177263/thumb/BOTZ.png?1789117342"
+    },
+    {
+      "chainId": 2818,
+      "address": "0x2a8a7af61e2904504243cf81529d4f558632f455",
+      "name": "Global X Lithium & Battery Tech ETF rStock",
+      "symbol": "RLIT",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/102177177/thumb/71b5d75c174a07d45429acfa2dbab217.png?1789117066"
+    },
+    {
+      "chainId": 2818,
+      "address": "0x8e62cbbcacfe3e401b4fd92cba95144bfe16875d",
+      "name": "Franklin U.S. Large Cap Multifactor Index ETF rStock",
+      "symbol": "RFLQL",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/102177284/thumb/FLQL.png?1789117411"
+    },
+    {
+      "chainId": 2818,
+      "address": "0x6e0f3a6daafa924ba995d2d7106d422eec6cadc4",
+      "name": "FRANKLIN RESPONSIBLY SOURCED GOLD ETF rStock",
+      "symbol": "RFGDL",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/102177280/thumb/FGDL.png?1789117398"
+    },
+    {
+      "chainId": 2818,
+      "address": "0x7167c16b1e489919b780be257a51a0667a1087b7",
+      "name": "Franklin Income Equity Focus ETF rStock",
+      "symbol": "RINCE",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/102177296/thumb/INCE.png?1789117450"
+    },
+    {
+      "chainId": 2818,
+      "address": "0x836286d88449d6abfb2e08dc375627b4007e6dc3",
+      "name": "NASDAQ-100 HIGH INCOME ETF rStock",
+      "symbol": "RIQQQ",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/102177744/thumb/finnhub_logo20260911-1-axdas2.png?1789120726"
+    },
+    {
+      "chainId": 2818,
+      "address": "0xb2e7dd1ecd0135c7d6e0fe1af0c172065ab81574",
+      "name": "The Technology Select Sector SPDR® Fund rStock",
+      "symbol": "RXLK",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/102177328/thumb/cb1cad014cc29496bb13a347b6d456ea.png?1789117555"
+    },
+    {
+      "chainId": 2818,
+      "address": "0x9743c566f9e207a51ae443aaf3e9344f63006ebc",
+      "name": "iShares Core S&P 500 ETF rStock",
+      "symbol": "RIVV",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/102177299/thumb/IVV.png?1789117460"
+    },
+    {
+      "chainId": 2818,
+      "address": "0xd94c8f679515e739ff9514f5a6e2af1299ab9ece",
+      "name": "Ishares Russell 1000 Growth ETF (IWF) rStock",
+      "symbol": "RIWF",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/102177300/thumb/IWF.png?1789117463"
+    },
+    {
+      "chainId": 2818,
+      "address": "0x0e22ef7ef9cc30534f6eb6e63e009098394d645d",
+      "name": "Ishares Russell 2000 Value ETF rStock",
+      "symbol": "RIWN",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/102177302/thumb/IWN.png?1789117470"
+    },
+    {
+      "chainId": 2818,
+      "address": "0xda416df651a92fb5b159f7bd993e64f4fa99f9f7",
+      "name": "Janus Henderson AAA CLO ETF rStock",
+      "symbol": "RJAAA",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/102177303/thumb/JAAA.png?1789117473"
     },
     {
       "chainId": 2818,
@@ -136,11 +368,11 @@
     },
     {
       "chainId": 2818,
-      "address": "0xaf2e56d0b27e819d24a6d3638a609e5a129b2c63",
-      "name": "SPDR S&P 500 ETF rStock",
-      "symbol": "RSPY",
+      "address": "0xb7268b0276f2698a1597b92a50e0aa7462f566b3",
+      "name": "Vanguard Real Estate ETF rStock",
+      "symbol": "RVNQ",
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/102176983/thumb/0643c36540602eba0ce8d51dcdcffe33.png?1789116235"
+      "logoURI": "https://assets.coingecko.com/coins/images/102177313/thumb/VNQ.png?1789117506"
     },
     {
       "chainId": 2818,
@@ -149,14 +381,6 @@
       "symbol": "RMU",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/102176984/thumb/3f7de97092992b4e15276d6a9e1993c5.png?1789116237"
-    },
-    {
-      "chainId": 2818,
-      "address": "0xec3d783ef03dece9e0008a5afedd2bc9125267d6",
-      "name": "Fabrinet rStock",
-      "symbol": "RDELL",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/102176985/thumb/d22cd9827800c943aa319e568750c0ae.png?1789116288"
     },
     {
       "chainId": 2818,
@@ -384,6 +608,14 @@
     },
     {
       "chainId": 2818,
+      "address": "0xc48e14d19ed66e9242202b93d37abf4f1afa23ec",
+      "name": "Vanguard Value ETF rStock",
+      "symbol": "RVTV",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/102177312/thumb/VTV.png?1789117503"
+    },
+    {
+      "chainId": 2818,
       "address": "0x8fbac4ee1f30ec4aa6aa770b363ac40af104293d",
       "name": "Lumentum rStock",
       "symbol": "RLITE",
@@ -504,6 +736,14 @@
     },
     {
       "chainId": 2818,
+      "address": "0x50872138a60c8106e0122d8428380495b55189e1",
+      "name": "Solstice Advanced Materials rStock",
+      "symbol": "RSOLS",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/102178176/thumb/finnhub_logo20260911-1-v52ebj.png?1789122072"
+    },
+    {
+      "chainId": 2818,
       "address": "0x7d221afb07957a27e52b60d99dcac18822ba6b75",
       "name": "Advanced Micro Devices rStock",
       "symbol": "RAMD",
@@ -525,6 +765,14 @@
       "symbol": "RMRVL",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/102177018/thumb/fe9efd59c79e93440fc6058cafc562a7.png?1789116570"
+    },
+    {
+      "chainId": 2818,
+      "address": "0xd56dce694472f8e027e2bf56bd4cfe6da3d71aae",
+      "name": "WisdomTree Floating Rate Treasury Fund rStock",
+      "symbol": "RUSFR",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/102177310/thumb/USFR.png?1789117496"
     },
     {
       "chainId": 2818,
@@ -717,6 +965,14 @@
       "symbol": "LINK",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/877/thumb/Chainlink_Logo_500.png?1760023405"
+    },
+    {
+      "chainId": 2818,
+      "address": "0x61678392352bf3351016aee408ac3ec91824eaf1",
+      "name": "iShares MSCI Emerging Markets ETF rStock",
+      "symbol": "REEM",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/102177277/thumb/EEM.png?1789117388"
     },
     {
       "chainId": 2818,
@@ -1424,11 +1680,11 @@
     },
     {
       "chainId": 2818,
-      "address": "0x4a035e7f935205099015214f8ed91987de02db73",
-      "name": "ARK Innovation ETF rStock",
-      "symbol": "RARKK",
+      "address": "0x4d5ab7b3c7552ddb12c72c6118725cbb94e5888f",
+      "name": "iShares MSCI EAFE ETF rStock",
+      "symbol": "REFA",
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/102177120/thumb/f8c0e9308e727358364dbeea4d7948ea.png?1789116891"
+      "logoURI": "https://assets.coingecko.com/coins/images/102177278/thumb/EFA.png?1789117391"
     },
     {
       "chainId": 2818,
@@ -1568,14 +1824,6 @@
     },
     {
       "chainId": 2818,
-      "address": "0x6247d8c1fc87111b6ea310d05eb4c3bba2f2a391",
-      "name": "iShares China Large-Cap ETF rStock",
-      "symbol": "RFXI",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/102177139/thumb/1b59e66a9292825e499c09fbf15cf087.png?1789116952"
-    },
-    {
-      "chainId": 2818,
       "address": "0x967109af8d1455f1d63d49b077080bd803e4bbc3",
       "name": "iShares MSCI India Index ETF rStock",
       "symbol": "RINDA",
@@ -1592,19 +1840,19 @@
     },
     {
       "chainId": 2818,
-      "address": "0x24bf7ed74082129a8013bfc6f64b25a07a67057c",
-      "name": "iShares MSCI South Korea ETF rStock",
-      "symbol": "REWY",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/102177142/thumb/1b59e66a9292825e499c09fbf15cf087.png?1789116960"
-    },
-    {
-      "chainId": 2818,
       "address": "0x03788c1a8313d109bb414b8a6ba3570abf8c85db",
       "name": "iShares MSCI Brazil ETF rStock",
       "symbol": "REWZ",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/102177143/thumb/1b59e66a9292825e499c09fbf15cf087.png?1789116963"
+    },
+    {
+      "chainId": 2818,
+      "address": "0x24bf7ed74082129a8013bfc6f64b25a07a67057c",
+      "name": "iShares MSCI South Korea ETF rStock",
+      "symbol": "REWY",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/102177142/thumb/1b59e66a9292825e499c09fbf15cf087.png?1789116960"
     },
     {
       "chainId": 2818,
@@ -1712,14 +1960,6 @@
     },
     {
       "chainId": 2818,
-      "address": "0x5b5c40653b280c380fee2bc7fa40e15262749e5e",
-      "name": "Global X Uranium ETF rStock",
-      "symbol": "RURA",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/102177157/thumb/71b5d75c174a07d45429acfa2dbab217.png?1789117008"
-    },
-    {
-      "chainId": 2818,
       "address": "0x97de6638af13bc329c185bfe8a902f0b8a626cf7",
       "name": "Uranium Energy rStock",
       "symbol": "RUEC",
@@ -1760,14 +2000,6 @@
     },
     {
       "chainId": 2818,
-      "address": "0xdbc60337ab49507c99f3dd15adc26a1eaa8dcebe",
-      "name": "Direxion Daily FTSE China Bear 3X Shares ETF rStock",
-      "symbol": "RYANG",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/102177163/thumb/bbbbc59eeb49cea3e0ba5ba8026396f8.png?1789117027"
-    },
-    {
-      "chainId": 2818,
       "address": "0xcdbe7a06d2adf56c91d1cc432752d02305ba2450",
       "name": "Direxion Daily Semiconductor Bull 3x Shares ETF rStock",
       "symbol": "RSOXL",
@@ -1800,19 +2032,11 @@
     },
     {
       "chainId": 2818,
-      "address": "0x41d7c6dcd1b46b2b7bb1436aae0c9d508edee61d",
-      "name": "Direxion Daily Financial Bull 3X Shares ETF rStock",
-      "symbol": "RFAS",
+      "address": "0x5fe383c6c0e68d8ad767d5e7a47b13352f3a0955",
+      "name": "Direxion Daily S&P Biotech Bear 3x Shares ETF rStock",
+      "symbol": "RLABD",
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/102177170/thumb/bbbbc59eeb49cea3e0ba5ba8026396f8.png?1789117046"
-    },
-    {
-      "chainId": 2818,
-      "address": "0xe7922623fe27a91f1f02238421e0e6be02c5a353",
-      "name": "Direxion Daily Financial Bear 3X Shares ETF rStock",
-      "symbol": "RFAZ",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/102177171/thumb/bbbbc59eeb49cea3e0ba5ba8026396f8.png?1789117049"
+      "logoURI": "https://assets.coingecko.com/coins/images/102177173/thumb/bbbbc59eeb49cea3e0ba5ba8026396f8.png?1789117054"
     },
     {
       "chainId": 2818,
@@ -1821,14 +2045,6 @@
       "symbol": "RLABU",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/102177172/thumb/bbbbc59eeb49cea3e0ba5ba8026396f8.png?1789117052"
-    },
-    {
-      "chainId": 2818,
-      "address": "0x5fe383c6c0e68d8ad767d5e7a47b13352f3a0955",
-      "name": "Direxion Daily S&P Biotech Bear 3x Shares ETF rStock",
-      "symbol": "RLABD",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/102177173/thumb/bbbbc59eeb49cea3e0ba5ba8026396f8.png?1789117054"
     },
     {
       "chainId": 2818,
@@ -1853,46 +2069,6 @@
       "symbol": "RICLN",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/102177176/thumb/1b59e66a9292825e499c09fbf15cf087.png?1789117064"
-    },
-    {
-      "chainId": 2818,
-      "address": "0x2a8a7af61e2904504243cf81529d4f558632f455",
-      "name": "Global X Lithium & Battery Tech ETF rStock",
-      "symbol": "RLIT",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/102177177/thumb/71b5d75c174a07d45429acfa2dbab217.png?1789117066"
-    },
-    {
-      "chainId": 2818,
-      "address": "0xf378592a6a73dd2d7be770639b0ac7a6effc0f74",
-      "name": "Invesco Solar ETF rStock",
-      "symbol": "RTAN",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/102177178/thumb/f24c46d247c5931034f1f21e46a822f8.png?1789117069"
-    },
-    {
-      "chainId": 2818,
-      "address": "0x4017c0f18c0de480be63187b9289b33c18da53bb",
-      "name": "United Sts Brent Oil Fd Lp Unit rStock",
-      "symbol": "RBNO",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/102177179/thumb/7c6de662539489153ff491d124d375b9.png?1789117073"
-    },
-    {
-      "chainId": 2818,
-      "address": "0x4224d4ffb805091f024d11122a60b193cd29ee19",
-      "name": "United States Natural Gas rStock",
-      "symbol": "RUNG",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/102177180/thumb/7c6de662539489153ff491d124d375b9.png?1789117075"
-    },
-    {
-      "chainId": 2818,
-      "address": "0xc43ae09f24903da0bfa84b043b90ff4f80c89705",
-      "name": "iShares Silver Trust rStock",
-      "symbol": "RSLV",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/102177181/thumb/1b59e66a9292825e499c09fbf15cf087.png?1789117078"
     },
     {
       "chainId": 2818,
@@ -2000,38 +2176,6 @@
     },
     {
       "chainId": 2818,
-      "address": "0x4513021b54b69eba2ec2865e6977c02a25e8f06a",
-      "name": "Defiance Daily Target 2X Long AVGO ETF rStock",
-      "symbol": "RAVGX",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/102177192/thumb/069be1fd7818b3e36c2fd76bd136976c.png?1789117114"
-    },
-    {
-      "chainId": 2818,
-      "address": "0xb2925097a3b9ad0103851c9481c20ade0dbdea32",
-      "name": "Tradr 2X Long ASTS Daily ETF rStock",
-      "symbol": "RASTX",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/102177193/thumb/f410fb324abd5ef68210eff977761d2a.png?1789117117"
-    },
-    {
-      "chainId": 2818,
-      "address": "0x3c484d08bb74db0b1644e4d518d0ed5ae67d39c5",
-      "name": "Tema Space Innovators ETF rStock",
-      "symbol": "RNASA",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/102177194/thumb/237466957accd5b0abe79a2bc4a0cb5e.png?1789117121"
-    },
-    {
-      "chainId": 2818,
-      "address": "0x15370aaf4c6ddca4a2083430e43fa182e72b916b",
-      "name": "Defiance Daily Target 2X Long RKLB ETF rStock",
-      "symbol": "RRKLX",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/102177195/thumb/0a9bfe0cc992702c250da0d5ca474687.png?1789117124"
-    },
-    {
-      "chainId": 2818,
       "address": "0x8642a7d016d127a5885cab4582a2ba4c3bc6bb07",
       "name": "TaoWeave rStock",
       "symbol": "RTWAV",
@@ -2040,27 +2184,11 @@
     },
     {
       "chainId": 2818,
-      "address": "0xfd9793408b2686397916e5291f9985f9ba8eac63",
-      "name": "Direxion Daily AVGO Bull 2X Shares rStock",
-      "symbol": "RAVL",
+      "address": "0x15370aaf4c6ddca4a2083430e43fa182e72b916b",
+      "name": "Defiance Daily Target 2X Long RKLB ETF rStock",
+      "symbol": "RRKLX",
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/102177197/thumb/0bac803c3f96ea9baba548ecaa5b1fba.png?1789117130"
-    },
-    {
-      "chainId": 2818,
-      "address": "0xfe17a1d347cc17789e8a2f76ee14848e1ddca679",
-      "name": "Defiance Daily Target 2X Long IREN ETF rStock",
-      "symbol": "RIRE",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/102177198/thumb/928c7da3385c072d0857a26930e31743.png?1789117134"
-    },
-    {
-      "chainId": 2818,
-      "address": "0x7c2e673fc0d00a6bb5a56cac3689ba7dcdaffe3e",
-      "name": "Proshares Ultra CRC rStock",
-      "symbol": "RCRCA",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/102177199/thumb/1067d8d2836f009992ab7939668f3736.png?1789117136"
+      "logoURI": "https://assets.coingecko.com/coins/images/102177195/thumb/0a9bfe0cc992702c250da0d5ca474687.png?1789117124"
     },
     {
       "chainId": 2818,
@@ -2312,30 +2440,6 @@
     },
     {
       "chainId": 2818,
-      "address": "0xb4bb7c8a6f6c6e75b1f8f13b7c129ca849d0e6e7",
-      "name": "VanEck Semiconductor ETF rStock",
-      "symbol": "RSMH",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/102177231/thumb/8212fc1ac945a7feec1ce7f43287ed67.png?1789117239"
-    },
-    {
-      "chainId": 2818,
-      "address": "0xfd0e87b8bcb4003d2c0f7097ebe7ebd40f4dffbf",
-      "name": "Vanguard S&P 500 ETF rStock",
-      "symbol": "RVOO",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/102177232/thumb/VOO.png?1789117243"
-    },
-    {
-      "chainId": 2818,
-      "address": "0x841c7f0f5bfee1009b8bd4708346f4da24652ce3",
-      "name": "Vanguard Information Technology ETF rStock",
-      "symbol": "RVGT",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/102177233/thumb/8c4abfc4925fcc1fa18439d5040f8861.png?1789117246"
-    },
-    {
-      "chainId": 2818,
       "address": "0x122fd501d5809a738e00e75c09a69ebf6ffafae1",
       "name": "Take-Two Interactive Software rStock",
       "symbol": "RTTWO",
@@ -2357,6 +2461,14 @@
       "symbol": "RWMT",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/102177236/thumb/61f950d277fcdd128a6359be95ddd298.png?1789117255"
+    },
+    {
+      "chainId": 2818,
+      "address": "0xfd0e87b8bcb4003d2c0f7097ebe7ebd40f4dffbf",
+      "name": "Vanguard S&P 500 ETF rStock",
+      "symbol": "RVOO",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/102177232/thumb/VOO.png?1789117243"
     },
     {
       "chainId": 2818,
@@ -2488,6 +2600,14 @@
     },
     {
       "chainId": 2818,
+      "address": "0x4be8532ff32ded831c55506cd2d7d59881176ee3",
+      "name": "Vanguard Total International Stock ETF rStock",
+      "symbol": "RVXUS",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/102177265/thumb/VXUS.png?1789117348"
+    },
+    {
+      "chainId": 2818,
       "address": "0xb3b0ffc3b4190b972046df5d0f47792b8294d849",
       "name": "Invesco NASDAQ 100 ETF rStock",
       "symbol": "RQQQM",
@@ -2496,43 +2616,11 @@
     },
     {
       "chainId": 2818,
-      "address": "0x0afca6ad08fde9b815466899fefcd26089ecd906",
-      "name": "T-Rex 2X Inverse MSTR Daily Target ETF rStock",
-      "symbol": "RMSTZ",
+      "address": "0xf378592a6a73dd2d7be770639b0ac7a6effc0f74",
+      "name": "Invesco Solar ETF rStock",
+      "symbol": "RTAN",
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/102177255/thumb/eceffb0e995429bffeb549accb2118f9.png?1789117315"
-    },
-    {
-      "chainId": 2818,
-      "address": "0xbd1e9351c8adb3f84c7d041584f5de147803f1f2",
-      "name": "Tradr 2X Long SNDK Daily ETF rStock",
-      "symbol": "RSNXX",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/102177256/thumb/SNXX.png?1789117319"
-    },
-    {
-      "chainId": 2818,
-      "address": "0x5f34ce02a1c6bc336dc1868b87e84520c5ede458",
-      "name": "GraniteShares 2X Long MRVL Daily ETF rStock",
-      "symbol": "RMVLL",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/102177259/thumb/MVLL.png?1789117329"
-    },
-    {
-      "chainId": 2818,
-      "address": "0x8cb8c4210ce814e1b7e22252e25d63f079c56022",
-      "name": "iShares 0-3 Month Treasury Bond ETF rStock",
-      "symbol": "RSGOV",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/102177260/thumb/SGOV.png?1789117332"
-    },
-    {
-      "chainId": 2818,
-      "address": "0x147909cfc5f4a4f33e93604997eb23b52710ecf5",
-      "name": "ProShares Bitcoin ETF rStock",
-      "symbol": "RBITO",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/102177261/thumb/BITO.png?1789117335"
+      "logoURI": "https://assets.coingecko.com/coins/images/102177178/thumb/f24c46d247c5931034f1f21e46a822f8.png?1789117069"
     },
     {
       "chainId": 2818,
@@ -2544,14 +2632,6 @@
     },
     {
       "chainId": 2818,
-      "address": "0x46f090b954e259e937a678be1dd2c6b50e02b440",
-      "name": "Global X Robotics & Artificial Intelligence Thematic ETF rSt",
-      "symbol": "RBOTZ",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/102177263/thumb/BOTZ.png?1789117342"
-    },
-    {
-      "chainId": 2818,
       "address": "0x91bd7a6f8970a889972c7ba1d2d5ea4ce9017051",
       "name": "iShares Expanded Tech-Software Sector ETF rStock",
       "symbol": "RIGV",
@@ -2560,27 +2640,11 @@
     },
     {
       "chainId": 2818,
-      "address": "0x4be8532ff32ded831c55506cd2d7d59881176ee3",
-      "name": "Vanguard Total International Stock ETF rStock",
-      "symbol": "RVXUS",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/102177265/thumb/VXUS.png?1789117348"
-    },
-    {
-      "chainId": 2818,
       "address": "0x89812c8a9ddcb35019519aad912d83948fa88b7a",
       "name": "iShares Core US Aggregate Bond ETF rStock",
       "symbol": "RAGG",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/102177266/thumb/AGG.png?1789117352"
-    },
-    {
-      "chainId": 2818,
-      "address": "0x4c53d96f55e53e1454c557322133459258234e2e",
-      "name": "iShares Flexible Income Active ETF rStock",
-      "symbol": "RBINC",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/102177267/thumb/1b70ec97f374a41ea6cc2d4dc2d1f615.png?1789117355"
     },
     {
       "chainId": 2818,
@@ -2608,14 +2672,6 @@
     },
     {
       "chainId": 2818,
-      "address": "0x899bb6aeaa8130c394d7d3b4455e212b55246c2e",
-      "name": "First Trust Exch Traded Fund 2 Nasdaq Cybersecurity ETF rSto",
-      "symbol": "RCIBR",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/102177271/thumb/CIBR.png?1789117368"
-    },
-    {
-      "chainId": 2818,
       "address": "0x6e5a8737f82854e73d42bf2e998995653fd1d187",
       "name": "iShares AAA CLO Active ETF rStock",
       "symbol": "RCLOA",
@@ -2624,27 +2680,11 @@
     },
     {
       "chainId": 2818,
-      "address": "0xb1c07c8624e21f241dc22bc3ab33ab1d361baf15",
-      "name": "VANECK CLO ETF rStock",
-      "symbol": "RCLOI",
+      "address": "0x4c53d96f55e53e1454c557322133459258234e2e",
+      "name": "iShares Flexible Income Active ETF rStock",
+      "symbol": "RBINC",
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/102177273/thumb/CLOI.png?1789117374"
-    },
-    {
-      "chainId": 2818,
-      "address": "0xe071a0cf381ea038ff4f2ae21ca85295dac119d7",
-      "name": "Invesco DB Commodity Index Tracking Fund rStock",
-      "symbol": "RDBC",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/102177274/thumb/DBC.png?1789117378"
-    },
-    {
-      "chainId": 2818,
-      "address": "0x804717aea0ab0cf4b0ea4ffbbf9514c4cf444608",
-      "name": "WisdomTree US Quality Dividend Growth ETF rStock",
-      "symbol": "RDGRW",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/102177275/thumb/DGRW.png?1789117381"
+      "logoURI": "https://assets.coingecko.com/coins/images/102177267/thumb/1b70ec97f374a41ea6cc2d4dc2d1f615.png?1789117355"
     },
     {
       "chainId": 2818,
@@ -2656,35 +2696,27 @@
     },
     {
       "chainId": 2818,
-      "address": "0x61678392352bf3351016aee408ac3ec91824eaf1",
-      "name": "iShares MSCI Emerging Markets ETF rStock",
-      "symbol": "REEM",
+      "address": "0x804717aea0ab0cf4b0ea4ffbbf9514c4cf444608",
+      "name": "WisdomTree US Quality Dividend Growth ETF rStock",
+      "symbol": "RDGRW",
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/102177277/thumb/EEM.png?1789117388"
+      "logoURI": "https://assets.coingecko.com/coins/images/102177275/thumb/DGRW.png?1789117381"
     },
     {
       "chainId": 2818,
-      "address": "0x4d5ab7b3c7552ddb12c72c6118725cbb94e5888f",
-      "name": "iShares MSCI EAFE ETF rStock",
-      "symbol": "REFA",
+      "address": "0xe071a0cf381ea038ff4f2ae21ca85295dac119d7",
+      "name": "Invesco DB Commodity Index Tracking Fund rStock",
+      "symbol": "RDBC",
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/102177278/thumb/EFA.png?1789117391"
+      "logoURI": "https://assets.coingecko.com/coins/images/102177274/thumb/DBC.png?1789117378"
     },
     {
       "chainId": 2818,
-      "address": "0x532962db5fe836ca64dd87762bfc8ec089bef176",
-      "name": "FRANKLIN FOCUSED GROWTH ETF rStock",
-      "symbol": "RFFOG",
+      "address": "0xb1c07c8624e21f241dc22bc3ab33ab1d361baf15",
+      "name": "VANECK CLO ETF rStock",
+      "symbol": "RCLOI",
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/102177279/thumb/FFOG.png?1789117394"
-    },
-    {
-      "chainId": 2818,
-      "address": "0x6e0f3a6daafa924ba995d2d7106d422eec6cadc4",
-      "name": "FRANKLIN RESPONSIBLY SOURCED GOLD ETF rStock",
-      "symbol": "RFGDL",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/102177280/thumb/FGDL.png?1789117398"
+      "logoURI": "https://assets.coingecko.com/coins/images/102177273/thumb/CLOI.png?1789117374"
     },
     {
       "chainId": 2818,
@@ -2704,27 +2736,11 @@
     },
     {
       "chainId": 2818,
-      "address": "0x5f784bfe244f617cf8486e7f9bc7e0b125953152",
-      "name": "Franklin High Yield Corporate ETF rStock",
-      "symbol": "RFLHY",
+      "address": "0x4017c0f18c0de480be63187b9289b33c18da53bb",
+      "name": "United Sts Brent Oil Fd Lp Unit rStock",
+      "symbol": "RBNO",
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/102177283/thumb/FLHY.png?1789117407"
-    },
-    {
-      "chainId": 2818,
-      "address": "0x8e62cbbcacfe3e401b4fd92cba95144bfe16875d",
-      "name": "Franklin U.S. Large Cap Multifactor Index ETF rStock",
-      "symbol": "RFLQL",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/102177284/thumb/FLQL.png?1789117411"
-    },
-    {
-      "chainId": 2818,
-      "address": "0xfb6159c8861e2adac5dab7e63b2c6db28fd79c6a",
-      "name": "Fidelity Solana Fund ETF rStock",
-      "symbol": "RFSOL",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/102177285/thumb/FSOL.png?1789117414"
+      "logoURI": "https://assets.coingecko.com/coins/images/102177179/thumb/7c6de662539489153ff491d124d375b9.png?1789117073"
     },
     {
       "chainId": 2818,
@@ -2736,6 +2752,14 @@
     },
     {
       "chainId": 2818,
+      "address": "0x5f784bfe244f617cf8486e7f9bc7e0b125953152",
+      "name": "Franklin High Yield Corporate ETF rStock",
+      "symbol": "RFLHY",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/102177283/thumb/FLHY.png?1789117407"
+    },
+    {
+      "chainId": 2818,
       "address": "0x479cc51437a975d9908090af044fc2ce61a03744",
       "name": "Gemini Space Station rStock",
       "symbol": "RGEMI",
@@ -2744,11 +2768,27 @@
     },
     {
       "chainId": 2818,
-      "address": "0x2c1c7a6d4f703be84e446c24909a8fad30b68ab1",
-      "name": "Abrdn Precious Metals Basket ETF rStock",
-      "symbol": "RGLTR",
+      "address": "0x147909cfc5f4a4f33e93604997eb23b52710ecf5",
+      "name": "ProShares Bitcoin ETF rStock",
+      "symbol": "RBITO",
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/102177288/thumb/GLTR.png?1789117424"
+      "logoURI": "https://assets.coingecko.com/coins/images/102177261/thumb/BITO.png?1789117335"
+    },
+    {
+      "chainId": 2818,
+      "address": "0x8cb8c4210ce814e1b7e22252e25d63f079c56022",
+      "name": "iShares 0-3 Month Treasury Bond ETF rStock",
+      "symbol": "RSGOV",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/102177260/thumb/SGOV.png?1789117332"
+    },
+    {
+      "chainId": 2818,
+      "address": "0xbd1e9351c8adb3f84c7d041584f5de147803f1f2",
+      "name": "Tradr 2X Long SNDK Daily ETF rStock",
+      "symbol": "RSNXX",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/102177256/thumb/SNXX.png?1789117319"
     },
     {
       "chainId": 2818,
@@ -2760,30 +2800,6 @@
     },
     {
       "chainId": 2818,
-      "address": "0x7e057476a53720039143e05d0d2b58e6847222ed",
-      "name": "Pimco Etf Trust 0-5 Yr High Yld Corp Bd Idx ETF rStock",
-      "symbol": "RHYS",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/102177290/thumb/HYS.png?1789117430"
-    },
-    {
-      "chainId": 2818,
-      "address": "0x2b0bc6fbc3bf1bb654353b06ca4c41b4c5f588be",
-      "name": "iShares Gold Trust rStock",
-      "symbol": "RIAU",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/102177291/thumb/IAU.png?1789117433"
-    },
-    {
-      "chainId": 2818,
-      "address": "0xa484864e488d22cd1491504c80c6b60ae8f21c91",
-      "name": "iShares 7-10 Year Treasury Bond ETF rStock",
-      "symbol": "RIEF",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/102177292/thumb/IEF.png?1789117437"
-    },
-    {
-      "chainId": 2818,
       "address": "0x976b5e84800e41840f86fb00f5c20cb0d3792d33",
       "name": "Ishares Trust Core Msci Eafe ETF rStock",
       "symbol": "RIEFA",
@@ -2792,35 +2808,11 @@
     },
     {
       "chainId": 2818,
-      "address": "0xcf28ac937d8471b90cac29e48ad559c79452ca24",
-      "name": "iShares Core MSCI Emerging Markets ETF rStock",
-      "symbol": "RIEMG",
+      "address": "0x0afca6ad08fde9b815466899fefcd26089ecd906",
+      "name": "T-Rex 2X Inverse MSTR Daily Target ETF rStock",
+      "symbol": "RMSTZ",
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/102177294/thumb/IEMG.png?1789117443"
-    },
-    {
-      "chainId": 2818,
-      "address": "0xfbe6688110ab76b4d77348b04030717cf72ff75a",
-      "name": "iShares Core S&P Mid-Cap ETF rStock",
-      "symbol": "RIJH",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/102177295/thumb/IJH.png?1789117447"
-    },
-    {
-      "chainId": 2818,
-      "address": "0x7167c16b1e489919b780be257a51a0667a1087b7",
-      "name": "Franklin Income Equity Focus ETF rStock",
-      "symbol": "RINCE",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/102177296/thumb/INCE.png?1789117450"
-    },
-    {
-      "chainId": 2818,
-      "address": "0x0ffc55a6d671308c7c8cadc3d33ff82fa95e399d",
-      "name": "iShares US Aerospace & Defense ETF rStock",
-      "symbol": "RITA",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/102177297/thumb/ITA.png?1789117453"
+      "logoURI": "https://assets.coingecko.com/coins/images/102177255/thumb/eceffb0e995429bffeb549accb2118f9.png?1789117315"
     },
     {
       "chainId": 2818,
@@ -2832,51 +2824,27 @@
     },
     {
       "chainId": 2818,
-      "address": "0x9743c566f9e207a51ae443aaf3e9344f63006ebc",
-      "name": "iShares Core S&P 500 ETF rStock",
-      "symbol": "RIVV",
+      "address": "0xfbe6688110ab76b4d77348b04030717cf72ff75a",
+      "name": "iShares Core S&P Mid-Cap ETF rStock",
+      "symbol": "RIJH",
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/102177299/thumb/IVV.png?1789117460"
+      "logoURI": "https://assets.coingecko.com/coins/images/102177295/thumb/IJH.png?1789117447"
     },
     {
       "chainId": 2818,
-      "address": "0xd94c8f679515e739ff9514f5a6e2af1299ab9ece",
-      "name": "Ishares Russell 1000 Growth ETF (IWF) rStock",
-      "symbol": "RIWF",
+      "address": "0x0ffc55a6d671308c7c8cadc3d33ff82fa95e399d",
+      "name": "iShares US Aerospace & Defense ETF rStock",
+      "symbol": "RITA",
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/102177300/thumb/IWF.png?1789117463"
+      "logoURI": "https://assets.coingecko.com/coins/images/102177297/thumb/ITA.png?1789117453"
     },
     {
       "chainId": 2818,
-      "address": "0x60c1ba209ffdad648015077acd4c28e9fc7f8c66",
-      "name": "iShares Russell 2000 ETF rStock",
-      "symbol": "RIWM",
+      "address": "0xcf28ac937d8471b90cac29e48ad559c79452ca24",
+      "name": "iShares Core MSCI Emerging Markets ETF rStock",
+      "symbol": "RIEMG",
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/102177301/thumb/IWM.png?1789117466"
-    },
-    {
-      "chainId": 2818,
-      "address": "0x0e22ef7ef9cc30534f6eb6e63e009098394d645d",
-      "name": "Ishares Russell 2000 Value ETF rStock",
-      "symbol": "RIWN",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/102177302/thumb/IWN.png?1789117470"
-    },
-    {
-      "chainId": 2818,
-      "address": "0xda416df651a92fb5b159f7bd993e64f4fa99f9f7",
-      "name": "Janus Henderson AAA CLO ETF rStock",
-      "symbol": "RJAAA",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/102177303/thumb/JAAA.png?1789117473"
-    },
-    {
-      "chainId": 2818,
-      "address": "0x6a97640d2cab70b11da57feafe5404a4d59cdcec",
-      "name": "VanEck Oil Services ETF rStock",
-      "symbol": "ROIH",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/102177304/thumb/OIH.png?1789117476"
+      "logoURI": "https://assets.coingecko.com/coins/images/102177294/thumb/IEMG.png?1789117443"
     },
     {
       "chainId": 2818,
@@ -2888,6 +2856,22 @@
     },
     {
       "chainId": 2818,
+      "address": "0x60c1ba209ffdad648015077acd4c28e9fc7f8c66",
+      "name": "iShares Russell 2000 ETF rStock",
+      "symbol": "RIWM",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/102177301/thumb/IWM.png?1789117466"
+    },
+    {
+      "chainId": 2818,
+      "address": "0x6a97640d2cab70b11da57feafe5404a4d59cdcec",
+      "name": "VanEck Oil Services ETF rStock",
+      "symbol": "ROIH",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/102177304/thumb/OIH.png?1789117476"
+    },
+    {
+      "chainId": 2818,
       "address": "0x81b8e7b5923637977f475fd4ee75cbce930036b1",
       "name": "Invesco Optimum Yield Diversified Commodity Strategy No K-1 ",
       "symbol": "RPDBC",
@@ -2896,35 +2880,11 @@
     },
     {
       "chainId": 2818,
-      "address": "0x3693ce2a6c7e7dd27f37eaae58b696364e0caec5",
-      "name": "Abrdn Platinum ETF Trust rStock",
-      "symbol": "RPPLT",
+      "address": "0xb2925097a3b9ad0103851c9481c20ade0dbdea32",
+      "name": "Tradr 2X Long ASTS Daily ETF rStock",
+      "symbol": "RASTX",
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/102177307/thumb/PPLT.png?1789117486"
-    },
-    {
-      "chainId": 2818,
-      "address": "0xea51e3276546dbb5ff215ad34f0dfeaf949000f7",
-      "name": "iShares 1-3 Year Treasury Bond ETF rStock",
-      "symbol": "RSHY",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/102177308/thumb/SHY.png?1789117490"
-    },
-    {
-      "chainId": 2818,
-      "address": "0x96bfcf8604ef54bc1aad9c8c7f561883ce7973ed",
-      "name": "iShares TIPS Bond ETF rStock",
-      "symbol": "RTIP",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/102177309/thumb/TIP.png?1789117493"
-    },
-    {
-      "chainId": 2818,
-      "address": "0xd56dce694472f8e027e2bf56bd4cfe6da3d71aae",
-      "name": "WisdomTree Floating Rate Treasury Fund rStock",
-      "symbol": "RUSFR",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/102177310/thumb/USFR.png?1789117496"
+      "logoURI": "https://assets.coingecko.com/coins/images/102177193/thumb/f410fb324abd5ef68210eff977761d2a.png?1789117117"
     },
     {
       "chainId": 2818,
@@ -2936,19 +2896,11 @@
     },
     {
       "chainId": 2818,
-      "address": "0xc48e14d19ed66e9242202b93d37abf4f1afa23ec",
-      "name": "Vanguard Value ETF rStock",
-      "symbol": "RVTV",
+      "address": "0xea51e3276546dbb5ff215ad34f0dfeaf949000f7",
+      "name": "iShares 1-3 Year Treasury Bond ETF rStock",
+      "symbol": "RSHY",
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/102177312/thumb/VTV.png?1789117503"
-    },
-    {
-      "chainId": 2818,
-      "address": "0xb7268b0276f2698a1597b92a50e0aa7462f566b3",
-      "name": "Vanguard Real Estate ETF rStock",
-      "symbol": "RVNQ",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/102177313/thumb/VNQ.png?1789117506"
+      "logoURI": "https://assets.coingecko.com/coins/images/102177308/thumb/SHY.png?1789117490"
     },
     {
       "chainId": 2818,
@@ -2989,14 +2941,6 @@
       "symbol": "RBLK",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/102177319/thumb/6762645b05085c5605bf15a2f35794bb.png?1789117526"
-    },
-    {
-      "chainId": 2818,
-      "address": "0x53336b4f78c68c16a37d64d63590af340e50ee12",
-      "name": "Everpure rStock",
-      "symbol": "RPSTG",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/102177320/thumb/PSTG.png?1789117529"
     },
     {
       "chainId": 2818,
@@ -3056,19 +3000,11 @@
     },
     {
       "chainId": 2818,
-      "address": "0xb2e7dd1ecd0135c7d6e0fe1af0c172065ab81574",
-      "name": "The Technology Select Sector SPDR® Fund rStock",
-      "symbol": "RXLK",
+      "address": "0x3c484d08bb74db0b1644e4d518d0ed5ae67d39c5",
+      "name": "Tema Space Innovators ETF rStock",
+      "symbol": "RNASA",
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/102177328/thumb/cb1cad014cc29496bb13a347b6d456ea.png?1789117555"
-    },
-    {
-      "chainId": 2818,
-      "address": "0x7bfb90a7c04b19457dc71e3eccf4f629f9d3a036",
-      "name": "Utilities Select Sector SPDR Fund rStock",
-      "symbol": "RXLU",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/102177329/thumb/ce78c6b643c54c28ddcf6fae6a5ccc1f.png?1789117558"
+      "logoURI": "https://assets.coingecko.com/coins/images/102177194/thumb/237466957accd5b0abe79a2bc4a0cb5e.png?1789117121"
     },
     {
       "chainId": 2818,
@@ -3085,14 +3021,6 @@
       "symbol": "RWM",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/102177331/thumb/WM.png?1789117565"
-    },
-    {
-      "chainId": 2818,
-      "address": "0x88bd5c14d5d75adef0f82bcadee42758d62b7649",
-      "name": "Superior Group Enterprises (or Stanley Furniture / SGI) rSto",
-      "symbol": "RSGI",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/102177965/thumb/finnhub_logo20260911-1-7qy15w.png?1789121403"
     },
     {
       "chainId": 2818,
@@ -3200,11 +3128,11 @@
     },
     {
       "chainId": 2818,
-      "address": "0xfae5a3bb172ef2afe77ce92df8f89c6a6be16ba5",
-      "name": "Abrdn Palladium ETF Trust rStock",
-      "symbol": "RPALL",
+      "address": "0x7c2e673fc0d00a6bb5a56cac3689ba7dcdaffe3e",
+      "name": "Proshares Ultra CRC rStock",
+      "symbol": "RCRCA",
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/102177343/thumb/PALL.png?1789117605"
+      "logoURI": "https://assets.coingecko.com/coins/images/102177199/thumb/1067d8d2836f009992ab7939668f3736.png?1789117136"
     },
     {
       "chainId": 2818,
@@ -3221,14 +3149,6 @@
       "symbol": "ROSCR",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/102177345/thumb/OSCR.png?1789117612"
-    },
-    {
-      "chainId": 2818,
-      "address": "0xdf3dcea1a572ce0a0438f8430941715e3c1f66f9",
-      "name": "SPROTT NICKEL MINERS ETF rStock",
-      "symbol": "RNIKL",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/102177346/thumb/NIKL.png?1789117615"
     },
     {
       "chainId": 2818,
@@ -3349,14 +3269,6 @@
       "symbol": "RGE",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/102177361/thumb/GE.png?1789117664"
-    },
-    {
-      "chainId": 2818,
-      "address": "0x5d49b6ebb6a504dd8d7c8525db31085b641df11d",
-      "name": "Sprott Uranium Miners ETF rStock",
-      "symbol": "RURNM",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/102177362/thumb/URNM.png?1789117667"
     },
     {
       "chainId": 2818,
@@ -3485,14 +3397,6 @@
       "symbol": "RIBKR",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/102177378/thumb/IBKR.png?1789117721"
-    },
-    {
-      "chainId": 2818,
-      "address": "0x81bd6451123d5196e3b630d32ce1ea388acef8d4",
-      "name": "Welltower rStock",
-      "symbol": "RWELL",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/102177379/thumb/WELL.png?1789117724"
     },
     {
       "chainId": 2818,
@@ -4848,11 +4752,11 @@
     },
     {
       "chainId": 2818,
-      "address": "0x836286d88449d6abfb2e08dc375627b4007e6dc3",
-      "name": "NASDAQ-100 HIGH INCOME ETF rStock",
-      "symbol": "RIQQQ",
+      "address": "0x841c7f0f5bfee1009b8bd4708346f4da24652ce3",
+      "name": "Vanguard Information Technology ETF rStock",
+      "symbol": "RVGT",
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/102177744/thumb/finnhub_logo20260911-1-axdas2.png?1789120726"
+      "logoURI": "https://assets.coingecko.com/coins/images/102177233/thumb/8c4abfc4925fcc1fa18439d5040f8861.png?1789117246"
     },
     {
       "chainId": 2818,
@@ -5254,22 +5158,6 @@
     },
     {
       "chainId": 2818,
-      "address": "0x54edc8f3c62116b621867809a0c69e6c9b4ec4b2",
-      "name": "Koninklijke Philips NV rStock",
-      "symbol": "RALC",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/102177795/thumb/finnhub_logo20260911-1-bz8tkg.png?1789120882"
-    },
-    {
-      "chainId": 2818,
-      "address": "0x3da4f9dbcda7eafce4510ca676d6b2e344af3a02",
-      "name": "B3 SA - BRASIL, BOLSA, BALCAO rStock",
-      "symbol": "RBBDO",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/102177796/thumb/finnhub_logo20260911-1-qh5al.png?1789120885"
-    },
-    {
-      "chainId": 2818,
       "address": "0xa5b90375a3972c731401e2e89f0d876bbc1b012c",
       "name": "Venture Global LNG Inc rStock",
       "symbol": "RVG",
@@ -5326,14 +5214,6 @@
     },
     {
       "chainId": 2818,
-      "address": "0x75d6c010e6cf3d4b27d5c1d021d9ad957ba8ffde",
-      "name": "Cinemark Holdings Inc rStock",
-      "symbol": "REXR",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/102177804/thumb/finnhub_logo20260911-1-eapoc7.png?1789120909"
-    },
-    {
-      "chainId": 2818,
       "address": "0x15141b8cdbc954a44c5ad5debee45f257b6e0ae2",
       "name": "Las Vegas Sands Corp rStock",
       "symbol": "RLVS",
@@ -5347,14 +5227,6 @@
       "symbol": "RGFI",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/102177806/thumb/finnhub_logo20260911-1-ydiehw.png?1789120919"
-    },
-    {
-      "chainId": 2818,
-      "address": "0xc5c6e11735e0de9f571483c31258755cdec5b2e9",
-      "name": "Qnity Electronics / Qorvo rStock",
-      "symbol": "RQ",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/102177807/thumb/finnhub_logo20260911-1-nkbs2b.png?1789120922"
     },
     {
       "chainId": 2818,
@@ -5502,14 +5374,6 @@
     },
     {
       "chainId": 2818,
-      "address": "0xff2a6216e862ca63749855fb6bb0c415099e9542",
-      "name": "F5, Inc. rStock",
-      "symbol": "RPHG",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/102177826/thumb/finnhub_logo20260911-1-fcgs37.png?1789120980"
-    },
-    {
-      "chainId": 2818,
       "address": "0x90bfa9593b97938db3f5243283b9f0c548cd539a",
       "name": "American Water Works Company, Inc. rStock",
       "symbol": "RAWK",
@@ -5555,14 +5419,6 @@
       "symbol": "RATI",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/102177832/thumb/finnhub_logo20260911-1-asnv29.png?1789120999"
-    },
-    {
-      "chainId": 2818,
-      "address": "0x19515b1c2be5b8562cefbc164a01197f4e360045",
-      "name": "Everpure (or Pandora Music / Pentair) rStock",
-      "symbol": "RP",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/102177833/thumb/finnhub_logo20260911-1-zk05ho.png?1789121002"
     },
     {
       "chainId": 2818,
@@ -5715,14 +5571,6 @@
       "symbol": "RDGX",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/102177852/thumb/finnhub_logo20260911-1-y4yko7.png?1789121060"
-    },
-    {
-      "chainId": 2818,
-      "address": "0x9694c5836c21a04f25a3d2d660f99d1b5c113978",
-      "name": "Verint Systems Inc. rStock",
-      "symbol": "RVLTO",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/102177853/thumb/finnhub_logo20260911-1-ra40io.png?1789121063"
     },
     {
       "chainId": 2818,
@@ -6203,14 +6051,6 @@
       "symbol": "RNVR",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/102177913/thumb/finnhub_logo20260911-1-3msgzd.png?1789121246"
-    },
-    {
-      "chainId": 2818,
-      "address": "0x4f78bb2de34828b0c7b273fc6e33d8c72c94c5b0",
-      "name": "Arxis Aerospace / Defense rStock",
-      "symbol": "RARXS",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/102177914/thumb/finnhub_logo20260911-1-tgv2dn.png?1789121249"
     },
     {
       "chainId": 2818,
@@ -6802,14 +6642,6 @@
       "symbol": "REQH",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/102178029/thumb/finnhub_logo20260911-1-y9kbf5.png?1789121601"
-    },
-    {
-      "chainId": 2818,
-      "address": "0xf2068b843b1491d77b47accce2725f641922c697",
-      "name": "Forgent Power Solutions / Forgent Corp rStock",
-      "symbol": "RFPS",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/102178030/thumb/finnhub_logo20260911-1-m1gn4i.png?1789121604"
     },
     {
       "chainId": 2818,
@@ -7453,14 +7285,6 @@
     },
     {
       "chainId": 2818,
-      "address": "0x4b7cd0fe146e9c1726ccb2529fe7c320e8bdd1f3",
-      "name": "PhenomeX Inc. / Luminex (MICC) rStock",
-      "symbol": "RMICC",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/102178111/thumb/finnhub_logo20260911-1-1mjyh4.png?1789121861"
-    },
-    {
-      "chainId": 2818,
       "address": "0x2f5613e6ed6a5bc883ee733f91b76ea57a6408b9",
       "name": "Murphy USA Inc. rStock",
       "symbol": "RMUSA",
@@ -7973,14 +7797,6 @@
     },
     {
       "chainId": 2818,
-      "address": "0x50872138a60c8106e0122d8428380495b55189e1",
-      "name": "Solstice Advanced Materials (formerly Chemours spin/specialt",
-      "symbol": "RSOLS",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/102178176/thumb/finnhub_logo20260911-1-v52ebj.png?1789122072"
-    },
-    {
-      "chainId": 2818,
       "address": "0x11fce17a22f9a2f76c0fe5a5bd39036ad4545f42",
       "name": "Primerica, Inc. rStock",
       "symbol": "RPRI",
@@ -8405,14 +8221,6 @@
     },
     {
       "chainId": 2818,
-      "address": "0x1ecf88be52ed7b0d4653f76d1f8e4ae5177e31a7",
-      "name": "Alkermes plc rStock",
-      "symbol": "RALKS",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/102178230/thumb/finnhub_logo20260911-1-nyy1la.png?1789122247"
-    },
-    {
-      "chainId": 2818,
       "address": "0xc7a414433433b2dc7bfccb94b028fe75f45356bb",
       "name": "Primo Water Corporation rStock",
       "symbol": "RPRMB",
@@ -8442,11 +8250,115 @@
       "symbol": "RNAKA",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/102178234/thumb/finnhub_logo20260911-1-ofv50b.png?1789122260"
+    },
+    {
+      "chainId": 2818,
+      "address": "0x96bfcf8604ef54bc1aad9c8c7f561883ce7973ed",
+      "name": "iShares TIPS Bond ETF rStock",
+      "symbol": "RTIP",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/102177309/thumb/TIP.png?1789117493"
+    },
+    {
+      "chainId": 2818,
+      "address": "0xb4bb7c8a6f6c6e75b1f8f13b7c129ca849d0e6e7",
+      "name": "VanEck Semiconductor ETF rStock",
+      "symbol": "RSMH",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/102177231/thumb/8212fc1ac945a7feec1ce7f43287ed67.png?1789117239"
+    },
+    {
+      "chainId": 2818,
+      "address": "0x4224d4ffb805091f024d11122a60b193cd29ee19",
+      "name": "United States Natural Gas rStock",
+      "symbol": "RUNG",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/102177180/thumb/7c6de662539489153ff491d124d375b9.png?1789117075"
+    },
+    {
+      "chainId": 2818,
+      "address": "0xc43ae09f24903da0bfa84b043b90ff4f80c89705",
+      "name": "iShares Silver Trust rStock",
+      "symbol": "RSLV",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/102177181/thumb/1b59e66a9292825e499c09fbf15cf087.png?1789117078"
+    },
+    {
+      "chainId": 2818,
+      "address": "0x6247d8c1fc87111b6ea310d05eb4c3bba2f2a391",
+      "name": "iShares China Large-Cap ETF rStock",
+      "symbol": "RFXI",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/102177139/thumb/1b59e66a9292825e499c09fbf15cf087.png?1789116952"
+    },
+    {
+      "chainId": 2818,
+      "address": "0xaf2e56d0b27e819d24a6d3638a609e5a129b2c63",
+      "name": "SPDR S&P 500 ETF rStock",
+      "symbol": "RSPY",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/102176983/thumb/0643c36540602eba0ce8d51dcdcffe33.png?1789116235"
+    },
+    {
+      "chainId": 2818,
+      "address": "0x7bfb90a7c04b19457dc71e3eccf4f629f9d3a036",
+      "name": "Utilities Select Sector SPDR Fund rStock",
+      "symbol": "RXLU",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/102177329/thumb/ce78c6b643c54c28ddcf6fae6a5ccc1f.png?1789117558"
+    },
+    {
+      "chainId": 2818,
+      "address": "0xdf3dcea1a572ce0a0438f8430941715e3c1f66f9",
+      "name": "SPROTT NICKEL MINERS ETF rStock",
+      "symbol": "RNIKL",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/102177346/thumb/NIKL.png?1789117615"
+    },
+    {
+      "chainId": 2818,
+      "address": "0x5d49b6ebb6a504dd8d7c8525db31085b641df11d",
+      "name": "Sprott Uranium Miners ETF rStock",
+      "symbol": "RURNM",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/102177362/thumb/URNM.png?1789117667"
+    },
+    {
+      "chainId": 2818,
+      "address": "0x1ecf88be52ed7b0d4653f76d1f8e4ae5177e31a7",
+      "name": "Alkermes plc rStock",
+      "symbol": "RALKS",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/102178230/thumb/finnhub_logo20260911-1-nyy1la.png?1789122247"
+    },
+    {
+      "chainId": 2818,
+      "address": "0x81bd6451123d5196e3b630d32ce1ea388acef8d4",
+      "name": "Welltower rStock",
+      "symbol": "RWELL",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/102177379/thumb/WELL.png?1789117724"
+    },
+    {
+      "chainId": 2818,
+      "address": "0x4f78bb2de34828b0c7b273fc6e33d8c72c94c5b0",
+      "name": "Arxis rStock",
+      "symbol": "RARXS",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/102177914/thumb/finnhub_logo20260911-1-tgv2dn.png?1789121249"
+    },
+    {
+      "chainId": 2818,
+      "address": "0xf2068b843b1491d77b47accce2725f641922c697",
+      "name": "Forgent Power Solutions rStock",
+      "symbol": "RFPS",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/102178030/thumb/finnhub_logo20260911-1-m1gn4i.png?1789121604"
     }
   ],
   "version": {
-    "major": 4,
-    "minor": 4,
+    "major": 8,
+    "minor": 0,
     "patch": 0
   }
 }
