@@ -4,16 +4,8 @@
   "keywords": [
     "defi"
   ],
-  "timestamp": "2026-08-14T03:03:34.733+00:00",
+  "timestamp": "2026-10-01T07:05:54.132+00:00",
   "tokens": [
-    {
-      "chainId": 43111,
-      "address": "0x4200000000000000000000000000000000000006",
-      "name": "Hemi Bridged WETH (Hemi)",
-      "symbol": "WETH",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/67025/thumb/weth_2.jpg?1751514061"
-    },
     {
       "chainId": 43111,
       "address": "0x6a9a65b84843f5fd4ac9a0471c4fc11afffbce4a",
@@ -21,6 +13,14 @@
       "symbol": "ENZOBTC",
       "decimals": 8,
       "logoURI": "https://assets.coingecko.com/coins/images/54447/thumb/enzo_btc.png?1739773963"
+    },
+    {
+      "chainId": 43111,
+      "address": "0x4200000000000000000000000000000000000006",
+      "name": "Hemi Bridged WETH (Hemi)",
+      "symbol": "WETH",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/67025/thumb/weth_2.jpg?1751514061"
     },
     {
       "chainId": 43111,
@@ -117,11 +117,19 @@
       "symbol": "UNIBTC",
       "decimals": 8,
       "logoURI": "https://assets.coingecko.com/coins/images/39599/thumb/uniBTC_200px.png?1723064455"
+    },
+    {
+      "chainId": 43111,
+      "address": "0xd3599ae62ee280709a22268a46d23164214e345b",
+      "name": "Vetro USD",
+      "symbol": "VUSD",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/16253/thumb/VUSD-tokenLogo.png?1776433851"
     }
   ],
   "version": {
     "major": 6,
-    "minor": 0,
+    "minor": 1,
     "patch": 0
   }
 }

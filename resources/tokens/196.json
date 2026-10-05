@@ -4,8 +4,16 @@
   "keywords": [
     "defi"
   ],
-  "timestamp": "2026-09-26T08:01:20.848+00:00",
+  "timestamp": "2026-09-30T09:01:17.857+00:00",
   "tokens": [
+    {
+      "chainId": 196,
+      "address": "0xe538905cf8410324e03a5a23c1c177a474d59b2b",
+      "name": "Wrapped OKB",
+      "symbol": "WOKB",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/37278/thumb/okb.png?1713935642"
+    },
     {
       "chainId": 196,
       "address": "0x5a77f1443d16ee5761d310e38b62f77f726bc71c",
@@ -13,86 +21,6 @@
       "symbol": "WETH",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/38360/thumb/weth.png?1717175703"
-    },
-    {
-      "chainId": 196,
-      "address": "0x8e2eed8b8b5e13ea7bf38e50d7821d2c57309072",
-      "name": "Wrapped SpaceX xStock",
-      "symbol": "WSPCXX",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/102175318/thumb/wrapped_spacex.webp?1786090858"
-    },
-    {
-      "chainId": 196,
-      "address": "0x16d91d1615fc55b76d5f92365bd60c069b46ef78",
-      "name": "Banmao",
-      "symbol": "BANMAO",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/69235/thumb/IMG_5838.jpeg?1757948256"
-    },
-    {
-      "chainId": 196,
-      "address": "0xe7b000003a45145decf8a28fc755ad5ec5ea025a",
-      "name": "OKX Wrapped ETH",
-      "symbol": "XETH",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/71719/thumb/xeth.png?1769060815"
-    },
-    {
-      "chainId": 196,
-      "address": "0x75e82e2884ea10f72fca777449b73377f4646219",
-      "name": "Wrapped Sandisk Corporation xStock",
-      "symbol": "WSNDKX",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/102175320/thumb/wrapped_sandisk.webp?1786091282"
-    },
-    {
-      "chainId": 196,
-      "address": "0x505000008de8748dbd4422ff4687a4fc9beba15b",
-      "name": "OKX Wrapped SOL",
-      "symbol": "XSOL",
-      "decimals": 9,
-      "logoURI": "https://assets.coingecko.com/coins/images/71715/thumb/okxsol.png?1769055437"
-    },
-    {
-      "chainId": 196,
-      "address": "0xb11134f14d5b94db60d4599dfdc3bf1bba2150e8",
-      "name": "Wrapped Circle xStock",
-      "symbol": "WCRCLX",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/102175317/thumb/wrapped_circl.webp?1786090416"
-    },
-    {
-      "chainId": 196,
-      "address": "0xa7bc49339b416c310f0c0d9a8e6aaa0d71178696",
-      "name": "DOGSHIT",
-      "symbol": "DOGSHIT",
-      "decimals": 1,
-      "logoURI": "https://assets.coingecko.com/coins/images/68818/thumb/logo_%281%29.png?1756872888"
-    },
-    {
-      "chainId": 196,
-      "address": "0x6215a58ed045d71f2561aaabe54f4c885c522998",
-      "name": "Wrapped SK hynix xStock",
-      "symbol": "WSKHYX",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/102175319/thumb/wrapped_skhynix.webp?1786091091"
-    },
-    {
-      "chainId": 196,
-      "address": "0xfdc4a45a4bf53957b2c73b1ff323d8cbe39118dd",
-      "name": "TITAN",
-      "symbol": "TITAN",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/102171883/thumb/04478B9E-9666-4B71-837D-545D0028C708.png?1770218770"
-    },
-    {
-      "chainId": 196,
-      "address": "0x74b7f16337b8972027f6196a17a631ac6de26d22",
-      "name": "Polygon Hermez Bridged USDC (X Layer)",
-      "symbol": "USDC",
-      "decimals": 6,
-      "logoURI": "https://assets.coingecko.com/coins/images/37201/thumb/USDC.png?1713718345"
     },
     {
       "chainId": 196,
@@ -104,11 +32,107 @@
     },
     {
       "chainId": 196,
+      "address": "0x16d91d1615fc55b76d5f92365bd60c069b46ef78",
+      "name": "Banmao",
+      "symbol": "BANMAO",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/69235/thumb/IMG_5838.jpeg?1757948256"
+    },
+    {
+      "chainId": 196,
+      "address": "0xfdc4a45a4bf53957b2c73b1ff323d8cbe39118dd",
+      "name": "TITAN",
+      "symbol": "TITAN",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/102171883/thumb/04478B9E-9666-4B71-837D-545D0028C708.png?1770218770"
+    },
+    {
+      "chainId": 196,
+      "address": "0xe7b000003a45145decf8a28fc755ad5ec5ea025a",
+      "name": "OKX Wrapped ETH",
+      "symbol": "XETH",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/71719/thumb/xeth.png?1769060815"
+    },
+    {
+      "chainId": 196,
+      "address": "0x076cf393e701839fc7a5832d2c68aafa235682ae",
+      "name": "Wrapped Xiaomi xStock",
+      "symbol": "WXIAOX",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/102178941/thumb/xiaomix.png?1790739113"
+    },
+    {
+      "chainId": 196,
+      "address": "0x74b7f16337b8972027f6196a17a631ac6de26d22",
+      "name": "Polygon Hermez Bridged USDC (X Layer)",
+      "symbol": "USDC",
+      "decimals": 6,
+      "logoURI": "https://assets.coingecko.com/coins/images/37201/thumb/USDC.png?1713718345"
+    },
+    {
+      "chainId": 196,
+      "address": "0x75e82e2884ea10f72fca777449b73377f4646219",
+      "name": "Wrapped Sandisk Corporation xStock",
+      "symbol": "WSNDKX",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/102175320/thumb/wrapped_sandisk.webp?1786091282"
+    },
+    {
+      "chainId": 196,
+      "address": "0x6215a58ed045d71f2561aaabe54f4c885c522998",
+      "name": "Wrapped SK hynix xStock",
+      "symbol": "WSKHYX",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/102175319/thumb/wrapped_skhynix.webp?1786091091"
+    },
+    {
+      "chainId": 196,
+      "address": "0xa7bc49339b416c310f0c0d9a8e6aaa0d71178696",
+      "name": "DOGSHIT",
+      "symbol": "DOGSHIT",
+      "decimals": 1,
+      "logoURI": "https://assets.coingecko.com/coins/images/68818/thumb/logo_%281%29.png?1756872888"
+    },
+    {
+      "chainId": 196,
+      "address": "0xb11134f14d5b94db60d4599dfdc3bf1bba2150e8",
+      "name": "Wrapped Circle xStock",
+      "symbol": "WCRCLX",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/102175317/thumb/wrapped_circl.webp?1786090416"
+    },
+    {
+      "chainId": 196,
+      "address": "0x4ebf5fd25b02022afad96e2fa25da54a246fded0",
+      "name": "Wrapped Pop Mart International xStock",
+      "symbol": "WPOPMTX",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/102178940/thumb/wpopmtx.png?1790738764"
+    },
+    {
+      "chainId": 196,
+      "address": "0x41333df9e7639188bbfca5522dc4844398af9f9e",
+      "name": "Wrapped Tencent xStock",
+      "symbol": "WTCENTX",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/102178901/thumb/wtencentx.png?1790671429"
+    },
+    {
+      "chainId": 196,
       "address": "0x4fec966f98d8530507787d947d1ab24fa145a999",
       "name": "LAIKA Coin",
       "symbol": "LAIKA",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/102175768/thumb/1000064428.jpg?1787481100"
+    },
+    {
+      "chainId": 196,
+      "address": "0x505000008de8748dbd4422ff4687a4fc9beba15b",
+      "name": "OKX Wrapped SOL",
+      "symbol": "XSOL",
+      "decimals": 9,
+      "logoURI": "https://assets.coingecko.com/coins/images/71715/thumb/okxsol.png?1769055437"
     },
     {
       "chainId": 196,
@@ -120,19 +144,19 @@
     },
     {
       "chainId": 196,
+      "address": "0x8e2eed8b8b5e13ea7bf38e50d7821d2c57309072",
+      "name": "Wrapped SpaceX xStock",
+      "symbol": "WSPCXX",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/102175318/thumb/wrapped_spacex.webp?1786090858"
+    },
+    {
+      "chainId": 196,
       "address": "0x4d87750a795b0ae310a24349fa9108585100a90e",
       "name": "HOW TO FLY",
       "symbol": "PUFF",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/38331/thumb/PUFF.jpg?1717098970"
-    },
-    {
-      "chainId": 196,
-      "address": "0xe538905cf8410324e03a5a23c1c177a474d59b2b",
-      "name": "Wrapped OKB",
-      "symbol": "WOKB",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/37278/thumb/okb.png?1713935642"
     },
     {
       "chainId": 196,
@@ -429,6 +453,14 @@
       "symbol": "USDG",
       "decimals": 6,
       "logoURI": "https://assets.coingecko.com/coins/images/51281/thumb/GDN_USDG_Token_200x200.png?1730484111"
+    },
+    {
+      "chainId": 196,
+      "address": "0x6c6494fd9962eb98b94ffa48f6679058f820700e",
+      "name": "PAXGy",
+      "symbol": "PAXGY",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/102178902/thumb/paxgy.png?1790673490"
     },
     {
       "chainId": 196,
@@ -6244,7 +6276,7 @@
   ],
   "version": {
     "major": 29,
-    "minor": 0,
+    "minor": 4,
     "patch": 0
   }
 }

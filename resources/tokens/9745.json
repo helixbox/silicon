@@ -4,16 +4,8 @@
   "keywords": [
     "defi"
   ],
-  "timestamp": "2026-08-29T14:00:03.685+00:00",
+  "timestamp": "2026-10-01T07:00:58.008+00:00",
   "tokens": [
-    {
-      "chainId": 9745,
-      "address": "0xc4374775489cb9c56003bf2c9b12495fc64f0771",
-      "name": "syrupUSDT",
-      "symbol": "SYRUPUSDT",
-      "decimals": 6,
-      "logoURI": "https://assets.coingecko.com/coins/images/69514/thumb/syrupUSDT.png?1761824990"
-    },
     {
       "chainId": 9745,
       "address": "0x22222215d4edc5510d23d0886133e7ece7f5fdc1",
@@ -24,35 +16,27 @@
     },
     {
       "chainId": 9745,
-      "address": "0x133a09dd6169f6f0509658a911f2a82fc8ab6a0d",
-      "name": "Ionex Token",
-      "symbol": "INX",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/70089/thumb/tokenLogo.png?1760540852"
-    },
-    {
-      "chainId": 9745,
-      "address": "0xebfc8c2fe73c431ef2a371aea9132110aab50dca",
-      "name": "Yuzu Protection Pool",
-      "symbol": "YZPP",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/71043/thumb/yzPP_%281%29.png?1765442029"
-    },
-    {
-      "chainId": 9745,
-      "address": "0x6695c0f8706c5ace3bdf8995073179cca47926dc",
-      "name": "Yuzu USD",
-      "symbol": "YZUSD",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/70558/thumb/yzusd.png?1762518733"
-    },
-    {
-      "chainId": 9745,
       "address": "0xe0126f0c4451b2b917064a93040fd4770d6774b5",
       "name": "Wrapped Aave Plasma USDT0",
       "symbol": "WAPLAUSDT0",
       "decimals": 6,
       "logoURI": "https://assets.coingecko.com/coins/images/69597/thumb/waplasusdt0.png?1759197676"
+    },
+    {
+      "chainId": 9745,
+      "address": "0x888888bab58a7bd3068110749bc7b63b62ce874d",
+      "name": "Staked chUSD",
+      "symbol": "SCHUSD",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/71635/thumb/schusd.png?1768641802"
+    },
+    {
+      "chainId": 9745,
+      "address": "0x133a09dd6169f6f0509658a911f2a82fc8ab6a0d",
+      "name": "Ionex Token",
+      "symbol": "INX",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/70089/thumb/tokenLogo.png?1760540852"
     },
     {
       "chainId": 9745,
@@ -72,11 +56,27 @@
     },
     {
       "chainId": 9745,
-      "address": "0x888888bab58a7bd3068110749bc7b63b62ce874d",
-      "name": "Staked chUSD",
-      "symbol": "SCHUSD",
+      "address": "0x6695c0f8706c5ace3bdf8995073179cca47926dc",
+      "name": "Yuzu USD",
+      "symbol": "YZUSD",
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/71635/thumb/schusd.png?1768641802"
+      "logoURI": "https://assets.coingecko.com/coins/images/70558/thumb/yzusd.png?1762518733"
+    },
+    {
+      "chainId": 9745,
+      "address": "0xebfc8c2fe73c431ef2a371aea9132110aab50dca",
+      "name": "Yuzu Protection Pool",
+      "symbol": "YZPP",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/71043/thumb/yzPP_%281%29.png?1765442029"
+    },
+    {
+      "chainId": 9745,
+      "address": "0xc4374775489cb9c56003bf2c9b12495fc64f0771",
+      "name": "syrupUSDT",
+      "symbol": "SYRUPUSDT",
+      "decimals": 6,
+      "logoURI": "https://assets.coingecko.com/coins/images/69514/thumb/syrupUSDT.png?1790836031"
     },
     {
       "chainId": 9745,
@@ -306,6 +306,6 @@
   "version": {
     "major": 11,
     "minor": 1,
-    "patch": 0
+    "patch": 1
   }
 }
