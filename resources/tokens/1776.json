@@ -4,23 +4,23 @@
   "keywords": [
     "defi"
   ],
-  "timestamp": "2026-09-24T04:02:54.786+00:00",
+  "timestamp": "2026-10-16T04:05:05.673+00:00",
   "tokens": [
     {
       "chainId": 1776,
-      "address": "inj18flmwwaxxqj8m8l5zl8xhjrnah98fcjp3gcy3e/XIII",
-      "name": "XIIICOIN",
-      "symbol": "XIII",
+      "address": "factory/inj1etz0laas6h7vemg3qtd67jpr6lh8v7xz7gfzqw/hdro",
+      "name": "Hydro Protocol",
+      "symbol": "HDRO",
       "decimals": 6,
-      "logoURI": "https://assets.coingecko.com/coins/images/37220/thumb/XIII-LOGO_2.1mb.png?1732459486"
+      "logoURI": "https://assets.coingecko.com/coins/images/36110/thumb/Hydro_logo_200x200.png?1710486646"
     },
     {
       "chainId": 1776,
-      "address": "factory/inj1xtel2knkt8hmc9dnzpjz6kdmacgcfmlv5f308w/ninja",
-      "name": "Dog Wif Nunchucks",
-      "symbol": "NINJA",
-      "decimals": 6,
-      "logoURI": "https://assets.coingecko.com/coins/images/33761/thumb/NinjaLogoResized.png?1706179533"
+      "address": "factory/inj13j2rpnlwl30c02d4pzukykwfeyyhelvry9cqte/shroom_0_3b4d31d5571b97db",
+      "name": "MOTION",
+      "symbol": "MOTION",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/102176494/thumb/motion-avatar-2048-sharp.png?1787899860"
     },
     {
       "chainId": 1776,
@@ -32,43 +32,19 @@
     },
     {
       "chainId": 1776,
-      "address": "ibc/4971C5E4786D5995EC7EF894FCFA9CF2E127E95D5D53A982F6A062F3F410EDB8",
-      "name": "Levana",
-      "symbol": "LVN",
-      "decimals": 6,
-      "logoURI": "https://assets.coingecko.com/coins/images/33427/thumb/levana-token-icon_%281%29.png?1701819338"
-    },
-    {
-      "chainId": 1776,
-      "address": "factory/inj1etz0laas6h7vemg3qtd67jpr6lh8v7xz7gfzqw/hdro",
-      "name": "Hydro Protocol",
-      "symbol": "HDRO",
-      "decimals": 6,
-      "logoURI": "https://assets.coingecko.com/coins/images/36110/thumb/Hydro_logo_200x200.png?1710486646"
-    },
-    {
-      "chainId": 1776,
-      "address": "peggy0xdAC17F958D2ee523a2206206994597C13D831ec7",
-      "name": "Injective Bridged USDT (Injective)",
-      "symbol": "USDT",
-      "decimals": 6,
-      "logoURI": "https://assets.coingecko.com/coins/images/68489/thumb/usdt.jpg?1755925642"
-    },
-    {
-      "chainId": 1776,
-      "address": "factory/inj127l5a2wmkyvucxdlupqyac3y0v6wqfhq03ka64/qunt",
-      "name": "Injective Quants",
-      "symbol": "QUNT",
-      "decimals": 6,
-      "logoURI": "https://assets.coingecko.com/coins/images/37868/thumb/pfp.png?1730240353"
-    },
-    {
-      "chainId": 1776,
       "address": "factory/inj1xy3kvlr4q4wdd6lrelsrw2fk2ged0any44hhwq/KIRA",
       "name": "Kira the Injective Cat",
       "symbol": "KIRA",
       "decimals": 6,
       "logoURI": "https://assets.coingecko.com/coins/images/33755/thumb/KIRA_LOGO_1500x1500.png?1719881603"
+    },
+    {
+      "chainId": 1776,
+      "address": "inj18flmwwaxxqj8m8l5zl8xhjrnah98fcjp3gcy3e/XIII",
+      "name": "XIIICOIN",
+      "symbol": "XIII",
+      "decimals": 6,
+      "logoURI": "https://assets.coingecko.com/coins/images/37220/thumb/XIII-LOGO_2.1mb.png?1732459486"
     },
     {
       "chainId": 1776,
@@ -80,6 +56,22 @@
     },
     {
       "chainId": 1776,
+      "address": "peggy0xdAC17F958D2ee523a2206206994597C13D831ec7",
+      "name": "Injective Bridged USDT (Injective)",
+      "symbol": "USDT",
+      "decimals": 6,
+      "logoURI": "https://assets.coingecko.com/coins/images/68489/thumb/usdt.jpg?1755925642"
+    },
+    {
+      "chainId": 1776,
+      "address": "ibc/4971C5E4786D5995EC7EF894FCFA9CF2E127E95D5D53A982F6A062F3F410EDB8",
+      "name": "Levana",
+      "symbol": "LVN",
+      "decimals": 6,
+      "logoURI": "https://assets.coingecko.com/coins/images/33427/thumb/levana-token-icon_%281%29.png?1701819338"
+    },
+    {
+      "chainId": 1776,
       "address": "inj1n73yuus64z0yrda9hvn77twkspc4uste9j9ydd",
       "name": "Sushi Fighter",
       "symbol": "$SUSHI",
@@ -88,11 +80,19 @@
     },
     {
       "chainId": 1776,
-      "address": "factory/inj13j2rpnlwl30c02d4pzukykwfeyyhelvry9cqte/shroom_0_3b4d31d5571b97db",
-      "name": "MOTION",
-      "symbol": "MOTION",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/102176494/thumb/motion-avatar-2048-sharp.png?1787899860"
+      "address": "factory/inj1xtel2knkt8hmc9dnzpjz6kdmacgcfmlv5f308w/ninja",
+      "name": "Dog Wif Nunchucks",
+      "symbol": "NINJA",
+      "decimals": 6,
+      "logoURI": "https://assets.coingecko.com/coins/images/33761/thumb/NinjaLogoResized.png?1706179533"
+    },
+    {
+      "chainId": 1776,
+      "address": "factory/inj127l5a2wmkyvucxdlupqyac3y0v6wqfhq03ka64/qunt",
+      "name": "Injective Quants",
+      "symbol": "QUNT",
+      "decimals": 6,
+      "logoURI": "https://assets.coingecko.com/coins/images/37868/thumb/pfp.png?1730240353"
     },
     {
       "chainId": 1776,
@@ -117,6 +117,22 @@
       "symbol": "TALIS",
       "decimals": 6,
       "logoURI": "https://assets.coingecko.com/coins/images/33380/thumb/28715.png?1702661851"
+    },
+    {
+      "chainId": 1776,
+      "address": "inj",
+      "name": "Injective",
+      "symbol": "INJ",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/12882/thumb/Other_200x200.png?1738782212"
+    },
+    {
+      "chainId": 1776,
+      "address": "factory/inj1d036ftaatxpkqsu9hja8r24rv3v33chz3appxp/soda",
+      "name": "SODAX",
+      "symbol": "SODA",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/55710/thumb/sodax.jpg?1747127833"
     },
     {
       "chainId": 1776,
@@ -165,19 +181,11 @@
       "symbol": "USDC",
       "decimals": 6,
       "logoURI": "https://assets.coingecko.com/coins/images/6319/thumb/USDC.png?1769615602"
-    },
-    {
-      "chainId": 1776,
-      "address": "factory/inj1d036ftaatxpkqsu9hja8r24rv3v33chz3appxp/soda",
-      "name": "SODAX",
-      "symbol": "SODA",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/55710/thumb/sodax.jpg?1747127833"
     }
   ],
   "version": {
     "major": 9,
-    "minor": 4,
-    "patch": 1
+    "minor": 5,
+    "patch": 0
   }
 }
