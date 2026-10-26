@@ -4,8 +4,16 @@
   "keywords": [
     "defi"
   ],
-  "timestamp": "2026-07-10T03:00:12.168+00:00",
+  "timestamp": "2026-10-23T07:00:12.537+00:00",
   "tokens": [
+    {
+      "chainId": 1088,
+      "address": "0x2583a2538272f31e9a15dd12a432b8c96ab4821d",
+      "name": "Staked Metis Token",
+      "symbol": "ARTMETIS",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/36629/thumb/artMETIS.png?1712021137"
+    },
     {
       "chainId": 1088,
       "address": "0x75cb093e4d61d2a2e65d8e0bbb01de8d89b53481",
@@ -13,22 +21,6 @@
       "symbol": "WMETIS",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/34526/thumb/metis.jpeg?1705305707"
-    },
-    {
-      "chainId": 1088,
-      "address": "0x90fe084f877c65e1b577c7b2ea64b8d8dd1ab278",
-      "name": "Netswap",
-      "symbol": "NETT",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/22262/thumb/netswpa.PNG?1696521606"
-    },
-    {
-      "chainId": 1088,
-      "address": "0xbb1676046c36bcd2f6fd08d8f60672c7087d9adf",
-      "name": "Hercules Token",
-      "symbol": "TORCH",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/36601/thumb/hercules_logo_transp_128px.png?1711953416"
     },
     {
       "chainId": 1088,
@@ -40,11 +32,19 @@
     },
     {
       "chainId": 1088,
-      "address": "0x6f05709bc91bad933346f9e159f0d3fdbc2c9dce",
-      "name": "Hera Finance",
-      "symbol": "HERA",
+      "address": "0xbb1676046c36bcd2f6fd08d8f60672c7087d9adf",
+      "name": "Hercules Token",
+      "symbol": "TORCH",
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/24751/thumb/heraLogo-200px.png?1721043422"
+      "logoURI": "https://assets.coingecko.com/coins/images/36601/thumb/hercules_logo_transp_128px.png?1711953416"
+    },
+    {
+      "chainId": 1088,
+      "address": "0x90fe084f877c65e1b577c7b2ea64b8d8dd1ab278",
+      "name": "Netswap",
+      "symbol": "NETT",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/22262/thumb/netswpa.PNG?1696521606"
     },
     {
       "chainId": 1088,
@@ -53,14 +53,6 @@
       "symbol": "AMETIS",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/32927/thumb/metis.png?1699826503"
-    },
-    {
-      "chainId": 1088,
-      "address": "0x2583a2538272f31e9a15dd12a432b8c96ab4821d",
-      "name": "Staked Metis Token",
-      "symbol": "ARTMETIS",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/36629/thumb/artMETIS.png?1712021137"
     },
     {
       "chainId": 1088,
@@ -240,8 +232,8 @@
     }
   ],
   "version": {
-    "major": 28,
-    "minor": 1,
+    "major": 29,
+    "minor": 0,
     "patch": 0
   }
 }

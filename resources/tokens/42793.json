@@ -4,8 +4,16 @@
   "keywords": [
     "defi"
   ],
-  "timestamp": "2026-09-17T07:01:13.367+00:00",
+  "timestamp": "2026-10-24T17:01:55.016+00:00",
   "tokens": [
+    {
+      "chainId": 42793,
+      "address": "0xbfc94cd2b1e55999cfc7347a9313e88702b83d0f",
+      "name": "Etherlink Bridged WBTC (Etherlink)",
+      "symbol": "WBTC",
+      "decimals": 8,
+      "logoURI": "https://assets.coingecko.com/coins/images/66719/thumb/wbtc.jpg?1750306081"
+    },
     {
       "chainId": 42793,
       "address": "0x6bde51212203ae5d592cc5180da2abbd41c922de",
@@ -24,19 +32,27 @@
     },
     {
       "chainId": 42793,
-      "address": "0xbfc94cd2b1e55999cfc7347a9313e88702b83d0f",
-      "name": "Etherlink Bridged WBTC (Etherlink)",
-      "symbol": "WBTC",
-      "decimals": 8,
-      "logoURI": "https://assets.coingecko.com/coins/images/66719/thumb/wbtc.jpg?1750306081"
-    },
-    {
-      "chainId": 42793,
       "address": "0xc9b53ab2679f573e480d01e0f49e2b5cfb7a3eab",
       "name": "Wrapped XTZ",
       "symbol": "WXTZ",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/51172/thumb/WXTZ_Logo_Black.png?1750764795"
+    },
+    {
+      "chainId": 42793,
+      "address": "0x21a92d78f18268adada1227e1f1134c6c32dbd67",
+      "name": "xCo",
+      "symbol": "XCO",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/102179745/thumb/xCo_2-01.png?1792858619"
+    },
+    {
+      "chainId": 42793,
+      "address": "0x8190b536b30f519d10891ecbd96abc52e2e70638",
+      "name": "xNi",
+      "symbol": "XNI",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/102179746/thumb/xNI-01.png?1792858623"
     },
     {
       "chainId": 42793,
@@ -185,7 +201,7 @@
   ],
   "version": {
     "major": 6,
-    "minor": 0,
+    "minor": 1,
     "patch": 0
   }
 }

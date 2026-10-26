@@ -4,15 +4,15 @@
   "keywords": [
     "defi"
   ],
-  "timestamp": "2026-10-01T07:00:58.008+00:00",
+  "timestamp": "2026-10-22T04:00:03.767+00:00",
   "tokens": [
     {
       "chainId": 9745,
-      "address": "0x22222215d4edc5510d23d0886133e7ece7f5fdc1",
-      "name": "Chateau USD",
-      "symbol": "CHUSD",
+      "address": "0xebfc8c2fe73c431ef2a371aea9132110aab50dca",
+      "name": "Yuzu Protection Pool",
+      "symbol": "YZPP",
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/71634/thumb/chusdn.png?1768641680"
+      "logoURI": "https://assets.coingecko.com/coins/images/71043/thumb/yzPP_%281%29.png?1765442029"
     },
     {
       "chainId": 9745,
@@ -40,11 +40,27 @@
     },
     {
       "chainId": 9745,
-      "address": "0xc8a8df9b210243c55d31c73090f06787ad0a1bf6",
-      "name": "Staked Yuzu USD",
-      "symbol": "SYZUSD",
+      "address": "0x6695c0f8706c5ace3bdf8995073179cca47926dc",
+      "name": "Yuzu USD",
+      "symbol": "YZUSD",
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/70132/thumb/Group_427319351.png?1760695727"
+      "logoURI": "https://assets.coingecko.com/coins/images/70558/thumb/yzusd.png?1762518733"
+    },
+    {
+      "chainId": 9745,
+      "address": "0x22222215d4edc5510d23d0886133e7ece7f5fdc1",
+      "name": "Chateau USD",
+      "symbol": "CHUSD",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/71634/thumb/chusdn.png?1768641680"
+    },
+    {
+      "chainId": 9745,
+      "address": "0xc4374775489cb9c56003bf2c9b12495fc64f0771",
+      "name": "syrupUSDT",
+      "symbol": "SYRUPUSDT",
+      "decimals": 6,
+      "logoURI": "https://assets.coingecko.com/coins/images/69514/thumb/syrupUSDT.png?1790836031"
     },
     {
       "chainId": 9745,
@@ -56,27 +72,11 @@
     },
     {
       "chainId": 9745,
-      "address": "0x6695c0f8706c5ace3bdf8995073179cca47926dc",
-      "name": "Yuzu USD",
-      "symbol": "YZUSD",
+      "address": "0xc8a8df9b210243c55d31c73090f06787ad0a1bf6",
+      "name": "Staked Yuzu USD",
+      "symbol": "SYZUSD",
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/70558/thumb/yzusd.png?1762518733"
-    },
-    {
-      "chainId": 9745,
-      "address": "0xebfc8c2fe73c431ef2a371aea9132110aab50dca",
-      "name": "Yuzu Protection Pool",
-      "symbol": "YZPP",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/71043/thumb/yzPP_%281%29.png?1765442029"
-    },
-    {
-      "chainId": 9745,
-      "address": "0xc4374775489cb9c56003bf2c9b12495fc64f0771",
-      "name": "syrupUSDT",
-      "symbol": "SYRUPUSDT",
-      "decimals": 6,
-      "logoURI": "https://assets.coingecko.com/coins/images/69514/thumb/syrupUSDT.png?1790836031"
+      "logoURI": "https://assets.coingecko.com/coins/images/70132/thumb/Group_427319351.png?1760695727"
     },
     {
       "chainId": 9745,
@@ -276,7 +276,7 @@
       "name": "EURØP",
       "symbol": "EUROP",
       "decimals": 6,
-      "logoURI": "https://assets.coingecko.com/coins/images/52132/thumb/europ-symbol-rgb.jpg?1732634862"
+      "logoURI": "https://assets.coingecko.com/coins/images/52132/thumb/europ-coin-rgb%281%29.png?1792638468"
     },
     {
       "chainId": 9745,
@@ -306,6 +306,6 @@
   "version": {
     "major": 11,
     "minor": 1,
-    "patch": 1
+    "patch": 2
   }
 }

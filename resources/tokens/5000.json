@@ -4,15 +4,15 @@
   "keywords": [
     "defi"
   ],
-  "timestamp": "2026-09-23T09:02:07.366+00:00",
+  "timestamp": "2026-10-21T02:02:39.476+00:00",
   "tokens": [
     {
       "chainId": 5000,
-      "address": "0x78c1b0c915c4faa5fffa6cabf0219da63d7f4cb8",
-      "name": "Wrapped Mantle",
-      "symbol": "WMNT",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/30983/thumb/mantle.jpeg?1696529822"
+      "address": "0x09bc4e0d864854c6afb6eb9a9cdf58ac190d0df9",
+      "name": "Mantle Bridged USDC (Mantle)",
+      "symbol": "USDC",
+      "decimals": 6,
+      "logoURI": "https://assets.coingecko.com/coins/images/35296/thumb/USDC_Icon.png?1708082083"
     },
     {
       "chainId": 5000,
@@ -32,11 +32,19 @@
     },
     {
       "chainId": 5000,
-      "address": "0x09bc4e0d864854c6afb6eb9a9cdf58ac190d0df9",
-      "name": "Mantle Bridged USDC (Mantle)",
-      "symbol": "USDC",
-      "decimals": 6,
-      "logoURI": "https://assets.coingecko.com/coins/images/35296/thumb/USDC_Icon.png?1708082083"
+      "address": "0xabbeed1d173541e0546b38b1c0394975be200000",
+      "name": "Slash Vision Labs",
+      "symbol": "SVL",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/37444/thumb/svl.jpeg?1714443652"
+    },
+    {
+      "chainId": 5000,
+      "address": "0xdeaddeaddeaddeaddeaddeaddeaddeaddead1111",
+      "name": "Mantle Bridged WETH (Mantle)",
+      "symbol": "WETH",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/31013/thumb/weth_2.jpg?1758795984"
     },
     {
       "chainId": 5000,
@@ -56,19 +64,11 @@
     },
     {
       "chainId": 5000,
-      "address": "0xdeaddeaddeaddeaddeaddeaddeaddeaddead1111",
-      "name": "Mantle Bridged WETH (Mantle)",
-      "symbol": "WETH",
+      "address": "0x78c1b0c915c4faa5fffa6cabf0219da63d7f4cb8",
+      "name": "Wrapped Mantle",
+      "symbol": "WMNT",
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/31013/thumb/weth_2.jpg?1758795984"
-    },
-    {
-      "chainId": 5000,
-      "address": "0xabbeed1d173541e0546b38b1c0394975be200000",
-      "name": "Slash Vision Labs",
-      "symbol": "SVL",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/37444/thumb/svl.jpeg?1714443652"
+      "logoURI": "https://assets.coingecko.com/coins/images/30983/thumb/mantle.jpeg?1696529822"
     },
     {
       "chainId": 5000,
@@ -444,7 +444,7 @@
       "name": "WOO",
       "symbol": "WOO",
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/12921/thumb/WOO_Logos_2023_Profile_Pic_WOO.png?1696512709"
+      "logoURI": "https://assets.coingecko.com/coins/images/12921/thumb/WOO_token_transparent_200x200.png?1792544663"
     },
     {
       "chainId": 5000,
@@ -6397,6 +6397,6 @@
   "version": {
     "major": 31,
     "minor": 1,
-    "patch": 0
+    "patch": 1
   }
 }
