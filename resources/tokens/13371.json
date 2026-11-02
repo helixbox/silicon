@@ -1,27 +1,11 @@
 {
   "name": "CoinGecko",
-  "logoURI": "https://static.coingecko.com/s/thumbnail-007177f3eca19695592f0b8b0eabbdae282b54154e1be912285c9034ea6cbaf2.png",
+  "logoURI": "https://static.coingecko.com/gecko-new.svg",
   "keywords": [
     "defi"
   ],
-  "timestamp": "2024-09-25T03:00:22.700+00:00",
+  "timestamp": "2026-10-27T05:05:01.062+00:00",
   "tokens": [
-    {
-      "chainId": 13371,
-      "address": "0x68bcc7f1190af20e7b572bcfb431c3ac10a936ab",
-      "name": "Immutable Toolkit Bridged USDT  Immutab",
-      "symbol": "USDT",
-      "decimals": 6,
-      "logoURI": "https://assets.coingecko.com/coins/images/39000/thumb/usdt.jpeg?1719812130"
-    },
-    {
-      "chainId": 13371,
-      "address": "0xeb466342c4d449bc9f53a865d5cb90586f405215",
-      "name": "Bridged Axelar Wrapped USD Coin  Immuta",
-      "symbol": "AXLUSDC",
-      "decimals": 6,
-      "logoURI": "https://assets.coingecko.com/coins/images/38996/thumb/uausdc_D_3x_%281%29.jpg?1719809069"
-    },
     {
       "chainId": 13371,
       "address": "0x3a0c2ba54d6cbd3121f01b96dfd20e99d1696c9d",
@@ -33,7 +17,7 @@
     {
       "chainId": 13371,
       "address": "0x6de8acc0d406837030ce4dd28e7c08c5a96a30d2",
-      "name": "Bridged USDC  Immutable zkEVM ",
+      "name": "Bridged USDC (Immutable zkEVM)",
       "symbol": "USDC",
       "decimals": 6,
       "logoURI": "https://assets.coingecko.com/coins/images/35844/thumb/usdc.png?1709890596"
@@ -48,11 +32,27 @@
     },
     {
       "chainId": 13371,
-      "address": "0xb00ed913aaff8280c17bff33cce82fe6d79e85e8",
-      "name": "Guild of Guardians",
-      "symbol": "GOG",
+      "address": "0x0fa1d8ffa9b414abf0f47183e088bddc32e084f3",
+      "name": "Tokyo Games Token",
+      "symbol": "TGT",
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/17362/thumb/V2QDNoLg_400x400.jpg?1696516913"
+      "logoURI": "https://assets.coingecko.com/coins/images/55923/thumb/tgt.jpg?1747738096"
+    },
+    {
+      "chainId": 13371,
+      "address": "0xdbffb3bbc75528d1bda5564dc8ba6461946599c4",
+      "name": "Triumph",
+      "symbol": "TRI",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/68760/thumb/triumpLogo.png?1756475345"
+    },
+    {
+      "chainId": 13371,
+      "address": "0x8a1e8cf52954c8d72907774d4b2b81f38dd1c5c4",
+      "name": "RavenQuest",
+      "symbol": "QUEST",
+      "decimals": 6,
+      "logoURI": "https://assets.coingecko.com/coins/images/55071/thumb/token_200x200.png?1743598440"
     },
     {
       "chainId": 13371,
@@ -61,10 +61,67 @@
       "symbol": "NFTL",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/19224/thumb/NFTL-256x256.png?1696518671"
+    },
+    {
+      "chainId": 13371,
+      "address": "0xb00ed913aaff8280c17bff33cce82fe6d79e85e8",
+      "name": "Guild of Guardians",
+      "symbol": "GOG",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/17362/thumb/V2QDNoLg_400x400.jpg?1696516913"
+    },
+    {
+      "chainId": 13371,
+      "address": "0x80807723cfc04bf5dbe3186ebd8a7486e78cd8ca",
+      "name": "Immortal Token",
+      "symbol": "IMT",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/55008/thumb/IMT_LOGO_200x200.png?1743159598"
+    },
+    {
+      "chainId": 13371,
+      "address": "0xda49591f442b8c7a5292c6aa07655746299d6f4c",
+      "name": "Space Nation Oikos",
+      "symbol": "OIK",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/54823/thumb/oik-logo.jpeg?1741858662"
+    },
+    {
+      "chainId": 13371,
+      "address": "0x00000000efe302beaa2b3e6e1b18d08d69a9012a",
+      "name": "AUSD",
+      "symbol": "AUSD",
+      "decimals": 6,
+      "logoURI": "https://assets.coingecko.com/coins/images/39284/thumb/AUSD_1024px.png?1764684132"
+    },
+    {
+      "chainId": 13371,
+      "address": "0x43d7b1f2e92c620fc45cc81d3818e4620abaf240",
+      "name": "END",
+      "symbol": "END",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/66758/thumb/END_Blue_Logo.png?1750412525"
+    },
+    {
+      "chainId": 13371,
+      "address": "0xe0e0981d19ef2e0a57cc48ca60d9454ed2d53feb",
+      "name": "Gods Unchained",
+      "symbol": "GODS",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/17139/thumb/10631.png?1696516698"
+    },
+    {
+      "chainId": 13371,
+      "address": "0xeb466342c4d449bc9f53a865d5cb90586f405215",
+      "name": "Axelar Bridged USDC",
+      "symbol": "AXLUSDC",
+      "decimals": 6,
+      "logoURI": "https://assets.coingecko.com/coins/images/26476/thumb/uausdc_D_3x.png?1696525548"
     }
   ],
   "version": {
-    "minor": null,
+    "major": 1,
+    "minor": 0,
     "patch": 0
   }
 }

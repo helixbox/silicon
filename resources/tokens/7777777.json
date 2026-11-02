@@ -1,19 +1,11 @@
 {
   "name": "CoinGecko",
-  "logoURI": "https://static.coingecko.com/s/thumbnail-007177f3eca19695592f0b8b0eabbdae282b54154e1be912285c9034ea6cbaf2.png",
+  "logoURI": "https://static.coingecko.com/gecko-new.svg",
   "keywords": [
     "defi"
   ],
-  "timestamp": "2024-03-31T15:00:42.028+00:00",
+  "timestamp": "2026-10-27T05:00:13.538+00:00",
   "tokens": [
-    {
-      "chainId": 7777777,
-      "address": "0x078540eecc8b6d89949c9c7d5e8e91eab64f6696",
-      "name": "Imagine",
-      "symbol": "IMAGINE",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/36551/thumb/imaginelogo.png?1711895557"
-    },
     {
       "chainId": 7777777,
       "address": "0xa6b280b42cb0b7c4a4f789ec6ccc3a7609a1bc39",
@@ -24,14 +16,40 @@
     },
     {
       "chainId": 7777777,
+      "address": "0x56f8ad6112c2db9f9848243531b277ce1c3be30c",
+      "name": "Docker",
+      "symbol": "DOCKERZXBT",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/68511/thumb/logoreal.jpg?1763148501"
+    },
+    {
+      "chainId": 7777777,
       "address": "0x4200000000000000000000000000000000000006",
-      "name": "Zora Bridged WETH  Zora Network ",
+      "name": "Zora Bridged WETH (Zora Network)",
       "symbol": "WETH",
-      "decimals": 18
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/35811/thumb/zora-bridged-weth.jpeg?1758552441"
+    },
+    {
+      "chainId": 7777777,
+      "address": "0xcccccccc7021b32ebb4e8c08314bd62f7c653ec4",
+      "name": "Zora Bridged USDC (Zora)",
+      "symbol": "USDZC",
+      "decimals": 6,
+      "logoURI": "https://assets.coingecko.com/coins/images/68896/thumb/images.png?1756907677"
+    },
+    {
+      "chainId": 7777777,
+      "address": "0x3662b6f73c5560229d1a98af6e59e6649d568374",
+      "name": "Chainlink",
+      "symbol": "LINK",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/877/thumb/Chainlink_Logo_500.png?1760023405"
     }
   ],
   "version": {
-    "minor": null,
+    "major": 1,
+    "minor": 0,
     "patch": 0
   }
 }
