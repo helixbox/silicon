@@ -4,23 +4,15 @@
   "keywords": [
     "defi"
   ],
-  "timestamp": "2026-10-30T10:02:03.188+00:00",
+  "timestamp": "2026-11-05T07:02:08.416+00:00",
   "tokens": [
     {
       "chainId": 5000,
-      "address": "0xabbeed1d173541e0546b38b1c0394975be200000",
-      "name": "Slash Vision Labs",
-      "symbol": "SVL",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/37444/thumb/svl.jpeg?1714443652"
-    },
-    {
-      "chainId": 5000,
-      "address": "0x4515a45337f461a11ff0fe8abf3c606ae5dc00c9",
-      "name": "MOE",
-      "symbol": "MOE",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/34422/thumb/MOE.png?1704821927"
+      "address": "0x671642ac281c760e34251d51bc9eef27026f3b7a",
+      "name": "Mantle Index Four Fund",
+      "symbol": "MI4",
+      "decimals": 6,
+      "logoURI": "https://assets.coingecko.com/coins/images/66570/thumb/mi4.png?1749795929"
     },
     {
       "chainId": 5000,
@@ -32,22 +24,6 @@
     },
     {
       "chainId": 5000,
-      "address": "0x671642ac281c760e34251d51bc9eef27026f3b7a",
-      "name": "Mantle Index Four Fund",
-      "symbol": "MI4",
-      "decimals": 6,
-      "logoURI": "https://assets.coingecko.com/coins/images/66570/thumb/mi4.png?1749795929"
-    },
-    {
-      "chainId": 5000,
-      "address": "0x26a6b0dcdcfb981362afa56d581e4a7dba3be140",
-      "name": "Puff The Dragon",
-      "symbol": "PUFF",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/35950/thumb/photo_2024-03-11_10.18.27.jpeg?1710240090"
-    },
-    {
-      "chainId": 5000,
       "address": "0x09bc4e0d864854c6afb6eb9a9cdf58ac190d0df9",
       "name": "Mantle Bridged USDC (Mantle)",
       "symbol": "USDC",
@@ -56,11 +32,35 @@
     },
     {
       "chainId": 5000,
+      "address": "0x4515a45337f461a11ff0fe8abf3c606ae5dc00c9",
+      "name": "MOE",
+      "symbol": "MOE",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/34422/thumb/MOE.png?1704821927"
+    },
+    {
+      "chainId": 5000,
       "address": "0x78c1b0c915c4faa5fffa6cabf0219da63d7f4cb8",
       "name": "Wrapped Mantle",
       "symbol": "WMNT",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/30983/thumb/mantle.jpeg?1696529822"
+    },
+    {
+      "chainId": 5000,
+      "address": "0xabbeed1d173541e0546b38b1c0394975be200000",
+      "name": "Slash Vision Labs",
+      "symbol": "SVL",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/37444/thumb/svl.jpeg?1714443652"
+    },
+    {
+      "chainId": 5000,
+      "address": "0x26a6b0dcdcfb981362afa56d581e4a7dba3be140",
+      "name": "Puff The Dragon",
+      "symbol": "PUFF",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/35950/thumb/photo_2024-03-11_10.18.27.jpeg?1710240090"
     },
     {
       "chainId": 5000,
@@ -6384,11 +6384,27 @@
       "symbol": "XRXX",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/102178723/thumb/XRXx.png?1790152880"
+    },
+    {
+      "chainId": 5000,
+      "address": "0x4dc985bb2043a7ecbeff2a281351862a012ff1fc",
+      "name": "Kor Protocol",
+      "symbol": "KOR",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/102179879/thumb/Frame_29.jpg?1793329019"
+    },
+    {
+      "chainId": 5000,
+      "address": "0x909369940f22dc1c143ac78753a33f41597138b1",
+      "name": "Anthropic xStock",
+      "symbol": "ANTX",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/102180104/thumb/ANTx.png?1793861573"
     }
   ],
   "version": {
     "major": 32,
-    "minor": 0,
+    "minor": 2,
     "patch": 0
   }
 }
