@@ -4,7 +4,7 @@
   "keywords": [
     "defi"
   ],
-  "timestamp": "2026-07-10T01:00:48.346+00:00",
+  "timestamp": "2026-11-12T11:01:44.636+00:00",
   "tokens": [
     {
       "chainId": 1868,
@@ -13,30 +13,6 @@
       "symbol": "USDSC",
       "decimals": 6,
       "logoURI": "https://assets.coingecko.com/coins/images/70883/thumb/stataleusd_2x.png?1764684119"
-    },
-    {
-      "chainId": 1868,
-      "address": "0xa8feaae65c44b458a16ea4e709036a2ee85d073a",
-      "name": "Mother of Memes",
-      "symbol": "HAHA",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/36245/thumb/HAHA_Logo.png?1710921482"
-    },
-    {
-      "chainId": 1868,
-      "address": "0x4200000000000000000000000000000000000006",
-      "name": "Superbridge Bridged WETH (Soneium)",
-      "symbol": "WETH",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/53777/thumb/weth_2.jpg?1737340348"
-    },
-    {
-      "chainId": 1868,
-      "address": "0xba9986d2381edf1da03b0b9c1f8b00dc4aacc369",
-      "name": "Soneium Bridged USDC (Soneium)",
-      "symbol": "USDC.E",
-      "decimals": 6,
-      "logoURI": "https://assets.coingecko.com/coins/images/53776/thumb/usdc.jpg?1737340150"
     },
     {
       "chainId": 1868,
@@ -56,6 +32,30 @@
     },
     {
       "chainId": 1868,
+      "address": "0xba9986d2381edf1da03b0b9c1f8b00dc4aacc369",
+      "name": "Soneium Bridged USDC (Soneium)",
+      "symbol": "USDC.E",
+      "decimals": 6,
+      "logoURI": "https://assets.coingecko.com/coins/images/53776/thumb/usdc.jpg?1737340150"
+    },
+    {
+      "chainId": 1868,
+      "address": "0x3a337a6ada9d885b6ad95ec48f9b75f197b5ae35",
+      "name": "Soneium Bridged USDT (Soneium)",
+      "symbol": "USDT",
+      "decimals": 6,
+      "logoURI": "https://assets.coingecko.com/coins/images/53779/thumb/usdt.jpg?1737341724"
+    },
+    {
+      "chainId": 1868,
+      "address": "0x4200000000000000000000000000000000000006",
+      "name": "Superbridge Bridged WETH (Soneium)",
+      "symbol": "WETH",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/53777/thumb/weth_2.jpg?1737340348"
+    },
+    {
+      "chainId": 1868,
       "address": "0x60336f9296c79da4294a19153ec87f8e52158e5f",
       "name": "Bifrost Voucher ASTR",
       "symbol": "VASTR",
@@ -69,14 +69,6 @@
       "symbol": "WSTASTR",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/54782/thumb/wstASTR.png?1741570094"
-    },
-    {
-      "chainId": 1868,
-      "address": "0x3a337a6ada9d885b6ad95ec48f9b75f197b5ae35",
-      "name": "Soneium Bridged USDT (Soneium)",
-      "symbol": "USDT",
-      "decimals": 6,
-      "logoURI": "https://assets.coingecko.com/coins/images/53779/thumb/usdt.jpg?1737341724"
     },
     {
       "chainId": 1868,
@@ -229,11 +221,19 @@
       "symbol": "SUPER",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/14040/thumb/SV-Logo-200x200.png?1706880312"
+    },
+    {
+      "chainId": 1868,
+      "address": "0x8f187aa05619a017077f5308904739877ce9ea21",
+      "name": "Uniswap",
+      "symbol": "UNI",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/12504/thumb/uniswap-logo.png?1720676669"
     }
   ],
   "version": {
-    "major": 6,
-    "minor": 1,
+    "major": 7,
+    "minor": 0,
     "patch": 0
   }
 }

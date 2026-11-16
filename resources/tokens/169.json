@@ -4,24 +4,8 @@
   "keywords": [
     "defi"
   ],
-  "timestamp": "2026-07-10T03:00:47.704+00:00",
+  "timestamp": "2026-11-12T10:05:18.672+00:00",
   "tokens": [
-    {
-      "chainId": 169,
-      "address": "0xb73603c5d87fa094b7314c74ace2e64d165016fb",
-      "name": "Bridged USD Coin (Manta Pacific)",
-      "symbol": "USDC",
-      "decimals": 6,
-      "logoURI": "https://assets.coingecko.com/coins/images/32215/thumb/usdc.png?1696832099"
-    },
-    {
-      "chainId": 169,
-      "address": "0x95cef13441be50d20ca4558cc0a27b601ac544e5",
-      "name": "Manta Network",
-      "symbol": "MANTA",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/34289/thumb/manta.jpg?1704468717"
-    },
     {
       "chainId": 169,
       "address": "0x2fe3ad97a60eb7c79a976fc18bb5ffd07dd94ba5",
@@ -29,38 +13,6 @@
       "symbol": "WSTETH",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/32218/thumb/wstETH.png?1696832978"
-    },
-    {
-      "chainId": 169,
-      "address": "0x95d1b0f2a751010083bf12e29e7a2f13429f7143",
-      "name": "EZswap Protocol",
-      "symbol": "EZSWAP",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/36045/thumb/ezswao.jpeg?1710401382"
-    },
-    {
-      "chainId": 169,
-      "address": "0xf417f5a458ec102b90352f697d6e2ac3a3d2851f",
-      "name": "Manta Pacific Bridged USDT (Manta Pacific)",
-      "symbol": "USDT",
-      "decimals": 6,
-      "logoURI": "https://assets.coingecko.com/coins/images/32214/thumb/usdt_%281%29.png?1696831809"
-    },
-    {
-      "chainId": 169,
-      "address": "0x0d613b80f9afb3cef99fe26702227d74b0178740",
-      "name": "Minu the Manta",
-      "symbol": "MNU",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/34075/thumb/minu_the_manta_no_back_200px.png?1703907109"
-    },
-    {
-      "chainId": 169,
-      "address": "0x41c49790967067a71f893b51f2f311ace46fb773",
-      "name": "CirclePacific",
-      "symbol": "CIRCLE",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/34757/thumb/logo.png?1705981096"
     },
     {
       "chainId": 169,
@@ -72,11 +24,51 @@
     },
     {
       "chainId": 169,
+      "address": "0x41c49790967067a71f893b51f2f311ace46fb773",
+      "name": "CirclePacific",
+      "symbol": "CIRCLE",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/34757/thumb/logo.png?1705981096"
+    },
+    {
+      "chainId": 169,
       "address": "0x7746ef546d562b443ae4b4145541a3b1a3d75717",
       "name": "Bifrost Voucher MANTA",
       "symbol": "VMANTA",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/34707/thumb/vMANTA.png?1705893023"
+    },
+    {
+      "chainId": 169,
+      "address": "0xf417f5a458ec102b90352f697d6e2ac3a3d2851f",
+      "name": "Manta Pacific Bridged USDT (Manta Pacific)",
+      "symbol": "USDT",
+      "decimals": 6,
+      "logoURI": "https://assets.coingecko.com/coins/images/32214/thumb/usdt_%281%29.png?1696831809"
+    },
+    {
+      "chainId": 169,
+      "address": "0xb73603c5d87fa094b7314c74ace2e64d165016fb",
+      "name": "Bridged USD Coin (Manta Pacific)",
+      "symbol": "USDC",
+      "decimals": 6,
+      "logoURI": "https://assets.coingecko.com/coins/images/32215/thumb/usdc.png?1696832099"
+    },
+    {
+      "chainId": 169,
+      "address": "0x95d1b0f2a751010083bf12e29e7a2f13429f7143",
+      "name": "EZswap Protocol",
+      "symbol": "EZSWAP",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/36045/thumb/ezswao.jpeg?1710401382"
+    },
+    {
+      "chainId": 169,
+      "address": "0x95cef13441be50d20ca4558cc0a27b601ac544e5",
+      "name": "Manta Network",
+      "symbol": "MANTA",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/34289/thumb/manta.jpg?1704468717"
     },
     {
       "chainId": 169,
@@ -216,8 +208,8 @@
     }
   ],
   "version": {
-    "major": 20,
-    "minor": 1,
+    "major": 21,
+    "minor": 0,
     "patch": 0
   }
 }

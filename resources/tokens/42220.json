@@ -4,8 +4,88 @@
   "keywords": [
     "defi"
   ],
-  "timestamp": "2026-10-27T09:00:48.821+00:00",
+  "timestamp": "2026-11-12T02:00:40.734+00:00",
   "tokens": [
+    {
+      "chainId": 42220,
+      "address": "0x918146359264c492bd6934071c6bd31c854edbc3",
+      "name": "Moola Celo Dollars",
+      "symbol": "MCUSD",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/22380/thumb/McUSD_Blue_128x128_Square.jpg?1696521724"
+    },
+    {
+      "chainId": 42220,
+      "address": "0xe2702bd97ee33c88c8f6f92da3b733608aa76f71",
+      "name": "Mento Nigerian Naira",
+      "symbol": "NGNM",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/66417/thumb/NGNm_%28Mento_Nigerian_Naira%29.png?1769208786"
+    },
+    {
+      "chainId": 42220,
+      "address": "0x4c35853a3b4e647fd266f4de678dcc8fec410bf6",
+      "name": "Mento South African Rand",
+      "symbol": "ZARM",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/55377/thumb/ZARm_%28South_African_Rand%29.png?1769208842"
+    },
+    {
+      "chainId": 42220,
+      "address": "0x2def4285787d58a2f811af24755a8150622f4361",
+      "name": "Wrapped cETH",
+      "symbol": "CETH",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/39711/thumb/WETH.PNG?1723731131"
+    },
+    {
+      "chainId": 42220,
+      "address": "0x456a3d042c0dbd3db53d5489e98dfb038553b0d0",
+      "name": "Mento Kenyan Shilling",
+      "symbol": "KESM",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/38052/thumb/KESm_%28Mento_Kenyan_Shilling%29.png?1769110532"
+    },
+    {
+      "chainId": 42220,
+      "address": "0xb55a79f398e759e43c95b979163f30ec87ee131d",
+      "name": "Mento Swiss Franc",
+      "symbol": "CHFM",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/66415/thumb/CHFm_%28Mento_Swiss_Franc%29.png?1769208716"
+    },
+    {
+      "chainId": 42220,
+      "address": "0x8a567e2ae79ca692bd748ab832081c45de4041ea",
+      "name": "Mento Colombian Peso",
+      "symbol": "COPM",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/53448/thumb/COPm_%28Mento_Colombian_Peso%29.png?1769110672"
+    },
+    {
+      "chainId": 42220,
+      "address": "0x7ff62f59e3e89ea34163ea1458eebcc81177cfb6",
+      "name": "MENTO",
+      "symbol": "MENTO",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/38958/thumb/MENTO_TOKEN_icon_200.png?1719691251"
+    },
+    {
+      "chainId": 42220,
+      "address": "0xd221812de1bd094f35587ee8e174b07b6167d9af",
+      "name": "Celo Bridged WETH (Celo)",
+      "symbol": "WETH",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/55170/thumb/weth_2.jpg?1744342217"
+    },
+    {
+      "chainId": 42220,
+      "address": "0xd8763cba276a3738e6de85b4b3bf5fded6d6ca73",
+      "name": "Mento Euro",
+      "symbol": "EURM",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/16756/thumb/EURm_%28Mento_Euro%29.png?1768982616"
+    },
     {
       "chainId": 42220,
       "address": "0xccf663b1ff11028f0b19058d0f7b674004a40746",
@@ -13,6 +93,22 @@
       "symbol": "GBPM",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/55374/thumb/GBPm__%28Mento_British_Pound%29.png?1769111439"
+    },
+    {
+      "chainId": 42220,
+      "address": "0x7175504c455076f15c04a2f90a8e352281f492f9",
+      "name": "Mento Australian Dollar",
+      "symbol": "AUDM",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/55375/thumb/AUDm_%28Mento_Australian_Dollar%29.png?1769111580"
+    },
+    {
+      "chainId": 42220,
+      "address": "0xe8537a3d056da446677b9e9d6c5db704eaab4787",
+      "name": "Mento Brazilian Real",
+      "symbol": "BRLM",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/27205/thumb/BRLm_%28Mento_Brazilian_Real%29.png?1769110618"
     },
     {
       "chainId": 42220,
@@ -32,19 +128,11 @@
     },
     {
       "chainId": 42220,
-      "address": "0x2def4285787d58a2f811af24755a8150622f4361",
-      "name": "Wrapped cETH",
-      "symbol": "CETH",
+      "address": "0x471ece3750da237f93b8e339c536989b8978a438",
+      "name": "Celo",
+      "symbol": "CELO",
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/39711/thumb/WETH.PNG?1723731131"
-    },
-    {
-      "chainId": 42220,
-      "address": "0xe8537a3d056da446677b9e9d6c5db704eaab4787",
-      "name": "Mento Brazilian Real",
-      "symbol": "BRLM",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/27205/thumb/BRLm_%28Mento_Brazilian_Real%29.png?1769110618"
+      "logoURI": "https://assets.coingecko.com/coins/images/11090/thumb/InjXBNx9_400x400.jpg?1696511031"
     },
     {
       "chainId": 42220,
@@ -56,30 +144,6 @@
     },
     {
       "chainId": 42220,
-      "address": "0x7ff62f59e3e89ea34163ea1458eebcc81177cfb6",
-      "name": "MENTO",
-      "symbol": "MENTO",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/38958/thumb/MENTO_TOKEN_icon_200.png?1719691251"
-    },
-    {
-      "chainId": 42220,
-      "address": "0xd8763cba276a3738e6de85b4b3bf5fded6d6ca73",
-      "name": "Mento Euro",
-      "symbol": "EURM",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/16756/thumb/EURm_%28Mento_Euro%29.png?1768982616"
-    },
-    {
-      "chainId": 42220,
-      "address": "0x471ece3750da237f93b8e339c536989b8978a438",
-      "name": "Celo",
-      "symbol": "CELO",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/11090/thumb/InjXBNx9_400x400.jpg?1696511031"
-    },
-    {
-      "chainId": 42220,
       "address": "0x105d4a9306d2e55a71d2eb95b81553ae1dc20d7b",
       "name": "Mento Philippine Peso",
       "symbol": "PHPM",
@@ -88,75 +152,11 @@
     },
     {
       "chainId": 42220,
-      "address": "0xd221812de1bd094f35587ee8e174b07b6167d9af",
-      "name": "Celo Bridged WETH (Celo)",
-      "symbol": "WETH",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/55170/thumb/weth_2.jpg?1744342217"
-    },
-    {
-      "chainId": 42220,
-      "address": "0x456a3d042c0dbd3db53d5489e98dfb038553b0d0",
-      "name": "Mento Kenyan Shilling",
-      "symbol": "KESM",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/38052/thumb/KESm_%28Mento_Kenyan_Shilling%29.png?1769110532"
-    },
-    {
-      "chainId": 42220,
-      "address": "0x4c35853a3b4e647fd266f4de678dcc8fec410bf6",
-      "name": "Mento South African Rand",
-      "symbol": "ZARM",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/55377/thumb/ZARm_%28South_African_Rand%29.png?1769208842"
-    },
-    {
-      "chainId": 42220,
-      "address": "0x7175504c455076f15c04a2f90a8e352281f492f9",
-      "name": "Mento Australian Dollar",
-      "symbol": "AUDM",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/55375/thumb/AUDm_%28Mento_Australian_Dollar%29.png?1769111580"
-    },
-    {
-      "chainId": 42220,
-      "address": "0x918146359264c492bd6934071c6bd31c854edbc3",
-      "name": "Moola Celo Dollars",
-      "symbol": "MCUSD",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/22380/thumb/McUSD_Blue_128x128_Square.jpg?1696521724"
-    },
-    {
-      "chainId": 42220,
-      "address": "0x8a567e2ae79ca692bd748ab832081c45de4041ea",
-      "name": "Mento Colombian Peso",
-      "symbol": "COPM",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/53448/thumb/COPm_%28Mento_Colombian_Peso%29.png?1769110672"
-    },
-    {
-      "chainId": 42220,
       "address": "0xc45ecf20f3cd864b32d9794d6f76814ae8892e20",
       "name": "Mento Japanese Yen",
       "symbol": "JPYM",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/66416/thumb/JPYm_%28Mento_Japanese_Yen%29.png?1769110774"
-    },
-    {
-      "chainId": 42220,
-      "address": "0xe2702bd97ee33c88c8f6f92da3b733608aa76f71",
-      "name": "Mento Nigerian Naira",
-      "symbol": "NGNM",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/66417/thumb/NGNm_%28Mento_Nigerian_Naira%29.png?1769208786"
-    },
-    {
-      "chainId": 42220,
-      "address": "0xb55a79f398e759e43c95b979163f30ec87ee131d",
-      "name": "Mento Swiss Franc",
-      "symbol": "CHFM",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/66415/thumb/CHFm_%28Mento_Swiss_Franc%29.png?1769208716"
     },
     {
       "chainId": 42220,
@@ -488,6 +488,14 @@
     },
     {
       "chainId": 42220,
+      "address": "0xd7493e84a060292cdca6b67619402f7702336bf4",
+      "name": "Uniswap",
+      "symbol": "UNI",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/12504/thumb/uniswap-logo.png?1720676669"
+    },
+    {
+      "chainId": 42220,
       "address": "0x18bc5bcc660cf2b9ce3cd51a404afe1a0cbd3c22",
       "name": "IDRX",
       "symbol": "IDRX",
@@ -529,7 +537,7 @@
   ],
   "version": {
     "major": 1,
-    "minor": 1,
+    "minor": 2,
     "patch": 0
   }
 }

@@ -4,24 +4,8 @@
   "keywords": [
     "defi"
   ],
-  "timestamp": "2026-11-07T07:00:41.145+00:00",
+  "timestamp": "2026-11-13T10:00:43.041+00:00",
   "tokens": [
-    {
-      "chainId": 39797,
-      "address": "0xa55f26319462355474a9f2c8790860776a329aa4",
-      "name": "Wrapped Energi",
-      "symbol": "WNRG",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/25462/thumb/Energi.jpeg?1696524592"
-    },
-    {
-      "chainId": 39797,
-      "address": "0xffd7510ca0a3279c7a5f50018a26c21d5bc1dbcf",
-      "name": "Energi Bridged USDC (Energi)",
-      "symbol": "USDC",
-      "decimals": 6,
-      "logoURI": "https://assets.coingecko.com/coins/images/35323/thumb/USDC.jpg?1708178353"
-    },
     {
       "chainId": 39797,
       "address": "0x78b050d981d7f6e019bf6e361d0d1167de6b19da",
@@ -32,11 +16,11 @@
     },
     {
       "chainId": 39797,
-      "address": "0x0f46fe95a8d6573990118aee8b7ac9a3532f5963",
-      "name": "Energi Dollar",
-      "symbol": "USDE",
+      "address": "0xa55f26319462355474a9f2c8790860776a329aa4",
+      "name": "Wrapped Energi",
+      "symbol": "WNRG",
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/25463/thumb/USDE.png?1696524593"
+      "logoURI": "https://assets.coingecko.com/coins/images/25462/thumb/Energi.jpeg?1696524592"
     },
     {
       "chainId": 39797,
@@ -53,14 +37,6 @@
       "symbol": "WBNB",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/53080/thumb/wrapped_bnb.png?1735265046"
-    },
-    {
-      "chainId": 39797,
-      "address": "0x29a791703e5a5a8d1578f8611b4d3691377cebc0",
-      "name": "Multichain Bridged WBTC (Energi)",
-      "symbol": "WBTC",
-      "decimals": 8,
-      "logoURI": "https://assets.coingecko.com/coins/images/39588/thumb/wbtc.png?1723014765"
     },
     {
       "chainId": 39797,
@@ -85,14 +61,6 @@
       "symbol": "FUN",
       "decimals": 8,
       "logoURI": "https://assets.coingecko.com/coins/images/761/thumb/FUN.png?1696501914"
-    },
-    {
-      "chainId": 39797,
-      "address": "0xeeaccbb6ce1b5be68a2cf9d0dea27d4b807848d2",
-      "name": "Kava Lend",
-      "symbol": "HARD",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/13008/thumb/HARD_coin_256.png?1696512797"
     },
     {
       "chainId": 39797,
@@ -304,14 +272,6 @@
     },
     {
       "chainId": 39797,
-      "address": "0xd4a161eaa78e77eb2af35d8e5bbdcf6af07a6835",
-      "name": "Wrapped BCH",
-      "symbol": "WBCH",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/21386/thumb/0x3743eC0673453E5009310C727Ba4eaF7b3a1cc04.png?1696520751"
-    },
-    {
-      "chainId": 39797,
       "address": "0x204a90b57d15417864080df1cd6e907831c206a6",
       "name": "Enjin Coin",
       "symbol": "ENJ",
@@ -325,14 +285,6 @@
       "symbol": "FARM",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/12304/thumb/FARM_200x200.png?1696512134"
-    },
-    {
-      "chainId": 39797,
-      "address": "0xee0837e18f64ec6cf3bece2da75a1e5f679a6d84",
-      "name": "Ferrum Network",
-      "symbol": "FRM",
-      "decimals": 6,
-      "logoURI": "https://assets.coingecko.com/coins/images/8251/thumb/FRM.png?1696508455"
     },
     {
       "chainId": 39797,
@@ -600,14 +552,6 @@
     },
     {
       "chainId": 39797,
-      "address": "0x665b3a802979ec24e076c80025bff33c18eb6007",
-      "name": "Uniswap",
-      "symbol": "UNI",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/12504/thumb/uniswap-logo.png?1720676669"
-    },
-    {
-      "chainId": 39797,
       "address": "0x0894840ba7d57c7adf2caf8fd3c41eb79af5b8e7",
       "name": "WazirX",
       "symbol": "WRX",
@@ -816,14 +760,6 @@
     },
     {
       "chainId": 39797,
-      "address": "0xf4bb0ed25ac7bcc9c327b88bac5ca288a08ec41e",
-      "name": "Rari Governance",
-      "symbol": "RGT",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/12900/thumb/Rari_Logo_Transparent.png?1696512688"
-    },
-    {
-      "chainId": 39797,
       "address": "0xd72922e849477a042a7e6dc84309f4bc1c1227a2",
       "name": "Numeraire",
       "symbol": "NMR",
@@ -832,8 +768,8 @@
     }
   ],
   "version": {
-    "major": 22,
+    "major": 28,
     "minor": 0,
-    "patch": 2
+    "patch": 0
   }
 }

@@ -4,23 +4,15 @@
   "keywords": [
     "defi"
   ],
-  "timestamp": "2026-07-09T13:00:40.229+00:00",
+  "timestamp": "2026-11-11T11:00:49.719+00:00",
   "tokens": [
     {
       "chainId": 199,
-      "address": "0xdb28719f7f938507dbfe4f0eae55668903d34a15",
-      "name": "Multichain Bridged USDT (BitTorrent)",
-      "symbol": "USDT_T",
-      "decimals": 6,
-      "logoURI": "https://assets.coingecko.com/coins/images/35067/thumb/logo.png?1707290624"
-    },
-    {
-      "chainId": 199,
-      "address": "0x23181f21dea5936e24163ffaba4ea3b316b57f3c",
-      "name": "Wrapped BTT",
-      "symbol": "WBTT",
+      "address": "0x195ca22a177e6ed905c469f4f64cf67e819f49c2",
+      "name": "InfiniTORR",
+      "symbol": "TORR",
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/24933/thumb/TKfjV9RNKJJCqPvBtK8L7Knykh7DNWvnYt.png?1696524089"
+      "logoURI": "https://assets.coingecko.com/coins/images/28954/thumb/Screenshot_2023-02-03_at_09.36.05.png?1696527927"
     },
     {
       "chainId": 199,
@@ -32,11 +24,19 @@
     },
     {
       "chainId": 199,
-      "address": "0x195ca22a177e6ed905c469f4f64cf67e819f49c2",
-      "name": "InfiniTORR",
-      "symbol": "TORR",
+      "address": "0x23181f21dea5936e24163ffaba4ea3b316b57f3c",
+      "name": "Wrapped BTT",
+      "symbol": "WBTT",
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/28954/thumb/Screenshot_2023-02-03_at_09.36.05.png?1696527927"
+      "logoURI": "https://assets.coingecko.com/coins/images/24933/thumb/TKfjV9RNKJJCqPvBtK8L7Knykh7DNWvnYt.png?1696524089"
+    },
+    {
+      "chainId": 199,
+      "address": "0xdb28719f7f938507dbfe4f0eae55668903d34a15",
+      "name": "Multichain Bridged USDT (BitTorrent)",
+      "symbol": "USDT_T",
+      "decimals": 6,
+      "logoURI": "https://assets.coingecko.com/coins/images/35067/thumb/logo.png?1707290624"
     },
     {
       "chainId": 199,
@@ -77,19 +77,11 @@
       "symbol": "WTRX",
       "decimals": 6,
       "logoURI": "https://assets.coingecko.com/coins/images/22471/thumb/xOesRfpN_400x400.jpg?1696521795"
-    },
-    {
-      "chainId": 199,
-      "address": "0x6c8c028d3592b83d6a1d0f53635557fd8dd31545",
-      "name": "UpStable",
-      "symbol": "USTX",
-      "decimals": 6,
-      "logoURI": "https://assets.coingecko.com/coins/images/20225/thumb/logoSolid200.png?1696519634"
     }
   ],
   "version": {
-    "major": 4,
-    "minor": 1,
+    "major": 5,
+    "minor": 0,
     "patch": 0
   }
 }

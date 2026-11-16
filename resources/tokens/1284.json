@@ -4,24 +4,8 @@
   "keywords": [
     "defi"
   ],
-  "timestamp": "2026-09-09T03:01:37.782+00:00",
+  "timestamp": "2026-11-13T11:02:01.861+00:00",
   "tokens": [
-    {
-      "chainId": 1284,
-      "address": "0xffffffffea09fb06d082fd1275cd48b191cbcd1d",
-      "name": "xcUSDT",
-      "symbol": "XCUSDT",
-      "decimals": 6,
-      "logoURI": "https://assets.coingecko.com/coins/images/29019/thumb/usdt.png?1696527990"
-    },
-    {
-      "chainId": 1284,
-      "address": "0xffffffff1fcacbd218edc0eba20fc2308c778080",
-      "name": "xcDOT",
-      "symbol": "DOT",
-      "decimals": 10,
-      "logoURI": "https://assets.coingecko.com/coins/images/26044/thumb/polkadot-asset_32.png?1696525125"
-    },
     {
       "chainId": 1284,
       "address": "0xe8e8bd89a429526561e1283cb789719864ffd0b4",
@@ -29,22 +13,6 @@
       "symbol": "GU",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/68189/thumb/GU-logo.png?1755024305"
-    },
-    {
-      "chainId": 1284,
-      "address": "0x511ab53f793683763e5a8829738301368a2411e3",
-      "name": "Moonwell",
-      "symbol": "WELL",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/26133/thumb/WELL.png?1696525221"
-    },
-    {
-      "chainId": 1284,
-      "address": "0x0e358838ce72d5e61e0018a2ffac4bec5f4c88d2",
-      "name": "StellaSwap",
-      "symbol": "STELLA",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/22801/thumb/stellaswap.jpg?1696522104"
     },
     {
       "chainId": 1284,
@@ -56,11 +24,19 @@
     },
     {
       "chainId": 1284,
-      "address": "0xacc15dc74880c9944775448304b263d191c6077f",
-      "name": "Wrapped Moonbeam",
-      "symbol": "WGLMR",
+      "address": "0x511ab53f793683763e5a8829738301368a2411e3",
+      "name": "Moonwell",
+      "symbol": "WELL",
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/23688/thumb/Moonbeam_WGLMR_ICON.png?1716655228"
+      "logoURI": "https://assets.coingecko.com/coins/images/26133/thumb/WELL.png?1696525221"
+    },
+    {
+      "chainId": 1284,
+      "address": "0xffffffff1fcacbd218edc0eba20fc2308c778080",
+      "name": "xcDOT",
+      "symbol": "DOT",
+      "decimals": 10,
+      "logoURI": "https://assets.coingecko.com/coins/images/26044/thumb/polkadot-asset_32.png?1696525125"
     },
     {
       "chainId": 1284,
@@ -69,22 +45,6 @@
       "symbol": "CP",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/35286/thumb/IMG_9405.JPG?1783674461"
-    },
-    {
-      "chainId": 1284,
-      "address": "0x8f552a71efe5eefc207bf75485b356a0b3f01ec9",
-      "name": "Nomad Bridged USDC (Moonbeam)",
-      "symbol": "USDC",
-      "decimals": 6,
-      "logoURI": "https://assets.coingecko.com/coins/images/35231/thumb/USDC.jpg?1707925331"
-    },
-    {
-      "chainId": 1284,
-      "address": "0x30d2a9f5fdf90ace8c17952cbb4ee48a55d916a7",
-      "name": "Nomad Bridged WETH (Moonbeam)",
-      "symbol": "WETH",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/39720/thumb/WETH.PNG?1723732514"
     },
     {
       "chainId": 1284,
@@ -192,7 +152,7 @@
     }
   ],
   "version": {
-    "major": 26,
+    "major": 29,
     "minor": 0,
     "patch": 0
   }

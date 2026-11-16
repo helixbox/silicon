@@ -4,16 +4,8 @@
   "keywords": [
     "defi"
   ],
-  "timestamp": "2026-07-10T01:00:56.770+00:00",
+  "timestamp": "2026-11-12T11:01:51.704+00:00",
   "tokens": [
-    {
-      "chainId": 4689,
-      "address": "0x84abcb2832be606341a50128aeb1db43aa017449",
-      "name": "IoTeX Bridged BUSD (IoTeX)",
-      "symbol": "BUSD",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/36881/thumb/busd.png?1772613737"
-    },
     {
       "chainId": 4689,
       "address": "0x0258866edaf84d6081df17660357ab20a07d0c80",
@@ -21,14 +13,6 @@
       "symbol": "IOETH",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/19342/thumb/io1qfvgvmk6lpxkpqwlzanqx4atyzs86ryqjnfuad.png?1696518783"
-    },
-    {
-      "chainId": 4689,
-      "address": "0x6fbcdc1169b5130c59e72e51ed68a84841c98cd1",
-      "name": "iotube Bridged USDT (IoTeX)",
-      "symbol": "IOUSDT",
-      "decimals": 6,
-      "logoURI": "https://assets.coingecko.com/coins/images/19345/thumb/io1d77dcytfk5fsck089eg7669gfpqunrx35ue5ln.png?1696518786"
     },
     {
       "chainId": 4689,
@@ -40,11 +24,11 @@
     },
     {
       "chainId": 4689,
-      "address": "0xf87aed04889a1dd0159d9c22b0d57b345ab16ddd",
-      "name": "ZoomSwap",
-      "symbol": "ZM",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/18807/thumb/icon_zoomswap.png?1696518269"
+      "address": "0x6fbcdc1169b5130c59e72e51ed68a84841c98cd1",
+      "name": "iotube Bridged USDT (IoTeX)",
+      "symbol": "IOUSDT",
+      "decimals": 6,
+      "logoURI": "https://assets.coingecko.com/coins/images/19345/thumb/io1d77dcytfk5fsck089eg7669gfpqunrx35ue5ln.png?1696518786"
     },
     {
       "chainId": 4689,
@@ -56,19 +40,27 @@
     },
     {
       "chainId": 4689,
+      "address": "0x84abcb2832be606341a50128aeb1db43aa017449",
+      "name": "IoTeX Bridged BUSD (IoTeX)",
+      "symbol": "BUSD",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/36881/thumb/busd.png?1772613737"
+    },
+    {
+      "chainId": 4689,
+      "address": "0xf87aed04889a1dd0159d9c22b0d57b345ab16ddd",
+      "name": "ZoomSwap",
+      "symbol": "ZM",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/18807/thumb/icon_zoomswap.png?1696518269"
+    },
+    {
+      "chainId": 4689,
       "address": "0x52df59be0be8abdabba9e3862c8c0f1f8b3fe9ca",
       "name": "ioTube Bridged XNET (IoTeX)",
       "symbol": "XNET",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/33517/thumb/XNET.jpg?1702120695"
-    },
-    {
-      "chainId": 4689,
-      "address": "0xcee948f1abbd247a5e41a88b28990db81ef00bdc",
-      "name": "ioTube Bridged WIFI (IoTeX)",
-      "symbol": "WIFI",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/33516/thumb/WIFI.jpg?1702120502"
     },
     {
       "chainId": 4689,
@@ -184,8 +176,8 @@
     }
   ],
   "version": {
-    "major": 10,
-    "minor": 1,
+    "major": 11,
+    "minor": 0,
     "patch": 0
   }
 }

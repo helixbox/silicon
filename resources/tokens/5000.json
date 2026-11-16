@@ -4,8 +4,16 @@
   "keywords": [
     "defi"
   ],
-  "timestamp": "2026-11-05T07:02:08.416+00:00",
+  "timestamp": "2026-11-12T11:03:09.747+00:00",
   "tokens": [
+    {
+      "chainId": 5000,
+      "address": "0x78c1b0c915c4faa5fffa6cabf0219da63d7f4cb8",
+      "name": "Wrapped Mantle",
+      "symbol": "WMNT",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/30983/thumb/mantle.jpeg?1696529822"
+    },
     {
       "chainId": 5000,
       "address": "0x671642ac281c760e34251d51bc9eef27026f3b7a",
@@ -13,14 +21,6 @@
       "symbol": "MI4",
       "decimals": 6,
       "logoURI": "https://assets.coingecko.com/coins/images/66570/thumb/mi4.png?1749795929"
-    },
-    {
-      "chainId": 5000,
-      "address": "0xdeaddeaddeaddeaddeaddeaddeaddeaddead1111",
-      "name": "Mantle Bridged WETH (Mantle)",
-      "symbol": "WETH",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/31013/thumb/weth_2.jpg?1758795984"
     },
     {
       "chainId": 5000,
@@ -32,22 +32,6 @@
     },
     {
       "chainId": 5000,
-      "address": "0x4515a45337f461a11ff0fe8abf3c606ae5dc00c9",
-      "name": "MOE",
-      "symbol": "MOE",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/34422/thumb/MOE.png?1704821927"
-    },
-    {
-      "chainId": 5000,
-      "address": "0x78c1b0c915c4faa5fffa6cabf0219da63d7f4cb8",
-      "name": "Wrapped Mantle",
-      "symbol": "WMNT",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/30983/thumb/mantle.jpeg?1696529822"
-    },
-    {
-      "chainId": 5000,
       "address": "0xabbeed1d173541e0546b38b1c0394975be200000",
       "name": "Slash Vision Labs",
       "symbol": "SVL",
@@ -56,11 +40,19 @@
     },
     {
       "chainId": 5000,
-      "address": "0x26a6b0dcdcfb981362afa56d581e4a7dba3be140",
-      "name": "Puff The Dragon",
-      "symbol": "PUFF",
+      "address": "0x4515a45337f461a11ff0fe8abf3c606ae5dc00c9",
+      "name": "MOE",
+      "symbol": "MOE",
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/35950/thumb/photo_2024-03-11_10.18.27.jpeg?1710240090"
+      "logoURI": "https://assets.coingecko.com/coins/images/34422/thumb/MOE.png?1704821927"
+    },
+    {
+      "chainId": 5000,
+      "address": "0xdeaddeaddeaddeaddeaddeaddeaddeaddead1111",
+      "name": "Mantle Bridged WETH (Mantle)",
+      "symbol": "WETH",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/31013/thumb/weth_2.jpg?1758795984"
     },
     {
       "chainId": 5000,
@@ -261,14 +253,6 @@
       "symbol": "USDLR",
       "decimals": 6,
       "logoURI": "https://assets.coingecko.com/coins/images/33115/thumb/0x68592c5c98c4f4a8a4bc6da2121e65da3d1c0917.png?1700731571"
-    },
-    {
-      "chainId": 5000,
-      "address": "0x872952d3c1caf944852c5adda65633f1ef218a26",
-      "name": "Reddex",
-      "symbol": "LQDX",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/33627/thumb/reddex.jpg?1725950677"
     },
     {
       "chainId": 5000,
@@ -6403,8 +6387,8 @@
     }
   ],
   "version": {
-    "major": 32,
-    "minor": 2,
+    "major": 33,
+    "minor": 0,
     "patch": 0
   }
 }
